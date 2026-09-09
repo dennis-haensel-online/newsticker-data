@@ -4,12 +4,14 @@
 #   paywall = 1, wenn der verlinkte Volltext meist hinter der Bezahlschranke liegt
 #             (Titel + Anriss kommen frei aus dem Feed -> im Ticker mit 🔒 markiert)
 # Zeilen mit # sind Kommentare. Nur verifiziert erreichbare Feeds (Stand 2026-09-09).
+# Reihenfolge grob links -> rechts (nur zur Übersicht; funktional ohne Bedeutung).
 
-tagesschau   | https://www.tagesschau.de/wirtschaft/index~rss2.xml            | 0
-ZDF          | https://www.zdf.de/rss/zdf/nachrichten                          | 0
-SPIEGEL      | https://www.spiegel.de/wirtschaft/index.rss                     | 0
-FOCUS        | https://rss.focus.de/finanzen/                                  | 0
-ZEIT         | https://newsfeed.zeit.de/wirtschaft/index                       | 1
-FAZ          | https://www.faz.net/rss/aktuell/wirtschaft/                     | 1
-SZ           | https://rss.sueddeutsche.de/rss/Wirtschaft                      | 1
-Handelsblatt | https://www.handelsblatt.com/contentexport/feed/schlagzeilen    | 1
+taz          | https://taz.de/!p4608;rss/                                       | 0
+SPIEGEL      | https://www.spiegel.de/wirtschaft/index.rss                      | 0
+SZ           | https://rss.sueddeutsche.de/rss/Wirtschaft                       | 1
+ZEIT         | https://newsfeed.zeit.de/wirtschaft/index                        | 1
+tagesschau   | https://www.tagesschau.de/wirtschaft/index~rss2.xml              | 0
+ZDF          | https://www.zdf.de/rss/zdf/nachrichten                           | 0
+FAZ          | https://www.faz.net/rss/aktuell/wirtschaft/                      | 1
+Handelsblatt | https://www.handelsblatt.com/contentexport/feed/schlagzeilen     | 1
+WiWo         | https://www.wiwo.de/contentexport/feed/rss/schlagzeilen          | 1

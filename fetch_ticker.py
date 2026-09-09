@@ -172,12 +172,15 @@ def main():
         print(f"  ! {n}: {err}", file=sys.stderr)
 
     # Pro BPE eine gefilterte Datei schreiben.
+    known = {label for label, _url, _pw in sources}   # entfernte Quellen sofort raus
     for bpe, spec in config.items():
         pos = build_matchers(spec.get("keywords", []))
         neg = build_matchers(spec.get("negative", []))
         maxn = int(spec.get("max", 12))
         hits = []
         for it in items:
+            if it.get("label") not in known:
+                continue
             hay = (it.get("title", "") + " " + it.get("summary", "")).lower()
             if neg and any(p.search(hay) for p in neg):
                 continue
