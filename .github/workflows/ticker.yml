@@ -1,0 +1,45 @@
+# >>> Diese Datei im Repo unter  .github/workflows/ticker.yml  ablegen! <<<
+# (Der Dateiname/-pfad ist entscheidend — GitHub sucht Workflows nur dort.)
+#
+# Holt stündlich die Feeds und schreibt die ticker-bpe*.json zurück ins Repo.
+name: news-ticker
+
+on:
+  schedule:
+    - cron: "0 * * * *"          # stündlich (UTC); Minimum ~5 Min, Verzögerung möglich
+  workflow_dispatch: {}           # Knopf "Run workflow" im Actions-Reiter
+  push:
+    paths:                        # bei Konfig-Änderung sofort neu bauen
+      - "feeds.txt"
+      - "ticker-config.json"
+      - "fetch_ticker.py"
+      - ".github/workflows/ticker.yml"
+
+permissions:
+  contents: write                 # der Job darf die JSON zurückschreiben
+
+concurrency:
+  group: news-ticker
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser requests
+      - run: python fetch_ticker.py
+      - name: commit & push
+        run: |
+          git config user.name  "ticker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "keine Änderung — nichts zu committen"
+          else
+            git commit -m "ticker update $(date -u +%FT%TZ)"
+            git push
+          fi
