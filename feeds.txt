@@ -1,0 +1,15 @@
+# Feed-Liste für fetch_ticker.py
+# Format je Zeile:  label | feed-url | paywall(0/1)
+#   label   = Kurzname fürs Badge im Ticker
+#   paywall = 1, wenn der verlinkte Volltext meist hinter der Bezahlschranke liegt
+#             (Titel + Anriss kommen frei aus dem Feed -> im Ticker mit 🔒 markiert)
+# Zeilen mit # sind Kommentare. Nur verifiziert erreichbare Feeds (Stand 2026-09-09).
+
+tagesschau   | https://www.tagesschau.de/wirtschaft/index~rss2.xml            | 0
+ZDF          | https://www.zdf.de/rss/zdf/nachrichten                          | 0
+SPIEGEL      | https://www.spiegel.de/wirtschaft/index.rss                     | 0
+FOCUS        | https://rss.focus.de/finanzen/                                  | 0
+ZEIT         | https://newsfeed.zeit.de/wirtschaft/index                       | 1
+FAZ          | https://www.faz.net/rss/aktuell/wirtschaft/                     | 1
+SZ           | https://rss.sueddeutsche.de/rss/Wirtschaft                      | 1
+Handelsblatt | https://www.handelsblatt.com/contentexport/feed/schlagzeilen    | 1
