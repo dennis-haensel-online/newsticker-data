@@ -1,15 +1,15 @@
 {
  "bpe": "19",
- "updated": "2026-09-09T21:04:03.260793+00:00",
+ "updated": "2026-09-09T21:54:09.407523+00:00",
  "items": [
   {
-   "label": "FOCUS",
-   "title": "„Es gilt als so gut wie sicher”: Experten sehen EZB-Zinserhöhung kommen – So sollten Sparer reagieren",
-   "summary": "Die nächste Zinserhöhung der EZB scheint sicher. Für Sparer ist das eine Chance, für Bauwillige ein Risiko.",
-   "link": "https://www.focus.de/finanzen/es-gilt-als-so-gut-wie-sicher-experten-sehen-ezb-zinserhoehung-kommen-so-sollten-sparer-reagieren_a0904fe0-8054-4517-97d5-151c34d8d0aa.html",
-   "published": "2026-09-09T16:28:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
+   "label": "WiWo",
+   "title": "Inflation: EZB steht vor der nächsten Zinserhöhung",
+   "summary": "Der Iran-Krieg heizt die Teuerung an. Die EZB dürfte mit einer weiteren Zinserhöhung auf die gestiegene Inflation im Euroraum reagieren.",
+   "link": "https://www.wiwo.de/politik/konjunktur/zinsentscheid-ezb-steht-vor-der-naechsten-zinserhoehung/100253362.html",
+   "published": "2026-09-09T17:29:11+00:00",
+   "first_seen": "2026-09-09T21:54:09.407523+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -57,30 +57,12 @@
    "paywall": true
   },
   {
-   "label": "FOCUS",
-   "title": "4 Banken mit bis zu 4,25 Prozent, 11 mit über 3,5 Prozent: Sparer haben die Qual der Wahl",
-   "summary": "Banken locken mit bis zu 4,25 Prozent Tagesgeldzins. Worauf Sparer jetzt achten sollten – und was die EZB-Sitzung ändern könnte.",
-   "link": "https://www.focus.de/finanzen/boerse/4-banken-mit-bis-zu-4-25-prozent-11-mit-ueber-3-5-prozent-sparer-haben-die-qual-der-wahl_e333f9f2-eade-49cd-b7ba-3f03ec034d32.html",
-   "published": "2026-09-09T07:37:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "China pumpt über 45 Milliarden Euro in Staatsbanken und Versicherer bei nachlassendem Wachstum",
-   "summary": "Chinas Regierung pumpt Milliarden in Banken und Versicherer. Das soll Kredite sichern und Risiken abfedern.",
-   "link": "https://www.focus.de/finanzen/china-pumpt-ueber-45-milliarden-euro-in-staatsbanken-und-versicherer-bei-nachlassendem-wachstum_57ed8511-6288-488f-9ed2-288c5dd6e121.html",
-   "published": "2026-09-09T05:03:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Ihr Geld-Fahrplan für die letzten Monate des Jahres",
-   "summary": "Ölpreis, Inflation und Zinsen steigen. Diese fünf Geldentscheidungen sind jetzt bei Tagesgeld, Depot, Anleihen und Krediten wichtig.",
-   "link": "https://www.focus.de/finanzen/boerse/ihr-geld-fahrplan-fuer-die-letzten-monate-des-jahres_0f238273-80fe-481d-94cf-29041387b887.html",
-   "published": "2026-09-08T09:02:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
+   "label": "taz",
+   "title": "Industrieproduktion: Chinas Autobranche ist außen hui, innen pfui",
+   "summary": "Die Fahrzeugexporte steigen, die Inlandsverkäufe brechen ein. Die Autobranche zeigt das Dilemma des chinesischen Wachstumsmodells deutlich. mehr...",
+   "link": "https://taz.de/Industrieproduktion/!6211362/",
+   "published": "2026-09-08T17:54:00+00:00",
+   "first_seen": "2026-09-09T21:54:09.407523+00:00",
    "paywall": false
   },
   {
@@ -93,22 +75,22 @@
    "paywall": true
   },
   {
-   "label": "FOCUS",
-   "title": "Ifo-Chef Fuest warnt vor Länderfinanzausgleich: Wahl in Sachsen-Anhalt droht teuer zu werden",
-   "summary": "Sachsen-Anhalt hängt mit Milliarden am bundesweiten Finanzausgleich. Ifo-Chef Clemens Fuest fordert eine Reform, wenn die Politik eines Landes dessen Wirtschaft schwächt.",
-   "link": "https://www.focus.de/finanzen/news/ifo-chef-fuest-warnt-wahl-in-sachsen-anhalt-droht-teuer-zu-werden_3575dcd3-183b-4036-ae6d-02034df2745a.html",
-   "published": "2026-09-08T04:52:00+00:00",
+   "label": "tagesschau",
+   "title": "Babyboomer gehen in Rente: Das bremst Deutschlands Wachstum",
+   "summary": "Bis 2040 gehen 30 Prozent der Erwerbspersonen in Deutschland in Rente. Das kostet Wachstum, wenn Politik und Unternehmen nicht gegensteuern. KI könnte helfen - ist aber nur ein Teil der Antwort. Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/babyboomer-rente-deutschland-wachstum-100.html",
+   "published": "2026-09-05T02:59:52+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": false
   },
   {
-   "label": "FOCUS",
-   "title": "Die Europäische Zentralbank sucht neues Euroschein-Design – jetzt können Verbraucher mitentscheiden, wie es aussieht",
-   "summary": "Verbraucher sollen über die Zukunft der neuen Euroschein-Designs mitentscheiden. Die EZB gibt ihnen bis 21. September Zeit. So funktioniert es.",
-   "link": "https://www.focus.de/finanzen/die-europaeische-zentralbank-will-neue-euroscheine-drucken-bis-ende-2026-koennen-verbraucher-mitentscheiden-wie-diese-aussehen_ec0f59fc-62e6-4b95-b790-58ce9d6d8f4b.html",
-   "published": "2026-09-07T21:36:00+00:00",
+   "label": "FAZ",
+   "title": "Abbau von Vollzeitstellen: Teilzeitarbeit auf Rekordstand",
+   "summary": "Teilzeit boomt, Vollzeit schrumpft, weil sich der Arbeitsmarkt verändert. Welche Branchen sind vor allem betroffen?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/teilzeitarbeit-in-deutschland-iab-meldet-rekordstand-accg-201179194.html",
+   "published": "2026-09-01T12:00:53+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
+   "paywall": true
   }
  ]
 }
