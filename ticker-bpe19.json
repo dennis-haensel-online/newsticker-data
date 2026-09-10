@@ -1,7 +1,25 @@
 {
  "bpe": "19",
- "updated": "2026-09-10T04:03:59.400665+00:00",
+ "updated": "2026-09-10T05:03:52.985310+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Gefühle statt Fakten und laute Hosentaschen",
+   "summary": "Die AfD lädt zum Wirtschaftsgipfel, die EZB erhöht (vermutlich) die Zinsen und in den Hand- und Hosentaschen wird es laut.",
+   "link": "https://www.zdfheute.de/briefing/wahl-warntag-kunz-zdfheute-update-100.html",
+   "published": "2026-09-10T04:37:00+00:00",
+   "first_seen": "2026-09-10T05:03:52.985310+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Börse am 10. September: Sieben Punkte, die für Anleger heute wichtig sind",
+   "summary": "Der Dax gerät wegen des steigenden Ölpreises weiter unter Druck. Anleger blicken nun auf den EZB-Zinsentscheid und wichtige US-Konjunkturdaten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+   "published": "2026-09-10T04:16:53+00:00",
+   "first_seen": "2026-09-10T05:03:52.985310+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "EZB-Zinssitzung: Sind Leitzinsen von drei Prozent wirklich realistisch?",
