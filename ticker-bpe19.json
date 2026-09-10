@@ -1,7 +1,70 @@
 {
  "bpe": "19",
- "updated": "2026-09-10T06:05:43.605224+00:00",
+ "updated": "2026-09-10T07:05:25.894025+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Energiepreise treiben Inflation an die Drei-Prozent-Marke",
+   "summary": "Nach dem Auslaufen des vom Staat verordneten Tankrabatts schlagen die Verwerfungen an den Ölmärkten voll auf die Preise durch. Die Inflationsrate könnte sogar noch weiter steigen.",
+   "link": "https://www.spiegel.de/wirtschaft/energiepreise-treiben-inflation-an-die-drei-prozent-marke-a-c2ba33d5-84ac-46d4-8e0b-92598277c5df#ref=rss",
+   "published": "2026-09-10T06:55:00+00:00",
+   "first_seen": "2026-09-10T07:05:25.894025+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Verbraucherpreise: Inflationsrate steigt im August auf 2,9 Prozent",
+   "summary": "Hohe Energiepreise haben die Inflationsrate in Deutschland knapp an die Drei-Prozent-Marke getrieben. Auch in den nächsten Monaten erwarten Ökonomen keine Entspannung.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/inflation-deutschland-energiepreise-verbraucherpreise-irankrieg",
+   "published": "2026-09-10T06:51:43+00:00",
+   "first_seen": "2026-09-10T07:05:25.894025+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Die zu einfachen Lehren aus Sachsen-Anhalt",
+   "summary": "AfD-Wähler sind keine homogene Gruppe. Zurückholen lassen sich vor allem jene, die am Reformstau verzweifeln. Dafür muss die Politik handeln, mahnt die Wirtschaftsweise Veronika Grimm.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-die-zu-einfachen-lehren-aus-sachsen-anhalt/100251503.html",
+   "published": "2026-09-10T06:37:00+00:00",
+   "first_seen": "2026-09-10T07:05:25.894025+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-vermoegend-sind-sie-im-vergleich-zum-rest-der-deutschen/100149729.html",
+   "published": "2026-09-10T06:27:00+00:00",
+   "first_seen": "2026-09-10T07:05:25.894025+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Verbraucherpreise: Teure Energie treibt Inflation an die Drei-Prozent-Marke",
+   "summary": "Der Iran-Krieg hat Tanken und Heizen erheblich verteuert. Mit dem Tankrabatt ist es vorerst vorbei. Die Inflationsrate könnte noch weiter steigen.",
+   "link": "https://www.wiwo.de/politik/konjunktur/iran-krieg-teure-energie-treibt-inflation-an-die-drei-prozent-marke/100253445.html",
+   "published": "2026-09-10T06:26:45+00:00",
+   "first_seen": "2026-09-10T07:05:25.894025+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Verbraucherpreise: Teure Energie treibt Inflation an die Drei-Prozent-Marke",
+   "summary": "Der Iran-Krieg hat Tanken und Heizen verteuert. Mit der vom Staat verordneten Entlastung an deutschen Tankstellen ist es vorerst vorbei. Die Inflationsrate könnte noch weiter steigen.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/verbraucherpreise-teure-energie-treibt-inflation-an-die-drei-prozent-marke/100253443.html",
+   "published": "2026-09-10T06:22:21+00:00",
+   "first_seen": "2026-09-10T07:05:25.894025+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Verbraucherpreise: Teure Energie treibt Inflation an die Drei-Prozent-Marke",
+   "summary": "Der Iran-Krieg hat Tanken und Heizen erheblich verteuert. Mit der vom Staat verordneten Entlastung an Deutschlands Tankstellen ist es vorerst vorbei. Die Inflationsrate könnte noch weiter steigen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/verbraucherpreise-teure-energie-treibt-inflation-an-die-drei-prozent-marke/100253444.html",
+   "published": "2026-09-10T06:09:51+00:00",
+   "first_seen": "2026-09-10T07:05:25.894025+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
