@@ -1,7 +1,25 @@
 {
  "bpe": "19",
- "updated": "2026-09-10T13:04:11.034345+00:00",
+ "updated": "2026-09-10T14:03:59.737535+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: EZB erhöht Zinsen wegen Inflationsschub weiter",
+   "summary": "Der Iran-Krieg treibt die Preise fürs Tanken und Heizen hoch. Die EZB reagiert mit einer weiteren Zinserhöhung auf die gestiegene Inflation. Das hat Folgen für Sparer, Kreditnehmer und Firmen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/geldpolitik-ezb-erhoeht-zinsen-wegen-inflationsschub-weiter/100253595.html",
+   "published": "2026-09-10T13:33:14+00:00",
+   "first_seen": "2026-09-10T14:03:59.737535+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Zentralbank hebt Zinsen an: EZB bremst für niedrigere Inflation das Wachstum",
+   "summary": "Um die Inflation zu senken, hebt die EZB die Zinsen an. Der Schritt hat negative Folgen für Verbraucher*innen, Unternehmen und die öffentliche Hand. mehr...",
+   "link": "https://taz.de/Zentralbank-hebt-Zinsen-an/!6212184/",
+   "published": "2026-09-10T13:21:00+00:00",
+   "first_seen": "2026-09-10T14:03:59.737535+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Inflation: EZB erhöht Leitzins auf 2,50 Prozent",
@@ -9,6 +27,15 @@
    "link": "https://www.wiwo.de/politik/konjunktur/zinsentscheid-ezb-erhoeht-leitzins-auf-250-prozent/100253362.html",
    "published": "2026-09-10T12:59:00+00:00",
    "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Inflation: EZB erhöht Leitzins auf 2,50 Prozent",
+   "summary": "Die Europäische Zentralbank reagiert mit einer weiteren Zinserhöhung auf die gestiegene Inflation. Das hat Folgen für Sparer, Kreditnehmer und Firmen.",
+   "link": "https://www.wiwo.de/politik/konjunktur/zinsentscheid-ezb-erhoeht-leitzins-auf-250-prozent-wegen-inflation/100253362.html",
+   "published": "2026-09-10T12:59:00+00:00",
+   "first_seen": "2026-09-10T14:03:59.737535+00:00",
    "paywall": true
   },
   {
@@ -30,12 +57,30 @@
    "paywall": true
   },
   {
+   "label": "WiWo",
+   "title": "Verteidigungsausgaben: Hat das Finanzministerium bei der Schuldenbremse getrickst?",
+   "summary": "Das ifo-Institut wirft dem Bund vor, die gelockerte Schuldenbremse für die Bundeswehr zweckzuentfremden. Das Ressort von Lars Klingbeil kontert ungewohnt deutlich.",
+   "link": "https://www.wiwo.de/politik/deutschland/sondervermoegen-hat-das-finanzministerium-bei-der-schuldenbremse-getrickst/100253548.html",
+   "published": "2026-09-10T12:51:38+00:00",
+   "first_seen": "2026-09-10T14:03:59.737535+00:00",
+   "paywall": true
+  },
+  {
    "label": "ZEIT",
    "title": "Inflation: Europäische Zentralbank erhöht Leitzins auf 2,5 Prozent",
    "summary": "Angesichts der hohen Inflation hat die EZB den Leitzins von 2,25 auf 2,5 Prozent angehoben. Es ist bereits die zweite Erhöhung in diesem Jahr.",
    "link": "https://www.zeit.de/wirtschaft/2026-09/europaeische-zentralbank-erhoeht-leitzins-auf-2-50-prozent",
    "published": "2026-09-10T12:43:27+00:00",
    "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Inflation: Europäische Zentralbank erhöht Leitzins auf 2,5 Prozent",
+   "summary": "Angesichts der hohen Inflation hat die EZB den Leitzins von 2,25 auf 2,5 Prozent angehoben. Es ist bereits die zweite Erhöhung in diesem Jahr.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/europaeische-zentralbank-erhoeht-leitzins-auf-2-50-prozent-gxe",
+   "published": "2026-09-10T12:43:27+00:00",
+   "first_seen": "2026-09-10T14:03:59.737535+00:00",
    "paywall": true
   },
   {
