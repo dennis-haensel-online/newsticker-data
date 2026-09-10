@@ -1,6 +1,483 @@
 {
- "updated": "2026-09-10T12:05:24.294094+00:00",
+ "updated": "2026-09-10T13:04:11.034345+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Inflation: EZB erhöht Leitzins auf 2,50 Prozent",
+   "summary": "Die Europäische Zentralbank reagiert mit einer weiteren Zinserhöhung auf die gestiegene Inflation. Das hat Folgen für Sparer, Kreditnehmer und Firmen.",
+   "link": "https://www.wiwo.de/politik/konjunktur/zinsentscheid-ezb-erhoeht-leitzins-auf-250-prozent/100253362.html",
+   "published": "2026-09-10T12:59:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Volkswagen: „Alternative Gewerkschaft“: AfD-naher Verein Zentrum will bei VW-Aufsichtsratswahl antreten",
+   "summary": "Gerade erst hat die IG Metall ihre Kandidaten bekannt gegeben. Nun fordert erstmals auch eine politisch rechts verortete Arbeitnehmergruppe einen Platz auf der VW-Arbeitnehmerbank.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-afd-naher-verein-zentrum-will-bei-vw-aufsichtsratswahl-antreten/100253447.html",
+   "published": "2026-09-10T12:54:40+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Konjunktur: US-Erzeugerpreise steigen im August",
+   "summary": "Die US-Erzeugerpreise stiegen im August um 0,4 Prozent. Die Daten nähren Zweifel an einer schnellen Zinssenkung der Fed und schüren Inflationssorgen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/us-konjunktur-us-erzeugerpreise-steigen-im-august/100253602.html",
+   "published": "2026-09-10T12:53:50+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Reformdebatte: Was kostet die umstrittene „Rente mit 63“?",
+   "summary": "Nach der Landtagswahl in Sachsen-Anhalt ist die Debatte um die abschlagsfreie Frührente wieder aufgekommen. Jetzt zeigt eine Berechnung, wie stark Beschäftigte und Steuerzahler das Modell subventionieren.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/rentenreform-rente-mit-63-merz-spd-neue-rechnung-li.3545263",
+   "published": "2026-09-10T12:53:11+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Reden wir über Geld: „Ich habe mich geschämt, dass meine Familie mit Gold Geld verdient hat“",
+   "summary": "Guya Merkle ist Schmuckunternehmerin und will die Bedingungen in den Goldminen verbessern. Ein Gespräch über das Scheitern – und die Frage, ob man für Schmuck noch echtes Gold braucht.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/goldabbau-schmuckindustrie-herausforderungen-ethik-berlin-li.3532681",
+   "published": "2026-09-10T12:53:01+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Bundesregierung: Ein tiefblauer Schatten legt sich über Friedrich Merz",
+   "summary": "Der AfD-Wahltriumph in Sachsen-Anhalt stürzt den Kanzler in eine tiefe Krise. Selbst in der CDU wachsen die Zweifel.",
+   "link": "https://www.wiwo.de/politik/deutschland/nach-sachsen-anhalt-wahl-geraet-kanzler-friedrich-merz-ins-wanken/100253353.html",
+   "published": "2026-09-10T12:52:03+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Industriepolitik: Industriepolitik beginnt im Rathaus",
+   "summary": "Um ihre industrielle Basis zu bewahren, brauchen die Europäer eine Strategie, die Nachfrage stärker lenkt – vor allem, wenn der Staat Geld ausgibt. Die Reform des EU-Vergaberechts leistet genau das.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/eu-reform-beschaffung-wirtschaft-li.3544799",
+   "published": "2026-09-10T12:51:48+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Verteidigungsausgaben: Hat das Finanzministerium bei der Schuldenbremse getrickst?",
+   "summary": "Das ifo-Institut wirft dem Bund vor, die gelockerte Schuldenbremse für die Bundeswehr zweckzuentfremden. Das Ressort von Lars Klingbeil kontert ungewohnt deutlich.",
+   "link": "https://www.wiwo.de/politik/deutschland/verteidigungsausgaben-hat-das-finanzministerium-bei-der-schuldenbremse-getrickst/100253548.html",
+   "published": "2026-09-10T12:51:38+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Der Steuerzahler wird ausgequetscht wie eine Zitrone",
+   "summary": "Die Steuerpolitik der Union erinnert mehr an Kabarett als an seriöses Regierungshandeln. Statt die Steuern zu senken, werden neue erfunden. Den Preis bezahlt die Partei an der Wahlurne.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-steuerzahler-wird-ausgequetscht-wie-eine-zitrone/100253456.html",
+   "published": "2026-09-10T12:50:53+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Inflation: Europäische Zentralbank erhöht Leitzins auf 2,5 Prozent",
+   "summary": "Angesichts der hohen Inflation hat die EZB den Leitzins von 2,25 auf 2,5 Prozent angehoben. Es ist bereits die zweite Erhöhung in diesem Jahr.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/europaeische-zentralbank-erhoeht-leitzins-auf-2-50-prozent",
+   "published": "2026-09-10T12:43:27+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Für Abbau und Schließungen: Bericht: Sparpläne könnten Volkswagen Milliarden kosten",
+   "summary": "Volkswagen steht vor einem tiefgreifenden Umbau. Geplant ist ein weiterer Stellenabbau - und möglicherweise Werksschließungen. Aber bevor VW so Milliarden spart, dürfte es erst einmal teuer werden.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/fuer-abbau-und-schliessungen-bericht-sparplaene-koennten-volkswagen-milliarden-kosten/100253600.html",
+   "published": "2026-09-10T12:43:03+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: EZB erhöht Leitzinsen und setzt Anleihemärkte noch mehr unter Druck",
+   "summary": "Die Europäische Zentralbank reagiert erneut auf die Folgen des Ölpreisschocks. Investoren erwarten mehr – was sich immer deutlicher in steigenden Bondrenditen niederschlägt.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-zinsentscheid-leitzins-im-euro-raum-steigt-auf-25-prozent/100252594.html",
+   "published": "2026-09-10T12:40:53+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
+   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/robotik-ki-ist-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
+   "published": "2026-09-10T12:39:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Steuerskandal: Hamburg übernimmt den Cum-Ex-Fall HSH Nordbank",
+   "summary": "Vor zwölf Jahren hat die Landesbank ihre Cum-Ex-Geschäfte offengelegt. Jetzt ermitteln erstmals Hamburger Staatsanwälte. Die Zeit arbeitet für die Beschuldigten.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/cum-ex-skandal-hamburg-uebernimmt-den-fall-hsh-nordbank/100253371.html",
+   "published": "2026-09-10T12:38:40+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung: „Die besten Chefs sind Meister der strategischen Natürlichkeit“",
+   "summary": "Das Ideal „Sei ganz du selbst im Job“ ist riskant, sagt Wirtschaftspsychologe Tomas Chamorro-Premuzic. So setzen gute Chefs Emotionen gezielt ein.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-warum-manager-nicht-immer-authentisch-sein-sollten/100229671.html",
+   "published": "2026-09-10T12:38:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Grußkarten: Handgeschriebene Grüße im KI-Zeitalter –  funktioniert das?",
+   "summary": "WhatsApp verdrängt die Urlaubskarte, das Postkartengeschäft schrumpft. Könnten auch Grußkarten passé sein? Zwei Verleger glauben an das Gegenteil und wollen ihren Umsatz verdreifachen.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/ki-diese-zwei-verleger-glauben-weiterhin-an-den-erfolg-mit-der-grusskarte/100242189.html",
+   "published": "2026-09-10T12:37:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Immobilien: Mit diesen Tricks verdrängen Eigentümer ihre Mieter",
+   "summary": "Die Stadt Frankfurt hat ein bundesweit einmaliges Konstrukt geschaffen: Mit der Stabsstelle Mieterschutz berät sie bedrohte Hausgemeinschaften gegen teils perfide Methoden von Eigentümern.",
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-mieter-sich-vor-tricks-der-eigentuemer-schuetzen/100222140.html",
+   "published": "2026-09-10T12:37:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Neue Verhandlungen im Fall von Marius Borg Høiby",
+   "summary": "Der Fall Marius Borg Høiby geht wieder vor Gericht: Seine Berufung gegen das Urteil wegen Vergewaltigung und weiterer Straftaten wurde zugelassen.",
+   "link": "https://www.zdfheute.de/panorama/marius-hoiby-norwegen-royals-koenigin-mette-marit-100.html",
+   "published": "2026-09-10T12:36:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahl: Was Sie zur Landtagswahl in Mecklenburg-Vorpommern wissen sollten",
+   "summary": "Am 20. September 2026 wird in Mecklenburg-Vorpommern der Landtag gewählt. Der Wahl-O-Mat zeigt Ihnen, welche Partei am ehesten Ihre Interessen vertritt. Welche Wahl-Tools gibt es noch?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahl-mecklenburg-vorpommern-welche-partei-vertritt-ihre-interessen-am-besten/100247936.html",
+   "published": "2026-09-10T12:36:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Daimler Truck investiert in großem Stil in Wasserstoff-Technologie",
+   "summary": "Daimler Truck investiert mehrere Hundert Millionen Euro in Wasserstoff-Technologie für Lkw. Allerdings fährt der DAX-Konzern zweigleisig - auch die E-Technologie bleibt eine Option. Insgesamt soll die Klimabilanz verbessert werden.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
+   "published": "2026-09-10T12:35:48+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Teuerung: „Furcht vor abermals wegbrechenden Einkommen“: I-Index zeigt Inflationsangst der Deutschen",
+   "summary": "Nach dem Iran-Schock fürchten die Deutschen die Inflation weiter, zeigen neue Daten des exklusiven Frühwarnsystems I-Index. Das hat auch die Wahlen wie in Sachsen-Anhalt beeinflusst.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/teuerung-i-index-zeigt-grassierende-inflationsangst-der-deutschen/100253332.html",
+   "published": "2026-09-10T12:35:15+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Apples neuer Chef zeichnet einen neuen Kurs – mit einem Haken",
+   "summary": "Der Apple-Chef verspricht bei seinem ersten Auftritt: Daten bleiben auf dem Gerät, landen nicht auf fremden Servern. Wie tragfähig das ist, zeigt sich an einer Stelle, die Ternus nicht erwähnt.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-apples-neuer-chef-zeichnet-einen-neuen-kurs-mit-einem-haken/100253034.html",
+   "published": "2026-09-10T12:35:05+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Etat für Landwirtschaft, Ernährung und Heimat",
+   "summary": "Haushaltsdebatte zum Etat für Landwirtschaft, Ernährung und Heimat",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5231469",
+   "published": "2026-09-10T12:35:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahl-O-Mat: Welche Parteien bei der Berlin-Wahl 2026 am besten zu Ihnen passen",
+   "summary": "Am 20. September findet in Berlin die nächste Abgeordnetenhauswahl statt. Der Wahl-O-Mat zeigt Ihnen, welche Partei am ehesten Ihre Interessen vertritt. Welche Wahl-Tools gibt es noch?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-2026-was-sie-zur-abgeordnetenhauswahl-in-berlin-wissen-sollten/100246416.html",
+   "published": "2026-09-10T12:35:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kündigung: „Ich langweile mich zu Tode in meinem Job“ – Die Gefahr der inneren Kündigung",
+   "summary": "Aus Angst, nichts Neues zu finden, verharren viele bei ihrem Arbeitgeber, obwohl sie unzufrieden sind. Im schlimmsten Fall kündigen sie innerlich. Experten zeigen Auswege auf.",
+   "link": "https://www.handelsblatt.com/karriere/job-aus-welchen-gruenden-mitarbeiter-trotz-unzufriedenheit-nicht-kuendigen/100244699.html",
+   "published": "2026-09-10T12:34:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Machtkampf im Jemen: Huthi auf dem Vormarsch – neue Gefahr für die Schifffahrt?",
+   "summary": "Die Huthi haben eine strategisch wichtige Hafenstadt im Jemen erobert. Damit rückt die Miliz näher an eine der wichtigsten Schifffahrtsrouten der Welt. Droht eine weitere Eskalation im Iran-Krieg?",
+   "link": "https://www.handelsblatt.com/politik/international/machtkampf-im-jemen-huthi-auf-dem-vormarsch-neue-gefahr-fuer-die-schifffahrt/100253496.html",
+   "published": "2026-09-10T12:33:50+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Keine neue Jagdsaison: Island will keine Wale mehr fangen",
+   "summary": "Nur drei Länder auf der Welt gehen noch auf kommerziellen Walfang. Island will diesen nun mit einem angekündigten Gesetzentwurf beenden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/island-will-walfang-stoppen-ein-ende-der-jagd-auf-finnwale-201214418.html",
+   "published": "2026-09-10T12:32:11+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Pisa-Studie: Fack ju, Göthe!",
+   "summary": "Es war einmal eine Bildungsrepublik. Davon ist nicht mal mehr der Anspruch übrig – ein Armutszeugnis. Ein Kommentar.",
+   "link": "https://www.wiwo.de/politik/deutschland/pisa-studie-2026-warum-deutschland-am-falschen-ende-spart/100253356.html",
+   "published": "2026-09-10T12:29:43+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: Jetzt live: EZB-Chefin Lagarde erklärt die Zinserhöhung",
+   "summary": "Die EZB erhöht zum zweiten Mal in diesem Jahr die Zinsen im Euro-Raum. Verfolgen Sie die wichtigsten Aussagen von Präsidentin Lagarde im Liveblog.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-jetzt-live-ezb-chefin-lagarde-erklaert-die-zinserhoehung/100253567.html",
+   "published": "2026-09-10T12:29:38+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Brazilian Waxing: Landing Strip",
+   "summary": "Auf einer Liege, nackt, unter kaltem Neonlicht und Schmerzen antizipierend, kann einem schon mal ein bisschen schwitzig werden. mehr...",
+   "link": "https://taz.de/Brazilian-Waxing/!6211319/",
+   "published": "2026-09-10T12:28:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Pharma: Das zweifelhafte Milliardengeschäft mit Frauen in den Wechseljahren",
+   "summary": "Investoren und Pharmafirmen stecken Milliarden in Produkte für Frauen in der Menopause. Dennoch fehlt es an wirksamen Therapien. Ein deutscher Anbieter profitiert.",
+   "link": "https://www.handelsblatt.com/technik/medizin/pharma-so-entwickelte-sich-die-menopause-bei-frauen-zu-einem-milliardenmarkt/100247911.html",
+   "published": "2026-09-10T12:27:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Geld ohne Arbeit: Mit diesem Rechner planen Sie Ihr passives Einkommen",
+   "summary": "Länder-ETFs, Immobilien-ETFs oder gar Einzelaktien? Der neue Handelsblatt-Rechner ermöglicht Ihnen, Ihre Strategie für ein passives Einkommen zu finden.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-dieser-rechner-ermittelt-ihr-moegliches-passives-einkommen/100185344.html",
+   "published": "2026-09-10T12:26:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kindergesundheit: Paukenerguss bei Kindern: Wann Hörprobleme ernst werden",
+   "summary": "Die Flüssigkeitsansammlung hinter dem Trommelfell bleibt bei kleinen Kindern oft lange unbemerkt. Welche Anzeichen es gibt, warum ärztliche Abklärung wichtig ist - und wann eine OP nötig wird.",
+   "link": "https://www.handelsblatt.com/technik/medizin/kindergesundheit-paukenerguss-bei-kindern-wann-hoerprobleme-ernst-werden/100253594.html",
+   "published": "2026-09-10T12:25:14+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Zeitzeugin im Gespräch: „Sie merken, dass sie die falsche Wahl getroffen haben“",
+   "summary": "Angesichts des Wahlsieges der AfD in Sachsen-Anhalt erinnert sich die Zeitzeugin Henriette Kretz. Und warnt vor den Folgen von Rechtsextremismus. mehr...",
+   "link": "https://taz.de/Zeitzeugin-im-Gespraech/!6211538/",
+   "published": "2026-09-10T12:25:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rente: Bis zu 393.000 Euro extra möglich: Diese Zahlen zeigen, wie viel Kapitalrente Sie bekommen könnten",
+   "summary": "2028 soll die Kapitalrente starten. Das Handelsblatt hat für vier Altersgruppen mit verschiedenen Szenarien berechnet, wie viel Geld sich mit der Zusatzrente ansparen lässt.",
+   "link": "https://www.handelsblatt.com/finanzen/altersvorsorge-so-unterscheidet-sich-die-kapitalrente-je-nach-lebensalter/100235426.html",
+   "published": "2026-09-10T12:25:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "EZB-Zinsentscheid: Sind Leitzinsen von drei Prozent wirklich realistisch?",
+   "summary": "Die Europäische Zentralbank hebt die Zinsen wieder an. Die Finanzmärkte rechnen sogar mit weiteren Erhöhungen – doch sie könnten falsch liegen.",
+   "link": "https://www.wiwo.de/politik/europa/ezb-hebt-leitzins-an-sind-leitzinsen-von-drei-prozent-realistisch/100252140.html",
+   "published": "2026-09-10T12:25:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Wer den MSCI World kauft, schließt derzeit drei Wetten ab",
+   "summary": "Nach wie vor performt der Index MSCI World übers Jahr gesehen stark mit 20 Prozent Kursgewinn. Doch hinter der positiven Entwicklung könnten Probleme lauern.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etf-wie-risikofrei-ist-der-msci-world-aktuell/100244938.html",
+   "published": "2026-09-10T12:23:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Anschlagspläne: Polizei findet bei Strom-Saboteur Notizen mit 160 weiteren Zielen",
+   "summary": "Im Wohnmobil des mutmaßlichen Strom-Saboteurs wurde ein Notizbuch mit mehr als 160 möglichen Sabotagezielen entdeckt. Die Ermittler vermuten: Die Anschlagsserie wäre weitergegangen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/strom-saboteur-polizei-findet-notizen-mit-160-weiteren-zielen/100253584.html",
+   "published": "2026-09-10T12:22:56+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: EZB stemmt sich mit höheren Zinsen gegen Inflationsschub",
+   "summary": "Der Iran-Krieg treibt die Preise fürs Tanken und Heizen hoch. Die EZB reagiert mit einer weiteren Zinserhöhung auf die gestiegene Inflation. Das hat Folgen für Sparer, Kreditnehmer und Firmen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/geldpolitik-ezb-stemmt-sich-mit-hoeheren-zinsen-gegen-inflationsschub/100253595.html",
+   "published": "2026-09-10T12:22:47+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "EZB erhöht Leitzins auf 2,5 Prozent - was das bedeutet",
+   "summary": "Die Europäische Zentralbank bietet der hartnäckigen Inflation mit einem höheren Leitzins Paroli. Was die Entscheidung der Währungshüter bedeutet.",
+   "link": "https://www.zdfheute.de/wirtschaft/ezb-zinsentscheid-leitzins-finanzen-100.html",
+   "published": "2026-09-10T12:19:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Geldpolitik: EZB hebt Leitzins auf 2,5 Prozent an",
+   "summary": "Die Energiekrise treibt die Inflation in der Euro-Zone. Benzin und Diesel sind so teuer wie lange nicht. Daher sehen sich die Notenbanker zu einer Reaktion gezwungen. Sie wollen nicht wieder den gleichen Fehler machen wie 2022.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/leitzins-ezb-inflation-zinsentscheid-li.3544420",
+   "published": "2026-09-10T12:18:51+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Leipzig: Streit um Beweise für Russlands Schuld bei Sprengstoff-Drohne",
+   "summary": "Nach dem Drohnenfund am Flughafen Leipzig/Halle fordert die Koalition mehr Vertrauen in die Regierung – die Opposition verlangt dagegen Beweise für die Schuldzuweisung an Russland.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/leipzig-streit-um-beweise-fuer-russlands-schuld-bei-sprengstoff-drohne/100253586.html",
+   "published": "2026-09-10T12:18:24+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Höhere Zinsen - die Auswirkungen für Verbraucher und die Wirtschaft",
+   "summary": "Zum zweiten Mal in diesem Jahr heben Europas Währungshüter den Leitzins an. Was bedeutet das für Verbraucher und Firmen? Wie könnte es in der Geldpolitik weitergehen? Fragen und Antworten. Von Klaus-Rainer Jackisch.",
+   "link": "https://www.tagesschau.de/ezb-zinsen-114.html",
+   "published": "2026-09-10T12:16:55+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Europäische Zentralbank erhöht Leitzins um 0,25 Prozentpunkte",
+   "summary": "Um die Inflation zu bremsen, erhöht die Europäische Zentralbank den Leitzins vorsichtig um 0,25 Prozentpunkte auf nun 2,5 Prozent. Mit dem Schritt erfüllen die Zentralbanker die Erwartungen der Märkte.",
+   "link": "https://www.spiegel.de/wirtschaft/ezb-erhoeht-leitzinsen-um-0-25-prozentpunkte-a-1af4899b-e967-4ffe-b993-2ff5526f4ac8#ref=rss",
+   "published": "2026-09-10T12:16:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
+   "summary": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
+   "published": "2026-09-10T12:15:29+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Risiko Pflegeheim – wann Sie für Ihre Eltern zahlen müssen",
+   "summary": "Zahlt das Sozialamt das Pflegeheim, werden Kinder in Regress genommen. Doch die Rechte des Amts sind begrenzt und ein neues Urteil gibt für die Rückforderung von Geldschenkungen weniger Zeit.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-risiko-pflegeheim-wann-sie-fuer-ihre-eltern-zahlen-muessen/100246311.html",
+   "published": "2026-09-10T12:15:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Einzelplan Justiz und Verbraucherschutz",
+   "summary": "Haushaltsdebatte zum Etat für Justiz und Verbraucherschutz",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5231468",
+   "published": "2026-09-10T12:14:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Wer muss wie viel sparen im Gesundheitswesen?",
+   "summary": "Heute berät der Bundestag über den Gesundheits-Etat. Bei Kliniken, Arzneien oder auch Psychotherapeuten sollen nach dem Willen der Regierung Milliarden eingespart werden. Wen trifft es am härtesten? Von Petra Boberg.",
+   "link": "https://www.tagesschau.de/wirtschaft/krankenkassen-gesundheitsreform-einsparungen-100.html",
+   "published": "2026-09-10T12:06:13+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handel: „Wichtigste Geschäftschance“: AHK China widerspricht Pauschalkritik an Chinas Exportüberschuss",
+   "summary": "Ein aktuelles Papier der Auslandshandelskammer zeigt, wie deutsche Unternehmen chinesische bei der Auslandsexpansion unterstützen. Das steht im Kontrast zur Kritik aus Berlin und Brüssel.",
+   "link": "https://www.handelsblatt.com/politik/international/handel-ahk-china-widerspricht-pauschaler-kritik-an-chinas-exportueberschuss/100253109.html",
+   "published": "2026-09-10T12:05:44+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Umstrittene Studie: „Es werden Äpfel mit Birnen verglichen“",
+   "summary": "Das Ifo-Institut analysiert wieder einmal, welche Folgen die gelockerte Schuldenbremse in der Praxis hat. Das Bundesfinanzministerium hält dagegen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/bundesfinanzministerium-kritisiert-ifo-analyse-accg-201213530.html",
+   "published": "2026-09-10T12:05:01+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Steuererklärung 2025: 1230 Euro pauschal: Diese Werbungskosten senken die Steuerlast noch weiter",
+   "summary": "Ob Bücher oder Bahntickets – rund um den Job gibt es zahlreiche Möglichkeiten, Werbungskosten abzusetzen und so am Ende Steuern zu sparen. Ein Überblick.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-so-holen-arbeitnehmer-mit-werbungskosten-mehr-geld-vom-finanzamt-zurueck/100105891.html",
+   "published": "2026-09-10T12:05:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gehalt: Top-Verdiener in Deutschland: In diesen Berufen wird am besten bezahlt",
+   "summary": "Gehören Sie zu den absoluten Top-Verdienern in Deutschland? Eine exklusive Auswertung zeigt, welche Berufe an der Gehaltsspitze stehen.",
+   "link": "https://www.handelsblatt.com/karriere/gehalt-gehoeren-sie-zu-den-top-verdienern-in-deutschland/100201057.html",
+   "published": "2026-09-10T12:04:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "iPhone Duo: Apple stellt sein erstes faltbares Smartphone vor",
+   "summary": "Größtes iPhone-Display aller Zeiten bei taschentauglichem Format – doch auch der Preis setzt neue Maßstäbe: Die einfachste Version des „iPhone Duo“ wird für 1999 Dollar erhältlich sein.",
+   "link": "https://www.handelsblatt.com/video/unternehmen/iphone-duo-apple-stellt-sein-erstes-faltbares-smartphone-vor/100253541.html",
+   "published": "2026-09-10T12:03:31+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Generalsanierungen auf der Schiene: Baupläne der Deutschen Bahn verzögern sich um Jahre",
@@ -9,6 +486,15 @@
    "published": "2026-09-10T12:03:00+00:00",
    "first_seen": "2026-09-10T12:05:24.294094+00:00",
    "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Deutsche Bahn: Was Evelyn Palla bisher geschafft hat – und was nicht",
+   "summary": "Fast ein Jahr steht sie an der Spitze der Deutschen Bahn. Neben guten Zahlen gab es auch Tiefschläge. Jetzt muss Palla verkünden, dass die Sanierung des Schienennetzes länger dauern wird als geplant.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/bahn-berlin-sanierung-sicherheit-wettbewerb-ice-zukunft-li.3544801",
+   "published": "2026-09-10T12:01:37+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
   },
   {
    "label": "taz",
@@ -20,6 +506,24 @@
    "paywall": false
   },
   {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Merz lässt sich von der AfD in die Ecke drängen",
+   "summary": "Der Kanzler wehrt sich deutlich gegen die vor Kraft strotzende Alice Weidel. Aber er tritt der AfD-Erzählung des Untergangs nicht ausreichend entgegen.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-merz-laesst-sich-von-der-afd-in-die-ecke-draengen-01/100252661.html",
+   "published": "2026-09-10T12:00:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "STromnetzSicherheit: „Drohnenabwehr ist nicht die Aufgabe von Netzbetreibern“",
+   "summary": "Nach den jüngsten Angriffen auf Stromleitungen erklärt der Chef des betroffenen Netzbetreibers Amprion, warum die Bedrohung größer wird, was man dagegen tun könnte und wieso er nicht auf Drohnen schießen will.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/drohnenabwehr-bei-stromnetzsabotage-amprion-chef-fuehlt-sich-nicht-dafuer-zustaendig-accg-201209240.html",
+   "published": "2026-09-10T11:58:57+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
    "label": "taz",
    "title": "Ermittlungen gegen Steffen Krach: Eine Spende für erfolglose Einflussnahme?",
    "summary": "Wegen Bestechungsvorwürfen wurde am Mittwoch die Wohnung von Steffen Krach (SPD) durchsucht. Die Vorgeschichte in Hannover ist ziemlich undurchsichtig. mehr...",
@@ -27,6 +531,24 @@
    "published": "2026-09-10T11:58:00+00:00",
    "first_seen": "2026-09-10T12:05:24.294094+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Veronika Grimm: Die zu einfachen Lehren aus Sachsen-Anhalt",
+   "summary": "AfD-Wähler sind keine homogene Gruppe. Zurückholen lassen sich vor allem jene, die am Reformstau verzweifeln. Dafür muss die Politik handeln, mahnt die Wirtschaftsweise Veronika Grimm.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-die-zu-einfachen-lehren-aus-sachsen-anhalt-01/100251503.html",
+   "published": "2026-09-10T11:58:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "AfD: Innenminister prüfen Schutz bestimmter Geheimdaten vor AfD",
+   "summary": "Noch ist die Regierungsbildung in Sachsen-Anhalt offen. Aber nach dem AfD-Wahlerfolg beraten nun die Innenminister über mögliche Konsequenzen für den Schutz wichtiger Informationen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/afd-innenminister-pruefen-schutz-bestimmter-geheimdaten-vor-afd/100253579.html",
+   "published": "2026-09-10T11:57:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": true
   },
   {
    "label": "taz",
@@ -62,6 +584,15 @@
    "link": "https://www.wiwo.de/politik/deutschland/strassenbau-zusaetzliche-investitionen-in-autobahnen-ab-2027-mit-privatem-kapital-geplant/100253569.html",
    "published": "2026-09-10T11:45:06+00:00",
    "first_seen": "2026-09-10T12:05:24.294094+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Straßenbau: Zusätzliche Investitionen in Autobahnen ab 2027 mit privatem Kapital geplant",
+   "summary": "Die Autobahn GmbH soll künftig Einnahmen aus der Lkw-Maut erhalten und Kredite aufnehmen. Eine Pkw-Maut soll es nicht geben.",
+   "link": "https://www.wiwo.de/politik/deutschland/zusaetzliche-investitionen-in-autobahnen-ab-2027-mit-privatem-kapital-geplant/100253569.html",
+   "published": "2026-09-10T11:45:06+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
    "paywall": true
   },
   {
@@ -297,6 +828,15 @@
    "published": "2026-09-10T11:02:41+00:00",
    "first_seen": "2026-09-10T12:05:24.294094+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Bahn-Chefin Palla kündigt weniger Korridorsanierungen pro Jahr an",
+   "summary": "Eigentlich sollten die sogenannten Korridorsanierungen bis 2036 abgeschlossen sein. Doch die Arbeiten werden nach Aussage von Bahn-Chefin Palla länger dauern. Vier große Sanierungen pro Jahr - wie bislang angestrebt - seien zu viel.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sanierung-palla-100.html",
+   "published": "2026-09-10T11:00:58+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -540,6 +1080,15 @@
    "published": "2026-09-10T10:01:00+00:00",
    "first_seen": "2026-09-10T11:04:29.857492+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Spahn entschuldigt sich: \"Ich war zu feige\"",
+   "summary": "Jens Spahn bittet in seinem NRW-Wahlkreis um Verzeihung: Er räumt Fehler im Umgang mit der Leihmutterschaft seines Kindes ein. Er wolle daran arbeiten, Vertrauen zurückzugewinnen.",
+   "link": "https://www.zdfheute.de/politik/deutschland/jens-spahn-entschuldigung-cdu-leihmutterschaft-100.html",
+   "published": "2026-09-10T10:00:39+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -4493,6 +5042,15 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "Für US-Präsident Trump \"steht einiges auf dem Spiel\"",
+   "summary": "Donald Trump steht bei den Midterms 2026 in den USA nicht zur Wahl. Doch es geht um die Mehrheit der Republikaner in Senat und Repräsentantenhaus - und damit auch um seine Macht.",
+   "link": "https://www.zdfheute.de/video/politik-midterms-usa-trump-100.html",
+   "published": "2026-09-09T13:00:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
+  },
+  {
    "label": "taz",
    "title": "Deutsches Team bei Basketball-WM: „Wir spielen besser, als wir sind“",
    "summary": "Mit 94:56 schlagen die deutschen Basketballerinnen Südkorea überraschend deutlich. Nun steht das Team im Viertelfinale der WM in Berlin. mehr...",
@@ -6803,6 +7361,15 @@
    "link": "https://www.focus.de/finanzen/karriere/juristin-wird-nach-26-jahren-im-betrieb-gefeuert-weil-sie-9-tage-unerlaubt-im-homeoffice-arbeitete_760a239f-9555-41cc-8e47-ca1a79c19e24.html",
    "published": "2026-09-04T16:17:00+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Die wichtigsten Daten zu den Midterms in den USA",
+   "summary": "Wann wird gewählt, welche Ämter werden vergeben und wie geht es danach weiter? Alle wichtigen Termine der Midterm Elections in den USA auf einen Blick.",
+   "link": "https://www.zdfheute.de/politik/ausland/roadmap-midterms-election-wahl-usa-100.html",
+   "published": "2026-09-04T15:05:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
    "paywall": false
   },
   {
@@ -10260,6 +10827,15 @@
    "published": "2026-07-26T18:59:24+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trumps Wunsch und Wirklichkeit",
+   "summary": "Für die USA war es ein ereignisreicher Sommer: 250-Jahrfeier, Fußball-WM, Iran-Krieg. Wie nutzt oder schadet Trump kurz vor den Mid-Terms die internationale Aufmerksamkeit?",
+   "link": "https://www.zdfheute.de/video/auslandsjournal/usa-sommer-trump-100.html",
+   "published": "2026-07-22T20:15:00+00:00",
+   "first_seen": "2026-09-10T13:04:11.034345+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
