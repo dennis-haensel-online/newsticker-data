@@ -1,7 +1,16 @@
 {
  "bpe": "19",
- "updated": "2026-09-10T05:03:52.985310+00:00",
+ "updated": "2026-09-10T06:05:43.605224+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
+   "summary": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur weiteren Geldpolitik.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+   "published": "2026-09-10T05:52:13+00:00",
+   "first_seen": "2026-09-10T06:05:43.605224+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Gefühle statt Fakten und laute Hosentaschen",
@@ -27,6 +36,15 @@
    "link": "https://www.wiwo.de/politik/europa/ezb-zinsentscheid-sind-leitzinsen-von-drei-prozent-wirklich-realistisch/100252140.html",
    "published": "2026-09-10T03:56:11+00:00",
    "first_seen": "2026-09-10T04:03:59.400665+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "EZB-Zinssitzung: Sind Leitzinsen von drei Prozent wirklich realistisch?",
+   "summary": "Die EZB steht wohl vor dem nächsten Zinsschritt. Die Finanzmärkte rechnen sogar mit weiteren Erhöhungen – doch sie könnten falsch liegen.",
+   "link": "https://www.wiwo.de/politik/europa/ezb-zinsentscheid-heute-sind-leitzinsen-von-drei-prozent-realistisch/100252140.html",
+   "published": "2026-09-10T03:56:11+00:00",
+   "first_seen": "2026-09-10T06:05:43.605224+00:00",
    "paywall": true
   },
   {
