@@ -1,5 +1,56 @@
 {
-  "19": {
+  "wg11iw-bpe01": {
+    "_kommentar": "BPE 1 · Grundlagen ökonomischen Denkens (Knappheit, Opportunitätskosten, Allmende/Nachhaltigkeit) — Thema abstrakt, Treffer eher dünn",
+    "keywords": [
+      "knappheit", "ressourcenknappheit", "rohstoffknappheit", "fachkräftemangel",
+      "lieferengpass", "lieferkette", "resilienz", "nachhaltigkeit", "klimawandel",
+      "überfischung", "allmende", "ungleichheit", "verteilungsgerechtigkeit",
+      "arbeitsteilung", "globalisierung", "opportunitätskosten"
+    ],
+    "negative": ["monopoly", "brettspiel"],
+    "max": 100
+  },
+  "wg12iw-bpe06": {
+    "_kommentar": "BPE 6 · Kaufmännisches Gesellschaftsrecht (Rechtsformen: Einzelunternehmen/OHG/GmbH/AG/SE, Haftung, Organe, Gründung/Insolvenz) — Rechtsform-Thema, Treffer über Unternehmens-/Kapitalmarktmeldungen",
+    "keywords": [
+      "gesellschaftsrecht", "rechtsform", "gmbh", "aktiengesellschaft",
+      "aktionär", "börsengang", "ipo", "hauptversammlung", "aufsichtsrat",
+      "unternehmensgründung", "existenzgründung", "start-up", "startup",
+      "insolvenz", "pleite", "haftung", "übernahme", "fusion",
+      "handelsregister", "mitbestimmung", "betriebsrat", "familienunternehmen",
+      "personengesellschaft", "kapitalgesellschaft", "genossenschaft",
+      "dividende"
+    ],
+    "negative": ["monopoly", "brettspiel", "bundesliga", "transfermarkt"],
+    "max": 100
+  },
+  "wg12iw-bpe17": {
+    "_kommentar": "BPE 17 · Marktteilnehmer unter Wettbewerb (Angebot/Nachfrage, Wettbewerb, Kosten)",
+    "keywords": [
+      "wettbewerb", "konkurrenz", "marktanteil", "preiskampf", "marktmacht",
+      "nachfrage", "angebot und nachfrage", "konsumklima", "kaufzurückhaltung",
+      "verbraucherstimmung", "energiepreise", "strompreis", "gaspreis",
+      "rohstoffpreise", "benzinpreis", "lieferengpass", "lieferkette",
+      "produktionskosten", "gewinnmarge", "absatzrückgang", "umsatzrückgang"
+    ],
+    "negative": ["monopoly", "brettspiel", "bundesliga", "transfermarkt"],
+    "max": 100
+  },
+  "wg12iw-bpe18": {
+    "_kommentar": "BPE 18 · Preisbildung auf Märkten (Marktformen, Staatseingriffe, Preisniveau)",
+    "keywords": [
+      "preisbildung", "preiserhöhung", "preissteigerung", "preisanstieg",
+      "verbraucherpreise", "inflation", "teuerung", "mietpreisbremse", "mietpreis",
+      "mietendeckel", "mindestlohn", "mindestpreis", "höchstpreis", "preisdeckel",
+      "gaspreisbremse", "strompreisbremse", "subvention", "steuersenkung",
+      "steuererhöhung", "mehrwertsteuer", "monopol", "oligopol", "kartell",
+      "kartellamt", "marktmacht", "fusion", "übernahme", "preisabsprache",
+      "preisdifferenzierung", "marktbeherrschung", "wettbewerb"
+    ],
+    "negative": ["monopoly", "brettspiel", "bundesliga"],
+    "max": 100
+  },
+  "wg12iw-bpe19": {
     "_kommentar": "BPE 19-20 · Konjunktur + wirtschaftspolitische Ziele (Magisches Viereck)",
     "keywords": [
       "konjunktur", "rezession", "aufschwung", "abschwung", "wachstum",
@@ -14,6 +65,18 @@
       "verteilung", "einkommensverteilung", "umweltschutz", "klimaziel"
     ],
     "negative": ["monopoly", "brettspiel", "bundesliga", "transfermarkt"],
+    "max": 100
+  },
+  "wg13inf-bpe08": {
+    "_kommentar": "BPE 8 · Gesellschaftliche Aspekte (Informatik wg13inf): Algorithmen/KI in der Lebenswelt, Chancen & Risiken von KI/Algorithmen (8.1/8.3). 8.2 Graphen ist nicht news-tragfähig.",
+    "keywords": [
+      "künstliche intelligenz", "ki", "chatgpt", "algorithmus", "algorithmen",
+      "überwachung", "gesichtserkennung", "datenschutz", "dsgvo", "deepfake",
+      "desinformation", "fake news", "social media", "digitalisierung",
+      "automatisierung", "autonomes fahren", "roboter", "diskriminierung",
+      "urheberrecht", "cyberangriff", "hackerangriff", "datenleck"
+    ],
+    "negative": ["monopoly", "brettspiel", "bundesliga", "transfermarkt", "kiew"],
     "max": 100
   }
 }

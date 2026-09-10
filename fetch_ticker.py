@@ -3,8 +3,9 @@
 fetch_ticker.py — läuft in GitHub Actions (Cloud), NICHT lokal.
 
 Holt die RSS-Feeds aus feeds.txt, pflegt einen mitwachsenden 60-Tage-Cache
-(_cache.json) und schreibt pro BPE aus ticker-config.json eine gefilterte
-Datei `ticker-bpe<ID>.json`, die die Unterrichtsseiten per fetch() laden.
+(_cache.json) und schreibt pro Eintrag aus ticker-config.json eine gefilterte
+Datei `ticker-<ID>.json` (ID = Ticker-Kennung, z. B. `wg12iw-bpe06`), die die
+Unterrichtsseiten per fetch() laden.
 
 Kein Key, kein Secret — nur öffentliche Feeds rein, öffentliche JSON raus.
 
@@ -187,10 +188,10 @@ def main():
             if any(p.search(hay) for p in pos):
                 hits.append(it)
         hits.sort(key=lambda it: it.get("published") or it.get("first_seen") or "", reverse=True)
-        payload = {"bpe": bpe, "updated": now_iso, "items": hits[:maxn]}
-        (HERE / f"ticker-bpe{bpe}.json").write_text(
+        payload = {"id": bpe, "updated": now_iso, "items": hits[:maxn]}
+        (HERE / f"ticker-{bpe}.json").write_text(
             json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"  ticker-bpe{bpe}.json: {len(hits[:maxn])} Meldungen", file=sys.stderr)
+        print(f"  ticker-{bpe}.json: {len(hits[:maxn])} Meldungen", file=sys.stderr)
 
 
 if __name__ == "__main__":
