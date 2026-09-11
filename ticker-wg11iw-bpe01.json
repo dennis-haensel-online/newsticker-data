@@ -1,6 +1,6 @@
 {
  "id": "wg11iw-bpe01",
- "updated": "2026-09-11T12:05:16.068576+00:00",
+ "updated": "2026-09-11T13:04:21.604330+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,15 @@
    "link": "https://www.wiwo.de/finanzen/ferienhaus-kaufen-in-deutschland-wann-es-sich-wirklich-lohnt/100253463.html",
    "published": "2026-09-11T11:58:14+00:00",
    "first_seen": "2026-09-11T12:05:16.068576+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Ferienimmobilien: Wie der Traum vom Ferienhaus wahr wird",
+   "summary": "Der Klimawandel macht den Urlaub in Deutschland attraktiver. Worauf Interessenten achten müssen, um sich zwischen Sylt und den bayrischen Alpen ein Feriendomizil zuzulegen.",
+   "link": "https://www.wiwo.de/finanzen/immobilien-ferienhaus-kaufen-in-deutschland/100253463.html",
+   "published": "2026-09-11T11:58:14+00:00",
+   "first_seen": "2026-09-11T13:04:21.604330+00:00",
    "paywall": true
   },
   {
@@ -46,15 +55,6 @@
    "published": "2026-09-09T17:54:50+00:00",
    "first_seen": "2026-09-09T19:03:43.509936+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Lieferkettengesetz unter Druck",
-   "summary": "Mit Personalpolitik und Eingriffen in die Arbeit der zuständigen Kontrollbehörde hebeln Katherina Reiche und ihr Wirtschaftsministerium offenbar gezielt das sogenannte Lieferkettengesetz aus.",
-   "link": "https://www.zdfheute.de/video/frontal/lieferkettengesetz-unter-druck-wirtschaftsministerium-reiche-menschenrechte-100.html",
-   "published": "2026-08-19T14:00:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
   }
  ]
 }
