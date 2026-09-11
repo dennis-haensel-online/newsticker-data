@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-11T14:04:09.345580+00:00",
+ "updated": "2026-09-11T15:03:51.847708+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic: Russische Spione missbrauchen Claude-Modelle",
+   "summary": "Das KI-Unternehmen hat nach eigenen Angaben in den vergangenen Monaten mehrere Fälle von missbräuchlicher Nutzung seiner KI-Modelle unterbunden. Dazu zählten russische Cyberspionage-Kampagnen und Wirtschaftsspionage durch chinesische…",
+   "link": "https://www.handelsblatt.com/video/politik/kuenstliche-intelligenz-anthropic-russische-spione-missbrauchen-claude-modelle/100253929.html",
+   "published": "2026-09-11T14:26:57+00:00",
+   "first_seen": "2026-09-11T15:03:51.847708+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Briefing: Merkels KI-Warnung – „Wir sollten aufgeregter sein!“",
+   "summary": "Altkanzlerin Angela Merkel sieht Parallelen zwischen der Marktmacht der Tech-Konzerne und einem System, das sie aus ihrer Jugend kennt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-merkels-ki-warnung-wir-sollten-aufgeregter-sein/100253241.html",
+   "published": "2026-09-11T14:15:20+00:00",
+   "first_seen": "2026-09-11T15:03:51.847708+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
+   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-kann-ki-kuenftig-in-der-lage-sein-auch-top-manager-zu-ersetzen/100189694.html",
+   "published": "2026-09-11T14:02:00+00:00",
+   "first_seen": "2026-09-11T15:03:51.847708+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
@@ -874,15 +901,6 @@
    "published": "2026-09-01T06:16:15+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Wahn",
-   "summary": "Nach 9/11 wächst die Angst, nicht nur in den USA. Feindbilder verbreiten und verfestigen sich. Krisen, Überwachung und Hass im Netz tragen zum viralen Erfolg von Verschwörungstheorien bei.",
-   "link": "https://www.zdf.de/video/dokus/zdfinfo-9-11-der-lange-schatten-des-terrors--100/zdfinfo-9-11-der-lange-schatten-des-terrors-wahn-100",
-   "published": "2026-08-29T03:00:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
   }
  ]
 }

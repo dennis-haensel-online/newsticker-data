@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-11T14:04:09.345580+00:00",
+ "updated": "2026-09-11T15:03:51.847708+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Inflation spricht für Zinsanhebung, Ölpreis rückläufig",
+   "summary": "Die Inflationsdaten deuten auf eine Zinserhöhung in den USA hin. Im Dezember könnte die US-Notenbank erneut nachlegen. Außerdem: Der fallende Ölpreis stützt die US-Börsen.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-inflation-spricht-fuer-zinsanhebung-oelpreis-ruecklaeufig/100253957.html",
+   "published": "2026-09-11T14:43:29+00:00",
+   "first_seen": "2026-09-11T15:03:51.847708+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Briefing: Merkels KI-Warnung – „Wir sollten aufgeregter sein!“",
+   "summary": "Altkanzlerin Angela Merkel sieht Parallelen zwischen der Marktmacht der Tech-Konzerne und einem System, das sie aus ihrer Jugend kennt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-merkels-ki-warnung-wir-sollten-aufgeregter-sein/100253241.html",
+   "published": "2026-09-11T14:15:20+00:00",
+   "first_seen": "2026-09-11T15:03:51.847708+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "US-Inflation: Amerikas Inflation bleibt hartnäckig",
+   "summary": "Keine Entspannung an der Preisfront in den USA. Vor allem wegen Energie will die Inflation nicht nachgeben.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/usa-amerikas-inflation-bleibt-hartnaeckig-201218556.html",
+   "published": "2026-09-11T14:10:45+00:00",
+   "first_seen": "2026-09-11T15:03:51.847708+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "US-Konjunktur: US-Inflationsrate stabilisiert sich auf hohem Niveau",
@@ -126,6 +153,15 @@
    "link": "https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-invasion-energiekrise-kostete-bund-50-milliarden-euro-a-c195b363-fbd7-43c9-b17b-058be65864ac#ref=rss",
    "published": "2026-09-11T09:01:00+00:00",
    "first_seen": "2026-09-11T09:04:01.271345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Gas-/Strompreisbremse nach Russlands Ukraine-Angriff: Energiekrise kostete Bund 50 Milliarden Euro",
+   "summary": "Durch den Bruch mit Russland nach der Ukraine-Invasion schnellten hierzulande die Energiekosten in die Höhe. Die Bundesregierung half mit Preisbremsen und Sofortzahlungen – und gab Dutzende Milliarden dafür aus.",
+   "link": "https://www.spiegel.de/wirtschaft/service/gas-strompreisbremse-nach-russlands-ukraine-angriff-energiekrise-kostete-bund-50-milliarden-euro-a-c195b363-fbd7-43c9-b17b-058be65864ac#ref=rss",
+   "published": "2026-09-11T09:01:00+00:00",
+   "first_seen": "2026-09-11T15:03:51.847708+00:00",
    "paywall": false
   },
   {
