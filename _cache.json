@@ -1,6 +1,186 @@
 {
- "updated": "2026-09-12T07:03:54.553350+00:00",
+ "updated": "2026-09-12T08:04:25.925660+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Vereinigtes Königreich: Rekordspende für britische Rechtspartei Reform UK",
+   "summary": "Großbritanniens Rechtspopulisten erhalten für den Wahlkampf eine Millionenspende. Die Rekordsumme folgt auf Wochen mit verschiedenen Betrugsvorwürfen.",
+   "link": "https://www.wiwo.de/politik/europa/vereinigtes-koenigreich-rekordspende-fuer-britische-rechtspartei-reform-uk/100254040.html",
+   "published": "2026-09-12T08:02:24+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Weshalb Harald Blauzahn zum Bluetooth-Namensgeber wurde",
+   "summary": "Im zehnten Jahrhundert einte ein Wikingerkönig Dänemark und Norwegen. Über tausend Jahre später wurde er zum Paten einer Funktechnik, die heute Milliarden Geräte verbindet.",
+   "link": "https://www.zdfheute.de/wissen/bluetooth-name-harald-blauzahn-wikinger-koenig-100.html",
+   "published": "2026-09-12T08:00:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: OpenAI-Software steuerte vor Angriff auf Hugging Face weitere Website an",
+   "summary": "Evonik schließt Standorte in Hamburg und Bitterfeld +++ Russland startet 5G-Netz – iPhones vorerst außen vor +++ 2,6 Billionen Dollar versteckte Tech-Schulden durch KI-Hochlauf +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-software-steuerte-vor-angriff-auf-hugging-face-weitere-website-an-faz-200452404.html",
+   "published": "2026-09-12T08:00:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Sommer und Krabbelviecher: Trockenheit macht Insekten zu schaffen",
+   "summary": "Heimische Mücken oder Schmetterlinge leiden, wenn es, wie in diesem Jahr, lange sehr trocken, bleibt. Vor allem einer Falterart setzt der Feuchtigkeitsmangel zu. mehr...",
+   "link": "https://taz.de/Sommer-und-Krabbelviecher/!6212655/",
+   "published": "2026-09-12T07:59:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Erdogan-Gegner Imamoglu zu zwei Jahren Haft verurteilt",
+   "summary": "Der Ex-Bürgermeister von Istanbul galt als einer der wichtigsten Rivalen Erdogans. Nun wurde Imamoglu in einem umstrittenen Prozess verurteilt. Haft ist nicht die einzige Folge.",
+   "link": "https://www.zdfheute.de/politik/ausland/tuerkei-imamoglu-urteil-haft-100.html",
+   "published": "2026-09-12T07:58:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "AfD-Wahlerfolge: „Die Zeit für Vielfalt als Lippenbekenntnis ist vorbei“",
+   "summary": "Er war Geflüchteter und wurde SAP‑Personalchef. Nun fordert Cawa Younosi mehr politische Haltung der Unternehmen – und nennt einen Top-Manager als Vorbild.",
+   "link": "https://www.wiwo.de/unternehmen/dienstleister/afd-wahlerfolge-cawa-younosi-fordert-mehr-politische-haltung-der-unternehmen/100253509.html",
+   "published": "2026-09-12T07:57:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Strom- und Gastarif: Wie Sie jetzt den günstigsten Strom- und Gasvertrag finden",
+   "summary": "Gaspreis hoch, Strompreis schwankend: Ob es sich lohnt, jetzt den Stromanbieter zu wechseln, hängt vom Vertrag und vom Verbrauch ab. Worauf Sie jetzt achten sollten.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/strom-gas-tarif-wechsel-verbrauch-kosten-vergleich",
+   "published": "2026-09-12T07:51:56+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Nach der Sachsen-Anhalt-Wahl: Die Alternativen zur Alternative",
+   "summary": "Der Wahlsieg der AfD in Sachsen-Anhalt war zu erwarten und ist unfassbar zugleich. Wie jetzt weitermachen? mehr...",
+   "link": "https://taz.de/Nach-der-Sachsen-Anhalt-Wahl/!6208054/",
+   "published": "2026-09-12T07:50:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Zug entgleist in Frankreich - über 40 Verletzte",
+   "summary": "In der französischen Normandie ist ein Zug entgleist. Einsatzkräfte versorgen zahlreiche Verletzte - und die Polizei sucht nach der Unfallursache.",
+   "link": "https://www.zdfheute.de/panorama/unglueck-bahn-frankreich-entgleist-zug-verletzte-100.html",
+   "published": "2026-09-12T07:49:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Umfrage unter Erwerbstätigen: Überstunden wären fein, wenn die Anreize stimmen würden",
+   "summary": "Die Mehrheit der Beschäftigten ist laut einer Umfrage bereit, mehr zu arbeiten. Die politische Debatte um längere Arbeitszeiten stößt bei vielen aber auf Unverständnis. mehr...",
+   "link": "https://taz.de/Umfrage-unter-Erwerbstaetigen/!6212654/",
+   "published": "2026-09-12T07:42:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Saudi-Arabien unter Druck: Was das für den Ölpreis bedeutet",
+   "summary": "Saudi-Arabien gerät im Nahost-Konflikt zunehmend unter Druck: Eine wichtige Ölpipeline ist nach Drohnenangriffen stillgelegt. Auf dem Ölmarkt wächst die Nervosität - ein Überblick.",
+   "link": "https://www.zdfheute.de/politik/ausland/saudi-arabien-pipeline-oelexporte-100.html",
+   "published": "2026-09-12T07:41:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Mietpreisbremse: Hubig will höhere Strafen",
+   "summary": "Wer gegen die Mietpreisbremse verstößt, soll nach dem Willen von Bundesjustizministerin Hubig künftig härter bestraft werden. Eine Expertengruppe prüft bereits höhere Bußgelder und eine Reform.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/hubig-mietpreisbremse-reform-video-100.html",
+   "published": "2026-09-12T07:38:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Inaktive Konten: Grüne wollen vergessenes Geld mobilisieren",
+   "summary": "Was passiert mit dem Geld auf einem Konto, wenn sich niemand mehr darum kümmert? Wem gehört es, wenn der Kontoinhaber verstorben ist und sich keine Erben melden? Die Grünen haben eine Idee.",
+   "link": "https://www.wiwo.de/politik/deutschland/inaktive-konten-was-die-gruenen-mit-vergessenem-geld-planen/100254038.html",
+   "published": "2026-09-12T07:34:30+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Containerschifffahrt: Hapag-Lloyd setzt trotz israelischem Veto auf ZIM-Übernahme",
+   "summary": "Warum glaubt Hapag-Lloyd trotz Widerstand aus Israel an die ZIM-Übernahme? Hinter den Kulissen laufen intensive Gespräche – und es geht um rund 3,6 Milliarden Euro.",
+   "link": "https://www.wiwo.de/unternehmen/handel/containerschifffahrt-hapag-lloyd-setzt-trotz-israelischem-veto-auf-zim-uebernahme/100254026.html",
+   "published": "2026-09-12T07:32:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Iran stellt Öffnung der Straße von Hormus in Aussicht",
+   "summary": "Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab +++ Iran und Golfstaaten wollen zu Straße von Hormus sprechen +++ Iranischer Präsident trifft zu BRICS-Gipfel ein +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-stellt-oeffnung-der-strasse-von-hormus-in-aussicht/100136895.html",
+   "published": "2026-09-12T07:30:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "+++ Nachrichten im Iran-Krieg +++: Saudische Ölexporte massiv unter Druck",
+   "summary": "Die jemenitische Huthi-Miliz bedroht zunehmend die Meerenge Bab al-Mandab. Nach Drohnenangriffen muss Saudi-Arabien auch noch eine wichtige Pipeline abschalten. mehr...",
+   "link": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6212652/",
+   "published": "2026-09-12T07:27:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Mein Wendepunkt: „Ich ­habe daraus gelernt, dass die Familie ­immer vorgeht“",
+   "summary": "Messechef Wolfram Diener arbeitete sieben Jahre lang für einen fordernden US‑Unternehmer. Er stand Tag und Nacht parat. Auch an Weihnachten. Das verlangte seinen Tribut.",
+   "link": "https://www.wiwo.de/erfolg/management/wolfram-diener-der-messechef-erzaehlt-vom-wendepunkt-seiner-karriere/100252509.html",
+   "published": "2026-09-12T07:14:08+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche 576: Analyse: Rückversicherer-Aktien geraten unter Druck",
+   "summary": "Wegen des Klimawandels steigt die Zahl der Naturkatastrophen. Trotzdem sinken die Prämien für Rückversicherer. Welche Aktien trotzdem attraktiv bleiben.",
+   "link": "https://www.wiwo.de/finanzen/boerse/versicherungen-warum-rueckversicherer-aktien-unter-druck-geraten/100253494.html",
+   "published": "2026-09-12T07:12:07+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche 576: Editorial: Die allgemeine Intelligenz ist da!",
+   "summary": "Das neue KI-Modell von OpenAI ist noch schneller, besser, toller. Zeit, dass endlich wieder Zahlen statt Erzählungen in den Fokus rücken.",
+   "link": "https://www.wiwo.de/finanzen/boerse/openai-und-anthropic-vor-boersengang-warum-zahlen-jetzt-zaehlen/100253492.html",
+   "published": "2026-09-12T07:11:09+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Gaspreis: Verivox rechnet durch Iran-Krieg mit bis zu 20 Prozent höheren Kosten",
+   "summary": "Der Irankrieg treibt die Energiepreise weiter – auch für Gas. Besonders betroffen: Neukunden. Entspannung ist laut EZB nicht in Sicht. Das dürfte auch an Deutschlands besonderer Anfälligkeit für Preisschocks liegen.",
+   "link": "https://www.spiegel.de/wirtschaft/service/gaspreis-verivox-rechnet-durch-iran-krieg-mit-bis-zu-20-prozent-hoeheren-kosten-a-14cf04d5-5859-415b-bfea-b89ba55c9f6d#ref=rss",
+   "published": "2026-09-12T07:08:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "EU-Haushalt: Keine Deals zulasten Deutschlands",
@@ -13318,186 +13498,6 @@
    "summary": "Ihr Kontostand sieht gut aus, doch Ihr Geld kann trotzdem täglich an Wert verlieren. Das steckt hinter dem unsichtbaren Geldverlust.",
    "link": "https://www.focus.de/finanzen/inflation-ist-der-gefaehrlichste-wohlstandsvernichter_bfe7681d-83fe-44f2-ad79-96e539651bf6.html",
    "published": "2026-09-06T14:01:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie aus einem Umweltproblem Plastikersatz wird",
-   "summary": "Die Wasserhyazinthe überwuchert Seen in der ganzen Welt und bedroht die Existenz der Fischer. Ein Start-up in Kenia verwandelt das Problem nun in umweltfreundliche Verpackungen.",
-   "link": "https://www.zdfheute.de/politik/ausland/kenia-start-up-invasive-pflanzen-bioplastik-umwelt-oekosystem-fischer-100.html",
-   "published": "2026-09-06T13:14:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "So viel werden 100 Euro wert sein, wenn Sie in Rente gehen",
-   "summary": "Inflation senkt die Kaufkraft bis zur Rente. So berechnen Sie, was 100 Euro künftig wert sind und wie viel mehr Sie sparen müssen.",
-   "link": "https://www.focus.de/finanzen/boerse/so-viel-werden-100-euro-wert-sein-wenn-sie-in-rente-gehen_2efe3b5e-617e-4675-825b-ed003ab62a08.html",
-   "published": "2026-09-06T13:10:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Vier Berufe, mit denen Sie mehr als 70.000 Euro verdienen",
-   "summary": "Kununu-Jobexperte Dario Wilding verrät, dass Jobs wie Program Manager, Agile Coaches, Compliance Officers und Underwriter Spitzengehälter bieten.",
-   "link": "https://www.focus.de/finanzen/news/vier-berufe-mit-denen-sie-mehr-als-70-000-euro-verdienen_12adaea5-8d5d-4348-886a-5ef9f0cde138.html",
-   "published": "2026-09-06T12:42:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Trump gehen vor den Midterms die letzten Hebel aus",
-   "summary": "Trump braucht vor den Midterms sinkende Preise. Doch die Fed hilft ihm nicht, Venezuelas Öl kommt zu spät und bei den Zöllen will er nicht zurückrudern.",
-   "link": "https://www.focus.de/finanzen/trump-gehen-vor-den-midterms-die-letzten-hebel-aus_a3344d08-8b4d-40f5-bd8d-cfca47bd9174.html",
-   "published": "2026-09-06T12:11:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Sven Regener: Sehne mich nicht in die 80er zurück",
-   "summary": "SO36, die Mauer steht noch - Sven Regeners neuer Roman spielt wieder und vor allem im Kreuzberg der 80er. In die Zeit sehnt sich der Autor aber nicht zurück.",
-   "link": "https://www.zdfheute.de/panorama/prominente/sven-regener-80er-100.html",
-   "published": "2026-09-06T11:31:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie Muskeltraining den Körper verändert",
-   "summary": "Viele denken bei Muskeln an Kraft. Tatsächlich profitieren auch Gehirn, Knochen und Stoffwechsel. Warum Muskeltraining echte Gesundheitsvorsorge ist.",
-   "link": "https://www.zdfheute.de/wissen/muskeln-gesundheit-terrax-nano-ingo-froboese-kolumne-100.html",
-   "published": "2026-09-06T08:02:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Dirk Rossmann: „Zocken würde ich das nicht nennen“",
-   "summary": "Dirk Roßmann war Pionier im Drogeriegeschäft und ist damit reich geworden. Heute hat er Spaß und Erfolg mit komplizierten Börsengeschäften – besitzt aber nicht einmal ein Smartphone. Ein Gespräch kurz vor seinem 80. Geburtstag.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/zocken-wuerde-ich-das-nicht-nennen-dirk-rossmann-ueber-seinen-spass-und-erfolg-an-der-boerse-accg-201187920.html",
-   "published": "2026-09-06T07:39:34+00:00",
-   "first_seen": "2026-09-09T19:03:43.509936+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FOCUS",
-   "title": "Nur wer 5 Jahre voll macht, hat Anspruch auf Rente",
-   "summary": "Um einen Anspruch auf Rente zu bekommen, ist eine berufliche Mindestzeit erforderlich. Erst dann können Arbeitnehmer im Alter mit Bezügen rechnen.",
-   "link": "https://www.focus.de/finanzen/altersvorsorge/nur-wer-5-jahre-voll-macht-hat-anspruch-auf-rente_c1bd4870-006d-4960-97e6-ae35e9fb1215.html",
-   "published": "2026-09-06T06:14:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Wegen „geopolitischer Unruhen“: Niederländische Zentralbank verlegt 86 Tonnen Gold aus den USA und Kanada nach London, Deutschland hält an New York fest",
-   "summary": "Die Niederlande verlagern Gold aus den USA. Deutschland hält 1236 Tonnen in New York – trotz wachsender Debatte über Risiken.",
-   "link": "https://www.focus.de/finanzen/wegen-geopolitischer-unruhen-niederlaendische-zentralbank-verlegt-86-tonnen-gold-aus-den-usa-und-kanada-nach-london-deutschland-haelt-an-new-york-fest_91007045-95da-4ba1-8c0b-2d0588208d69.html",
-   "published": "2026-09-06T06:12:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Der Norweger Jon Harald Nordbrekken gewinnt 1,1 Milliarden Kronen mit einer einzigen Aktie",
-   "summary": "Jon Harald Nordbrekken machte mit B2 Impact rund 1,1 Milliarden Kronen Gewinn. Er kaufte die Aktie, als kaum jemand sie haben wollte.",
-   "link": "https://www.focus.de/finanzen/der-norweger-jon-harald-nordbrekken-gewinnt-1-1-milliarden-kronen-mit-einer-einzigen-aktie_2b447494-2c76-44fb-bc50-e8c945832ace.html",
-   "published": "2026-09-06T06:12:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Zu viele Touristen - wie Dubrovnik gegensteuert",
-   "summary": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Von A. Bachmann und N. Knopp.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
-   "published": "2026-09-06T05:36:47+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Reiseplanung mit KI: So prompten Sie sich in den Urlaub",
-   "summary": "Viele Urlauber lassen sich Reisen von KI erstellen. Welche Angaben die Antworten verbessern, welche Fehler häufig gemacht werden und welche Informationen Nutzer überprüfen sollten.",
-   "link": "https://www.zdfheute.de/ratgeber/ki-prompts-urlaub-reise-planung-100.html",
-   "published": "2026-09-06T04:27:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
-   "summary": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des Landes. Von Anne Schneider.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
-   "published": "2026-09-05T19:14:33+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Zukunft der Wirtschaft: Gute Nachrichten, die keiner sieht",
-   "summary": "Das Land starrt auf Jobverluste in den Branchen von gestern. Aber der Strukturwandel gelingt – und zwar besser, als viele gedacht haben.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/deutschlands-strukturwandel-gelingt-besser-als-gedacht-201194316.html",
-   "published": "2026-09-05T16:58:56+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Kleiner Motor, großes Abenteuer",
-   "summary": "1528 Kilometer, acht Freunde und Mopeds aus DDR-Zeiten: Die \"ZDF.reportage\" begleitet eine außergewöhnliche Reise quer durch Deutschland und die Beneluxstaaten.",
-   "link": "https://www.zdf.de/video/reportagen/zdf-reportage-104/kleiner-motor-grosses-abenteuer-100",
-   "published": "2026-09-05T15:35:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "90-Jähriger verschenkt Millionen für 27 günstige Wohnungen",
-   "summary": "Otto Gugger überlässt sein Grundstück in München einer Stiftung. Statt zehn Millionen Euro zu kassieren, ermöglicht der 90-Jährige dort bezahlbare Wohnungen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/muenchen-wohnung-mieten-millionen-haus-verschenkt-100.html",
-   "published": "2026-09-05T13:52:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Smart Glasses: Zwischen Innovation und Gefahr",
-   "summary": "Heimlich gefilmt und später ins Netz gestellt: Smart Glasses ausgestattet mit Kamera, KI und Internetverbindung ermöglichen genau das. Sind wir dem schutzlos ausgeliefert?",
-   "link": "https://www.zdfheute.de/panorama/smart-glasses-filmen-innovation-gefahr-regulierung-100.html",
-   "published": "2026-09-05T10:54:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Die reichste Familien Neapels: Wie viel ist sie wert und wem gehören die großen Vermögen der Stadt?",
-   "summary": "Am Golf von Neapel kontrollieren wenige Familiendynastien gigantische Firmenimperien. Eine Analyse zeigt, wie groß die Vermögen wirklich sind und wer die unangefochtene Spitze anführt.",
-   "link": "https://www.focus.de/finanzen/news/die-reichsten-familien-neapels-wie-viel-sind-sie-wert-und-wem-gehoeren-die-grossen-vermoegen-der-stadt_9a42e495-c9ec-46b5-be80-1949c9867bba.html",
-   "published": "2026-09-05T10:13:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Im Wert von über 560.000 US-Dollar: Das US-Justizministerium beschlagnahmt Kryptowährungsspenden für die Hamas",
-   "summary": "US-Behörden beschlagnahmen mehr als 560.000 Dollar an Krypto-Spenden für Hamas und gehen gegen das dahinterstehende Finanznetzwerk vor.",
-   "link": "https://www.focus.de/finanzen/im-wert-von-ueber-560-000-us-dollar-das-us-justizministerium-beschlagnahmt-kryptowaehrungsspenden-fuer-die-hamas_b35daafb-929d-44f9-b52e-bf47dc468396.html",
-   "published": "2026-09-05T09:25:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Erst Putin, jetzt Trump: Experten warnen vor Deutschlands neuer Gas-Abhängigkeit unter Trump - über 90 Prozent US-LNGG",
-   "summary": "Deutschland bezieht immer mehr LNG aus den USA. Russland zeigt, welche Risiken eine neue Gas-Abhängigkeit birgt.",
-   "link": "https://www.focus.de/finanzen/news/erst-putin-jetzt-trump-experten-warnen-vor-deutschlands-neuer-gas-abhaengigkeit-unter-trump-ueber-90-prozent-us-lngg_4e691431-7808-416c-8e33-7ad7aef76ec1.html",
-   "published": "2026-09-05T06:49:00+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": false
   }

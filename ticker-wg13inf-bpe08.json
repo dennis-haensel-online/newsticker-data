@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T07:03:54.553350+00:00",
+ "updated": "2026-09-12T08:04:25.925660+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: OpenAI-Software steuerte vor Angriff auf Hugging Face weitere Website an",
+   "summary": "Evonik schließt Standorte in Hamburg und Bitterfeld +++ Russland startet 5G-Netz – iPhones vorerst außen vor +++ 2,6 Billionen Dollar versteckte Tech-Schulden durch KI-Hochlauf +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-software-steuerte-vor-angriff-auf-hugging-face-weitere-website-an-faz-200452404.html",
+   "published": "2026-09-12T08:00:00+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche 576: Editorial: Die allgemeine Intelligenz ist da!",
+   "summary": "Das neue KI-Modell von OpenAI ist noch schneller, besser, toller. Zeit, dass endlich wieder Zahlen statt Erzählungen in den Fokus rücken.",
+   "link": "https://www.wiwo.de/finanzen/boerse/openai-und-anthropic-vor-boersengang-warum-zahlen-jetzt-zaehlen/100253492.html",
+   "published": "2026-09-12T07:11:09+00:00",
+   "first_seen": "2026-09-12T08:04:25.925660+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "„Brains on Silicon“: Expertin: KI soll Umsätze im Mittelstand ankurbeln",
@@ -883,24 +901,6 @@
    "published": "2026-09-08T20:38:00+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Smart-City-Ranking: Warum Stuttgart Deutschlands digitalste Stadt ist",
-   "summary": "Der Digitalverband Bitkom hat die Digitalisierung in 83 deutschen Großstädten unter die Lupe genommen. Stuttgart liegt nun auf Platz eins - und hat damit nach Jahren München und Hamburg von der Spitze verdrängt. Von Fabian Siegel.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/smart-city-ranking-bitkom-100.html",
-   "published": "2026-09-08T17:00:45+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: KI-Firma Mistral sammelt drei Milliarden Euro ein",
-   "summary": "Im Schatten der großen KI-Firmen aus den USA entwickelt sich das französische Unternehmen gut genug, um Investoren zu überzeugen. Was macht das Start-up anders und was an dieser Strategie funktioniert?",
-   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-milliarden-euro-finanzierung-europa-li.3544207",
-   "published": "2026-09-08T12:36:12+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
   }
  ]
 }
