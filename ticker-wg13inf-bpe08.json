@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T13:03:33.994584+00:00",
+ "updated": "2026-09-12T14:03:51.518284+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Robo-Restaurant Robyn's: Heute kocht der Roboter – Modellversuch startet in Leipzig",
+   "summary": "Mehr als 14 Gerichte werden im neuen Roboter-Restaurant frisch am Leipziger Hauptbahnhof zubereitet – und das ganz ohne menschliche Hände am Herd.",
+   "link": "https://www.wiwo.de/unternehmen/dienstleister/robotik-restaurant-modellversuch-startet-in-leipzig/100254043.html",
+   "published": "2026-09-12T13:03:00+00:00",
+   "first_seen": "2026-09-12T14:03:51.518284+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Kirche und Künstliche Intelligenz: 60 Prozent der Pfarrer nutzen KI",
@@ -892,15 +901,6 @@
    "published": "2026-09-09T12:47:44+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Forscher verlässt Anthropic: \"Spielen mit unserem Leben\"",
-   "summary": "Ein Mitarbeiter der KI-Firma Anthropic warnt in den sozialen Medien vor den Gefahren durch KI-Software - und kündigt aus Protest seinen Job.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/anthropic-ki-gefahren-mitarbeiter-kritik-100.html",
-   "published": "2026-09-09T11:00:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
   }
  ]
 }
