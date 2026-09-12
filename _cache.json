@@ -1,6 +1,33 @@
 {
- "updated": "2026-09-12T01:03:31.937634+00:00",
+ "updated": "2026-09-12T02:04:20.150543+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Gaspreise: Vergleichsportal warnt vor weiter steigenden Gaspreisen",
+   "summary": "Verivox erwartet Preiserhöhungen beim Gas zwischen zehn und 20 Prozent zum Jahreswechsel. Schuld daran seien auch die niedrigen Füllstände der Gasspeicher.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/gaspreise-grosshandel-gasspeicher-iran-gasversorgung",
+   "published": "2026-09-12T01:55:31+00:00",
+   "first_seen": "2026-09-12T02:04:20.150543+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Weinregeln: Neue Qualitätspyramide für deutsche Weine",
+   "summary": "Der 2026er-Jahrgang gilt wegen des Hitzesommers als vielversprechend. Und die Winzer müssen sich an neue Regeln halten.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/weinregeln-neue-qualitaetspyramide-fuer-deutsche-weine/100254008.html",
+   "published": "2026-09-12T01:30:07+00:00",
+   "first_seen": "2026-09-12T02:04:20.150543+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Nach Angriffen: Saudi-Arabien schaltet wichtige Pipeline ab",
+   "summary": "Nach Drohnenangriffen hat Saudi-Arabien den Betrieb einer wichtigen Ölpipeline eingestellt. Die Pipeline hatte seit Beginn des Iran-Kriegs an Bedeutung gewonnen.",
+   "link": "https://www.zdfheute.de/politik/ausland/saudi-arabien-pipeline-oel-angriff-konflikt-energie-100.html",
+   "published": "2026-09-12T01:11:00+00:00",
+   "first_seen": "2026-09-12T02:04:20.150543+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Insiderberichte: Nvidia erwägt offenbar Milliardeneinstieg bei Anthropic-Börsengang",
@@ -9,6 +36,15 @@
    "published": "2026-09-12T00:55:49+00:00",
    "first_seen": "2026-09-12T01:03:31.937634+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Frei: \"Bundeszwang\" gegen AfD-Landesregierung möglich",
+   "summary": "Die Union diskutiert die Folgen der Landtagswahl in Sachsen-Anhalt. Thorsten Frei (CDU) hält auch einen \"Bundeszwang\" gegen die AfD-Landesregierung für möglich.",
+   "link": "https://www.zdfheute.de/politik/deutschland/unionsfraktionschef-frei-afd-landesregierung-bundeszwang-100.html",
+   "published": "2026-09-12T00:04:00+00:00",
+   "first_seen": "2026-09-12T02:04:20.150543+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -116,6 +152,15 @@
    "link": "https://www.zdfheute.de/politik/ausland/propaganda-medien-videos-reisner-ukraine-krieg-russland-100.html",
    "published": "2026-09-11T19:18:00+00:00",
    "first_seen": "2026-09-11T20:04:18.215952+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Tim Pütz/Kevin Krawietz stehen im Endspiel",
+   "summary": "US Open 2026 in New York: Die wichtigsten Tennis-Meldungen vom letzten Grand-Slam-Turnier des Jahres in Bildern.",
+   "link": "https://www.zdfheute.de/sport/tennis-us-open-2026-102.html",
+   "published": "2026-09-11T19:12:00+00:00",
+   "first_seen": "2026-09-12T02:04:20.150543+00:00",
    "paywall": false
   },
   {
@@ -13453,51 +13498,6 @@
    "summary": "Überraschende Einigung in Wolfsburg: Der Aufsichtsrat von Volkswagen hat dem Sparpaket des Konzernvorstands einstimmig zugestimmt.",
    "link": "https://www.focus.de/finanzen/vw-aufsichtsrat-will-sparplaene-und-rettungsplan-beschliessen_9f256f38-bc84-4597-8dae-58cd389bbfd9.html",
    "published": "2026-09-03T19:20:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Warum Amerikas Inflation schöner ist als die Wirklichkeit",
-   "summary": "Die Fed steckt in der Zinsfalle: Warum Inflation, US-Schulden und Konjunktur hohe Zinsen für Amerika zum Problem machen.",
-   "link": "https://www.focus.de/finanzen/warum-amerikas-inflation-schoener-ist-als-die-wirklichkeit_90167dcf-10e8-484c-adec-d8a1b231c182.html",
-   "published": "2026-09-03T15:51:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Krankenkassen-Hammer: Bald könnte es nur noch 20 Krankenkassen geben",
-   "summary": "Gesundheitsminister Carsten Linnemann hält an seinem Plan fest, die Zahl der gesetzlichen Krankenkassen deutlich zu reduzieren.",
-   "link": "https://www.focus.de/finanzen/krankenkassen-hammer-bald-koennte-es-nur-noch-20-krankenkassen-geben_cd83242f-b68f-4cdd-8afe-37d497767dbf.html",
-   "published": "2026-09-03T15:51:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Deutsche Konzerne wie DHL, Siemens und Daimler bekommen Zoll-Millionen aus den USA zurück",
-   "summary": "US-Zölle werden nach einem Supreme-Court-Urteil zurückgezahlt. DHL, Siemens Healthineers und Daimler Truck profitieren – doch neue Konflikte drohen.",
-   "link": "https://www.focus.de/finanzen/deutsche-konzerne-wie-dhl-siemens-und-daimler-bekommen-zoll-millionen-aus-den-usa-zurueck_bbf23bac-1c71-4ed8-a0b6-ba585afcc733.html",
-   "published": "2026-09-03T15:50:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "DIW passt Wachstumsprognose an – Wirtschaft im Aufschwung",
-   "summary": "Das Deutsche Institut für Wirtschaftsforschung erhöht seine Prognose für 2026 und die kommenden Jahre deutlich. Eine langfristige Erholung ist in Sicht.",
-   "link": "https://www.focus.de/finanzen/diw-passt-wachstumsprognose-an-wirtschaft-im-aufschwung_a35c68f3-67bf-45fc-8f92-549f4cf22251.html",
-   "published": "2026-09-03T14:49:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "Versteckte Steuererhöhung? Das steckt hinter Reiches Kritik",
-   "summary": "Reiche nennt Klingbeils Steuerreform eine heimliche Steuererhöhung. Was an der Kritik zur kalten Progression dran ist.",
-   "link": "https://www.focus.de/finanzen/reformen/versteckte-steuererhoehung-das-steckt-hinter-reiches-kritik_0f16b57b-d78d-4ab5-a5f9-c9fd140f432a.html",
-   "published": "2026-09-03T12:06:00+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": false
   }
