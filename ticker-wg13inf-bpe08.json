@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T08:04:25.925660+00:00",
+ "updated": "2026-09-12T09:04:05.570985+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Robo-Restaurant Robyn's: Heute kocht der Roboter – Modellversuch startet in Leipzig",
+   "summary": "Mehr als 14 Gerichte werden im neuen Roboter-Restaurant frisch am Leipziger Hauptbahnhof zubereitet – und das ganz ohne menschliche Hände am Herd.",
+   "link": "https://www.wiwo.de/erfolg/trends/robotik-restaurant-modellversuch-startet-in-leipzig/100254043.html",
+   "published": "2026-09-12T08:16:36+00:00",
+   "first_seen": "2026-09-12T09:04:05.570985+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Midterms: Konflikt um Rechenzentren könnte Donald Trumps Mehrheit kippen",
+   "summary": "Der Streit um den Bau von Rechenzentren könnte die US-Zwischenwahlen entscheiden. Für die KI-Hyperscaler wird die Entwicklung inzwischen zur ernsten Gefahr.",
+   "link": "https://www.wiwo.de/politik/ausland/midterms-streit-um-ki-rechenzentren-koennte-donald-trumps-mehrheit-kippen/100253619.html",
+   "published": "2026-09-12T08:12:04+00:00",
+   "first_seen": "2026-09-12T09:04:05.570985+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: OpenAI-Software steuerte vor Angriff auf Hugging Face weitere Website an",
@@ -883,24 +901,6 @@
    "published": "2026-09-09T06:54:43+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
-   "summary": "Apple gilt bei künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. Von Angela Göpfert.",
-   "link": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
-   "published": "2026-09-09T05:13:06+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Merkel wünscht sich einen KI-Roboter - für den Haushalt",
-   "summary": "Auch Angela Merkel beschäftigt sich mit Künstlicher Intelligenz: Die Altkanzlerin hofft auf helfende Hände in der Küche - und warnt vor globalen Abhängigkeiten in der KI-Welt.",
-   "link": "https://www.zdfheute.de/panorama/merkel-kuenstliche-intelligenz-ki-haushalt-100.html",
-   "published": "2026-09-08T20:38:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
   }
  ]
 }
