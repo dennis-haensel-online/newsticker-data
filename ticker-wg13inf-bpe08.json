@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T22:04:03.167662+00:00",
+ "updated": "2026-09-12T23:03:42.693976+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Künstliche Intelligenz: Open AI sagt Börsengang vorerst ab",
+   "summary": "Der ChatGPT-Entwickler hält ein Börsendebüt im Jahr 2026 für nicht mehr tragbar. Es gebe noch viel zu tun, um Sicherheitsanforderungen zu erfüllen, sagt Chef Sam Altman.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/openai-boersengang-sam-altman-ki-sicherheit-anthropic",
+   "published": "2026-09-12T22:21:52+00:00",
+   "first_seen": "2026-09-12T23:03:42.693976+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "\"Katastrophaler Schaden\" möglich: Was ein KI-CEO nun fordert",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/digitaler-durchblick-gehackt-und-geleakt-was-betroffene-tun-koennen/100253394.html",
    "published": "2026-09-10T01:28:04+00:00",
    "first_seen": "2026-09-10T02:04:05.889928+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
-   "summary": "Eine frühe Version von Claude Opus 4.6 ist in ein fremdes Computersystem eingedrungen. Anthropic lässt die Vorfälle nun extern untersuchen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell/100253383.html",
-   "published": "2026-09-09T21:38:48+00:00",
-   "first_seen": "2026-09-09T21:54:09.407523+00:00",
    "paywall": true
   }
  ]
