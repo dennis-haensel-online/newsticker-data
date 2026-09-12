@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T21:04:31.819197+00:00",
+ "updated": "2026-09-12T22:04:03.167662+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "\"Katastrophaler Schaden\" möglich: Was ein KI-CEO nun fordert",
+   "summary": "Nach mehreren autonomen Hackerangriffen durch KI-Modelle will Anthropic-CEO Amodei die weitere Entwicklung verlangsamen. Zuspruch erhält er von den Tech-Chefs Musk und Altman.",
+   "link": "https://www.zdfheute.de/panorama/ki-entwicklung-anthropic-chef-warnung-altman-musk-100.html",
+   "published": "2026-09-12T21:07:00+00:00",
+   "first_seen": "2026-09-12T22:04:03.167662+00:00",
+   "paywall": false
+  },
   {
    "label": "SPIEGEL",
    "title": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
@@ -10,6 +19,15 @@
    "published": "2026-09-12T20:58:00+00:00",
    "first_seen": "2026-09-12T21:04:31.819197+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: OpenAI-Chef Altman: Börsengang nicht mehr in diesem Jahr",
+   "summary": "„Man wäre schlecht beraten, genau jetzt an die Börse zu gehen“, so Altman +++ Debatte über verlangsamte Entwicklung von KI +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-chef-altman-boersengang-nicht-mehr-in-diesem-jahr-faz-200452404.html",
+   "published": "2026-09-12T20:52:44+00:00",
+   "first_seen": "2026-09-12T22:04:03.167662+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -27,6 +45,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dario-amodei-fordert-ki-bremse-anthropic-geht-voran-201221272.html",
    "published": "2026-09-12T20:43:02+00:00",
    "first_seen": "2026-09-12T21:04:31.819197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Bremse und will externe Prüfer in der Firma",
+   "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren – und mit gutem Beispiel vorangehen. Seine Wettbewerber Sam Altman und Elon Musk stimmen ihm zu.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-chef-amodei-fordert-ki-bremse-musk-und-altmann-stimmen-zu-201221272.html",
+   "published": "2026-09-12T20:43:02+00:00",
+   "first_seen": "2026-09-12T22:04:03.167662+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell/100253383.html",
    "published": "2026-09-09T21:38:48+00:00",
    "first_seen": "2026-09-09T21:54:09.407523+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Meckel & Matthes: „Mir blutet das Herz“ – Angela Merkel über Sachsen-Anhalt",
-   "summary": "In dieser Video-Sonderfolge spricht Miriam Meckel auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet.",
-   "link": "https://www.handelsblatt.com/video/pool/sonderfolgemeckel-matthes/100253339.html",
-   "published": "2026-09-09T19:05:54+00:00",
-   "first_seen": "2026-09-09T20:04:40.737298+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Meckel & Matthes: „Mir blutet das Herz“ – Eine Sonderfolge mit Angela Merkel über Sachsen-Anhalt",
-   "summary": "In dieser Sonderfolge spricht Miriam Meckel live auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet.",
-   "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-mir-blutet-das-herz-angela-merkel-ueber-sachsen-anhalt/100253311.html",
-   "published": "2026-09-09T19:01:32+00:00",
-   "first_seen": "2026-09-09T19:03:43.509936+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobiltelefone: Stolzer Preis: Apple stellt faltbares iPhone für 2299 Euro vor",
-   "summary": "Es ist der erste große Auftritt für den neuen Chef Ternus. Bei den Kunden will Apple zudem mit einer neuen KI-Assistentin Siri punkten. Eine Ankündigung überrascht.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/mobiltelefone-apple-stellt-faltbares-iphone-fuer-2299-euro-vor/100250945.html",
-   "published": "2026-09-09T18:33:48+00:00",
-   "first_seen": "2026-09-09T19:03:43.509936+00:00",
    "paywall": true
   }
  ]
