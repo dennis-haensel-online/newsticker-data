@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T04:03:57.914128+00:00",
+ "updated": "2026-09-12T05:03:58.828604+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "„Brains on Silicon“: Expertin: KI soll Umsätze im Mittelstand ankurbeln",
+   "summary": "Wie können mittelständische Unternehmen mit Künstlicher Intelligenz wachsen? Eine Expertin erklärt, warum Mut und einfache Lösungen den Unterschied machen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/brains-on-silicon-expertin-ki-soll-umsaetze-im-mittelstand-ankurbeln/100254029.html",
+   "published": "2026-09-12T04:00:07+00:00",
+   "first_seen": "2026-09-12T05:03:58.828604+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Insiderberichte: Nvidia erwägt offenbar Milliardeneinstieg bei Anthropic-Börsengang",
@@ -892,15 +901,6 @@
    "published": "2026-09-08T12:36:12+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
-   "summary": "In der bisher größten Finanzierungsrunde in Europa hat Mistral drei Milliarden Euro eingesammelt. Das französische Start-up setzt auf offene KI-Modelle und präsentiert sich als Gegenentwurf zu den US-Konzernen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html",
-   "published": "2026-09-08T08:04:16+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
   }
  ]
 }
