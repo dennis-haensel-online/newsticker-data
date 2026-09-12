@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T20:03:53.320826+00:00",
+ "updated": "2026-09-12T21:04:31.819197+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
+   "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers OpenAI wird in diesem Jahr nicht stattfinden. Firmenchef Sam Altman begründet dies mit Sicherheitsbedenken.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
+   "published": "2026-09-12T20:58:00+00:00",
+   "first_seen": "2026-09-12T21:04:31.819197+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "ChatGPT-Erfinder: OpenAI verschiebt Börsengang – Chef Altman spricht von „Sicherheitsbedenken“",
+   "summary": "Der Entwickler des Textroboters ChatGPT verschiebt seinen Börsengang auf 2027. Sam Altman begründet den Schritt mit Sicherheitsproblemen, die als Privatfirma einfacher zu lösen seien.",
+   "link": "https://www.handelsblatt.com/technik/ki/chatgpt-erfinder-openai-verschiebt-boersengang-chef-altman-spricht-von-sicherheitsbedenken/100254089.html",
+   "published": "2026-09-12T20:45:03+00:00",
+   "first_seen": "2026-09-12T21:04:31.819197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Bremse und will externe Prüfer in der Firma",
+   "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren – und mit gutem Beispiel vorangehen. Seine Wettbewerber Sam Altman und Elon Musk stimmen ihm zu.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dario-amodei-fordert-ki-bremse-anthropic-geht-voran-201221272.html",
+   "published": "2026-09-12T20:43:02+00:00",
+   "first_seen": "2026-09-12T21:04:31.819197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI-Chef: Börsengang nicht mehr in diesem Jahr",
+   "summary": "Der ChatGPT-Entwickler OpenAI ist das wohl bekannteste KI-Unternehmen. Der seit langem vorbereitete Börsengang dürfte ein Riesen-Event werden. Doch Firmenchef Sam Altman findet den Moment ungünstig.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-chef-boersengang-nicht-mehr-in-diesem-jahr/100254090.html",
+   "published": "2026-09-12T20:21:26+00:00",
+   "first_seen": "2026-09-12T21:04:31.819197+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Gefahren von Künstlicher Intelligenz: Wer haftet, wenn die KI uns umbringen will?",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/mobiltelefone-apple-stellt-faltbares-iphone-fuer-2299-euro-vor/100250945.html",
    "published": "2026-09-09T18:33:48+00:00",
    "first_seen": "2026-09-09T19:03:43.509936+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Meckel & Matthes: „Mir blutet das Herz“ – Angela Merkel über Sachsen-Anhalt und die Macht der Maschinen",
-   "summary": "In dieser Sonderfolge spricht Miriam Meckel live auf der Bühne mit der Altkanzlerin über Sachsen-Anhalt. Außerdem: Wie Merkel selbst KI nutzt – und was die rasante Entwicklung für uns bedeutet.",
-   "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-mir-blutet-das-herz-angela-merkel-ueber-sachsen-anhalt/100253293.html",
-   "published": "2026-09-09T18:26:39+00:00",
-   "first_seen": "2026-09-09T19:03:43.509936+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Investorenpläne: KI-Zentrum und Batteriespeicher statt AKW Isar II",
-   "summary": "In Niederaichbach soll nahe Isar II ein KI-Rechenzentrum mit Batteriespeicher entstehen. Die Pläne setzen auf die Infrastruktur des SuedOstLinks.",
-   "link": "https://www.wiwo.de/unternehmen/energie/investorenplaene-ki-zentrum-und-batteriespeicher-statt-akw-isar-ii/100253308.html",
-   "published": "2026-09-09T14:54:13+00:00",
-   "first_seen": "2026-09-09T21:54:09.407523+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "„Sie setzen unser Leben aufs Spiel“: Anthropic-Experte kündigt aus Angst vor der KI",
-   "summary": "Unter KI‑Forschern wächst die Angst vor der Künstlichen Intelligenz. Jetzt zieht ein Anthropic-Angestellter persönlich Konsequenzen – und hält der Branche den Spiegel vor.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/jacob-coxon-kuendigt-bei-anthropic-ki-forscher-warnt-vor-kontrollverlust/100253165.html",
-   "published": "2026-09-09T14:26:00+00:00",
-   "first_seen": "2026-09-09T21:54:09.407523+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html",
-   "published": "2026-09-09T13:55:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
   }
  ]
