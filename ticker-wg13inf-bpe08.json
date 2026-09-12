@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T17:03:35.201035+00:00",
+ "updated": "2026-09-12T18:04:35.383323+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Chef von Anthropic für verlangsamte Entwicklung der KI",
+   "summary": "Dario Amodeis Vorschlag erhält Zuspruch von OpenAI-CEO Sam Altman +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Evonik schließt Standorte in Hamburg und Bitterfeld +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung-faz-200452404.html",
+   "published": "2026-09-12T17:48:13+00:00",
+   "first_seen": "2026-09-12T18:04:35.383323+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
+   "summary": "Seit Jahren gibt es Aufrufe, die KI-Entwicklung zu verlangsamen. Durch einen jüngsten Zwischenfall als Weckruf gibt es nun erste Bewegung bei den großen Entwicklern Künstlicher Intelligenz.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung/100254082.html",
+   "published": "2026-09-12T17:34:20+00:00",
+   "first_seen": "2026-09-12T18:04:35.383323+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Sicherheit: Dario Amodei warnt vor KI-Katastrophe",
+   "summary": "Der Anthropic-Chef fordert in einem viel beachteten Essay, die Entwicklung neuer Modelle zu drosseln – und räumt Pannen im eigenen Haus ein. Sein Drei-Stufen-Plan reicht bis nach China.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-sicherheit-dario-amodei-warnt-vor-ki-katastrophe/100254079.html",
+   "published": "2026-09-12T17:31:23+00:00",
+   "first_seen": "2026-09-12T18:04:35.383323+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "USA vs. China: Wettrüsten um beste KI mit Milliarden",
@@ -874,33 +901,6 @@
    "published": "2026-09-09T13:52:00+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-mit-diesem-ki-wissen-ueberzeugen-sie-headhunter-sofort-01/100240522.html",
-   "published": "2026-09-09T13:47:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Anthropic-Forscher kündigt und gibt düstere Warnung",
-   "summary": "Jacob Coxon warnt vor der Gefahr, dass Künstliche Intelligenz „uns alle töten“ könnte. Sowohl Open AI als auch Anthropic wirft er einen Mangel an Verantwortungsbewusstsein vor.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jacob-coxon-anthropic-forscher-kuendigt-und-gibt-duestere-warnung-201210371.html",
-   "published": "2026-09-09T13:39:36+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Debatte um Altersgrenze für Social Media: Ex­per­t:in­nen fordern Regeln statt Verbot",
-   "summary": "Dutzende Kinderrechts- und Digitalrechtsorganisationen fordern anstelle eines Social-Media-Verbots Änderungen an Plattformen wie Instagram, Tiktok und Youtube. mehr...",
-   "link": "https://taz.de/Debatte-um-Altersgrenze-fuer-Social-Media/!6211683/",
-   "published": "2026-09-09T13:35:00+00:00",
-   "first_seen": "2026-09-09T21:54:09.407523+00:00",
-   "paywall": false
   }
  ]
 }
