@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-13T00:05:59.096314+00:00",
+ "updated": "2026-09-13T01:03:24.853898+00:00",
  "items": [
   {
    "label": "tagesschau",
@@ -9,6 +9,15 @@
    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
    "published": "2026-09-12T23:53:35+00:00",
    "first_seen": "2026-09-13T00:05:59.096314+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI verschiebt Börsengang - wegen Sicherheitsbedenken",
+   "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers wird in diesem Jahr nicht mehr stattfinden - Firmenchef Sam Altman verweist auf Sicherheitsbedenken in der Branche.",
+   "link": "https://www.zdfheute.de/wirtschaft/open-ai-boersengang-sicherheitsbedenken-100.html",
+   "published": "2026-09-12T23:06:00+00:00",
+   "first_seen": "2026-09-13T01:03:24.853898+00:00",
    "paywall": false
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Der Präsident der Vereinigten Arabischen Emirate reist zum Staatsbesuch nach Berlin. Begleitet wird er von seinem KI-Berater: Faisal Al Bannai will Deutschland ein Angebot machen.",
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-sie-haben-roboter-bei-uns-koennen-sie-sie-testen/100252963.html",
    "published": "2026-09-10T01:53:14+00:00",
-   "first_seen": "2026-09-10T02:04:05.889928+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: OpenAI fordert verpflichtende nationale Sicherheitsregeln für KI",
-   "summary": "Die Debatte über die Sicherheitsrisiken von KI wird immer lauter. Nun richtet sich OpenAI mit einer Forderung an den US-Kongress.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-openai-chatgpt-usa-us-politik-technologie-sicherheit-li.3545150",
-   "published": "2026-09-10T01:50:52+00:00",
    "first_seen": "2026-09-10T02:04:05.889928+00:00",
    "paywall": true
   }

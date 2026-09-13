@@ -1,6 +1,33 @@
 {
- "updated": "2026-09-13T00:05:59.096314+00:00",
+ "updated": "2026-09-13T01:03:24.853898+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Muslic: \"Habe vor, sehr lange auf Schalke zu bleiben!\"",
+   "summary": "Vom No Name zum Bundesliga-Trainer: Miron Muslic will den Gelsenkirchenern lange treu bleiben. Doch einen Posten gäbe es noch, der ihn ebenso reizen würde.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-miron-muslic-fc-schalke-sportstudio-100.html",
+   "published": "2026-09-13T00:38:00+00:00",
+   "first_seen": "2026-09-13T01:03:24.853898+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Meta: Aufsichtsgremium warnt vor Einführung von »Community Notes« bei Meta",
+   "summary": "Der Digitalkonzern Meta testet einen communitybasierten Faktencheck. Ein unabhängiges Aufsichtsratsgremium warnt im Falle einer Einführung vor »realen Schäden«.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/meta-community-notes-faktencheck-aufmerksamkeit-lateinamerika",
+   "published": "2026-09-13T00:24:51+00:00",
+   "first_seen": "2026-09-13T01:03:24.853898+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Trump drängt Staaten zur Abkehr vom Internationalen Strafgerichtshof",
+   "summary": "Trump kündigt Rückzahlungen für Obamacare-Versicherte an +++ Amazon-Pilot warnte vor Unglück vor zu schnellem Anflug +++ Supreme Court bestätigt Aus für neue Wahlkreise in Missouri +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/trump-draengt-staaten-zur-abkehr-vom-internationalen-strafgerichtshof/29669594.html",
+   "published": "2026-09-13T00:22:00+00:00",
+   "first_seen": "2026-09-13T01:03:24.853898+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
@@ -18,6 +45,15 @@
    "published": "2026-09-12T23:30:04+00:00",
    "first_seen": "2026-09-13T00:05:59.096314+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI verschiebt Börsengang - wegen Sicherheitsbedenken",
+   "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers wird in diesem Jahr nicht mehr stattfinden - Firmenchef Sam Altman verweist auf Sicherheitsbedenken in der Branche.",
+   "link": "https://www.zdfheute.de/wirtschaft/open-ai-boersengang-sicherheitsbedenken-100.html",
+   "published": "2026-09-12T23:06:00+00:00",
+   "first_seen": "2026-09-13T01:03:24.853898+00:00",
+   "paywall": false
   },
   {
    "label": "ZEIT",
@@ -13464,42 +13500,6 @@
    "published": "2026-09-09T05:55:00+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Großbritannien: Mehr als 1000 Flugausfälle nach Störung der Flugsicherung",
-   "summary": "Wegen einer technischen Störung bei der Flugsicherung sind in Großbritannien zahlreiche Flüge ausgefallen. Betroffene Airlines fordern nun personelle Konsequenzen – während Fluggäste weiter Geduld brauchen.",
-   "link": "https://www.spiegel.de/wirtschaft/grossbritannien-airlines-fordern-konsequenzen-nach-ueber-1000-flugausfaellen-a-bf1cafcb-6797-4818-afbd-6f03c173d647#ref=rss",
-   "published": "2026-09-09T05:28:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Technische sTörung: Mehr als 1300 Flugausfälle – Chaos in Großbritannien dauert an",
-   "summary": "Aufgrund einer Störung bei der britischen Flugsicherung werden zahlreiche Flüge annulliert. Besonders betroffen ist Großbritanniens größter Flughafen London-Heathrow.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/grossbritannien-mit-systemproblemen-mehr-als-1300-flugausfaelle-accg-201208734.html",
-   "published": "2026-09-09T05:26:05+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
-   "summary": "Apple gilt bei künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. Von Angela Göpfert.",
-   "link": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html",
-   "published": "2026-09-09T05:13:06+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FOCUS",
-   "title": "China pumpt über 45 Milliarden Euro in Staatsbanken und Versicherer bei nachlassendem Wachstum",
-   "summary": "Chinas Regierung pumpt Milliarden in Banken und Versicherer. Das soll Kredite sichern und Risiken abfedern.",
-   "link": "https://www.focus.de/finanzen/china-pumpt-ueber-45-milliarden-euro-in-staatsbanken-und-versicherer-bei-nachlassendem-wachstum_57ed8511-6288-488f-9ed2-288c5dd6e121.html",
-   "published": "2026-09-09T05:03:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
   }
  ]
 }
