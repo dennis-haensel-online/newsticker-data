@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-13T06:06:56.688199+00:00",
+ "updated": "2026-09-13T07:04:17.345437+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI verschiebt den Börsengang",
+   "summary": "Der ChatGPT-Entwickler OpenAI ist das wohl bekannteste KI-Unternehmen. Der Börsengang dürfte ein Riesen-Event werden. Doch Firmenchef Altman findet den Moment ungünstig.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-chef-boersengang-nicht-mehr-in-diesem-jahr/100254091.html",
+   "published": "2026-09-13T06:59:00+00:00",
+   "first_seen": "2026-09-13T07:04:17.345437+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: OpenAI verschiebt IPO – Chef Altman spricht von „Sicherheitsbedenken“",
+   "summary": "Der Entwickler des Sprachmodells ChatGPT will erst 2027 an die Börse gehen. Sam Altman begründet den Schritt mit Sicherheitsproblemen, die als Privatfirma einfacher zu lösen seien.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-openai-verschiebt-ipo-chef-altman-spricht-von-sicherheitsbedenken/100254089.html",
+   "published": "2026-09-13T06:39:58+00:00",
+   "first_seen": "2026-09-13T07:04:17.345437+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Anthropic, OpenAI, SpaceXAI: Eskaliert jetzt die KI-Krise?",
@@ -9,6 +27,15 @@
    "link": "https://www.spiegel.de/wirtschaft/anthropic-openai-spacexai-eskaliert-jetzt-die-ki-krise-a-718c08cc-db04-4074-b4e7-c2b91e33617b#ref=rss",
    "published": "2026-09-13T05:33:00+00:00",
    "first_seen": "2026-09-13T06:06:56.688199+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+   "summary": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic, und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
+   "published": "2026-09-13T04:47:55+00:00",
+   "first_seen": "2026-09-13T07:04:17.345437+00:00",
    "paywall": false
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.wiwo.de/technologie/digitale-welt/ki-modell-claude-anthropic-meldet-vierten-hackerangriff-durch-eigene-ki/100253427.html",
    "published": "2026-09-10T05:15:15+00:00",
    "first_seen": "2026-09-10T07:05:25.894025+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Geld sparen: Machen Sie einen Herbstputz für Ihre Finanzen! So geht's",
-   "summary": "Nach dem Sommer ist ein super Zeitpunkt, einmal grundlegend auf die eigenen Finanzen zu schauen. Mit oder ohne KI: Es sind Hunderte Euro drin und ein befreiendes Gefühl.",
-   "link": "https://www.zeit.de/geld/2026-09/geld-sparen-finanzen-kuenstliche-intelligenz-rendite",
-   "published": "2026-09-10T04:03:52+00:00",
-   "first_seen": "2026-09-10T05:03:52.985310+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing: Wie Apple sich ins KI-Zeitalter vortastet",
-   "summary": "Der neue Apple-Chef startet eine regelrechte Produktoffensive. Viele der Geräte sind bemerkenswert teuer – aber auch nötig, wenn Apple weiter vorne mitspielen will.",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-wie-apple-sich-ins-ki-zeitalter-vortastet/100253381.html",
-   "published": "2026-09-10T03:47:03+00:00",
-   "first_seen": "2026-09-10T04:03:59.400665+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vorstoß in neuen Markt: Neuer Apple-Chef setzt Akzente mit erstem Falt-iPhone und KI",
-   "summary": "Gerade einmal jedes 50. verkaufte Smartphone hat ein faltbares Display. Dennoch zieht es Apple Jahre nach der Konkurrenz in diesen Nischenmarkt. Zudem wird die KI-Strategie des Konzerns klarer.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/vorstoss-in-neuen-markt-neuer-apple-chef-setzt-akzente-mit-erstem-falt-iphone-und-ki/100253410.html",
-   "published": "2026-09-10T03:00:37+00:00",
-   "first_seen": "2026-09-10T04:03:59.400665+00:00",
    "paywall": true
   }
  ]
