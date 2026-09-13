@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-12T23:03:42.693976+00:00",
+ "updated": "2026-09-13T00:05:59.096314+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+   "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch in diesem Jahr wird es wohl nichts damit: Firmenchef Altman hält den Zeitpunkt für ungünstig - angesichts der Debatte über Risiken von KI.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+   "published": "2026-09-12T23:53:35+00:00",
+   "first_seen": "2026-09-13T00:05:59.096314+00:00",
+   "paywall": false
+  },
   {
    "label": "ZEIT",
    "title": "Künstliche Intelligenz: Open AI sagt Börsengang vorerst ab",
@@ -890,15 +899,6 @@
    "summary": "Die Debatte über die Sicherheitsrisiken von KI wird immer lauter. Nun richtet sich OpenAI mit einer Forderung an den US-Kongress.",
    "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-openai-chatgpt-usa-us-politik-technologie-sicherheit-li.3545150",
    "published": "2026-09-10T01:50:52+00:00",
-   "first_seen": "2026-09-10T02:04:05.889928+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitaler Durchblick: Gehackt und geleakt: Was Betroffene tun können",
-   "summary": "Berichte über Hackerangriffe oder Datenlecks sind an der Tagesordnung - und bleiben längst nicht immer abstrakt: Der Diebstahl persönlicher oder sensibler Daten kann jeden treffen, immer. Und dann?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/digitaler-durchblick-gehackt-und-geleakt-was-betroffene-tun-koennen/100253394.html",
-   "published": "2026-09-10T01:28:04+00:00",
    "first_seen": "2026-09-10T02:04:05.889928+00:00",
    "paywall": true
   }
