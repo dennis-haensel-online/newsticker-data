@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-13T07:04:17.345437+00:00",
+ "updated": "2026-09-13T08:04:01.383554+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
+   "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-droht-uns-wirklich-das-ende-accg-201214335.html",
+   "published": "2026-09-13T07:49:37+00:00",
+   "first_seen": "2026-09-13T08:04:01.383554+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Amerikanische KI-Bosse für verlangsamte Entwicklung",
+   "summary": "Seit Jahren gibt es Aufrufe, die KI-Entwicklung zu verlangsamen. Nach einem jüngsten Zwischenfall gibt es nun bei den großen Entwicklern Bewegung in diese Richtung.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-amerikanische-ki-bosse-fuer-verlangsamte-entwicklung/100254122.html",
+   "published": "2026-09-13T07:00:00+00:00",
+   "first_seen": "2026-09-13T08:04:01.383554+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: OpenAI verschiebt den Börsengang",
@@ -881,24 +899,6 @@
    "summary": "Nur jedes 50. verkaufte Smartphone ist faltbar. Dennoch zieht es Apple in diesen Nischenmarkt. Zudem wird die KI-Strategie des Konzerns klarer.",
    "link": "https://www.wiwo.de/unternehmen/it/smartphones-apple-bringt-erstes-faltbares-iphone-heraus/100253017.html",
    "published": "2026-09-10T05:30:00+00:00",
-   "first_seen": "2026-09-10T07:05:25.894025+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
-   "summary": "Bei Anthropic ist ein weiterer Sicherheitsvorfall mit dem KI-Modell Claude bekannt geworden. Entdeckt wurde er erst bei einer nachträglichen Auswertung.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-anthropic-meldet-vierten-hackerangriff-durch-eigenes-ki-modell/100253427.html",
-   "published": "2026-09-10T05:15:15+00:00",
-   "first_seen": "2026-09-10T06:05:43.605224+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Anthropic meldet vierten Hackerangriff durch eigenes KI-Modell",
-   "summary": "Bei Anthropic ist ein weiterer Sicherheitsvorfall mit dem KI-Modell Claude bekannt geworden. Entdeckt wurde er erst bei einer nachträglichen Auswertung.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/ki-modell-claude-anthropic-meldet-vierten-hackerangriff-durch-eigene-ki/100253427.html",
-   "published": "2026-09-10T05:15:15+00:00",
    "first_seen": "2026-09-10T07:05:25.894025+00:00",
    "paywall": true
   }
