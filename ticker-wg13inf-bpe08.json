@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-13T18:04:35.904941+00:00",
+ "updated": "2026-09-13T19:03:16.708064+00:00",
  "items": [
   {
    "label": "taz",
@@ -45,6 +45,15 @@
    "link": "https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss",
    "published": "2026-09-13T13:54:00+00:00",
    "first_seen": "2026-09-13T14:04:18.362547+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz: Sam Altman von OpenAI äußert sich zu Sicherheitsbedenken",
+   "summary": "Wie gefährlich wird die KI? Darüber wird gerade wieder debattiert, es gibt Warnungen aus der Branche. Die will jetzt angeblich selbst auf die Bremse treten.",
+   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss",
+   "published": "2026-09-13T13:54:00+00:00",
+   "first_seen": "2026-09-13T19:03:16.708064+00:00",
    "paywall": false
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Darf die Schufa alte Kreditdaten aufbewahren und für ihre Modelle nutzen? Kritiker sehen einen Verstoß gegen Datenschutzregeln, die Schufa hält dagegen. Jetzt geht der Streit vor Gericht.",
    "link": "https://www.sueddeutsche.de/wirtschaft/schufa-datenspeicherung-gericht-nyob-datenschutz-li.3545323",
    "published": "2026-09-10T09:41:39+00:00",
-   "first_seen": "2026-09-10T10:03:58.346754+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
-   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-so-sieht-deutschlands-juengste-ki-professorin-den-hype-um-ki/100188740.html",
-   "published": "2026-09-10T09:34:00+00:00",
    "first_seen": "2026-09-10T10:03:58.346754+00:00",
    "paywall": true
   }
