@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-13T11:03:45.559642+00:00",
+ "updated": "2026-09-13T12:04:45.632340+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Europas Banken brauchen einfachere Regeln, keine laxeren",
+   "summary": "Stabile Banken stärken Europas Wettbewerbsfähigkeit. Sie brauchen risikogerechte Regeln und weniger unnötigen Aufwand, meinen Denis Beau und Michael Theurer aus dem EZB-Aufsichtsgremium.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-europas-banken-brauchen-einfachere-regeln-keine-laxeren/100252907.html",
+   "published": "2026-09-13T11:45:02+00:00",
+   "first_seen": "2026-09-13T12:04:45.632340+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Konjunktur: Deutsche China-Investitionen steigen im 1. Halbjahr um ein Drittel",
@@ -37,6 +46,15 @@
    "published": "2026-09-12T16:26:21+00:00",
    "first_seen": "2026-09-12T17:03:35.201035+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie geht's der deutschen Wirtschaft unter Kanzler Merz?",
+   "summary": "Geringes Wachstum, steigende Preise, wenig Arbeitsmarktbewegung: Wie geht es der Wirtschaft unter Kanzler Friedrich Merz? Die wichtigsten Daten im Überblick.",
+   "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-bip-arbeitslose-inflation-merz-100.html",
+   "published": "2026-09-12T10:44:00+00:00",
+   "first_seen": "2026-09-13T12:04:45.632340+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -883,24 +901,6 @@
    "published": "2026-09-10T03:56:11+00:00",
    "first_seen": "2026-09-10T04:03:59.400665+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "EZB-Zinssitzung: Sind Leitzinsen von drei Prozent wirklich realistisch?",
-   "summary": "Die EZB steht wohl vor dem nächsten Zinsschritt. Die Finanzmärkte rechnen sogar mit weiteren Erhöhungen – doch sie könnten falsch liegen.",
-   "link": "https://www.wiwo.de/politik/europa/ezb-zinsentscheid-heute-sind-leitzinsen-von-drei-prozent-realistisch/100252140.html",
-   "published": "2026-09-10T03:56:11+00:00",
-   "first_seen": "2026-09-10T06:05:43.605224+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "EZB-Zinsentscheid: So beeinflusst der Leitzins Ihr Geld",
-   "summary": "Die Zahlen klingen abstrakt, die Auswirkungen sind real: Wie der Leitzins der Europäischen Zentralbank den Alltag beeinflusst - im Supermarkt, auf dem Sparkonto und bei Krediten.",
-   "link": "https://www.zdfheute.de/wirtschaft/zinsentscheid-ezb-leitzins-leitzinsen-europaeische-zentralbank-100.html",
-   "published": "2026-09-10T03:56:00+00:00",
-   "first_seen": "2026-09-10T04:03:59.400665+00:00",
-   "paywall": false
   }
  ]
 }
