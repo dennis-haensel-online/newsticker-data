@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-09-13T13:03:40.436756+00:00",
+ "updated": "2026-09-13T14:04:18.362547+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Matcha",
+   "summary": "Grün, grüner, Matcha. Das Trendgetränk aus Japan wird auf Social Media gehypt. Doch die hohe Nachfrage sorgt für steigende Preise, Lieferengpässe und Fake-Produkte.",
+   "link": "https://www.zdf.de/video/dokus/planet-e-genuss-mit-beigeschmack-100/matcha--genuss-mit-beigeschmack-100",
+   "published": "2026-09-13T13:30:00+00:00",
+   "first_seen": "2026-09-13T14:04:18.362547+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Gastkommentar: Europas Banken brauchen einfachere Regeln, keine laxeren",
@@ -9,6 +18,15 @@
    "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-europas-banken-brauchen-einfachere-regeln-keine-laxeren/100252907.html",
    "published": "2026-09-13T11:45:02+00:00",
    "first_seen": "2026-09-13T12:04:45.632340+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Europas Banken brauchen einfachere Regeln, keine laxeren",
+   "summary": "Stabile Banken stärken Europas Wettbewerbsfähigkeit. Sie brauchen risikogerechte Regeln und weniger unnötigen Aufwand, meinen Denis Beau und Michael Theurer aus dem EZB-Aufsichtsgremium.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-europas-banken-brauchen-einfachere-regeln-keine-laxeren-1/100252907.html",
+   "published": "2026-09-13T11:45:02+00:00",
+   "first_seen": "2026-09-13T14:04:18.362547+00:00",
    "paywall": true
   },
   {
@@ -595,15 +613,6 @@
    "published": "2026-09-09T15:11:00+00:00",
    "first_seen": "2026-09-09T21:54:09.407523+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autoindustrie: Chinesen übertrumpfen erste europäische Marken in Deutschland – nur ein Segment bleibt noch verschont",
-   "summary": "Chinesische Marken gewinnen in Europa rasant Marktanteile. Exklusive Daten zeigen, welche Hersteller besonders stark unter der neuen Konkurrenz leiden.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-chinesen-uebertrumpfen-erste-europaeische-marken-in-deutschland/100244265.html",
-   "published": "2026-09-09T15:02:32+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
   }
  ]
 }
