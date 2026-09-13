@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-09-13T08:04:01.383554+00:00",
+ "updated": "2026-09-13T10:11:14.995132+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Chemiekonzern Evonik schließt Standort in Bitterfeld",
+   "summary": "OpenAI-Chef Altman: Börsengang nicht mehr in diesem Jahr +++ Debatte über verlangsamte Entwicklung von KI +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-chemiekonzern-evonik-schliesst-standort-in-bitterfeld-faz-200452404.html",
+   "published": "2026-09-13T08:34:00+00:00",
+   "first_seen": "2026-09-13T10:11:14.995132+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: OpenAI verschiebt den Börsengang",
@@ -72,6 +81,15 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
    "published": "2026-09-12T20:58:00+00:00",
    "first_seen": "2026-09-12T21:04:31.819197+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz: OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
+   "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers OpenAI wird in diesem Jahr nicht stattfinden. Firmenchef Sam Altman begründet dies mit der aktuellen Debatte über die Sicherheit von künstlicher Intelligenz.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
+   "published": "2026-09-12T20:58:00+00:00",
+   "first_seen": "2026-09-13T10:11:14.995132+00:00",
    "paywall": false
   },
   {
@@ -703,42 +721,6 @@
    "published": "2026-09-09T12:46:18+00:00",
    "first_seen": "2026-09-09T17:54:56.892745+00:00",
    "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Genossenschaftsbanken: „Ein Bankraub in Plankstetten“",
-   "summary": "Die Finanzaufsicht hat Vorstand und Aufsichtsrat der Mini-Raiffeisenbank abberufen. Während die Plankstettener von einem Komplott sprechen, wirft die Bafin der Bank mangelnde Kooperation vor. Nun steht eine Hauptversammlung bevor.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/raiffeisenbank-plankstetten-finanzaufsicht-vorstaende-amtsenthebung-li.3544698",
-   "published": "2026-09-09T11:59:35+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Ernährung: Wieso Kantinen mehr Currywurst servieren – und Kinder kein Bioessen bekommen",
-   "summary": "Apetito ist größter Caterer der Republik. Das Familienunternehmen betreibt Kantinen und beliefert Schulen mit Tiefkühlessen. Niemand sonst weiß so genau, was den Deutschen gerade schmeckt.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/apetito-kantine-bio-landhauskueche-li.3543033",
-   "published": "2026-09-09T11:17:36+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "EU-Gericht: Booking darf Flugbuchungsportal nicht übernehmen",
-   "summary": "Bereits 2023 hatte die EU-Kommission Booking die Übernahme des Flugportals E-Traveli untersagt. Nun bestätigt das EU-Gericht diese Entscheidung. Damit soll der Wettbewerb geschützt werden.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/booking-flugbuchungsportal-e-traveli-li.3544818",
-   "published": "2026-09-09T11:17:07+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Covenant: US-Rüstungsfirma will Marschflugkörper bei Leipzig produzieren",
-   "summary": "Ab Anfang 2027 will das Rüstung-Start-up Covenant mit der Massenproduktion von günstigen Marschflugkörpern im Raum Leipzig beginnen. Nach SPIEGEL-Informationen zeigt die Bundeswehr großes Interesse an den Systemen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/covenant-us-ruestungsfirma-will-marschflugkoerper-bei-leipzig-produzieren-a-2eed6447-3d20-4a89-89d6-e49f7ff24267#ref=rss",
-   "published": "2026-09-09T11:15:00+00:00",
-   "first_seen": "2026-09-09T17:54:56.892745+00:00",
-   "paywall": false
   }
  ]
 }

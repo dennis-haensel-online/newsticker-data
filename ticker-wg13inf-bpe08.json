@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-13T08:04:01.383554+00:00",
+ "updated": "2026-09-13T10:11:14.995132+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Künstliche Intelligenz: US-Techbosse pochen auf langsamere Entwicklung",
+   "summary": "Seit Jahren gibt es Aufrufe, KI-Entwicklung zu verlangsamen. Nach Zwischenfällen gibt es nun unter KI-Unternehmern erste Schritte in diese Richtung. mehr...",
+   "link": "https://taz.de/Kuenstliche-Intelligenz/!6212710/",
+   "published": "2026-09-13T08:34:00+00:00",
+   "first_seen": "2026-09-13T10:11:14.995132+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Chemiekonzern Evonik schließt Standort in Bitterfeld",
+   "summary": "OpenAI-Chef Altman: Börsengang nicht mehr in diesem Jahr +++ Debatte über verlangsamte Entwicklung von KI +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-chemiekonzern-evonik-schliesst-standort-in-bitterfeld-faz-200452404.html",
+   "published": "2026-09-13T08:34:00+00:00",
+   "first_seen": "2026-09-13T10:11:14.995132+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
@@ -9,6 +27,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-droht-uns-wirklich-das-ende-accg-201214335.html",
    "published": "2026-09-13T07:49:37+00:00",
    "first_seen": "2026-09-13T08:04:01.383554+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
+   "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amodei-altman-musk-droht-uns-durch-ki-wirklich-das-ende-accg-201214335.html",
+   "published": "2026-09-13T07:49:37+00:00",
+   "first_seen": "2026-09-13T10:11:14.995132+00:00",
    "paywall": true
   },
   {
@@ -108,6 +135,15 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
    "published": "2026-09-12T20:58:00+00:00",
    "first_seen": "2026-09-12T21:04:31.819197+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz: OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
+   "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers OpenAI wird in diesem Jahr nicht stattfinden. Firmenchef Sam Altman begründet dies mit der aktuellen Debatte über die Sicherheit von künstlicher Intelligenz.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
+   "published": "2026-09-12T20:58:00+00:00",
+   "first_seen": "2026-09-13T10:11:14.995132+00:00",
    "paywall": false
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/apple-was-john-ternus-debuet-ueber-die-zukunft-des-konzerns-verraet/100253333.html",
    "published": "2026-09-10T06:03:00+00:00",
    "first_seen": "2026-09-10T08:04:23.489824+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Anthropic: KI-Forscher tritt zurück: „Sie spielen mit unseren Leben“",
-   "summary": "Nachdem OpenAI sein mächtigstes KI-Modell vorgestellt hat, wirft ein Forscher der Konkurrenzfirma Anthropic hin. Er hält den eigenen Arbeitgeber für unverantwortlich.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/drastische-mahnungen-ki-forscher-kuenstliche-intelligenz-ein-risiko-fuer-menschen/100253149.html",
-   "published": "2026-09-10T06:02:00+00:00",
-   "first_seen": "2026-09-10T06:05:43.605224+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Anthropic: KI-Forscher tritt zurück: „Sie spielen mit unseren Leben“",
-   "summary": "Nachdem OpenAI sein mächtigstes KI-Modell vorgestellt hat, wirft ein Forscher der Konkurrenzfirma Anthropic hin. Er hält den eigenen Arbeitgeber für unverantwortlich.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/drastische-mahnungen-ki-forscher-kuenstliche-intelligenz-ein-risiko-fuer-menschen-01/100253149.html",
-   "published": "2026-09-10T06:02:00+00:00",
-   "first_seen": "2026-09-10T08:04:23.489824+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: Bundeswehr will Palantir-Alternative schon 2027 einführen",
-   "summary": "Derzeit testet die deutsche Armee Systeme von 30 Firmen, um Kampfdaten in Echtzeit zu verschmelzen. Eine mögliche Lösung kommt vom Sensorikspezialisten Hensoldt und dem KI-Start-up Helsing.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/verteidigung-bundeswehr-will-palantir-alternative-schon-2027-einfuehren/100247052.html",
-   "published": "2026-09-10T05:55:55+00:00",
-   "first_seen": "2026-09-10T06:05:43.605224+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Vorstoß in neuen Markt: Neuer Apple-Chef setzt Akzente mit erstem Falt-iPhone und KI",
-   "summary": "Nur jedes 50. verkaufte Smartphone ist faltbar. Dennoch zieht es Apple in diesen Nischenmarkt. Zudem wird die KI-Strategie des Konzerns klarer.",
-   "link": "https://www.wiwo.de/unternehmen/it/smartphones-apple-bringt-erstes-faltbares-iphone-heraus/100253017.html",
-   "published": "2026-09-10T05:30:00+00:00",
-   "first_seen": "2026-09-10T07:05:25.894025+00:00",
    "paywall": true
   }
  ]
