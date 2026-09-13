@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-13T02:04:12.320810+00:00",
+ "updated": "2026-09-13T03:03:46.779234+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Amerikanische KI-Bosse für verlangsamte Entwicklung",
+   "summary": "Seit Jahren gibt es Aufrufe, die KI-Entwicklung zu verlangsamen. Nach einem jüngsten Zwischenfall gibt es nun bei den großen Entwicklern Künstlicher Intelligenz erste Bewegung in diese Richtung.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-amerikanische-ki-bosse-fuer-verlangsamte-entwicklung/100254121.html",
+   "published": "2026-09-13T02:47:19+00:00",
+   "first_seen": "2026-09-13T03:03:46.779234+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/gruene-parteichefin-brantner-startet-ki-dialog-mit-unternehmen/100252593.html",
    "published": "2026-09-10T02:00:02+00:00",
    "first_seen": "2026-09-10T03:04:00.525449+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Sie haben Roboter? Bei uns können Sie sie in großem Umfang testen“",
-   "summary": "Der Präsident der Vereinigten Arabischen Emirate reist zum Staatsbesuch nach Berlin. Begleitet wird er von seinem KI-Berater: Faisal Al Bannai will Deutschland ein Angebot machen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-sie-haben-roboter-bei-uns-koennen-sie-sie-testen/100252963.html",
-   "published": "2026-09-10T01:53:14+00:00",
-   "first_seen": "2026-09-10T02:04:05.889928+00:00",
    "paywall": true
   }
  ]
