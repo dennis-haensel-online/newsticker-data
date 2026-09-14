@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-14T07:05:44.690783+00:00",
+ "updated": "2026-09-14T08:04:31.318848+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Quantencomputing ist der Hebel für neues Wachstum",
+   "summary": "Quantencomputer könnten unsere Leitindustrien grundlegend verändern. Um bei der Technologie auch Standards zu setzen, müssen Unternehmen nun handeln, meint Investorin Ann-Kristin Achleitner.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-quantencomputer-deutschland-muss-entwickler-und-anwender-werden/100253201.html",
+   "published": "2026-09-14T07:44:53+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-hoch-ist-ihr-vermoegen-im-deutschen-vergleich/100149729.html",
+   "published": "2026-09-14T07:13:00+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": true
+  },
   {
    "label": "ZEIT",
    "title": "Wirtschaftspolitik der AfD: Wie die AfD im Osten den Aufschwung schaffen will",
@@ -27,6 +45,15 @@
    "link": "https://www.wiwo.de/politik/ausland/leitzins-trump-droht-bei-ausbleibender-zinssenkung-mit-handelsstopp/100254263.html",
    "published": "2026-09-14T05:30:50+00:00",
    "first_seen": "2026-09-14T06:05:40.439142+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Leitzins: Trump droht bei ausbleibender Zinssenkung mit Handelsstopp",
+   "summary": "Kurz vor dem Zinsentscheid wiederholt der US-Präsident seine Drohung. Wenn die Zinsen nicht sinken, werde er den Handel mit bestimmten Ländern komplett einstellen.",
+   "link": "https://www.wiwo.de/politik/ausland/fed-zinsentscheidung-donald-trump-droht-mit-handelsstopp/100254263.html",
+   "published": "2026-09-14T05:30:50+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/inflation-deutschland-energiepreise-verbraucherpreise-irankrieg-gxe",
    "published": "2026-09-10T06:51:43+00:00",
    "first_seen": "2026-09-10T09:04:09.788622+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Die zu einfachen Lehren aus Sachsen-Anhalt",
-   "summary": "AfD-Wähler sind keine homogene Gruppe. Zurückholen lassen sich vor allem jene, die am Reformstau verzweifeln. Dafür muss die Politik handeln, mahnt die Wirtschaftsweise Veronika Grimm.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-die-zu-einfachen-lehren-aus-sachsen-anhalt/100251503.html",
-   "published": "2026-09-10T06:37:00+00:00",
-   "first_seen": "2026-09-10T07:05:25.894025+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-vermoegend-sind-sie-im-vergleich-zum-rest-der-deutschen/100149729.html",
-   "published": "2026-09-10T06:27:00+00:00",
-   "first_seen": "2026-09-10T07:05:25.894025+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Verbraucherpreise: Teure Energie treibt Inflation an die Drei-Prozent-Marke",
-   "summary": "Der Iran-Krieg hat Tanken und Heizen erheblich verteuert. Mit dem Tankrabatt ist es vorerst vorbei. Die Inflationsrate könnte noch weiter steigen.",
-   "link": "https://www.wiwo.de/politik/konjunktur/iran-krieg-teure-energie-treibt-inflation-an-die-drei-prozent-marke/100253445.html",
-   "published": "2026-09-10T06:26:45+00:00",
-   "first_seen": "2026-09-10T07:05:25.894025+00:00",
    "paywall": true
   }
  ]

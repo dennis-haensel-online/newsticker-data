@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-09-14T07:05:44.690783+00:00",
+ "updated": "2026-09-14T08:04:31.318848+00:00",
  "items": [
   {
    "label": "ZDF",
@@ -90,6 +90,15 @@
    "link": "https://taz.de/Regisseurin-May-el-Toukhy/!6212707/",
    "published": "2026-09-13T07:14:00+00:00",
    "first_seen": "2026-09-13T08:04:01.383554+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Überlebenskünstler",
+   "summary": "Klimawandel, Massenaussterben und neue Konkurrenz stellen die Vorläufer der Säugetiere vor existentielle Herausforderungen. Nicht alle überleben diesen evolutionären Kampf.",
+   "link": "https://www.zdf.de/dokumentation/zdfinfo-doku/zdfinfo-im-schatten-der-dinos-die-ersten-saeugetiere-ueberlebenskuenstler-100.html",
+   "published": "2026-09-13T03:00:00+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
    "paywall": false
   },
   {
@@ -540,15 +549,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/altersvorsorge-sparkassen-unterbieten-mit-vorsorgedepot-neobroker-scalable-01/100252107.html",
    "published": "2026-09-10T05:23:00+00:00",
    "first_seen": "2026-09-10T06:05:43.605224+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vorstoß in neuen Markt: Neuer Apple-Chef setzt Akzente mit erstem Falt-iPhone und KI",
-   "summary": "Gerade einmal jedes 50. verkaufte Smartphone hat ein faltbares Display. Dennoch zieht es Apple Jahre nach der Konkurrenz in diesen Nischenmarkt. Zudem wird die KI-Strategie des Konzerns klarer.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/vorstoss-in-neuen-markt-neuer-apple-chef-setzt-akzente-mit-erstem-falt-iphone-und-ki/100253410.html",
-   "published": "2026-09-10T03:00:37+00:00",
-   "first_seen": "2026-09-10T04:03:59.400665+00:00",
    "paywall": true
   }
  ]

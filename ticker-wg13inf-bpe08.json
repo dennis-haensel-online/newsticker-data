@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-14T07:05:44.690783+00:00",
+ "updated": "2026-09-14T08:04:31.318848+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax öffnet wegen Ölpreisanstieg und KI-Ängsten mit moderaten Verlusten",
+   "summary": "Die Worte von Sam Altman und Dario Amodei kosten Infineon und kleinere Chip-Firmen deutlich an Börsenwert. Der hohe Ölpreis belastet die Kurse zusätzlich.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-debatte-um-kientwicklung-drueckt-chip-aktien-ins-minus/100254261.html",
+   "published": "2026-09-14T07:56:26+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Auslöschung der Menschheit? Was an den heftigen KI-Warnungen dran ist",
+   "summary": "Die Chefs der KI-Giganten warnen so drastisch wie nie vor ihrer eigenen Technologie. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?",
+   "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
+   "published": "2026-09-14T07:49:00+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz: Experten warnen vor neuer Abhängigkeit Europas von USA",
+   "summary": "In den USA mahnen KI-Unternehmen eine strengere Regulierung an und fordern internationale Vereinbarungen. Europa wäre da nur Zaungast, warnen Experten.",
+   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss",
+   "published": "2026-09-14T07:47:00+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gefahren durch KI: KI-Werte leiden unter Debatte über Entwicklungstempo",
+   "summary": "Lösung für viele Probleme oder große Gefahr? Die Zukunft der Künstlichen Intelligenz wird kontrovers diskutiert. Zeit für eine Verschnaufpause?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/gefahren-durch-ki-ki-werte-leiden-unter-debatte-ueber-entwicklungstempo/100254299.html",
+   "published": "2026-09-14T07:33:27+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Kognitive Kriegsführung“ – Chinas Minister für Staatssicherheit warnt vor KI-Risiken",
+   "summary": "In China und den USA wächst die Sorge, dass Künstliche Intelligenz außer Kontrolle gerät. Beim geplanten Treffen von Xi Jinping und Donald Trump dürfte das Thema in den Fokus rücken.",
+   "link": "https://www.handelsblatt.com/politik/international/ki-chinas-minister-fuer-staatssicherheit-warnt-vor-ki-risiken/100254254.html",
+   "published": "2026-09-14T07:32:20+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
+   "summary": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI gegenüber China im Vordergrund.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
+   "published": "2026-09-14T07:13:20+00:00",
+   "first_seen": "2026-09-14T08:04:31.318848+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Schnitzer, Bengio und Co.: Neue Strategie: Wie Europa im KI-Rennen mithalten könnte",
@@ -846,60 +900,6 @@
    "link": "https://www.handelsblatt.com/audio/today/today-apple-praesentiert-iphone-duo-das-steckt-hinter-der-ki-doomsday-angst/100253665.html",
    "published": "2026-09-10T14:44:06+00:00",
    "first_seen": "2026-09-10T15:04:12.791858+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: Bundeswehr will Palantir-Alternative schon 2027 einführen",
-   "summary": "Derzeit testet die deutsche Armee Systeme von 30 Firmen, um Kampfdaten in Echtzeit zu verschmelzen. Eine mögliche Lösung kommt vom Sensorikspezialisten Hensoldt und dem KI-Start-up Helsing.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/verteidigung-bundeswehr-will-palantir-alternative-schon-2027-einfuehren-01/100247052.html",
-   "published": "2026-09-10T13:50:00+00:00",
-   "first_seen": "2026-09-10T14:03:59.737535+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Sie haben Roboter? Bei uns können Sie sie in großem Umfang testen“",
-   "summary": "Der Präsident der Vereinigten Arabischen Emirate reist zum Staatsbesuch nach Berlin. Begleitet wird er von seinem KI-Berater: Faisal Al Bannai will Deutschland ein Angebot machen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-sie-haben-roboter-bei-uns-koennen-sie-sie-testen/100252963.html",
-   "published": "2026-09-10T13:47:00+00:00",
-   "first_seen": "2026-09-10T14:03:59.737535+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Urheber klagen gegen KI: Verlage fordern „Zerstörung“ von KI-Modellen",
-   "summary": "Weil ChatGPT und Copilot Auszüge aus Zeitungsartikeln nahezu wörtlich reproduzieren, ziehen immer mehr Verlagshäuser vor Gericht. Die „Seattle Times“ und „Newsday“ geben sich besonders kampfbereit.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-und-ki-training-verlage-fordern-zerstoerung-von-daten-und-eingesetzten-sprachmodellen-201213234.html",
-   "published": "2026-09-10T13:02:56+00:00",
-   "first_seen": "2026-09-10T14:03:59.737535+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/robotik-ki-ist-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
-   "published": "2026-09-10T12:39:00+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Grußkarten: Handgeschriebene Grüße im KI-Zeitalter –  funktioniert das?",
-   "summary": "WhatsApp verdrängt die Urlaubskarte, das Postkartengeschäft schrumpft. Könnten auch Grußkarten passé sein? Zwei Verleger glauben an das Gegenteil und wollen ihren Umsatz verdreifachen.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/ki-diese-zwei-verleger-glauben-weiterhin-an-den-erfolg-mit-der-grusskarte/100242189.html",
-   "published": "2026-09-10T12:37:00+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "John Ternus: Der neue Apple-Chef wettet gegen die Konkurrenz – und knüpft das Schicksal des Konzerns an ein Produkt",
-   "summary": "Bei seinem ersten großen Auftritt setzt Ternus ausgerechnet das teuerste iPhone aller Zeiten in Szene. Apple versteht KI anders als die Vorreiter OpenAI, Google und Meta.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/apple-was-john-ternus-debuet-ueber-die-zukunft-des-konzerns-verraet-01/100253333.html",
-   "published": "2026-09-10T11:54:00+00:00",
-   "first_seen": "2026-09-10T12:05:24.294094+00:00",
    "paywall": true
   }
  ]
