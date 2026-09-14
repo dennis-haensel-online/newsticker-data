@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-14T01:04:35.774192+00:00",
+ "updated": "2026-09-14T02:04:39.085186+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Parlamentswahl: Wahlkrimi ohne Ende: Wer kann Schweden regieren?",
+   "summary": "Schwedens Sozialdemokraten holen bei der Wahl wohl die meisten Stimmen. Aber können sie eine Regierung bilden? Während kleinere Parteien feiern, müssen die Rechtspopulisten wohl Verluste verschmerzen.",
+   "link": "https://www.handelsblatt.com/politik/international/parlamentswahl-wahlkrimi-ohne-ende-wer-kann-schweden-regieren/100254228.html",
+   "published": "2026-09-14T01:31:25+00:00",
+   "first_seen": "2026-09-14T02:04:39.085186+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Entdecken Sie das ZDF-Nachrichtenstudio",
@@ -17,6 +26,24 @@
    "link": "https://presseportal.zdf.de/pressemitteilungen/",
    "published": "2026-09-14T01:04:04+00:00",
    "first_seen": "2026-09-14T01:04:35.774192+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump: \"Negative Kräfte\" hinter KI-Sicherheitsbedenken",
+   "summary": "Führende KI-Unternehmen wollen die Entwicklung der Technologie drosseln. US-Präsident Trump hält dagegen und sieht \"negative Kräfte\" hinter den Sicherheitsbedenken.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-kuenstliche-intelligenz-drosselung-entwicklung-100.html",
+   "published": "2026-09-14T00:30:00+00:00",
+   "first_seen": "2026-09-14T02:04:39.085186+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Huthi-Vormarsch: Was droht dem globalen Ölhandel?",
+   "summary": "Die Huthi-Miliz kontrolliert die jemenitische Küste und die Meerenge Bab al-Mandab - und setzt Saudi-Arabien unter Druck. Welche Folgen hat das für die Region und die Ölversorgung?",
+   "link": "https://www.zdfheute.de/politik/ausland/huthi-miliz-saudi-arabien-angriffe-jemen-oelhandel-folgen-100.html",
+   "published": "2026-09-14T00:24:00+00:00",
+   "first_seen": "2026-09-14T02:04:39.085186+00:00",
    "paywall": false
   },
   {
@@ -13473,33 +13500,6 @@
    "published": "2026-09-09T18:02:01+00:00",
    "first_seen": "2026-09-09T19:03:43.509936+00:00",
    "paywall": true
-  },
-  {
-   "label": "FOCUS",
-   "title": "Butter wird wieder teurer: Aldi erhöht die Preise für Eigenmarken",
-   "summary": "Verbraucher müssen beim Einkauf im Discounter wieder tiefer in die Tasche greifen. Nach einer Phase sinkender Preise wird Butter bei Aldi nun erneut teurer.",
-   "link": "https://www.focus.de/finanzen/news/butter-wird-wieder-teurer-aldi-erhoeht-die-preise-fuer-eigenmarken_e74184b0-5487-497d-9178-69f2ce84e9bf.html",
-   "published": "2026-09-09T18:00:00+00:00",
-   "first_seen": "2026-09-09T18:06:24.682078+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Porsche: Trennung von Bugatti und Rimac soll Finanzlage stabilisieren",
-   "summary": "Porsche hat seine Anteile an der Luxusmarke Bugatti sowie am E-Auto-Hersteller Rimac verkauft. Das erlöste Geld braucht das angeschlagene Unternehmen unter anderem für Pensionsverpflichtungen.",
-   "link": "https://www.spiegel.de/wirtschaft/porsche-trennung-von-bugatti-und-rimac-soll-finanzlage-stabilisieren-a-d8e06dee-3229-4612-b75e-dd17c00252a7#ref=rss",
-   "published": "2026-09-09T17:59:00+00:00",
-   "first_seen": "2026-09-09T18:06:24.682078+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "4-Stunden-Musk-Doku in Venedig: Hier spricht die Simulation",
-   "summary": "Dokumentarfilmer Alex Gibney zeichnet bei den Filmfestspielen von Venedig ein Porträt von Elon Musk. Es ist unheimlicher als die Gothic-Geschichte von Regisseur Casey Affleck. mehr...",
-   "link": "https://taz.de/4-Stunden-Musk-Doku-in-Venedig/!6211589/",
-   "published": "2026-09-09T17:58:00+00:00",
-   "first_seen": "2026-09-09T21:54:09.407523+00:00",
-   "paywall": false
   }
  ]
 }
