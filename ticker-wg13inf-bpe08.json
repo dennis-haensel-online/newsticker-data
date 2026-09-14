@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-14T18:04:53.939232+00:00",
+ "updated": "2026-09-14T19:05:13.158609+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Was steckt hinter der Debatte über eine KI-Bremse?",
+   "summary": "Nach bedrohlichen Zwischenfällen im Zusammenhang mit KI-Modellen ist eine globale Debatte über schärfere Regeln für die Technologie entbrannt. Vorne mit dabei: ausgerechnet die führenden Entwickler OpenAI und Anthropic.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
+   "published": "2026-09-14T18:20:40+00:00",
+   "first_seen": "2026-09-14T19:05:13.158609+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Panikmache der KI-Firmen: Kommt mal wieder runter!",
+   "summary": "Tech-Bosse verbreiten Panik: KI könnte demnächst die Menschheit auslöschen. Dahinter steckt vermutlich mehr eine Marketingstrategie als echte Gefahr. mehr...",
+   "link": "https://taz.de/Panikmache-der-KI-Firmen/!6212985/",
+   "published": "2026-09-14T18:05:00+00:00",
+   "first_seen": "2026-09-14T19:05:13.158609+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Debatte über künstliche Intelligenz: Entschleunigung mit Hintergedanken",
+   "summary": "Etwas langsamer bitte – mit diesem Ansinnen machen KI-Konzerne gerade Schlagzeilen. Ex­per­ten vermuten allerdings keinen Altruismus dahinter. mehr...",
+   "link": "https://taz.de/Debatte-ueber-kuenstliche-Intelligenz/!6212965/",
+   "published": "2026-09-14T18:04:00+00:00",
+   "first_seen": "2026-09-14T19:05:13.158609+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Onlinebanking: Datenklau bei Digitalbank Revolut – offenbar deutscher Gründer betroffen",
@@ -872,33 +899,6 @@
    "summary": "So viele Pleiten wie seit 2013 nicht mehr +++ Porsche erlöst eine Milliarde Euro mit Bugatti Rimac-Verkauf +++ Staatsbesuch: Emirate wollen 40 Milliarden in Deutschland investieren +++ Neuigkeiten im Unternehmen-Liveblog.",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-2-6-billionen-dollar-versteckte-tech-schulden-durch-ki-hochlauf-faz-200452404.html",
    "published": "2026-09-11T09:41:42+00:00",
-   "first_seen": "2026-09-11T10:04:08.076634+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Regulierung: KI-Forscher schlagen Alarm – Systeme könnten Menschheit auslöschen",
-   "summary": "Experten warnen vor tödlichen Gefahren durch Künstliche Intelligenz. In den USA hat das eine Debatte über strengere Regeln ausgelöst.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/ki-regulierung-ki-forscher-schlagen-alarm-systeme-koennten-menschheit-ausloeschen/100253854.html",
-   "published": "2026-09-11T09:38:49+00:00",
-   "first_seen": "2026-09-11T10:04:08.076634+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Regulierung: KI-Forscher schlagen Alarm – Systeme könnten Menschheit auslöschen",
-   "summary": "Experten warnen vor tödlichen Gefahren durch Künstliche Intelligenz. In den USA hat das eine Debatte über strengere Regeln ausgelöst.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/ki-forscher-schlagen-alarm-systeme-koennten-menschheit-ausloeschen/100253854.html",
-   "published": "2026-09-11T09:38:49+00:00",
-   "first_seen": "2026-09-11T11:04:07.955638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Studie – 2,6 Billionen Dollar Tech-Schulden durch KI-Boom",
-   "summary": "Der KI-Boom der US-Techriesen kostet Milliarden – und ein Großteil der Rechnung taucht in den Bilanzen bisher nicht auf. Eine Studie zeigt, wie hoch die Verschuldung tatsächlich ist.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/ki-studie-26-billionen-dollar-tech-schulden-durch-ki-boom/100253849.html",
-   "published": "2026-09-11T09:27:07+00:00",
    "first_seen": "2026-09-11T10:04:08.076634+00:00",
    "paywall": true
   }

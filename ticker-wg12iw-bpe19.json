@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-14T18:04:53.939232+00:00",
+ "updated": "2026-09-14T19:05:13.158609+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -732,6 +732,15 @@
    "paywall": false
   },
   {
+   "label": "tagesschau",
+   "title": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
+   "summary": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
+   "published": "2026-09-10T13:44:42+00:00",
+   "first_seen": "2026-09-14T19:05:13.158609+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Geldpolitik: EZB erhöht Zinsen wegen Inflationsschub weiter",
    "summary": "Der Iran-Krieg treibt die Preise fürs Tanken und Heizen hoch. Die EZB reagiert mit einer weiteren Zinserhöhung auf die gestiegene Inflation. Das hat Folgen für Sparer, Kreditnehmer und Firmen.",
@@ -836,15 +845,6 @@
    "summary": "Nach dem Iran-Schock fürchten die Deutschen die Inflation weiter, zeigen neue Daten des exklusiven Frühwarnsystems I-Index. Das hat auch die Wahlen wie in Sachsen-Anhalt beeinflusst.",
    "link": "https://www.handelsblatt.com/politik/konjunktur/teuerung-i-index-zeigt-grassierende-inflationsangst-der-deutschen/100253332.html",
    "published": "2026-09-10T12:35:15+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: Jetzt live: EZB-Chefin Lagarde erklärt die Zinserhöhung",
-   "summary": "Die EZB erhöht zum zweiten Mal in diesem Jahr die Zinsen im Euro-Raum. Verfolgen Sie die wichtigsten Aussagen von Präsidentin Lagarde im Liveblog.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-jetzt-live-ezb-chefin-lagarde-erklaert-die-zinserhoehung/100253567.html",
-   "published": "2026-09-10T12:29:38+00:00",
    "first_seen": "2026-09-10T13:04:11.034345+00:00",
    "paywall": true
   }
