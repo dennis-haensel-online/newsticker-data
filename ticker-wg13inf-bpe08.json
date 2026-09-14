@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-14T03:04:40.617603+00:00",
+ "updated": "2026-09-14T04:04:27.025932+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Drei Dinge, auf die es jetzt in der KI-Debatte ankommt",
+   "summary": "Von totaler Euphorie zu totaler Panik: Die KI-Chefs schlagen plötzlich Alarm vor ihren eigenen Erfindungen. Muss man das ernst nehmen?",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-dinge-auf-die-es-jetzt-in-der-ki-debatte-ankommt/100254217.html",
+   "published": "2026-09-14T03:53:38+00:00",
+   "first_seen": "2026-09-14T04:04:27.025932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Systemupgrade: Apples iOS 27: Mehr KI und Kinderschutz fürs iPhone",
+   "summary": "Foto-Bearbeitung mit KI, Sicherheitsfeatures für Eltern und Kids sowie ein aufgefrischtes Design: Das neue iOS 27 bringt viele neue Features für iPhones - was im Detail alles drinsteckt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/systemupgrade-apples-ios-27-mehr-ki-und-kinderschutz-fuers-iphone/100254250.html",
+   "published": "2026-09-14T03:39:07+00:00",
+   "first_seen": "2026-09-14T04:04:27.025932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "10 Jahre TikTok: Algorithmus-Schock: Wie TikTok das Netz umgekrempelt hat",
+   "summary": "Vom belächelten Tanzvideo zur Shopping-Maschine: Wie TikTok mit neuen Technologien und Algorithmen das Social-Media-Geschäft grundlegend verändert hat.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/10-jahre-tiktok-algorithmus-schock-wie-tiktok-das-netz-umgekrempelt-hat/100254240.html",
+   "published": "2026-09-14T03:00:12+00:00",
+   "first_seen": "2026-09-14T04:04:27.025932+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Trump: \"Negative Kräfte\" hinter KI-Sicherheitsbedenken",
@@ -872,33 +899,6 @@
    "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
    "link": "https://www.handelsblatt.com/unternehmen/management/ki-wir-sollten-jetzt-keinesfalls-die-grosse-fuehrungskraefte-ki-krise-ausrufen/100243656.html",
    "published": "2026-09-10T10:52:00+00:00",
-   "first_seen": "2026-09-10T11:04:29.857492+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-physik-soziales-kunst-welche-studiengaenge-ki-am-besten-standhalten/100235558.html",
-   "published": "2026-09-10T10:52:00+00:00",
-   "first_seen": "2026-09-10T11:04:29.857492+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "EniSA schaltet sich ein: KI-Aufsicht prüft Sprachroboter Astra und Mythos",
-   "summary": "Künstliche Intelligenz hat autonome Hackerangriffe durchgeführt. Jetzt müssen die KI-Entwickler Anthropic und OpenAI die Schnittstellen für EU-Kontrolleure öffnen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-und-anthropic-eu-aufsicht-enisa-prueft-ki-modelle-astra-und-mythos-accg-201213961.html",
-   "published": "2026-09-10T10:51:57+00:00",
-   "first_seen": "2026-09-10T11:04:29.857492+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Weltwirtschaft: BIZ-Chef warnt vor Finanzrisiken durch den KI-Boom",
-   "summary": "Große Technologieunternehmen werden Schätzungen zufolge in den nächsten Jahren über eine Billion Dollar in KI investieren. Pablo Hernandez de Cos mahnt vor Gefahren für die Weltwirtschaft.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/weltwirtschaft-biz-chef-warnt-vor-finanzrisiken-durch-den-ki-boom/100253523.html",
-   "published": "2026-09-10T10:03:41+00:00",
    "first_seen": "2026-09-10T11:04:29.857492+00:00",
    "paywall": true
   }
