@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-14T15:08:18.763566+00:00",
+ "updated": "2026-09-14T16:03:58.601238+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Merz in der Kälte und KI-Agent auf gefährlicher Mission",
+   "summary": "Während Merz zum Arktis-Gipfel reist, wächst zu Hause der Druck auf den Kanzler. Und: Ein Forscher stoppt einen gefährlichen KI-Agenten. Der Tag.",
+   "link": "https://www.zdfheute.de/briefing/merz-arktis-kanzler-ki-anthropic-zdfheute-update-100.html",
+   "published": "2026-09-14T15:42:00+00:00",
+   "first_seen": "2026-09-14T16:03:58.601238+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Anthropic löst KI-Sell-Off aus – Ölpreis steigt weiter an",
+   "summary": "Teures Öl und Zweifel am KI-Boom belasten die Wall Street. Zudem trübt die bevorstehende Fed-Sitzung die Stimmung der Anleger – denn die Wahrscheinlichkeit einer Zinserhöhung ist hoch.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-anthropic-loest-ki-sell-off-aus-oelpreis-steigt-weiter-an/100254453.html",
+   "published": "2026-09-14T15:12:41+00:00",
+   "first_seen": "2026-09-14T16:03:58.601238+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "KI-News aktuell: US-Firmen wollen KI-Entwicklung drosseln – China kritisiert Bedrohungserzählungen",
@@ -883,24 +901,6 @@
    "published": "2026-09-11T09:01:10+00:00",
    "first_seen": "2026-09-11T09:04:01.271345+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Wird KI „alle Menschen töten“? Das sagt das Silicon Valley zur Doomsday-Debatte",
-   "summary": "Alarmisten gegen Skeptiker: Die Debatte über eine unverantwortliche KI-Entwicklung nimmt Fahrt auf. Forscher Nate Soares fordert im Handelsblatt ein sofortiges Eingreifen der Politik.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-wie-das-silicon-valley-auf-aktuelle-doomsday-warnungen-reagiert-01/100253390.html",
-   "published": "2026-09-11T07:56:00+00:00",
-   "first_seen": "2026-09-11T08:04:12.266071+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Anthropic: Anfragen an KI zu möglicher Biowaffenentwicklung",
-   "summary": "Die KI-Firma Anthropic hat nach eigenen Angaben Anfragen von Forschern an ihre Software Claude gestoppt, die zu möglicher Biowaffenforschung genutzt werden könnten.",
-   "link": "https://www.zdfheute.de/wirtschaft/ki-anthropic-biowaffen-forschung-100.html",
-   "published": "2026-09-11T07:30:00+00:00",
-   "first_seen": "2026-09-11T08:04:12.266071+00:00",
-   "paywall": false
   }
  ]
 }
