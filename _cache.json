@@ -1,6 +1,24 @@
 {
- "updated": "2026-09-14T00:06:24.734497+00:00",
+ "updated": "2026-09-14T01:04:35.774192+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Entdecken Sie das ZDF-Nachrichtenstudio",
+   "summary": "Nach 12 Jahren erscheinen die ZDF-Nachrichten im neuen Look. Werfen Sie einen Blick hinter die Kulissen – und entdecken das neue Studio in unserer 3D-Story.",
+   "link": "https://3d.zdf.de/nachrichten-studio-design/",
+   "published": "2026-09-14T01:04:04+00:00",
+   "first_seen": "2026-09-14T01:04:35.774192+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Aktuelle Pressemitteilungen des ZDF",
+   "summary": "Aktuelle Pressemitteilungen des ZDF",
+   "link": "https://presseportal.zdf.de/pressemitteilungen/",
+   "published": "2026-09-14T01:04:04+00:00",
+   "first_seen": "2026-09-14T01:04:35.774192+00:00",
+   "paywall": false
+  },
   {
    "label": "SZ",
    "title": "Technologie: Experten fordern: Europa darf bei KI nicht den Anschluss verlieren",
@@ -13482,24 +13500,6 @@
    "published": "2026-09-09T17:58:00+00:00",
    "first_seen": "2026-09-09T21:54:09.407523+00:00",
    "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Netanjahu und radikale Siedler: Radikale Ignoranz",
-   "summary": "Trotz internationaler Sanktionen: Die Siedlergewalt wird Premier Netanjahu im Wahlkampf bisher nicht gefährlich. mehr...",
-   "link": "https://taz.de/Netanjahu-und-radikale-Siedler/!6211743/",
-   "published": "2026-09-09T17:56:00+00:00",
-   "first_seen": "2026-09-09T21:54:09.407523+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Hauptsache Resilient: Chief Staatssäckel Officer",
-   "summary": "Für Unternehmen brechen anscheinend neue Zeiten an: Wer Staatsgeld will, ruft „Resilienz!“. Dann wird es schon fließen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chief-staatssaeckel-officer-der-staat-zahlt-fuer-resilienz-201210767.html",
-   "published": "2026-09-09T17:54:50+00:00",
-   "first_seen": "2026-09-09T19:03:43.509936+00:00",
-   "paywall": true
   }
  ]
 }
