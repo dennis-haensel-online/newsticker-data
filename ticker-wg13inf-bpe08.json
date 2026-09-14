@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-14T16:03:58.601238+00:00",
+ "updated": "2026-09-14T17:03:17.883827+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Onlinebanking: Datenklau bei Digitalbank Revolut – offenbar deutscher Gründer betroffen",
+   "summary": "Hacker haben ein Datenleck ausgenutzt und Kundendaten der Onlinebank Revolut erbeutet. Womöglich auch von einem Unternehmer aus Deutschland.",
+   "link": "https://www.wiwo.de/unternehmen/banken/revolut-datenleck-offenbar-deutscher-gruender-betroffen/100254470.html",
+   "published": "2026-09-14T16:28:22+00:00",
+   "first_seen": "2026-09-14T17:03:17.883827+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: Forderungen nach KI-Bremse trifft Wall Street",
+   "summary": "Anthropic-CEO Amodei hat die Politik und andere KI-Unternehmen dazu aufgefordert, die Entwicklung zu verlangsamen und zunächst den Fokus auf Sicherheit und Regulation zu setzen. An der Wall Street sorgt das für Verunsicherung, berichtet…",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-forderungen-nach-ki-bremse-trifft-wall-street/100254485.html",
+   "published": "2026-09-14T16:21:07+00:00",
+   "first_seen": "2026-09-14T17:03:17.883827+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Merz in der Kälte und KI-Agent auf gefährlicher Mission",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/industrie/ki-studie-26-billionen-dollar-tech-schulden-durch-ki-boom/100253849.html",
    "published": "2026-09-11T09:27:07+00:00",
    "first_seen": "2026-09-11T10:04:08.076634+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "John Ternus: Der neue Apple-Chef wettet gegen die Konkurrenz – und knüpft das Schicksal des Konzerns an ein Produkt",
-   "summary": "Bei seinem ersten großen Auftritt setzt Ternus ausgerechnet das teuerste iPhone aller Zeiten in Szene. Apple versteht KI anders als die Vorreiter OpenAI, Google und Meta.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/smartphones-was-john-ternus-debuet-ueber-die-zukunft-von-apple-verraet/100253333.html",
-   "published": "2026-09-11T09:26:00+00:00",
-   "first_seen": "2026-09-11T10:04:08.076634+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: KI und Fußball-WM lassen britische Wirtschaft kräftig wachsen",
-   "summary": "Im ersten Halbjahr hat die britische Wirtschaft so stark zugelegt wie nirgendwo sonst im Westen. Dieser Trend setzt sich im Juli fort. Vor allem ein Segment boomt.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-ki-und-fussball-wm-lassen-britische-wirtschaft-kraeftig-wachsen/100253845.html",
-   "published": "2026-09-11T09:01:10+00:00",
-   "first_seen": "2026-09-11T09:04:01.271345+00:00",
    "paywall": true
   }
  ]
