@@ -1,6 +1,24 @@
 {
- "updated": "2026-09-14T20:04:28.543667+00:00",
+ "updated": "2026-09-14T21:04:06.575513+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Plümo-Baum | Die Höhle der Löwen: „Für einen strategischen Investor ist die Tür niemals zu“",
+   "summary": "Das Gründerduo von Plümo-Baum will die Schlafhygiene verbessern. Die Löwen urteilten hart über Konzept und Produkte. Wie ging es nach der Aufzeichnung weiter?",
+   "link": "https://www.wiwo.de/erfolg/gruender/hoehle-der-loewen-was-wurde-aus-pluemo-baum-nach-dem-tv-aus/100254395.html",
+   "published": "2026-09-14T21:00:00+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Ukrainischer Bahnchef: Jede Woche schlimmer als vorherige",
+   "summary": "Laut dem ukrainischen Bahnchef nehmen Russlands Angriffe auf Züge exponentiell zu. Allein im August seien 40 Lokomotiven angegriffen worden.",
+   "link": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-russland-bahn-zuege-angriffe-bahnchef-100.html",
+   "published": "2026-09-14T20:18:00+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Hannover 96 trennt sich von Trainer Christian Titz",
@@ -9,6 +27,24 @@
    "published": "2026-09-14T20:00:00+00:00",
    "first_seen": "2026-09-14T20:04:28.543667+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einzelhandel: Lidl testet autonom fahrenden Lkw zur Belieferung der Filialen",
+   "summary": "Für einen ersten Test in Deutschland hat der Discounter nach Handelsblatt-Informationen nun die Genehmigung bekommen. Bis zum breiten Einsatz gibt es aber noch einige Fragen zu klären.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-lidl-testet-autonom-fahrenden-lkw-zur-filial-belieferung/100253503.html",
+   "published": "2026-09-14T20:00:00+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
+   "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/dow-jones-sp-500-nasdaq-kichefs-warnen-tech-titel-weltweit-fallen-deutlich/100254349.html",
+   "published": "2026-09-14T19:54:16+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
+   "paywall": true
   },
   {
    "label": "FAZ",
@@ -38,12 +74,39 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "USA: Russischer Oligarch finanzierte Hochzeit von Trump-Sohn mit",
+   "summary": "Während Moskau den Angriffskrieg gegen die Ukraine führt, finanziert ein russischer Oligarch mit Putin-Verbindungen Teile der Hochzeitsfeier von Donald Trump jr. Dessen Ehefrau sieht kein Problem.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-russischer-oligarch-finanzierte-hochzeit-von-trump-sohn-mit/100254500.html",
+   "published": "2026-09-14T19:46:01+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
+   "paywall": true
+  },
+  {
    "label": "ZDF",
    "title": "Elch \"Emil\" legt Warschauer Hauptbahnhof lahm",
    "summary": "In Warschau hat sich ein Elch auf die unterirdischen Gleise des Hauptbahnhofs verirrt und den Verkehr behindert. Sanitäter und Polizei versuchten stundenlang, ihn einzufangen.",
    "link": "https://www.zdfheute.de/video/panorama-elch-hauptbahnhof-warschau-100.html",
    "published": "2026-09-14T19:45:00+00:00",
    "first_seen": "2026-09-14T20:04:28.543667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Tierischer Lebensbegleiter wird zu teuer",
+   "summary": "Auch Haustiere werden teurer – die steigenden Lebenserhaltungskosten lassen die Tiere zur finanziellen Belastung mutieren. Tierheime sind überfüllt und benötigen mehr Unterstützung.",
+   "link": "https://www.zdfheute.de/video/heute-journal/haustiere-tierheim-teuer-100.html",
+   "published": "2026-09-14T19:45:00+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "ZDF-Korrespondent: \"Der Kanzler wirkte extrem verletzt\"",
+   "summary": "Die innenpolitische Krise ist mit Merz zum Gipfeltreffen nach Finnland gereist. Das Landtagswahlergebnis beschäftigt ihn offenbar auch dort. Fragen ließ er nicht zu, so Wulf Schmiese.",
+   "link": "https://www.zdfheute.de/video/heute-journal/sgs-gellinek-schmiese-102.html",
+   "published": "2026-09-14T19:45:00+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
    "paywall": false
   },
   {
@@ -6641,6 +6704,15 @@
    "link": "https://www.zdfheute.de/panorama/tyrannosaurus-rex-spur-fund-usa-100.html",
    "published": "2026-09-12T10:07:00+00:00",
    "first_seen": "2026-09-12T11:03:36.489554+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Sensationsfund: Millionen Jahre alte T-Rex-Spur entdeckt",
+   "summary": "In den USA haben Forscher vier versteinerte T-Rex-Fußabdrücke entdeckt. Die rund 66,5 Millionen Jahre alten Abdrücke könnten die erste bekannte Schrittfolge des Raubsauriers sein.",
+   "link": "https://www.zdfheute.de/wissen/tyrannosaurus-rex-spur-fund-usa-100.html",
+   "published": "2026-09-12T10:07:00+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
    "paywall": false
   },
   {
@@ -13426,78 +13498,6 @@
    "summary": "Die Steuerpolitik der Union erinnert mehr an Kabarett als an seriöses Regierungshandeln. Statt die Steuern zu senken, werden neue erfunden. Den Preis bezahlt die Partei an der Wahlurne.",
    "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-steuerzahler-wird-ausgequetscht-wie-eine-zitrone/100253456.html",
    "published": "2026-09-10T12:50:53+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Extremwetter lässt Unterricht für Millionen Schüler ausfallen",
-   "summary": "Stürme, Hitze, Überflutungen: Wegen klimabedingten Wetterereignissen fällt für Millionen Schüler weltweit die Schule aus. Die Unicef-Analyse warnt vor langfristigen Folgen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/unicef-kinder-schulausfall-klima-100.html",
-   "published": "2026-09-10T12:45:00+00:00",
-   "first_seen": "2026-09-10T15:04:12.791858+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Inflation: Europäische Zentralbank erhöht Leitzins auf 2,5 Prozent",
-   "summary": "Angesichts der hohen Inflation hat die EZB den Leitzins von 2,25 auf 2,5 Prozent angehoben. Es ist bereits die zweite Erhöhung in diesem Jahr.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/europaeische-zentralbank-erhoeht-leitzins-auf-2-50-prozent",
-   "published": "2026-09-10T12:43:27+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Inflation: Europäische Zentralbank erhöht Leitzins auf 2,5 Prozent",
-   "summary": "Angesichts der hohen Inflation hat die EZB den Leitzins von 2,25 auf 2,5 Prozent angehoben. Es ist bereits die zweite Erhöhung in diesem Jahr.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/europaeische-zentralbank-erhoeht-leitzins-auf-2-50-prozent-gxe",
-   "published": "2026-09-10T12:43:27+00:00",
-   "first_seen": "2026-09-10T14:03:59.737535+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Für Abbau und Schließungen: Bericht: Sparpläne könnten Volkswagen Milliarden kosten",
-   "summary": "Volkswagen steht vor einem tiefgreifenden Umbau. Geplant ist ein weiterer Stellenabbau - und möglicherweise Werksschließungen. Aber bevor VW so Milliarden spart, dürfte es erst einmal teuer werden.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/fuer-abbau-und-schliessungen-bericht-sparplaene-koennten-volkswagen-milliarden-kosten/100253600.html",
-   "published": "2026-09-10T12:43:03+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: EZB erhöht Leitzinsen und setzt Anleihemärkte noch mehr unter Druck",
-   "summary": "Die Europäische Zentralbank reagiert erneut auf die Folgen des Ölpreisschocks. Investoren erwarten mehr – was sich immer deutlicher in steigenden Bondrenditen niederschlägt.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-zinsentscheid-leitzins-im-euro-raum-steigt-auf-25-prozent/100252594.html",
-   "published": "2026-09-10T12:40:53+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Botschafterkonferenz: Abschluss im Auswärtigen Amt",
-   "summary": "Bundesaußenminister Johann Wadephul (CDU) und NATO-Generalsekretär Mark Rutte schließen am Donnerstag, dem 10. September 2026, die jährliche Botschafterkonferenz im Auswärtigen Amt mit einer Pressebegegnung ab.",
-   "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-bundestag-live-a-5231400.html",
-   "published": "2026-09-10T12:40:00+00:00",
-   "first_seen": "2026-09-10T14:03:59.737535+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/robotik-ki-ist-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
-   "published": "2026-09-10T12:39:00+00:00",
-   "first_seen": "2026-09-10T13:04:11.034345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuerskandal: Hamburg übernimmt den Cum-Ex-Fall HSH Nordbank",
-   "summary": "Vor zwölf Jahren hat die Landesbank ihre Cum-Ex-Geschäfte offengelegt. Jetzt ermitteln erstmals Hamburger Staatsanwälte. Die Zeit arbeitet für die Beschuldigten.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/cum-ex-skandal-hamburg-uebernimmt-den-fall-hsh-nordbank/100253371.html",
-   "published": "2026-09-10T12:38:40+00:00",
    "first_seen": "2026-09-10T13:04:11.034345+00:00",
    "paywall": true
   }

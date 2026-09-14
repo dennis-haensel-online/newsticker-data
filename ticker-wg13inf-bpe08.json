@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-14T20:04:28.543667+00:00",
+ "updated": "2026-09-14T21:04:06.575513+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
+   "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/dow-jones-sp-500-nasdaq-kichefs-warnen-tech-titel-weltweit-fallen-deutlich/100254349.html",
+   "published": "2026-09-14T19:54:16+00:00",
+   "first_seen": "2026-09-14T21:04:06.575513+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Was steckt hinter der Debatte über eine KI-Bremse?",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/berufe-in-diesen-branchen-koennen-sie-mit-ki-wissen-punkten/100251207.html",
    "published": "2026-09-11T10:05:00+00:00",
    "first_seen": "2026-09-11T11:04:07.955638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: 2,6 Billionen Dollar versteckte Tech-Schulden durch KI-Hochlauf",
-   "summary": "So viele Pleiten wie seit 2013 nicht mehr +++ Porsche erlöst eine Milliarde Euro mit Bugatti Rimac-Verkauf +++ Staatsbesuch: Emirate wollen 40 Milliarden in Deutschland investieren +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-2-6-billionen-dollar-versteckte-tech-schulden-durch-ki-hochlauf-faz-200452404.html",
-   "published": "2026-09-11T09:41:42+00:00",
-   "first_seen": "2026-09-11T10:04:08.076634+00:00",
    "paywall": true
   }
  ]
