@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-14T05:03:47.712913+00:00",
+ "updated": "2026-09-14T06:05:40.439142+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
+   "summary": "Die Aktienmärkte bleiben an den steigenden Ölpreis gekettet: Die Eskalation in Saudi-Arabien schürt die Sorgen vor einem Anziehen der Inflation. Mit Spannung blicken die Investoren auf den Zinsentscheid der US-Notenbank.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+   "published": "2026-09-14T05:47:11+00:00",
+   "first_seen": "2026-09-14T06:05:40.439142+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Leitzins: Trump droht bei ausbleibender Zinssenkung mit Handelsstopp",
+   "summary": "Kurz vor dem Zinsentscheid wiederholt der US-Präsident seine Drohung. Wenn die Zinsen nicht sinken, werde er den Handel mit bestimmten Ländern komplett einstellen.",
+   "link": "https://www.wiwo.de/politik/ausland/leitzins-trump-droht-bei-ausbleibender-zinssenkung-mit-handelsstopp/100254263.html",
+   "published": "2026-09-14T05:30:50+00:00",
+   "first_seen": "2026-09-14T06:05:40.439142+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Arbeitsmarkt: Die wachsende Angst der Ingenieure vor dem Job-Verlust",
@@ -883,24 +901,6 @@
    "published": "2026-09-10T06:22:21+00:00",
    "first_seen": "2026-09-10T07:05:25.894025+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Verbraucherpreise: Teure Energie treibt Inflation an die Drei-Prozent-Marke",
-   "summary": "Der Iran-Krieg hat Tanken und Heizen erheblich verteuert. Mit der vom Staat verordneten Entlastung an Deutschlands Tankstellen ist es vorerst vorbei. Die Inflationsrate könnte noch weiter steigen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/verbraucherpreise-teure-energie-treibt-inflation-an-die-drei-prozent-marke/100253444.html",
-   "published": "2026-09-10T06:09:51+00:00",
-   "first_seen": "2026-09-10T07:05:25.894025+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
-   "summary": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur weiteren Geldpolitik.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-   "published": "2026-09-10T05:52:13+00:00",
-   "first_seen": "2026-09-10T06:05:43.605224+00:00",
-   "paywall": false
   }
  ]
 }
