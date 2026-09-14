@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-14T09:05:36.993510+00:00",
+ "updated": "2026-09-14T10:04:32.659752+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "KI in Unternehmen: Mehrheit der Unternehmen in Deutschland nutzt KI",
+   "summary": "Die Mehrheit der Unternehmen in Deutschland greift laut einer Bitkom-Studie auf KI zurück. Sie gilt als Zukunftstechnologie, aber teils auch als existenzgefährdend.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/ki-unternehmen-bitkom-studie-nutzung-datenschutz",
+   "published": "2026-09-14T09:45:23+00:00",
+   "first_seen": "2026-09-14T10:04:32.659752+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bitkom-Studie: Mehrheit der Unternehmen nutzt KI – Bedenken bleiben",
+   "summary": "Erfolg und Unsicherheit liegen bei Künstlicher Intelligenz nah beieinander: Warum viele Betriebe trotz Einsatz von KI skeptisch bleiben.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/bitkom-studie-mehrheit-der-unternehmen-nutzt-ki-bedenken-bleiben/100254357.html",
+   "published": "2026-09-14T09:38:15+00:00",
+   "first_seen": "2026-09-14T10:04:32.659752+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Experte: Kommen einem KI-GAU immer näher",
+   "summary": "Künstliche Intelligenz birgt wachsende Risiken. Cybersicherheitsexperte Dennis-Kenji Kipker erklärt, was droht und warum die EU bei der Regulierung als Vorreiterin gilt.",
+   "link": "https://www.zdfheute.de/politik/deutschland/kuenstliche-intelligenz-kipker-gau-gefahr-100.html",
+   "published": "2026-09-14T09:22:00+00:00",
+   "first_seen": "2026-09-14T10:04:32.659752+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Die Panikmache der KI-Konzerne soll vom eigenen Versagen ablenken",
+   "summary": "Durch ihre Obsession mit der „Superintelligenz“ gefährdet die KI-Elite uns alle. Was hinter den Science-Fiction-Geschichten von Altman, Amodei und Musk steckt.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/ki-entwicklung-usa-open-ai-hugging-risiken-verantwortung-li.3546741",
+   "published": "2026-09-14T09:11:02+00:00",
+   "first_seen": "2026-09-14T10:04:32.659752+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-anthropic-wirft-chinesischen-rivalen-schummelei-vor/100253732.html",
    "published": "2026-09-11T00:37:26+00:00",
    "first_seen": "2026-09-11T01:04:49.484746+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI-Firma: Aktivitäten rund um mögliche Biowaffen-Forschung",
-   "summary": "Zu den Sorgen bei Künstlicher Intelligenz gehört, dass sie zur Entwicklung von Biowaffen genutzt werden könnte. Eine KI-Firma stellt fest, dass Wissenschaftler Hilfe bei fragwürdiger Forschung suchen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-aktivitaeten-rund-um-moegliche-biowaffen-forschung/100253729.html",
-   "published": "2026-09-11T00:07:56+00:00",
-   "first_seen": "2026-09-11T01:04:49.484746+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Oracle dank KI-Boom mit Rekordumsatz - Jahresziele angehoben",
-   "summary": "Das rasante Wachstum der Cloud-Sparte beschert Oracle deutliche Zuwächse bei Umsatz und Gewinn. Trotz der hohen Verschuldung reagieren Anleger erleichtert auf die angehobene Prognose.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-oracle-dank-ki-boom-mit-rekordumsatz-jahresziele-angehoben/100253724.html",
-   "published": "2026-09-10T21:47:25+00:00",
-   "first_seen": "2026-09-10T22:03:50.243059+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IWF: Weltwirtschaft trotzt Energiekrise – Risiken bleiben aber hoch",
-   "summary": "Die Weltwirtschaft werde von gegenläufigen Kräften beeinflusst. Während KI die Wirtschaft antreibt, hemmt der negative Angebotsschock bei Energie das Wachstum.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/iwf-weltwirtschaft-trotzt-energiekrise-risiken-bleiben-aber-hoch/100253710.html",
-   "published": "2026-09-10T19:21:32+00:00",
-   "first_seen": "2026-09-10T20:04:06.373719+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: OpenAI stellt ChatGPT-Version für die Finanzbranche vor",
-   "summary": "Das neue Angebot richtet sich an Analysten und Investmentbanker – und zeigt, wie sich KI-Anbieter zunehmend bemühen, Produkte für stark regulierte Branchen zu entwickeln.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-openai-stellt-chatgpt-version-fuer-die-finanzbranche-vor/100253704.html",
-   "published": "2026-09-10T18:44:57+00:00",
-   "first_seen": "2026-09-10T19:03:23.334457+00:00",
    "paywall": true
   }
  ]
