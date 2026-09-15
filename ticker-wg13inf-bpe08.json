@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T03:04:41.578389+00:00",
+ "updated": "2026-09-15T04:04:33.108187+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Debatte um KI-Risiko: KI, die sich selbst verbessert – bis sie uns alle ruiniert?",
+   "summary": "Führende KI-Unternehmer warnen vor Künstlichen Intelligenzen, die sich selbst weiterentwickeln. Wie Experten das Risiko einschätzen.",
+   "link": "https://www.wiwo.de/technologie/kuenstliche-intelligenz-wie-gefaehrlich-ist-sich-selbst-verbessernde-ki/100254356.html",
+   "published": "2026-09-15T04:03:00+00:00",
+   "first_seen": "2026-09-15T04:04:33.108187+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: Trump nennt Rufe nach KI-Regulierung einen „Schwindel“",
@@ -892,15 +901,6 @@
    "published": "2026-09-11T13:39:00+00:00",
    "first_seen": "2026-09-11T14:04:09.345580+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
-   "summary": "Das US-Unternehmen Anthropic hat nach eigenen Angaben mehrere Fälle missbräuchlicher Nutzung seines KI-Modells unterbunden. Dabei sei es auch um mutmaßliche Cyberspionage aus Russland und biologische Waffen gegangen.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
-   "published": "2026-09-11T13:37:07+00:00",
-   "first_seen": "2026-09-11T16:04:47.403693+00:00",
-   "paywall": false
   }
  ]
 }
