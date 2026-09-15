@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T09:06:22.272898+00:00",
+ "updated": "2026-09-15T10:05:27.666516+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Axa-Chef Buberl: „Die Triebkräfte des Wirtschaftswachstums der letzten 40 Jahre sind zusammengebrochen“",
+   "summary": "Axa-Chef Thomas Buberl fordert ein Ende der Steuervorteile für ungesunde Ernährung. Für Axa setzt er auf Vorsorge, Wachstum durch KI und das Geschäft mit kleinen und mittleren Unternehmen.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/axa-chef-keine-steuerermaessigung-mehr-fuer-fastfood-das-waere-ein-anfang-01/100250742.html",
+   "published": "2026-09-15T09:55:00+00:00",
+   "first_seen": "2026-09-15T10:05:27.666516+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Recursive Self Improvement: Wie gefährlich ist sich selbst verbessernde KI wirklich?",
+   "summary": "Führende KI-Unternehmer warnen vor Künstlichen Intelligenzen, die sich selbst weiterentwickeln. Wie Experten das Risiko einschätzen.",
+   "link": "https://www.wiwo.de/technologie/recursive-self-improvement-wie-gefaehrlich-ist-sich-selbst-verbessernde-ki/100254356.html",
+   "published": "2026-09-15T09:55:00+00:00",
+   "first_seen": "2026-09-15T10:05:27.666516+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
+   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
+   "link": "https://www.handelsblatt.com/karriere/technologie-diese-ki-kenntnisse-in-der-it-branche-sind-kuenftig-gefragt/100238210.html",
+   "published": "2026-09-15T09:52:00+00:00",
+   "first_seen": "2026-09-15T10:05:27.666516+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Streit um KI: Nein, eine KI-Superintelligenz ist keine ausgemachte Sache",
+   "summary": "Sind Computer bald so kompetent wie unsere Gehirne? Bewiesen ist das nicht. Es könnte sogar sein, dass der Mensch das Optimum an Intelligenz ist, die sich in Millionen Jahren dauernder Evolution unter permanentem Überlebenszwang erreichen…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ralf-otte-ueber-die-ki-debatte-von-amodei-altman-und-musk-nein-superintelligenz-steht-nicht-fest-accg-201213101.html",
+   "published": "2026-09-15T09:32:45+00:00",
+   "first_seen": "2026-09-15T10:05:27.666516+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Mistrals KI soll Total Energies bei Erkundung neuer Öl- und Gasvorkommen helfen",
+   "summary": "Musk gibt Wettbewerbsklage gegen Apple auf +++ Vier Investmentbanken sollen BASF-Agrarsparte an die Börse bringen +++ Novo Nordisk heißt künftig nur noch Novo +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mistrals-ki-soll-total-energies-bei-erkundung-neuer-oel-und-gasvorkommen-helfen-faz-200452404.html",
+   "published": "2026-09-15T09:21:10+00:00",
+   "first_seen": "2026-09-15T10:05:27.666516+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
@@ -855,51 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dario-amodei-fordert-ki-bremse-anthropic-geht-voran-201221272.html",
    "published": "2026-09-12T20:43:02+00:00",
    "first_seen": "2026-09-12T21:04:31.819197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Bremse und will externe Prüfer in der Firma",
-   "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren – und mit gutem Beispiel vorangehen. Seine Wettbewerber Sam Altman und Elon Musk stimmen ihm zu.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-chef-amodei-fordert-ki-bremse-musk-und-altmann-stimmen-zu-201221272.html",
-   "published": "2026-09-12T20:43:02+00:00",
-   "first_seen": "2026-09-12T22:04:03.167662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI-Chef: Börsengang nicht mehr in diesem Jahr",
-   "summary": "Der ChatGPT-Entwickler OpenAI ist das wohl bekannteste KI-Unternehmen. Der seit langem vorbereitete Börsengang dürfte ein Riesen-Event werden. Doch Firmenchef Sam Altman findet den Moment ungünstig.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-chef-boersengang-nicht-mehr-in-diesem-jahr/100254090.html",
-   "published": "2026-09-12T20:21:26+00:00",
-   "first_seen": "2026-09-12T21:04:31.819197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Gefahren von Künstlicher Intelligenz: Wer haftet, wenn die KI uns umbringen will?",
-   "summary": "Jeder Eierkocher wird reguliert. Bei KI ist das - trotz sich häufender Warnungen - anders. Der Rechtsstaat sollte auch mal was dazu sagen. mehr...",
-   "link": "https://taz.de/Gefahren-von-Kuenstlicher-Intelligenz/!6211549/",
-   "published": "2026-09-12T18:29:00+00:00",
-   "first_seen": "2026-09-12T19:03:23.290031+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Chef von Anthropic für verlangsamte Entwicklung der KI",
-   "summary": "Dario Amodeis Vorschlag erhält Zuspruch von OpenAI-CEO Sam Altman +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Evonik schließt Standorte in Hamburg und Bitterfeld +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung-faz-200452404.html",
-   "published": "2026-09-12T17:48:13+00:00",
-   "first_seen": "2026-09-12T18:04:35.383323+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Chef von KI-Firma Anthropic für verlangsamte Entwicklung",
-   "summary": "Seit Jahren gibt es Aufrufe, die KI-Entwicklung zu verlangsamen. Durch einen jüngsten Zwischenfall als Weckruf gibt es nun erste Bewegung bei den großen Entwicklern Künstlicher Intelligenz.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-chef-von-ki-firma-anthropic-fuer-verlangsamte-entwicklung/100254082.html",
-   "published": "2026-09-12T17:34:20+00:00",
-   "first_seen": "2026-09-12T18:04:35.383323+00:00",
    "paywall": true
   }
  ]
