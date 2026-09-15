@@ -1,6 +1,24 @@
 {
- "updated": "2026-09-15T22:04:21.571183+00:00",
+ "updated": "2026-09-15T23:04:28.648851+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Spritpreise: Wirtschaftsministerium lehnt Forderungen der SPD zu Spritpreisen ab",
+   "summary": "Aus dem Haus von Katherina Reiche werden Bedenken zu Vorschlägen der SPD gegen hohe Treibstoffpreise laut. Eine Übergewinnsteuer und ein Preisdeckel seien problematisch.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/spritpreise-katharina-reiche-cdu-spritpreisdeckel-uebergewinnsteuer",
+   "published": "2026-09-15T22:16:41+00:00",
+   "first_seen": "2026-09-15T23:04:28.648851+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump kündigt Schließung von Kennedy-Center in Washington an",
+   "summary": "Im Streit um die Umbenennung des Kennedy-Centers hat Donald Trump angekündigt, das Kulturzentrum umgehend zu schließen. Grund seien Renovierungsarbeiten und Sicherheitsbedenken.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-trump-kennedy-center-geschlossen-umbenennung-100.html",
+   "published": "2026-09-15T22:12:00+00:00",
+   "first_seen": "2026-09-15T23:04:28.648851+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Nato-Ostflanke: Litauen: Abgeschossene Drohne hatte Sprengsatz",
@@ -44,6 +62,15 @@
    "link": "https://www.zdfheute.de/video/heute-journal/gross-merseburger-berlin-100.html",
    "published": "2026-09-15T19:45:00+00:00",
    "first_seen": "2026-09-15T22:04:21.571183+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Bovenschulte: \"Deshalb ist jetzt notwendig zu handeln\"",
+   "summary": "Konkrete Gegenmaßnahmen fehlen, doch Bremens Bürgermeister Bovenschulte sieht dringenden Handlungsbedarf beim Thema Spritpreise. Eine Möglichkeit sei eine Übergewinnsteuer.",
+   "link": "https://www.zdfheute.de/video/heute-journal/gellinek-bovenschulte-sgs-100.html",
+   "published": "2026-09-15T19:45:00+00:00",
+   "first_seen": "2026-09-15T23:04:28.648851+00:00",
    "paywall": false
   },
   {
@@ -98,6 +125,15 @@
    "link": "https://www.handelsblatt.com/politik/international/verteidigung-pistorius-unterzeichnet-ruestungsvereinbarung-mit-den-usa/100254821.html",
    "published": "2026-09-15T19:22:59+00:00",
    "first_seen": "2026-09-15T20:04:22.752568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Verteidigung: Pistorius trifft Hegseth in Washington – diesmal gab es für Deutschland sogar Lob von den USA",
+   "summary": "Verteidigungsminister Boris Pistorius und sein US-Amtskollege Pete Hegseth vereinbaren mehr Zusammenarbeit in der Rüstung. Das Treffen in Washington sei „entspannt“ gewesen.",
+   "link": "https://www.handelsblatt.com/politik/international/verteidigung-diesmal-gab-es-fuer-deutschland-sogar-lob-von-den-usa/100254821.html",
+   "published": "2026-09-15T19:22:59+00:00",
+   "first_seen": "2026-09-15T23:04:28.648851+00:00",
    "paywall": true
   },
   {
@@ -13462,42 +13498,6 @@
    "summary": "Robert Peschke, Chef des größten deutschen Fahrradhändlers Little John Bikes, über die Krise der Fahrradbranche und die Erfolge der neuen asiatischen Konkurrenz.",
    "link": "https://www.wiwo.de/unternehmen/handel/little-john-bikes-chinese-speed-bedroht-deutsche-fahrradhersteller/100252012.html",
    "published": "2026-09-11T12:08:22+00:00",
-   "first_seen": "2026-09-11T13:04:21.604330+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Abschiebepolitik der AfD: Rüstung für die „Remigration“",
-   "summary": "Sachsen-Anhalts AfD-Wahlsieger Ulrich Siegmund verbindet die Rüstungsproduktion mit einer künftigen Abschiebeoffensive. Der potenzielle Partner BSW reagiert empört. mehr...",
-   "link": "https://taz.de/Abschiebepolitik-der-AfD/!6212509/",
-   "published": "2026-09-11T12:08:00+00:00",
-   "first_seen": "2026-09-11T13:04:21.604330+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie die Anschläge des 11. September nachwirken",
-   "summary": "Die USA gedenken der Opfer des 11. September. Die Angriffe auf die Zwillingstürme des Word Trade Centers und das Pentagon jähren sich zum 25. Mal. Die Gedenkfeier bei ZDFheute live.",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/gedenkfeier-elfter-september-usa-video-100.html",
-   "published": "2026-09-11T12:07:00+00:00",
-   "first_seen": "2026-09-11T13:04:21.604330+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Schwieriger Wochenstart: Was wirklich gegen das Montagsgefühl hilft",
-   "summary": "Montagsblues? Eine Karriereexpertin erklärt, wie kleine Veränderungen den Wochenstart erleichtern und was bei anhaltender Unzufriedenheit zu tun ist.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/schwieriger-wochenstart-was-wirklich-gegen-das-montagsgefuehl-hilft/100253917.html",
-   "published": "2026-09-11T12:06:41+00:00",
-   "first_seen": "2026-09-11T13:04:21.604330+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Ferienimmobilien: Die Top-Adressen für Ihr Ferienhaus an den bayrischen Seen",
-   "summary": "Immobilien rund um die bayrischen Seen werden gerade wieder günstiger. Wer auch vermieten möchte, sollte aber auf andere Lagen setzen.",
-   "link": "https://www.wiwo.de/finanzen/immobilien/ferienhaus-an-bayrischen-seen-die-top-adressen-fuer-ihre-immobilie-an-den-bayrischen-seen/100253524.html",
-   "published": "2026-09-11T12:03:12+00:00",
    "first_seen": "2026-09-11T13:04:21.604330+00:00",
    "paywall": true
   }
