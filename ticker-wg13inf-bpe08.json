@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T06:05:48.839787+00:00",
+ "updated": "2026-09-15T07:06:46.125579+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Trump: \"Kranke Verschwörung\" gegen KI",
+   "summary": "US-Präsident Trump schlägt alle Warnungen vor den Risiken von Künstlicher Intelligenz in den Wind. Das sei \"Schwindel\". Es gebe eine \"kranke Verschwörung\" gegen KI.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-ki-risiken-schwindel-100.html",
+   "published": "2026-09-15T06:37:00+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Gates-Stiftung will mit Milliarde Dollar KI-Zugang fördern",
+   "summary": "Während darüber gestritten wird, wie gefährlich KI für die Menschheit ist, will die Stiftung von Microsoft-Mitgründer Bill Gates den Zugang dazu demokratisieren. Auch will er staatliche Regulierung.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-gates-stiftung-will-mit-milliarde-dollar-ki-zugang-foerdern/100254576.html",
+   "published": "2026-09-15T06:27:48+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "KI-Anwendungen: „Ein Druckmittel, wie es noch kein Handelspartner gegenüber Europa in den Händen hatte“",
+   "summary": "EZB-Präsidentin Christine Lagarde fordert den zügigen Ausbau zu einer echten Kapitalmarktunion. Sonst drohe Europa von Künstlicher Intelligenz aus anderen Ländern abhängig zu werden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/lagarde-europa-sucht-kapital-um-bei-ki-souveraen-zu-bleiben-accg-201227532.html",
+   "published": "2026-09-15T06:09:46+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
@@ -46,6 +73,15 @@
    "published": "2026-09-15T04:03:00+00:00",
    "first_seen": "2026-09-15T04:04:33.108187+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "WM-Titel für deutsche Fußballroboter",
+   "summary": "Die in Deutschland entwickelten Roboter sind in diesem Sommer Weltmeister geworden. Das Team dahinter aus Leipzig, hat nun den Ansporn, jene Roboter zu immer besseren Fußballern auszubilden.",
+   "link": "https://www.zdfheute.de/video/zdf-morgenmagazin/roboter-fussball-wm-100.html",
+   "published": "2026-09-15T03:30:00+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -865,42 +901,6 @@
    "published": "2026-09-12T07:11:09+00:00",
    "first_seen": "2026-09-12T08:04:25.925660+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "„Brains on Silicon“: Expertin: KI soll Umsätze im Mittelstand ankurbeln",
-   "summary": "Wie können mittelständische Unternehmen mit Künstlicher Intelligenz wachsen? Eine Expertin erklärt, warum Mut und einfache Lösungen den Unterschied machen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/brains-on-silicon-expertin-ki-soll-umsaetze-im-mittelstand-ankurbeln/100254029.html",
-   "published": "2026-09-12T04:00:07+00:00",
-   "first_seen": "2026-09-12T05:03:58.828604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Insiderberichte: Nvidia erwägt offenbar Milliardeneinstieg bei Anthropic-Börsengang",
-   "summary": "Der Chiphersteller könnte sich mit bis zu 10 Milliarden Dollar am Anthropic-Börsengang beteiligen, berichten Insider. Das KI-Start-up ist auf die Grafikprozessoren von Nvidia angewiesen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/insiderberichte-nvidia-erwaegt-offenbar-milliardeneinstieg-bei-anthropic-boersengang/100254006.html",
-   "published": "2026-09-12T00:55:49+00:00",
-   "first_seen": "2026-09-12T01:03:31.937634+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Insight Innovation: Black-Forest-Labs-Chef: „Es gibt eine andere Möglichkeit, als zu Google zu gehen“",
-   "summary": "Robin Rombach zählt mit seiner KI-Firma Black Forest Labs weltweit zu den Innovationsführern. Im Interview erzählt er, wie Roboter sehen lernen, und er spricht über US-Kooperationen und deutsche Chancen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-es-gibt-eine-andere-moeglichkeit-als-zu-google-zu-gehen/100252652.html",
-   "published": "2026-09-11T20:06:58+00:00",
-   "first_seen": "2026-09-11T21:03:59.434474+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Umstrittene Geräte: Filmen mit Smart Glasses in den meisten Fällen nicht erlaubt",
-   "summary": "Die Hamburger Datenschutzaufsicht hat ein Smart-Glasses-Modell von Meta geprüft. Sie sieht kaum legale Einsätze für die Brille mit Aufnahmefunktion. mehr...",
-   "link": "https://taz.de/Umstrittene-Geraete/!6212499/",
-   "published": "2026-09-11T17:36:00+00:00",
-   "first_seen": "2026-09-11T18:04:18.832760+00:00",
-   "paywall": false
   }
  ]
 }

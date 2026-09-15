@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-15T06:05:48.839787+00:00",
+ "updated": "2026-09-15T07:06:46.125579+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Iran-Krieg treibt Preise im Großhandel",
+   "summary": "Energie und Rohstoffe sind deutlich teurer geworden. So stark sind die Preise im Großhandel schon lange nicht mehr gestiegen. Das könnte auch auf die Verbraucherpreise durchschlagen.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-iran-krieg-treibt-preise-im-grosshandel/100254596.html",
+   "published": "2026-09-15T06:54:05+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "August-Zahlen: Iran-Krieg treibt Preise im Großhandel",
+   "summary": "Energie und Rohstoffe sind deutlich teurer geworden. So stark sind die Preise im Großhandel schon lange nicht mehr gestiegen. Das könnte auch auf die Verbraucherpreise durchschlagen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/august-zahlen-iran-krieg-treibt-preise-im-grosshandel/100254598.html",
+   "published": "2026-09-15T06:48:53+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Staatsanleihen: Höchster Stand seit 19 Jahren: Rendite für US-Staatsanleihen zieht an",
+   "summary": "Energiepreise, Staatsschulden und Inflation steigen in den USA. Das sorgt für eine Entwertung der US‑Staatsanleihen.",
+   "link": "https://www.wiwo.de/politik/konjunktur/staatsanleihen-hoechster-stand-seit-19-jahren-rendite-fuer-us-staatsanleihen-zieht-an/100254590.html",
+   "published": "2026-09-15T06:38:16+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Benzin und Diesel: „Ein weiterer Preisanstieg wäre fatal“ – Spritpreis-Schock schreckt die Politik auf",
+   "summary": "Benzin und Diesel werden wegen des Iran-Krieges immer teurer. Politiker fordern parteiübergreifend, Bürgerinnen und Bürger schnell zu entlasten. Über den richtigen Weg herrscht allerdings Uneinigkeit.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/benzin-und-diesel-spritpreis-schock-schreckt-die-politik-auf/100254306.html",
+   "published": "2026-09-15T06:07:57+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Marktbericht: DAX-Schwäche dürfte anhalten",
@@ -18,6 +54,15 @@
    "link": "https://www.wiwo.de/unternehmen/energie/verbraucherpreise-steigende-energiepreise-laut-studie-groesstes-inflationsrisiko/100254572.html",
    "published": "2026-09-15T05:10:53+00:00",
    "first_seen": "2026-09-15T06:05:48.839787+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Verbraucherpreise: Steigende Energiepreise laut Studie größtes Inflationsrisiko",
+   "summary": "Immer teurere fossile Energieträger erzeugen höhere Preise für Verbraucher. Laut Wissenschaftlern können mehr Windräder und Solarzellen helfen.",
+   "link": "https://www.wiwo.de/unternehmen/energie/energie-hoehere-oel-und-gaspreise-sind-laut-studie-groesstes-inflationsrisiko/100254572.html",
+   "published": "2026-09-15T05:10:53+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
    "paywall": true
   },
   {
@@ -45,6 +90,15 @@
    "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/elon-musk-apple-klage-openai-sam-altman-chatgpt",
    "published": "2026-09-15T03:11:30+00:00",
    "first_seen": "2026-09-15T04:04:33.108187+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "App Store: Elon Musk lässt Wettbewerbsklage gegen Apple fallen",
+   "summary": "Der Techunternehmer warf dem iPhone-Konzern unfairen Wettbewerb gegenüber anderen Chatbots wie seiner Software Grok vor. Jetzt hat Elon Musk die Klage zurückgenommen.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/elon-musk-apple-klage-openai-sam-altman-chatgpt-gxe",
+   "published": "2026-09-15T03:11:30+00:00",
+   "first_seen": "2026-09-15T07:06:46.125579+00:00",
    "paywall": true
   },
   {
@@ -784,24 +838,6 @@
    "published": "2026-09-10T16:30:00+00:00",
    "first_seen": "2026-09-10T17:03:57.056826+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Italien: Kampf um Monte dei Paschi: Intesa Sanpaolo bringt sich in Stellung",
-   "summary": "Die Intesa-Aktionäre haben am Donnerstag die Kapitalerhöhung für die geplante Übernahme von Monte dei Paschi abgenickt. Doch die Traditionsbank hat eine Verteidigungsstrategie.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-intesa-sanpaolo-bringt-sich-im-kampf-um-monte-dei-paschi-in-stellung/100253474.html",
-   "published": "2026-09-10T15:21:28+00:00",
-   "first_seen": "2026-09-10T16:04:21.540007+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Trumps 5.000-Dollar-Versprechen und EZB kontert Inflation",
-   "summary": "Trump verspricht Geld für US-Bürger, falls seine Republikaner die Midterms gewinnen, Leitzins steigt weiter und Wirbel um SPD-Spitzenkandidat.",
-   "link": "https://www.zdfheute.de/briefing/trump-krach-leitzins-zdfheute-update-100.html",
-   "published": "2026-09-10T15:00:00+00:00",
-   "first_seen": "2026-09-10T16:04:21.540007+00:00",
-   "paywall": false
   }
  ]
 }
