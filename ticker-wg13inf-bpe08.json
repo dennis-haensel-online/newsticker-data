@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T10:05:27.666516+00:00",
+ "updated": "2026-09-15T11:04:27.535337+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Immobilien: Gerissene Termine, teure Nacharbeiten: Wie KI Baumängel verhindern kann",
+   "summary": "Der Münchener Bausoftware-Konzern Nemetschek setzt bei seinen Produkten künftig voll auf KI. Planungsfehler und Materialverschwendung sollen damit vermieden werden. Worauf es ankommt.",
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-teure-fehler-wie-ki-baumaengel-verhindern-kann/100250157.html",
+   "published": "2026-09-15T10:53:00+00:00",
+   "first_seen": "2026-09-15T11:04:27.535337+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
+   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-so-schaut-die-juengste-ki-professorin-deutschlands-auf-den-ki-hype/100188740.html",
+   "published": "2026-09-15T10:46:00+00:00",
+   "first_seen": "2026-09-15T11:04:27.535337+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax unter Druck – Bank-Aktien mit Verlusten",
+   "summary": "Nach dem schwachen Wochenauftakt gibt der Dax weiter nach. Neben KI-Sorgen und dem hohen Ölpreis setzen steigende Anleiherenditen die Aktienmärkte unter Druck.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-unter-druck-bank-aktien-mit-verlusten/100254567.html",
+   "published": "2026-09-15T10:31:13+00:00",
+   "first_seen": "2026-09-15T11:04:27.535337+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Abenteuer-Content auf Social Media: Der Streamer auf dem Strommast und der Tod der Subkultur",
+   "summary": "Extrem-Abenteurer sind eine besondere Szene. Doch aus ihrer Leidenschaft wird heute Content zur Vermarktung auf Social Media. Zeit, dass der Trend implodiert. mehr...",
+   "link": "https://taz.de/Abenteuer-Content-auf-Social-Media/!6211491/",
+   "published": "2026-09-15T10:19:00+00:00",
+   "first_seen": "2026-09-15T11:04:27.535337+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Experten fordern Gespräch zwischen USA und China über KI",
+   "summary": "Nachdem mehrere US-Techunternehmen stärkere KI-Regulierung fordern, sprechen sich Experten für einen Dialog zwischen den USA und China aus.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-experten-fordern-gespraech-zwischen-usa-und-china-ueber-ki/100254346.html",
+   "published": "2026-09-15T10:06:00+00:00",
+   "first_seen": "2026-09-15T11:04:27.535337+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Interview: Axa-Chef Buberl: „Die Triebkräfte des Wirtschaftswachstums der letzten 40 Jahre sind zusammengebrochen“",
@@ -856,51 +901,6 @@
    "published": "2026-09-12T21:07:00+00:00",
    "first_seen": "2026-09-12T22:04:03.167662+00:00",
    "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
-   "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers OpenAI wird in diesem Jahr nicht stattfinden. Firmenchef Sam Altman begründet dies mit Sicherheitsbedenken.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
-   "published": "2026-09-12T20:58:00+00:00",
-   "first_seen": "2026-09-12T21:04:31.819197+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz: OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
-   "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers OpenAI wird in diesem Jahr nicht stattfinden. Firmenchef Sam Altman begründet dies mit der aktuellen Debatte über die Sicherheit von künstlicher Intelligenz.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/kuenstliche-intelligenz-openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
-   "published": "2026-09-12T20:58:00+00:00",
-   "first_seen": "2026-09-13T10:11:14.995132+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: OpenAI-Chef Altman: Börsengang nicht mehr in diesem Jahr",
-   "summary": "„Man wäre schlecht beraten, genau jetzt an die Börse zu gehen“, so Altman +++ Debatte über verlangsamte Entwicklung von KI +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-chef-altman-boersengang-nicht-mehr-in-diesem-jahr-faz-200452404.html",
-   "published": "2026-09-12T20:52:44+00:00",
-   "first_seen": "2026-09-12T22:04:03.167662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "ChatGPT-Erfinder: OpenAI verschiebt Börsengang – Chef Altman spricht von „Sicherheitsbedenken“",
-   "summary": "Der Entwickler des Textroboters ChatGPT verschiebt seinen Börsengang auf 2027. Sam Altman begründet den Schritt mit Sicherheitsproblemen, die als Privatfirma einfacher zu lösen seien.",
-   "link": "https://www.handelsblatt.com/technik/ki/chatgpt-erfinder-openai-verschiebt-boersengang-chef-altman-spricht-von-sicherheitsbedenken/100254089.html",
-   "published": "2026-09-12T20:45:03+00:00",
-   "first_seen": "2026-09-12T21:04:31.819197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Bremse und will externe Prüfer in der Firma",
-   "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren – und mit gutem Beispiel vorangehen. Seine Wettbewerber Sam Altman und Elon Musk stimmen ihm zu.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dario-amodei-fordert-ki-bremse-anthropic-geht-voran-201221272.html",
-   "published": "2026-09-12T20:43:02+00:00",
-   "first_seen": "2026-09-12T21:04:31.819197+00:00",
-   "paywall": true
   }
  ]
 }
