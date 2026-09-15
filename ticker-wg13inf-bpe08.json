@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T15:04:34.763922+00:00",
+ "updated": "2026-09-15T16:04:11.031570+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Rendite von US-Anleihen bei über fünf Prozent – S&P-Jahresendziel gesenkt",
+   "summary": "Die Rendite zehnjähriger US-Staatsanleihen erreicht den höchsten Stand seit 2007. Anleger blicken auf die morgige Zinsentscheidung der Fed – und die Sorgen um ein Abflauen des KI-Wachstums bleiben bestehen.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-rendite-von-us-anleihen-bei-ueber-fuenf-prozent-sp-jahresendziel-gesenkt/100254783.html",
+   "published": "2026-09-15T15:12:13+00:00",
+   "first_seen": "2026-09-15T16:04:11.031570+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Künstliche Intellligenz: Auch Chinas KP-Führung fürchtet Kontrollverlust durch KI",
+   "summary": "US-Tech-Bosse warnen vor der Auslöschung der Menschheit durch KI. Derweil sorgen sich Pekings Parteikader in erster Linie um den eigenen Machterhalt. mehr...",
+   "link": "https://taz.de/Kuenstliche-Intellligenz/!6213320/",
+   "published": "2026-09-15T15:11:00+00:00",
+   "first_seen": "2026-09-15T16:04:11.031570+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Angriffe: BSI-Präsidentin Plattner: „Wir reden von durchaus dramatischen Szenarien“",
@@ -883,24 +901,6 @@
    "published": "2026-09-13T08:34:00+00:00",
    "first_seen": "2026-09-13T10:11:14.995132+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Chemiekonzern Evonik schließt Standort in Bitterfeld",
-   "summary": "OpenAI-Chef Altman: Börsengang nicht mehr in diesem Jahr +++ Debatte über verlangsamte Entwicklung von KI +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-chemiekonzern-evonik-schliesst-standort-in-bitterfeld-faz-200452404.html",
-   "published": "2026-09-13T08:34:00+00:00",
-   "first_seen": "2026-09-13T10:11:14.995132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
-   "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-droht-uns-wirklich-das-ende-accg-201214335.html",
-   "published": "2026-09-13T07:49:37+00:00",
-   "first_seen": "2026-09-13T08:04:01.383554+00:00",
-   "paywall": true
   }
  ]
 }
