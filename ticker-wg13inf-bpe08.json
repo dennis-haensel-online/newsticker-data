@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T20:04:22.752568+00:00",
+ "updated": "2026-09-15T21:04:18.868020+00:00",
  "items": [
   {
    "label": "FAZ",
@@ -396,6 +396,15 @@
    "link": "https://www.wiwo.de/technologie/kuenstliche-intelligenz-wie-gefaehrlich-ist-sich-selbst-verbessernde-ki/100254356.html",
    "published": "2026-09-15T04:03:00+00:00",
    "first_seen": "2026-09-15T04:04:33.108187+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Bill Gates: »Der Staat muss eingreifen«",
+   "summary": "Die Techbranche wird KI nicht selbst regulieren, sagt Bill Gates. Er warnt vor Jobverlusten und Bioterror. Und erklärt, was wir dringend von China lernen sollten.",
+   "link": "https://www.zeit.de/digital/internet/2026-09/bill-gates-kuenstliche-intelligenz-regulierung-jobverlust-china",
+   "published": "2026-09-15T04:01:06+00:00",
+   "first_seen": "2026-09-15T21:04:18.868020+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss",
    "published": "2026-09-13T13:54:00+00:00",
    "first_seen": "2026-09-13T19:03:16.708064+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Matcha",
-   "summary": "Grün, grüner, Matcha. Das Trendgetränk aus Japan wird auf Social Media gehypt. Doch die hohe Nachfrage sorgt für steigende Preise, Lieferengpässe und Fake-Produkte.",
-   "link": "https://www.zdf.de/video/dokus/planet-e-genuss-mit-beigeschmack-100/matcha--genuss-mit-beigeschmack-100",
-   "published": "2026-09-13T13:30:00+00:00",
-   "first_seen": "2026-09-13T14:04:18.362547+00:00",
    "paywall": false
   }
  ]
