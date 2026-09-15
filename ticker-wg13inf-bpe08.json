@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T14:04:07.623670+00:00",
+ "updated": "2026-09-15T15:04:34.763922+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Angriffe: BSI-Präsidentin Plattner: „Wir reden von durchaus dramatischen Szenarien“",
+   "summary": "KI-Systeme außer Kontrolle, Cyber-Attacken alarmieren Unternehmen. Die Cyber-Sicherheitschefin des Bundes bewertet die Lage kritisch. Ist der Wettlauf gegen die entfesselte KI zu gewinnen?",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/ki-angriffe-wir-reden-von-dramatischen-szenarien-warnt-die-bsi-praesidentin/100254286.html",
+   "published": "2026-09-15T14:22:50+00:00",
+   "first_seen": "2026-09-15T15:04:34.763922+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Übersetzen mit eigenem Tonfall – DeepL rüstet Sprach-KI auf",
+   "summary": "Nach einem großen Stellenabbau setzt DeepL auf KI-Lösungen für Firmenkunden. Wie das Kölner Start-up sich gegen große US-Konkurrenten behaupten will.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-uebersetzen-mit-eigenem-tonfall-deepl-ruestet-sprach-ki-auf/100254706.html",
+   "published": "2026-09-15T14:15:00+00:00",
+   "first_seen": "2026-09-15T15:04:34.763922+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Künstliche Intelligenz: Fondsmanager warnt vor KI-Risiken für Finanzmärkte",
@@ -881,24 +899,6 @@
    "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen…",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-droht-uns-wirklich-das-ende-accg-201214335.html",
    "published": "2026-09-13T07:49:37+00:00",
-   "first_seen": "2026-09-13T08:04:01.383554+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
-   "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amodei-altman-musk-droht-uns-durch-ki-wirklich-das-ende-accg-201214335.html",
-   "published": "2026-09-13T07:49:37+00:00",
-   "first_seen": "2026-09-13T10:11:14.995132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Amerikanische KI-Bosse für verlangsamte Entwicklung",
-   "summary": "Seit Jahren gibt es Aufrufe, die KI-Entwicklung zu verlangsamen. Nach einem jüngsten Zwischenfall gibt es nun bei den großen Entwicklern Bewegung in diese Richtung.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-amerikanische-ki-bosse-fuer-verlangsamte-entwicklung/100254122.html",
-   "published": "2026-09-13T07:00:00+00:00",
    "first_seen": "2026-09-13T08:04:01.383554+00:00",
    "paywall": true
   }
