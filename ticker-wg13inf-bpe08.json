@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T12:05:33.755447+00:00",
+ "updated": "2026-09-15T13:04:59.655180+00:00",
  "items": [
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: China wartet nicht im KI-Rennen",
+   "summary": "Das Land wird die Entwicklung künstlicher Intelligenz nicht freiwillig verlangsamen. Doch es wäre unklug, wenn die USA auf Gespräche über Sicherheitsregeln verzichten.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/usa-china-ki-wettbewerb-entwicklung-sicherheit-li.3547729",
+   "published": "2026-09-15T12:32:23+00:00",
+   "first_seen": "2026-09-15T13:04:59.655180+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: Anleger sind alarmiert: In der Chipindustrie wachsen vor allem die Bedenken",
+   "summary": "Die Weltuntergangsszenarien der KI-Chefs vernichteten zuletzt mehrere Hundert Milliarden Dollar Börsenwert. Investoren zweifeln mehr denn je an den rosigen Prognosen der gesamten Branche.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-in-der-chipindustrie-wachsen-vor-allem-die-bedenken/100254443.html",
+   "published": "2026-09-15T12:30:12+00:00",
+   "first_seen": "2026-09-15T13:04:59.655180+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: DeepL rüstet Sprach-KI auf",
+   "summary": "Echtzeit-Übersetzung mit eigener Stimme +++ SpaceX gewinnt ersten Kunden für Rücktransport aus dem All +++ Mistrals KI soll Total Energies bei Erkundung neuer Öl- und Gasvorkommen helfen +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-deepl-ruestet-sprach-ki-auf-faz-200452404.html",
+   "published": "2026-09-15T12:10:00+00:00",
+   "first_seen": "2026-09-15T13:04:59.655180+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
@@ -874,33 +901,6 @@
    "published": "2026-09-13T06:59:00+00:00",
    "first_seen": "2026-09-13T07:04:17.345437+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: OpenAI verschiebt IPO – Chef Altman spricht von „Sicherheitsbedenken“",
-   "summary": "Der Entwickler des Sprachmodells ChatGPT will erst 2027 an die Börse gehen. Sam Altman begründet den Schritt mit Sicherheitsproblemen, die als Privatfirma einfacher zu lösen seien.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-openai-verschiebt-ipo-chef-altman-spricht-von-sicherheitsbedenken/100254089.html",
-   "published": "2026-09-13T06:39:58+00:00",
-   "first_seen": "2026-09-13T07:04:17.345437+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Anthropic, OpenAI, SpaceXAI: Eskaliert jetzt die KI-Krise?",
-   "summary": "Anthropics Chef sagt, der Menschheit bleibe vielleicht nur noch ein halbes Jahr, bis die künstliche Intelligenz außer Kontrolle gerate. OpenAI verschiebt seinen Börsengang – sogar Elon Musk applaudiert. Was steckt dahinter?",
-   "link": "https://www.spiegel.de/wirtschaft/anthropic-openai-spacexai-eskaliert-jetzt-die-ki-krise-a-718c08cc-db04-4074-b4e7-c2b91e33617b#ref=rss",
-   "published": "2026-09-13T05:33:00+00:00",
-   "first_seen": "2026-09-13T06:06:56.688199+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
-   "summary": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic, und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
-   "published": "2026-09-13T04:47:55+00:00",
-   "first_seen": "2026-09-13T07:04:17.345437+00:00",
-   "paywall": false
   }
  ]
 }
