@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-15T07:06:46.125579+00:00",
+ "updated": "2026-09-15T08:05:09.309457+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-hoch-ist-ihr-vermoegen-im-deutschland-vergleich/100149729.html",
+   "published": "2026-09-15T07:14:00+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studienfaecher-trotz-ki-wandel-zukunftstraechtig-bleiben/100235558.html",
+   "published": "2026-09-15T07:12:00+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Ifo-Institut: Stimmung bei Einzelhändlern bleibt verhalten",
@@ -9,6 +27,15 @@
    "link": "https://www.wiwo.de/politik/konjunktur/ifo-institut-stimmung-bei-einzelhaendlern-bleibt-verhalten/100254591.html",
    "published": "2026-09-15T07:03:54+00:00",
    "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Ifo-Institut: Stimmung bei Einzelhändlern bleibt verhalten",
+   "summary": "Gestiegene Preise belasten den Einzelhandel. Das Geschäftsklima bessert sich auch in diesem Monat nicht.",
+   "link": "https://www.wiwo.de/politik/konjunktur/ifo-institut-stimmung-bei-deutschen-einzelhaendlern-bleibt-verhalten/100254591.html",
+   "published": "2026-09-15T07:03:54+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
    "paywall": true
   },
   {
@@ -36,6 +63,15 @@
    "link": "https://www.wiwo.de/politik/konjunktur/staatsanleihen-hoechster-stand-seit-19-jahren-rendite-fuer-us-staatsanleihen-zieht-an/100254590.html",
    "published": "2026-09-15T06:38:16+00:00",
    "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Staatsanleihen: Höchster Stand seit 19 Jahren: Rendite für US-Staatsanleihen zieht an",
+   "summary": "Energiepreise, Staatsschulden und Inflation steigen in den USA. Das sorgt für eine Entwertung der US‑Staatsanleihen.",
+   "link": "https://www.wiwo.de/politik/konjunktur/hoechster-stand-seit-19-jahren-rendite-fuer-us-staatsanleihen-zieht-an/100254590.html",
+   "published": "2026-09-15T06:38:16+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
    "paywall": true
   },
   {
@@ -792,33 +828,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-minus-oelpreise-und-inflationsdaten-belasten/100253522.html",
    "published": "2026-09-10T17:35:01+00:00",
    "first_seen": "2026-09-10T21:03:58.244049+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Inflation und EZB: Christine Lagarde warnt vor weiteren Preisschocks in Europa",
-   "summary": "EZB-Chefin Christine Lagarde stemmt sich gegen eine hartnäckige Inflation und sieht den Kontinent vor schwierigen Monaten: »Wir sind mit Schocks konfrontiert.«",
-   "link": "https://www.spiegel.de/wirtschaft/inflation-und-ezb-christine-lagarde-warnt-vor-weiteren-preisschocks-in-europa-a-923f5970-0ed6-4c19-9165-522bc8b5e0c5#ref=rss",
-   "published": "2026-09-10T16:51:00+00:00",
-   "first_seen": "2026-09-10T17:03:57.056826+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Aktienmarkt: Ölpreisanstieg und Leitzinserhöhung: Daum schließt der Dax im Minus",
-   "summary": "Der deutsche Aktienmarkt hat negativ auf die zweite Zinserhöhung in diesem Jahr sowie auf trübe Inflationsperspektiven durch die EZB reagiert. Ein Überblick nach Börsenschluss.",
-   "link": "https://www.wiwo.de/finanzen/boerse/oelpreisanstieg-und-leitzinserhoehung-daum-schliesst-der-dax-im-minus/100253451.html",
-   "published": "2026-09-10T16:30:00+00:00",
-   "first_seen": "2026-09-10T17:03:57.056826+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitalbank: Radikalumbau statt starkes Wachstum: „Marketing-Deckel“ bremst N26 aus",
-   "summary": "Das einst bekannteste deutsche Fintech ist heute auffällig leise. Das liegt auch an Auflagen der Finanzaufsicht. Insider geben Einblicke in den mühsamen Neuanfang der Berliner Neobank.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-radikalumbau-statt-wachstum-marketing-deckel-bremst-n26-aus/100250455.html",
-   "published": "2026-09-10T15:38:29+00:00",
-   "first_seen": "2026-09-10T16:04:21.540007+00:00",
    "paywall": true
   }
  ]

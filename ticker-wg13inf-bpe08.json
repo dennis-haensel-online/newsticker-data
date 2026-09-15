@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T07:06:46.125579+00:00",
+ "updated": "2026-09-15T08:05:09.309457+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Einzelhandel: KI-Analyse prognostiziert überraschende Gewinner im Weihnachtsgeschäft",
+   "summary": "Zum Jahresende hoffen stationäre Händler und Onlineshops auf steigende Umsätze. Exklusive Daten zeigen, wie sich das Geschäft entwickeln könnte.",
+   "link": "https://www.wiwo.de/unternehmen/dienstleister/einzelhandel-ki-analyse-zeigt-ueberraschende-gewinner-im-weihnachtsgeschaeft/100253587.html",
+   "published": "2026-09-15T08:00:46+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax startet mit leichten Verlusten – Chemie-Aktien im Minus",
+   "summary": "Nach dem schwachen Wochenauftakt gibt der Dax weiter nach. Neben KI-Sorgen und dem hohen Ölpreis setzen steigende Anleiherenditen die Aktienmärkte unter Druck.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-mit-verlusten-chemie-aktien-im-minus/100254567.html",
+   "published": "2026-09-15T07:38:01+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studienfaecher-trotz-ki-wandel-zukunftstraechtig-bleiben/100235558.html",
+   "published": "2026-09-15T07:12:00+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitszeit: Dieser Rechner zeigt, wie viel Sie künftig arbeiten müssen",
+   "summary": "Sollte KI nicht Arbeitszeit ersparen? Erste Studien zeigen, dass teils das Gegenteil der Fall ist. Woran das liegt – und wie viel mehr oder weniger Sie womöglich bald arbeiten.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-rechner-welchen-einfluss-hat-ki-auf-ihre-arbeitsstunden/100233077.html",
+   "published": "2026-09-15T07:10:00+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Trump: \"Kranke Verschwörung\" gegen KI",
@@ -865,42 +901,6 @@
    "published": "2026-09-12T11:07:00+00:00",
    "first_seen": "2026-09-12T12:04:38.923744+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Robo-Restaurant Robyn's: Heute kocht der Roboter – Modellversuch startet in Leipzig",
-   "summary": "Mehr als 14 Gerichte werden im neuen Roboter-Restaurant frisch am Leipziger Hauptbahnhof zubereitet – und das ganz ohne menschliche Hände am Herd.",
-   "link": "https://www.wiwo.de/erfolg/trends/robotik-restaurant-modellversuch-startet-in-leipzig/100254043.html",
-   "published": "2026-09-12T08:16:36+00:00",
-   "first_seen": "2026-09-12T09:04:05.570985+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Midterms: Konflikt um Rechenzentren könnte Donald Trumps Mehrheit kippen",
-   "summary": "Der Streit um den Bau von Rechenzentren könnte die US-Zwischenwahlen entscheiden. Für die KI-Hyperscaler wird die Entwicklung inzwischen zur ernsten Gefahr.",
-   "link": "https://www.wiwo.de/politik/ausland/midterms-streit-um-ki-rechenzentren-koennte-donald-trumps-mehrheit-kippen/100253619.html",
-   "published": "2026-09-12T08:12:04+00:00",
-   "first_seen": "2026-09-12T09:04:05.570985+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: OpenAI-Software steuerte vor Angriff auf Hugging Face weitere Website an",
-   "summary": "Evonik schließt Standorte in Hamburg und Bitterfeld +++ Russland startet 5G-Netz – iPhones vorerst außen vor +++ 2,6 Billionen Dollar versteckte Tech-Schulden durch KI-Hochlauf +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-software-steuerte-vor-angriff-auf-hugging-face-weitere-website-an-faz-200452404.html",
-   "published": "2026-09-12T08:00:00+00:00",
-   "first_seen": "2026-09-12T08:04:25.925660+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenWoche 576: Editorial: Die allgemeine Intelligenz ist da!",
-   "summary": "Das neue KI-Modell von OpenAI ist noch schneller, besser, toller. Zeit, dass endlich wieder Zahlen statt Erzählungen in den Fokus rücken.",
-   "link": "https://www.wiwo.de/finanzen/boerse/openai-und-anthropic-vor-boersengang-warum-zahlen-jetzt-zaehlen/100253492.html",
-   "published": "2026-09-12T07:11:09+00:00",
-   "first_seen": "2026-09-12T08:04:25.925660+00:00",
-   "paywall": true
   }
  ]
 }

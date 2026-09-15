@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-09-15T07:06:46.125579+00:00",
+ "updated": "2026-09-15T08:05:09.309457+00:00",
  "items": [
   {
    "label": "ZEIT",
@@ -9,6 +9,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/aliko-dangote-oelraffinerie-boersengang-afrika-lagos-aktien",
    "published": "2026-09-15T06:43:11+00:00",
    "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Börsengang: Kleinanleger können erstmals in größte Raffinerie Afrikas investieren",
+   "summary": "Der nigerianische Unternehmer Aliko Dangote bietet Aktien im Wert von 1,8 Milliarden Dollar an. Es wäre der größte Börsengang in der Geschichte des Kontinents.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/aliko-dangote-oelraffinerie-boersengang-afrika-lagos-aktien-gxe",
+   "published": "2026-09-15T06:43:11+00:00",
+   "first_seen": "2026-09-15T08:05:09.309457+00:00",
    "paywall": true
   },
   {
@@ -756,15 +765,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/it-medien/uebernahme-saudiarabischer-staatsfonds-erwaegt-wohl-fusion-von-ea-und-savvy-games/100253712.html",
    "published": "2026-09-10T19:33:59+00:00",
    "first_seen": "2026-09-10T20:04:06.373719+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Raumfahrt: Reflex baut Satelliten für amerikanisches KI-Datenzentrum im All",
-   "summary": "Das Berliner Start-up arbeitet mit dem US-Start-up Orbital an einem besonderen Projekt: einem KI‑Datenzentrum mit bis zu 100.000 Satelliten. Die Herausforderungen dafür sind enorm.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-reflex-baut-satelliten-fuer-amerikanisches-ki-datenzentrum-im-all/100252900.html",
-   "published": "2026-09-10T16:27:33+00:00",
-   "first_seen": "2026-09-10T17:03:57.056826+00:00",
    "paywall": true
   }
  ]
