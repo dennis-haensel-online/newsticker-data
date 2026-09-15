@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T17:03:49.460729+00:00",
+ "updated": "2026-09-15T18:04:15.281378+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Schule in der Ukraine: Schulstart in Irpin mit KI und Schutzraum",
+   "summary": "An dem technologisch ausgerichteten Lyzeum bei Kyjiw beginnt das vierte Schuljahr im Krieg. Durch die Luftangriffe hat sich das Lernen digital versiert. mehr...",
+   "link": "https://taz.de/Schule-in-der-Ukraine/!6213130/",
+   "published": "2026-09-15T17:47:00+00:00",
+   "first_seen": "2026-09-15T18:04:15.281378+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "China und künstliche Intelligenz: Keine Macht für niemand",
+   "summary": "China versucht, sich gegen die US-Tech-Szene zu inszenieren. Aber das ist eine Show, der man nicht glauben sollte. mehr...",
+   "link": "https://taz.de/China-und-kuenstliche-Intelligenz/!6213255/",
+   "published": "2026-09-15T17:46:00+00:00",
+   "first_seen": "2026-09-15T18:04:15.281378+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Wall Street: Rendite von US-Anleihen bei über fünf Prozent – S&P-Jahresendziel gesenkt",
@@ -369,6 +387,15 @@
    "link": "https://www.zdfheute.de/video/zdf-morgenmagazin/roboter-fussball-wm-100.html",
    "published": "2026-09-15T03:30:00+00:00",
    "first_seen": "2026-09-15T07:06:46.125579+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "moma vor der Wahl in Berlin: CDU",
+   "summary": "CDU-Spitzenkandidat Stefan Evers möchte für mehr Sicherheit sorgen: \"Wenn es nach mir geht, könnte die ganze Stadt Messerverbotszone sein\". KI-gestützte Videoüberwachung will er fortführen.",
+   "link": "https://www.zdfheute.de/video/zdf-morgenmagazin/wahl-berlin-cdu-102.html",
+   "published": "2026-09-15T03:30:00+00:00",
+   "first_seen": "2026-09-15T18:04:15.281378+00:00",
    "paywall": false
   },
   {
@@ -874,33 +901,6 @@
    "published": "2026-09-13T12:56:00+00:00",
    "first_seen": "2026-09-13T13:03:40.436756+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Festnahmen: Razzien gegen LGBTQ-Organisationen in der Türkei",
-   "summary": "Bei Razzien gegen LGBTQ-Organisationen in der Türkei sind zahlreiche Menschen festgenommen worden. Menschenrechtler sprechen von staatlicher Diskriminierung.",
-   "link": "https://www.handelsblatt.com/politik/international/festnahmen-razzien-gegen-lgbtq-organisationen-in-der-tuerkei/100254171.html",
-   "published": "2026-09-13T11:24:43+00:00",
-   "first_seen": "2026-09-13T12:04:45.632340+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Die größte KI-Gefahr ist nicht die Superintelligenz",
-   "summary": "Die düsteren Warnungen der KI-Chefs klingen oft nach Science-Fiction, doch viele Risiken sind längst real. Das größte Problem: Die Anbieter tun zu wenig, um Missbrauch zu unterbinden.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-groesste-ki-gefahr-ist-nicht-die-superintelligenz/100254146.html",
-   "published": "2026-09-13T10:21:46+00:00",
-   "first_seen": "2026-09-13T11:03:45.559642+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Künstliche Intelligenz: US-Techbosse pochen auf langsamere Entwicklung",
-   "summary": "Seit Jahren gibt es Aufrufe, KI-Entwicklung zu verlangsamen. Nach Zwischenfällen gibt es nun unter KI-Unternehmern erste Schritte in diese Richtung. mehr...",
-   "link": "https://taz.de/Kuenstliche-Intelligenz/!6212710/",
-   "published": "2026-09-13T08:34:00+00:00",
-   "first_seen": "2026-09-13T10:11:14.995132+00:00",
-   "paywall": false
   }
  ]
 }
