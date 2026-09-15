@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-15T05:04:16.329382+00:00",
+ "updated": "2026-09-15T06:05:48.839787+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/karriere-in-welchen-branchen-und-jobs-sie-mit-ki-kompetenz-besonders-punkten/100251207.html",
+   "published": "2026-09-15T05:39:00+00:00",
+   "first_seen": "2026-09-15T06:05:48.839787+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Die Wahrheit: So schnell kann es gehen",
+   "summary": "Bereits Freitag in einer Woche wird uns die KI flächendeckend rausgeKIckt haben. Aus allem und jedem. mehr...",
+   "link": "https://taz.de/Die-Wahrheit/!6212973/",
+   "published": "2026-09-15T05:16:00+00:00",
+   "first_seen": "2026-09-15T06:05:48.839787+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Staatssekretär: Europa droht bei KI zum Zuschauer zu werden",
+   "summary": "Digital-Staatssekretär Jarzombek warnt: Europa konzentriert sich zu stark auf Regulierung und verliert bei KI-Entwicklung den Anschluss an USA und China.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-staatssekretaer-europa-droht-bei-ki-zum-zuschauer-zu-werden/100254576.html",
+   "published": "2026-09-15T05:02:00+00:00",
+   "first_seen": "2026-09-15T06:05:48.839787+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Versicherungen: Mit KI zu mehr Kunden und niedrigeren Kosten: Axa legt neuen Strategieplan vor",
@@ -874,33 +901,6 @@
    "published": "2026-09-11T17:36:00+00:00",
    "first_seen": "2026-09-11T18:04:18.832760+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Anthropic: Russische Spione missbrauchen Claude-Modelle",
-   "summary": "Das KI-Unternehmen hat nach eigenen Angaben in den vergangenen Monaten mehrere Fälle von missbräuchlicher Nutzung seiner KI-Modelle unterbunden. Dazu zählten russische Cyberspionage-Kampagnen und Wirtschaftsspionage durch chinesische…",
-   "link": "https://www.handelsblatt.com/video/politik/kuenstliche-intelligenz-anthropic-russische-spione-missbrauchen-claude-modelle/100253929.html",
-   "published": "2026-09-11T14:26:57+00:00",
-   "first_seen": "2026-09-11T15:03:51.847708+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Merkels KI-Warnung – „Wir sollten aufgeregter sein!“",
-   "summary": "Altkanzlerin Angela Merkel sieht Parallelen zwischen der Marktmacht der Tech-Konzerne und einem System, das sie aus ihrer Jugend kennt.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-merkels-ki-warnung-wir-sollten-aufgeregter-sein/100253241.html",
-   "published": "2026-09-11T14:15:20+00:00",
-   "first_seen": "2026-09-11T15:03:51.847708+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
-   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-kann-ki-kuenftig-in-der-lage-sein-auch-top-manager-zu-ersetzen/100189694.html",
-   "published": "2026-09-11T14:02:00+00:00",
-   "first_seen": "2026-09-11T15:03:51.847708+00:00",
-   "paywall": true
   }
  ]
 }
