@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T12:05:29.393463+00:00",
+ "updated": "2026-09-16T13:05:37.721823+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Nvidia-CHef gegen Anthropic: Jeder hat sein KI-Interesse",
+   "summary": "Der Nvidia-Chef lehnt neue Regeln oder Vorschriften für Künstliche Intelligenz ab. Donald Trump ebenso. Beide haben Gründe.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/nvidia-ceo-huang-und-donald-trump-jeder-hat-sein-ki-interesse-201231923.html",
+   "published": "2026-09-16T12:08:37+00:00",
+   "first_seen": "2026-09-16T13:05:37.721823+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Desinformation: „Frequenz der Aktivitäten weiter erhöht“: Verfassungsschutz sieht Merz verstärkt im Visier Russlands",
@@ -890,15 +899,6 @@
    "summary": "Die Mehrheit der Unternehmen in Deutschland greift laut einer Bitkom-Studie auf KI zurück. Sie gilt als Zukunftstechnologie, aber teils auch als existenzgefährdend.",
    "link": "https://www.zeit.de/wirtschaft/2026-09/ki-unternehmen-bitkom-studie-nutzung-datenschutz",
    "published": "2026-09-14T09:45:23+00:00",
-   "first_seen": "2026-09-14T10:04:32.659752+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bitkom-Studie: Mehrheit der Unternehmen nutzt KI – Bedenken bleiben",
-   "summary": "Erfolg und Unsicherheit liegen bei Künstlicher Intelligenz nah beieinander: Warum viele Betriebe trotz Einsatz von KI skeptisch bleiben.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/bitkom-studie-mehrheit-der-unternehmen-nutzt-ki-bedenken-bleiben/100254357.html",
-   "published": "2026-09-14T09:38:15+00:00",
    "first_seen": "2026-09-14T10:04:32.659752+00:00",
    "paywall": true
   }
