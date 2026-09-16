@@ -1,7 +1,88 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T13:05:37.721823+00:00",
+ "updated": "2026-09-16T14:04:48.837101+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Pläne der EU-Kommission: Social Media erst ab 13 Jahren",
+   "summary": "Die EU-Kommissionspräsidentin stellt Pläne für ein Mindestalter für die Nutzung von Social Media vor. Sie hätten Auswirkungen auf alle Nutzer:innen. mehr...",
+   "link": "https://taz.de/Plaene-der-EU-Kommission/!6213632/",
+   "published": "2026-09-16T14:01:00+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
+   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-diese-jobs-in-der-it-branche-bleiben-trotz-ki-zukunftssicher/100238210.html",
+   "published": "2026-09-16T13:54:00+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
+   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-so-schaut-die-juengste-ki-professorin-deutschlands-auf-den-ki-hype-01/100188740.html",
+   "published": "2026-09-16T13:52:00+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Cohere übernimmt Aleph Alpha: Die Pläne der neuen deutsch-kanadischen KI-Hoffnung",
+   "summary": "Die Übernahme der einstigen deutschen KI-Hoffnung Aleph Alpha durch Cohere ist unterzeichnet. Hier sprechen die Chefs Aidan Gomez und Ilhan Scheer über ihre Pläne – und was in der Vergangenheit schiefgelaufen ist.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-und-cohere-das-planen-aidan-gomez-und-ilhan-scheer-201231269.html",
+   "published": "2026-09-16T13:40:30+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wissenschaftspreis: Zukunftspreis: Energiespeicher, Chip und Intensiv-Therapie",
+   "summary": "Drei Projekte aus Bayern und Baden-Württemberg gehen ins Rennen um den Deutschen Zukunftspreis 2026. Was ihre Technologien für Medizin, Energiewende und Digitalisierung leisten können.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/wissenschaftspreis-zukunftspreis-energiespeicher-chip-und-intensiv-therapie/100255037.html",
+   "published": "2026-09-16T13:38:46+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geoeconomics: Wir überlassen die gefährlichste Technologie der Welt privaten Laboren",
+   "summary": "Während die KI-Skepsis zum Mainstream wird, stellen sich US-Präsident Donald Trump und die US-Tech-Elite gegen jede wirksame Kontrolle. Ein Gastbeitrag.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/geoeconomics-wir-ueberlassen-die-gefaehrlichste-technologie-der-welt-privaten-laboren/100254595.html",
+   "published": "2026-09-16T13:38:37+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
+   "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/jan-viebig-wer-vermoegen-aufbauen-will-kommt-an-aktien-kaum-vorbei/100222130.html",
+   "published": "2026-09-16T13:36:00+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Zahl der Angriffe auf Juden übertrieben: Desinformation, Digga",
+   "summary": "Eine neue Onlinekampagne der niedersächsischen Landesregierung soll über Judenhass aufklären – verbreitet aber Falschinformationen. mehr...",
+   "link": "https://taz.de/Zahl-der-Angriffe-auf-Juden-uebertrieben/!6213531/",
+   "published": "2026-09-16T13:04:00+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "State of the Union: Kanada, China, KI: Von der Leyen hält Rede zur Lage der EU",
+   "summary": "Die EU-Kommissionspräsidentin strebt eine engere Kooperation mit Kanada an und will auf eine assoziierte Mitgliedschaft des Landes hinarbeiten. Zudem sprach von der Leyen über das Handelsdefizit mit China und die KI-Regulierung.",
+   "link": "https://www.handelsblatt.com/video/politik/state-of-the-union-kanada-china-ki-von-der-leyen-haelt-rede-zur-lage-der-eu/100255029.html",
+   "published": "2026-09-16T12:43:18+00:00",
+   "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Nvidia-CHef gegen Anthropic: Jeder hat sein KI-Interesse",
@@ -819,87 +900,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/ki-sicherheit-hacking-entwicklungen-deutschland-anthropic-openai-spacex-li.3546764",
    "published": "2026-09-14T15:00:35+00:00",
    "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gefährliche Technologie?: Trump: Die einzig nötige Leitplanke für KI bin ich selbst",
-   "summary": "Führende Köpfe der Branche warnen vor den Gefahren von Künstlicher Intelligenz. US-Präsident Trump sieht keinen Grund zur Sorge - und begründet das mit seiner eigenen Cleverness.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gefaehrliche-technologie-trump-die-einzig-noetige-leitplanke-fuer-ki-bin-ich-selbst/100254458.html",
-   "published": "2026-09-14T14:42:46+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI und Ölpreis: Ein bedrohlicher Krisen-Cocktail",
-   "summary": "KI als Menschheitsbedrohung, Rekordpreise fürs Tanken und explodierende Zinskosten: Die Unsicherheit in der Bevölkerung ist zu Recht enorm. Die Bundesregierung hat nur noch eine Chance.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/ki-und-oelpreis-ein-bedrohlicher-krisencocktail-201224448.html",
-   "published": "2026-09-14T13:56:26+00:00",
-   "first_seen": "2026-09-14T14:04:30.942992+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: KI-Chefs warnen vor dem eigenen Boom – Chipaktien stürzen ab",
-   "summary": "Ausgerechnet die Chefs der größten KI-Unternehmen warnen vor den Gefahren immer mächtigerer Modelle. An den Börsen sorgt das für Unruhe.",
-   "link": "https://www.wiwo.de/finanzen/boerse/ki-chefs-warnen-vor-kuenstlicher-intelligenz-chipaktien-stuerzen-ab/100254366.html",
-   "published": "2026-09-14T13:47:09+00:00",
-   "first_seen": "2026-09-14T14:04:30.942992+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Forscher stoppt Späh-Software von Anthropic",
-   "summary": "Ein KI-Modell von Anthropic hat versucht, Schadsoftware ins Internet zu laden. Nach Recherchen von ZDF frontal hat ein Sicherheitsforscher aus Wien Schlimmeres verhindert.",
-   "link": "https://www.zdfheute.de/wirtschaft/anthropic-ki-schadsoftware-gefahr-100.html",
-   "published": "2026-09-14T12:22:00+00:00",
-   "first_seen": "2026-09-14T13:06:58.234273+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Nach den Warnungen: Bremsen die KI-Entwickler jetzt ab?",
-   "summary": "Nach mehreren beunruhigenden KI-Zwischenfällen fordern Tech-Firmen eine Entwicklungspause. Was steckt hinter den Warnungen – und wie reagieren Politik und Wissenschaft?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nach-den-warnungen-bremsen-die-ki-entwickler-jetzt-ab/100254299.html",
-   "published": "2026-09-14T11:09:12+00:00",
-   "first_seen": "2026-09-14T12:05:14.501570+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: China kritisiert Warnung von Techbossen vor KI-Entwicklung",
-   "summary": "Mehrere Chefs von US-Techunternehmen aus dem Bereich KI schlagen vor, die Entwicklung der Technologie zu verlangsamen. Peking hat einen anderen KI-Plan.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-china-kritisiert-warnung-von-techbossen-vor-ki-entwicklung/100254346.html",
-   "published": "2026-09-14T10:52:56+00:00",
-   "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aktien: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
-   "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-kichefs-warnen-und-tech-titel-weltweit-fallen-deutlich/100254349.html",
-   "published": "2026-09-14T10:51:54+00:00",
-   "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "KI in Unternehmen: Mehrheit der Unternehmen in Deutschland nutzt KI",
-   "summary": "Die Mehrheit der Unternehmen in Deutschland greift laut einer Bitkom-Studie auf KI zurück. Sie gilt als Zukunftstechnologie, aber teils auch als existenzgefährdend.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/ki-unternehmen-bitkom-studie-nutzung-datenschutz-gxe",
-   "published": "2026-09-14T10:15:36+00:00",
-   "first_seen": "2026-09-14T12:05:14.501570+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "KI in Unternehmen: Mehrheit der Unternehmen in Deutschland nutzt KI",
-   "summary": "Die Mehrheit der Unternehmen in Deutschland greift laut einer Bitkom-Studie auf KI zurück. Sie gilt als Zukunftstechnologie, aber teils auch als existenzgefährdend.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/ki-unternehmen-bitkom-studie-nutzung-datenschutz",
-   "published": "2026-09-14T09:45:23+00:00",
-   "first_seen": "2026-09-14T10:04:32.659752+00:00",
    "paywall": true
   }
  ]
