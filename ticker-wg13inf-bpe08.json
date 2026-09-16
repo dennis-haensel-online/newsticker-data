@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T16:05:00.052768+00:00",
+ "updated": "2026-09-16T17:04:04.939302+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Roboter kocht am Leipziger Hauptbahnhof",
+   "summary": "Im \"Robyn’s\" am Leipziger Hauptbahnhof steht kein Mensch, sondern ein Roboter am Herd. Das Restaurant ist das erste in Deutschland, in dem ein Roboter kocht.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/roboter-koch-restaurant-video-100.html",
+   "published": "2026-09-16T16:52:00+00:00",
+   "first_seen": "2026-09-16T17:04:04.939302+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Aleph Alpha und Cohere: Kein KI-Wunder erwarten",
+   "summary": "Digitalminister Wildberger setzt große Hoffnungen in den Zusammenschluss des kanadischen KI-Unternehmens Cohere mit dem deutschen Start-up Aleph Alpha. Aber mit allzu hohen Erwartungen sollte man vorsichtig sein.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-und-cohere-kein-ki-wunder-erwarten-201232808.html",
+   "published": "2026-09-16T16:46:47+00:00",
+   "first_seen": "2026-09-16T17:04:04.939302+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landgericht Frankfurt: Urteil gegen Meta: Facebook-Konzern haftet für betrügerische Deepfakes im Netz",
+   "summary": "Die Geldanlage-Plattform Finanzfluss verklagte des US-Konzern – und hat jetzt recht bekommen. Die Entscheidung zeigt einen für den Konzern unerfreulichen Trend.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/deepfakes-urteil-gegen-meta-facebook-konzern-haftet-fuer-betrug-im-netz/100241787.html",
+   "published": "2026-09-16T16:34:23+00:00",
+   "first_seen": "2026-09-16T17:04:04.939302+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "TSMC-Manager: „Die KI ist wie ein dreijähriger Superman“",
+   "summary": "Kaum ein Konzern profitiert so stark vom KI-Boom wie der weltgrößte Auftrags-Chiphersteller TSMC aus Taiwan. Für seine eigenen Prozesse ist ihm die Technik aber zu riskant.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/tsmc-warum-der-ki-boom-dem-chipriesen-risiken-bereitet-201232822.html",
+   "published": "2026-09-16T16:14:49+00:00",
+   "first_seen": "2026-09-16T17:04:04.939302+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Maßnahmen nach Anschlag auf CSD: Repression und ein bisschen Prävention",
+   "summary": "Die Bundesregierung legt einen Zehn-Punkte-Plan gegen islamistischen Terror vor. Er beinhaltet vor allem höhere Strafen, mehr Fußfesseln und Überwachung. mehr...",
+   "link": "https://taz.de/Massnahmen-nach-Anschlag-auf-CSD/!6213627/",
+   "published": "2026-09-16T16:03:00+00:00",
+   "first_seen": "2026-09-16T17:04:04.939302+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Handelsblatt-Konferenz: Finanzaufsicht Bafin sieht bei Versicherern Verbesserungsbedarf bei Datennutzung in KI-Systemen",
@@ -153,6 +198,15 @@
    "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-in-schulen-wie-google-amazon-und-microsoft-in-europas-klassenzimmer-draengen-a-ba136f53-3aec-4800-bdc2-2604e21a6149#ref=rss",
    "published": "2026-09-16T10:03:00+00:00",
    "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz in Schulen: Wie Google, Amazon, Microsoft in Europas Klassenzimmer drängen",
+   "summary": "US-Techkonzerne drängen mit ihrer KI-Software in die Schulen und Universitäten. Gerät das Bildungssystem in eine gefährliche Abhängigkeit?",
+   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-in-schulen-wie-google-amazon-microsoft-in-europas-klassenzimmer-draengen-a-ba136f53-3aec-4800-bdc2-2604e21a6149#ref=rss",
+   "published": "2026-09-16T10:03:00+00:00",
+   "first_seen": "2026-09-16T17:04:04.939302+00:00",
    "paywall": false
   },
   {
@@ -846,60 +900,6 @@
    "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-musk-laesst-wettbewerbsklage-gegen-apple-fallen/100254517.html",
    "published": "2026-09-15T00:08:30+00:00",
    "first_seen": "2026-09-15T05:04:16.329382+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Tech-Titel fallen nach den Warnungen vor einer KI-Katastrophe deutlich",
-   "summary": "Investoren reagieren besorgt auf die Forderungen der Chefs von Anthropic und OpenAI nach einer Verlangsamung der KI‑Entwicklung. Analysten sehen die Lage differenzierter.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/dow-jones-sp-500-nasdaq-kichefs-warnen-tech-titel-weltweit-fallen-deutlich/100254349.html",
-   "published": "2026-09-14T19:54:16+00:00",
-   "first_seen": "2026-09-14T21:04:06.575513+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Was steckt hinter der Debatte über eine KI-Bremse?",
-   "summary": "Nach bedrohlichen Zwischenfällen im Zusammenhang mit KI-Modellen ist eine globale Debatte über schärfere Regeln für die Technologie entbrannt. Vorne mit dabei: ausgerechnet die führenden Entwickler OpenAI und Anthropic.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
-   "published": "2026-09-14T18:20:40+00:00",
-   "first_seen": "2026-09-14T19:05:13.158609+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Panikmache der KI-Firmen: Kommt mal wieder runter!",
-   "summary": "Tech-Bosse verbreiten Panik: KI könnte demnächst die Menschheit auslöschen. Dahinter steckt vermutlich mehr eine Marketingstrategie als echte Gefahr. mehr...",
-   "link": "https://taz.de/Panikmache-der-KI-Firmen/!6212985/",
-   "published": "2026-09-14T18:05:00+00:00",
-   "first_seen": "2026-09-14T19:05:13.158609+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Debatte über künstliche Intelligenz: Entschleunigung mit Hintergedanken",
-   "summary": "Etwas langsamer bitte – mit diesem Ansinnen machen KI-Konzerne gerade Schlagzeilen. Ex­per­ten vermuten allerdings keinen Altruismus dahinter. mehr...",
-   "link": "https://taz.de/Debatte-ueber-kuenstliche-Intelligenz/!6212965/",
-   "published": "2026-09-14T18:04:00+00:00",
-   "first_seen": "2026-09-14T19:05:13.158609+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Onlinebanking: Datenklau bei Digitalbank Revolut – offenbar deutscher Gründer betroffen",
-   "summary": "Hacker haben ein Datenleck ausgenutzt und Kundendaten der Onlinebank Revolut erbeutet. Womöglich auch von einem Unternehmer aus Deutschland.",
-   "link": "https://www.wiwo.de/unternehmen/banken/revolut-datenleck-offenbar-deutscher-gruender-betroffen/100254470.html",
-   "published": "2026-09-14T16:28:22+00:00",
-   "first_seen": "2026-09-14T17:03:17.883827+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: Forderungen nach KI-Bremse trifft Wall Street",
-   "summary": "Anthropic-CEO Amodei hat die Politik und andere KI-Unternehmen dazu aufgefordert, die Entwicklung zu verlangsamen und zunächst den Fokus auf Sicherheit und Regulation zu setzen. An der Wall Street sorgt das für Verunsicherung, berichtet…",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-forderungen-nach-ki-bremse-trifft-wall-street/100254485.html",
-   "published": "2026-09-14T16:21:07+00:00",
-   "first_seen": "2026-09-14T17:03:17.883827+00:00",
    "paywall": true
   }
  ]
