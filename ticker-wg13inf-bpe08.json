@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T06:05:15.879357+00:00",
+ "updated": "2026-09-16T07:05:04.544626+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Banking: Datenklau bei Digitalbank Revolut – offenbar deutscher Gründer betroffen",
+   "summary": "Hacker haben ein Datenleck ausgenutzt und Kundendaten der Onlinebank Revolut erbeutet. Anscheinend auch von einem Unternehmer aus Deutschland.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/revolut-datenleck-offenbar-deutscher-gruender-betroffen/100254762.html",
+   "published": "2026-09-16T06:53:40+00:00",
+   "first_seen": "2026-09-16T07:05:04.544626+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Software: Autonomes Fahren: Elektrische Lkw werden zum Testfeld für die Mobilität der Zukunft",
+   "summary": "Assistenzsysteme und Sensoren machen Lkw sicherer – auch mithilfe von Künstlicher Intelligenz. Bald soll die Software das Steuer ganz übernehmen können.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/software-lkw-werden-zum-testfeld-fuer-autonomes-fahren/100254658.html",
+   "published": "2026-09-16T06:49:42+00:00",
+   "first_seen": "2026-09-16T07:05:04.544626+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Nvidia-Chef lehnt langsamere KI-Entwicklung und neue Regeln ab",
+   "summary": "Mark Zuckerberg mischt sich in KI-Streit ein +++ DeepL rüstet Sprach-KI auf +++ SpaceX gewinnt ersten Kunden für Rücktransport aus dem All +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-nvidia-chef-huang-lehnt-langsamere-ki-entwicklung-und-neue-regeln-ab-faz-200452404.html",
+   "published": "2026-09-16T06:33:21+00:00",
+   "first_seen": "2026-09-16T07:05:04.544626+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
@@ -874,33 +901,6 @@
    "published": "2026-09-14T03:00:12+00:00",
    "first_seen": "2026-09-14T04:04:27.025932+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Trump: \"Negative Kräfte\" hinter KI-Sicherheitsbedenken",
-   "summary": "Führende KI-Unternehmen wollen die Entwicklung der Technologie drosseln. US-Präsident Trump hält dagegen und sieht \"negative Kräfte\" hinter den Sicherheitsbedenken.",
-   "link": "https://www.zdfheute.de/politik/ausland/trump-kuenstliche-intelligenz-drosselung-entwicklung-100.html",
-   "published": "2026-09-14T00:30:00+00:00",
-   "first_seen": "2026-09-14T02:04:39.085186+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Technologie: Experten fordern: Europa darf bei KI nicht den Anschluss verlieren",
-   "summary": "200 Seiten stark ist das Strategiepapier: Frühere Politiker, Ökonomen und Experten erklären, was zu tun ist, damit nicht nur China und die USA über künstliche Intelligenz bestimmen. Oder, noch schlimmer, einzelne Firmen das Sagen haben.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-strategie-europa-deutschland-rechenzentren-li.3545883",
-   "published": "2026-09-13T23:01:00+00:00",
-   "first_seen": "2026-09-14T00:06:24.734497+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "OpenAI verschiebt Börsengang: Macht langsam!",
-   "summary": "Die großen Techfirmen OpenAI und Anthropic fordern mehr Vorsicht bei der KI–Entwicklung und haben vor, sich härter zu regulieren. Elon Musk findet das gut. mehr...",
-   "link": "https://taz.de/OpenAI-verschiebt-Boersengang/!6212777/",
-   "published": "2026-09-13T18:00:00+00:00",
-   "first_seen": "2026-09-13T18:04:35.904941+00:00",
-   "paywall": false
   }
  ]
 }

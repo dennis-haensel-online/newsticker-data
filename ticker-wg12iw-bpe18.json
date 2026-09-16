@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-16T06:05:15.879357+00:00",
+ "updated": "2026-09-16T07:05:04.544626+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Debatte über Spritpreis-Entlastungen: Reiche gegen Preisdeckel und Übergewinnsteuer",
+   "summary": "Die Spritpreise steigen und steigen, deshalb hat Kanzler Merz Entlastungen angekündigt. Wie die aussehen könnten, darüber wird heftig diskutiert. Preisdeckel und Übergewinnsteuer hält das Wirtschaftsministerium beispielsweise für…",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diskussion-entlastungen-hohe-spritpreise-100.html",
+   "published": "2026-09-16T06:47:23+00:00",
+   "first_seen": "2026-09-16T07:05:04.544626+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegens-rechner-wie-reich-sind-sie-im-vergleich-zu-anderen-deutschen/100149729.html",
+   "published": "2026-09-16T06:12:00+00:00",
+   "first_seen": "2026-09-16T07:05:04.544626+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Diplomatie: Vor Gipfel in den USA – Bessent will Chinas Vizepremier treffen",
@@ -783,15 +801,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/usa-amerikas-inflation-bleibt-hartnaeckig-201218556.html",
    "published": "2026-09-11T14:10:45+00:00",
    "first_seen": "2026-09-11T15:03:51.847708+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "US-Konjunktur: US-Inflationsrate stabilisiert sich auf hohem Niveau",
-   "summary": "Die Inflation in den USA bleibt bei 3,4 Prozent und damit auf hohem Niveau stabil. Der Ölpreisschock erhöht den Druck auf die Fed vor ihrer Zinsentscheidung.",
-   "link": "https://www.wiwo.de/politik/konjunktur/usa-us-inflationsrate-stabilisiert-sich-auf-hohem-niveau/100253923.html",
-   "published": "2026-09-11T13:52:00+00:00",
-   "first_seen": "2026-09-11T14:04:09.345580+00:00",
    "paywall": true
   }
  ]
