@@ -1,6 +1,15 @@
 {
- "updated": "2026-09-16T20:04:36.155840+00:00",
+ "updated": "2026-09-16T21:04:09.187447+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Hohe Spritpreise: Italien und Frankreich reagieren auf steigende Kraftstoffpreise",
+   "summary": "Italien will Millionen Autofahrer bei den hohen Spritkosten entlasten und setzt 2027 für bestimmte Fahrzeuge die Kfz-Steuer aus. Frankreich verlängert seine Tankzuschüsse für bestimmte Branchen.",
+   "link": "https://www.handelsblatt.com/politik/international/hohe-spritpreise-italien-und-frankreich-reagieren-auf-steigende-kraftstoffpreise/100255140.html",
+   "published": "2026-09-16T20:15:50+00:00",
+   "first_seen": "2026-09-16T21:04:09.187447+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Fed-Leitzins: Kevin Warsh stärkt das Vertrauen in die US-Notenbank",
@@ -26,6 +35,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-drehen-nach-fed-zinserhoehung-ins-minus/100255058.html",
    "published": "2026-09-16T19:09:08+00:00",
    "first_seen": "2026-09-16T20:04:36.155840+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Börsen schließen nach Fed-Zinserhöhung im Minus",
+   "summary": "Die US-Notenbank hat die Zinsen um 0,25 Prozentpunkte angehoben. Einzelne Börsenindizes reagieren negativ. Bei den Anleiherenditen deutet sich dagegen etwas Entspannung an.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-nach-fed-zinserhoehung-im-minus/100255058.html",
+   "published": "2026-09-16T19:09:08+00:00",
+   "first_seen": "2026-09-16T21:04:09.187447+00:00",
    "paywall": true
   },
   {
@@ -602,6 +620,15 @@
    "link": "https://www.zdfheute.de/video/hallo-deutschland/kim-kardashian-raub-schadensersatz-100.html",
    "published": "2026-09-16T15:39:00+00:00",
    "first_seen": "2026-09-16T16:05:00.052768+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Rügen: Gemeinde Binz scheitert mit Klage gegen LNG-Terminal für Flüssiggas",
+   "summary": "Mehr als zwei Jahre läuft das Terminal für Flüssiggas auf Rügen schon – trotz Kritik der Nachbarn. Die Gemeinde Binz hatte Sicherheitsbedenken, das Bundesverwaltungsgericht wies eine Klage nun zurück.",
+   "link": "https://www.spiegel.de/wirtschaft/ruegen-gemeinde-binz-scheitert-mit-klage-gegen-lng-terminal-fuer-fluessiggas-a-e806d4d4-dd68-4d01-9632-3d44e22fbf62#ref=rss",
+   "published": "2026-09-16T15:39:00+00:00",
+   "first_seen": "2026-09-16T21:04:09.187447+00:00",
    "paywall": false
   },
   {
@@ -13472,33 +13499,6 @@
    "link": "https://www.wiwo.de/politik/europa/grossbritannien-millionenspende-an-reform-uk-loest-debatte-ueber-obergrenze-aus/100254040.html",
    "published": "2026-09-13T08:48:00+00:00",
    "first_seen": "2026-09-13T11:03:45.559642+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Nivea von Beiersdorf: »Wollen nicht die nächste Autoindustrie werden«, sagt Vincent Warnery",
-   "summary": "Das Geschäft mit den Nivea-Produkten des Beiersdorf-Konzerns schwächelte zuletzt erheblich. Manager Warnery beklagt nun strenge EU-Vorgaben und verlangt Entlastungen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/nivea-von-beiersdorf-wollen-nicht-die-naechste-autoindustrie-werden-sagt-vincent-warnery-a-5b59a37f-1a70-4b51-9b8c-6fea44584c91#ref=rss",
-   "published": "2026-09-13T08:48:00+00:00",
-   "first_seen": "2026-09-13T19:03:16.708064+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Wohnraummangel: Städtetourismus funktioniert auch mit weniger Airbnbs",
-   "summary": "Die EU-Kommission will helfen, die Wohnraumkrise zu lindern. Die Ferienhausbranche kontert mit Zahlen zu Jobs und Umsatz. Das ist verständlich – aber greift zu kurz.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/eu-verordnung-wohnraum-staedte-airbnb-tourismus-li.3545325",
-   "published": "2026-09-13T08:46:01+00:00",
-   "first_seen": "2026-09-13T10:11:14.995132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Abschwung: Frankreich, der neue kranke Mann Europas?",
-   "summary": "Schwaches Wachstum, steigende Arbeitslosigkeit und eine wachsende Schuldenlast setzen die Regierung in Paris unter Druck. Sie muss ihre Haushaltsziele aufgeben – und steht vor unpopulären Sparmaßnahmen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-wirtschaft-wachstum-verschuldung-arbeitslosigkeit-inflation-li.3545914",
-   "published": "2026-09-13T08:43:07+00:00",
-   "first_seen": "2026-09-13T10:11:14.995132+00:00",
    "paywall": true
   }
  ]
