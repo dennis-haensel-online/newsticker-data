@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-16T14:04:48.837101+00:00",
+ "updated": "2026-09-16T15:04:51.882053+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "USA: Widersetzt sich Fed-Chef Kevin Warsh dem Druck von US-Präsident Donald Trump?",
+   "summary": "Der neue Fed-Chef steht vor einer kaum lösbaren Aufgabe: die Inflation bekämpfen und dafür die Zinsen erhöhen – oder seinen Fürsprecher Donald Trump glücklich machen. Es ist ein Test, wie unabhängig der oberste US-Währungshüter ist.",
+   "link": "https://www.spiegel.de/wirtschaft/usa-widersetzt-sich-fed-chef-kevin-warsh-dem-druck-von-us-praesident-donald-trump-a-78810cd9-3e2f-43cc-8252-50684f9c1752#ref=rss",
+   "published": "2026-09-16T14:56:00+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Cohere übernimmt Aleph Alpha: Die Pläne der neuen deutsch-kanadischen KI-Hoffnung",
@@ -9,6 +18,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-und-cohere-das-planen-aidan-gomez-und-ilhan-scheer-201231269.html",
    "published": "2026-09-16T13:40:30+00:00",
    "first_seen": "2026-09-16T14:04:48.837101+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Fed-Sitzung: Kevin Warsh macht einen Fehler, wenn er die Leitzinsen erhöht",
+   "summary": "Steigende Zinsen werden die Inflationsursachen nicht bekämpfen. Fed-Chef Warsh sollte sich gegen die Markterwartungen stellen – auch wenn sein Ruf auf dem Spiel steht. Ein Gastbeitrag.",
+   "link": "https://www.wiwo.de/politik/ausland/fed-zinsentscheid-warum-hoehere-leitzinsen-die-us-inflation-nicht-senken/100254949.html",
+   "published": "2026-09-16T13:22:00+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
    "paywall": true
   },
   {
@@ -36,6 +54,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/bundesregierung-unicredit-commerzbank-uebernahme-aufsichtsrat-li.3548330",
    "published": "2026-09-16T12:10:08+00:00",
    "first_seen": "2026-09-16T13:05:37.721823+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Spritpreise explodieren: Kommt ein neuer Tankrabatt ab 1. Oktober?",
+   "summary": "Benzin und Diesel erreichen neue Rekordstände. Die Koalition plant Sofortmaßnahmen: Was zu Tankrabatt, Preisdeckel und Direktzahlungen diskutiert wird.",
+   "link": "https://www.wiwo.de/politik/deutschland/mobilitaetskosten-rekorde-beim-spritpreis-entlastung-schon-zum-1-oktober/100254912.html",
+   "published": "2026-09-16T11:01:00+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
    "paywall": true
   },
   {
@@ -783,15 +810,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-chef-amodei-fordert-ki-bremse-musk-und-altmann-stimmen-zu-201221272.html",
    "published": "2026-09-12T20:43:02+00:00",
    "first_seen": "2026-09-12T22:04:03.167662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Inflation: Wird jetzt alles noch teurer?",
-   "summary": "Fast schien die Inflation unter Kontrolle. Doch jetzt steigen Öl- und Gaspreise rasant. Die Finanzmärkte sind alarmiert. Müssen Verbraucher es auch sein?",
-   "link": "https://www.zeit.de/geld/2026-09/inflation-ezb-preissteigerung-oel-gas-verbraucher",
-   "published": "2026-09-12T16:26:21+00:00",
-   "first_seen": "2026-09-12T17:03:35.201035+00:00",
    "paywall": true
   }
  ]

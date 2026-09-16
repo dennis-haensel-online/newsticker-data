@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-16T14:04:48.837101+00:00",
+ "updated": "2026-09-16T15:04:51.882053+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Halbleiter: Fokussierung auf KI-Chips: Infineon verkauft in Milliarden-Deal Teil seines Speichergeschäfts",
+   "summary": "Der taiwanische Chiphersteller Winbond übernimmt die Sparte für rund eine Milliarde Euro. Mit der Summe will sich Infineon noch stärker auf zentrale Wachstumstreiber ausrichten.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/halbleiter-infineon-trennt-sich-von-teilen-seines-speichergeschaefts/100255070.html",
+   "published": "2026-09-16T15:00:21+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "USA: Widersetzt sich Fed-Chef Kevin Warsh dem Druck von US-Präsident Donald Trump?",
+   "summary": "Der neue Fed-Chef steht vor einer kaum lösbaren Aufgabe: die Inflation bekämpfen und dafür die Zinsen erhöhen – oder seinen Fürsprecher Donald Trump glücklich machen. Es ist ein Test, wie unabhängig der oberste US-Währungshüter ist.",
+   "link": "https://www.spiegel.de/wirtschaft/usa-widersetzt-sich-fed-chef-kevin-warsh-dem-druck-von-us-praesident-donald-trump-a-78810cd9-3e2f-43cc-8252-50684f9c1752#ref=rss",
+   "published": "2026-09-16T14:56:00+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Mittelstand: Goldbeck widersetzt sich dem Abschwung im Wohnungsbau",
@@ -19,6 +37,15 @@
    "published": "2026-09-16T13:49:00+00:00",
    "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Fed-Sitzung: Kevin Warsh macht einen Fehler, wenn er die Leitzinsen erhöht",
+   "summary": "Steigende Zinsen werden die Inflationsursachen nicht bekämpfen. Fed-Chef Warsh sollte sich gegen die Markterwartungen stellen – auch wenn sein Ruf auf dem Spiel steht. Ein Gastbeitrag.",
+   "link": "https://www.wiwo.de/politik/ausland/fed-zinsentscheid-warum-hoehere-leitzinsen-die-us-inflation-nicht-senken/100254949.html",
+   "published": "2026-09-16T13:22:00+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
+   "paywall": true
   },
   {
    "label": "ZEIT",
@@ -693,24 +720,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-wirtschaft-wachstum-verschuldung-arbeitslosigkeit-inflation-li.3545914",
    "published": "2026-09-13T08:43:07+00:00",
    "first_seen": "2026-09-13T10:11:14.995132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Schweden vor der Wahl: Rauer Ton im hohen Norden",
-   "summary": "Am Sonntag wählt Schweden und kann sich für links oder rechts entscheiden. Gesundheitssystem, Wirtschaft und Arbeitslosigkeit dominierten den Wahlkampf. mehr...",
-   "link": "https://taz.de/Schweden-vor-der-Wahl/!6212508/",
-   "published": "2026-09-12T18:26:00+00:00",
-   "first_seen": "2026-09-12T19:03:23.290031+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Inflation: Wird jetzt alles noch teurer?",
-   "summary": "Fast schien die Inflation unter Kontrolle. Doch jetzt steigen Öl- und Gaspreise rasant. Die Finanzmärkte sind alarmiert. Müssen Verbraucher es auch sein?",
-   "link": "https://www.zeit.de/geld/2026-09/inflation-ezb-preissteigerung-oel-gas-verbraucher",
-   "published": "2026-09-12T16:26:21+00:00",
-   "first_seen": "2026-09-12T17:03:35.201035+00:00",
    "paywall": true
   }
  ]

@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T14:04:48.837101+00:00",
+ "updated": "2026-09-16T15:04:51.882053+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Halbleiter: Fokussierung auf KI-Chips: Infineon verkauft in Milliarden-Deal Teil seines Speichergeschäfts",
+   "summary": "Der taiwanische Chiphersteller Winbond übernimmt die Sparte für rund eine Milliarde Euro. Mit der Summe will sich Infineon noch stärker auf zentrale Wachstumstreiber ausrichten.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/halbleiter-infineon-trennt-sich-von-teilen-seines-speichergeschaefts/100255070.html",
+   "published": "2026-09-16T15:00:21+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Warum ein amerikanisches Start-up nach Deutschland geht",
+   "summary": "Die Firma Langdock gibt ihren Firmensitz im US-Bundesstaat Delaware auf. Was klingt wie ein modernes Märchen, hat vor allem mit dem Geschäftsmodell der KI-Plattform zu tun.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/langdock-ki-start-up-firmensitz-usa-berlin-li.3548326",
+   "published": "2026-09-16T14:31:14+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Diese Aktien haben von den KI‑Warnungen profitiert",
+   "summary": "Die mahnenden Rufe der KI-Chefs lassen Aktien von Crowdstrike, Fortinet und Palo Alto Networks steigen. Der Markt boomt – doch die Bewertung der Aktien ist bereits hoch.",
+   "link": "https://www.wiwo.de/finanzen/boerse/crowdstrike-fortinet-palo-alto-networks-diese-aktien-haben-von-den-kiwarnungen-profitiert/100254908.html",
+   "published": "2026-09-16T14:21:36+00:00",
+   "first_seen": "2026-09-16T15:04:51.882053+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Pläne der EU-Kommission: Social Media erst ab 13 Jahren",
@@ -874,33 +901,6 @@
    "published": "2026-09-14T15:42:00+00:00",
    "first_seen": "2026-09-14T16:03:58.601238+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Anthropic löst KI-Sell-Off aus – Ölpreis steigt weiter an",
-   "summary": "Teures Öl und Zweifel am KI-Boom belasten die Wall Street. Zudem trübt die bevorstehende Fed-Sitzung die Stimmung der Anleger – denn die Wahrscheinlichkeit einer Zinserhöhung ist hoch.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-anthropic-loest-ki-sell-off-aus-oelpreis-steigt-weiter-an/100254453.html",
-   "published": "2026-09-14T15:12:41+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-News aktuell: US-Firmen wollen KI-Entwicklung drosseln – China kritisiert Bedrohungserzählungen",
-   "summary": "Forscher von Anthropic und OpenAI sowie die Vereinten Nationen warnen vor den Gefahren, die von Künstlicher Intelligenz für die Menschheit ausgehen.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-us-entwickler-wollen-bremsen-donald-trump-widerspricht/100245205.html",
-   "published": "2026-09-14T15:01:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Cybersicherheit: So gefährlich ist KI wirklich",
-   "summary": "Apokalypse oder einfach nur blitzschnelles Hacking? Was Sie über die Debatte um KI-Sicherheit wissen müssen. Fragen und Antworten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-sicherheit-hacking-entwicklungen-deutschland-anthropic-openai-spacex-li.3546764",
-   "published": "2026-09-14T15:00:35+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
   }
  ]
 }
