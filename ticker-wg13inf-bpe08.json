@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T08:04:27.259199+00:00",
+ "updated": "2026-09-16T09:04:03.358734+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-diese-studienfaecher-bieten-trotz-ki-gute-jobaussichten/100235558.html",
+   "published": "2026-09-16T08:50:00+00:00",
+   "first_seen": "2026-09-16T09:04:03.358734+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sachschäden: Neuronale Netze  spüren Versicherungs-Betrüger auf",
+   "summary": "Versicherer automatisieren ihre Abläufe immer stärker. KI-Technologie sorgt dabei für mehr Effizienz und erkennt Manipulationen. Doch noch setzt die Regulatorik einige Grenzen.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/sachschaeden-neuronale-netze-spueren-versicherungs-betrueger-auf/100247976.html",
+   "published": "2026-09-16T08:43:59+00:00",
+   "first_seen": "2026-09-16T09:04:03.358734+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitszeit: Dieser Rechner zeigt, wie viel Sie künftig arbeiten müssen",
+   "summary": "Sollte KI nicht Arbeitszeit ersparen? Erste Studien zeigen, dass teils das Gegenteil der Fall ist. Woran das liegt – und wie viel mehr oder weniger Sie womöglich bald arbeiten.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-rechner-haben-sie-durch-ki-mehr-oder-weniger-arbeit/100233077.html",
+   "published": "2026-09-16T08:10:00+00:00",
+   "first_seen": "2026-09-16T09:04:03.358734+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Preisvergleich: Idealo wächst – doch KI könnte das Geschäftsmodell des Portals aushebeln",
+   "summary": "Obwohl KI den Preisvergleich automatisieren kann, zeigt das Preisvergleichsportal Idealo noch starke Wachstumszahlen. Der Anbieter hält sich für unentbehrlich, doch Experten warnen.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/preisvergleich-idealo-will-zum-datenlieferanten-fuer-ki-agenten-werden/100252856.html",
+   "published": "2026-09-16T08:08:56+00:00",
+   "first_seen": "2026-09-16T09:04:03.358734+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Insider: SK Hynix erwägt Chipproduktion bei Intel in den USA",
@@ -865,42 +901,6 @@
    "published": "2026-09-14T07:47:00+00:00",
    "first_seen": "2026-09-14T14:04:30.942992+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gefahren durch KI: KI-Werte leiden unter Debatte über Entwicklungstempo",
-   "summary": "Lösung für viele Probleme oder große Gefahr? Die Zukunft der Künstlichen Intelligenz wird kontrovers diskutiert. Zeit für eine Verschnaufpause?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/gefahren-durch-ki-ki-werte-leiden-unter-debatte-ueber-entwicklungstempo/100254299.html",
-   "published": "2026-09-14T07:33:27+00:00",
-   "first_seen": "2026-09-14T08:04:31.318848+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Kognitive Kriegsführung“ – Chinas Minister für Staatssicherheit warnt vor KI-Risiken",
-   "summary": "In China und den USA wächst die Sorge, dass Künstliche Intelligenz außer Kontrolle gerät. Beim geplanten Treffen von Xi Jinping und Donald Trump dürfte das Thema in den Fokus rücken.",
-   "link": "https://www.handelsblatt.com/politik/international/ki-chinas-minister-fuer-staatssicherheit-warnt-vor-ki-risiken/100254254.html",
-   "published": "2026-09-14T07:32:20+00:00",
-   "first_seen": "2026-09-14T08:04:31.318848+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
-   "summary": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI gegenüber China im Vordergrund.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
-   "published": "2026-09-14T07:13:20+00:00",
-   "first_seen": "2026-09-14T08:04:31.318848+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Schnitzer, Bengio und Co.: Neue Strategie: Wie Europa im KI-Rennen mithalten könnte",
-   "summary": "Es braucht nicht zwingend eigene Modelle: Prominente Forscher und Politiker um Monika Schnitzer, Wolfgang Ischinger und Yoshua Bengio haben eine KI-Strategie für Europa entwickelt. Deutschland kommt eine Schlüsselrolle zu.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/schnitzer-bengio-und-co-wie-europa-im-ki-rennen-mithalten-koennte-accg-201217870.html",
-   "published": "2026-09-14T05:15:48+00:00",
-   "first_seen": "2026-09-14T06:05:40.439142+00:00",
-   "paywall": true
   }
  ]
 }
