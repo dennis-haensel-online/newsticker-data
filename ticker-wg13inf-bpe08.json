@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T09:04:03.358734+00:00",
+ "updated": "2026-09-16T10:04:05.822956+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz in Schulen: Wie Google, Amazon und Microsoft in Europas Klassenzimmer drängen",
+   "summary": "US-Techkonzerne drängen mit ihrer KI-Software in die Schulen und Universitäten. Gerät das Bildungssystem in eine gefährliche Abhängigkeit?",
+   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-in-schulen-wie-google-amazon-und-microsoft-in-europas-klassenzimmer-draengen-a-ba136f53-3aec-4800-bdc2-2604e21a6149#ref=rss",
+   "published": "2026-09-16T10:03:00+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Sitz nach Deutschland",
+   "summary": "Langdock kehrt mit seinem Hauptsitz aus den USA nach Deutschland zurück und plant Investitionen in ein eigenes Rechenzentrum für mehr digitale Souveränität.",
+   "link": "https://www.wiwo.de/unternehmen/it/langdock-ki-start-up-verlegt-sitz-nach-deutschland/100254972.html",
+   "published": "2026-09-16T09:50:10+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Rede zur Lage der EU: Die Pläne der Ursula von der Leyen",
+   "summary": "Die EU-Kommissionspräsidentin hat ihre jährliche Rede vor dem EU-Parlament gehalten. Es ging um Social Media, Verteidigung, Hitze und eine neue EU-Mitgliedschaft. mehr...",
+   "link": "https://taz.de/Rede-zur-Lage-der-EU/!6213605/",
+   "published": "2026-09-16T09:39:00+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technische Entwicklung: Weniger Tempo bei KI: Von der Leyen stellt sich gegen Trump",
+   "summary": "Die Warnungen von Techbossen über die Gefahren von Künstlicher Intelligenz fanden bei US-Präsident Trump wenig Anklang. EU-Kommissionschefin von der Leyen sieht die Dinge anders.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technische-entwicklung-weniger-tempo-bei-ki-von-der-leyen-stellt-sich-gegen-trump/100254979.html",
+   "published": "2026-09-16T09:28:21+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
+   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-durch-ki-koennen-aus-zehn-managementebenen-vier-werden/100243656.html",
+   "published": "2026-09-16T09:22:00+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI räumt „schlimmsten Unfall“ der KI-Geschichte ein",
+   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
+   "link": "https://www.wiwo.de/unternehmen/openai-raeumt-schlimmsten-unfall-der-ki-geschichte-ein/100254875.html",
+   "published": "2026-09-16T09:20:00+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gegen den Trend: KI-Start-up Langdock verlegt Sitz nach Deutschland",
+   "summary": "Langdock kehrt mit seinem Hauptsitz aus den USA nach Deutschland zurück und plant Investitionen in ein eigenes Rechenzentrum für mehr digitale Souveränität.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/gegen-den-trend-ki-start-up-langdock-verlegt-sitz-nach-deutschland/100254967.html",
+   "published": "2026-09-16T09:13:17+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
@@ -55,6 +118,15 @@
    "published": "2026-09-16T07:06:24+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Gerät Künstliche Intelligenz außer Kontrolle?",
+   "summary": "Warnungen von KI-Entwicklern lassen aufhorchen: Gerät Künstliche Intelligenz außer Kontrolle? Medienwissenschaftler Martin Andree erklärt die Hintergründe und zeigt, wo die Gefahren liegen.",
+   "link": "https://www.zdfheute.de/video/volle-kanne/gefahren-durch-ki-martin-andree-100.html",
+   "published": "2026-09-16T07:05:00+00:00",
+   "first_seen": "2026-09-16T10:04:05.822956+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -829,78 +901,6 @@
    "published": "2026-09-14T08:35:00+00:00",
    "first_seen": "2026-09-14T09:05:36.993510+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Dieser Rechner zeigt, wie viel Sie künftig arbeiten müssen",
-   "summary": "Sollte KI nicht Arbeitszeit ersparen? Erste Studien zeigen, dass teils das Gegenteil der Fall ist. Woran das liegt – und wie viel mehr oder weniger Sie womöglich bald arbeiten.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-rechner-wie-veraendern-sich-ihre-arbeitsstunden-durch-ki/100233077.html",
-   "published": "2026-09-14T08:32:00+00:00",
-   "first_seen": "2026-09-14T09:05:36.993510+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Spiel mit dem KI-Feuer",
-   "summary": "Es gibt gute Gründe, die düsteren Warnungen aus KI-Unternehmen ernst zu nehmen. Und es wäre dringend geboten, global an einem Strang zu ziehen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warnung-vor-gefahren-der-ki-spiel-mit-dem-feuer-201223073.html",
-   "published": "2026-09-14T08:21:49+00:00",
-   "first_seen": "2026-09-14T09:05:36.993510+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: China kritisiert Warnung von Techbossen vor KI-Entwicklung",
-   "summary": "Mehrere Chefs von US-Techunternehmen aus dem Bereich KI schlagen vor, die Entwicklung der Technologie zu verlangsamen. China sieht das anders. Peking hat einen eigenen KI-Plan.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-china-kritisiert-warnung-von-techbossen-vor-ki-entwicklung/100254299.html",
-   "published": "2026-09-14T08:20:24+00:00",
-   "first_seen": "2026-09-14T09:05:36.993510+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studiengaenge-bieten-trotz-ki-top-chancen/100235558.html",
-   "published": "2026-09-14T08:00:00+00:00",
-   "first_seen": "2026-09-14T09:05:36.993510+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax öffnet wegen Ölpreisanstieg und KI-Ängsten mit moderaten Verlusten",
-   "summary": "Die Worte von Sam Altman und Dario Amodei kosten Infineon und kleinere Chip-Firmen deutlich an Börsenwert. Der hohe Ölpreis belastet die Kurse zusätzlich.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-debatte-um-kientwicklung-drueckt-chip-aktien-ins-minus/100254261.html",
-   "published": "2026-09-14T07:56:26+00:00",
-   "first_seen": "2026-09-14T08:04:31.318848+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Auslöschung der Menschheit? Was an den heftigen KI-Warnungen dran ist",
-   "summary": "Die Chefs der KI-Giganten warnen so drastisch wie nie vor ihrer eigenen Technologie. Doch Donald Trump hält dagegen. Wie real ist die Gefahr?",
-   "link": "https://www.wiwo.de/politik/ausland/kuenstliche-intelligenz-ausloeschung-der-menschheit-was-an-den-ki-warnungen-dran-ist/100254268.html",
-   "published": "2026-09-14T07:49:00+00:00",
-   "first_seen": "2026-09-14T08:04:31.318848+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz: Experten warnen vor neuer Abhängigkeit Europas von USA",
-   "summary": "In den USA mahnen KI-Unternehmen eine strengere Regulierung an und fordern internationale Vereinbarungen. Europa wäre da nur Zaungast, warnen Experten.",
-   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss",
-   "published": "2026-09-14T07:47:00+00:00",
-   "first_seen": "2026-09-14T08:04:31.318848+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz: Experten warnen vor neuer Abhängigkeit Europas von den USA",
-   "summary": "In den USA mahnen KI-Unternehmen eine strengere Regulierung an und fordern internationale Vereinbarungen. Europa wäre da nur Zaungast, warnen Experten.",
-   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-experten-warnen-vor-neuer-abhaengigkeit-europas-von-den-usa-a-674407e7-3e7a-43bd-9be9-62c4984077ef#ref=rss",
-   "published": "2026-09-14T07:47:00+00:00",
-   "first_seen": "2026-09-14T14:04:30.942992+00:00",
-   "paywall": false
   }
  ]
 }
