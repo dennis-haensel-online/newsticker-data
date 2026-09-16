@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T15:04:51.882053+00:00",
+ "updated": "2026-09-16T16:05:00.052768+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt-Konferenz: Finanzaufsicht Bafin sieht bei Versicherern Verbesserungsbedarf bei Datennutzung in KI-Systemen",
+   "summary": "Nicht immer ist für die Aufsicht nachvollziehbar, warum in KI-Anwendungen eine Vielfalt an Daten einfließt. Sie fordert von den Versicherern eine bessere Begründung.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-bafin-sieht-verbesserungsbedarf-bei-datennutzung-in-ki-systemen/100254314.html",
+   "published": "2026-09-16T15:21:40+00:00",
+   "first_seen": "2026-09-16T16:05:00.052768+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Halbleiter: Fokussierung auf KI-Chips: Infineon verkauft in Milliarden-Deal Teil seines Speichergeschäfts",
@@ -892,15 +901,6 @@
    "published": "2026-09-14T16:21:07+00:00",
    "first_seen": "2026-09-14T17:03:17.883827+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Merz in der Kälte und KI-Agent auf gefährlicher Mission",
-   "summary": "Während Merz zum Arktis-Gipfel reist, wächst zu Hause der Druck auf den Kanzler. Und: Ein Forscher stoppt einen gefährlichen KI-Agenten. Der Tag.",
-   "link": "https://www.zdfheute.de/briefing/merz-arktis-kanzler-ki-anthropic-zdfheute-update-100.html",
-   "published": "2026-09-14T15:42:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
   }
  ]
 }
