@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T10:04:05.822956+00:00",
+ "updated": "2026-09-16T11:04:24.309187+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Desinformation: „Frequenz der Aktivitäten weiter erhöht“: Verfassungsschutz sieht Merz verstärkt im Visier Russlands",
+   "summary": "Russland verstärkt laut Verfassungsschutz seine Desinformationskampagnen gegen Kanzler Friedrich Merz. Der Zeitpunkt ist heikel: In wenigen Tagen stehen zwei wichtige Wahlen an.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/desinformation-verfassungsschutz-warnt-vor-anti-merz-kampagne-aus-russland/100254765.html",
+   "published": "2026-09-16T10:15:18+00:00",
+   "first_seen": "2026-09-16T11:04:24.309187+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: China warnt vor militärischem Missbrauch von KI",
+   "summary": "Kurz vor dem Gipfeltreffen in Washington fordert Peking internationale KI-Regeln. Verteidigungsminister Jun verweist auf das Risiko, Streitkräfte könnten die Technologie missbrauchen.",
+   "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-china-warnt-vor-militaerischem-missbrauch-von-ki/100254882.html",
+   "published": "2026-09-16T10:11:15+00:00",
+   "first_seen": "2026-09-16T11:04:24.309187+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Künstliche Intelligenz in Schulen: Wie Google, Amazon und Microsoft in Europas Klassenzimmer drängen",
@@ -10,6 +28,15 @@
    "published": "2026-09-16T10:03:00+00:00",
    "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI räumt „schlimmsten Unfall“ der KI-Geschichte ein",
+   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
+   "link": "https://www.wiwo.de/unternehmen/dreamforce-openai-raeumt-schlimmsten-unfall-der-ki-geschichte-ein/100254875.html",
+   "published": "2026-09-16T09:59:00+00:00",
+   "first_seen": "2026-09-16T11:04:24.309187+00:00",
+   "paywall": true
   },
   {
    "label": "WiWo",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/bitkom-studie-mehrheit-der-unternehmen-nutzt-ki-bedenken-bleiben/100254357.html",
    "published": "2026-09-14T09:38:15+00:00",
    "first_seen": "2026-09-14T10:04:32.659752+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Experte: Kommen einem KI-GAU immer näher",
-   "summary": "Künstliche Intelligenz birgt wachsende Risiken. Cybersicherheitsexperte Dennis-Kenji Kipker erklärt, was droht und warum die EU bei der Regulierung als Vorreiterin gilt.",
-   "link": "https://www.zdfheute.de/politik/deutschland/kuenstliche-intelligenz-kipker-gau-gefahr-100.html",
-   "published": "2026-09-14T09:22:00+00:00",
-   "first_seen": "2026-09-14T10:04:32.659752+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Die Panikmache der KI-Konzerne soll vom eigenen Versagen ablenken",
-   "summary": "Durch ihre Obsession mit der „Superintelligenz“ gefährdet die KI-Elite uns alle. Was hinter den Science-Fiction-Geschichten von Altman, Amodei und Musk steckt.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-entwicklung-usa-open-ai-hugging-risiken-verantwortung-li.3546741",
-   "published": "2026-09-14T09:11:02+00:00",
-   "first_seen": "2026-09-14T10:04:32.659752+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-diese-berufe-bieten-gute-chancen-fuer-bewerber-mit-ki-wissen/100251207.html",
-   "published": "2026-09-14T08:35:00+00:00",
-   "first_seen": "2026-09-14T09:05:36.993510+00:00",
    "paywall": true
   }
  ]
