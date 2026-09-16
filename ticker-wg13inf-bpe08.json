@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T05:03:56.196938+00:00",
+ "updated": "2026-09-16T06:05:15.879357+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/karriere-in-diesen-jobs-profitieren-sie-von-ki-kompetenzen/100251207.html",
+   "published": "2026-09-16T05:48:00+00:00",
+   "first_seen": "2026-09-16T06:05:15.879357+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: „Der schlimmste Unfall, den wir je gesehen haben“",
+   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
+   "link": "https://www.wiwo.de/unternehmen/openai-und-hugging-face-sam-altman-warnt-vor-ki-kontrollverlust/100254875.html",
+   "published": "2026-09-16T05:20:19+00:00",
+   "first_seen": "2026-09-16T06:05:15.879357+00:00",
+   "paywall": true
+  },
   {
    "label": "ZEIT",
    "title": "KI-Rennen zwischen China und USA: »Sie fürchten, dass ein Deepfake von Xi eine Ankündigung macht«",
@@ -883,24 +901,6 @@
    "published": "2026-09-13T18:00:00+00:00",
    "first_seen": "2026-09-13T18:04:35.904941+00:00",
    "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Risiken und Regulierung von KI: Menschengecodete Krise",
-   "summary": "Auf einmal ist der Aufschrei nach Regulierung der KI-Entwicklung groß. Dabei ist die Debatte um die Gefahren unkontrollierter Systeme nichts Neues für die Menschheit. mehr...",
-   "link": "https://taz.de/Risiken-und-Regulierung-von-KI/!6212742/",
-   "published": "2026-09-13T16:32:00+00:00",
-   "first_seen": "2026-09-13T17:03:47.865645+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Tödlicher Klimawandel: „Kaum ein Risiko wird so stark unterschätzt wie Hitze“",
-   "summary": "Die Schweiz entwickelt sich zu einem Klima-Hotspot, sagt Andreas Berger. Der Chef des Rückversicherers Swiss Re warnt davor, Künstliche Intelligenz einfach gewähren zu lassen: „Das wäre ein großer Fehler.“",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/swiss-re-chef-berger-hitzerisiken-werden-stark-unterschaetzt-accg-201196030.html",
-   "published": "2026-09-13T14:29:20+00:00",
-   "first_seen": "2026-09-13T15:04:16.351619+00:00",
-   "paywall": true
   }
  ]
 }
