@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T02:04:16.563757+00:00",
+ "updated": "2026-09-16T03:04:02.491635+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Steuerberatung: Investments in Steuer-Start-ups: Reid Hoffman und Christian Lindner entdecken die Steuerbranche",
+   "summary": "Berliner Taxtech-Unternehmen sammeln Millionen ein, um die Buchhaltung von KI-Agenten erledigen zu lassen. Investoren wetten darauf, dass KI den Fachkräftemangel der Branche beseitigen kann.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/start-ups-reid-hoffman-und-christian-lindner-entdecken-die-steuerbranche/100254430.html",
+   "published": "2026-09-16T02:04:03+00:00",
+   "first_seen": "2026-09-16T03:04:02.491635+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Hauptsitz von den USA nach Deutschland",
+   "summary": "Während Firmen vermehrt in die USA abwandern, wandelt Langdock seine US-Mutterfirma in eine europäische SE um. Man wolle Europa „vollends souveräne“ Rechenleistung anbieten, sagen die Chefs.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-langdock-verlegt-hauptsitz-von-den-usa-nach-deutschland/100254184.html",
+   "published": "2026-09-16T01:57:56+00:00",
+   "first_seen": "2026-09-16T03:04:02.491635+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: OpenAI und Konkurrenten wollen private Kontroll-Instanz schaffen",
@@ -882,24 +900,6 @@
    "link": "https://taz.de/Wahlen-SPD-KI-Raketen/!6212864/",
    "published": "2026-09-13T13:56:00+00:00",
    "first_seen": "2026-09-13T14:04:18.362547+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Sam Altman von OpenAI äußert sich zu Sicherheitsbedenken künstlicher Intelligenz",
-   "summary": "Wie gefährlich wird die KI? Darüber wird gerade wieder debattiert, es gibt Warnungen aus der Branche. Die will jetzt angeblich selbst auf die Bremse treten.",
-   "link": "https://www.spiegel.de/wirtschaft/sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-kuenstlicher-intelligenz-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss",
-   "published": "2026-09-13T13:54:00+00:00",
-   "first_seen": "2026-09-13T14:04:18.362547+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz: Sam Altman von OpenAI äußert sich zu Sicherheitsbedenken",
-   "summary": "Wie gefährlich wird die KI? Darüber wird gerade wieder debattiert, es gibt Warnungen aus der Branche. Die will jetzt angeblich selbst auf die Bremse treten.",
-   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-sam-altman-von-openai-aeussert-sich-zu-sicherheitsbedenken-a-a4d6772a-1cff-4fab-8791-254e2bf36915#ref=rss",
-   "published": "2026-09-13T13:54:00+00:00",
-   "first_seen": "2026-09-13T19:03:16.708064+00:00",
    "paywall": false
   }
  ]
