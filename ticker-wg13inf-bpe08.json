@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-16T07:05:04.544626+00:00",
+ "updated": "2026-09-16T08:04:27.259199+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Insider: SK Hynix erwägt Chipproduktion bei Intel in den USA",
+   "summary": "Die USA drohen dem südkoreanischen Chiphersteller schon länger mit Strafzöllen. Um das zu verhindern, überlegt SK Hynix Insidern zufolge, in einer Intel-Fabrik in Ohio zu produzieren.",
+   "link": "https://www.handelsblatt.com/technik/ki-chips-sk-hynix-erwaegt-produktion-bei-intel-in-den-usa/100254907.html",
+   "published": "2026-09-16T07:27:57+00:00",
+   "first_seen": "2026-09-16T08:04:27.259199+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI erwägt wohl neue Finanzierungsrunde mit Bewertung von mehr als 1,2 Billionen Dollar﻿﻿",
+   "summary": "Noch vor dem geplanten IPO könnte OpenAI seine Bewertung Berichten zufolge auf 1,2 Billionen Dollar erhöhen. Insider sehen für den Vorstoß demnach vor allem zwei Gründe.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-erwaegt-wohl-neue-finanzierungsrunde-vor-boersengang/100254901.html",
+   "published": "2026-09-16T07:06:24+00:00",
+   "first_seen": "2026-09-16T08:04:27.259199+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI befürwortet US-Gesetze gegen KI-Einsatz für Biowaffen",
+   "summary": "OpenAI stellt sich hinter mehrere parteiübergreifende Gesetze zur Begrenzung von Biowaffenrisiken durch KI. Zudem unterstützt der Konzern unabhängige Sicherheitstests für führende KI-Modelle.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-befuerwortet-us-gesetze-gegen-ki-einsatz-fuer-biowaffen/100254903.html",
+   "published": "2026-09-16T07:02:57+00:00",
+   "first_seen": "2026-09-16T08:04:27.259199+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Banking: Datenklau bei Digitalbank Revolut – offenbar deutscher Gründer betroffen",
@@ -48,6 +75,15 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "Zwischen Business-Euphorie und Gefahren für die Gesellschaft",
+   "summary": "In Berlin trifft sich diese Woche KI-Wirtschaft und Politik beim Big Bang KI-Festival. Neben Buzzwords und Marketing-Sprech tauchen auch immer mehr ernste Töne auf.",
+   "link": "https://www.zdfheute.de/panorama/berlin-big-bang-ki-festival-100.html",
+   "published": "2026-09-16T04:00:00+00:00",
+   "first_seen": "2026-09-16T08:04:27.259199+00:00",
+   "paywall": false
+  },
+  {
    "label": "ZEIT",
    "title": "KI-Rennen zwischen China und USA: »Sie fürchten, dass ein Deepfake von Xi eine Ankündigung macht«",
    "summary": "Viel wird spekuliert über das KI-Wettrüsten zwischen China und USA. Der Analyst Kyle Chan erklärt, dass China ganz andere Ziele als Amerika hat. Aber auch andere Ängste",
@@ -73,6 +109,15 @@
    "published": "2026-09-16T01:57:56+00:00",
    "first_seen": "2026-09-16T03:04:02.491635+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "KI-Fakes: Lernen, genauer hinzusehen",
+   "summary": "Demokratie braucht viele Stimmen – und Menschen, die Informationen einordnen können. Bei „ZDF goes Schule“ stärken Achtklässler in Mainz ihre Medienkompetenz.",
+   "link": "https://www.zdfheute.de/video/heute-journal/feldmann-ki-schulen-100.html",
+   "published": "2026-09-15T19:45:00+00:00",
+   "first_seen": "2026-09-16T08:04:27.259199+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -855,51 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/schnitzer-bengio-und-co-wie-europa-im-ki-rennen-mithalten-koennte-accg-201217870.html",
    "published": "2026-09-14T05:15:48+00:00",
    "first_seen": "2026-09-14T06:05:40.439142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Chinas Geheimdienstchef warnt vor KI-Risiken",
-   "summary": "China warnt vor politischer Einflussnahme und neuen Möglichkeiten für Cyberangriffe durch KI. Derweil fordern US-Tech-Konzerne angesichts der schnellen Entwicklung stärkere Sicherheitsvorkehrungen.",
-   "link": "https://www.handelsblatt.com/politik/international/ki-chinas-geheimdienstchef-warnt-vor-ki-risiken/100254254.html",
-   "published": "2026-09-14T04:55:06+00:00",
-   "first_seen": "2026-09-14T05:03:47.712913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing Podcast: Tech: Die Angst der KI-Chefs vor sich selbst / VW: Fehlen weitere 40 Milliarden Euro?",
-   "summary": "Von totaler Euphorie zu totaler Panik: Die KI-Chefs schlagen plötzlich Alarm vor ihren eigenen Erfindungen. Muss man das ernst nehmen?",
-   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-tech-die-angst-der-ki-chefs-vor-sich-selbst---vw-fehlen-weitere-40-milliarden-euro/100254253.html",
-   "published": "2026-09-14T04:13:16+00:00",
-   "first_seen": "2026-09-14T05:03:47.712913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing: Drei Dinge, auf die es jetzt in der KI-Debatte ankommt",
-   "summary": "Von totaler Euphorie zu totaler Panik: Die KI-Chefs schlagen plötzlich Alarm vor ihren eigenen Erfindungen. Muss man das ernst nehmen?",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-dinge-auf-die-es-jetzt-in-der-ki-debatte-ankommt/100254217.html",
-   "published": "2026-09-14T03:53:38+00:00",
-   "first_seen": "2026-09-14T04:04:27.025932+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Systemupgrade: Apples iOS 27: Mehr KI und Kinderschutz fürs iPhone",
-   "summary": "Foto-Bearbeitung mit KI, Sicherheitsfeatures für Eltern und Kids sowie ein aufgefrischtes Design: Das neue iOS 27 bringt viele neue Features für iPhones - was im Detail alles drinsteckt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/systemupgrade-apples-ios-27-mehr-ki-und-kinderschutz-fuers-iphone/100254250.html",
-   "published": "2026-09-14T03:39:07+00:00",
-   "first_seen": "2026-09-14T04:04:27.025932+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "10 Jahre TikTok: Algorithmus-Schock: Wie TikTok das Netz umgekrempelt hat",
-   "summary": "Vom belächelten Tanzvideo zur Shopping-Maschine: Wie TikTok mit neuen Technologien und Algorithmen das Social-Media-Geschäft grundlegend verändert hat.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/10-jahre-tiktok-algorithmus-schock-wie-tiktok-das-netz-umgekrempelt-hat/100254240.html",
-   "published": "2026-09-14T03:00:12+00:00",
-   "first_seen": "2026-09-14T04:04:27.025932+00:00",
    "paywall": true
   }
  ]
