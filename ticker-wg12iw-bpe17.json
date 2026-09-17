@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-09-17T13:05:25.992792+00:00",
+ "updated": "2026-09-17T14:04:31.193503+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Panzerhersteller: Schwieriges Marktumfeld: KNDS erwägt laut Insidern eine Verschiebung des Börsengangs",
+   "summary": "Deutschlands größter IPO des Jahres könnte erneut verschoben werden. Finanzinvestoren und Wettbewerber zeigen Interesse am Einstieg – doch ein solcher Verkauf dürfte politisch heikel werden.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-knds-erwaegt-laut-insidern-eine-verschiebung-des-boersengangs/100255352.html",
+   "published": "2026-09-17T13:18:43+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anleihe: Boom an Rohstoffmärkten sorgt für lebhafte Nachfrage nach australischen Dollar",
+   "summary": "Solides Wachstum, reiche Bodenschätze und höhere Zinsen machen Australien zu einer interessanten Anlageregion für Anleihefans.",
+   "link": "https://www.wiwo.de/finanzen/boerse/anleihe-boom-an-rohstoffmaerkten-sorgt-fuer-nachfrage-nach-australischen-dollar/100254747.html",
+   "published": "2026-09-17T13:17:09+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Playmobil-Chef verlässt Unternehmen",
@@ -27,6 +45,15 @@
    "link": "https://www.wiwo.de/politik/ausland/zinsentscheid-notenbank-in-london-haelt-noch-still-kommt-bald-zinsschritt-nach-oben/100255374.html",
    "published": "2026-09-17T11:51:02+00:00",
    "first_seen": "2026-09-17T12:05:22.815045+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Zinsentscheid: Notenbank in London hält noch still – kommt bald Zinsschritt nach oben?",
+   "summary": "Die Bank of England hält die Zinsen trotz hoher Energiepreise stabil. Zugleich wächst die Sorge vor weiteren Zinsschritten.",
+   "link": "https://www.wiwo.de/politik/ausland/zinsentscheid-notenbank-in-london-haelt-noch-still/100255374.html",
+   "published": "2026-09-17T11:51:02+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
    "paywall": true
   },
   {
@@ -640,42 +667,6 @@
    "published": "2026-09-14T12:38:00+00:00",
    "first_seen": "2026-09-14T13:06:58.234273+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: EZB-Direktorin Schnabel nennt Energiepreisanstieg „besorgniserregend“",
-   "summary": "Erdöl und Erdgas werden auf den Weltmärkte immer teurer. Die wachsenden Energiepreise erhöhen den Druck auf die Währungshüter. EZB-Direktorin Schnabel zeigt sich besorgt.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/isabel-schnabel-ezb-direktorin-nennt-energiepreisanstieg-besorgniserregend/100254368.html",
-   "published": "2026-09-14T10:35:11+00:00",
-   "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autobauer: Harter Wettbewerb um Privatkunden: Toyota überholt Volkswagen in Europa",
-   "summary": "Der japanische Hersteller verzeichnet im Juli mehr Neuzulassungen als der Konzern aus Wolfsburg. Experten halten VW im Vergleich für zu teuer. In Deutschland verlieren beide Autobauer.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-toyota-ueberholt-volkswagen-am-europaeischen-privatkundenmarkt/100252837.html",
-   "published": "2026-09-14T10:17:01+00:00",
-   "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilitätskosten: Benzinpreis auf Rekordhoch - Diesel kurz davor",
-   "summary": "Erste Stimmen warnen schon vor 3 Euro pro Liter - andere widersprechen. Kurzfristig sieht es aber nach weiter steigenden Preisen aus. Das gibt Forderungen nach einem Spritpreisdeckel neue Nahrung.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-benzinpreis-auf-rekordhoch-diesel-kurz-davor/100254272.html",
-   "published": "2026-09-14T10:16:59+00:00",
-   "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Spritpreise: Tankstellenverband warnt vor drei Euro pro Liter",
-   "summary": "Die Benzinpreise kennen derzeit kein Halten mehr. Nach einem neuen Höchststand am Wochenende fürchten die Tankstellenpächter einen weiteren Preisschub.",
-   "link": "https://www.spiegel.de/wirtschaft/spritpreise-tankstellenverband-warnt-vor-drei-euro-pro-liter-a-8b95a40e-259a-4eb1-a963-8c086e949fad#ref=rss",
-   "published": "2026-09-14T09:50:00+00:00",
-   "first_seen": "2026-09-14T10:04:32.659752+00:00",
-   "paywall": false
   }
  ]
 }

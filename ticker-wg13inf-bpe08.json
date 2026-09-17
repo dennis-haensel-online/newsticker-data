@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T13:05:25.992792+00:00",
+ "updated": "2026-09-17T14:04:31.193503+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Künstliche Intelligenz als Gefahr: OpenAI macht weitere KI-Probleme öffentlich",
+   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt. mehr...",
+   "link": "https://taz.de/OpenAI-macht-weitere-KI-Probleme-oeffentlich/!6214076/",
+   "published": "2026-09-17T14:03:00+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "EU-Plan für Social Media: Eltern sollen Kontakte von Teenagern vorher freigeben",
+   "summary": "Die EU-Kommission legt einen Gesetzentwurf vor, der Tech-Firmen zu mehr Jugendschutz verpflichten will. Doch Haken bleiben. mehr...",
+   "link": "https://taz.de/EU-Plan-fuer-Social-Media/!6213938/",
+   "published": "2026-09-17T14:01:00+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalisierung: Verspricht die Spark-KI mehr, als sie halten kann?",
+   "summary": "Erst nach einer IFG-Anfrage veröffentlicht das Bundesdigitalministerium die Kosten für seine Spark-KI. Sie soll Planungs- und Genehmigungsverfahren in Behörden beschleunigen.",
+   "link": "https://www.handelsblatt.com/technik/medizin/background-digitalisierung-und-ki/digitalisierung-verspricht-die-spark-ki-mehr-als-sie-halten-kann/100255375.html",
+   "published": "2026-09-17T13:50:41+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Amphenol-Aktie: KI-Hype bringt diesem Tech-Spezialisten eine Milliardenbewertung",
+   "summary": "Der Boom bei Rechenzentren für Künstliche Intelligenz beschert dem Technologieunternehmen Amphenol Rekordzahlen.",
+   "link": "https://www.wiwo.de/finanzen/boerse/amphenol-aktie-ki-hype-bringt-diesem-tech-spezialisten-eine-milliardenbewertung/100254743.html",
+   "published": "2026-09-17T13:31:38+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autonomes Fahren: Lucid und Bolt wollen 25.000 Robotaxis in Europa einsetzen",
+   "summary": "Hersteller und Dienstleister planen, ein Netzwerk für selbstfahrende Taxis aufzubauen. Der Markt ist umkämpft: Auch andere Hersteller möchten sich etablieren.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/autonomes-fahren-lucid-und-bolt-wollen-25.000-robotaxis-in-europa-einsetzen/100255409.html",
+   "published": "2026-09-17T13:18:03+00:00",
+   "first_seen": "2026-09-17T14:04:31.193503+00:00",
+   "paywall": true
+  },
   {
    "label": "SZ",
    "title": "Künstliche Intelligenz: Dank KI kann ich jetzt endlich ...",
@@ -855,51 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/technologie-so-schaut-die-juengste-ki-professorin-deutschlands-auf-den-ki-hype/100188740.html",
    "published": "2026-09-15T10:46:00+00:00",
    "first_seen": "2026-09-15T11:04:27.535337+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax unter Druck – Bank-Aktien mit Verlusten",
-   "summary": "Nach dem schwachen Wochenauftakt gibt der Dax weiter nach. Neben KI-Sorgen und dem hohen Ölpreis setzen steigende Anleiherenditen die Aktienmärkte unter Druck.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-unter-druck-bank-aktien-mit-verlusten/100254567.html",
-   "published": "2026-09-15T10:31:13+00:00",
-   "first_seen": "2026-09-15T11:04:27.535337+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Abenteuer-Content auf Social Media: Der Streamer auf dem Strommast und der Tod der Subkultur",
-   "summary": "Extrem-Abenteurer sind eine besondere Szene. Doch aus ihrer Leidenschaft wird heute Content zur Vermarktung auf Social Media. Zeit, dass der Trend implodiert. mehr...",
-   "link": "https://taz.de/Abenteuer-Content-auf-Social-Media/!6211491/",
-   "published": "2026-09-15T10:19:00+00:00",
-   "first_seen": "2026-09-15T11:04:27.535337+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Experten fordern Gespräch zwischen USA und China über KI",
-   "summary": "Nachdem mehrere US-Techunternehmen stärkere KI-Regulierung fordern, sprechen sich Experten für einen Dialog zwischen den USA und China aus.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-experten-fordern-gespraech-zwischen-usa-und-china-ueber-ki/100254346.html",
-   "published": "2026-09-15T10:06:00+00:00",
-   "first_seen": "2026-09-15T11:04:27.535337+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: Axa-Chef Buberl: „Die Triebkräfte des Wirtschaftswachstums der letzten 40 Jahre sind zusammengebrochen“",
-   "summary": "Axa-Chef Thomas Buberl fordert ein Ende der Steuervorteile für ungesunde Ernährung. Für Axa setzt er auf Vorsorge, Wachstum durch KI und das Geschäft mit kleinen und mittleren Unternehmen.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/axa-chef-keine-steuerermaessigung-mehr-fuer-fastfood-das-waere-ein-anfang-01/100250742.html",
-   "published": "2026-09-15T09:55:00+00:00",
-   "first_seen": "2026-09-15T10:05:27.666516+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Recursive Self Improvement: Wie gefährlich ist sich selbst verbessernde KI wirklich?",
-   "summary": "Führende KI-Unternehmer warnen vor Künstlichen Intelligenzen, die sich selbst weiterentwickeln. Wie Experten das Risiko einschätzen.",
-   "link": "https://www.wiwo.de/technologie/recursive-self-improvement-wie-gefaehrlich-ist-sich-selbst-verbessernde-ki/100254356.html",
-   "published": "2026-09-15T09:55:00+00:00",
-   "first_seen": "2026-09-15T10:05:27.666516+00:00",
    "paywall": true
   }
  ]
