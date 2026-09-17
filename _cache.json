@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T17:03:37.104390+00:00",
+ "updated": "2026-09-17T18:05:08.141610+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,159 @@
    "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-diese-sieben-fehler-sollten-vermoegende-im-testament-vermeiden-01/100228330.html",
    "published": "2026-09-19T08:30:00+00:00",
    "first_seen": "2026-09-17T09:04:29.747153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Trinkwassermangel: Leere Gläser ohne Gletscher",
+   "summary": "Die Weltorganisation für Meteorologie warnt vor massivem Süßwassermangel. Ein Bericht zeigt, dass die Gletschermassen das vierte Jahr in Folge schrumpfen. mehr...",
+   "link": "https://taz.de/Trinkwassermangel/!6213912/",
+   "published": "2026-09-17T18:00:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Autobahn GmbH: Bilger verspricht Paradigmenwechsel bei der Finanzierung",
+   "summary": "Es ist ein dringender Wunsch des Kanzlers: Die Autobahn GmbH soll künftig eigene Kredite aufnehmen dürfen. Einen entsprechenden Gesetzentwurf hat Bundesverkehrsminister Steffen Bilger nach SPIEGEL-Informationen jetzt auf den Weg gebracht.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/autobahn-gmbh-bilger-verspricht-paradigmenwechsel-bei-der-finanzierung-a-d14fde9c-cf06-4f64-9667-f05a552e4e7f#ref=rss",
+   "published": "2026-09-17T17:59:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Windsurfen für Geflüchtete auf Rügen: Weitersurfen, wenn der Wind sich dreht",
+   "summary": "Der Verein „tow“ bietet kostenlose Surfkurse für Geflüchtete in Mecklenburg-Vorpommern an. Warum man hier keine Angst vor der AfD hat. mehr...",
+   "link": "https://taz.de/Windsurfen-fuer-Gefluechtete-auf-Ruegen/!6212107/",
+   "published": "2026-09-17T17:57:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Bundestrainer Klopp stolz auf Vielfalt: Ein überzeugender Botschafter",
+   "summary": "Jürgen Klopp macht sich in Abgrenzung zur AfD für einen Patriotismus der Vielfalt stark. Ein starkes Zeichen anlässlich der ersten Nominierung. mehr...",
+   "link": "https://taz.de/Bundestrainer-Klopp-stolz-auf-Vielfalt/!6214056/",
+   "published": "2026-09-17T17:56:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Rechtsextreme Vertreibungspläne: Sachsen-Anhalt als „Remigrationsmusterland“?",
+   "summary": "Nach der Wahl in Sachsen-Anhalt legt der Rechtsextreme Martin Sellner der AfD einen Abschiebeplan vor. Auch die Partei hat schon konkrete Ideen. mehr...",
+   "link": "https://taz.de/Rechtsextreme-Vertreibungsplaene/!6214111/",
+   "published": "2026-09-17T17:49:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Nordkoreas Arbeiter in Russland: Mit Studentenvisum in der Drohnenfabrik schuften",
+   "summary": "Pjöngjang verdient bis zu 800 Millionen Dollar im Jahr mit Arbeitern, die es nach China und Russland verfrachtet. Ein Bericht schildert schaurige Zustände.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/nordkorea-schickt-zwangsarbeiter-in-russlands-drohnenfabriken-201235527.html",
+   "published": "2026-09-17T17:46:21+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Kanadas Premier im Europaparlament: Endlich ein begeisterter EU-Fan",
+   "summary": "Mark Carney beschwört in Straßburg eine tiefe Partnerschaft Kanadas mit der EU. Das trifft sowohl in Europa als auch den USA einen Nerv. mehr...",
+   "link": "https://taz.de/Kanadas-Premier-im-Europaparlament/!6208264/",
+   "published": "2026-09-17T17:46:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Beziehungen zwischen Kanada und der EU: Kanada möchte „engere Bande“ mit Europa",
+   "summary": "Von der Leyen hat ein Assoziierungsabkommen mit Kanada vorgeschlagen. Dessen Premier Mark Carney begrüßt den Vorstoß. Trump ist erzürnt. mehr...",
+   "link": "https://taz.de/Beziehungen-zwischen-Kanada-und-der-EU/!6213957/",
+   "published": "2026-09-17T17:44:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Federal Reserve: Geldpolitik mit Crack",
+   "summary": "Statt Donald Trumps Ruf nach niedrigeren Zinsen zu folgen, bekämpft der Fed-Chef die Inflation. Damit zeigt er unerwartet Rückgrat.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kevin-warsh-trotzt-donald-trump-bei-der-inflationsbekaempfung-201236493.html",
+   "published": "2026-09-17T17:43:16+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Opposition in Schweden: Pingpong um Mandate sorgt für Nervenkitzel",
+   "summary": "Vier Tage nach der Wahl in Schweden steht der knappe Wahlsieg der Opposition um die Sozialdemokraten fest. Die Regierungsbildung wird schwierig. mehr...",
+   "link": "https://taz.de/Opposition-in-Schweden/!6213916/",
+   "published": "2026-09-17T17:42:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Putin-Kritiker: Michail Chodorkowski im Interview: „Fast die gesamte russische Elite ist gegen den Krieg“",
+   "summary": "Der ehemalige russische Oligarch erklärt, was die russische Parlamentswahl verrät, wie er Putins mentalen Zustand einschätzt und was für ihn der „grundlegende Denkfehler“ des Westens ist.",
+   "link": "https://www.handelsblatt.com/politik/international/putin-kritiker-chodorkowski-fast-die-gesamte-russische-elite-ist-gegen-den-krieg/100253599.html",
+   "published": "2026-09-17T17:41:50+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Russland: Fernsehkoch Pawel Sjutkin muss sechs Jahre in Haft",
+   "summary": "Sein Hitler-Vergleich hat Russlands Präsident Putin nicht gefallen. Jetzt muss Fernsehkoch Pawel Sjutkin ins Gefängnis. Er nennt es eine „kreative Dienstreise“. mehr...",
+   "link": "https://taz.de/Russland/!6213945/",
+   "published": "2026-09-17T17:41:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Menschheit ohne Wasser: Wir verdursten und vertrocknen",
+   "summary": "Das Ozonloch schloss sich, weil es ein FCKW-Verbot gab. Jetzt wird das Wasser knapp, aber die Menschheit lernt offenbar nicht dazu. mehr...",
+   "link": "https://taz.de/Menschheit-ohne-Wasser/!6213933/",
+   "published": "2026-09-17T17:39:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "UN-Blauhelme vor dunkler Zukunft?",
+   "summary": "In einer Grundsatzrede bei der UNO hat Boris Pistorius für UN-Blauhelm-Einsätze geworben. Fehlendes Geld und die Spannungen zwischen den Staaten stellen so manches in Frage.",
+   "link": "https://www.zdfheute.de/politik/ausland/pistorius-un-blauhelm-einsatz-100.html",
+   "published": "2026-09-17T17:38:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Marie Kreutzer über „Gentle Monster“: „Das ist noch hundert Jahre nicht auserzählt“",
+   "summary": "Eine Ehefrau, deren Mann wegen Pädophilie verhaftet wird, und eine Polizistin mit übergriffigem Vater: Marie Kreutzer über Macht und Wegsehen in ihrem Film „Gentle Monster“. mehr...",
+   "link": "https://taz.de/Marie-Kreutzer-ueber-Gentle-Monster/!6213256/",
+   "published": "2026-09-17T17:36:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Durchfahrt der Meerenge Bab al-Mandab – Italien beschließt Alleingang",
+   "summary": "USA und Huthi sollen geheime Gespräche im Oman geführt haben +++ Diesel erreicht Rekordpreis in Deutschland +++ Trump-Regierung plant Waffenlieferung an Israel +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-durchfahrt-der-meerenge-bab-al-mandab-italien-beschliesst-alleingang/100136895.html",
+   "published": "2026-09-17T17:36:00+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Niemand verletzt: 37-Jähriger soll Feuer an Wuppertaler Synagoge gelegt haben",
+   "summary": "An der Bergischen Synagoge Wuppertal im Stadtteil Barmen ist ein Feuer gelegt worden. Es konnte schnell gelöscht werden. Verletzt wurde niemand. Der Tatverdächtige wurde wenig später festgenommen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/niemand-verletzt-37-jaehriger-soll-feuer-an-wuppertaler-synagoge-gelegt-haben/100255460.html",
+   "published": "2026-09-17T16:51:09+00:00",
+   "first_seen": "2026-09-17T18:05:08.141610+00:00",
    "paywall": true
   },
   {
@@ -13346,159 +13499,6 @@
    "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-der-tag/ua-pressekonferenz-mit-mi-a-5224397.html",
    "published": "2026-09-14T15:00:00+00:00",
    "first_seen": "2026-09-15T07:06:46.125579+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Finanzmärkte: Am Anleihemarkt braut sich der perfekte Sturm zusammen",
-   "summary": "Die Renditen am globalen Anleihemarkt erreichen Niveaus wie zuletzt zur Finanzkrise. Dahinter stehen mehrere Faktoren, die sich gegenseitig noch verstärken. Eine brisante Lage.",
-   "link": "https://www.wiwo.de/finanzen/boerse/us-staatsanleihen-fuenf-prozent-rendite-duerften-noch-nicht-das-ende-der-rekorde-sein/100253823.html",
-   "published": "2026-09-14T14:59:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Rangliste zu Ernährung und Umweltschutz: Tofu beste Proteinquelle in neuem Ranking",
-   "summary": "Ein Eiweiß-Index vergleicht 20 Lebensmittel etwa nach Klimabelastung, Gesundheitsaspekten und Preis. Pflanzliche Produkte schneiden am besten ab. mehr...",
-   "link": "https://taz.de/Rangliste-zu-Ernaehrung-und-Umweltschutz/!6213083/",
-   "published": "2026-09-14T14:54:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Gift in Hipp-Gläschen: U-Haft für Verdächtigen verlängert",
-   "summary": "Rattengift in Babynahrung: Mehrere Gläschen tauchten in Österreich, der Slowakei und in Ungarn auf. Warum der Verdächtige bis auf weiteres nicht freikommt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/gift-in-hipp-glaeschen-u-haft-fuer-verdaechtigen-verlaengert-201226407.html",
-   "published": "2026-09-14T14:53:46+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rohstoffe: Angriff auf Pipeline in Saudi-Arabien erhöht Wahrscheinlichkeit für starken Anstieg des Ölpreises",
-   "summary": "Nach der Beschädigung einer saudischen Pipeline steigen die Preise. Experten nennen noch weitere Gründe dafür, dass nun ein Niveau von 120 US-Dollar pro Barrel in Reichweite rückt.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelpreis-angriff-auf-pipeline-erhoeht-wahrscheinlichkeit-fuer-starken-anstieg/100254291.html",
-   "published": "2026-09-14T14:53:28+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chemieunternehmen: BASF: Diese vier Banken sollen die Agrarsparte 2027 an die Börse bringen",
-   "summary": "BASF will sein Agrargeschäft 2027 an die Frankfurter Börse bringen. Die Sparte könnte zwischen 20 und 30 Milliarden Euro wert sein. Im Konsortium ist auch die Deutsche Bank vertreten.",
-   "link": "https://www.handelsblatt.com/unternehmen/energie/basf-diese-vier-banken-sollen-die-agrarsparte-2027-an-die-boerse-bringen/100254438.html",
-   "published": "2026-09-14T14:51:06+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "AfD-Erfolge in Niedersachsen: Salzgitter wird braun",
-   "summary": "Die AfD hat bei der Kommunalwahl in Niedersachsen stark zugelegt. Die Wahl zeigt aber auch noch was anderes: die Grenzen ihres Aufstiegs. mehr...",
-   "link": "https://taz.de/AfD-Erfolge-in-Niedersachsen/!6212968/",
-   "published": "2026-09-14T14:49:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sicherheitskontrolle: 100-Milliliter-Regel am Münchner Flughafen fällt ganz weg",
-   "summary": "Die Begrenzung ist bald an allen Sicherheitskontrollen Geschichte, weil flächendeckend moderne CT-Geräte das Handgepäck scannen. Welche Vorteile das bringt und wo die Technik noch im Einsatz ist.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/sicherheitskontrolle-100-milliliter-regel-am-muenchner-flughafen-faellt-ganz-weg/100254461.html",
-   "published": "2026-09-14T14:47:37+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Nordirland, Schottland und Wales: Ach wie schön wäre die Unabhängigkeit",
-   "summary": "Die Parteichefs der Unabhängigkeitsparteien von Wales, Schottland und Nordirland sagen London den Kampf an. Premier Andy Burnham reagiert verhalten. mehr...",
-   "link": "https://taz.de/Nordirland-Schottland-und-Wales/!6213034/",
-   "published": "2026-09-14T14:47:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Orcel trifft Klingbeil: Bund sieht Commerzbank und Unicredit in neuer Phase des Übernahmekampfs",
-   "summary": "Im Übernahmekampf um die Commerzbank spricht die Bundesregierung von konkreten Verhandlungen. Finanzminister Lars Klingbeil trifft dazu Unicredit-Chef Andrea Orcel.",
-   "link": "https://www.wiwo.de/unternehmen/banken/commerzbank-bund-sieht-neue-phase-im-uebernahmekampf-mit-der-unicredit/100254454.html",
-   "published": "2026-09-14T14:45:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gefährliche Technologie?: Trump: Die einzig nötige Leitplanke für KI bin ich selbst",
-   "summary": "Führende Köpfe der Branche warnen vor den Gefahren von Künstlicher Intelligenz. US-Präsident Trump sieht keinen Grund zur Sorge - und begründet das mit seiner eigenen Cleverness.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gefaehrliche-technologie-trump-die-einzig-noetige-leitplanke-fuer-ki-bin-ich-selbst/100254458.html",
-   "published": "2026-09-14T14:42:46+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Ölpreisanstieg: Benzin für mehr als drei Euro",
-   "summary": "Der Benzinpreis erreicht einen Rekord. An manchen Tankstellen werden für einzelne Spritsorten schon mehr als drei Euro je Liter verlangt. Was bedeutet das für Deutschlands Wirtschaft?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/benzin-fuer-mehr-als-drei-euro-was-bedeutet-der-oelpreisanstieg-fuer-die-deutsche-wirtschaft-201224757.html",
-   "published": "2026-09-14T14:39:57+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Wirtschaft von oben: Hier versucht Saudi-Arabien gerade im Eiltempo, den Spritpreis zu retten",
-   "summary": "Arbeiter verlegen neben der zerstörten Pumpstation 11 der saudischen Ost-West-Pipeline eine provisorische Röhre. Die Zeit drängt, sonst kann das Land bald nicht mehr exportieren.",
-   "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oelpreis-hier-versucht-saudi-arabien-gerade-im-eiltempo-den-spritpreis-zu-retten/100254446.html",
-   "published": "2026-09-14T14:39:56+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Pressekonferenz der CSU nach Vorstandssitzung",
-   "summary": "Pressekonferenz mit CSU-Parteichef Markus Söder nach Sitzung des Parteivorstands",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5232751",
-   "published": "2026-09-14T14:28:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Benzin- und Dieselpreise: Söder verlangt Maßnahmen, um hohe Spritpreise erträglicher zu machen",
-   "summary": "CSU-Chef Markus Söder fordert von der Bundesregierung dringend neue Ideen angesichts der steigenden Benzin- und Dieselpreise. Eine Übergewinnsteuer schließt er nicht aus.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/benzin-diesel-preise-markus-soeder-csu-energie-steuern-uebergewinnsteuer-gxe",
-   "published": "2026-09-14T14:24:24+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "18 Uhr: Leverkusen - Bayern München",
-   "summary": "So läuft der Spieltag in der Fußball-Bundesliga der Frauen: Spielplan, Konferenz-Liveticker, Ergebnisse, Tabelle.",
-   "link": "https://www.zdfheute.de/sport/frauen-bundesliga-fussball-tabelle-spiele-statistiken-ergebnisse-liveticker-100.html",
-   "published": "2026-09-14T14:24:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Kanzler will Demokratie und Freiheit weiter sichern",
-   "summary": "Auf dem EU-Arktis-Gipfel äußert sich der Bundeskanzler nur indirekt zur eigenen politischen Lage. Seine Worte klingen fast wie ein Vermächtnis.",
-   "link": "https://www.zdfheute.de/politik/deutschland/merz-arktis-demokratie-nato-100.html",
-   "published": "2026-09-14T14:22:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Air Baltic: Angeschlagene lettische Fluggesellschaft beantragt Gläubigerschutz",
-   "summary": "Air Baltic fliegt in Deutschland die fünf größten Flughäfen an, finanziell lief es bei dem lettischen Unternnehmen schon seit Längerem nicht gut. Nun versucht die größte Fluglinie im Baltikum, das Ruder herumzureißen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/air-baltic-angeschlagene-lettische-fluggesellschaft-beantragt-glaeubigerschutz-a-94c88360-cb95-4858-ab7f-8e42bbcbee8b#ref=rss",
-   "published": "2026-09-14T14:18:00+00:00",
-   "first_seen": "2026-09-14T15:08:18.763566+00:00",
    "paywall": false
   }
  ]
