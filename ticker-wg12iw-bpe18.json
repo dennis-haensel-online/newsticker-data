@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-17T14:04:31.193503+00:00",
+ "updated": "2026-09-17T15:04:33.634945+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "US-Notenbank Fed erhöht Leitzins: Donald Trump ist selbst schuld an hohen Zinsen",
+   "summary": "Die US-Notenbank Fed hat erstmals seit 2023 die Zinsen angehoben. Sie will so die Inflation bekämpfen, die wegen des Irankrieges hoch ist. mehr...",
+   "link": "https://taz.de/US-Notenbank-Fed-erhoeht-Leitzins/!6213909/",
+   "published": "2026-09-17T14:44:00+00:00",
+   "first_seen": "2026-09-17T15:04:33.634945+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "RTL und Sky wollen 500 Stellen abbauen",
@@ -73,6 +82,15 @@
    "published": "2026-09-17T11:53:34+00:00",
    "first_seen": "2026-09-17T12:05:22.815045+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Essen gehen trotz Mehrwertsteuer-Senkung nicht günstiger",
+   "summary": "Seit Jahresbeginn gilt im Gastgewerbe eine niedrigere Mehrwertsteuer. Im Schnitt sei nur etwa ein Prozent der Gerichte günstiger geworden, zeigt eine Studie im Auftrag der Gewerkschaft Nahrung-Genuss-Gaststätten. Von Markus Reher.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gastgewerbe-unter-druck-100.html",
+   "published": "2026-09-17T11:29:25+00:00",
+   "first_seen": "2026-09-17T15:04:33.634945+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -882,24 +900,6 @@
    "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/elon-musk-apple-klage-openai-sam-altman-chatgpt",
    "published": "2026-09-15T03:11:30+00:00",
    "first_seen": "2026-09-15T04:04:33.108187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "App Store: Elon Musk lässt Wettbewerbsklage gegen Apple fallen",
-   "summary": "Der Techunternehmer warf dem iPhone-Konzern unfairen Wettbewerb gegenüber anderen Chatbots wie seiner Software Grok vor. Jetzt hat Elon Musk die Klage zurückgenommen.",
-   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/elon-musk-apple-klage-openai-sam-altman-chatgpt-gxe",
-   "published": "2026-09-15T03:11:30+00:00",
-   "first_seen": "2026-09-15T07:06:46.125579+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Nvidias Einkaufstour ist eine Bedrohung für die Welt",
-   "summary": "Der weltweit wertvollste Konzern kauft sich keine Konkurrenten – er kauft sich deren Loyalität. Was wie eine Öffnung des Marktes aussieht, ist in Wahrheit die geschickteste Form von Marktmacht.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-nvidias-einkaufstour-ist-eine-bedrohung-fuer-die-welt/100253681.html",
-   "published": "2026-09-15T02:04:03+00:00",
-   "first_seen": "2026-09-15T03:04:41.578389+00:00",
    "paywall": true
   }
  ]
