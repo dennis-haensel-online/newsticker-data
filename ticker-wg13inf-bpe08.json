@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T04:04:35.573110+00:00",
+ "updated": "2026-09-17T05:04:20.465625+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
+   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255177.html",
+   "published": "2026-09-17T04:52:00+00:00",
+   "first_seen": "2026-09-17T05:04:20.465625+00:00",
+   "paywall": true
+  },
   {
    "label": "ZEIT",
    "title": "Rechenzentren in den USA: Der Kampf ums »digitale Tor zur Hölle«",
@@ -892,15 +901,6 @@
    "published": "2026-09-15T05:16:00+00:00",
    "first_seen": "2026-09-15T06:05:48.839787+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Staatssekretär: Europa droht bei KI zum Zuschauer zu werden",
-   "summary": "Digital-Staatssekretär Jarzombek warnt: Europa konzentriert sich zu stark auf Regulierung und verliert bei KI-Entwicklung den Anschluss an USA und China.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-staatssekretaer-europa-droht-bei-ki-zum-zuschauer-zu-werden/100254576.html",
-   "published": "2026-09-15T05:02:00+00:00",
-   "first_seen": "2026-09-15T06:05:48.839787+00:00",
-   "paywall": true
   }
  ]
 }
