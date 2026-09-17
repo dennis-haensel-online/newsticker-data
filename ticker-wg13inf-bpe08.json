@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T06:05:19.407839+00:00",
+ "updated": "2026-09-17T07:05:56.060960+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
+   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
+   "link": "https://www.handelsblatt.com/technik/ki/openai-chatgpt-entwickler-macht-weitere-ki-probleme-oeffentlich/100255175.html",
+   "published": "2026-09-17T06:53:00+00:00",
+   "first_seen": "2026-09-17T07:05:56.060960+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Autonomes Fahren: US-Behörde nimmt sich Teslas Robotaxi vor",
+   "summary": "Nach US-Regeln brauchen autonome Robotaxis eine Ausnahmeerlaubnis, wenn sie ohne Lenkrad und Pedale unterwegs sind. Elon Musks Tesla ignorierte das.",
+   "link": "https://www.wiwo.de/unternehmen/auto/autonomes-fahren-us-behoerde-nimmt-sich-teslas-robotaxi-vor/100255210.html",
+   "published": "2026-09-17T05:59:00+00:00",
+   "first_seen": "2026-09-17T07:05:56.060960+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
@@ -28,6 +46,15 @@
    "published": "2026-09-17T03:22:21+00:00",
    "first_seen": "2026-09-17T04:04:35.573110+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
+   "summary": "Künstliche Intelligenz entwickelt sich rasend schnell - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt gab der Entwickler weitere Probleme bekannt.",
+   "link": "https://www.tagesschau.de/ausland/amerika/openai-kuenstliche-intelligenz-100.html",
+   "published": "2026-09-17T03:14:12+00:00",
+   "first_seen": "2026-09-17T07:05:56.060960+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -874,33 +901,6 @@
    "published": "2026-09-15T06:27:48+00:00",
    "first_seen": "2026-09-15T07:06:46.125579+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Anwendungen: „Ein Druckmittel, wie es noch kein Handelspartner gegenüber Europa in den Händen hatte“",
-   "summary": "EZB-Präsidentin Christine Lagarde fordert den zügigen Ausbau zu einer echten Kapitalmarktunion. Sonst drohe Europa von Künstlicher Intelligenz aus anderen Ländern abhängig zu werden.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/lagarde-europa-sucht-kapital-um-bei-ki-souveraen-zu-bleiben-accg-201227532.html",
-   "published": "2026-09-15T06:09:46+00:00",
-   "first_seen": "2026-09-15T07:06:46.125579+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/karriere-in-welchen-branchen-und-jobs-sie-mit-ki-kompetenz-besonders-punkten/100251207.html",
-   "published": "2026-09-15T05:39:00+00:00",
-   "first_seen": "2026-09-15T06:05:48.839787+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Die Wahrheit: So schnell kann es gehen",
-   "summary": "Bereits Freitag in einer Woche wird uns die KI flächendeckend rausgeKIckt haben. Aus allem und jedem. mehr...",
-   "link": "https://taz.de/Die-Wahrheit/!6212973/",
-   "published": "2026-09-15T05:16:00+00:00",
-   "first_seen": "2026-09-15T06:05:48.839787+00:00",
-   "paywall": false
   }
  ]
 }

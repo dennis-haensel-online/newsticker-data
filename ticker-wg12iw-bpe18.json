@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-17T06:05:19.407839+00:00",
+ "updated": "2026-09-17T07:05:56.060960+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Spritpreise: Diesel in Deutschland ist so teuer wie nie zuvor",
+   "summary": "Mit 2,453 Euro pro Liter hat der Preis für Diesel den bisherigen Höchstwert vom April überschritten. Der Benzinpreis hatte schon am Mittwoch einen Höchstpreis erreicht.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/diesel-in-deutschland-teuer-wie-nie-zuvor",
+   "published": "2026-09-17T06:59:28+00:00",
+   "first_seen": "2026-09-17T07:05:56.060960+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Immobilien: Hohe Bauzinsen dämpfen Nachfrage",
@@ -153,6 +162,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/booking-com-dominiert-hotelportale-trotz-direktbuchungen-201232250.html",
    "published": "2026-09-16T15:49:38+00:00",
    "first_seen": "2026-09-16T16:05:00.052768+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Fed-Zinsentscheidung: Kevin Warsh macht einen Fehler, wenn er die Leitzinsen erhöht",
+   "summary": "Steigende Zinsen werden die Inflationsursachen nicht bekämpfen. Fed-Chef Warsh sollte sich gegen die Markterwartungen stellen – auch wenn sein Ruf auf dem Spiel steht. Ein Gastbeitrag.",
+   "link": "https://www.wiwo.de/politik/ausland/fed-zinsentscheidung-warum-hoehere-leitzinsen-die-us-inflation-nicht-senken/100254949.html",
+   "published": "2026-09-16T15:36:00+00:00",
+   "first_seen": "2026-09-17T07:05:56.060960+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-09-14T07:13:00+00:00",
    "first_seen": "2026-09-14T08:04:31.318848+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Stephan Sturm: Hugo-Boss-Aufsichtsratschef legt Mandat nieder",
-   "summary": "Die deutsche Modemarke steht vor der Übernahme. Darum kommt es nun auch bei den Aufsehern zu Veränderungen. Stephan Sturm verlässt den Aufsichtsrat.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/stephan-sturm-hugo-boss-aufsichtsratschef-legt-mandat-nieder/100254281.html",
-   "published": "2026-09-14T06:38:23+00:00",
-   "first_seen": "2026-09-14T07:05:44.690783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
-   "summary": "Die Aktienmärkte bleiben an den steigenden Ölpreis gekettet: Die Eskalation in Saudi-Arabien schürt die Sorgen vor einem Anziehen der Inflation. Mit Spannung blicken die Investoren auf den Zinsentscheid der US-Notenbank.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-   "published": "2026-09-14T05:47:11+00:00",
-   "first_seen": "2026-09-14T06:05:40.439142+00:00",
-   "paywall": false
   }
  ]
 }
