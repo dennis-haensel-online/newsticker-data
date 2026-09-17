@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T07:05:56.060960+00:00",
+ "updated": "2026-09-17T08:04:51.723802+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Heimliches Milliarden-Start-up: Langdock verlegt Hauptsitz von den USA nach Deutschland",
+   "summary": "Während andere Firmen abwandern, wandelt Langdock seine US-Mutterfirma in eine europäische SE um – auch, weil US-Recht zum Risiko wird. Experten sehen ein neues deutsches Einhorn.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-langdock-verlegt-hauptsitz-von-den-usa-nach-deutschland-01/100254184.html",
+   "published": "2026-09-17T07:55:00+00:00",
+   "first_seen": "2026-09-17T08:04:51.723802+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
+   "summary": "Künstliche Intelligenz entwickelt sich rasant - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt informierte der Entwickler über sechs neue Zwischenfälle.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/openai-kuenstliche-intelligenz-100.html",
+   "published": "2026-09-17T07:05:33+00:00",
+   "first_seen": "2026-09-17T08:04:51.723802+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-rechner-welchen-einfluss-hat-ki-auf-ihre-arbeitsstunden/100233077.html",
    "published": "2026-09-15T07:10:00+00:00",
    "first_seen": "2026-09-15T08:05:09.309457+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Trump: \"Kranke Verschwörung\" gegen KI",
-   "summary": "US-Präsident Trump schlägt alle Warnungen vor den Risiken von Künstlicher Intelligenz in den Wind. Das sei \"Schwindel\". Es gebe eine \"kranke Verschwörung\" gegen KI.",
-   "link": "https://www.zdfheute.de/politik/ausland/trump-ki-risiken-schwindel-100.html",
-   "published": "2026-09-15T06:37:00+00:00",
-   "first_seen": "2026-09-15T07:06:46.125579+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Gates-Stiftung will mit Milliarde Dollar KI-Zugang fördern",
-   "summary": "Während darüber gestritten wird, wie gefährlich KI für die Menschheit ist, will die Stiftung von Microsoft-Mitgründer Bill Gates den Zugang dazu demokratisieren. Auch will er staatliche Regulierung.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-gates-stiftung-will-mit-milliarde-dollar-ki-zugang-foerdern/100254576.html",
-   "published": "2026-09-15T06:27:48+00:00",
-   "first_seen": "2026-09-15T07:06:46.125579+00:00",
    "paywall": true
   }
  ]
