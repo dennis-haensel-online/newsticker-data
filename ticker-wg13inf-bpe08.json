@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T09:04:29.747153+00:00",
+ "updated": "2026-09-17T10:04:12.265883+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-diese-studiengaenge-sind-im-ki-wandel-besonders-gefragt/100235558.html",
+   "published": "2026-09-17T09:19:00+00:00",
+   "first_seen": "2026-09-17T10:04:12.265883+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI veröffentlicht neue Fälle von KI-Fehlverhalten",
+   "summary": "OpenAI macht sechs Fälle öffentlich, in denen KI-Systeme eigenmächtig gehandelt haben oder Kontrollen umgehen wollten. Künftig sollen solche Vorfälle systematisch erfasst werden.",
+   "link": "https://www.zdfheute.de/panorama/openai-ki-auffaelliges-verhalten-100.html",
+   "published": "2026-09-17T09:02:00+00:00",
+   "first_seen": "2026-09-17T10:04:12.265883+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Wie KI zur Patientensicherheit beitragen kann",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/management/ki-die-lineare-fuehrungskarriere-ist-ein-auslaufmodell/100243656.html",
    "published": "2026-09-15T08:47:00+00:00",
    "first_seen": "2026-09-15T09:06:22.272898+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Einzelhandel: KI-Analyse prognostiziert überraschende Gewinner im Weihnachtsgeschäft",
-   "summary": "Zum Jahresende hoffen stationäre Händler und Onlineshops auf steigende Umsätze. Exklusive Daten zeigen, wie sich das Geschäft entwickeln könnte.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/einzelhandel-ki-analyse-zeigt-ueberraschende-gewinner-im-weihnachtsgeschaeft/100253587.html",
-   "published": "2026-09-15T08:00:46+00:00",
-   "first_seen": "2026-09-15T08:05:09.309457+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax startet mit leichten Verlusten – Chemie-Aktien im Minus",
-   "summary": "Nach dem schwachen Wochenauftakt gibt der Dax weiter nach. Neben KI-Sorgen und dem hohen Ölpreis setzen steigende Anleiherenditen die Aktienmärkte unter Druck.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-mit-verlusten-chemie-aktien-im-minus/100254567.html",
-   "published": "2026-09-15T07:38:01+00:00",
-   "first_seen": "2026-09-15T08:05:09.309457+00:00",
    "paywall": true
   }
  ]
