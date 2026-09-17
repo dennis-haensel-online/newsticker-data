@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T19:03:44.651491+00:00",
+ "updated": "2026-09-17T20:04:26.484661+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,78 @@
    "published": "2026-09-19T08:30:00+00:00",
    "first_seen": "2026-09-17T09:04:29.747153+00:00",
    "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Russland: Wladimir Putin stellt Nestlé unter Zwangsverwaltung",
+   "summary": "Nach dem Überfall auf die Ukraine verließen viele internationale Konzerne Russland. Nestlé blieb und verliert nun den Zugriff auf sein Geschäft in dem Land – angeblich temporär. Betroffen ist auch eine französische Supermarktkette.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/russland-wladimir-putin-stellt-nestle-unter-zwangsverwaltung-a-351467f8-e8c8-49bf-a22f-27caa82a7923#ref=rss",
+   "published": "2026-09-17T19:44:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vereinte Nationen: UN: Gleichstellung der Geschlechter 171 Jahre entfernt",
+   "summary": "Männer führen in sechs von sieben Ländern – und die Chancen auf Gleichstellung sinken. Was steckt hinter dem massiven Rückschritt laut UN-Bericht?",
+   "link": "https://www.handelsblatt.com/politik/international/vereinte-nationen-un-gleichstellung-der-geschlechter-171-jahre-entfernt/100255470.html",
+   "published": "2026-09-17T19:34:37+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie Russlands schnelle Drohnen Kiews Flugabwehr fordern",
+   "summary": "Russland setzt zunehmend jetgetriebene Drohnen ein - sie verkürzen die Reaktionszeit der ukrainischen Flugabwehr und binden Kampfflugzeuge und Raketen, die anderswo fehlen.",
+   "link": "https://www.zdfheute.de/politik/ausland/flugabwehr-jetdrohnen-angriffe-russland-ukraine-krieg-100.html",
+   "published": "2026-09-17T19:31:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Migrationspolitik: Trump zieht überraschend Toppersonalie zu ICE-Behörde zurück",
+   "summary": "Es ist ein Rückschlag für Trump. Er wollte einen neuen Leiter für die umstrittene Migrationsbehörde ICE, die für ihre Razzien berüchtigt ist. Doch dazu wird es wohl nicht kommen.",
+   "link": "https://www.handelsblatt.com/politik/international/us-migrationspolitik-trump-zieht-ueberraschend-toppersonalie-zu-ice-behoerde-zurueck/100255468.html",
+   "published": "2026-09-17T19:24:04+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Tennis: Letzte Chance für DTB-Generation?",
+   "summary": "Mit Alexander Zverev will sich das DTB-Team gegen Kroatien für die Davis-Cup-Finals qualifizieren. 2026 könnte die letzte Chance dieser Generation sein.",
+   "link": "https://www.zdfheute.de/sport/tennis-davis-cup-deutschland-kroatien-zverev-halle-100.html",
+   "published": "2026-09-17T19:20:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "VVN-BdA und Gemeinnützigkeit: Wer hat was gegen Antifaschismus?",
+   "summary": "Die Attacken des Berliner Finanzamts auf die VVN-BdA löst viel Solidarität aus. Ungeklärt ist, ob CDU-Kandidat und Finanzsenator Stefan Evers etwas damit zu tun hat. mehr...",
+   "link": "https://taz.de/VVN-BdA-und-Gemeinnuetzigkeit/!6213533/",
+   "published": "2026-09-17T19:07:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Feuer an Wuppertaler Synagoge gelegt",
+   "summary": "Ein 37-Jähriger soll einen Brand vor der Synagoge in Wuppertal gelegt haben - drei Tage vor dem jüdischen Feiertag Jom Kippur. Der Zentralrat der Juden sieht darin ein Muster.",
+   "link": "https://www.zdfheute.de/panorama/kriminalitaet/synagoge-wuppertal-brand-feuer-gelegt-100.html",
+   "published": "2026-09-17T19:07:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Berliner CDU-Wahlkampfabschluss: Geschichtsunterricht bei Papa Merz",
+   "summary": "Während über sein Kanzleramt diskutiert wird, besuchte Merz den Berliner Wahlkampfabschluss. Und verglich sich indirekt mit Adenauer. mehr...",
+   "link": "https://taz.de/Berliner-CDU-Wahlkampfabschluss/!6214197/",
+   "published": "2026-09-17T19:04:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -569,6 +641,24 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "Erneut Explosionen in Frankfurt am Main",
+   "summary": "In Frankfurt hat es in der Nacht erneut Explosionen gegeben. Es wurden keine Menschen verletzt, jedoch kam es zu erheblichen Sachschäden. Die Polizei konnte eine verdächtige Person festnehmen.",
+   "link": "https://www.zdfheute.de/video/hallo-deutschland/frankfurt-nacht-explosionen-100.html",
+   "published": "2026-09-17T15:38:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Giovanni Zarrella macht kleine Stars groß",
+   "summary": "In der neusten Ausgabe der Giovanni Zarrella-Show hat der Schlagerstar ganz besondere Gäste zu Besuch: Gemeinsam mit großen Popstars stellen Kinder ihre Talente auf der großen Bühne unter Beweis.",
+   "link": "https://www.zdfheute.de/video/hallo-deutschland/zarrella-show-kleine-stars-100.html",
+   "published": "2026-09-17T15:37:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Tanken: Steuern senken oder Preise deckeln? Bundesregierung verhakt sich bei Spritpreis-Entlastung",
    "summary": "Die Koalition will noch vor den Wahlen am Wochenende eine Entlastung beschließen. Drei verschiedene Vorschläge liegen auf dem Tisch. Aus Brüssel droht Ärger.",
@@ -647,6 +737,15 @@
    "link": "https://www.zdfheute.de/video/hallo-deutschland/diana-charles-spencer-koenig-reaktion-buch-100.html",
    "published": "2026-09-17T15:10:00+00:00",
    "first_seen": "2026-09-17T19:03:44.651491+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Taxifahrer überwältigt bewaffneten Angreifer",
+   "summary": "In Hannover konnte ein Taxifahrer erfolgreich einen Angreifer entwaffnen und sich so aus einem Überfall retten. Es ist nicht die erste heldenhafte Situation des Fahrers.",
+   "link": "https://www.zdfheute.de/video/hallo-deutschland/taxifahrer-ueberwaeltigt-angreifer-100.html",
+   "published": "2026-09-17T15:10:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
    "paywall": false
   },
   {
@@ -845,6 +944,15 @@
    "link": "https://www.zdfheute.de/video/hallo-deutschland/tom-cruise-geruechte-100.html",
    "published": "2026-09-17T14:30:00+00:00",
    "first_seen": "2026-09-17T16:04:31.819604+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Brad Pitt schwärmt bei Premiere über Hunde",
+   "summary": "Gemeinsam mit Partnerin Ines de Ramon präsentierte Brad Pitt den neuen Survival-Thriller \"Eiserne Wildnis\". Auf dem roten Teppich kam der Schauspieler über das Leben mit Hund ins Schwärmen.",
+   "link": "https://www.zdfheute.de/video/hallo-deutschland/brad-pitt-eiserne-wildnis-hund-100.html",
+   "published": "2026-09-17T14:30:00+00:00",
+   "first_seen": "2026-09-17T20:04:26.484661+00:00",
    "paywall": false
   },
   {
@@ -13390,114 +13498,6 @@
    "summary": "Aman Anosh will junge migrantische Menschen in Mecklenburg-Vorpommern stärken – und trotz erstarkender Rechtsextremisten im Bundesland halten. mehr...",
    "link": "https://taz.de/Antirassimus-in-Mecklenburg-Vorpommern/!6211202/",
    "published": "2026-09-14T15:38:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Berlin Art Week 2026: Alles so schön glatt hier",
-   "summary": "Die Berlin Art Week feiert 15-jähriges Jubiläum und tischt groß auf. Was bleibt von mehr als 120 teilnehmenden Institutionen, Festivals, Galerien, Messen und Off-Spaces? mehr...",
-   "link": "https://taz.de/Berlin-Art-Week-2026/!6212884/",
-   "published": "2026-09-14T15:34:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "„Wirtschaftsfaktor Rüstung“: Wettbewerb statt Hochglanzprospekt: Neue Wege bei der Rüstungsbeschaffung",
-   "summary": "Das Verteidigungsministerium wehrt sich auf der Handelsblatt-Tagung gegen Kritik, nur „Altmetall“ zu bestellen – und fragt, warum die Tarnkappentechnik nicht in Deutschland entwickelt wurde.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-wirtschaftsfaktor-ruestung-neue-wege-bei-der-beschaffung/100253974.html",
-   "published": "2026-09-14T15:33:01+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arzneimittel: Französischer Pharmariese Sanofi steigt bei deutscher Cheplapharm ein",
-   "summary": "Sanofi und Cheplapharm arbeiten bereits seit 2014 zusammen. Nun beteiligen sich die Franzosen an dem deutschen Konzern. Zum ersten Mal stellt Cheplapharm künftig auch Medikamente selbst her.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/sanofi-franzoesischer-pharmariese-steigt-bei-deutscher-cheplapharm-ein/100254468.html",
-   "published": "2026-09-14T15:30:18+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Benzin und Diesel: Söder fordert Bundesregierung auf, Spritpreise zu senken",
-   "summary": "Der Tankstellenverband erwartet Spritpreise von drei Euro. Die SPD verlangt nun eine Übergewinnsteuer. CSU-Chef Markus Söder schlägt ein Vorgehen wie in Österreich vor. Und die Grünen setzen auf das Deutschlandticket.",
-   "link": "https://www.spiegel.de/wirtschaft/benzin-und-diesel-soeder-fordert-bundesregierung-auf-spritpreise-zu-senken-a-7599486d-e3ec-4455-89f4-49d70a42ef75#ref=rss",
-   "published": "2026-09-14T15:28:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wieder zu Gast bei Freunden",
-   "summary": "Nach sieben Jahren ist erstmals wieder ein deutscher Außenminister nach Ungarn gereist: Johann Wadephul kam mit Hoffnung im Gepäck.",
-   "link": "https://www.zdfheute.de/politik/ausland/wadephul-aussenminister-besuch-ungarn-100.html",
-   "published": "2026-09-14T15:27:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Iran-Krieg: Treffen der Golfstaaten abgesagt – Huthi-Offensive verschärft Krise um die Straße von Hormus",
-   "summary": "Ein für Montag angesetztes Treffen der Außenminister der Golfstaaten wurde abgesagt. Berichten zufolge sollte dort eine Vereinbarung im Streit um die Straße von Hormus vorgestellt werden.",
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-huthi-offensive-verschaerft-die-krise-um-die-strasse-von-hormus/100254280.html",
-   "published": "2026-09-14T15:26:12+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Bildungsmonitor 2026: Mehr Aufsteiger, mehr Absteiger",
-   "summary": "Der aktuelle Bildungsmonitor der Initiative Neue Soziale Marktwirtschaft zeigt: Das Bildungsniveau sinkt, die Schere zwischen höher Gebildeten und Bildungsfernen wächst. Fast jeder fünfte junge Erwachsene hat keinen Abschluss. Von Andre…",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bildungsmonitor-neue-soziale-markwirtschaft-100.html",
-   "published": "2026-09-14T15:21:34+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bevölkerungsschutz: Keine neuen Bunker: Was Dobrindt stattdessen plant",
-   "summary": "Bunker zum Bevölkerungsschutz sind aus Sicht des Bundesinnenministers überholt. Scharfe Kritik muss er sich von einem wichtigen Kommunalvertreter anhören - aber aus anderen Gründen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bevoelkerungsschutz-keine-neuen-bunker-was-dobrindt-stattdessen-plant/100254421.html",
-   "published": "2026-09-14T15:19:11+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Landesmedienanstalt Sachsen-Anhalt: Ein charmanter Hang zum Rechtspopulismus",
-   "summary": "Sachsen-Anhalts Landesmedienanstalt lädt rechte Kritiker zum Gespräch ein. Preise gingen aber an alternative Medien, denen die AfD an den Kragen will. mehr...",
-   "link": "https://taz.de/Landesmedienanstalt-Sachsen-Anhalt/!6213105/",
-   "published": "2026-09-14T15:18:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Han Kang im Hamburger Thalia Theater: Metamorphosen und unruhige Träume",
-   "summary": "Regisseurin Lilja Rupprecht inszeniert „Die Vegetarierin“ von Literaturpreisträgerin Han Kang. Die besondere Welt des Buches nachzuempfinden, gelingt ihr nur selten. mehr...",
-   "link": "https://taz.de/Han-Kang-im-Hamburger-Thalia-Theater/!6212984/",
-   "published": "2026-09-14T15:17:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "PDF: Handelsblatt vom 15. September",
-   "summary": "",
-   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-15.-september/100254467.html",
-   "published": "2026-09-14T15:16:21+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Präsidentschaftswahl in Frankreich: Le Pen startet durch, aber einer schmollt",
-   "summary": "In Frankreich startet die Rechtspopulistin Marine Le Pen den Wahlkampf. Die Stimmung in ihrer Partei ist ungetrübt – zumindest fast. mehr...",
-   "link": "https://taz.de/Praesidentschaftswahl-in-Frankreich/!6213031/",
-   "published": "2026-09-14T15:15:00+00:00",
    "first_seen": "2026-09-14T16:03:58.601238+00:00",
    "paywall": false
   }
