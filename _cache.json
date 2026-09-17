@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T20:04:26.484661+00:00",
+ "updated": "2026-09-17T21:04:07.033734+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,60 @@
    "published": "2026-09-19T08:30:00+00:00",
    "first_seen": "2026-09-17T09:04:29.747153+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "US-Vorgehen \"eine Warnung für künftige Generationen\"",
+   "summary": "Die Folgen des US-Angriffs auf Iran werden dramatischer, warnt ein Forscher. Die Schließung einer weiteren Meerenge habe ernsthafte Folgen: \"Das ist ökonomisch eine Katastrophe.\"",
+   "link": "https://www.zdfheute.de/politik/ausland/iran-krieg-usa-donald-trump-meerenge-krise-wirtschaft-inflation-folgen-hormus-100.html",
+   "published": "2026-09-17T20:47:00+00:00",
+   "first_seen": "2026-09-17T21:04:07.033734+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "ZDF-Politbarometer: Umfrage sieht SPD in Mecklenburg-Vorpommern vor der AfD",
+   "summary": "Nur noch wenige Tage bis zur Landtagswahl in Mecklenburg-Vorpommern: Eine neue Umfrage liegt vor – mit teils überraschenden Ergebnissen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/zdf-politbarometer-umfrage-sieht-spd-in-mecklenburg-vorpommern-vor-der-afd/100255474.html",
+   "published": "2026-09-17T20:43:51+00:00",
+   "first_seen": "2026-09-17T21:04:07.033734+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wahl in Berlin: Linke liegt knapp vor CDU",
+   "summary": "Kurz vor der Abgeordnetenhauswahl in Berlin liefern sich CDU und Linke einen Zweikampf um den Wahlsieg. Laut aktuellem ZDF-Politbarometer Extra führt die Linke knapp vor der CDU.",
+   "link": "https://www.zdfheute.de/politik/deutschland/politbarometer-extra-berlin-abgeordnetenhaus-wahl-100.html",
+   "published": "2026-09-17T20:42:00+00:00",
+   "first_seen": "2026-09-17T21:04:07.033734+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wahl in Mecklenburg-Vorpommern: SPD im Aufwind",
+   "summary": "Wenn schon heute Landtagswahl in Mecklenburg-Vorpommern wäre, gäbe es zwischen SPD und AfD ein Kopf-an-Kopf-Rennen. Das zeigt das aktuelle ZDF-Politbarometer Extra.",
+   "link": "https://www.zdfheute.de/politik/deutschland/politbarometer-extra-mecklenburg-vorpommern-wahl-100.html",
+   "published": "2026-09-17T20:01:00+00:00",
+   "first_seen": "2026-09-17T21:04:07.033734+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Jarmen: \"Schön hier. Und schwierig.\"",
+   "summary": "Vor der Landtagswahl in Mecklenburg-Vorpommern: In Jarmen wählten 2025 54 Prozent AfD. Musiker Monchi sieht den politischen Graben heute vor allem zwischen Stadt und Land.",
+   "link": "https://www.zdfheute.de/video/heute-journal/landtagswahl-mecklenburgvorpommern-monchi-100.html",
+   "published": "2026-09-17T19:45:00+00:00",
+   "first_seen": "2026-09-17T21:04:07.033734+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Es ist in Deutschland ja nicht alles schlecht\"",
+   "summary": "Wie ist die Stimmung an der Ostsee vor der Wahl? DEHOGA-Präsident Guido Zöllick über Tourismus, Weltoffenheit und demokratische Kräfte.",
+   "link": "https://www.zdfheute.de/video/heute-journal/meckpom-dehoga-stimmung-100.html",
+   "published": "2026-09-17T19:45:00+00:00",
+   "first_seen": "2026-09-17T21:04:07.033734+00:00",
+   "paywall": false
   },
   {
    "label": "SPIEGEL",
@@ -368,6 +422,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sinotruk-und-co-chinesische-lkw-marken-auf-dem-sprung-nach-europa-201237044.html",
    "published": "2026-09-17T16:19:29+00:00",
    "first_seen": "2026-09-17T17:03:37.104390+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Märkte schließen am Tag nach Zinsentscheid höher",
+   "summary": "Ein Grund für die bessere Stimmung dürften die sinkenden Ölpreise sein. Nach dem Zinsentscheid der Fed können sich Anleger wieder anderen Themen zuwenden.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-schliessen-am-tag-nach-zinsentscheid-hoeher/100255319.html",
+   "published": "2026-09-17T16:14:54+00:00",
+   "first_seen": "2026-09-17T21:04:07.033734+00:00",
    "paywall": true
   },
   {
@@ -13437,69 +13500,6 @@
    "published": "2026-09-14T15:51:01+00:00",
    "first_seen": "2026-09-14T18:04:53.939232+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Israelische Besatzungspolitik: Die fünf Säulen der Übernahme des Westjordanlands",
-   "summary": "Die Organisation B’tselem beschuldigt Israel, Pa­läs­ti­nen­se­r:in­nen das Leben in dem besetzten Gebiet unmöglich zu machen. Das sei ein „politisches Projekt“. mehr...",
-   "link": "https://taz.de/Israelische-Besatzungspolitik/!6213030/",
-   "published": "2026-09-14T15:51:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Kolumbien verschärft Waffenrecht: Der bewaffnete „Gute“ und die Sorge vor mehr Selbstjustiz",
-   "summary": "Der ultrarechte Präsident Kolumbiens de la Espriella lockert das Waffenrecht. Die Rechte im Parlament feiert, die Opposition kündigt Klagen an. mehr...",
-   "link": "https://taz.de/Kolumbien-verschaerft-Waffenrecht/!6212841/",
-   "published": "2026-09-14T15:50:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Repressionen im Iran: Auf der Welle des Krieges reiten",
-   "summary": "Im Konflikt zwischen Iran und den USA gibt es weiter keine Lösung – das iranische Regime geht derweil repressiver gegen Re­gime­kri­ti­ke­r:in­nen vor. mehr...",
-   "link": "https://taz.de/Repressionen-im-Iran/!6213102/",
-   "published": "2026-09-14T15:46:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Verteidigung: Freiwilligkeit reicht nicht: Pistorius ordnet Personalmaßnahmen für Brigade Litauen an",
-   "summary": "Der Verteidigungsminister setzte beim „Leuchtturmprojekt“ der Zeitenwende auf Freiwilligkeit. Nun räumt Boris Pistorius ein, dass das nicht reichen wird.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-pistorius-kommt-bei-brigade-litauen-um-versetzungen-nicht-herum/100254445.html",
-   "published": "2026-09-14T15:44:43+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Tankstellenverband erwartet Spritpreise um die drei Euro",
-   "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten steigen die Preise für Kraftstoffe, Heizöl und Gas deutlich. Auch die Politik ist wieder in die Debatte über mögliche Entlastungen eingestiegen.",
-   "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
-   "published": "2026-09-14T15:42:47+00:00",
-   "first_seen": "2026-09-17T14:04:31.193503+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Merz in der Kälte und KI-Agent auf gefährlicher Mission",
-   "summary": "Während Merz zum Arktis-Gipfel reist, wächst zu Hause der Druck auf den Kanzler. Und: Ein Forscher stoppt einen gefährlichen KI-Agenten. Der Tag.",
-   "link": "https://www.zdfheute.de/briefing/merz-arktis-kanzler-ki-anthropic-zdfheute-update-100.html",
-   "published": "2026-09-14T15:42:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Antirassimus in Mecklenburg-Vorpommern: „Denkt an die Kommunen“",
-   "summary": "Aman Anosh will junge migrantische Menschen in Mecklenburg-Vorpommern stärken – und trotz erstarkender Rechtsextremisten im Bundesland halten. mehr...",
-   "link": "https://taz.de/Antirassimus-in-Mecklenburg-Vorpommern/!6211202/",
-   "published": "2026-09-14T15:38:00+00:00",
-   "first_seen": "2026-09-14T16:03:58.601238+00:00",
-   "paywall": false
   }
  ]
 }
