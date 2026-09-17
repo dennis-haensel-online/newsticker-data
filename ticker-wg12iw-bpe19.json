@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-17T10:04:12.265883+00:00",
+ "updated": "2026-09-17T11:04:20.153056+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Wie klimafreundlich sind die DAX-Unternehmen?",
+   "summary": "Wie gut setzen deutsche Unternehmen ihre Klimaziele um? Der Klima-Report einer Frankfurter Beratungsfirma versucht den Fortschritt messbar zu machen. Maßstab ist dabei der Beitrag zur Erderwärmung - gemessen in Temperaturen. Von Katharina…",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dax-unternehmen-klima-100.html",
+   "published": "2026-09-17T10:29:54+00:00",
+   "first_seen": "2026-09-17T11:04:20.153056+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Teurer Sprit: Wirtschaftsweise wirbt für \"Direktauszahlung\"",
+   "summary": "Die Spritpreise steigen weiter und die Regierung diskutiert Entlastungen. Was ist sinnvoll und was nicht? Einschätzungen der Wirtschaftsweisen Monika Schnitzer im ZDF-Morgenmagazin.",
+   "link": "https://www.zdfheute.de/politik/deutschland/monika-schnitzer-hohe-spritpreise-entlastungen-wirtschaftsweise-100.html",
+   "published": "2026-09-17T10:20:00+00:00",
+   "first_seen": "2026-09-17T11:04:20.153056+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Teuerung: Inflation im Euroraum leicht niedriger als zunächst angenommen",
+   "summary": "Die Verbraucherpreise in der Eurozone sind im August um 3,2 Prozent gestiegen. Inflationstreiber sind die Energiepreise, die sich um mehr als 14 Prozent erhöhten.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/inflation-eurozone-energie-ezb-leitzins-gxe",
+   "published": "2026-09-17T10:08:24+00:00",
+   "first_seen": "2026-09-17T11:04:20.153056+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Inflation im Euroraum bei 3,2 Prozent",
+   "summary": "Die Inflation im Euroraum klettert im August auf 3,2 Prozent. Energie bleibt der Preistreiber. Welche Folgen das haben könnte.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-inflation-im-euroraum-bei-32-prozent/100255329.html",
+   "published": "2026-09-17T10:01:30+00:00",
+   "first_seen": "2026-09-17T11:04:20.153056+00:00",
+   "paywall": true
+  },
   {
    "label": "ZEIT",
    "title": "Teuerung: Inflation im Euroraum leicht niedriger als zunächst angenommen",
@@ -864,42 +900,6 @@
    "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-ministerium-geht-von-schwaecherer-konjunktur-zur-jahresmitte-aus/100254350.html",
    "published": "2026-09-14T10:49:11+00:00",
    "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: EZB-Direktorin Schnabel nennt Energiepreisanstieg „besorgniserregend“",
-   "summary": "Erdöl und Erdgas werden auf den Weltmärkte immer teurer. Die wachsenden Energiepreise erhöhen den Druck auf die Währungshüter. EZB-Direktorin Schnabel zeigt sich besorgt.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/isabel-schnabel-ezb-direktorin-nennt-energiepreisanstieg-besorgniserregend/100254368.html",
-   "published": "2026-09-14T10:35:11+00:00",
-   "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Probleme am Arbeitsmarkt: Die verlorene Jugend",
-   "summary": "Zu viele Jugendliche verlassen die Schule ohne ausreichende Kompetenzen oder brechen ihre Ausbildung ab. Während Unternehmen händeringend Fachkräfte suchen, verspielt Deutschland das Potential seines Nachwuchses.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/junge-menschen-sind-im-beruf-ueberfordert-was-eltern-und-schulen-versaeumen-201212474.html",
-   "published": "2026-09-14T10:09:54+00:00",
-   "first_seen": "2026-09-14T11:04:27.768243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Probleme am Arbeitsmarkt: Die verlorene Jugend",
-   "summary": "Zu viele Jugendliche verlassen die Schule ohne ausreichende Kompetenzen oder brechen ihre Ausbildung ab. Während Unternehmen händeringend Fachkräfte suchen, verspielt Deutschland das Potential seines Nachwuchses.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/die-verlorene-jugend-im-beruf-was-eltern-und-schulen-versaeumen-201212474.html",
-   "published": "2026-09-14T10:09:54+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Wirtschaftsministerium erwartet Ende der Sonderkonjunktur",
-   "summary": "Durch den Konflikt im Nahen Osten konnten Unternehmen in Deutschland von neuen Aufträgen profitieren. Doch das Wirtschaftsministerium ist pessimistisch, dass diese Entwicklung anhalten wird.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-wirtschaftsministerium-erwartet-ende-der-sonderkonjunktur/100254325.html",
-   "published": "2026-09-14T08:37:34+00:00",
-   "first_seen": "2026-09-14T09:05:36.993510+00:00",
    "paywall": true
   }
  ]
