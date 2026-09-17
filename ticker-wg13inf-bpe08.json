@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T16:04:31.819604+00:00",
+ "updated": "2026-09-17T17:03:37.104390+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "KI-Gefahr: Was Desinformation mit Journalismus macht",
+   "summary": "KI-Fakes täuschen Medienberichte vor und verbreiten erfundene Skandale über Politiker. Können solche Desinformationen Wahlen beeinflussen - und die Demokratie gefährden?",
+   "link": "https://www.zdfheute.de/video/ki-fakes-desinformation-journalismus-demokratie-100.html",
+   "published": "2026-09-17T16:47:00+00:00",
+   "first_seen": "2026-09-17T17:03:37.104390+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Briefing: Trump nennt es Hoax, Sam Altman den Weltuntergang – beide irren",
@@ -890,15 +899,6 @@
    "summary": "Nach dem schwachen Wochenauftakt gibt der Dax weiter nach. Neben KI-Sorgen und dem hohen Ölpreis setzen steigende Anleiherenditen die Aktienmärkte unter Druck.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-erholt-sich-von-verlusten-bank-aktien-fallen/100254567.html",
    "published": "2026-09-15T11:29:24+00:00",
-   "first_seen": "2026-09-15T12:05:33.755447+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: „Schwindel“: Trump erteilt strengerer KI-Regulierung eine Absage",
-   "summary": "Die Chefs führender KI-Unternehmen in den USA fordern eine stärkere staatliche Aufsicht. Nach Einschätzung von Experten ist die Sorge über mögliche Gefahren berechtigt. Doch laut Präsident Trump gibt es bereits ausreichende…",
-   "link": "https://www.handelsblatt.com/video/politik/usa-schwindel-trump-erteilt-strengerer-ki-regulierung-eine-absage/100254695.html",
-   "published": "2026-09-15T11:08:47+00:00",
    "first_seen": "2026-09-15T12:05:33.755447+00:00",
    "paywall": true
   }
