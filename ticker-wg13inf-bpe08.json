@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T03:04:09.044653+00:00",
+ "updated": "2026-09-17T04:04:35.573110+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Rechenzentren in den USA: Der Kampf ums »digitale Tor zur Hölle«",
+   "summary": "Die Angst vor KI ist das wichtigste Wahlkampfthema in den USA. Vor allem für Donald Trump wird das zum Problem.",
+   "link": "https://www.zeit.de/2026/40/rechenzentren-usa-ki-wahlkampf-republikaner-donald-trump-sherrod-brown",
+   "published": "2026-09-17T03:59:54+00:00",
+   "first_seen": "2026-09-17T04:04:35.573110+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autonomes Fahren: US-Behörde nimmt sich Teslas Robotaxi vor",
+   "summary": "Nach US-Regeln brauchen auch autonome Robotaxis eine Ausnahmeerlaubnis, wenn sie ohne Lenkrad und Pedale unterwegs sein sollen. Elon Musks Tesla ignorierte das.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/autonomes-fahren-us-behoerde-nimmt-sich-teslas-robotaxi-vor/100255209.html",
+   "published": "2026-09-17T03:22:21+00:00",
+   "first_seen": "2026-09-17T04:04:35.573110+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Fraunhofer-Institut: Studie: Datenschutz macht Europa wettbewerbsfähiger",
+   "summary": "Datenschutz als Wettbewerbsvorteil: Wie Europa mit Qualität statt Datenmaximierung punkten kann und was Forscher empfehlen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/fraunhofer-institut-studie-datenschutz-macht-europa-wettbewerbsfaehiger/100255204.html",
+   "published": "2026-09-17T03:00:14+00:00",
+   "first_seen": "2026-09-17T04:04:35.573110+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "KI-Tests: OpenAI meldet weitere „besorgniserregende“ Zwischenfälle",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-staatssekretaer-europa-droht-bei-ki-zum-zuschauer-zu-werden/100254576.html",
    "published": "2026-09-15T05:02:00+00:00",
    "first_seen": "2026-09-15T06:05:48.839787+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Versicherungen: Mit KI zu mehr Kunden und niedrigeren Kosten: Axa legt neuen Strategieplan vor",
-   "summary": "Axa will offensiver wachsen. Mit einem neuen Strategieplan will der Versicherer Kunden und Marktanteile gewinnen. Eine zentrale Rolle spielt Künstliche Intelligenz.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherungen-axa-setzt-auf-kundenbindung-und-kuenstliche-intelligenz/100253231.html",
-   "published": "2026-09-15T05:00:10+00:00",
-   "first_seen": "2026-09-15T05:04:16.329382+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Debatte um KI-Risiko: KI, die sich selbst verbessert – bis sie uns alle ruiniert?",
-   "summary": "Führende KI-Unternehmer warnen vor Künstlichen Intelligenzen, die sich selbst weiterentwickeln. Wie Experten das Risiko einschätzen.",
-   "link": "https://www.wiwo.de/technologie/kuenstliche-intelligenz-wie-gefaehrlich-ist-sich-selbst-verbessernde-ki/100254356.html",
-   "published": "2026-09-15T04:03:00+00:00",
-   "first_seen": "2026-09-15T04:04:33.108187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Bill Gates: »Der Staat muss eingreifen«",
-   "summary": "Die Techbranche wird KI nicht selbst regulieren, sagt Bill Gates. Er warnt vor Jobverlusten und Bioterror. Und erklärt, was wir dringend von China lernen sollten.",
-   "link": "https://www.zeit.de/digital/internet/2026-09/bill-gates-kuenstliche-intelligenz-regulierung-jobverlust-china",
-   "published": "2026-09-15T04:01:06+00:00",
-   "first_seen": "2026-09-15T21:04:18.868020+00:00",
    "paywall": true
   }
  ]
