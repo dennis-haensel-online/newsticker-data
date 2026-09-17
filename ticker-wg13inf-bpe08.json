@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T15:04:33.634945+00:00",
+ "updated": "2026-09-17T16:04:31.819604+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Briefing: Trump nennt es Hoax, Sam Altman den Weltuntergang – beide irren",
+   "summary": "Die KI-Debatte pendelt zwischen Panik und Verharmlosung. Ein Blick auf einen realen Fall zeigt, welche Gefahr tatsächlich schon existiert – und wem die Angst vor der Super-KI nützt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-trump-nennt-es-hoax-sam-altman-den-weltuntergang-beide-irren/100254339.html",
+   "published": "2026-09-17T14:58:53+00:00",
+   "first_seen": "2026-09-17T16:04:31.819604+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Staatsvertrag zu KI-Plattformen: Mehr regeln, mehr werben",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/video/politik/usa-schwindel-trump-erteilt-strengerer-ki-regulierung-eine-absage/100254695.html",
    "published": "2026-09-15T11:08:47+00:00",
    "first_seen": "2026-09-15T12:05:33.755447+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Gerissene Termine, teure Nacharbeiten: Wie KI Baumängel verhindern kann",
-   "summary": "Der Münchener Bausoftware-Konzern Nemetschek setzt bei seinen Produkten künftig voll auf KI. Planungsfehler und Materialverschwendung sollen damit vermieden werden. Worauf es ankommt.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-teure-fehler-wie-ki-baumaengel-verhindern-kann/100250157.html",
-   "published": "2026-09-15T10:53:00+00:00",
-   "first_seen": "2026-09-15T11:04:27.535337+00:00",
    "paywall": true
   }
  ]
