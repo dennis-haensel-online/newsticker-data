@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-17T08:04:51.723802+00:00",
+ "updated": "2026-09-17T09:04:29.747153+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Wie KI zur Patientensicherheit beitragen kann",
+   "summary": "Künstliche Intelligenz unterstützt Ärzte zunehmend in ihrem Klinikalltag. Doch kann sie auch die Sicherheit von Patienten verbessern? Chancen und Risiken von KI in der Medizin.",
+   "link": "https://www.zdfheute.de/ratgeber/gesundheit/ki-medizin-krankenhaus-alltag-patientensicherheit-100.html",
+   "published": "2026-09-17T08:20:00+00:00",
+   "first_seen": "2026-09-17T09:04:29.747153+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Weltuntergang oder Hype? So gefährlich könnte KI werden",
+   "summary": "Forscher warnen, Chefs von OpenAI und Anthropic fordern Regulierung, das Silicon Valley fürchtet den „Doomsday“: Experten ordnen die Debatte über die Risiken von Künstlicher Intelligenz ein.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-weltuntergang-oder-hype-so-gefaehrlich-koennte-ki-werden/100254405.html",
+   "published": "2026-09-17T08:08:56+00:00",
+   "first_seen": "2026-09-17T09:04:29.747153+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Heimliches Milliarden-Start-up: Langdock verlegt Hauptsitz von den USA nach Deutschland",
@@ -881,24 +899,6 @@
    "summary": "Nach dem schwachen Wochenauftakt gibt der Dax weiter nach. Neben KI-Sorgen und dem hohen Ölpreis setzen steigende Anleiherenditen die Aktienmärkte unter Druck.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-mit-verlusten-chemie-aktien-im-minus/100254567.html",
    "published": "2026-09-15T07:38:01+00:00",
-   "first_seen": "2026-09-15T08:05:09.309457+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studienfaecher-trotz-ki-wandel-zukunftstraechtig-bleiben/100235558.html",
-   "published": "2026-09-15T07:12:00+00:00",
-   "first_seen": "2026-09-15T08:05:09.309457+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Dieser Rechner zeigt, wie viel Sie künftig arbeiten müssen",
-   "summary": "Sollte KI nicht Arbeitszeit ersparen? Erste Studien zeigen, dass teils das Gegenteil der Fall ist. Woran das liegt – und wie viel mehr oder weniger Sie womöglich bald arbeiten.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-rechner-welchen-einfluss-hat-ki-auf-ihre-arbeitsstunden/100233077.html",
-   "published": "2026-09-15T07:10:00+00:00",
    "first_seen": "2026-09-15T08:05:09.309457+00:00",
    "paywall": true
   }
