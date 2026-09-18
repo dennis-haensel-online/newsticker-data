@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T19:04:30.865588+00:00",
+ "updated": "2026-09-18T20:04:08.148620+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -26,6 +26,96 @@
    "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-check-wo-sich-das-vermieten-von-immobilien-in-deutschland-noch-lohnt/100255296.html",
    "published": "2026-09-19T07:14:00+00:00",
    "first_seen": "2026-09-18T08:04:13.474811+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Benzin-Frust bei Deutschlands Autofahrern",
+   "summary": "Der Preis für Benzin und Diesel eilt von einem Rekord zum nächsten. Viele Autofahrer sind skeptisch, dass das Entlastungspaket der Regierung daran etwas ändert.",
+   "link": "https://www.zdfheute.de/wirtschaft/benzin-diesel-spritpreise-autofahrer-100.html",
+   "published": "2026-09-18T20:00:00+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "VW kappt Gewinnerwartung: Die Volkswagen-Schmelze geht weiter",
+   "summary": "Der VW-Konzern muss seine Gewinnprognose drastisch nach unten korrigieren. Finanzchef Arno Antlitz versucht eilig zu beschwichtigen. Doch seine Erklärungen offenbaren Abgründe.",
+   "link": "https://www.wiwo.de/unternehmen/auto/vw-kappt-gewinnerwartung-volkswagen-kappt-gewinnerwartung/100255743.html",
+   "published": "2026-09-18T19:55:41+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Maß Bier und KI-Kameras: Die Wiesn 2026 beginnt",
+   "summary": "Bis Anfang Oktober feiern Millionen Menschen auf der Münchner Theresienwiese das größte Volksfest der Welt. Wiesn-Preise, Trachten-Trends und Sicherheit - alle Infos im Überblick.",
+   "link": "https://www.zdfheute.de/panorama/oktoberfest-wiesn-muenchen-2026-bier-preis-sicherheit-100.html",
+   "published": "2026-09-18T19:49:00+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Trump verbietet CNN und anderen Medien Zugang zum Weißen Haus",
+   "summary": "Demokraten wollen nach der Wahl gegen Trump-Familie vorgehen +++ US-Post stoppt Arbeit an umstrittenem Computersystem für Briefwahl +++ Trump zieht überraschend Toppersonalie zu ICE-Behörde zurück +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-verbietet-cnn-und-anderen-medien-zugang-zum-weissen-haus/29669594.html",
+   "published": "2026-09-18T19:46:00+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Teures Tanken: Bund und Länder einigen sich auf neuen Tankrabatt",
+   "summary": "Die Bundesregierung vereinbart mit den Ländern ein neues Paket für Entlastungen bei den hohen Spritreisen. Worum es geht.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/teures-tanken-bund-und-laender-einigen-sich-auf-neuen-tankrabatt/100255740.html",
+   "published": "2026-09-18T19:44:08+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Tarnkappenjet: „Danke für die Gänsehaut“",
+   "summary": "Verteidigungsminister Pistorius nimmt in Texas den ersten Kampfjet des Typs F-35 für die Bundeswehr in Empfang. Er beschwört sein Vertrauen in die US-Regierung – und stellt eine baldige Entscheidung über den Kauf weiterer Flugzeuge in…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/verteidigungsminister-pistorius-nimmt-in-texas-kampfjet-des-typs-f-35-in-empfang-201240597.html",
+   "published": "2026-09-18T19:36:32+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump will mehreren Medien Zugang zum Weißen Haus verbieten",
+   "summary": "US-Präsident Trump will mit sofortiger Wirkung CNN, MSNOW und Politico den Zugang zum Weißen Haus verwehren. Als Begründung schrieb er, die Medien würden \"Fake News\" verbreiten.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-medien-weisses-haus-zutritt-100.html",
+   "published": "2026-09-18T19:33:00+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rentenreform: Schonfrist für bestimmte Jahrgänge? Mögliche Ausnahmen für Beschäftigte in Altersteilzeit",
+   "summary": "Die geplante Rentenreform könnte Beschäftigten kurz vor der Rente einem Medienbericht zufolge wichtige Ausnahmen bieten. Das Arbeitsministerium äußert sich zurückhaltend.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-kommt-eine-schonfrist-fuer-beschaeftigte-mit-alterszeit/100255736.html",
+   "published": "2026-09-18T19:24:51+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Tankrabatt ist teuer und wenig zielgenau\"",
+   "summary": "Ob die Steuersenkungen tatsächlich bei den Verbrauchern ankommen, sei ungewiss, sagt Ökonom Hennig Vöpel bei ZDFheute live. Es könne sein, dass Mineralölkonzerne Gewinne für sich verbuchen.",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/spritpreise-voepel-interview-video-100.html",
+   "published": "2026-09-18T19:13:00+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Entlastungen: Tankrabatt und Preisdeckel - Was bringen die Maßnahmen?",
+   "summary": "Kanzler Merz hat eine schnelle Entlastung versprochen, jetzt soll sie tatsächlich kommen. Was die Maßnahmen bringen - und wer sich durchgesetzt hat.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/entlastungen-tankrabatt-und-preisdeckel-was-bringen-die-massnahmen/100255747.html",
+   "published": "2026-09-18T19:12:58+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
    "paywall": true
   },
   {
@@ -13410,96 +13500,6 @@
    "published": "2026-09-15T14:55:00+00:00",
    "first_seen": "2026-09-15T16:04:11.031570+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Merz: Deutschland interessiert an starkem, gedeihenden Irak",
-   "summary": "Bundeskanzler Friedrich Merz empfängt den irakischen Ministerpräsidenten Ali al-Saidi mit militärischen Ehren im Bundeskanzleramt in Berlin.",
-   "link": "https://www.phoenix.de/merz-trifft-ali-al-saidi-a-5232853.html",
-   "published": "2026-09-15T14:55:00+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Sambia nach der Wahl: Wer die Regierung kritisiert, gefährdet die Stabilität",
-   "summary": "In Sambia werden einen Monat nach den Wahlen Oppositionelle verfolgt. Eine Menschenrechtlerin spricht von einem „Muster der Einschüchterung“. mehr...",
-   "link": "https://taz.de/Sambia-nach-der-Wahl/!6213412/",
-   "published": "2026-09-15T14:47:00+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Treibhausgasemissionen: USA heben Klima-Regeln für Kraftwerke auf",
-   "summary": "Bisher gibt es in den USA Emissionsvorschriften für Unternehmen, die Strom produzieren. Das ändert die Trump-Regierung jetzt. mehr...",
-   "link": "https://taz.de/Treibhausgasemissionen/!6213228/",
-   "published": "2026-09-15T14:45:00+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Welcher Krieg macht den Diesel so teuer?",
-   "summary": "Trump macht die ukrainischen Angriffe auf Russland für die hohen Dieselpreise in den USA verantwortlich. Doch die Daten sprechen für einen anderen Hauptgrund: den Krieg mit Iran.",
-   "link": "https://www.zdfheute.de/politik/ausland/faktencheck-trump-diesel-preis-ukraine-iran-100.html",
-   "published": "2026-09-15T14:44:00+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Berlin bekommt für Hauptstadt-Ausgaben mehr Geld vom Bund",
-   "summary": "Demonstrationen, Polizeischutz, ein besonderes Kulturangebot: Als Hauptstadt hat Berlin Sonderkosten. Dafür wurde jetzt ein neuer Zuschuss vom Bund ausgehandelt.",
-   "link": "https://www.spiegel.de/wirtschaft/berlin-bekommt-fuer-hauptstadt-ausgaben-mehr-geld-vom-bund-a-d8636be0-11ee-4f83-ad12-ace3254c5309#ref=rss",
-   "published": "2026-09-15T14:43:00+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Bauunternehmen: Wie Goldbeck Platz drei in der Baubranche zurückerobern will",
-   "summary": "Ein Wirtschaftskrimi belastet Goldbeck, zugleich stockt das Wachstum. Serielles Bauen und der US-Markt sollen das Familienunternehmen wieder nach vorn bringen.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/goldbeck-us-expansion-und-ein-betrugsfall-fordern-den-marktfuehrer-heraus/100254371.html",
-   "published": "2026-09-15T14:42:03+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Arbeit im EU-Ausland: Brüssel will Berufsabschlüsse schneller anerkennen",
-   "summary": "Der Fachkräftemangel ist groß, aber trotzdem arbeiten zu wenige Menschen im EU-Ausland. Die Kommission will das nun nicht nur EU-Bürgern erleichtern.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/eu-berufsabschluesse-anerkennung-soll-schneller-werden-201228826.html",
-   "published": "2026-09-15T14:40:33+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Debatte um Dokumentarfilm „Naza“: Juristen fordern Untersuchung zu möglichen Kriegsverbrechen",
-   "summary": "Als rechtsstaatlichem Land stehe es Israel nicht an, Vorwürfe gegen seine Kriegsführung in Gaza pauschal zurückzuweisen, sagen israelische Rechtsexperten. mehr...",
-   "link": "https://taz.de/Israelische-Juristen-fordern-Untersuchung-wegen-Kriegsverbrechen/!6213475/",
-   "published": "2026-09-15T14:36:00+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Leichtathletik-WM 2031 findet in München statt",
-   "summary": "Nächste Leichtathletik-Party in Deutschland: München richtet 2031 die WM aus. Das gab der Weltverband World Athletics bekannt.",
-   "link": "https://www.zdfheute.de/sport/leichtathletik-wm-vergabe-2029-2031-muenchen-100.html",
-   "published": "2026-09-15T14:31:00+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Von einer Nine-to-five-Bundeswehr lässt sich Putin nicht abschrecken",
-   "summary": "Die Illusion von Verteidigungsminister Boris Pistorius, die Brigade Litauen allein mit Freiwilligen füllen zu können, ist geplatzt. Und bald dürfte er vor dem nächsten Offenbarungseid stehen.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-eine-nine-to-five-bundeswehr-kann-putin-nicht-abschrecken/100254594.html",
-   "published": "2026-09-15T14:27:58+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": true
   }
  ]
 }

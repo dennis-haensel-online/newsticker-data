@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T19:04:30.865588+00:00",
+ "updated": "2026-09-18T20:04:08.148620+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Maß Bier und KI-Kameras: Die Wiesn 2026 beginnt",
+   "summary": "Bis Anfang Oktober feiern Millionen Menschen auf der Münchner Theresienwiese das größte Volksfest der Welt. Wiesn-Preise, Trachten-Trends und Sicherheit - alle Infos im Überblick.",
+   "link": "https://www.zdfheute.de/panorama/oktoberfest-wiesn-muenchen-2026-bier-preis-sicherheit-100.html",
+   "published": "2026-09-18T19:49:00+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump will mehreren Medien Zugang zum Weißen Haus verbieten",
+   "summary": "US-Präsident Trump will mit sofortiger Wirkung CNN, MSNOW und Politico den Zugang zum Weißen Haus verwehren. Als Begründung schrieb er, die Medien würden \"Fake News\" verbreiten.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-medien-weisses-haus-zutritt-100.html",
+   "published": "2026-09-18T19:33:00+00:00",
+   "first_seen": "2026-09-18T20:04:08.148620+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Humanoide an den AutoBändern: Toyota will 400.000 Roboter in seine Fabriken schicken",
@@ -881,24 +899,6 @@
    "summary": "Die Warnungen von Techbossen über die Gefahren von Künstlicher Intelligenz fanden bei US-Präsident Trump wenig Anklang. EU-Kommissionschefin von der Leyen sieht die Dinge anders.",
    "link": "https://www.handelsblatt.com/technik/it-internet/technische-entwicklung-weniger-tempo-bei-ki-von-der-leyen-stellt-sich-gegen-trump/100254979.html",
    "published": "2026-09-16T09:28:21+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
-   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-durch-ki-koennen-aus-zehn-managementebenen-vier-werden/100243656.html",
-   "published": "2026-09-16T09:22:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI räumt „schlimmsten Unfall“ der KI-Geschichte ein",
-   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
-   "link": "https://www.wiwo.de/unternehmen/openai-raeumt-schlimmsten-unfall-der-ki-geschichte-ein/100254875.html",
-   "published": "2026-09-16T09:20:00+00:00",
    "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": true
   }
