@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-18T11:03:59.278781+00:00",
+ "updated": "2026-09-18T12:05:02.356633+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Buffett übergibt Berkshire- Verwaltungsrat – an seinen Sohn",
+   "summary": "Russland-Geschäft von Nestlé unter russischer Verwaltung +++ Japans Leitzins auf 31-Jahres-Hoch angehoben +++ Raiffeisenbank wehrt sich gegen Leerverkäufer Grizzly +++ Playmobil-Chef verlässt Unternehmen +++ Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-buffett-zieht-sich-bei-berkshire-weiter-zurueck-faz-200452404.html",
+   "published": "2026-09-18T11:26:45+00:00",
+   "first_seen": "2026-09-18T12:05:02.356633+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax notiert schwächer – Tech-Aktie legt zu",
+   "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht. Der Dax profitiert von sinkenden Ölpreisen, neue Konjunkturdaten dürften Anleger jedoch beunruhigen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-schwaecher-tech-aktie-legt-zu/100255551.html",
+   "published": "2026-09-18T11:25:09+00:00",
+   "first_seen": "2026-09-18T12:05:02.356633+00:00",
    "paywall": true
   },
   {
@@ -579,6 +597,15 @@
    "paywall": true
   },
   {
+   "label": "FAZ",
+   "title": "am Kapitalmarkt: Der Schwung im Klimaschutz ist raus",
+   "summary": "Börsennotierten Unternehmen aus Deutschland geht in ihren Bemühungen um geringere Emissionen die Luft etwas aus. Das hat mit neuen Prioritäten und der schwierigen Wirtschaftslage zu tun.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/der-schwung-im-klimaschutz-ist-raus-accg-201232849.html",
+   "published": "2026-09-17T05:11:06+00:00",
+   "first_seen": "2026-09-18T12:05:02.356633+00:00",
+   "paywall": true
+  },
+  {
    "label": "SPIEGEL",
    "title": "Immobilien: Hohe Bauzinsen dämpfen Nachfrage",
    "summary": "Eigenheimträume auf Eis: Hohe Bauzinsen und die Inflation bremsen den deutschen Immobilienmarkt deutlich aus. Besonders Häuslebauer und Grundstückskäufer spüren die Trendwende.",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/bank-of-england-britische-inflation-steigt-vor-zinsentscheid-auf-fuenfmonatshoch/100254902.html",
    "published": "2026-09-16T07:21:19+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Ifo-Institut: Stimmung im Wohnungsbau verbessert sich laut ifo-Umfrage deutlich",
-   "summary": "Das Geschäftsklima im Wohnungsbau hellt sich laut ifo Institut deutlich auf. Grund dafür ist die Hoffnung, dass die steigenden Baugenehmigungen zu mehr Aufträgen führen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/wohnungsbau-ifo-institut-geschaeftsklima-auftragslage-klaus-wohlrabe",
-   "published": "2026-09-16T06:59:06+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Ifo-Institut: Stimmung im Wohnungsbau verbessert sich laut ifo-Umfrage deutlich",
-   "summary": "Das Geschäftsklima im Wohnungsbau hellt sich laut ifo Institut deutlich auf. Grund dafür ist die Hoffnung, dass die steigenden Baugenehmigungen zu mehr Aufträgen führen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/wohnungsbau-ifo-institut-geschaeftsklima-auftragslage-klaus-wohlrabe-gxe",
-   "published": "2026-09-16T06:59:06+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegens-rechner-wie-reich-sind-sie-im-vergleich-zu-anderen-deutschen/100149729.html",
-   "published": "2026-09-16T06:12:00+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
    "paywall": true
   }
  ]
