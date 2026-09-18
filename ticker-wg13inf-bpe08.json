@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T10:04:33.370905+00:00",
+ "updated": "2026-09-18T11:03:59.278781+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -162,6 +162,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fuest-und-schnitzer-warnen-europa-ist-auf-die-rasante-ki-entwicklung-nicht-vorbereitet-accg-201218653.html",
    "published": "2026-09-18T04:34:48+00:00",
    "first_seen": "2026-09-18T05:03:45.092798+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Wettbewerbsnachteil: Europa ist auf die rasante KI-Entwicklung nicht vorbereitet",
+   "summary": "Künstliche Intelligenz könnte schon bald einen gesellschaftlichen und ökonomischen Bruch einleiten, der die industrielle Revolution übertrifft. Vier Vorschläge, wie sich Deutschland dafür rüsten sollte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/europa-ist-auf-die-rasante-ki-entwicklung-nicht-vorbereitet-accg-201218653.html",
+   "published": "2026-09-18T04:34:48+00:00",
+   "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/preisvergleich-idealo-will-zum-datenlieferanten-fuer-ki-agenten-werden/100252856.html",
    "published": "2026-09-16T08:08:56+00:00",
    "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Insider: SK Hynix erwägt Chipproduktion bei Intel in den USA",
-   "summary": "Die USA drohen dem südkoreanischen Chiphersteller schon länger mit Strafzöllen. Um das zu verhindern, überlegt SK Hynix Insidern zufolge, in einer Intel-Fabrik in Ohio zu produzieren.",
-   "link": "https://www.handelsblatt.com/technik/ki-chips-sk-hynix-erwaegt-produktion-bei-intel-in-den-usa/100254907.html",
-   "published": "2026-09-16T07:27:57+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": true
   }
  ]
