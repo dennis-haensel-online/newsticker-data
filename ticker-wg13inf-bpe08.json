@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T14:04:05.046810+00:00",
+ "updated": "2026-09-18T15:04:13.112243+00:00",
  "items": [
+  {
+   "label": "SZ",
+   "title": "Technologie: Wo Roboter in die Schule gehen",
+   "summary": "Roboter können dank KI viel mehr als früher. Ihnen fehlt aber ein tiefes Verständnis für die physische Welt. Wie sie das erlernen sollen, zeigt sich bei einem Besuch beim Münchner Hersteller Agile Robots.",
+   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/roboter-ki-physical-ai-agile-robots-e092976/",
+   "published": "2026-09-18T14:14:00+00:00",
+   "first_seen": "2026-09-18T15:04:13.112243+00:00",
+   "paywall": true
+  },
   {
    "label": "SZ",
    "title": "Künstliche Intelligenz: Wie KI-Bremser und Beschleuniger sich bekämpfen",
@@ -890,15 +899,6 @@
    "summary": "Versicherer automatisieren ihre Abläufe immer stärker. KI-Technologie sorgt dabei für mehr Effizienz und erkennt Manipulationen. Doch noch setzt die Regulatorik einige Grenzen.",
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/sachschaeden-neuronale-netze-spueren-versicherungs-betrueger-auf/100247976.html",
    "published": "2026-09-16T08:43:59+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Dieser Rechner zeigt, wie viel Sie künftig arbeiten müssen",
-   "summary": "Sollte KI nicht Arbeitszeit ersparen? Erste Studien zeigen, dass teils das Gegenteil der Fall ist. Woran das liegt – und wie viel mehr oder weniger Sie womöglich bald arbeiten.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-rechner-haben-sie-durch-ki-mehr-oder-weniger-arbeit/100233077.html",
-   "published": "2026-09-16T08:10:00+00:00",
    "first_seen": "2026-09-16T09:04:03.358734+00:00",
    "paywall": true
   }
