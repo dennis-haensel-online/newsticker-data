@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T15:04:13.112243+00:00",
+ "updated": "2026-09-18T16:04:00.687217+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -29,6 +29,195 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "\"ZDF Magazin Royale\" läuft in bisheriger Form aus",
+   "summary": "Nach sechs Jahren im Hauptprogramm des ZDF ist Schluss für das \"ZDF Magazin Royale\" in seiner jetzigen Form. Eine neue Sendung scheint aber möglich.",
+   "link": "https://www.zdfheute.de/in-eigener-sache/boehmermann-zdf-magazin-royale-aus-sendung-100.html",
+   "published": "2026-09-18T15:53:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "VW: Volkswagen kappt Prognose – Aktie fällt",
+   "summary": "Mit einer Prognosesenkung schickt Volkswagen seine Aktien auf Talfahrt.",
+   "link": "https://www.wiwo.de/unternehmen/auto/vw-volkswagen-kappt-prognose-aktie-faellt/100255730.html",
+   "published": "2026-09-18T15:51:11+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Rentenreform: Gesetzesentwurf entschärft Empfehlungen der Rentenkommission",
+   "summary": "Ein Entwurf des Arbeitsministeriums, der der ZEIT vorliegt, konkretisiert die Umsetzung der Vorschläge der Rentenkommission. Es könnte einen Run auf Altersteilzeit geben.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/rentenreform-rentenalter-lebenserwartung-abschlagsfreie-rente-arbeitsministerium",
+   "published": "2026-09-18T15:50:46+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autobauer: Volkswagen kappt Prognose – Aktie fällt",
+   "summary": "Der kriselnde Wolfsburger Konzern erwartet für das laufende Jahr eine deutlich geringere Umsatzrendite. Auch die Eigentümerholding Porsche SE korrigiert ihre Prognose nach unten.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-volkswagen-kappt-prognose-aktie-faellt/100255727.html",
+   "published": "2026-09-18T15:48:21+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Ed Sheeran: Tickets zum Schleuderpreis",
+   "summary": "Nach dem Rauswurf von Macklemore Äußerungen steht Ed Sheerans Tour nun auch wegen schleppender Ticketverkäufe unter Druck. In den USA sind die Konzerthallen allerdings keineswegs ausverkauft.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ed-sheeran-tickets-unter-verkaufspreis-bei-us-tournee-201237277.html",
+   "published": "2026-09-18T15:40:10+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Überkonsum: Brauche ich das wirklich?",
+   "summary": "Wir wollen mehr und danach noch mehr. Ist ein Ausstieg aus der Konsumlogik möglich? Unsere Autorin führt die Suche nach Antworten zu einem Bergbauern in Südtirol. mehr...",
+   "link": "https://taz.de/Ueberkonsum/!6208123/",
+   "published": "2026-09-18T15:40:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Bundesregierung wohl einig über Tankrabatt",
+   "summary": "Die Bundesregierung hat sich wohl auf Maßnahmen geeinigt, um den Anstieg der Spritpreise zu bremsen. Nach ZDF-Informationen beinhaltet das diskutierte Paket einen neuen Tankrabatt.",
+   "link": "https://www.zdfheute.de/politik/deutschland/sprit-preise-entlastungen-benzin-diesel-regierung-100.html",
+   "published": "2026-09-18T15:40:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Benzinpreise: Die Spritpreis-Krise in Grafiken",
+   "summary": "An der Tankstelle muss man schmerzhaft tief in die Tasche greifen, die Bundesregierung einigt sich offenbar auf Möglichkeiten der Entlastung. Die Benzinkrise in Grafiken.",
+   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/benzinpreis-spritpreis-grafiken-diesel-e724133/",
+   "published": "2026-09-18T15:38:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Europas fossile Abhängigkeit abbauen: Wie Ursula von der Leyen die EU elektrifizieren will",
+   "summary": "EU-Kommissionschefin will Energieimporte verringern. Weltweit gibt es mehr Wasserprobleme. Niederlande haben jetzt Fahrplan zum Fossilen-Ausstieg. mehr...",
+   "link": "https://taz.de/Europas-fossile-Abhaengigkeit-abbauen/!6214624/",
+   "published": "2026-09-18T15:37:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Grüne gründen Jugendbeirat: Forever Young",
+   "summary": "Die Grünen wollen wieder einen Draht zu jungen Leuten bekommen. Die Bundestagsfraktion holt sich dafür Berater – von Pfadfindern, Landjugend und BUND. mehr...",
+   "link": "https://taz.de/Gruene-gruenden-Jugendbeirat/!6213970/",
+   "published": "2026-09-18T15:31:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Märkte zum Wochenschluss weitgehend stabil",
+   "summary": "Robuste US-Arbeitsmarktdaten und sinkende Ölpreise haben positive Signale gesendet – Anleger reagieren zum Handelsstart dennoch eher ruhig. Analysten zeigen sich weiter optimistisch.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-zum-wochenschluss-weitgehend-stabil/100255660.html",
+   "published": "2026-09-18T15:28:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: UN-Generalversammlung könnte für Entspannung an Ölmärkten sorgen",
+   "summary": "Kommende Woche findet in New York die Generalversammlung der Vereinten Nationen statt. Auch das Thema Iran-Krieg steht auf der Agenda. Markus Koch erklärt, dass Signale der Entspannung wieder zu fallenden Ölpreisen führen könnten.",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-un-generalversammlung-koennte-fuer-entspannung-an-oelmaerkten-sorgen/100255726.html",
+   "published": "2026-09-18T15:27:50+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Für Matanovic ist in Freiburg \"Großes möglich\"",
+   "summary": "2025 von Eintracht Frankfurt zum SC Freiburg gewechselt, zählt Igor Matanovic dort inzwischen zu den Top-Spielern. Nun trifft er auf seinen Ex-Verein.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-sc-freiburg-igor-matanovic-eintracht-frankfurt-100.html",
+   "published": "2026-09-18T15:27:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Asien: Mindestens 16 Tote bei Selbstmordanschlag in Pakistan",
+   "summary": "In der Stadt Kohat hat ein Selbstmordattentäter am Freitag einen Polizeistützpunkt angegriffen. Nach Behördenangaben raste ein mit Sprengstoff beladenes Fahrzeug in die Einrichtung. Zu der Tat bekannte sich zunächst niemand.",
+   "link": "https://www.handelsblatt.com/video/panorama/asien-mindestens-16-tote-bei-selbstmordanschlag-in-pakistan/100255725.html",
+   "published": "2026-09-18T15:25:18+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Neue Katzenart in Bolivien entdeckt",
+   "summary": "Forschende haben in Bolivien eine neue Katzenart entdeckt. Laut einer aktuellen Studie handelt es sich um die erste neu entdeckte Katzenart seit 100 Jahren.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/neue-katzenart-bolivien-video-100.html",
+   "published": "2026-09-18T15:22:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Kontokündigung linker Organisation: Rote Hilfe erzielt Etappensieg im Streit mit der Sparkasse",
+   "summary": "Das Geldinstitut muss das Konto des Vereins vorerst weiterführen. Die Sparkasse hatte es im vergangenen Dezember gekündigt. mehr...",
+   "link": "https://taz.de/Kontokuendigung-linker-Organisation/!6214454/",
+   "published": "2026-09-18T15:21:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Wirtschaft wächst, Probleme bleiben bestehen | Zweifel an der KI-Apokalypse",
+   "summary": "Die Exportindustrie ist der heimliche Nutznießer des Iran-Kriegs. Deutschlands Strukturprobleme löst das jedoch nicht. Und: Warum KI-Forscher bei der Doomsday-Debatte mit den Augen rollen.",
+   "link": "https://www.handelsblatt.com/audio/today/today-wirtschaft-waechst-probleme-bleiben-bestehen-zweifel-an-der-ki-apokalypse/100255724.html",
+   "published": "2026-09-18T15:20:32+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Italien geleitet Handelsschiff mit Fregatte durch Meerenge ins Rote Meer",
+   "summary": "Pakistan schickt offenbar mehr militärisches Gerät nach Saudi-Arabien +++ Iran mobilisiert Tausende Freiwillige für Militär-Parade +++ Frachtraten von China in die USA steigen +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-italien-geleitet-handelsschiff-mit-fregatte-durch-meerenge-ins-rote-meer/100136895.html",
+   "published": "2026-09-18T15:18:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "DFB macht Weg frei: Frauen-Bundesliga wird ausgegliedert",
+   "summary": "Der Deutsche Fußball-Bund (DFB) hat die Ausgliederung der Frauen-Bundesliga beschlossen. Auf einem digitalen Bundestag wurde der Grundlagenvertrag gebilligt.",
+   "link": "https://www.zdfheute.de/sport/fussball-frauen-ausgliederung-bundesliga-100.html",
+   "published": "2026-09-18T15:17:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahl MV: „Völliges wahlkämpferisches Versagen“: AfD-Vordenker rechnet mit Spitzenkandidat Holm ab",
+   "summary": "Die AfD liegt in Mecklenburg-Vorpommern kurz vor der Landtagswahl knapp hinter der SPD. Im eigenen Lager rumort es deshalb. Ein bekannter Aktivist prescht mit scharfer Kritik vor.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-mv-afd-vordenker-rechnet-mit-spitzenkandidat-holm-ab/100255683.html",
+   "published": "2026-09-18T15:09:17+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Werkstattrisiko umgehen: Bei Kaskoschaden vorher Kostenvoranschlag einreichen",
+   "summary": "Unnötige oder überteuerte Werkstattkosten? Warum ein einfacher Schritt vor der Reparatur entscheidend ist, um bei Kfz-Kaskoschäden nicht auf dem sogenannten Werkstattrisiko und Kosten sitzenzubleiben.",
+   "link": "https://www.handelsblatt.com/mobilitaet/motor/werkstattrisiko-umgehen-bei-kaskoschaden-vorher-kostenvoranschlag-einreichen/100255721.html",
+   "published": "2026-09-18T15:04:46+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
    "label": "Handelsblatt",
    "title": "Güterverkehr: DB Cargo gerät bei EU-Vorgaben unter Zeitdruck",
    "summary": "Die Frachtsparte der Deutschen Bahn kämpft mit Verlusten und hohen Kosten. Das Verkehrsministerium hält die Sanierung trotz Fortschritten für gefährdet.",
@@ -36,6 +225,42 @@
    "published": "2026-09-18T15:02:09+00:00",
    "first_seen": "2026-09-18T15:04:13.112243+00:00",
    "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Bundeskanzler: Warum Merz ausgerechnet auf die einstige Chaos-CDU Berlins hofft",
+   "summary": "Friedrich Merz setzt im Berliner Wahlkampf auf Spitzenkandidat Stefan Evers. Ein Erfolg könnte ihm Zeit verschaffen. Mehr nicht.",
+   "link": "https://www.wiwo.de/politik/deutschland/friedrich-merz-im-berlin-wahlkampf-ist-stefan-evers-der-rettungsanker/100254642.html",
+   "published": "2026-09-18T15:02:04+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nach Sieg bei Parlamentswahl: Sozialdemokratin bekommt in Schweden Auftrag zur Sondierung",
+   "summary": "Die Sozialdemokraten haben bei der Wahl in Schweden die meisten Stimmen bekommen. Deren Chefin Magdalena Andersson darf nun versuchen, eine Regierung zu bilden. Keine einfache Aufgabe.",
+   "link": "https://www.handelsblatt.com/politik/international/nach-sieg-bei-parlamentswahl-sozialdemokratin-bekommt-in-schweden-auftrag-zur-sondierung/100255720.html",
+   "published": "2026-09-18T15:01:22+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Geflüchtete in Ceuta: Vom Strand an den Hafen",
+   "summary": "Seit Wochen harren Hunderte Migranten in provisorischen Unterkünften am Strand von Ceuta aus. Madrid greift durch und verlegt die Menschen in neue Lager. mehr...",
+   "link": "https://taz.de/Gefluechtete-in-Ceuta/!6214317/",
+   "published": "2026-09-18T15:01:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Suche nach niedrigeren Spritpreisen und hohen Umfragewerten",
+   "summary": "Die Regierung sucht Maßnahmen gegen die hohen Spritpreise. Die Parteien in Mecklenburg-Vorpommern und Berlin suchen letzte Wählerstimmen. Und in Russland sucht man die Opposition.",
+   "link": "https://www.zdfheute.de/briefing/spritpreise-wahlen-russland-zdfheute-update-100.html",
+   "published": "2026-09-18T15:00:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -92,6 +317,15 @@
    "paywall": true
   },
   {
+   "label": "WiWo",
+   "title": "Entlastungen: Koalition vor Einigung auf Spritpreisdeckel und Tankrabatt",
+   "summary": "Die Bundesregierung will etwas gegen die hohen Spritpreise unternehmen. Es könnte ein Paket kommen. Wird heute noch eine Einigung verkündet?",
+   "link": "https://www.wiwo.de/politik/deutschland/entlastungen-verhandlungen-ueber-neuen-tankrabatt/100255715.html",
+   "published": "2026-09-18T14:42:44+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
    "label": "taz",
    "title": "Hohe Spritpreise: Automobilclub fordert Senkung der Stromsteuer",
    "summary": "Der ADAC will, dass die Regierung Strom billiger macht. Das würde alle Ver­brau­che­r:in­nen entlasten – und einen Anreiz für E-Autos schaffen. mehr...",
@@ -125,6 +359,15 @@
    "link": "https://www.zdfheute.de/politik/landtagswahl-berlin-mecklenburg-vorpommern-unzufriedenheit-beteiligung-100.html",
    "published": "2026-09-18T14:30:00+00:00",
    "first_seen": "2026-09-18T15:04:13.112243+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wuppertal: Ermittler gehen von antisemitischer Tat aus",
+   "summary": "Nach dem Anschlag auf die Wuppertaler Synagoge prüft die Staatsanwaltschaft ein antisemitisches Motiv. In der Wohnung des Verdächtigen wurden Messer und eine Machete entdeckt.",
+   "link": "https://www.zdfheute.de/panorama/kriminalitaet/brandanschlag-synagoge-wuppertal-antisemitismus-100.html",
+   "published": "2026-09-18T14:27:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
    "paywall": false
   },
   {
@@ -170,6 +413,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/benzinpreise-koalition-vor-einigung-auf-spritpreisdeckel-und-tankrabatt/100255619.html",
    "published": "2026-09-18T14:19:49+00:00",
    "first_seen": "2026-09-18T15:04:13.112243+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hohe Benzinpreise: Koalition vor Einigung im Tankstreit - SPD will Spritpreisdeckel durchsetzen",
+   "summary": "Die Bundesregierung steht kurz vor einer Einigung über Maßnahmenpakt gegen teuren Sprit. Gestritten wird aber weiterhin über eine Preisobergrenze.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/benzinpreise-koalition-vor-einigung-im-tankstreit/100255619.html",
+   "published": "2026-09-18T14:19:49+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
    "paywall": true
   },
   {
@@ -13247,258 +13499,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-lidl-testet-autonom-fahrenden-lastwagen-zur-filial-belieferung/100253503.html",
    "published": "2026-09-15T13:04:00+00:00",
    "first_seen": "2026-09-15T14:04:07.623670+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: US-Militärexpertin Sharon Weinberger: „Ich glaube, ihnen steht eine Abrechnung bevor“",
-   "summary": "Militärexpertin Sharon Weinberger spricht über die neue Macht der Tech-Milliardäre über Amerikas Waffen, den Streit zwischen Pentagon und Anthropic – und Steve Jobs’ geheime Geschäfte mit der CIA.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/verteidigung-heute-ist-das-pentagon-nur-noch-der-kunde/100251638.html",
-   "published": "2026-09-15T13:03:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ransomware: „Der schlimmste Fehler ist ein CEO, der fragt: Wie zahle ich?“",
-   "summary": "Cyber-Attacken legen ganze Produktionen lahm und treffen zunehmend auch den Mittelstand. Zwei Experten erklären, wie Firmen mit Erpressern verhandeln sollten – und sich besser schützen können.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/cyberattacke-ransomware-ist-eine-krise-fuer-das-gesamte-unternehmen/100229829.html",
-   "published": "2026-09-15T13:02:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
-   "summary": "Viele Deutsche träumen davon, ihre Altersvorsorge mit einer vermieteten Immobilie zu sichern. Doch wieviel Rendite ist wirklich drin? Das Handelsblatt hat nachgerechnet.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/geldanlage-wie-viel-rendite-mit-einer-mietwohnung-moeglich-ist/100180922.html",
-   "published": "2026-09-15T13:02:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit",
-   "summary": "Nichts tun und das Geld fließt trotzdem: Damit die Verheißung vom passiven Einkommen wahr werden kann, gilt es, häufige Fehler zu vermeiden – und sich von einer Illusion zu verabschieden.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-gelingt-langfristig-der-weg-zum-passiven-einkommen/100188789.html",
-   "published": "2026-09-15T13:01:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Hochenergie-Lasersysteme: Ein Beifang der Kernfusion",
-   "summary": "Marvel Fusion will mit Lasern Geld verdienen. Die dafür gegründete Tochtergesellschaft Caelora erwartet Einsatzmöglichkeiten von der Medizin bis zur Raumfahrt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/marvel-fusion-lasertechnologie-fuer-medizin-und-raumfahrt-201225258.html",
-   "published": "2026-09-15T13:00:35+00:00",
-   "first_seen": "2026-09-15T14:04:07.623670+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
-   "summary": "Ein Ehevertrag gilt als unromantisch. Doch ohne Vertrag gelten starre Regeln. Für Unternehmer, Immobilienbesitzer und Paare mit Kindern kann das teuer werden.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-fuer-wen-ein-ehevertrag-sinnvoll-ist-und-was-er-regeln-kann/100224359.html",
-   "published": "2026-09-15T13:00:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
-   "summary": "Martin Weber hat über Jahrzehnte das Verhalten von Anlegern erforscht. Im Gespräch erklärt er, worauf es beim Aufbau eines Depots ankommt und welchem Irrglauben Anleger nicht anhängen sollten.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/anlagestrategie-so-schaffen-anlage-neulinge-den-depotaufbau/100124450.html",
-   "published": "2026-09-15T12:59:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Statistisches Bundesamt: In Deutschland leben mehr Kinder",
-   "summary": "Knapp 13 Prozent der Bevölkerung hierzulande sind unter 14 Jahren. Der Anteil sinkt durch den demografischen Wandel tendenziell, im vergangenen Jahr gab es aber einen kleinen Ausschlag nach oben.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/kinder-demografie-statistisches-bundesamt-li.3547965",
-   "published": "2026-09-15T12:58:27+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Statistisches Bundesamt: In Deutschland leben mehr Kinder",
-   "summary": "Knapp 13 Prozent der Bevölkerung hierzulande sind unter 14 Jahren. Der Anteil sinkt durch den demografischen Wandel tendenziell, im vergangenen Jahr gab es aber einen kleinen Ausschlag nach oben.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/kinder-demografie-deutschland-statistisches-bundesamt-li.3547965",
-   "published": "2026-09-15T12:58:27+00:00",
-   "first_seen": "2026-09-15T16:04:11.031570+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Der Immobilienbranche stehen harte Zeiten bevor",
-   "summary": "Die steigenden Anleiherenditen belasten den Immobilienmarkt zunehmend. Wer noch Projekte aus den Niedrigzinsjahren mitschleppt, steht vor großen Problemen.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-immobilienbranche-stehen-harte-zeiten-bevor/100253777.html",
-   "published": "2026-09-15T12:58:02+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
-   "summary": "Welche Einschränkungen die jetzt vorgestellten Reformpläne von Justizministerin Hubig für Eigentümer und Vermieter vorsehen – und wie sehr sie den Markt verändern werden.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/mietrechtsreform-auf-welche-veraenderungen-sich-vermieter-einstellen-muessen/100199045.html",
-   "published": "2026-09-15T12:58:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hohe Spritpreise: Welche Entlastungen diskutiert werden",
-   "summary": "Die Spritpreise liegen auf Rekordniveau. Kanzler Merz kündigt Entlastungen an, nennt aber noch keine Details. Welche Hilfen diskutiert werden und wer davor warnt. Ein Überblick.",
-   "link": "https://www.zdfheute.de/wirtschaft/oelpreis-spritpreis-entlastung-debatte-deckel-100.html",
-   "published": "2026-09-15T12:54:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rauchen: Werden Kippen viel teurer? Tabakbranche warnt vor „Exzess“",
-   "summary": "Damit der Bund Extra-Einnahmen bekommt, sollen Deutschlands Raucher stärker zur Kasse gebeten werden als bisher. Aber bringt das die erwünschten Milliarden? Nicht nur die Tabaklobby hat daran Zweifel.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/rauchen-werden-kippen-viel-teurer-tabakbranche-warnt-vor-exzess/100254546.html",
-   "published": "2026-09-15T12:52:43+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "US‑Bonds: Ausverkauf bei Staatsanleihen treibt Anleger in Europa um",
-   "summary": "Energiepreise und Inflation steigen in den USA. Das sorgt für eine Entwertung der US‑Staatsanleihen – und wirkt sich auf die europäischen Märkte aus.",
-   "link": "https://www.wiwo.de/finanzen/boerse/usbonds-ausverkauf-bei-staatsanleihen-treibt-anleger-in-europa-um/100254590.html",
-   "published": "2026-09-15T12:51:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Auf diese zehn Aktien setzen deutsche Vermögensverwalter – wie Analysten die Titel einschätzen",
-   "summary": "Die Auswertung von 50.000 Depots zeigt, dass Anlageprofis bei ihren Favoriten deutlich von Weltindizes abweichen. Statt auf Tech-Aktien setzen sie unter anderem auf fünf deutsche Konzerne.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-auf-diese-zehn-aktien-setzen-deutsche-vermoegensverwalter/100252791.html",
-   "published": "2026-09-15T12:47:25+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Auf diese zehn Aktien setzen viele Vermögensverwalter – wie Analysten die Titel einschätzen",
-   "summary": "Die Auswertung von 50.000 Depots zeigt, dass Anlageprofis bei ihren Favoriten deutlich von Weltindizes abweichen. Statt auf Tech-Aktien setzen sie unter anderem auf fünf deutsche Konzerne.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-auf-diese-zehn-aktien-setzen-viele-vermoegensverwalter/100252791.html",
-   "published": "2026-09-15T12:47:25+00:00",
-   "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Lebensmitteleinkauf: Was Rabatt-Apps so beliebt macht – und was kritisiert wird",
-   "summary": "Rabatt-Apps versprechen exklusive Sparvorteile. Verbraucherschützer sehen genau darin eine Benachteiligung. Ein großer Teil der Kunden nutzt die Apps, hat daran jedoch oft auch etwas auszusetzen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/lebensmitteleinkauf-was-rabatt-apps-so-beliebt-macht-und-was-kritisiert-wird/100254746.html",
-   "published": "2026-09-15T12:46:29+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Spritpreise: 1,99  Euro pro Liter:  Alles super in Frankreich",
-   "summary": "Der Ölkonzern Total Energies deckelt den Benzin- und Dieselpreis freiwillig. Das hilft nicht nur den Autofahrern.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-spritpreise-totalenergies-li.3547469",
-   "published": "2026-09-15T12:45:14+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Naher Osten: US-Kontrollbehörde stellt Munitionsmangel wegen Iran-Krieg fest",
-   "summary": "Der Bericht einer US-Behörde bestätigt, was die Regierung lange bestritten hat: Der Iran-Krieg hat die Munitionsvorräte der USA ausgedünnt. Auch die finanziellen Auswirkungen werden klarer.",
-   "link": "https://www.handelsblatt.com/politik/international/naher-osten-us-kontrollbehoerde-stellt-munitionsmangel-wegen-iran-krieg-fest/100254713.html",
-   "published": "2026-09-15T12:44:38+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Mögliche Maßnahmen: So könnte die Bundesregierung Autofahrer entlasten",
-   "summary": "Der Kanzler hat angekündigt, geplagte Autofahrer zu unterstützen. Dazu sind unterschiedliche Maßnahmen denkbar.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/spritkosten-wie-die-bundesregierung-autofahrer-entlasten-koennte-201228630.html",
-   "published": "2026-09-15T12:42:36+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Mögliche Maßnahmen: So könnte die Bundesregierung Autofahrer entlasten",
-   "summary": "Der Kanzler hat angekündigt, geplagte Autofahrer zu unterstützen. Dazu sind unterschiedliche Maßnahmen denkbar.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/spritkosten-senken-so-koennte-die-bundesregierung-autofahrer-entlasten-201228630.html",
-   "published": "2026-09-15T12:42:36+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
-   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
-   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-mit-diesen-kompetenzen-punkten-sie-in-der-ruestungsindustrie/100211178.html",
-   "published": "2026-09-15T12:41:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Benzinpreise: Merz kündigt Schritte gegen den Spritpreis-Schock an – Was könnte wirklich helfen?",
-   "summary": "Die Politik diskutiert über Maßnahmen gegen die steigenden Spritpreise. Viele davon taugen laut Ökonomen nichts. Für einige hat die Regierung noch immer nicht die Voraussetzungen geschaffen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/benzinpreise-die-fuenf-mittel-gegen-den-spritpreis-schock-im-realitaetscheck/100254648.html",
-   "published": "2026-09-15T12:39:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Unternehmensnachfolge: „Das hier ist mein Baby“",
-   "summary": "Firmenchef Thomas Drescher suchte lange vergeblich einen Nachfolger für seine Fitnessstudios. Dann traf er auf einen Mann mit einer Idee. Kann sie ihn und andere Mittelständler retten?",
-   "link": "https://www.sueddeutsche.de/wirtschaft/tradineo-finanzierung-nachfolge-mittelstand-li.3526949",
-   "published": "2026-09-15T12:35:38+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: China wartet nicht im KI-Rennen",
-   "summary": "Das Land wird die Entwicklung künstlicher Intelligenz nicht freiwillig verlangsamen. Doch es wäre unklug, wenn die USA auf Gespräche über Sicherheitsregeln verzichten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/usa-china-ki-wettbewerb-entwicklung-sicherheit-li.3547729",
-   "published": "2026-09-15T12:32:23+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: Anleger sind alarmiert: In der Chipindustrie wachsen vor allem die Bedenken",
-   "summary": "Die Weltuntergangsszenarien der KI-Chefs vernichteten zuletzt mehrere Hundert Milliarden Dollar Börsenwert. Investoren zweifeln mehr denn je an den rosigen Prognosen der gesamten Branche.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-in-der-chipindustrie-wachsen-vor-allem-die-bedenken/100254443.html",
-   "published": "2026-09-15T12:30:12+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Nach Haft in Syrien: Kurdischer Journalist Polad an die Türkei ausgeliefert",
-   "summary": "Nach monatelanger Haft in Syrien wurde der kurdische Journalist Ahmet Polad an die Türkei ausgeliefert. Angehörige befürchten, dass er im Gefängnis verschwinden könnte. mehr...",
-   "link": "https://taz.de/Nach-Haft-in-Syrien/!6213352/",
-   "published": "2026-09-15T12:29:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Tanken: Merz kündigt Entlastungen bei Spritpreisen an",
-   "summary": "Es vergeht kaum ein Tag, an dem die Spritpreise nicht steigen. Die Bundesregierung will jetzt gegensteuern und die Verbraucher entlasten. Doch wie?",
-   "link": "https://www.wiwo.de/politik/deutschland/tanken-friedrich-merz-kuendigt-baldige-entlastungen-bei-spritpreisen-an/100254724.html",
-   "published": "2026-09-15T12:25:00+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
    "paywall": true
   }
  ]

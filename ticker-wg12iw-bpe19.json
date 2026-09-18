@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-18T15:04:13.112243+00:00",
+ "updated": "2026-09-18T16:04:00.687217+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Märkte zum Wochenschluss weitgehend stabil",
+   "summary": "Robuste US-Arbeitsmarktdaten und sinkende Ölpreise haben positive Signale gesendet – Anleger reagieren zum Handelsstart dennoch eher ruhig. Analysten zeigen sich weiter optimistisch.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-zum-wochenschluss-weitgehend-stabil/100255660.html",
+   "published": "2026-09-18T15:28:00+00:00",
+   "first_seen": "2026-09-18T16:04:00.687217+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
    "link": "https://www.handelsblatt.com/karriere/ruestung-welche-managerprofile-firmen-wie-rheinmetall-oder-hensoldt-suchen/100211178.html",
    "published": "2026-09-16T09:48:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Oktoberfest: Maß Bier auf der Wiesn kostet fünfmal so viel wie 1985",
-   "summary": "Inflation auf der Wiesn? Die Preise auf dem Oktoberfest steigen seit Jahren an, und zwar deutlich schneller als die Verbraucherpreise im gleichen Zeitraum. Ein Vergleich.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/muenchener-oktoberfest-mass-bier-kostet-fuenfmal-so-viel-wie-1985/100254962.html",
-   "published": "2026-09-16T09:31:19+00:00",
    "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": true
   }
