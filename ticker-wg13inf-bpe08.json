@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T05:03:45.092798+00:00",
+ "updated": "2026-09-18T06:04:58.635024+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Anthropic: KI-Modell Claude hilft bei Entwicklung seines Nachfolgers",
+   "summary": "Eine KI, die sich selbst verbessern kann, gilt als ein risikoreiches Szenario. Anthropic ist diesem nun einen Schritt näher gekommen.",
+   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-modell-claude-hilft-bei-entwicklung-seines-nachfolgers/100255552.html",
+   "published": "2026-09-18T05:43:27+00:00",
+   "first_seen": "2026-09-18T06:04:58.635024+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-echte-karrierechancen-bieten/100235558.html",
+   "published": "2026-09-18T05:36:00+00:00",
+   "first_seen": "2026-09-18T06:04:58.635024+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Disrupt: Horrorszenario 2031: Diese KI-Chefin glaubt, dass Europa erpressbar wird",
@@ -883,24 +901,6 @@
    "published": "2026-09-15T17:56:50+00:00",
    "first_seen": "2026-09-15T19:03:31.868290+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Schule in der Ukraine: Schulstart in Irpin mit KI und Schutzraum",
-   "summary": "An dem technologisch ausgerichteten Lyzeum bei Kyjiw beginnt das vierte Schuljahr im Krieg. Durch die Luftangriffe hat sich das Lernen digital versiert. mehr...",
-   "link": "https://taz.de/Schule-in-der-Ukraine/!6213130/",
-   "published": "2026-09-15T17:47:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "China und künstliche Intelligenz: Keine Macht für niemand",
-   "summary": "China versucht, sich gegen die US-Tech-Szene zu inszenieren. Aber das ist eine Show, der man nicht glauben sollte. mehr...",
-   "link": "https://taz.de/China-und-kuenstliche-Intelligenz/!6213255/",
-   "published": "2026-09-15T17:46:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
   }
  ]
 }
