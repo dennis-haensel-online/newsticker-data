@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T06:04:58.635024+00:00",
+ "updated": "2026-09-18T07:04:40.035652+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Ex-OpenAI-Forscher fordert Stopp: »Wir müssen die KI-Entwicklung im Wesentlichen abschalten«",
+   "summary": "Der frühere OpenAI-Mitarbeiter Daniel Kokotajlo fordert einen sofortigen Entwicklungsstopp der Technologie. Er warnt vor einer Super-KI, die nicht mehr zu kontrollieren ist – und der Gefahr eines dritten Weltkriegs.",
+   "link": "https://www.spiegel.de/wirtschaft/ex-openai-forscher-fordert-stopp-wir-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-a-4890e49b-7fd4-4015-b786-3209140a14f6#ref=rss",
+   "published": "2026-09-18T06:28:00+00:00",
+   "first_seen": "2026-09-18T07:04:40.035652+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cyberangriffe: Nordkorea-Cybergruppe bestiehlt IT-Fachleute auf Jobsuche",
+   "summary": "Sicherheitsbehörden warnen vor einer Cybergruppe aus Nordkorea, die gezielt IT-Spezialisten angreift. Was hinter der Kampagne „Contagious Interview“ steckt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/cyberangriffe-nordkorea-cybergruppe-bestiehlt-it-fachleute-auf-jobsuche/100255558.html",
+   "published": "2026-09-18T06:00:07+00:00",
+   "first_seen": "2026-09-18T07:04:40.035652+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Anthropic: KI-Modell Claude hilft bei Entwicklung seines Nachfolgers",
@@ -883,24 +901,6 @@
    "published": "2026-09-15T19:45:00+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: OpenAI und Konkurrenten wollen private Kontroll-Instanz schaffen",
-   "summary": "Vorbild soll US-amerikanische Aufsichtsorganisation Finra sein +++ DeepL rüstet Sprach-KI auf +++ SpaceX gewinnt ersten Kunden für Rücktransport aus dem All +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-und-konkurrenten-wollen-private-kontroll-instanz-schaffen-faz-200452404.html",
-   "published": "2026-09-15T18:33:34+00:00",
-   "first_seen": "2026-09-15T19:03:31.868290+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wettbewerb mit USA: Warum China die KI nicht bremst",
-   "summary": "Die Entwickler in den USA warnen vor den existenziellen Gefahren durch die Künstliche Intelligenz. China glaubt dagegen, die USA wollen ihre Vormachtstellung sichern. Und schätzt manche KI-Risiken anders ein.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/china-und-ki-warum-peking-auf-die-bremse-verzichtet-201229152.html",
-   "published": "2026-09-15T17:56:50+00:00",
-   "first_seen": "2026-09-15T19:03:31.868290+00:00",
-   "paywall": true
   }
  ]
 }

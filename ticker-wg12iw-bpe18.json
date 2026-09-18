@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-18T06:04:58.635024+00:00",
+ "updated": "2026-09-18T07:04:40.035652+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -45,6 +45,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/bank-of-japan-japans-notenbank-erhoeht-leitzins-auf-hoechsten-stand-seit-31-jahren/100255529.html",
    "published": "2026-09-18T03:36:57+00:00",
    "first_seen": "2026-09-18T04:04:03.979464+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bank of Japan: Japans Notenbank erhöht Leitzins auf höchsten Stand seit 31 Jahren",
+   "summary": "Die Währungshüter wollen das Risiko eindämmen, dass die Teuerungsrate das Inflationsziel der Notenbank übersteigt. Die BOJ reagiert mit der Straffung zudem auf das internationale Umfeld.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/bank-of-japan-japans-notenbank-erhoeht-leitzins-auf-hoechsten-stand-seit-31-jahren/100255529.html",
+   "published": "2026-09-18T03:36:57+00:00",
+   "first_seen": "2026-09-18T07:04:40.035652+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nachhaltigkeitsdaten-als-steuerungsinstrument-accg-201218419.html",
    "published": "2026-09-15T08:23:24+00:00",
    "first_seen": "2026-09-15T09:06:22.272898+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-hoch-ist-ihr-vermoegen-im-deutschland-vergleich/100149729.html",
-   "published": "2026-09-15T07:14:00+00:00",
-   "first_seen": "2026-09-15T08:05:09.309457+00:00",
    "paywall": true
   }
  ]
