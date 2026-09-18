@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-18T20:04:08.148620+00:00",
+ "updated": "2026-09-18T21:03:53.324750+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "BDI hebt Wachstums-Prognose für 2026 an",
+   "summary": "Der Bundesverband der Deutschen Industrie geht von einem Wirtschaftswachstum von einem Prozent aus. Frank Bethmann über Gründe und Implikationen für die deutsche Wirtschaft.",
+   "link": "https://www.zdfheute.de/video/heute-journal/sgs-bethmann-bdi-100.html",
+   "published": "2026-09-18T20:00:00+00:00",
+   "first_seen": "2026-09-18T21:03:53.324750+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/international/konjunktur-erholung-oder-dauerkrise-wo-steht-oesterreichs-wirtschaft/100253682.html",
    "published": "2026-09-16T12:26:18+00:00",
    "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Europäische Zentralbank: Kann Frankreich seine Staatsschulden verschwinden lassen?",
-   "summary": "Der französische Linkspopulist Jean-Luc Mélenchon fordert: Die EZB soll französische Staatsschulden „einfach streichen“. Über eine alte und gefährliche Idee.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-staatsschulden-schuldenstreichung-ezb-politik-li.3548277",
-   "published": "2026-09-16T12:17:26+00:00",
-   "first_seen": "2026-09-16T13:05:37.721823+00:00",
    "paywall": true
   }
  ]
