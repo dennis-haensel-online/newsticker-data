@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-18T13:03:54.382077+00:00",
+ "updated": "2026-09-18T14:04:05.046810+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Märkte starten verhalten in den Verfallstag",
+   "summary": "Robuste US-Arbeitsmarktdaten und sinkende Ölpreise haben positive Signale gesendet – Anleger reagieren zum Handelsstart dennoch eher ruhig. Analysten zeigen sich weiter optimistisch.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-starten-verhalten-in-den-verfallstag/100255660.html",
+   "published": "2026-09-18T14:01:44+00:00",
+   "first_seen": "2026-09-18T14:04:05.046810+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax notiert schwächer – Tech-Aktie legt zu",
+   "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht. Der Dax profitiert von sinkenden Ölpreisen, neue Konjunkturdaten dürften Anleger jedoch beunruhigen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-deutlich-im-minus-tech-aktie-legt-zu/100255551.html",
+   "published": "2026-09-18T13:59:48+00:00",
+   "first_seen": "2026-09-18T14:04:05.046810+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Reform: Lange Übergangsfrist für „Rente mit 63“ würde Millionen Fachkräfte kosten",
+   "summary": "Die Koalition streitet über die Frist bis zur Abschaffung der abschlagsfreien Frührente. Experten und Arbeitgeber warnen vor Belastungen für den Arbeitsmarkt bei einer langen Übergangsphase.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/rente-mit-63-lange-uebergangsfrist-wuerde-millionen-fachkraefte-kosten/100247730.html",
+   "published": "2026-09-18T13:28:23+00:00",
+   "first_seen": "2026-09-18T14:04:05.046810+00:00",
    "paywall": true
   },
   {
@@ -874,33 +901,6 @@
    "published": "2026-09-16T09:30:00+00:00",
    "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Oktoberfest: Wiesnwirte überflügeln die Inflation - 400 Prozent Anstieg beim Bierpreis seit 1985",
-   "summary": "Die jährlich wiederkehrende Diskussion über hohe Bierpreise auf dem Münchner Oktoberfest ödet Zaungäste ziemlich an. Die Wiesnbesucher haben aber einen Punkt.",
-   "link": "https://www.spiegel.de/wirtschaft/oktoberfest-wiesnwirte-ueberfluegeln-die-inflation-400-prozent-anstieg-beim-bierpreis-seit-1985-a-a5cb33c0-94eb-48e7-82d6-4421a503c95a#ref=rss",
-   "published": "2026-09-16T09:30:00+00:00",
-   "first_seen": "2026-09-16T12:05:29.393463+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-diese-studienfaecher-bieten-trotz-ki-gute-jobaussichten/100235558.html",
-   "published": "2026-09-16T08:50:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Preisvergleich: Idealo wächst – doch KI könnte das Geschäftsmodell des Portals aushebeln",
-   "summary": "Obwohl KI den Preisvergleich automatisieren kann, zeigt das Preisvergleichsportal Idealo noch starke Wachstumszahlen. Der Anbieter hält sich für unentbehrlich, doch Experten warnen.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/preisvergleich-idealo-will-zum-datenlieferanten-fuer-ki-agenten-werden/100252856.html",
-   "published": "2026-09-16T08:08:56+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
   }
  ]
 }
