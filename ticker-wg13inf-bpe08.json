@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T09:04:07.236682+00:00",
+ "updated": "2026-09-18T10:04:33.370905+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-ki-kompetenzen-die-top-headhunter-ueberzeugen/100240522.html",
+   "published": "2026-09-18T09:51:00+00:00",
+   "first_seen": "2026-09-18T10:04:33.370905+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Rabe verlässt Bertelsmann: Befreiungsschlag nach einem Jahr",
+   "summary": "15 Jahre an der Spitze und immer noch topfit: Thomas Rabe segelt hart am Wind, aber der Mast ist nicht gebrochen. Auch die Künstliche Intelligenz werde keinen Schiffbruch erleiden – unter Bedingungen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/thomas-rabe-bertelsmann-und-die-zukunft-mit-ki-accg-201234325.html",
+   "published": "2026-09-18T09:34:37+00:00",
+   "first_seen": "2026-09-18T10:04:33.370905+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Geh, opfere dich – wenn du den endgültigen Tod annimmst“: Protokoll des KI-Angriffs, der die Welt verschreckt",
+   "summary": "KI-Schöpfer warnen vor ihren eigenen Entwicklungen, bis hin zur Auslöschung der Menschheit. Die Protokolle des Ausbruchs legen nahe, wer versagt hat – und worauf wir uns einstellen müssen.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-das-protokoll-des-ki-angriffs-der-die-welt-verschreckt/100254926.html",
+   "published": "2026-09-18T09:28:00+00:00",
+   "first_seen": "2026-09-18T10:04:33.370905+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "KI braucht Infrastruktur: Deutschlands hartes Rennen und die Rechenzentren",
@@ -136,6 +163,15 @@
    "published": "2026-09-18T04:34:48+00:00",
    "first_seen": "2026-09-18T05:03:45.092798+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Medien- und KI-Kompetenz: So stärken Eltern ihre Kinder",
+   "summary": "Viel zu viele, darunter auch falsche Informationen: Kinder brauchen mehr Kompetenz im Umgang mit KI und Medien denn je. Wie Eltern sie dabei gut begleiten und unterstützen können.",
+   "link": "https://www.zdfheute.de/ratgeber/ki-social-media-internet-kinder-familie-eltern-kompetenz-100.html",
+   "published": "2026-09-18T04:31:00+00:00",
+   "first_seen": "2026-09-18T10:04:33.370905+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki-chips-sk-hynix-erwaegt-produktion-bei-intel-in-den-usa/100254907.html",
    "published": "2026-09-16T07:27:57+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI erwägt wohl neue Finanzierungsrunde mit Bewertung von mehr als 1,2 Billionen Dollar﻿﻿",
-   "summary": "Noch vor dem geplanten IPO könnte OpenAI seine Bewertung Berichten zufolge auf 1,2 Billionen Dollar erhöhen. Insider sehen für den Vorstoß demnach vor allem zwei Gründe.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-erwaegt-wohl-neue-finanzierungsrunde-vor-boersengang/100254901.html",
-   "published": "2026-09-16T07:06:24+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Gerät Künstliche Intelligenz außer Kontrolle?",
-   "summary": "Warnungen von KI-Entwicklern lassen aufhorchen: Gerät Künstliche Intelligenz außer Kontrolle? Medienwissenschaftler Martin Andree erklärt die Hintergründe und zeigt, wo die Gefahren liegen.",
-   "link": "https://www.zdfheute.de/video/volle-kanne/gefahren-durch-ki-martin-andree-100.html",
-   "published": "2026-09-16T07:05:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI befürwortet US-Gesetze gegen KI-Einsatz für Biowaffen",
-   "summary": "OpenAI stellt sich hinter mehrere parteiübergreifende Gesetze zur Begrenzung von Biowaffenrisiken durch KI. Zudem unterstützt der Konzern unabhängige Sicherheitstests für führende KI-Modelle.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-befuerwortet-us-gesetze-gegen-ki-einsatz-fuer-biowaffen/100254903.html",
-   "published": "2026-09-16T07:02:57+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Banking: Datenklau bei Digitalbank Revolut – offenbar deutscher Gründer betroffen",
-   "summary": "Hacker haben ein Datenleck ausgenutzt und Kundendaten der Onlinebank Revolut erbeutet. Anscheinend auch von einem Unternehmer aus Deutschland.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/revolut-datenleck-offenbar-deutscher-gruender-betroffen/100254762.html",
-   "published": "2026-09-16T06:53:40+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
    "paywall": true
   }
  ]
