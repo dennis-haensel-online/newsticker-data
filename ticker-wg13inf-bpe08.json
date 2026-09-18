@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T03:04:13.269532+00:00",
+ "updated": "2026-09-18T04:04:03.979464+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Drei Thesen, zu was die KI wirklich fähig ist",
+   "summary": "Bisherige KI-Ausbrüche zeigen, was die Technologie schon heute kann. Ein Blick auf die Details zeigt, Ängste übertrieben sind und welche Schäden die KI dennoch anrichten kann.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-thesen-zu-was-die-ki-wirklich-faehig-ist/100255472.html",
+   "published": "2026-09-18T03:57:04+00:00",
+   "first_seen": "2026-09-18T04:04:03.979464+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gesundheitstipps vom Chatbot: KI, was hab' ich? Symptome online checken - aber richtig",
+   "summary": "Dr. KI hat 24/7 Sprechstunde und immer eine Idee, was hinter unseren Beschwerden stecken könnte. Wie man Chatbots bei Gesundheitsfragen clever nutzt - und welche (eher unbekannte) Alternative es gibt.",
+   "link": "https://www.handelsblatt.com/technik/medizin/gesundheitstipps-vom-chatbot-ki-was-hab-ich-symptome-online-checken-aber-richtig/100255534.html",
+   "published": "2026-09-18T03:42:04+00:00",
+   "first_seen": "2026-09-18T04:04:03.979464+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Untergangsszenarien: Welche konkreten Gefahren drohen durch KI?",
@@ -882,24 +900,6 @@
    "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-uebersetzen-mit-eigenem-tonfall-deepl-ruestet-sprach-ki-auf/100254706.html",
    "published": "2026-09-15T14:15:00+00:00",
    "first_seen": "2026-09-15T15:04:34.763922+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz: Fondsmanager warnt vor KI-Risiken für Finanzmärkte",
-   "summary": "Anthropic warnt vor massiven KI-Risiken, OpenAI verschiebt seinen Börsengang. Fondsmanager Christoph Schmidbauer vermutet dahinter auch knallharte Geschäftsinteressen – und sagt, worauf er jetzt setzen würde.",
-   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-fondsmanager-warnt-vor-ki-risiken-fuer-finanzmaerkte-a-ff70246d-f08b-4bc4-8798-12e3dc2a9dd1#ref=rss",
-   "published": "2026-09-15T13:52:00+00:00",
-   "first_seen": "2026-09-15T14:04:07.623670+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: China wartet nicht im KI-Rennen",
-   "summary": "Das Land wird die Entwicklung künstlicher Intelligenz nicht freiwillig verlangsamen. Doch es wäre unklug, wenn die USA auf Gespräche über Sicherheitsregeln verzichten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/usa-china-ki-wettbewerb-entwicklung-sicherheit-li.3547729",
-   "published": "2026-09-15T12:32:23+00:00",
-   "first_seen": "2026-09-15T13:04:59.655180+00:00",
    "paywall": true
   }
  ]
