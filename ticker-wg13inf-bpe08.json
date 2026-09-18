@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T01:04:06.124346+00:00",
+ "updated": "2026-09-18T02:04:02.655183+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -18,6 +18,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/dan-lahav-wir-muessen-die-welt-auf-das-vorbereiten-was-eintreten-koennte/100254075.html",
    "published": "2026-09-17T22:01:00+00:00",
    "first_seen": "2026-09-17T23:03:12.556660+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Rekonstruktion eines KI-Angriffs – Wie gefährlich die großen Modelle wirklich sind",
+   "summary": "Immer neue Fälle von KI-Programmen, die außer Kontrolle geraten. Immer mehr Warnungen vor den Gefahren der Künstlichen Intelligenz. Wie Politik, Entwickler und Konzerne damit umgehen.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-das-protokoll-wie-die-ki-ausser-kontrolle-geriet/100254926.html",
+   "published": "2026-09-17T22:01:00+00:00",
+   "first_seen": "2026-09-18T02:04:02.655183+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-risiko-ist-die-wahrscheinlichkeit-in-zukunft-verluste-zu-erleiden/100222130.html",
    "published": "2026-09-15T11:57:00+00:00",
-   "first_seen": "2026-09-15T12:05:33.755447+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: „Vor einem Jahr hätte ich das nicht gemacht“: Wie sich ein deutscher Softwarehersteller mit KI neu erfindet",
-   "summary": "Künstliche Intelligenz beschleunigt die Softwareentwicklung enorm. Der deutsche Anbieter Infoniqa wagt einen Neuanfang unter neuem Namen. Dahinter steht ein Private-Equity-Riese.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-wie-sich-ein-deutscher-softwarehersteller-mit-ki-neu-erfindet/100254205.html",
-   "published": "2026-09-15T11:32:57+00:00",
    "first_seen": "2026-09-15T12:05:33.755447+00:00",
    "paywall": true
   }
