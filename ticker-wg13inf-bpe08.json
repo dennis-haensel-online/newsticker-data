@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T08:04:13.474811+00:00",
+ "updated": "2026-09-18T09:04:07.236682+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "KI braucht Infrastruktur: Deutschlands hartes Rennen und die Rechenzentren",
+   "summary": "Die Bundesregierung hat sich in ihrer Rechenzentrumsstrategie 28 Ziele gesetzt, die sie innerhalb eines Jahres erfüllen will. Wo steht sie nach der Hälfte der Zeit?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/rechenzentrumsstrategie-wo-steht-deutschland-im-vergleich-accg-201239176.html",
+   "published": "2026-09-18T08:23:58+00:00",
+   "first_seen": "2026-09-18T09:04:07.236682+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/job-wuerden-sie-ein-bewerbungsgespraech-mit-einem-ki-recruiter-fuehren/100248546.html",
+   "published": "2026-09-18T08:17:00+00:00",
+   "first_seen": "2026-09-18T09:04:07.236682+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: „Da war uns klar, dass etwas Interessantes im Gange ist“",
+   "summary": "Seine Erfindung hat ChatGPT und Claude erst ermöglicht. Fürchtet Jakob Uszkoreit, dass wir die Kontrolle über die KI verlieren?",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-erfinder-jakob-uszkoreit-ueber-die-zukunft-von-ki/100255124.html",
+   "published": "2026-09-18T08:16:59+00:00",
+   "first_seen": "2026-09-18T09:04:07.236682+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Cybersicherheit: Hacker dringen offenbar mit Anthropic-KI in OpenAI ein",
@@ -72,6 +99,15 @@
    "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-modell-claude-hilft-bei-entwicklung-seines-nachfolgers/100255552.html",
    "published": "2026-09-18T05:43:27+00:00",
    "first_seen": "2026-09-18T06:04:58.635024+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anthropic: KI-Modell Claude hilft bei Entwicklung seines Nachfolgers",
+   "summary": "Eine Künstliche Intelligenz, die sich selbst verbessern kann, gilt als ein risikoreiches Szenario. Anthropic ist diesem nun einen Schritt näher gekommen.",
+   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-modell-claude-entwickelt-nachfolger-mit/100255552.html",
+   "published": "2026-09-18T05:43:27+00:00",
+   "first_seen": "2026-09-18T09:04:07.236682+00:00",
    "paywall": true
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/revolut-datenleck-offenbar-deutscher-gruender-betroffen/100254762.html",
    "published": "2026-09-16T06:53:40+00:00",
    "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Software: Autonomes Fahren: Elektrische Lkw werden zum Testfeld für die Mobilität der Zukunft",
-   "summary": "Assistenzsysteme und Sensoren machen Lkw sicherer – auch mithilfe von Künstlicher Intelligenz. Bald soll die Software das Steuer ganz übernehmen können.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/software-lkw-werden-zum-testfeld-fuer-autonomes-fahren/100254658.html",
-   "published": "2026-09-16T06:49:42+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Nvidia-Chef lehnt langsamere KI-Entwicklung und neue Regeln ab",
-   "summary": "Mark Zuckerberg mischt sich in KI-Streit ein +++ DeepL rüstet Sprach-KI auf +++ SpaceX gewinnt ersten Kunden für Rücktransport aus dem All +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-nvidia-chef-huang-lehnt-langsamere-ki-entwicklung-und-neue-regeln-ab-faz-200452404.html",
-   "published": "2026-09-16T06:33:21+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/karriere-in-diesen-jobs-profitieren-sie-von-ki-kompetenzen/100251207.html",
-   "published": "2026-09-16T05:48:00+00:00",
-   "first_seen": "2026-09-16T06:05:15.879357+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: „Der schlimmste Unfall, den wir je gesehen haben“",
-   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
-   "link": "https://www.wiwo.de/unternehmen/openai-und-hugging-face-sam-altman-warnt-vor-ki-kontrollverlust/100254875.html",
-   "published": "2026-09-16T05:20:19+00:00",
-   "first_seen": "2026-09-16T06:05:15.879357+00:00",
    "paywall": true
   }
  ]
