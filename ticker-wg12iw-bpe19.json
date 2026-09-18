@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-18T12:05:02.356633+00:00",
+ "updated": "2026-09-18T13:03:54.382077+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: Lagarde sieht EZB im Kampf gegen Inflation gut positioniert",
+   "summary": "Steigende Energiepreise treiben die Inflation weiter nach oben. Die EZB-Chefin warnt jedoch davor, sich bei Zinsentscheidungen ausschließlich auf die Energiepreise zu konzentrieren.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-lagarde-sieht-ezb-im-kampf-gegen-inflation-gut-positioniert/100255676.html",
+   "published": "2026-09-18T12:51:50+00:00",
+   "first_seen": "2026-09-18T13:03:54.382077+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/preisvergleich-idealo-will-zum-datenlieferanten-fuer-ki-agenten-werden/100252856.html",
    "published": "2026-09-16T08:08:56+00:00",
    "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bank of England: Britische Inflation steigt vor Zinsentscheid auf Fünfmonatshoch",
-   "summary": "Höhere Spritpreise treiben die Teuerung an. Damit gerät die Bank of England vor ihrem Zinsentscheid zunehmend unter Druck.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/bank-of-england-britische-inflation-steigt-vor-zinsentscheid-auf-fuenfmonatshoch/100254902.html",
-   "published": "2026-09-16T07:21:19+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": true
   }
  ]
