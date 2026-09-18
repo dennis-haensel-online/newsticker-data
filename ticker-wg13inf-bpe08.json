@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-18T07:04:40.035652+00:00",
+ "updated": "2026-09-18T08:04:13.474811+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Cybersicherheit: Hacker dringen offenbar mit Anthropic-KI in OpenAI ein",
+   "summary": "Sicherheitsforscher haben einem Medienbericht zufolge das KI-Modell Claude genutzt, um sich in OpenAI zu hacken. Der Vorfall zeigt einmal mehr die Risiken von KI in der Cybersicherheit.",
+   "link": "https://www.handelsblatt.com/technik/ki/cybersicherheit-hacker-dringen-offenbar-mit-anthropic-ki-in-openai-ein/100255565.html",
+   "published": "2026-09-18T08:01:58+00:00",
+   "first_seen": "2026-09-18T08:04:13.474811+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung: „Die Leute müssen das Gefühl haben, blöd sein zu dürfen“",
+   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
+   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-die-leute-muessen-das-gefuehl-haben-bloed-sein-zu-duerfen/100252820.html",
+   "published": "2026-09-18T07:59:00+00:00",
+   "first_seen": "2026-09-18T08:04:13.474811+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Meckel & Matthes: Das Ende der Menschheit? KI-Panik – und Merz stellt die Vertrauensfrage",
+   "summary": "Meckel & Matthes ordnen die Bedrohungsszenarien rund um den rasanten Fortschritt bei Künstlicher Intelligenz ein – und blicken auf einen Kanzler, der um sein Amt kämpft.",
+   "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-das-ende-der-menschheit-ki-panik-und-merz-stellt-die-vertrauensfrage/100255515.html",
+   "published": "2026-09-18T07:53:46+00:00",
+   "first_seen": "2026-09-18T08:04:13.474811+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Gefahren von KI: Künstliche Intelligenz ist zu gefährlich für ein paar Superreiche",
+   "summary": "Privaten Unternehmen wichtige Aufgaben zu übertragen, ist oft richtig. Aber bei einer derart potenten Technologie wie KI ist dies keine Option mehr.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/gefahren-ki-it-infrastruktur-rechenzentrum-privateigentum",
+   "published": "2026-09-18T07:42:00+00:00",
+   "first_seen": "2026-09-18T08:04:13.474811+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Teure KI in Unternehmen: „So ein Agent kostet am Tag leicht mal 100, 200, 300 Euro“",
+   "summary": "Unternehmer sehen sich zunehmend mit hohen Kosten für Künstliche Intelligenz konfrontiert. Das ist ein Systemproblem. Wer versteht, wie Token funktionieren, versteht, warum die Rechnung am Ende oft überrascht.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenmaxxing-und-kuenstliche-intelligenz-so-ein-agent-kostet-am-tag-leicht-mal-100-200-300-euro-accg-201014126.html",
+   "published": "2026-09-18T07:13:40+00:00",
+   "first_seen": "2026-09-18T08:04:13.474811+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Ex-OpenAI-Forscher fordert Stopp: »Wir müssen die KI-Entwicklung im Wesentlichen abschalten«",
@@ -856,51 +901,6 @@
    "published": "2026-09-16T05:20:19+00:00",
    "first_seen": "2026-09-16T06:05:15.879357+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Zwischen Business-Euphorie und Gefahren für die Gesellschaft",
-   "summary": "In Berlin trifft sich diese Woche KI-Wirtschaft und Politik beim Big Bang KI-Festival. Neben Buzzwords und Marketing-Sprech tauchen auch immer mehr ernste Töne auf.",
-   "link": "https://www.zdfheute.de/panorama/berlin-big-bang-ki-festival-100.html",
-   "published": "2026-09-16T04:00:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "KI-Rennen zwischen China und USA: »Sie fürchten, dass ein Deepfake von Xi eine Ankündigung macht«",
-   "summary": "Viel wird spekuliert über das KI-Wettrüsten zwischen China und USA. Der Analyst Kyle Chan erklärt, dass China ganz andere Ziele als Amerika hat. Aber auch andere Ängste",
-   "link": "https://www.zeit.de/politik/2026-09/ki-rennen-china-usa-regulierung-kontrolle-kyle-chan",
-   "published": "2026-09-16T03:33:00+00:00",
-   "first_seen": "2026-09-16T04:03:54.766379+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuerberatung: Investments in Steuer-Start-ups: Reid Hoffman und Christian Lindner entdecken die Steuerbranche",
-   "summary": "Berliner Taxtech-Unternehmen sammeln Millionen ein, um die Buchhaltung von KI-Agenten erledigen zu lassen. Investoren wetten darauf, dass KI den Fachkräftemangel der Branche beseitigen kann.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/start-ups-reid-hoffman-und-christian-lindner-entdecken-die-steuerbranche/100254430.html",
-   "published": "2026-09-16T02:04:03+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Hauptsitz von den USA nach Deutschland",
-   "summary": "Während Firmen vermehrt in die USA abwandern, wandelt Langdock seine US-Mutterfirma in eine europäische SE um. Man wolle Europa „vollends souveräne“ Rechenleistung anbieten, sagen die Chefs.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-langdock-verlegt-hauptsitz-von-den-usa-nach-deutschland/100254184.html",
-   "published": "2026-09-16T01:57:56+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "KI-Fakes: Lernen, genauer hinzusehen",
-   "summary": "Demokratie braucht viele Stimmen – und Menschen, die Informationen einordnen können. Bei „ZDF goes Schule“ stärken Achtklässler in Mainz ihre Medienkompetenz.",
-   "link": "https://www.zdfheute.de/video/heute-journal/feldmann-ki-schulen-100.html",
-   "published": "2026-09-15T19:45:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": false
   }
  ]
 }
