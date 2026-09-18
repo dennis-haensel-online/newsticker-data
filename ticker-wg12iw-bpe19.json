@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-18T16:04:00.687217+00:00",
+ "updated": "2026-09-18T17:03:43.518714+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -18,6 +18,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-zum-wochenschluss-weitgehend-stabil/100255660.html",
    "published": "2026-09-18T15:28:00+00:00",
    "first_seen": "2026-09-18T16:04:00.687217+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax schließt rund 400 Punkte tiefer – Tech-Aktie legt zu",
+   "summary": "Die Entwicklung der Ölpreise kann am deutschen Aktienmarkt nicht mehr für Optimismus sorgen. Auch neue Konjunkturdaten und eine gekappte Prognose drücken auf die Stimmung.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-rund-400-punkte-tiefer-tech-aktie-legt-zu/100255551.html",
+   "published": "2026-09-18T15:10:28+00:00",
+   "first_seen": "2026-09-18T17:03:43.518714+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-staatsschulden-schuldenstreichung-ezb-politik-li.3548277",
    "published": "2026-09-16T12:17:26+00:00",
    "first_seen": "2026-09-16T13:05:37.721823+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
-   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
-   "link": "https://www.handelsblatt.com/karriere/ruestung-welche-managerprofile-firmen-wie-rheinmetall-oder-hensoldt-suchen/100211178.html",
-   "published": "2026-09-16T09:48:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": true
   }
  ]
