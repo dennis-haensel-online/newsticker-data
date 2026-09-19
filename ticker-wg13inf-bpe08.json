@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-19T13:03:30.109118+00:00",
+ "updated": "2026-09-19T14:03:57.163040+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: KI-Fehler hätte laut CNN-Bericht fast zu US-Militäreinsatz gegen chinesisches Schiff geführt",
+   "summary": "US-Soldaten sollen sich bereits auf Entern vorbereitet haben +++ Open-AI-Chef Altman spricht vor UN-Sicherheitsrat über KI-Risiken +++ Google-KI Gemini hackte ebenfalls andere Unternehmen +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cnn-ki-fehler-haette-fast-zu-us-militaereinsatz-gegen-chinesisches-schiff-gefuehrt-faz-200452404.html",
+   "published": "2026-09-19T13:57:13+00:00",
+   "first_seen": "2026-09-19T14:03:57.163040+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "KI-Forscherin Theresa Züger: „Das Hauptproblem ist die Verantwortungslosigkeit“",
+   "summary": "Wenn Tech-CEOs vom Ende der Menschheit fabulieren, wollen sie Verantwortung verschieben. Dabei bräuchte es eine gemeinwohlorientierte KI. mehr...",
+   "link": "https://taz.de/KI-Forscherin-Theresa-Zueger/!6208301/",
+   "published": "2026-09-19T13:47:00+00:00",
+   "first_seen": "2026-09-19T14:03:57.163040+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Kill Switch\" für KI? Kalifornien will Notschalter",
+   "summary": "Für den Fall, dass KI außer Kontrolle gerät, prüft Kalifornien einen Notschalter. Der \"Kill Switch\" ist Teil mehrerer Maßnahmen, die führende KI-Entwickler betreffen könnten.",
+   "link": "https://www.zdfheute.de/politik/ausland/ki-risiken-notschalter-einrichtung-kalifornien-100.html",
+   "published": "2026-09-19T13:11:00+00:00",
+   "first_seen": "2026-09-19T14:03:57.163040+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Auch Googles KI hackte Unternehmen",
+   "summary": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche strengere Sicherheitsvorgaben prüfen.",
+   "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
+   "published": "2026-09-19T13:09:00+00:00",
+   "first_seen": "2026-09-19T14:03:57.163040+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
@@ -865,42 +901,6 @@
    "published": "2026-09-16T14:01:00+00:00",
    "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
-   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-jobs-in-der-it-branche-bleiben-trotz-ki-zukunftssicher/100238210.html",
-   "published": "2026-09-16T13:54:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
-   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-so-schaut-die-juengste-ki-professorin-deutschlands-auf-den-ki-hype-01/100188740.html",
-   "published": "2026-09-16T13:52:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Cohere übernimmt Aleph Alpha: Die Pläne der neuen deutsch-kanadischen KI-Hoffnung",
-   "summary": "Die Übernahme der einstigen deutschen KI-Hoffnung Aleph Alpha durch Cohere ist unterzeichnet. Hier sprechen die Chefs Aidan Gomez und Ilhan Scheer über ihre Pläne – und was in der Vergangenheit schiefgelaufen ist.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-und-cohere-das-planen-aidan-gomez-und-ilhan-scheer-201231269.html",
-   "published": "2026-09-16T13:40:30+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wissenschaftspreis: Zukunftspreis: Energiespeicher, Chip und Intensiv-Therapie",
-   "summary": "Drei Projekte aus Bayern und Baden-Württemberg gehen ins Rennen um den Deutschen Zukunftspreis 2026. Was ihre Technologien für Medizin, Energiewende und Digitalisierung leisten können.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/wissenschaftspreis-zukunftspreis-energiespeicher-chip-und-intensiv-therapie/100255037.html",
-   "published": "2026-09-16T13:38:46+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
   }
  ]
 }
