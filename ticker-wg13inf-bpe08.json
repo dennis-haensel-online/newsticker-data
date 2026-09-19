@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-19T10:04:05.152863+00:00",
+ "updated": "2026-09-19T11:03:48.667947+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: „Vor KI, die die Menschheit auslöscht, habe ich wirklich gar keine Angst“",
+   "summary": "Jakob Uszkoreit legte die Basis für ChatGPT und Claude. Im Interview erklärt der Transformer-Pionier, warum er keine Angst vor der KI hat – und welche Gefahren er für weit realistischer hält.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/jakob-uszkoreit-chatgpt-pionier-ueber-reale-ki-gefahren/100255124.html",
+   "published": "2026-09-19T10:41:00+00:00",
+   "first_seen": "2026-09-19T11:03:48.667947+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Unternehmen: Accenture und Anthropic investieren Milliarden in KI-Sicherheit wegen Sicherheitsbedenken",
@@ -9,6 +18,15 @@
    "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-unternehmen-accenture-und-anthropic-investieren-milliarden-in-ki-sicherheit-wegen-sicherheitsbedenken/100255810.html",
    "published": "2026-09-19T07:42:27+00:00",
    "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Accenture und Anthropic investieren Milliarden wegen Sicherheitsbedenken",
+   "summary": "Der Druck von Aufsichtsbehörden auf KI-Entwickler steigt. Die beiden Firmen möchten nun bei der unabhängigen Überprüfung von KI-Modellen zusammenarbeiten.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-unternehmen-accenture-und-anthropic-investieren-milliarden-in-ki-sicherheit/100255810.html",
+   "published": "2026-09-19T07:42:27+00:00",
+   "first_seen": "2026-09-19T11:03:48.667947+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-09-16T13:04:00+00:00",
    "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "State of the Union: Kanada, China, KI: Von der Leyen hält Rede zur Lage der EU",
-   "summary": "Die EU-Kommissionspräsidentin strebt eine engere Kooperation mit Kanada an und will auf eine assoziierte Mitgliedschaft des Landes hinarbeiten. Zudem sprach von der Leyen über das Handelsdefizit mit China und die KI-Regulierung.",
-   "link": "https://www.handelsblatt.com/video/politik/state-of-the-union-kanada-china-ki-von-der-leyen-haelt-rede-zur-lage-der-eu/100255029.html",
-   "published": "2026-09-16T12:43:18+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Nvidia-CHef gegen Anthropic: Jeder hat sein KI-Interesse",
-   "summary": "Der Nvidia-Chef lehnt neue Regeln oder Vorschriften für Künstliche Intelligenz ab. Donald Trump ebenso. Beide haben Gründe.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/nvidia-ceo-huang-und-donald-trump-jeder-hat-sein-ki-interesse-201231923.html",
-   "published": "2026-09-16T12:08:37+00:00",
-   "first_seen": "2026-09-16T13:05:37.721823+00:00",
-   "paywall": true
   }
  ]
 }
