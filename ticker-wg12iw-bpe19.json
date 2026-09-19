@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-19T12:04:43.498374+00:00",
+ "updated": "2026-09-19T13:03:30.109118+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Berufsleben: Job weg, Abfindung - und dann?",
+   "summary": "Ob Volkswagen, Bayer oder Lufthansa - besonders das mittlere Management steht auf dem Arbeitsmarkt unter Druck. Wie kann es man sich nach einem Aufhebungsvertrag beruflich neu orientieren? Von Anke Heinhaus.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/abfindung-berufsleben-100.html",
+   "published": "2026-09-19T12:26:53+00:00",
+   "first_seen": "2026-09-19T13:03:30.109118+00:00",
+   "paywall": false
   },
   {
    "label": "tagesschau",
@@ -891,15 +900,6 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/bierpreis-oktoberfest-mass-bier-inflation",
    "published": "2026-09-16T12:44:46+00:00",
    "first_seen": "2026-09-16T13:05:37.721823+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Bierpreis auf dem Oktoberfest: Maß Bier auf dem Oktoberfest in München ist fünfmal so teuer wie 1985",
-   "summary": "In diesem Jahr kostet die Maß Bier auf der Wiesn 15,61 Euro. Seit 1985 ist der Preis damit mehr als dreimal so stark gestiegen wie die Verbraucherpreise insgesamt.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/bierpreis-oktoberfest-mass-bier-inflation-gxe",
-   "published": "2026-09-16T12:44:46+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": true
   }
  ]
