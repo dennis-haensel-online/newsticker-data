@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T21:03:51.900002+00:00",
+ "updated": "2026-09-19T22:03:45.755203+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Die Kleinen sind immer die Größten\"",
+   "summary": "Dieses Mal standen bei der \"Giovanni Zarrella Show\" die kleinen Künstler im Mittelpunkt. Alexander Klaws trat dabei zum ersten Mal gemeinsam mit seinem Sohn Lenny im TV auf.",
+   "link": "https://www.zdfheute.de/panorama/prominente/giovanni-zarella-show-junge-kuenstler-alexander-klaws-sohn-lenny-100.html",
+   "published": "2026-09-19T21:15:00+00:00",
+   "first_seen": "2026-09-19T22:03:45.755203+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
+   "summary": "Die ukrainische Hauptstadt Kiew und das umliegende Gebiet werden regelmäßig von russischen Drohnen und Raketen angegriffen. Bei einer weiteren Attacke kommt es zu einer Tragödie.",
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-mutter-und-kinder-bei-angriff-im-kiewer-umland-getoetet/100255865.html",
+   "published": "2026-09-19T21:10:58+00:00",
+   "first_seen": "2026-09-19T22:03:45.755203+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Landtagswahlen mit Putsch-Potenzial",
+   "summary": "Die Wahlen in Berlin und Mecklenburg-Vorpommern sind vor allem für die CDU eine Zitterpartie. Sie haben das Potenzial, die extrem nervöse Partei auseinanderzureißen.",
+   "link": "https://www.zdfheute.de/politik/deutschland/wahl-mecklenburg-vorpommern-berlin-100.html",
+   "published": "2026-09-19T21:05:00+00:00",
+   "first_seen": "2026-09-19T22:03:45.755203+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Trauer um den Co-Trainer Deutschlands: Peter Hermann ist tot",
+   "summary": "Der deutsche Fußball trauert um Peter Hermann. Der langjährige Trainer verstarb am Samstag im Alter von 74 Jahren.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/fussball-peter-hermann-gestorben-100.html",
+   "published": "2026-09-19T20:58:09+00:00",
+   "first_seen": "2026-09-19T22:03:45.755203+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13463,42 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/drohnenabwehr-viele-betreiber-kritischer-infrastruktur-ohne-drohnenschutz/100254890.html",
    "published": "2026-09-16T07:52:24+00:00",
    "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Update Wirtschaft vom 16.09.2026",
-   "summary": "Update Wirtschaft vom 16.09.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1649790.html",
-   "published": "2026-09-16T07:46:24+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Spritpreise: Thorsten Frei schlägt Senkung der Mehrwertsteuer vor",
-   "summary": "Mit seiner Ankündigung, gegen die hohe Belastung durch teuren Sprit vorzugehen, hat Bundeskanzler Merz eine heftige Diskussion ausgelöst. Experten warnen, der Chor der Befürworter wächst. Fraktionschef Frei formuliert einen möglichen…",
-   "link": "https://www.spiegel.de/wirtschaft/spritpreise-thorsten-frei-schlaegt-senkung-der-mehrwertsteuer-vor-a-c5c151ba-df63-4535-85b2-abb55d15f899#ref=rss",
-   "published": "2026-09-16T07:45:00+00:00",
-   "first_seen": "2026-09-16T12:05:29.393463+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Reproduktive Rechte: Südkorea erlaubt Medikamente zum Schwangerschaftsabbruch",
-   "summary": "Zum ersten Mal sollen Frauen in Südkorea legal Medikamente zum Schwangerschaftsabbruch bekommen können. Die Zulassung eines Präparats wird derzeit geprüft. mehr...",
-   "link": "https://taz.de/Reproduktive-Rechte/!6213572/",
-   "published": "2026-09-16T07:44:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Einzelhandel: Lidl testet autonom fahrenden Lkw zur Belieferung der Filialen",
-   "summary": "Für einen ersten Test in Deutschland hat der Discounter nach Handelsblatt-Informationen nun die Genehmigung bekommen. Bis zum breiten Einsatz gibt es aber noch einige Fragen zu klären.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-lidl-testet-autonom-fahrenden-lastwagen-zur-filial-belieferung-01/100253503.html",
-   "published": "2026-09-16T07:43:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": true
   }
  ]
