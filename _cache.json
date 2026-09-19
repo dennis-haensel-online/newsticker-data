@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T19:03:36.370657+00:00",
+ "updated": "2026-09-19T20:03:50.948421+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Erz um jeden Preis",
+   "summary": "Kurz nach Kriegsende 1945 startet im Erzgebirge eines der größten Geheimprojekte der Nachkriegszeit: Unter dem Tarnnamen \"Wismut\" graben Arbeiter nach Uran für Stalins Atombombe.",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-toedliches-erbe-der-ddr-deutsches-uran-fuer-moskaus-bomben--100/zdfinfo-toedliches-erbe-der-ddr-erz-um-jeden-preis-100",
+   "published": "2026-09-19T19:45:00+00:00",
+   "first_seen": "2026-09-19T20:03:50.948421+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Krieg in Nahost: Huthi-Miliz reklamiert Angriffe in Saudi-Arabien",
+   "summary": "Seit der neuen Eskalation im Jemen-Krieg gerät Saudi-Arabien immer wieder unter Beschuss aus dem südlichen Nachbarland. Augenzeugen berichten von einem Brand am internationalen Flughafen in Riad.",
+   "link": "https://www.handelsblatt.com/politik/international/krieg-in-nahost-huthi-miliz-reklamiert-angriffe-in-saudi-arabien/100255859.html",
+   "published": "2026-09-19T19:42:43+00:00",
+   "first_seen": "2026-09-19T20:03:50.948421+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wer von Spritpreisdeckel und Tankrabatt profitieren könnte",
+   "summary": "Die Spritpreise sind hoch. Welche Maßnahmen Schwarz-Rot dagegen plant, wie gut sie wirken können und wer davon profitieren kann: ein Überblick.",
+   "link": "https://www.zdfheute.de/politik/deutschland/spritpreise-benzin-diesel-tankrabatt-100.html",
+   "published": "2026-09-19T19:33:00+00:00",
+   "first_seen": "2026-09-19T20:03:50.948421+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Volleyballer stehen nach Fünf-Satz-Krimi im EM-Viertelfinale",
+   "summary": "Dank einer starken Teamleistung stehen Deutschlands Volleyballer im EM-Viertelfinale. Im Achtelfinale gegen Gastgeber Bulgarien drehte das DVV-Team einen Zwei-Satz-Rückstand.",
+   "link": "https://www.zdfheute.de/sport/volleyballer-stehen-im-em-viertelfinale-100.html",
+   "published": "2026-09-19T19:17:00+00:00",
+   "first_seen": "2026-09-19T20:03:50.948421+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie günstiger Wohnungsbau gelingen kann",
+   "summary": "Schneller planen, einfacher bauen, weniger Kosten: Ein Hamburger Pilotprojekt zeigt, wie neue Wohnungen günstiger entstehen können - und was das für die Mieten bedeutet.",
+   "link": "https://www.zdfheute.de/wirtschaft/wohnungsbau-hamburg-mieten-bauen-guenstig-100.html",
+   "published": "2026-09-19T19:06:00+00:00",
+   "first_seen": "2026-09-19T20:03:50.948421+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -35,6 +80,15 @@
    "link": "https://www.zdfheute.de/sport/fussball-bundesliga-heute-tabelle-und-liveticker-100.html",
    "published": "2026-09-19T18:32:00+00:00",
    "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Beier schießt Dortmund an die Tabellenspitze",
+   "summary": "Vierter Sieg im vierten Spiel: Borussia Dortmund behält in der Bundesliga eine weiße Weste und grüßt nach dem Auswärtssieg beim VfB Stuttgart als Tabellenführer.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-vfb-stuttgart-borussia-dortmund-spieltag-4-26-27-100.html",
+   "published": "2026-09-19T18:30:00+00:00",
+   "first_seen": "2026-09-19T20:03:50.948421+00:00",
    "paywall": false
   },
   {
@@ -13444,60 +13498,6 @@
    "summary": "Das Geldhaus will für institutionelle Investoren und Unternehmen bald die Aufbewahrung von Bitcoin, Ether und Stablecoins anbieten – und ist damit später dran als die Konkurrenz.",
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bitcoin-deutsche-bank-startet-mit-verwahrung-von-kryptowaehrungen/100254801.html",
    "published": "2026-09-16T07:30:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Insider: SK Hynix erwägt Chipproduktion bei Intel in den USA",
-   "summary": "Die USA drohen dem südkoreanischen Chiphersteller schon länger mit Strafzöllen. Um das zu verhindern, überlegt SK Hynix Insidern zufolge, in einer Intel-Fabrik in Ohio zu produzieren.",
-   "link": "https://www.handelsblatt.com/technik/ki-chips-sk-hynix-erwaegt-produktion-bei-intel-in-den-usa/100254907.html",
-   "published": "2026-09-16T07:27:57+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gasversorgung: Sefe bestätigt Einkäufe zur Befüllung der Gasspeicher",
-   "summary": "Der bundeseigene Gasimporteur will die Versorgungssicherheit erhöhen. Er sieht keine negativen Auswirkungen auf sein Geschäft.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-sefe-bestaetigt-einkaeufe-zur-befuellung-der-gasspeicher/100254898.html",
-   "published": "2026-09-16T07:23:42+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Drohnenkrieg: Ukraine: Drohne tötet fünf Menschen in Bus - Zug getroffen",
-   "summary": "Im Süden der Ukraine gibt es Tote, Verletzte und schwere Schäden durch russische Drohnenangriffe auf zivile Verkehrsmittel. Die Behörden werfen Moskau Terror vor.",
-   "link": "https://www.handelsblatt.com/politik/international/drohnenkrieg-ukraine-drohne-toetet-fuenf-menschen-in-bus-zug-getroffen/100254914.html",
-   "published": "2026-09-16T07:23:39+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Anleger warten auf Fed‑Entscheid – Dax leicht im Plus",
-   "summary": "In Erwartung eines Zinsschritts der US-Notenbank bewegen sich die großen Indizes zunächst wenig. Die Anleiherenditen gehen derweil etwas zurück.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-anleger-warten-auf-fedentscheid-dax-leicht-im-plus/100254886.html",
-   "published": "2026-09-16T07:21:29+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bank of England: Britische Inflation steigt vor Zinsentscheid auf Fünfmonatshoch",
-   "summary": "Höhere Spritpreise treiben die Teuerung an. Damit gerät die Bank of England vor ihrem Zinsentscheid zunehmend unter Druck.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/bank-of-england-britische-inflation-steigt-vor-zinsentscheid-auf-fuenfmonatshoch/100254902.html",
-   "published": "2026-09-16T07:21:19+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Schlechte Umfragewerte: Frei: Merz auch nach Landtagswahlen unumstößlich Kanzler",
-   "summary": "Die Umfragen sind schlecht, die Stimmung angespannt. Unionsfraktionschef Frei stellt sich dennoch klar hinter Kanzler Merz – und verweist auf ein Thema, das aus seiner Sicht alles entscheidet.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/schlechte-umfragewerte-frei-merz-auch-nach-landtagswahlen-unumstoesslich-kanzler/100254909.html",
-   "published": "2026-09-16T07:12:53+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": true
   }
