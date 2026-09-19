@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T17:03:39.294704+00:00",
+ "updated": "2026-09-19T18:04:30.155751+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Gipfeltreffen TRump-Xi: Hat Trump die USA von China entkoppelt? Eher nicht.",
+   "summary": "Der amerikanische Präsident wollte die Vereinigten Staaten mit Zöllen von China unabhängiger machen und Fabriken zurückholen. Seine Bilanz ist mäßig. Das liegt auch an Vito.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/trump-trifft-xi-haben-sich-die-usa-von-china-entkoppelt-accg-201226778.html",
+   "published": "2026-09-19T17:32:34+00:00",
+   "first_seen": "2026-09-19T18:04:30.155751+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Verena Bahlsen: »Im schlimmsten Fall zerstört Geld dich«",
+   "summary": "Verena Bahlsen scheiterte an der Spitze der Keksfirma ihrer Familie. Sie wollte sich nicht unterordnen. Durch ihren mittellosen Freund veränderte sich ihr Blick auf Geld.",
+   "link": "https://www.zeit.de/2026/40/verena-bahlsen-panikjahre-unternehmen-familie-nationalsozialismus-zwangsarbeit",
+   "published": "2026-09-19T17:21:56+00:00",
+   "first_seen": "2026-09-19T18:04:30.155751+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Rollstuhlbasketball-Männer beenden WM ohne Medaille",
+   "summary": "Blech statt Bronze: Die deutschen Rollstuhlbasketballer verlieren im kleinen Finale der WM gegen Großbritannien.",
+   "link": "https://www.zdfheute.de/sport/rollstuhlbasketball-wm-bronze-niederlage-deutschland-100.html",
+   "published": "2026-09-19T17:04:00+00:00",
+   "first_seen": "2026-09-19T18:04:30.155751+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -44,6 +71,15 @@
    "link": "https://taz.de/Marsch-fuer-das-Leben-2026/!6214673/",
    "published": "2026-09-19T16:35:00+00:00",
    "first_seen": "2026-09-19T17:03:39.294704+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Deutscher General wird Vorsitzender von Nato-Militärausschuss",
+   "summary": "Deutschlands ranghöchster Soldat, Generalinspekteur Carsten Breuer, wird neuer Vorsitzender des Nato-Militärausschusses. Er spricht von \"großen Aufgaben\", die vor der Nato liegen.",
+   "link": "https://www.zdfheute.de/politik/ausland/nato-militaer-ausschuss-general-breuer-vorsitz-100.html",
+   "published": "2026-09-19T16:34:00+00:00",
+   "first_seen": "2026-09-19T18:04:30.155751+00:00",
    "paywall": false
   },
   {
@@ -188,6 +224,15 @@
    "link": "https://www.zdfheute.de/politik/justiz-rechtsstaat-unabhaengig-resilient-deutscher-juristentag-100.html",
    "published": "2026-09-19T15:10:00+00:00",
    "first_seen": "2026-09-19T16:04:12.611565+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Hammer der Woche aus Holte-Stukenbrock",
+   "summary": "In Schloß Holte-Stukenbrock wurde eine Bushaltestelle aufwendig saniert. Nur wenig später stellt der zuständige Verkehrsverbund die Buslinie ein.",
+   "link": "https://www.zdfheute.de/video/laenderspiegel/hammer-der-woche-aus-stukenbrock-100.html",
+   "published": "2026-09-19T15:05:00+00:00",
+   "first_seen": "2026-09-19T18:04:30.155751+00:00",
    "paywall": false
   },
   {
@@ -827,6 +872,15 @@
    "link": "https://www.zdfheute.de/sport/radsport-wm-2026-montreal-deutsche-starter-chancen-100.html",
    "published": "2026-09-19T09:36:00+00:00",
    "first_seen": "2026-09-19T10:04:05.152863+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Visualia-Festival erleuchtet die Altstadt",
+   "summary": "Drei Abende lang wird die kroatische Hafenstadt Pula zum leuchtenden Kunstwerk. Beim Visualia-Festival tauchen Künstler die Stadt vom 17. bis zum 19. September in ein buntes Farbenmeer.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/pula-visual-festival-licht-video-100.html",
+   "published": "2026-09-19T09:23:00+00:00",
+   "first_seen": "2026-09-19T18:04:30.155751+00:00",
    "paywall": false
   },
   {
@@ -13444,60 +13498,6 @@
    "summary": "Länder-ETFs, Immobilien-ETFs oder gar Einzelaktien? Der neue Handelsblatt-Rechner ermöglicht Ihnen, Ihre Strategie für ein passives Einkommen zu finden.",
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-berechnen-sie-wie-viel-passives-einkommen-moeglich-ist/100185344.html",
    "published": "2026-09-16T06:52:00+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
-   "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-kann-eine-erbschaftsteuer-ohne-erhaltenes-erbe-faellig-werden/100246436.html",
-   "published": "2026-09-16T06:51:00+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Software: Autonomes Fahren: Elektrische Lkw werden zum Testfeld für die Mobilität der Zukunft",
-   "summary": "Assistenzsysteme und Sensoren machen Lkw sicherer – auch mithilfe von Künstlicher Intelligenz. Bald soll die Software das Steuer ganz übernehmen können.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/software-lkw-werden-zum-testfeld-fuer-autonomes-fahren/100254658.html",
-   "published": "2026-09-16T06:49:42+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Reiche will Gasspeicher kurzfristig auffüllen lassen",
-   "summary": "Deutsche Gasspeicher sind nur zu 56 Prozent gefüllt - viel weniger als im Vorjahr. Jetzt greift Wirtschaftsministerin Reiche ein - einen staatlichen Gaseinkauf soll es nicht geben.",
-   "link": "https://www.zdfheute.de/wirtschaft/reiche-gasspeicher-energie-sicherheit-long-term-options-100.html",
-   "published": "2026-09-16T06:49:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Debatte über Spritpreis-Entlastungen: Reiche gegen Preisdeckel und Übergewinnsteuer",
-   "summary": "Die Spritpreise steigen und steigen, deshalb hat Kanzler Merz Entlastungen angekündigt. Wie die aussehen könnten, darüber wird heftig diskutiert. Preisdeckel und Übergewinnsteuer hält das Wirtschaftsministerium beispielsweise für…",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diskussion-entlastungen-hohe-spritpreise-100.html",
-   "published": "2026-09-16T06:47:23+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zahnärzte in Schleswig-Holstein: Interne Unterlagen zeigen: Immobilienquote beim Versorgungswerk ist womöglich höher als ausgewiesen",
-   "summary": "Das Versorgungswerk aus Kiel war mit Abschreibungen auf ein Immobilienprojekt in die Schlagzeilen geraten. Interne Unterlagen zeigen: Immobilieninvestments sind wohl weiter ein Risiko.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-investments-der-zahnaerzte-schleswig-holstein-wohl-mit-hohem-risiko/100254645.html",
-   "published": "2026-09-16T06:37:46+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Nvidia-Chef lehnt langsamere KI-Entwicklung und neue Regeln ab",
-   "summary": "Mark Zuckerberg mischt sich in KI-Streit ein +++ DeepL rüstet Sprach-KI auf +++ SpaceX gewinnt ersten Kunden für Rücktransport aus dem All +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-nvidia-chef-huang-lehnt-langsamere-ki-entwicklung-und-neue-regeln-ab-faz-200452404.html",
-   "published": "2026-09-16T06:33:21+00:00",
    "first_seen": "2026-09-16T07:05:04.544626+00:00",
    "paywall": true
   }
