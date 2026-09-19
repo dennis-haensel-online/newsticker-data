@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-19T03:03:50.392027+00:00",
+ "updated": "2026-09-19T04:04:11.073339+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
+   "summary": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula Mayer.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
+   "published": "2026-09-19T03:09:49+00:00",
+   "first_seen": "2026-09-19T04:04:11.073339+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -890,15 +899,6 @@
    "summary": "In diesem Jahr kostet die Maß Bier auf der Wiesn 15,61 Euro. Seit 1985 ist der Preis damit mehr als dreimal so stark gestiegen wie die Verbraucherpreise insgesamt.",
    "link": "https://www.zeit.de/wirtschaft/2026-09/bierpreis-oktoberfest-mass-bier-inflation-gxe",
    "published": "2026-09-16T12:44:46+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Zwischen Erholung und Dauerkrise: Wo steht Österreichs Wirtschaft wirklich?",
-   "summary": "Als einziges EU-Land schrumpfte Österreichs Wirtschaft zuletzt. Die Bauaufträge stagnieren, ein Autozulieferer meldete Insolvenz. Ein Experte und Branchenvertreter ordnen ein.",
-   "link": "https://www.handelsblatt.com/politik/international/konjunktur-erholung-oder-dauerkrise-wo-steht-oesterreichs-wirtschaft/100253682.html",
-   "published": "2026-09-16T12:26:18+00:00",
    "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": true
   }
