@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T06:05:00.656820+00:00",
+ "updated": "2026-09-19T07:03:44.807745+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -27,6 +27,33 @@
    "published": "2026-09-19T07:14:00+00:00",
    "first_seen": "2026-09-18T08:04:13.474811+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Bund und Länder einigen sich: Habemus neuen Tankrabatt",
+   "summary": "Die Bundesregierung vereinbart mit den Ländern ein neues Paket für Entlastungen bei den hohen Spritreisen. Opposition kritisiert das als Gießkannenlösung. mehr...",
+   "link": "https://taz.de/Bund-und-Laender-einigen-sich-auf-neuen-Tankrabatt/!6214649/",
+   "published": "2026-09-19T06:51:00+00:00",
+   "first_seen": "2026-09-19T07:03:44.807745+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Plus: Eine Hysterie namens CDU",
+   "summary": "Der Kanzler hat ohne Zweifel viele Fehler gemacht, seine Umfragewerte sind miserabel. Was aber ist mit der Verantwortung der vielen anderen in der CDU? Was tun sie, um die Partei zu retten?",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-eine-hysterie-namens-cdu/100245246.html",
+   "published": "2026-09-19T06:42:02+00:00",
+   "first_seen": "2026-09-19T07:03:44.807745+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Einigung USA-Dänemark: Trump bekommt einen Grönland-Deal",
+   "summary": "Ein neues Abkommen sichert den USA eine dauerhafte Militärpräsenz auf Grönland. Doch die Darstellungen dazu klingen unterschiedlich. mehr...",
+   "link": "https://taz.de/Einigung-USA-Daenemark/!6214648/",
+   "published": "2026-09-19T06:33:00+00:00",
+   "first_seen": "2026-09-19T07:03:44.807745+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -13471,33 +13498,6 @@
    "summary": "Bundestrainer Jürgen Klopp nominiert am 17. September seinen ersten Kader. Erste Kandidaten und eine prominente Streichung werden in den Medien spekuliert. Ein Überblick.",
    "link": "https://www.zdfheute.de/sport/fussball-klopp-kader-kandidaten-spekulationen-100.html",
    "published": "2026-09-15T16:25:41+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Höhle der Löwen: Frank Thelen nannte es einen Fail, doch das Start-up bleibt dran",
-   "summary": "Das Gründerduo von Plümo-Baum will die Schlafhygiene verbessern. Die Löwen urteilten hart über Konzept und Produkte. Wie ging es nach der Aufzeichnung weiter?",
-   "link": "https://www.wiwo.de/erfolg/gruender/hoehle-der-loewen-was-aus-pluemo-baum-nach-dem-tv-aus-wurde/100254395.html",
-   "published": "2026-09-15T16:24:00+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "IAA in Hannover: China will den E-Truck-Markt erobern",
-   "summary": "Strombetriebene Lastwagen werden immer günstiger. Auf dem EU-Nutzfahrzeugmarkt startet deshalb gerade die Verkehrswende. Aber woher kommen die Lkws? mehr...",
-   "link": "https://taz.de/IAA-in-Hannover/!6213295/",
-   "published": "2026-09-15T16:19:00+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Ölkrise durch Irankrieg: Merz will Autofahrer entlasten",
-   "summary": "Wegen der hohen Spritpreise verspricht der Kanzler Entlastungen. Eine Übergewinnsteuer oder eine Wiederbelebung des 9-Euro-Tickets lehnt die CDU ab. mehr...",
-   "link": "https://taz.de/Oelkrise-durch-Irankrieg/!6213463/",
-   "published": "2026-09-15T16:18:00+00:00",
    "first_seen": "2026-09-15T17:03:49.460729+00:00",
    "paywall": false
   }
