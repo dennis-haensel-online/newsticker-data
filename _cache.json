@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T07:03:44.807745+00:00",
+ "updated": "2026-09-19T08:04:24.518667+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -20,6 +20,105 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Ratingagentur: Moody's hebt Griechenland an und senkt Polens Bonitätsnote",
+   "summary": "Die Ratingagentur Moody's blickt optimistischer auf die Kreditwürdigkeit Griechenlands. Polens Bonitätsnote sinkt einer anhaltenden Verschlechterung der Haushaltslage von „A2“ auf „A3“.",
+   "link": "https://www.handelsblatt.com/politik/international/ratingagentur-moodys-hebt-griechenland-an-und-senkt-polens-bonitaetsnote/100255812.html",
+   "published": "2026-09-19T07:53:29+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Wahlkampf in Mecklenburg-Vorpommern: SPD feiert Schwesig ab, CDU blickt in den Abgrund",
+   "summary": "Kurz vor der Wahl in Mecklenburg-Vorpommern karren noch mal fast alle Parteien Spitzenpolitiker aus Bund und Ländern heran. Nur bei der CDU ist Totentanz. mehr...",
+   "link": "https://taz.de/Wahlkampf-in-Mecklenburg-Vorpommern/!6214337/",
+   "published": "2026-09-19T07:53:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ermittlungen: Durchsuchung bei Mitarbeiter von AfD-Spitzenkandidatin",
+   "summary": "Wenige Tage vor der Wahl in Berlin rückt die Polizei bei einem AfD-Mitarbeiter an. Es geht um illegale Waffen. Die werden nicht gefunden – aber andere Sachen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/ermittlungen-durchsuchung-bei-mitarbeiter-von-afd-spitzenkandidatin/100255811.html",
+   "published": "2026-09-19T07:46:45+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Unternehmen: Accenture und Anthropic investieren Milliarden in KI-Sicherheit wegen Sicherheitsbedenken",
+   "summary": "Die beiden Firmen möchten bei der unabhängigen Überprüfung von Modellen der künstlichen Intelligenz zusammenarbeiten, weil KI-Entwickler zunehmend unter Druck von Aufsichtsbehörden stehen.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-unternehmen-accenture-und-anthropic-investieren-milliarden-in-ki-sicherheit-wegen-sicherheitsbedenken/100255810.html",
+   "published": "2026-09-19T07:42:27+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Asylrechtsreform – Mehrheit kommt jetzt ins Schnellverfahren",
+   "summary": "Die neuen EU-Asylregeln bringen beschleunigte Verfahren für viele Antragsteller. Wer abgelehnt wird und dagegen klagt, kann schon abgeschoben werden, bevor das Gericht entschieden hat.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/migration-asylrechtsreform-mehrheit-kommt-jetzt-ins-schnellverfahren/100255809.html",
+   "published": "2026-09-19T07:36:10+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Was Sie zur Wahl in Mecklenburg-Vorpommern wissen sollten",
+   "summary": "In Mecklenburg-Vorpommern wird am Sonntag ein neuer Landtag gewählt. Wer sind die Kandidaten, wie stehen die Umfragen und Wichtiges zur Stimmabgabe - ein Überblick.",
+   "link": "https://www.zdfheute.de/politik/deutschland/faq-wahl-mecklenburg-vorpommern-100.html",
+   "published": "2026-09-19T07:34:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Das sollten Sie zur Berlin-Wahl wissen",
+   "summary": "Am Sonntag wählt Berlin ein neues Abgeordnetenhaus. Laut Umfrage konkurrieren Linke und CDU um Platz eins. Was zu Kandidaten, Parteien, Briefwahl und Wahl ab 16 wichtig ist.",
+   "link": "https://www.zdfheute.de/politik/deutschland/wahl-berlin-abgeordnetenhaus-faq-100.html",
+   "published": "2026-09-19T07:30:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Grönland-Abkommen: Was zur Einigung bekannt ist",
+   "summary": "US-Präsident Trump verkündet weitreichende Befugnisse, Grönland und Dänemark betonen die Souveränität der Arktisinsel. Was zu dem Abkommen bislang bekannt ist.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-usa-daenemark-groenland-abkommen-faq-100.html",
+   "published": "2026-09-19T07:28:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Südkorea sagt USA Unterstützung bei Sicherung der Straße von Hormus zu",
+   "summary": "Italien geleitet Handelsschiff mit Fregatte durch Meerenge ins Rote Meer +++ Pakistan schickt offenbar mehr militärisches Gerät nach Saudi-Arabien +++ Iran mobilisiert Tausende Freiwillige für Militär-Parade +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-suedkorea-sagt-usa-unterstuetzung-bei-sicherung-der-strasse-von-hormus-zu/100136895.html",
+   "published": "2026-09-19T07:25:49+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Presse im Weißen Haus: Trump erteilt CNN und anderen US-Medien Hausverbot",
+   "summary": "Wenige Wochen vor den wichtigen Kongresswahlen wirft der US-Präsident CNN und andere Medien aus dem Weißen Haus. Es trifft auch Springers „Politico“. mehr...",
+   "link": "https://taz.de/Presse-im-Weissen-Haus/!6214651/",
+   "published": "2026-09-19T07:24:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Madagaskar is calling: Am anderen Ende der Leitung",
+   "summary": "Wer in Frankreich ein Callcenter anruft, spricht oft mit jungen Uni-Absol­vent:in­nen auf Madagaskar – für sie die Chance, einigermaßen zu verdienen. mehr...",
+   "link": "https://taz.de/Madagaskar-is-calling/!6197704/",
+   "published": "2026-09-19T07:16:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
    "label": "WiWo",
    "title": "Immobilien: Welche Städte Vermieter ausbremsen, welche sie unterstützen",
    "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt es sich noch, Immobilien zu vermieten?",
@@ -27,6 +126,87 @@
    "published": "2026-09-19T07:14:00+00:00",
    "first_seen": "2026-09-18T08:04:13.474811+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Die Wahrheit: Volxfest Wiesn mit Dosenbier",
+   "summary": "Das Oktoberfest wird dieses Jahr von einem schwulen grünen OB eröffnet. Deutschland ist final in die Hände von Linksversifften gefallen. mehr...",
+   "link": "https://taz.de/Die-Wahrheit/!6208289/",
+   "published": "2026-09-19T07:14:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Wirtschaft von oben: Saudische Pipeline war durch Anti-Drohnen-Netze geschützt",
+   "summary": "Neue Satellitenbilder zeigen die Spuren eines Drohnenangriffs auf Saudi-Arabiens wichtigste Ölpipeline – trotz sichtbarer Schutzmaßnahmen.",
+   "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/wirtschaft-von-oben-422-ost-west-pipeline-saudische-pipeline-war-durch-anti-drohnen-netze-geschuetzt/100255632.html",
+   "published": "2026-09-19T07:10:16+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Auch Googles KI Gemini führte Cyberattacken durch",
+   "summary": "Nach OpenAI, Anthropic und Meta meldet nun auch Google, dass die hauseigene KI Gemini andere Unternehmen gehackt hat.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/google-ki-gemini-cyberattacke-100.html",
+   "published": "2026-09-19T07:10:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "WiWo History: Monstermäßiger Erfolg",
+   "summary": "Mehr als 100 Milliarden Dollar Umsatz haben die japanischen Monster in den letzten 30 Jahren ­generiert. Dabei wäre Pokémon fast nie im Westen erschienen.",
+   "link": "https://www.wiwo.de/unternehmen/handel/pokemon-japanisches-unternehmen-macht-milliarden/100246482.html",
+   "published": "2026-09-19T07:09:51+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Mecklenburg-Vorpommern: Woidke. Söder. Schwesig!",
+   "summary": "SPD-Ministerpräsidentin Manuela Schwesig könnte die AfD am Sonntag noch abfangen. Weil sie sich von zwei anderen Ministerpräsidenten einiges abgeschaut hat.",
+   "link": "https://www.wiwo.de/politik/deutschland/landtagswahl-mv-wie-manuela-schwesig-die-afd-stoppen-will/100255655.html",
+   "published": "2026-09-19T07:08:46+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Leben mit Aktien: Wie die bekannteste Suppenaktie zur Dividendenfalle wurde",
+   "summary": "Die Aktie des Lebensmittelriesen The Campbell’s Company gilt als defensiver Klassiker mit stabiler Ausschüttung. Damit ist es allerdings nicht mehr weit her.",
+   "link": "https://www.wiwo.de/finanzen/boerse/leben-mit-aktien-wie-die-bekannteste-suppenaktie-zur-dividendenfalle-wurde/100254732.html",
+   "published": "2026-09-19T07:07:58+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Gamechanger: Wärme, Kühlung, Strom – kommt alles aus dem Dach",
+   "summary": "Ideen, die unsere Welt ver­ändern und verbessern. Wir stellen sie vor. Diesmal: ein hybrides Energiesystem für Gebäude.",
+   "link": "https://www.wiwo.de/technologie/forschung/hybrides-energiesystem-strom-waerme-und-kuehlung-aus-einem-dach/100250131.html",
+   "published": "2026-09-19T07:07:41+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Immobilienstandort Berlin: Enteignung! Ein Worst-Case-Szenario",
+   "summary": "Die Linke gewinnt. Rot-Grün-Rot kommt. Die Enteignung privater Immobilienunternehmen nimmt ihren Lauf. Was würde dann passieren? Ein hypothetisches Szenario in fünf Akten.",
+   "link": "https://www.wiwo.de/politik/deutschland/immobilien-in-berlin-enteignungs-szenario-durch-linke/100255323.html",
+   "published": "2026-09-19T07:04:59+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "CDU und Fetischkultur: Ganz in Schwarz",
+   "summary": "Berlin ist links, heißt es. Dabei könnten die Konservativen die Abgeordnetenhauswahl wieder gewinnen. Wer sie wählt? Ein Besuch beim Fetisch-Festival. mehr...",
+   "link": "https://taz.de/CDU-und-Fetischkultur/!6208288/",
+   "published": "2026-09-19T07:03:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -13319,186 +13499,6 @@
    "link": "https://taz.de/Krieg-in-der-Ukraine/!6212635/",
    "published": "2026-09-15T17:48:00+00:00",
    "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Schule in der Ukraine: Schulstart in Irpin mit KI und Schutzraum",
-   "summary": "An dem technologisch ausgerichteten Lyzeum bei Kyjiw beginnt das vierte Schuljahr im Krieg. Durch die Luftangriffe hat sich das Lernen digital versiert. mehr...",
-   "link": "https://taz.de/Schule-in-der-Ukraine/!6213130/",
-   "published": "2026-09-15T17:47:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "China und künstliche Intelligenz: Keine Macht für niemand",
-   "summary": "China versucht, sich gegen die US-Tech-Szene zu inszenieren. Aber das ist eine Show, der man nicht glauben sollte. mehr...",
-   "link": "https://taz.de/China-und-kuenstliche-Intelligenz/!6213255/",
-   "published": "2026-09-15T17:46:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Nach der Landtagswahl in Sachsen-Anhalt: Die Zivilgesellschaft bereitet sich auf die AfD vor",
-   "summary": "Die AfD hatte ihr Wahlprogramm mit Versprechen gegen Mi­gran­t:in­nen und Zivilgesellschaft gefüllt. Die wappnen sich nun mit Recht und Solidarität. mehr...",
-   "link": "https://taz.de/Nach-der-Landtagswahl-in-Sachsen-Anhalt/!6213459/",
-   "published": "2026-09-15T17:46:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Steigende Benzinpreise: Findet endlich den passenden Deckel!",
-   "summary": "Der Kanzler kündigt Entlastungen für die Ver­brau­che­r:in­nen an der Zapfsäule an. Bisher konnte die Regierung sich zu keinen Maßnahmen durchringen. mehr...",
-   "link": "https://taz.de/Steigende-Benzinpreise/!6208222/",
-   "published": "2026-09-15T17:45:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "New York: Merz sagt Reise zur UN-Generaldebatte ab",
-   "summary": "Merz steht innenpolitisch massiv unter Druck. Das ist offensichtlich der Grund, warum er einen wichtigen Auslandstermin absagt.",
-   "link": "https://www.wiwo.de/politik/deutschland/new-york-merz-sagt-reise-zur-un-generaldebatte-ab/100254815.html",
-   "published": "2026-09-15T17:42:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Grüner Schwerlastverkehr: Wasserstoffallianz gegen Tankstellenmangel",
-   "summary": "Acht Unternehmen wollen den Aufbau einer Wasserstoffinfrastruktur im Schwerlastverkehr beschleunigen. Daimler Truck geht dabei voran und wird eine Kleinserie von 100 Brennstoffzellen-Lastwagen bei Kunden erproben.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/daimler-truck-wasserstoff-allianz-fuer-schwerlastverkehr-201228193.html",
-   "published": "2026-09-15T17:35:23+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "154 Standorte gerettet: Große Umverteilung in der Hotellerie nach Revo-Aus",
-   "summary": "154 von 178 insolventen Hotels der Revo-Gruppe bekommen eine Zukunft – unter diversen neuen Betreibern. Zwei ausländische Hotelkonzerne nutzen das Revo-Aus als Chance, in Deutschland Fuß zu fassen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/revo-hospitality-insolvenz-zukunft-fuer-154-hotels-201228587.html",
-   "published": "2026-09-15T17:27:47+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kanzler-Krise: Merz sagt Reise zur UN-Generaldebatte nach New York ab",
-   "summary": "Merz steht innenpolitisch massiv unter Druck. Das ist offensichtlich der Grund, warum er einen wichtigen Auslandstermin absagt.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/kanzler-krise-merz-sagt-reise-zur-un-generaldebatte-nach-new-york-ab/100254817.html",
-   "published": "2026-09-15T17:16:55+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "US‑Treasuries: Rendite der zehnjährigen Papiere steigt auf höchsten Stand seit 2007",
-   "summary": "Energiepreise und Inflation steigen in den USA. Das sorgt für eine Entwertung der US‑Staatsanleihen.",
-   "link": "https://www.wiwo.de/finanzen/boerse/ustreasuries-rendite-der-zehnjaehrigen-papiere-steigt-auf-hoechsten-stand-seit-2007/100254590.html",
-   "published": "2026-09-15T17:15:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Toll! Pisa-Schock 2",
-   "summary": "Auweia, werden wir Deutschen immer doofer? Die Ergebnisse der neuen Bildungsstudie sind grottenschlecht. Hat Bildungsministerin Karin Prien den richtigen Plan? Die \"frontal\"-Experten prüfen.",
-   "link": "https://www.zdf.de/video/magazine/frontal-toll-satire-von-doye-und-wiemers-100/satire-toll-pisa-schock-2-102",
-   "published": "2026-09-15T17:09:00+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Deutsche Nachhaltigkeit AG: 50 Millionen und 1400 Anleger – das Risiko für Vermittler der Deutschen Nachhaltigkeit",
-   "summary": "Die DN Group wirbt mit nachhaltigen Investments: zehn Prozent im Jahr garantiert. Doch das Vertriebsmodell der Anleihen wirft Fragen auf.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/deutsche-nachhaltigkeit-ag-50-millionen-und-1400-anleger-das-risiko-fuer-vermittler-der-deutschen-nachhaltigkeit/100252055.html",
-   "published": "2026-09-15T17:07:01+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
-   "summary": "Siebenstellige Mehrkosten verursacht die Umrundung Afrikas. Am Ende bezahlen das die Kunden. Doch die Preiserhöhungen liegen im Cent-Bereich, sagt Reederei-Experte Kröger. Er blickt gelassen auf die Lage: Schiffe fänden fast immer einen…",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
-   "published": "2026-09-15T17:05:36+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Cash Only - Steuerbetrug in der Gastronomie",
-   "summary": "Nur Bargeld - da horchen Steuerfahnder auf. Auffällige Kassenbelege, seltene Kontrollen und unverhohlene Drohungen: \"frontal inside\" blickt hinter die Recherche.",
-   "link": "https://www.zdfheute.de/video/frontal/gastrobetrug-frontal-inside-102.html",
-   "published": "2026-09-15T17:00:00+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Fashion Week: Modechef nach Gerangel mit Tierschutz-Aktivisten beurlaubt",
-   "summary": "Tierschutz-Aktivisten kapern bei der New York Fashion Week einen Laufsteg – da greift der Chef des mitveranstaltenden Modeverbands persönlich ein. Das hat jetzt Folgen.",
-   "link": "https://www.handelsblatt.com/arts_und_style/lifestyle/fashion-week-modechef-nach-gerangel-mit-tierschutz-aktivisten-beurlaubt/100254810.html",
-   "published": "2026-09-15T16:58:12+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Ökonom Gabriel Felbermayr: „Der Sparstift sollte in staatsnahen Bereichen so heftig eingesetzt werden wie bei anderen“",
-   "summary": "Der Ökonom Gabriel Felbermayr ist vom Verein für Socialpolitik mit dem Gustav-Stolper-Preis ausgezeichnet worden. Im Gespräch erklärt er, warum es für mehr Reformwillen weniger Beamte und eine bessere Sozialpolitik brauche.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/gabriel-felbermayr-sparstift-in-staatsnahen-bereichen-noetig-201227413.html",
-   "published": "2026-09-15T16:57:31+00:00",
-   "first_seen": "2026-09-15T18:04:15.281378+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Wie blockierte Seewege den weltweiten Handel gefährden",
-   "summary": "Die Huthi-Miliz blockiert die Meerenge von Bab al-Mandab - und damit die kürzeste Route von Asien nach Europa. Das bedeutet teure Umwege. Wie gefährdet sind Schifffahrtsrouten und globale Lieferketten? Von Marcus Pfeiffer.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
-   "published": "2026-09-15T16:56:26+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Russland schießt Leuchtraketen auf dänischen Helikopter",
-   "summary": "Russland hat offenbar mit Leuchtraketen auf einen dänischen Helikopter geschossen. Beide Seiten geben sich die Schuld für den Vorfall. Ein Botschafter wurde einbestellt.",
-   "link": "https://www.zdfheute.de/politik/ausland/daenemark-russland-beschuss-hubschrauber-100.html",
-   "published": "2026-09-15T16:53:00+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Abwarten vor dem Zinsentscheid – US‑Börsen öffnen unverändert",
-   "summary": "Am Dienstag halten sich die Anleger zurück. Die Tech-Titel knüpfen nicht an die Verluste des Vortages an. Die Renditen der Staatsanleihen kennen derweil nur eine Richtung: nach oben.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-usboersen-notieren-vor-zinsentscheid-deutlich-im-minus/100254723.html",
-   "published": "2026-09-15T16:43:22+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Urteil mit Symbolcharakter in Guatemala: Freiheit für indigene Aktivisten",
-   "summary": "16 Monaten saßen vier Aktivisten in Guatemala in Untersuchungshaft. Nun sind sie frei und ihr Fall könnte wegweisend für politische Gefangene sein. mehr...",
-   "link": "https://taz.de/Urteil-mit-Symbolcharakter-in-Guatemala/!6213322/",
-   "published": "2026-09-15T16:39:00+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Klopps erster DFB-Kader: Erste Namen scheinen fix",
-   "summary": "Bundestrainer Jürgen Klopp nominiert am 17. September seinen ersten Kader. Erste Kandidaten und eine prominente Streichung werden in den Medien spekuliert. Ein Überblick.",
-   "link": "https://www.zdfheute.de/sport/fussball-klopp-kader-kandidaten-spekulationen-100.html",
-   "published": "2026-09-15T16:25:41+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
    "paywall": false
   }
  ]

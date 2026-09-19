@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-19T07:03:44.807745+00:00",
+ "updated": "2026-09-19T08:04:24.518667+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Unternehmen: Accenture und Anthropic investieren Milliarden in KI-Sicherheit wegen Sicherheitsbedenken",
+   "summary": "Die beiden Firmen möchten bei der unabhängigen Überprüfung von Modellen der künstlichen Intelligenz zusammenarbeiten, weil KI-Entwickler zunehmend unter Druck von Aufsichtsbehörden stehen.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-unternehmen-accenture-und-anthropic-investieren-milliarden-in-ki-sicherheit-wegen-sicherheitsbedenken/100255810.html",
+   "published": "2026-09-19T07:42:27+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Auch Googles KI Gemini führte Cyberattacken durch",
+   "summary": "Nach OpenAI, Anthropic und Meta meldet nun auch Google, dass die hauseigene KI Gemini andere Unternehmen gehackt hat.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/google-ki-gemini-cyberattacke-100.html",
+   "published": "2026-09-19T07:10:00+00:00",
+   "first_seen": "2026-09-19T08:04:24.518667+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Führung: „Die Leute müssen das Gefühl haben, blöd sein zu dürfen“",
@@ -882,24 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/nvidia-ceo-huang-und-donald-trump-jeder-hat-sein-ki-interesse-201231923.html",
    "published": "2026-09-16T12:08:37+00:00",
    "first_seen": "2026-09-16T13:05:37.721823+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Desinformation: „Frequenz der Aktivitäten weiter erhöht“: Verfassungsschutz sieht Merz verstärkt im Visier Russlands",
-   "summary": "Russland verstärkt laut Verfassungsschutz seine Desinformationskampagnen gegen Kanzler Friedrich Merz. Der Zeitpunkt ist heikel: In wenigen Tagen stehen zwei wichtige Wahlen an.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/desinformation-verfassungsschutz-warnt-vor-anti-merz-kampagne-aus-russland/100254765.html",
-   "published": "2026-09-16T10:15:18+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: China warnt vor militärischem Missbrauch von KI",
-   "summary": "Kurz vor dem Gipfeltreffen in Washington fordert Peking internationale KI-Regeln. Verteidigungsminister Jun verweist auf das Risiko, Streitkräfte könnten die Technologie missbrauchen.",
-   "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-china-warnt-vor-militaerischem-missbrauch-von-ki/100254882.html",
-   "published": "2026-09-16T10:11:15+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
    "paywall": true
   }
  ]
