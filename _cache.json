@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T11:03:48.667947+00:00",
+ "updated": "2026-09-19T12:04:43.498374+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,105 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Porsche: Personalabbau könnte drastischer ausfallen – weitere 4000 Jobs bedroht",
+   "summary": "Der Personalabbau bei Porsche könnte drastischer ausfallen als bekannt. Laut einem Zeitungsbericht steht in einer Aufsichtratsvorlage für den Mutterkonzern VW die Streichung von weiteren 4000 weiteren Jobs.",
+   "link": "https://www.spiegel.de/wirtschaft/porsche-personalabbau-koennte-drastischer-ausfallen-weitere-4000-jobs-bedroht-a-8d3666e5-11e0-41f7-b799-7a14f6830353#ref=rss",
+   "published": "2026-09-19T11:52:00+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kanzlerkrise: Mahnung zur Geschlossenheit der CDU vor Landtagswahlen",
+   "summary": "Kanzler Merz steht an diesem Sonntag in Mecklenburg-Vorpommern und Berlin zwar nicht zur Wahl. Aber der Ausgang ist für seine Zukunft wichtig. Unmittelbar davor bekommt der CDU-Chef Schützenhilfe.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/kanzlerkrise-mahnung-zur-geschlossenheit-der-cdu-vor-landtagswahlen/100255828.html",
+   "published": "2026-09-19T11:43:10+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Mecklenburg-Vorpommern: Kremlbeauftragter Dmitrijew wirbt vor Wahl für die AfD",
+   "summary": "Kirill Dmitrijew, Berater des russischen Präsidenten, stellt der AfD vor der Wahl in Mecklenburg-Vorpommern günstiges Gas in Aussicht.",
+   "link": "https://www.wiwo.de/politik/deutschland/mecklenburg-vorpommern-kremlbeauftragter-dmitrijew-wirbt-vor-wahl-fuer-die-afd/100255824.html",
+   "published": "2026-09-19T11:40:31+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Meckel&Matthes: Die Krise der CDU, eine Schicksalswahl für den Kanzler und Kontrollverlust bei KI",
+   "summary": "",
+   "link": "https://www.handelsblatt.com/video/pool/die-krise-der-cdu-eine-schicksalswahl-fuer-den-kanzler-und-kontrollverlust-bei-ki/100255819.html",
+   "published": "2026-09-19T11:26:30+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Reform der Pflege: Der Pflegesoli ist der falsche Weg",
+   "summary": "Der Überschuss in der privaten Pflegeversicherung ist Folge eines anderen Finanzierungsmodells. Er kann nicht einfach so umverteilt werden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/pflegereform-der-pflegesoli-ist-der-falsche-weg-accg-201228201.html",
+   "published": "2026-09-19T11:26:09+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Benzinpreise: Das Gute am Übergewinn",
+   "summary": "Kaum etwas ärgert die Wähler so sehr wie der hohe Profit der Ölkonzerne in der Krise. Fachleute denken da ganz anders. Warum hohe Gewinne der Gesellschaft nützen können.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/uebergewinnsteuer-was-lars-klingbeil-bei-oelkonzernen-plant-accg-201236587.html",
+   "published": "2026-09-19T11:25:04+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Studi-Mieten in Großstädten: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
+   "summary": "Deutschlandweit bleiben die Zimmer-Mieten zuletzt stabil, in den Millionenstädten aber ziehen sie an. Die Hauptstadt ist dabei nicht am teuersten. mehr...",
+   "link": "https://taz.de/Studi-Mieten-in-Grossstaedten/!6214660/",
+   "published": "2026-09-19T11:24:00+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
+   "summary": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen. mehr...",
+   "link": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
+   "published": "2026-09-19T11:21:00+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Tata: Führungschaos in Indiens größtem Konzern",
+   "summary": "Die Tata-Gruppe, zu der Autohersteller wie Land Rover, IT-Berater und Teemarken gehören, muss gegen ihren Willen an die Börse. Nun soll auch noch der Chef weitermachen, der gerade erst seinen Abschied angekündigt hatte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tata-sons-fuehrungschaos-beim-groessten-konzern-indiens-accg-201240085.html",
+   "published": "2026-09-19T11:20:31+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Volkswagen-Tochter: Abbau von 4100 weiteren Stellen bei Porsche möglich",
+   "summary": "Beim Sportwagenhersteller stehen weitere Arbeitsplätze auf der Streichliste – zusätzlich zu bisherigen Vereinbarungen. Dem Mutterkonzern fehlen 700 Millionen Euro.",
+   "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-tochter-abbau-von-4100-weiteren-stellen-bei-porsche-moeglich/100255822.html",
+   "published": "2026-09-19T11:18:43+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einigung auf Paket: Entlastung bei Spritpreisen - wie geht es jetzt weiter?",
+   "summary": "Tankrabatt und Spritpreisdeckel: Wie schnell kommen die Entlastungen für Autofahrer und Unternehmen? Und wer profitiert am stärksten?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/einigung-auf-paket-entlastung-bei-spritpreisen-wie-geht-es-jetzt-weiter/100255825.html",
+   "published": "2026-09-19T11:14:58+00:00",
+   "first_seen": "2026-09-19T12:04:43.498374+00:00",
    "paywall": true
   },
   {
@@ -13400,105 +13499,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-allianz-kuendigt-kooperation-mit-robotaxi-anbieter-waymo-an/100254319.html",
    "published": "2026-09-16T02:11:22+00:00",
    "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Wirtschaftsministerium hält Preisdeckel und Übergewinnsteuer für »problematisch«",
-   "summary": "Tanken wird immer teurer. Die SPD schlägt einen Preisdeckel vor und eine sogenannte Übergewinnsteuer für Ölkonzerne. Das Wirtschaftsministerium verfolgt eine andere Idee.",
-   "link": "https://www.spiegel.de/wirtschaft/wirtschaftsministerium-haelt-preisdeckel-und-uebergewinnsteuer-fuer-problematisch-a-77a6bcb1-7b33-4143-8687-4f2608e03098#ref=rss",
-   "published": "2026-09-16T02:07:00+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Spritpreise: Wirtschaftsministerium hält Preisdeckel und Übergewinnsteuer für »problematisch«",
-   "summary": "Tanken wird immer teurer. Die SPD schlägt einen Preisdeckel vor und eine sogenannte Übergewinnsteuer für Ölkonzerne. Das Wirtschaftsministerium verfolgt eine andere Idee.",
-   "link": "https://www.spiegel.de/wirtschaft/spritpreise-wirtschaftsministerium-haelt-preisdeckel-und-uebergewinnsteuer-fuer-problematisch-a-77a6bcb1-7b33-4143-8687-4f2608e03098#ref=rss",
-   "published": "2026-09-16T02:07:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zinsen: Japanische Geldpolitik macht Yen-Kurs zum Risiko für die USA",
-   "summary": "US-Finanzminister Scott Bessent drängt die Bank of Japan zu einer Zinserhöhung. So will er den Druck auf US-Anleihezinsen senken. Doch auch wenn die BoJ ihm folgen dürfte, bleibt sein Problem.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/zinserhoehungen-in-japan-bringen-yen-an-den-kipp-punkt/100253841.html",
-   "published": "2026-09-16T02:06:18+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuerberatung: Investments in Steuer-Start-ups: Reid Hoffman und Christian Lindner entdecken die Steuerbranche",
-   "summary": "Berliner Taxtech-Unternehmen sammeln Millionen ein, um die Buchhaltung von KI-Agenten erledigen zu lassen. Investoren wetten darauf, dass KI den Fachkräftemangel der Branche beseitigen kann.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/start-ups-reid-hoffman-und-christian-lindner-entdecken-die-steuerbranche/100254430.html",
-   "published": "2026-09-16T02:04:03+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zinsen: Wie weit geht die Fed mit ihrem Zinsentscheid nach dem Rendite-Anstieg?",
-   "summary": "Die Zinspolitik der US-Notenbank zwingt Anleger zu einer neuen Debatte. Einige Zinserhöhungen könnten die Aktienmärkte verkraften, sagt DWS-Experte Gärtner. Dann könnte es schwieriger werden.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/zinsen-wie-weit-geht-die-fed-beim-zinsentscheid-nach-dem-renditeanstieg/100254408.html",
-   "published": "2026-09-16T02:02:49+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Luftwaffe: F-35 – dieses Flugzeug spaltet die deutsche Rüstungsindustrie",
-   "summary": "Die deutsche Luftwaffe bekommt ihren ersten Tarnkappenjet aus den USA – weitere könnten folgen. Das hätte erhebliche Auswirkungen auf die deutsche Industrie.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/luftwaffe-f-35-dieses-flugzeug-spaltet-die-deutsche-ruestungsindustrie/100252806.html",
-   "published": "2026-09-16T02:01:12+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Hauptsitz von den USA nach Deutschland",
-   "summary": "Während Firmen vermehrt in die USA abwandern, wandelt Langdock seine US-Mutterfirma in eine europäische SE um. Man wolle Europa „vollends souveräne“ Rechenleistung anbieten, sagen die Chefs.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-langdock-verlegt-hauptsitz-von-den-usa-nach-deutschland/100254184.html",
-   "published": "2026-09-16T01:57:56+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mehr als 100 Menschen getötet: Lateinamerika bleibt gefährlichste Region für Umweltschützer",
-   "summary": "Wer die Natur verteidigt, lebt in Teilen Lateinamerikas gefährlich. Zwar sinkt die weltweite Zahl der getöteten Umweltschützer - in Brasilien hat sie sich aber binnen eines Jahres mehr als verdoppelt.",
-   "link": "https://www.handelsblatt.com/politik/international/mehr-als-100-menschen-getoetet-lateinamerika-bleibt-gefaehrlichste-region-fuer-umweltschuetzer/100254842.html",
-   "published": "2026-09-16T01:42:39+00:00",
-   "first_seen": "2026-09-16T02:04:16.563757+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Deutschland und USA wollen Kooperation bei Rüstung ausbauen",
-   "summary": "Pistorius und sein US-Amtskollege haben in Washington eine Rüstungsvereinbarung unterzeichnet. Der \"Kriegsminister\" ist zudem voll des Lobes für Deutschlands Kurs in der Nato.",
-   "link": "https://www.zdfheute.de/politik/deutschland/pistorius-hegseth-ruestungsvereinbarung-100.html",
-   "published": "2026-09-16T01:10:00+00:00",
-   "first_seen": "2026-09-16T03:04:02.491635+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Kongress: Iran-Krieg kostet die USA bereits 38 Milliarden Dollar",
-   "summary": "Nach Berechnungen des US-Haushaltsbüros könnte jeder weitere Kriegsmonat bis zu drei Milliarden Dollar kosten. Zugleich treibt der Konflikt die Inflation und belastet die Raketenbestände.",
-   "link": "https://www.handelsblatt.com/politik/international/us-kongress-iran-krieg-kostet-die-usa-bereits-38-milliarden-dollar/100254832.html",
-   "published": "2026-09-15T23:35:30+00:00",
-   "first_seen": "2026-09-16T00:05:05.546563+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Gasspeicher: Bundesregierung spricht wegen Gasspeichern mit Staatsunternehmen",
-   "summary": "Die Gasspeicher haben ungewöhnlich niedrige Füllstände. Berichten zufolge hat Katherina Reiche die staatlichen Unternehmen Sefe und Uniper um Unterstützung gebeten.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/gasspeicher-katharina-reiche-sefe-uniper",
-   "published": "2026-09-15T23:30:39+00:00",
-   "first_seen": "2026-09-16T00:05:05.546563+00:00",
    "paywall": true
   }
  ]
