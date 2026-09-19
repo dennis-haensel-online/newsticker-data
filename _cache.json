@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T00:05:05.001676+00:00",
+ "updated": "2026-09-19T01:03:35.065333+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -27,6 +27,24 @@
    "published": "2026-09-19T07:14:00+00:00",
    "first_seen": "2026-09-18T08:04:13.474811+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Sicherheut: Google-KI Gemini hackte bei Test drei Unternehmen",
+   "summary": "Googles KI Gemini hat Passwörter erraten und öffentliche Zugangsdaten genutzt, um in Unternehmenssysteme einzudringen. Ein weiterer Vorfall, der die Debatte um eine Regulierung anheizt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-sicherheut-google-ki-gemini-hackte-bei-test-drei-unternehmen/100255773.html",
+   "published": "2026-09-19T00:47:08+00:00",
+   "first_seen": "2026-09-19T01:03:35.065333+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump will mehreren Medien Zugang zum Weißen Haus verbieten",
+   "summary": "US-Präsident Trump will mit sofortiger Wirkung CNN, MSNOW und Politico den Zugang zum Weißen Haus verwehren. Als Begründung schrieb er, die Medien würden \"Fake News\" verbreiten.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-presse-medien-weisses-haus-zutritt-100.html",
+   "published": "2026-09-19T00:19:00+00:00",
+   "first_seen": "2026-09-19T01:03:35.065333+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13482,24 +13500,6 @@
    "published": "2026-09-15T15:34:36+00:00",
    "first_seen": "2026-09-15T16:04:11.031570+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Spritpreise: Der Staat soll helfen – aber nicht beim Spritpreis",
-   "summary": "Die Spritpreise steigen so stark an, dass jetzt auch der Kanzler eingreifen will. Er kündigt neue Entlastungen an. Hoffentlich wird es nicht wieder ein Tankrabatt.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/pritpreise-rabatt-stromsteuer-senkung-tankrabatt",
-   "published": "2026-09-15T15:30:28+00:00",
-   "first_seen": "2026-09-15T16:04:11.031570+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Willem-Alexander eröffnet Parlamentsjahr",
-   "summary": "Mit einer Thronrede hat König Willem-Alexander das neue Parlamentsjahr eröffnet. Die traditionelle Feier samt Kutschprozession und Balkonauftritt wurde von Jubel, aber auch Protesten begleitet.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/videos/willem-alexander-parlamentsjahr-100.html",
-   "published": "2026-09-15T15:30:00+00:00",
-   "first_seen": "2026-09-15T17:03:49.460729+00:00",
-   "paywall": false
   }
  ]
 }

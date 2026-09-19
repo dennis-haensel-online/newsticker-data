@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-19T00:05:05.001676+00:00",
+ "updated": "2026-09-19T01:03:35.065333+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Sicherheut: Google-KI Gemini hackte bei Test drei Unternehmen",
+   "summary": "Googles KI Gemini hat Passwörter erraten und öffentliche Zugangsdaten genutzt, um in Unternehmenssysteme einzudringen. Ein weiterer Vorfall, der die Debatte um eine Regulierung anheizt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-sicherheut-google-ki-gemini-hackte-bei-test-drei-unternehmen/100255773.html",
+   "published": "2026-09-19T00:47:08+00:00",
+   "first_seen": "2026-09-19T01:03:35.065333+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump will mehreren Medien Zugang zum Weißen Haus verbieten",
+   "summary": "US-Präsident Trump will mit sofortiger Wirkung CNN, MSNOW und Politico den Zugang zum Weißen Haus verwehren. Als Begründung schrieb er, die Medien würden \"Fake News\" verbreiten.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-presse-medien-weisses-haus-zutritt-100.html",
+   "published": "2026-09-19T00:19:00+00:00",
+   "first_seen": "2026-09-19T01:03:35.065333+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Kalifornien könnte Notschalter für KI vorschreiben",
@@ -883,24 +901,6 @@
    "published": "2026-09-16T09:59:00+00:00",
    "first_seen": "2026-09-16T11:04:24.309187+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Sitz nach Deutschland",
-   "summary": "Langdock kehrt mit seinem Hauptsitz aus den USA nach Deutschland zurück und plant Investitionen in ein eigenes Rechenzentrum für mehr digitale Souveränität.",
-   "link": "https://www.wiwo.de/unternehmen/it/langdock-ki-start-up-verlegt-sitz-nach-deutschland/100254972.html",
-   "published": "2026-09-16T09:50:10+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Rede zur Lage der EU: Die Pläne der Ursula von der Leyen",
-   "summary": "Die EU-Kommissionspräsidentin hat ihre jährliche Rede vor dem EU-Parlament gehalten. Es ging um Social Media, Verteidigung, Hitze und eine neue EU-Mitgliedschaft. mehr...",
-   "link": "https://taz.de/Rede-zur-Lage-der-EU/!6213605/",
-   "published": "2026-09-16T09:39:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": false
   }
  ]
 }
