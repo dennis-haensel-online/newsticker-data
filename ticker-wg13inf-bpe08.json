@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-19T01:03:35.065333+00:00",
+ "updated": "2026-09-19T02:03:59.554889+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Googles KI Gemini hackte ebenfalls andere Unternehmen",
+   "summary": "Bisher waren keine Hacking-Vorfälle mit Googles Künstlicher Intelligenz Gemini bekannt. Das ändert sich nun – aber erst, nachdem eine US-Zeitung Fragen gestellt hat.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-googles-ki-gemini-hackte-ebenfalls-andere-unternehmen/100255775.html",
+   "published": "2026-09-19T01:01:30+00:00",
+   "first_seen": "2026-09-19T02:03:59.554889+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Sicherheut: Google-KI Gemini hackte bei Test drei Unternehmen",
@@ -892,15 +901,6 @@
    "published": "2026-09-16T10:03:00+00:00",
    "first_seen": "2026-09-16T17:04:04.939302+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI räumt „schlimmsten Unfall“ der KI-Geschichte ein",
-   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
-   "link": "https://www.wiwo.de/unternehmen/dreamforce-openai-raeumt-schlimmsten-unfall-der-ki-geschichte-ein/100254875.html",
-   "published": "2026-09-16T09:59:00+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
   }
  ]
 }
