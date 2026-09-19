@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T23:03:46.122073+00:00",
+ "updated": "2026-09-19T00:05:05.001676+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -26,6 +26,51 @@
    "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-check-wo-sich-das-vermieten-von-immobilien-in-deutschland-noch-lohnt/100255296.html",
    "published": "2026-09-19T07:14:00+00:00",
    "first_seen": "2026-09-18T08:04:13.474811+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Pistorius verteidigt den Kauf der F-35",
+   "summary": "Die Bundeswehr hat ihren ersten F-35-Kampfjet übernommen. Im heute journal erklärt Verteidigungsminister Boris Pistorius, warum Deutschland weiter auf US-Rüstungstechnik setzt.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-pistorius-f-35-kampfjet-ruestung-100.html",
+   "published": "2026-09-18T23:50:00+00:00",
+   "first_seen": "2026-09-19T00:05:05.001676+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Kalifornien könnte Notschalter für KI vorschreiben",
+   "summary": "Die bekanntesten leistungsstarken KI-Modelle werden in Kalifornien entwickelt. Der US-Bundesstaat will in der Debatte um Sicherheitsrisiken die Initiative ergreifen - und erwägt eine radikale Vorgabe.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-kalifornien-koennte-notschalter-fuer-ki-vorschreiben/100255771.html",
+   "published": "2026-09-18T23:46:27+00:00",
+   "first_seen": "2026-09-19T00:05:05.001676+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Trump unterzeichnet Paket mit Sanktionen gegen Russland",
+   "summary": "Mit weitreichenden Sanktionen will der US-Kongress den Angreifer Russland im Ukraine-Krieg unter Druck setzen. Nun haben sie die letzte Hürde genommen.",
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-unterzeichnet-paket-mit-sanktionen-gegen-russland/100255767.html",
+   "published": "2026-09-18T23:34:50+00:00",
+   "first_seen": "2026-09-19T00:05:05.001676+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Dänemark und USA einigen sich zu Grönland",
+   "summary": "Trump hatte wiederholt mit der Übernahme Grönlands gedroht. Nun verkünden Dänemark und die USA eine Einigung im Streit um die Arktis-Insel. Ein Abkommen soll nächste Woche folgen.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-trump-daenemark-groenland-abkommen-100.html",
+   "published": "2026-09-18T23:30:00+00:00",
+   "first_seen": "2026-09-19T00:05:05.001676+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: Trump verbietet CNN und „Politico“ Zugang zum Weißen Haus",
+   "summary": "Der US-Präsident führt einen Kampf gegen Medien, die über ihn kritisch berichten. Jetzt trifft es wenige Wochen vor den wichtigen Parlamentswahlen CNN und andere. Sie sind nicht die Ersten.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-verbietet-cnn-und-politico-zugang-zum-weissen-haus/100255765.html",
+   "published": "2026-09-18T23:07:10+00:00",
+   "first_seen": "2026-09-19T00:05:05.001676+00:00",
    "paywall": true
   },
   {
@@ -13455,51 +13500,6 @@
    "published": "2026-09-15T15:30:00+00:00",
    "first_seen": "2026-09-15T17:03:49.460729+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Willem-Alexander eröffnet Parlamentsjahr",
-   "summary": "Mit einer Thronrede hat König Willem-Alexander das neue Parlamentsjahr eröffnet. Die traditionelle Feier samt Kutschprozession und Balkonauftritt wurde von Jubel, aber auch Protesten begleitet.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/willem-alexander-parlamentsjahr-100.html",
-   "published": "2026-09-15T15:30:00+00:00",
-   "first_seen": "2026-09-15T21:04:18.868020+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Kunst am Dortmunder Hauptbahnhof: Selbstoptimierung beim Optiker",
-   "summary": "Mit Kunst im öffentlichen Raum macht der Parcours „Unheimliche Verschiebungen“ auf Gegenwartsirritationen aufmerksam. Dabei hakt's an der Vermittlung. mehr...",
-   "link": "https://taz.de/Kunst-am-Dortmunder-Hauptbahnhof/!6213273/",
-   "published": "2026-09-15T15:23:00+00:00",
-   "first_seen": "2026-09-15T16:04:11.031570+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Streit über Oligarchen: Frankreich und Slowakei blockieren Russland-Sanktionen",
-   "summary": "Die Europäische Union ringt um eine langfristige Lösung, wie der Kreml bestraft werden könnte. Dabei steht ein usbekischer Oligarch im Fokus. mehr...",
-   "link": "https://taz.de/Streit-ueber-Oligarchen/!6213457/",
-   "published": "2026-09-15T15:22:00+00:00",
-   "first_seen": "2026-09-15T16:04:11.031570+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Stadtrundgang mit Straßenschäden: Welche Schicht ist der Schaden?",
-   "summary": "In Kreuzberg erkundet die „Road Damage City Tour“ konfligierende Trottoir-Systeme und Teer-Glitches. Geleitet wird sie von Tourguide Peter Behrbohm. mehr...",
-   "link": "https://taz.de/Stadtrundgang-mit-Strassenschaeden/!6213001/",
-   "published": "2026-09-15T15:22:00+00:00",
-   "first_seen": "2026-09-15T16:04:11.031570+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Brauerei: Warsteiner verliert Motel One und Kult-Hotel Sauerland-Stern",
-   "summary": "Die kriselnde Warsteiner-Brauerei muss sparen: Bei der Hotelkette Motel One ist Warsteiner bald raus, ein geplanter Markenrelaunch steht wohl auf der Kippe.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warsteiner-verliert-motel-one-und-kult-hotel-sauerland-stern/100254757.html",
-   "published": "2026-09-15T15:19:17+00:00",
-   "first_seen": "2026-09-15T16:04:11.031570+00:00",
-   "paywall": true
   }
  ]
 }
