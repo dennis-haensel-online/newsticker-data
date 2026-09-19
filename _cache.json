@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T18:04:30.155751+00:00",
+ "updated": "2026-09-19T19:03:36.370657+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,114 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Trump will „KI-Zar“ ernennen",
+   "summary": "US-Präsident: „Wachstum dieser unglaublichen Industrie in keinster Weise behindern“ +++ KI-Fehler hätte laut CNN-Bericht fast zu US-Militäreinsatz gegen chinesisches Schiff geführt +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-will-ki-zar-ernennen-faz-200452404.html",
+   "published": "2026-09-19T18:53:29+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Iran-Krieg: Signal aus Teheran: Iran will zurück zu Rahmenabkommen",
+   "summary": "Teheran strebt offensichtlich eine Rückkehr zum Rahmenabkommen mit den USA an. Neben dem Ende der Schiffsblockade verlangt der Iran die Freigabe eingefrorener Gelder und Ruhe an allen Fronten",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen/100255854.html",
+   "published": "2026-09-19T18:32:02+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "BVB gewinnt in Stuttgart",
+   "summary": "Verfolgen Sie die Partien im Liveticker. Dazu Ergebnisse und die Bundesliga-Tabelle.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga-heute-tabelle-und-liveticker-100.html",
+   "published": "2026-09-19T18:32:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Trump setzt stärker auf KI trotz Warnungen vor Gefahren",
+   "summary": "Führende Köpfe der KI-Labore wollen das Tempo drosseln, weil sie einen Kontrollverlust befürchten. Die Botschaft von Donald Trump lautet hingegen: Volle Kraft voraus!",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255853.html",
+   "published": "2026-09-19T18:28:35+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Debatte um den Film „Naza“ über IDF: Öl ins Feuer",
+   "summary": "Die kritischen Regisseuren Yuval Abraham und Rachel Szor haben in Israel viel ausgelöst. Hilft der Film womöglich sogar unfreiwillig Netanjahu? mehr...",
+   "link": "https://taz.de/Debatte-um-den-Film-Naza-ueber-IDF/!6208392/",
+   "published": "2026-09-19T18:21:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Richtig gute Leute: Antifa mit Popcorn",
+   "summary": "Die Lehrerin Hanka Gatter leitet einen Kurs gegen Rassismus, ehrenamtlich berät sie Geflüchtete in einem Café in Parchim. mehr...",
+   "link": "https://taz.de/Richtig-gute-Leute/!6213927/",
+   "published": "2026-09-19T18:20:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Kommunalwahlen auf dem Dorf: Das gute alte „Weiter so“",
+   "summary": "Dank AfD-Ständen und Gegendemo ist die Stimmung auch auf dem Land bei Bremen ein bisschen aufgekratzt. Danach ist aber alles wie immer. mehr...",
+   "link": "https://taz.de/Kommunalwahlen-auf-dem-Dorf/!6208278/",
+   "published": "2026-09-19T18:20:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Midterms in den USA: Die US-Demokratie ist doch noch nicht ganz verloren",
+   "summary": "Der Supreme Court hat Trumps Vorhaben, die Briefwahl einzuschränken, gestoppt. Das oberste Gericht holt sich seine Unabhängigkeit teilweise zurück. mehr...",
+   "link": "https://taz.de/Midterms-in-den-USA/!6212564/",
+   "published": "2026-09-19T18:19:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "El Niño im Klimawandel: Wenn das Christkind noch mehr Dürre, Flut und Hunger bringt",
+   "summary": "Anhand von Korallen haben Forscher untersucht, wie die Erderhitzung das Klimaphänomen El Niño beeinflusst. Die globalen Aussichten sind eher düster. mehr...",
+   "link": "https://taz.de/El-Nino-im-Klimawandel/!6208343/",
+   "published": "2026-09-19T18:19:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Wirtschaft in Deutschland: Wie schlimm ist es denn nun?",
+   "summary": "Was ist dran am Krisengerede der Lobbyverbände? Und bringen Sozialreformen wirklich die Volkswirtschaft in Schwung? Wir geben Antworten. mehr...",
+   "link": "https://taz.de/Wirtschaft-in-Deutschland/!6208374/",
+   "published": "2026-09-19T18:17:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Landtagswahlen: Was sollen Grüne, SPD und Linke bloß tun, wenn sie gewinnen?",
+   "summary": "Eigentlich klar, was passieren muss, wenn die AfD erneut das Rennen macht: einfach mal verbieten. Nur wenn´s anders ausgeht, dann wird es kompliziert. mehr...",
+   "link": "https://taz.de/Landtagswahlen/!6208402/",
+   "published": "2026-09-19T18:14:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Migrationsroute in Osteuropa: Die Namenlosen",
+   "summary": "Im Fluss Drina zwischen Serbien und Bosnien ertrinken immer wieder Flüchtende. Ein Pathologe und ein Aktivist wollen sie identifizieren. mehr...",
+   "link": "https://taz.de/Migrationsroute-in-Osteuropa/!6208429/",
+   "published": "2026-09-19T18:13:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -83,6 +191,15 @@
    "paywall": false
   },
   {
+   "label": "ZDF",
+   "title": "Tausende nach Flutkatastrophe vermisst",
+   "summary": "Dreieinhalb Wochen nach der Flutkatastrophe in Nepal und China werden noch immer Tausende Menschen vermisst. Bergungstrupps finden nur noch Tote.",
+   "link": "https://www.zdfheute.de/video/heute-nachrichten/tausende-vermisst-flutkatastrophe-video-100.html",
+   "published": "2026-09-19T16:24:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Regierung: Zwei Wahlen und das Schicksal der Koalition: Das steht für Merz, Bas und Klingbeil auf dem Spiel",
    "summary": "Die Wahlen in Berlin und Mecklenburg-Vorpommern werden Auswirkungen auf die Stabilität der Bundesregierung haben. Können sich CDU-Chef Merz und die SPD-Vorsitzenden Bas und Klingbeil halten?",
@@ -90,6 +207,15 @@
    "published": "2026-09-19T16:22:14+00:00",
    "first_seen": "2026-09-19T17:03:39.294704+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hochwasserübung in der Lausitz",
+   "summary": "In der Lausitz trainieren Behörden sowie rund 500 Einsatzkräfte von Bundeswehr, THW und Feuerwehr für den Ernstfall. Sie bereiten sich für den Umgang mit extremem Hochwasser vor.",
+   "link": "https://www.zdfheute.de/video/heute-nachrichten/hochwasseruebung-in-der-lausitz-video-100.html",
+   "published": "2026-09-19T16:21:00+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -13373,132 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/schlechte-umfragewerte-frei-merz-auch-nach-landtagswahlen-unumstoesslich-kanzler/100254909.html",
    "published": "2026-09-16T07:12:53+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilitätskosten: Benzinpreis eilt von Rekord zu Rekord",
-   "summary": "Auch Diesel verteuert sich und kommt seinem bisherigen Höchststand aus dem April immer näher.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-benzinpreis-eilt-von-rekord-zu-rekord/100254910.html",
-   "published": "2026-09-16T07:10:34+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Füllstand der Gasspeicher: Sefe und Uniper könnten bei Gasspeichern helfen",
-   "summary": "Wegen der niedrigen Füllstände der Gasspeicher ist Ministerin Reiche unter Druck geraten. Helfen könnten die Staatsunternehmen Uniper und Sefe.",
-   "link": "https://www.wiwo.de/unternehmen/energie/gasspeicher-fuellstand-niedrig-sefe-und-uniper-sollen-helfen/100254904.html",
-   "published": "2026-09-16T07:08:03+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI erwägt wohl neue Finanzierungsrunde mit Bewertung von mehr als 1,2 Billionen Dollar﻿﻿",
-   "summary": "Noch vor dem geplanten IPO könnte OpenAI seine Bewertung Berichten zufolge auf 1,2 Billionen Dollar erhöhen. Insider sehen für den Vorstoß demnach vor allem zwei Gründe.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-erwaegt-wohl-neue-finanzierungsrunde-vor-boersengang/100254901.html",
-   "published": "2026-09-16T07:06:24+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Gerät Künstliche Intelligenz außer Kontrolle?",
-   "summary": "Warnungen von KI-Entwicklern lassen aufhorchen: Gerät Künstliche Intelligenz außer Kontrolle? Medienwissenschaftler Martin Andree erklärt die Hintergründe und zeigt, wo die Gefahren liegen.",
-   "link": "https://www.zdfheute.de/video/volle-kanne/gefahren-durch-ki-martin-andree-100.html",
-   "published": "2026-09-16T07:05:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI befürwortet US-Gesetze gegen KI-Einsatz für Biowaffen",
-   "summary": "OpenAI stellt sich hinter mehrere parteiübergreifende Gesetze zur Begrenzung von Biowaffenrisiken durch KI. Zudem unterstützt der Konzern unabhängige Sicherheitstests für führende KI-Modelle.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-befuerwortet-us-gesetze-gegen-ki-einsatz-fuer-biowaffen/100254903.html",
-   "published": "2026-09-16T07:02:57+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Nur halb voll: Reiche plant Ausschreibungen für Gasspeicher",
-   "summary": "Die Bundeswirtschaftsministerin will nun doch etwas gegen die Schieflage am Gasmarkt tun. Spritpreisdeckel und Übergewinnsteuern für Mineralölkonzerne lehnt sie ab.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wirtschaftsministerin-katherina-reiche-plant-ausschreibungen-fuer-gasspeicher-accg-201231227.html",
-   "published": "2026-09-16T07:02:07+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Österreich: Daten- statt Aktienhandel: Wiener Börse übernimmt Hamburger Datendienstleister North Data",
-   "summary": "Die Aktiengesellschaft übernimmt die Mehrheitsbeteiligung an der Hamburger Firmendatenbank. Der Zukauf passt in die strategische Neuausrichtung des Unternehmens – und in den globalen Trend.",
-   "link": "https://www.handelsblatt.com/politik/international/wiener-boerse-aktiengesellschaft-uebernimmt-north-data-und-baut-datenhandel-aus/100254310.html",
-   "published": "2026-09-16T07:00:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Ifo-Institut: Stimmung im Wohnungsbau verbessert sich laut ifo-Umfrage deutlich",
-   "summary": "Das Geschäftsklima im Wohnungsbau hellt sich laut ifo Institut deutlich auf. Grund dafür ist die Hoffnung, dass die steigenden Baugenehmigungen zu mehr Aufträgen führen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/wohnungsbau-ifo-institut-geschaeftsklima-auftragslage-klaus-wohlrabe",
-   "published": "2026-09-16T06:59:06+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Ifo-Institut: Stimmung im Wohnungsbau verbessert sich laut ifo-Umfrage deutlich",
-   "summary": "Das Geschäftsklima im Wohnungsbau hellt sich laut ifo Institut deutlich auf. Grund dafür ist die Hoffnung, dass die steigenden Baugenehmigungen zu mehr Aufträgen führen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/wohnungsbau-ifo-institut-geschaeftsklima-auftragslage-klaus-wohlrabe-gxe",
-   "published": "2026-09-16T06:59:06+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Wer den MSCI World kauft, schließt derzeit drei Wetten ab",
-   "summary": "Nach wie vor performt der Index MSCI World übers Jahr gesehen stark mit 20 Prozent Kursgewinn. Doch hinter der positiven Entwicklung könnten Probleme lauern.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etf-was-anleger-erwartet-wenn-sie-in-den-msci-world-investieren/100244938.html",
-   "published": "2026-09-16T06:59:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Antarktis: Ozonloch klein wie selten seit 1990",
-   "summary": "Das Ozonloch über der Antarktis ist in diesem Jahr so klein wie selten seit Anfang der 90er Jahre. Trotzdem steigt die UV-Strahlung in Europa. Der Grund: weniger Wolken und längere Sonnenzeiten.",
-   "link": "https://www.zdfheute.de/video/zdfheute-xpress/ozonloch-antarktis-uv-strahlung-video-100.html",
-   "published": "2026-09-16T06:57:00+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rente: Bis zu 393.000 Euro extra möglich: Diese Zahlen zeigen, wie viel Kapitalrente Sie bekommen könnten",
-   "summary": "2028 soll die Kapitalrente starten. Das Handelsblatt hat für vier Altersgruppen mit verschiedenen Szenarien berechnet, wie viel Geld sich mit der Zusatzrente ansparen lässt.",
-   "link": "https://www.handelsblatt.com/finanzen/rente-welche-altersgruppen-am-meisten-von-der-kapitalrente-profitieren/100235426.html",
-   "published": "2026-09-16T06:54:00+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Banking: Datenklau bei Digitalbank Revolut – offenbar deutscher Gründer betroffen",
-   "summary": "Hacker haben ein Datenleck ausgenutzt und Kundendaten der Onlinebank Revolut erbeutet. Anscheinend auch von einem Unternehmer aus Deutschland.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/revolut-datenleck-offenbar-deutscher-gruender-betroffen/100254762.html",
-   "published": "2026-09-16T06:53:40+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Geld ohne Arbeit: Mit diesem Rechner planen Sie Ihr passives Einkommen",
-   "summary": "Länder-ETFs, Immobilien-ETFs oder gar Einzelaktien? Der neue Handelsblatt-Rechner ermöglicht Ihnen, Ihre Strategie für ein passives Einkommen zu finden.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-berechnen-sie-wie-viel-passives-einkommen-moeglich-ist/100185344.html",
-   "published": "2026-09-16T06:52:00+00:00",
-   "first_seen": "2026-09-16T07:05:04.544626+00:00",
    "paywall": true
   }
  ]

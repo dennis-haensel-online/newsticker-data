@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-19T18:04:30.155751+00:00",
+ "updated": "2026-09-19T19:03:36.370657+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Trump will „KI-Zar“ ernennen",
+   "summary": "US-Präsident: „Wachstum dieser unglaublichen Industrie in keinster Weise behindern“ +++ KI-Fehler hätte laut CNN-Bericht fast zu US-Militäreinsatz gegen chinesisches Schiff geführt +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-will-ki-zar-ernennen-faz-200452404.html",
+   "published": "2026-09-19T18:53:29+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Trump setzt stärker auf KI trotz Warnungen vor Gefahren",
+   "summary": "Führende Köpfe der KI-Labore wollen das Tempo drosseln, weil sie einen Kontrollverlust befürchten. Die Botschaft von Donald Trump lautet hingegen: Volle Kraft voraus!",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255853.html",
+   "published": "2026-09-19T18:28:35+00:00",
+   "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Welle der KI-Furcht: Das KI-Kartenhaus",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-bafin-sieht-verbesserungsbedarf-bei-datennutzung-in-ki-systemen/100254314.html",
    "published": "2026-09-16T15:21:40+00:00",
    "first_seen": "2026-09-16T16:05:00.052768+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Halbleiter: Fokussierung auf KI-Chips: Infineon verkauft in Milliarden-Deal Teil seines Speichergeschäfts",
-   "summary": "Der taiwanische Chiphersteller Winbond übernimmt die Sparte für rund eine Milliarde Euro. Mit der Summe will sich Infineon noch stärker auf zentrale Wachstumstreiber ausrichten.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/halbleiter-infineon-trennt-sich-von-teilen-seines-speichergeschaefts/100255070.html",
-   "published": "2026-09-16T15:00:21+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Warum ein amerikanisches Start-up nach Deutschland geht",
-   "summary": "Die Firma Langdock gibt ihren Firmensitz im US-Bundesstaat Delaware auf. Was klingt wie ein modernes Märchen, hat vor allem mit dem Geschäftsmodell der KI-Plattform zu tun.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/langdock-ki-start-up-firmensitz-usa-berlin-li.3548326",
-   "published": "2026-09-16T14:31:14+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
    "paywall": true
   }
  ]
