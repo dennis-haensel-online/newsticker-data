@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T20:03:50.948421+00:00",
+ "updated": "2026-09-19T21:03:51.900002+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hockey, Tennis und die Fußball-Bundesliga",
+   "summary": "Die Fußball-Bundesliga mit dem Abendspiel VfB Stuttgart - Borussia Dortmund. Studiogast ist André Henning, Bundestrainer der deutschen Hockey-Männer.",
+   "link": "https://www.zdf.de/video/shows/das-aktuelle-sportstudio-220/das-aktuelle-sportstudio-vom-19-september-2026-100",
+   "published": "2026-09-19T20:30:00+00:00",
+   "first_seen": "2026-09-19T21:03:51.900002+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Strahlende Gefahr",
+   "summary": "Bis 1990 liefert die DDR Uran für Moskaus Atombomben – mit drastischen Folgen für Mensch und Umwelt: Dörfer verschwinden, Landschaften werden radioaktiv verseucht, Bergleute erkranken.",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-toedliches-erbe-der-ddr-deutsches-uran-fuer-moskaus-bomben--100/zdfinfo-toedliches-erbe-der-ddr-strahlende-gefahr--100",
+   "published": "2026-09-19T20:30:00+00:00",
+   "first_seen": "2026-09-19T21:03:51.900002+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Hertha verteidigt Platz eins mit Sieg in Dresden",
+   "summary": "So läuft der Spieltag in der 2. Fußball-Bundesliga: Spielplan, Konferenz-Liveticker, Ergebnisse, Tabelle.",
+   "link": "https://www.zdfheute.de/sport/2-bundesliga-fussball-tabelle-spiele-statistiken-ergebnisse-liveticker-100.html",
+   "published": "2026-09-19T20:25:00+00:00",
+   "first_seen": "2026-09-19T21:03:51.900002+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -63,6 +90,15 @@
    "published": "2026-09-19T18:53:29+00:00",
    "first_seen": "2026-09-19T19:03:36.370657+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Chemnitz tanzt für den Weltrekord",
+   "summary": "Ungefähr 730 Menschen haben in Chemnitz Ballett getanzt. Für den Weltrekord von 1525 Menschen hat es aber nicht gereicht. Nächstes Jahr soll es einen neuen Versuch geben.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/ballett-weltrekord-chemnitz-video-100.html",
+   "published": "2026-09-19T18:40:00+00:00",
+   "first_seen": "2026-09-19T21:03:51.900002+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -188,6 +224,15 @@
    "link": "https://www.zeit.de/2026/40/verena-bahlsen-panikjahre-unternehmen-familie-nationalsozialismus-zwangsarbeit",
    "published": "2026-09-19T17:21:56+00:00",
    "first_seen": "2026-09-19T18:04:30.155751+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Signal aus Teheran – Iran will zurück zu Rahmenabkommen",
+   "summary": "Südkorea sagt USA Unterstützung bei Sicherung der Straße von Hormus zu +++ Iran übermittelt USA Bedingungen für Kriegsende +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-signal-aus-teheran-iran-will-zurueck-zu-rahmenabkommen/100136895.html",
+   "published": "2026-09-19T17:10:19+00:00",
+   "first_seen": "2026-09-19T21:03:51.900002+00:00",
    "paywall": true
   },
   {
@@ -13453,51 +13498,6 @@
    "summary": "Für einen ersten Test in Deutschland hat der Discounter nach Handelsblatt-Informationen nun die Genehmigung bekommen. Bis zum breiten Einsatz gibt es aber noch einige Fragen zu klären.",
    "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-lidl-testet-autonom-fahrenden-lastwagen-zur-filial-belieferung-01/100253503.html",
    "published": "2026-09-16T07:43:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bahnverkehr: Entwurf: Union und SPD für neue Bahntrasse Hannover-Hamburg",
-   "summary": "Über den Bau einer neuen Trasse zwischen Hamburg und Hannover wird seit Jahren gestritten. Die Deutsche Bahn ist dafür, Niedersachsen ist dagegen. Kommt jetzt die Entscheidung?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bahnverkehr-entwurf-union-und-spd-fuer-neue-bahntrasse-hannover-hamburg/100254921.html",
-   "published": "2026-09-16T07:41:35+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Yen, Hang Seng: Kurse an Asien-Börsen stabilisieren sich dank rückläufiger Ölpreise",
-   "summary": "Vor dem Fed-Entscheid machten die Börsen zunächst Verluste, erholten sich aber im Tagesverlauf. Der Dollar notierte nahe einem Zwei-Wochen-Hoch, Kryptowährungen gerieten weiter unter Druck.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-kurse-an-asien-boersen-stabilisieren-sich-dank-ruecklaeufiger-oelpreise/100254859.html",
-   "published": "2026-09-16T07:37:22+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Investitionen: Chinesisches Engagement in Deutschland stößt auf Skepsis",
-   "summary": "Peking nutzt seine wirtschaftliche Macht häufig, um Einfluss auf fremde Regierungen auszuüben. Deshalb ist die Skepsis gegenüber chinesischen Investoren hierzulande groß – die Gefahr wird aber überschätzt.",
-   "link": "https://www.spiegel.de/wirtschaft/investitionen-chinesisches-engagement-in-deutschland-stoesst-auf-skepsis-a-7d03aad7-8e7d-405b-a797-18c47f3fca5f#ref=rss",
-   "published": "2026-09-16T07:36:00+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vor der Landtagswahl: Umfrage: AfD in Mecklenburg-Vorpommern zwei Punkte vor SPD",
-   "summary": "Eine neue Umfrage sieht die AfD in MV weiter vor der SPD. Diese holt aber auf. Steht es in dieser Umfrage ähnlich schlecht um die CDU wie in vorhergehenden Erhebungen?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/vor-der-landtagswahl-umfrage-afd-in-mecklenburg-vorpommern-zwei-punkte-vor-spd/100254917.html",
-   "published": "2026-09-16T07:30:25+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bitcoin: Deutsche Bank startet Verwahrung von Kryptowährungen für Profi-Anleger",
-   "summary": "Das Geldhaus will für institutionelle Investoren und Unternehmen bald die Aufbewahrung von Bitcoin, Ether und Stablecoins anbieten – und ist damit später dran als die Konkurrenz.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/bitcoin-deutsche-bank-startet-mit-verwahrung-von-kryptowaehrungen/100254801.html",
-   "published": "2026-09-16T07:30:00+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": true
   }
