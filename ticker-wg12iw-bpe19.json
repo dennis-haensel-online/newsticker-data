@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-20T14:04:08.248754+00:00",
+ "updated": "2026-09-20T15:03:44.800932+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Werder Bremens unerwarteter Aufschwung: Jede Menge gute Geschichten",
+   "summary": "Womit anfangen? Mit dem Comeback von Weiser, der Willenskraft von Füllkrug oder der Spielintelligenz von Grüll? Werder Bremen verblüfft derzeit alle. mehr...",
+   "link": "https://taz.de/Werder-Bremens-unerwarteter-Aufschwung/!6214696/",
+   "published": "2026-09-20T14:03:00+00:00",
+   "first_seen": "2026-09-20T15:03:44.800932+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -892,15 +901,6 @@
    "published": "2026-09-16T15:18:00+00:00",
    "first_seen": "2026-09-16T17:04:04.939302+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Halbleiter: Fokussierung auf KI-Chips: Infineon verkauft in Milliarden-Deal Teil seines Speichergeschäfts",
-   "summary": "Der taiwanische Chiphersteller Winbond übernimmt die Sparte für rund eine Milliarde Euro. Mit der Summe will sich Infineon noch stärker auf zentrale Wachstumstreiber ausrichten.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/halbleiter-infineon-trennt-sich-von-teilen-seines-speichergeschaefts/100255070.html",
-   "published": "2026-09-16T15:00:21+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
   }
  ]
 }
