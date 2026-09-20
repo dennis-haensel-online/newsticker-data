@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T01:03:51.725490+00:00",
+ "updated": "2026-09-20T02:04:14.362384+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mensch besser als KI: KI hat gravierende Schwächen beim Erkennen von Formen",
+   "summary": "Warum KI selbst die einfachsten Umrisse oft nicht erkennt – und Katzen plötzlich als „Kreuzworträtsel“ deutet.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/mensch-besser-als-ki-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen/100255873.html",
+   "published": "2026-09-20T01:00:07+00:00",
+   "first_seen": "2026-09-20T02:04:14.362384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Guterres-Nachfolge: Chilenin Bachelet zieht Kandidatur zurück",
+   "summary": "Chiles Ex-Präsidentin Bachelet wird nicht als UN-Generalsekretärin kandidieren. Eine Begründung nennt sie nicht, doch bei der Probeabstimmung hatte sie nicht gut abgeschnitten.",
+   "link": "https://www.zdfheute.de/politik/ausland/un-nachfolge-guterres-bachelet-kandidatur-rueckzug-100.html",
+   "published": "2026-09-20T00:34:21+00:00",
+   "first_seen": "2026-09-20T02:04:14.362384+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13482,24 +13500,6 @@
    "published": "2026-09-16T08:01:00+00:00",
    "first_seen": "2026-09-16T08:04:27.259199+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Reiche handelt gegen den eigenen Grundsatz – aber gerade noch rechtzeitig",
-   "summary": "Die Wirtschaftsministerin lässt den bundeseigenen Importeur mehr Gas einkaufen. Das ist teuer, aber kaum vermeidbar. Bald wird der Staat dieses Rettungsinstrument allerdings verlieren.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-reiche-handelt-gegen-den-eigenen-grundsatz-aber-gerade-noch-rechtzeitig/100254870.html",
-   "published": "2026-09-16T08:00:05+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "EU: Von der Leyen will Kanada zum „assoziierten Mitglied“ der EU machen",
-   "summary": "In ihrer „State of the Union“-Rede beschwört die Kommissionschefin neue Partnerschaften. Sie will die Beziehung zu Kanada auf „das höchstmögliche Niveau“ bringen.",
-   "link": "https://www.handelsblatt.com/politik/international/eu-von-der-leyen-will-kanada-zum-assoziierten-mitglied-der-eu-machen/100251446.html",
-   "published": "2026-09-16T07:53:46+00:00",
-   "first_seen": "2026-09-16T08:04:27.259199+00:00",
-   "paywall": true
   }
  ]
 }
