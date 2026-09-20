@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T00:05:35.229905+00:00",
+ "updated": "2026-09-20T01:03:51.725490+00:00",
  "items": [
   {
    "label": "FAZ",
@@ -189,6 +189,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-kalifornien-koennte-notschalter-fuer-ki-vorschreiben/100255771.html",
    "published": "2026-09-18T23:46:27+00:00",
    "first_seen": "2026-09-19T00:05:05.001676+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an",
+   "summary": "Dänemark und USA verkünden Durchbruch im Grönland-Streit +++ Trump verbietet CNN und anderen Medien Zugang zum Weißen Haus +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-us-praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an/29669594.html",
+   "published": "2026-09-18T22:48:00+00:00",
+   "first_seen": "2026-09-20T01:03:51.725490+00:00",
    "paywall": true
   },
   {
@@ -892,15 +901,6 @@
    "published": "2026-09-16T16:03:00+00:00",
    "first_seen": "2026-09-16T17:04:04.939302+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt-Konferenz: Finanzaufsicht Bafin sieht bei Versicherern Verbesserungsbedarf bei Datennutzung in KI-Systemen",
-   "summary": "Nicht immer ist für die Aufsicht nachvollziehbar, warum in KI-Anwendungen eine Vielfalt an Daten einfließt. Sie fordert von den Versicherern eine bessere Begründung.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-bafin-sieht-verbesserungsbedarf-bei-datennutzung-in-ki-systemen/100254314.html",
-   "published": "2026-09-16T15:21:40+00:00",
-   "first_seen": "2026-09-16T16:05:00.052768+00:00",
-   "paywall": true
   }
  ]
 }
