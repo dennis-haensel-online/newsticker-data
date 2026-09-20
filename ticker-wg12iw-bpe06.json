@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-09-20T09:04:01.882267+00:00",
+ "updated": "2026-09-20T10:04:27.362778+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,15 @@
    "link": "https://www.wiwo.de/politik/deutschland/landtagswahlen-berlin-und-mecklenburg-vorpommern-die-hauptstadt-der-pleiten-und-das-land-der-kleinen-krisen/100254758.html",
    "published": "2026-09-20T05:24:38+00:00",
    "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Berlin und Mecklenburg-Vorpommern: Die Hauptstadt der Pleiten und das Land der kleinen Krisen",
+   "summary": "Wahltag in Berlin und Mecklenburg-Vorpommern: Warum in der Hauptstadt so viele Firmen scheitern, während es an der Küste nur wenige Großpleiten gibt.",
+   "link": "https://www.wiwo.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-die-hauptstadt-der-pleiten-und-das-land-der-kleinen-krisen/100254758.html",
+   "published": "2026-09-20T05:24:38+00:00",
+   "first_seen": "2026-09-20T10:04:27.362778+00:00",
    "paywall": true
   },
   {
@@ -333,24 +342,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/leica-warum-das-geschaeftsmodell-des-kameraherstellers-bis-heute-funktioniert/100218417.html",
    "published": "2026-09-16T10:35:00+00:00",
    "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: KI-Start-up Langdock verlegt Sitz nach Deutschland",
-   "summary": "Langdock kehrt mit seinem Hauptsitz aus den USA nach Deutschland zurück und plant Investitionen in ein eigenes Rechenzentrum für mehr digitale Souveränität.",
-   "link": "https://www.wiwo.de/unternehmen/it/langdock-ki-start-up-verlegt-sitz-nach-deutschland/100254972.html",
-   "published": "2026-09-16T09:50:10+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Personalwechsel: Hugo Boss hat einen neuen Aufsichtsratschef",
-   "summary": "Die britische Frasers Group ist Großaktionärin bei Hugo Boss und will den Modekonzern übernehmen. Nun stellt sie nach einem Machtkampf auch den neuen Aufsichtsratschef.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/personalwechsel-hugo-boss-hat-einen-neuen-aufsichtsratschef/100254966.html",
-   "published": "2026-09-16T09:39:59+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": true
   }
  ]
