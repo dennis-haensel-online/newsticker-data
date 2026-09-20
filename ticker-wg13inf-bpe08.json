@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T07:03:40.321519+00:00",
+ "updated": "2026-09-20T08:03:57.371713+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Wendepunkte der Geschichte: Boston Tea Party",
+   "summary": "Gefahr oder Chance? Können KI-generierte Spielszenen alte Zeiten lebendig machen oder verfälschen sie das Geschichtsbild? Ein Test mit Historikern am Beispiel der berühmten „Boston Tea Party“.",
+   "link": "https://www.zdf.de/video/dokus/terra-x-geschichte-kurz-100/boston-tea-party-webvideo-100",
+   "published": "2026-09-20T08:00:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Deep Read: Zocken im Schatten der Kameras",
+   "summary": "Auf der Suche nach Rendite stürzen sich Chinas Kleinanleger in Tech-Aktien. An einer Straßenecke in Shanghai spekulieren sie über Roboter, Chips – und die Politik der Partei. Ein Ortsbesuch.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien-zocken-im-schatten-der-kameras-auf-shanghais-strassen-boerse/100252510.html",
+   "published": "2026-09-20T07:23:32+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Deutsche Autobauer melden ungewöhnlich schwaches erstes Halbjahr",
@@ -63,6 +81,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255853.html",
    "published": "2026-09-19T18:28:35+00:00",
    "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "„AI Force“: Trump setzt stärker auf KI – trotz Warnungen vor Gefahren",
+   "summary": "Führende KI-Experten wollen das Tempo wegen möglicher Kontrollverluste reduzieren. Die Botschaft von Donald Trump lautet hingegen: Volle Kraft voraus!",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255855.html",
+   "published": "2026-09-19T18:28:35+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-banken-stellen-22-milliarden-fuer-ki-projekt-von-google-und-blackstone/100255156.html",
    "published": "2026-09-16T22:08:58+00:00",
    "first_seen": "2026-09-16T23:04:08.744904+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Warum das Silicon Valley vor der eigenen Technologie warnt",
-   "summary": "Droht der Menschheit durch Künstliche Intelligenz die Auslöschung? Tech-Konzerne warnen vor den Risiken ihrer eigenen Produkte. Doch wem nützt die Angst vor der Super-KI?",
-   "link": "https://www.zdfheute.de/digitales/ki-modelle-entwicklung-weltuntergang-szenario-doom-trolling-100.html",
-   "published": "2026-09-16T17:36:00+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie gefährlich ist KI, Angela Müller?",
-   "summary": "Angela Müller ist Geschäftsleiterin von Algorithm Watch in Zürich. Wir haben mit ihr über die jüngsten Warnungen der Tech-Industrie vor den Gefahren von KI gesprochen.",
-   "link": "https://www.3sat.de/kultur/kulturzeit/wie-gefaehrlich-ist-ki-angela-mueller-100.html",
-   "published": "2026-09-16T17:20:00+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Aleph Alpha und Cohere wollen „echter Konkurrent“ von OpenAI werden",
-   "summary": "Der Übernahme-Deal der KI-Unternehmen ist beschlossene Sache: Aleph Alpha wird Teil von Cohere. Die Einigung steht auch für die neue strategische Allianz zwischen Deutschland und Kanada.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-aleph-alpha-und-cohere-wollen-echter-konkurrent-von-openai-werden/100254362.html",
-   "published": "2026-09-16T17:02:24+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
    "paywall": true
   }
  ]

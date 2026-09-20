@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T07:03:40.321519+00:00",
+ "updated": "2026-09-20T08:03:57.371713+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,105 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wendepunkte der Geschichte: Boston Tea Party",
+   "summary": "Gefahr oder Chance? Können KI-generierte Spielszenen alte Zeiten lebendig machen oder verfälschen sie das Geschichtsbild? Ein Test mit Historikern am Beispiel der berühmten „Boston Tea Party“.",
+   "link": "https://www.zdf.de/video/dokus/terra-x-geschichte-kurz-100/boston-tea-party-webvideo-100",
+   "published": "2026-09-20T08:00:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Kraftstoffpreise: Ungarn zahlt Geld an Dieselfahrer",
+   "summary": "Die steigenden Spritpreise bringen Europas Regierungen in Zugzwang. Ungarn will nun Dieselfahrer mit Geld entschädigen. Auch andere Länder versuchen, den Zorn an den Zapfsäulen abzumildern.",
+   "link": "https://www.spiegel.de/wirtschaft/kraftstoffpreise-ungarn-zahlt-geld-an-dieselfahrer-a-7721e95e-d4fa-402e-8896-21223a8e73da#ref=rss",
+   "published": "2026-09-20T07:55:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Hohe Spritpreise: Tankrabatt und Spritpreisdeckel kommen – und nun?",
+   "summary": "Die Bundesregierung schenkt den Deutschen Tankrabatt und Spritpreisdeckel. Millionen werden das dankbar annehmen. Und doch ist die Kritik an den Maßnahmen enorm.",
+   "link": "https://www.wiwo.de/politik/deutschland/tankrabatt-was-autofahrer-jetzt-wissen-muessen/100255728.html",
+   "published": "2026-09-20T07:45:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Aktien: Griechenland kehrt in die erste Börsenliga zurück – das ändert sich für Investoren",
+   "summary": "Die Athener Börse wird an diesem Montag wieder in die Gruppe der entwickelten Märkte aufgenommen. Die Neubewertung verändert vor allem die Spielregeln für institutionelles Kapital.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-griechenland-in-der-ersten-boersenliga-was-sich-fuer-anleger-aendert/100254385.html",
+   "published": "2026-09-20T07:39:50+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: IW-Forscher verdreifachen Prognose – Plus von 1,2 Prozent erwartet",
+   "summary": "Die deutsche Wirtschaft wächst stärker als erwartet. Doch es gibt Risiken.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-iw-forscher-verdreifachen-prognose-plus-von-12-prozent-erwartet/100255910.html",
+   "published": "2026-09-20T07:38:48+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Teurer Sprit: Ökonomin Grimm hält Tankrabatt für schweren Fehler",
+   "summary": "Veronika Grimm kritisiert den Tankrabatt der Bundesregierung scharf und warnt vor Wohlstandsverlusten durch fehlende Reformen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/teurer-sprit-oekonomin-grimm-haelt-tankrabatt-fuer-schweren-fehler/100255911.html",
+   "published": "2026-09-20T07:29:21+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Deep Read: Zocken im Schatten der Kameras",
+   "summary": "Auf der Suche nach Rendite stürzen sich Chinas Kleinanleger in Tech-Aktien. An einer Straßenecke in Shanghai spekulieren sie über Roboter, Chips – und die Politik der Partei. Ein Ortsbesuch.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien-zocken-im-schatten-der-kameras-auf-shanghais-strassen-boerse/100252510.html",
+   "published": "2026-09-20T07:23:32+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Spieltheorie - so funktionieren die Regeln der Macht",
+   "summary": "Klimaschutz, Tarifstreit, Alltag: Oft entscheidet nicht der Mensch, sondern die Regeln des Spiels. Die Spieltheorie offenbart die meist unsichtbaren Mechanismen hinter Konflikten.",
+   "link": "https://www.zdfheute.de/wissen/spieltheorie-konflikte-terrax-nano-christian-rieck-kolumne-100.html",
+   "published": "2026-09-20T07:15:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Nato-Militärausschuss: Carsten Breuer übernimmt den Vorsitz",
+   "summary": "Carsten Breuer ist neuer Vorsitzender des Nato‑Militärausschusses. Er ist Generalinspekteur bei der Bundeswehr und Deutschlands ranghöchster Soldat. mehr...",
+   "link": "https://taz.de/Nato-Militaerausschuss/!6214677/",
+   "published": "2026-09-20T07:11:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Strafen in Peking: Eine Drohnen-Flugverbotszone so groß wie Italien",
+   "summary": "Die neue Flugverbotszone rund um Peking ist nur ein Fünftel kleiner als Deutschland. Der Besitz von Drohnen ist für Privatleute untersagt. Im schlimmsten Fall drohen zehn Tage Haft.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/drohnenverbot-in-peking-strikteste-flugverbotszone-der-welt-accg-201243976.html",
+   "published": "2026-09-20T07:01:56+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Wirtschaftswachstum: Ökonomen verdreifachen Prognose für Deutschland",
+   "summary": "Wirtschaftsforscher erwarten für Deutschland jetzt 1,2 Prozent Wachstum. Weit mehr als noch vor Kurzem. Auch das nächste Jahr sehen sie positiv. Zwei Wachstumsjahre seien schon ein Erfolg. Doch Risiken bleiben.",
+   "link": "https://www.spiegel.de/wirtschaft/wirtschaftswachstum-oekonomen-verdreifachen-prognose-fuer-deutschland-a-47cc64ee-ef7e-4e86-9244-dc6ecc0053ca#ref=rss",
+   "published": "2026-09-20T07:00:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -236,6 +335,15 @@
    "paywall": false
   },
   {
+   "label": "WiWo",
+   "title": "Russland: Parlamentswahl endet – wie schneidet Putins Partei ab?",
+   "summary": "In Russland endet am Sonntag die dreitägige Parlamentswahl. Beobachter melden Auffälligkeiten.",
+   "link": "https://www.wiwo.de/politik/ausland/parlamentswahl-in-kriegszeiten-wahl-in-russland-endet-wie-schneidet-putins-partei-ab/100255882.html",
+   "published": "2026-09-20T04:28:46+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
    "label": "ZEIT",
    "title": "Gefahren durch KI: Die wollen gebremst werden? Wirklich?",
    "summary": "Ausgerechnet die Chefs der großen KI-Unternehmen warnen vor ihrer Technik. Sie wünschen sich neue Gesetze – und könnten dadurch noch mächtiger werden.",
@@ -341,6 +449,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/minus-bei-umsatz-und-gewinn-analyse-deutsche-autobauer-verlieren-weiter-an-boden/100255885.html",
    "published": "2026-09-20T02:45:05+00:00",
    "first_seen": "2026-09-20T03:04:37.719591+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "VW, Mercedes, BMW: Deutsche Autobauer verlieren weiter an Boden",
+   "summary": "Während in der Autoindustrie Zehntausende Stellen wegfallen, wächst der Unmut: Die IG Metall will am Montag an mehr als 200 Orten protestieren.",
+   "link": "https://www.wiwo.de/unternehmen/auto/minus-bei-umsatz-und-gewinn-analyse-deutsche-autobauer-verlieren-weiter-an-boden/100255887.html",
+   "published": "2026-09-20T02:45:05+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
    "paywall": true
   },
   {
@@ -566,6 +683,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255853.html",
    "published": "2026-09-19T18:28:35+00:00",
    "first_seen": "2026-09-19T19:03:36.370657+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "„AI Force“: Trump setzt stärker auf KI – trotz Warnungen vor Gefahren",
+   "summary": "Führende KI-Experten wollen das Tempo wegen möglicher Kontrollverluste reduzieren. Die Botschaft von Donald Trump lautet hingegen: Volle Kraft voraus!",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-trump-setzt-staerker-auf-ki-trotz-warnungen-vor-gefahren/100255855.html",
+   "published": "2026-09-19T18:28:35+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
    "paywall": true
   },
   {
@@ -13372,132 +13498,6 @@
    "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
    "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-durch-ki-koennen-aus-zehn-managementebenen-vier-werden/100243656.html",
    "published": "2026-09-16T09:22:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Wiesn 2026: „Seit alle tanzen, ist es mit den Schlägereien weniger geworden“",
-   "summary": "Oktoberfest-Wirtin Stephanie Spendler über Millionenumsätze, Amerikaner im Wiesn-Fieber – und einen heiligen Rotwein-Moment im leeren Bierzelt.",
-   "link": "https://www.wiwo.de/unternehmen/oktoberfest-2026-seit-alle-tanzen-ist-es-mit-den-schlaegereien-weniger-geworden/100253004.html",
-   "published": "2026-09-16T09:21:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI räumt „schlimmsten Unfall“ der KI-Geschichte ein",
-   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
-   "link": "https://www.wiwo.de/unternehmen/openai-raeumt-schlimmsten-unfall-der-ki-geschichte-ein/100254875.html",
-   "published": "2026-09-16T09:20:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Krankheiten: Malariafälle in Frankfurt: Untersuchungen ausgeweitet",
-   "summary": "Wieder sind Menschen in Frankfurt an Malaria erkrankt. Das Gesundheitsamt vermutet einen Zusammenhang mit einer Mücke beim Flughafen. Es schaltet eine Hotline frei. Wie oft klingelt dieses Telefon?",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/krankheiten-malariafaelle-in-frankfurt-untersuchungen-ausgeweitet/100254973.html",
-   "published": "2026-09-16T09:19:29+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vor der Landtagswahl: Umfrage: AfD in MV nur noch zwei Punkte vor SPD",
-   "summary": "Eine neue Umfrage sieht die AfD in Mecklenburg-Vorpommern weiter vor der SPD. Die holt aber auf. Steht es in dieser Umfrage ähnlich schlecht um die CDU wie in vorhergehenden Erhebungen?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/vor-der-landtagswahl-umfrage-afd-in-mv-nur-noch-zwei-punkte-vor-spd/100254917.html",
-   "published": "2026-09-16T09:18:28+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Von der Leyen will Alarmmechanismus für Angriff auf die EU",
-   "summary": "Ursula von der Leyen will eine Beistandsklausel für EU-Länder im Angriffsfall. Sie pocht zudem auf mehr Kooperation mit Kanada, eine Social-Media-Altersgrenze und mehr Hitzeschutz.",
-   "link": "https://www.zdfheute.de/politik/deutschland/ursula-von-der-leyen-rede-eu-verteidigung-ki-hitze-china-kanada-100.html",
-   "published": "2026-09-16T09:18:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Prämie für Rodung: 5000 Euro für den Abschied vom Weinberg",
-   "summary": "Weniger Alkoholkonsum, zu viel Wein auf dem Markt: Winzer stecken tief in der Krise. Eine Rodungsprämie soll sie zum Ausstieg bewegen. Ist das sinnvoll?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/5000-euro-je-hektar-hilft-die-rodungspraemie-winzern-in-der-krise-accg-201229073.html",
-   "published": "2026-09-16T09:15:07+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Einkommensteuer: Worauf müssen wir beim Auswandern achten?",
-   "summary": "Unser Leser zieht samt Familie nach Schweden. Sie erkundigen sich nach den steuerlichen Folgen, auch wegen einer Immobilie in Deutschland.",
-   "link": "https://www.wiwo.de/finanzen/steuern-recht/einkommensteuer-worauf-muessen-wir-beim-auswandern-achten/100253939.html",
-   "published": "2026-09-16T09:15:06+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Medien: Neue Finanzchefin von ProSiebenSat.1 kommt von RTL",
-   "summary": "ProSiebenSat.1 besetzt seinen Finanzvorstand neu: Ingrid Heisserer wechselt von RTL Deutschland zum Konkurrenten. Sie folgt auf den Interims-Finanzchef Bob Rajan.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/medien-neue-finanzchefin-von-prosiebensat.1-kommt-von-rtl/100254961.html",
-   "published": "2026-09-16T09:15:01+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gegen den Trend: KI-Start-up Langdock verlegt Sitz nach Deutschland",
-   "summary": "Langdock kehrt mit seinem Hauptsitz aus den USA nach Deutschland zurück und plant Investitionen in ein eigenes Rechenzentrum für mehr digitale Souveränität.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/gegen-den-trend-ki-start-up-langdock-verlegt-sitz-nach-deutschland/100254967.html",
-   "published": "2026-09-16T09:13:17+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Dachboden entrümpeln: Warum haben die Eltern diesen ganzen Müll nicht schon früher entsorgt?",
-   "summary": "Handgeschriebene Briefe, das Kinderbett, vergilbte Geschäftspapiere: Wie viele Boomer hilft unsere Autorin ihren betagten Eltern beim Ausmisten. Eine Begegnung mit der Familiengeschichte.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/dachboden-entruempeln-familiengeschichte-zwischen-staub-accg-201176682.html",
-   "published": "2026-09-16T09:13:13+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Gewinn und Rendite: Deutsche Konzerne leiden unter einer gefährlichen Schwäche",
-   "summary": "Wer dürftige Gewinne einfährt, kann weniger in die Transformation investieren. Die fast chronische Gewinnmisere deutscher Unternehmen wird daher zur Überlebensfrage.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/bwl-professor-deckt-gefaehrliche-schwaeche-deutscher-konzerne-auf-accg-201202110.html",
-   "published": "2026-09-16T09:11:20+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Debatte um Merz: Die Erklärung der CDU-Ministerpräsidenten im Wortlaut",
-   "summary": "Nach dem CDU-Wahldebakel in Sachsen-Anhalt steht Kanzler Merz unter Druck. Wenige Tage vor den nächsten Landtagswahlen gibt es eine gemeinsame Stellungnahme der CDU-Ministerpräsidenten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/debatte-um-merz-die-erklaerung-der-cdu-ministerpraesidenten-im-wortlaut/100254909.html",
-   "published": "2026-09-16T09:07:09+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Ozonloch klein wie selten - aber Europas UV-Strahlung steigt",
-   "summary": "Das Ozonloch über der Antarktis ist 2025 so klein gewesen wie selten. Das berichtet die Weltwetterorganisation (WMO). Allerdings habe die UV-Strahlung zuletzt zugenommen.",
-   "link": "https://www.zdfheute.de/panorama/wetter-ozonloch-arktis-umweltschutz-weltozontag-100.html",
-   "published": "2026-09-16T09:05:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Auf diese zehn Aktien setzen viele Vermögensverwalter – wie Analysten die Titel einschätzen",
-   "summary": "Die Auswertung von 50.000 Depots zeigt, dass Anlageprofis bei ihren Favoriten deutlich von Weltindizes abweichen. Statt auf Tech-Aktien setzen sie unter anderem auf fünf deutsche Konzerne.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-auf-diese-zehn-aktien-setzen-viele-vermoegensverwalter-01/100252791.html",
-   "published": "2026-09-16T09:05:00+00:00",
    "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": true
   }

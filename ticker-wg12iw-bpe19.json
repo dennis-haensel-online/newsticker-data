@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-20T07:03:40.321519+00:00",
+ "updated": "2026-09-20T08:03:57.371713+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: IW-Forscher verdreifachen Prognose – Plus von 1,2 Prozent erwartet",
+   "summary": "Die deutsche Wirtschaft wächst stärker als erwartet. Doch es gibt Risiken.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-iw-forscher-verdreifachen-prognose-plus-von-12-prozent-erwartet/100255910.html",
+   "published": "2026-09-20T07:38:48+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Wirtschaftswachstum: Ökonomen verdreifachen Prognose für Deutschland",
+   "summary": "Wirtschaftsforscher erwarten für Deutschland jetzt 1,2 Prozent Wachstum. Weit mehr als noch vor Kurzem. Auch das nächste Jahr sehen sie positiv. Zwei Wachstumsjahre seien schon ein Erfolg. Doch Risiken bleiben.",
+   "link": "https://www.spiegel.de/wirtschaft/wirtschaftswachstum-oekonomen-verdreifachen-prognose-fuer-deutschland-a-47cc64ee-ef7e-4e86-9244-dc6ecc0053ca#ref=rss",
+   "published": "2026-09-20T07:00:00+00:00",
+   "first_seen": "2026-09-20T08:03:57.371713+00:00",
+   "paywall": false
   },
   {
    "label": "SPIEGEL",
@@ -882,24 +900,6 @@
    "link": "https://www.spiegel.de/wirtschaft/usa-widersetzt-sich-fed-chef-kevin-warsh-dem-druck-von-us-praesident-donald-trump-a-78810cd9-3e2f-43cc-8252-50684f9c1752#ref=rss",
    "published": "2026-09-16T14:56:00+00:00",
    "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mittelstand: Goldbeck widersetzt sich dem Abschwung im Wohnungsbau",
-   "summary": "Das Bielefelder Familienunternehmen erzielt einen Rekord beim Auftragseingang, der Umsatz bleibt dagegen stabil. Das offenbart ein Dilemma, das nicht nur die deutsche Baubranche umtreibt.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/mittelstand-goldbeck-widersetzt-sich-dem-abschwung-im-wohnungsbau/100254391.html",
-   "published": "2026-09-16T13:53:37+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Tötungen von Ak­ti­vis­t*in­nen: Wo Umweltschutz lebensgefährlich ist",
-   "summary": "An jedem dritten Tag wurde 2025 ein*e Um­welt­schüt­ze­r*in getötet, sagt die Menschenrechtsorganisation Global Witness. Die Dunkelziffer ist hoch. mehr...",
-   "link": "https://taz.de/Toetungen-von-Aktivistinnen/!6213595/",
-   "published": "2026-09-16T13:49:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": false
   }
  ]
