@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T12:04:44.313194+00:00",
+ "updated": "2026-09-20T13:03:22.412380+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Auswirkungen von Deepfakes in Lesotho: Wenn der König plötzlich lügt",
+   "summary": "In Lesotho verbreiten sich Deepfakes aus den sozialen Medien bis ins UKW-Radio – auch weil Afrikas Informationsräume von globalen Tech-Konzernen dominiert sind. mehr...",
+   "link": "https://taz.de/Auswirkungen-von-Deepfakes-in-Lesotho/!6197712/",
+   "published": "2026-09-20T12:57:00+00:00",
+   "first_seen": "2026-09-20T13:03:22.412380+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Digitalisierung: Können Sie E-Rechnung?",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/fraunhofer-institut-studie-datenschutz-macht-europa-wettbewerbsfaehiger/100255204.html",
    "published": "2026-09-17T03:00:14+00:00",
    "first_seen": "2026-09-17T04:04:35.573110+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Tests: OpenAI meldet weitere „besorgniserregende“ Zwischenfälle",
-   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-meldet-besorgniserregende-ki-zwischenfaelle-accg-201234749.html",
-   "published": "2026-09-17T01:03:16+00:00",
-   "first_seen": "2026-09-17T02:04:15.039945+00:00",
    "paywall": true
   }
  ]
