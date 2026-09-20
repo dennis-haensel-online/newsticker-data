@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T11:04:00.330196+00:00",
+ "updated": "2026-09-20T12:04:44.313194+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Digitalisierung: Können Sie E-Rechnung?",
+   "summary": "Vom kommenden Jahr an müssen alle Unternehmen mit mehr als 800.000 Euro Umsatz elektronische Rechnungen verschicken. Doch nur sechs Prozent sind aktuell dazu in der Lage.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/digitalisierung-koennen-sie-e-rechnung/100255379.html",
+   "published": "2026-09-20T11:23:13+00:00",
+   "first_seen": "2026-09-20T12:04:44.313194+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Tourismus: Mit KI durch Japan",
+   "summary": "Auf einem Innovationsgipfel in Tokio schwärmen die Führungskräfte einer Buchungsplattform von den Möglichkeiten der künstlichen Intelligenz. Tatsächlich ist die besonders für Reisende in Japan spannend.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/booking-com-ki-tourismus-japan-li.3548083",
+   "published": "2026-09-20T11:21:36+00:00",
+   "first_seen": "2026-09-20T12:04:44.313194+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Technologie: US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an",
@@ -882,24 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-meldet-besorgniserregende-ki-zwischenfaelle-accg-201234749.html",
    "published": "2026-09-17T01:03:16+00:00",
    "first_seen": "2026-09-17T02:04:15.039945+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
-   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255175.html",
-   "published": "2026-09-17T01:00:42+00:00",
-   "first_seen": "2026-09-17T01:04:46.206073+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
-   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255176.html",
-   "published": "2026-09-17T00:47:55+00:00",
-   "first_seen": "2026-09-17T01:04:46.206073+00:00",
    "paywall": true
   }
  ]
