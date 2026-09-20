@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T13:03:22.412380+00:00",
+ "updated": "2026-09-20T14:04:08.248754+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Donald Trump sucht einen \"KI-Zar\"",
+   "summary": "Zur Überwachung künstlicher Intelligenz will US-Präsident Trump eine \"AI Force\" gründen. Außerdem will er einen \"KI-Zar\" ernennen.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-ki-force-100.html",
+   "published": "2026-09-20T13:41:00+00:00",
+   "first_seen": "2026-09-20T14:04:08.248754+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Trump will geplanten Triumphbogen in Washington zum Militärkomplex machen",
+   "summary": "US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an +++ Dänemark und USA verkünden Durchbruch im Grönland-Streit – Details bleiben unklar +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-will-triumphbogen-in-washington-zum-militaerkomplex-machen/29669594.html",
+   "published": "2026-09-20T13:14:00+00:00",
+   "first_seen": "2026-09-20T14:04:08.248754+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Auswirkungen von Deepfakes in Lesotho: Wenn der König plötzlich lügt",
@@ -881,24 +899,6 @@
    "summary": "Nach US-Regeln brauchen auch autonome Robotaxis eine Ausnahmeerlaubnis, wenn sie ohne Lenkrad und Pedale unterwegs sein sollen. Elon Musks Tesla ignorierte das.",
    "link": "https://www.handelsblatt.com/technik/it-internet/autonomes-fahren-us-behoerde-nimmt-sich-teslas-robotaxi-vor/100255209.html",
    "published": "2026-09-17T03:22:21+00:00",
-   "first_seen": "2026-09-17T04:04:35.573110+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
-   "summary": "Künstliche Intelligenz entwickelt sich rasend schnell - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt gab der Entwickler weitere Probleme bekannt.",
-   "link": "https://www.tagesschau.de/ausland/amerika/openai-kuenstliche-intelligenz-100.html",
-   "published": "2026-09-17T03:14:12+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Fraunhofer-Institut: Studie: Datenschutz macht Europa wettbewerbsfähiger",
-   "summary": "Datenschutz als Wettbewerbsvorteil: Wie Europa mit Qualität statt Datenmaximierung punkten kann und was Forscher empfehlen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/fraunhofer-institut-studie-datenschutz-macht-europa-wettbewerbsfaehiger/100255204.html",
-   "published": "2026-09-17T03:00:14+00:00",
    "first_seen": "2026-09-17T04:04:35.573110+00:00",
    "paywall": true
   }
