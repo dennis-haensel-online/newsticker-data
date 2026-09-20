@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T04:04:24.400251+00:00",
+ "updated": "2026-09-20T05:03:49.908983+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,42 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Akku-Mythen im Check: So verlängern Sie die Akku-Lebensdauer",
+   "summary": "Egal ob Nickel- oder Lithium-Ionen-Akku: Akkus sind ständige Begleiter im Alltag. Für ein langes Leben müssen sie richtig geladen werden. Welche Mythen rund ums Akkuladen stimmen?",
+   "link": "https://www.zdfheute.de/ratgeber/akku-richtig-laden-schonen-handy-lithium-ionen-akku-tipps-100.html",
+   "published": "2026-09-20T04:31:00+00:00",
+   "first_seen": "2026-09-20T05:03:49.908983+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Gefahren durch KI: Die wollen gebremst werden? Wirklich?",
+   "summary": "Ausgerechnet die Chefs der großen KI-Unternehmen warnen vor ihrer Technik. Sie wünschen sich neue Gesetze – und könnten dadurch noch mächtiger werden.",
+   "link": "https://www.zeit.de/2026/40/gefahren-ki-risiken-openai-anthropic-dario-amodei-sam-altman",
+   "published": "2026-09-20T04:16:03+00:00",
+   "first_seen": "2026-09-20T05:03:49.908983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahl: Das sind die Spitzenkandidatinnen und -kandidaten in MV",
+   "summary": "Wer zieht nach der heutigen Wahl in den Landtag im Schweriner Schloss ein? Ein Überblick über die wichtigsten Köpfe und ihre Pläne.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-das-sind-die-spitzenkandidatinnen-und-kandidaten-in-mv/100255899.html",
+   "published": "2026-09-20T04:00:07+00:00",
+   "first_seen": "2026-09-20T05:03:49.908983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Berlin-Wahl: Die Spitzenkandidaten bei der Berliner Abgeordnetenhauswahl",
+   "summary": "Markige Worte, rollendes R und ein Notnagel: Diese Politikerinnen und Politiker wollen nach der heutigen Berlin-Wahl ins Rote Rathaus einziehen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-die-spitzenkandidaten-bei-der-berliner-abgeordnetenhauswahl/100255898.html",
+   "published": "2026-09-20T04:00:07+00:00",
+   "first_seen": "2026-09-20T05:03:49.908983+00:00",
    "paywall": true
   },
   {
@@ -13462,42 +13498,6 @@
    "summary": "Die Bahn feiert ihre Beschäftigten im neuen Markenauftritt als „Die Macher:innen“. Im Intranet kontern diese fast geschlossen mit beißender Kritik. Dann meldet sich der Konzern.",
    "link": "https://www.handelsblatt.com/unternehmen/dienstleister/deutsche-bahn-warum-mitarbeiter-den-neuen-markenauftritt-heftig-kritisieren/100254191.html",
    "published": "2026-09-16T08:22:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Preisfrage: Das macht die Notfallrettung teuer",
-   "summary": "Keine sieben Minuten dauert es im Schnitt, bis in Deutschland nach einem Alarm ein Rettungsteam vor Ort ist. Dieses Servicelevel hat seinen Preis.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/rettungswagen-wie-setzen-sich-die-kosten-fuer-eine-notfallrettung-zusammen/100252518.html",
-   "published": "2026-09-16T08:20:07+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Expansion: Britische Neobank Revolut beantragt Banklizenz in der Schweiz",
-   "summary": "Revolut hat bereits 1,3 Millionen Kundinnen und Kunden in der Schweiz. Um zu wachsen, plant die Digitalbank jetzt Millioneninvestitionen, Gehaltskonten und Schweizer IBANs.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/revolut-beantragt-banklizenz-in-der-schweiz-und-will-millionen-investieren/100254915.html",
-   "published": "2026-09-16T08:18:46+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Clemens Fuest: Was die Milliarden für Waffen mit Rente, Pflege und Wohlstand machen",
-   "summary": "Deutschland rüstet auf und der Kampf ums Geld beginnt. Doch wer bei der Verteidigung Milliarden einsparen will, unterliegt schnell einer Illusion. Ein Gastbeitrag.",
-   "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/clemens-fuest-was-die-milliarden-fuer-waffen-mit-rente-pflege-und-wohlstand-machen/100254196.html",
-   "published": "2026-09-16T08:18:04+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bedrohungen durch Russland: Von der Leyen will eigenen Artikel 4 für die EU",
-   "summary": "Reicht die Nato aus, um die Sicherheit Europas zu gewährleisten? EU-Kommissionspräsidentin Ursula von der Leyen scheint daran zu zweifeln und unternimmt einen weitreichenden Vorstoß.",
-   "link": "https://www.handelsblatt.com/politik/international/bedrohungen-durch-russland-von-der-leyen-will-eigenen-artikel-4-fuer-die-eu/100254940.html",
-   "published": "2026-09-16T08:15:58+00:00",
    "first_seen": "2026-09-16T09:04:03.358734+00:00",
    "paywall": true
   }

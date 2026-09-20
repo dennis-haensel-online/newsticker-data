@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T04:04:24.400251+00:00",
+ "updated": "2026-09-20T05:03:49.908983+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Gefahren durch KI: Die wollen gebremst werden? Wirklich?",
+   "summary": "Ausgerechnet die Chefs der großen KI-Unternehmen warnen vor ihrer Technik. Sie wünschen sich neue Gesetze – und könnten dadurch noch mächtiger werden.",
+   "link": "https://www.zeit.de/2026/40/gefahren-ki-risiken-openai-anthropic-dario-amodei-sam-altman",
+   "published": "2026-09-20T04:16:03+00:00",
+   "first_seen": "2026-09-20T05:03:49.908983+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Stand der Digitalisierung: Pflegekräfte wollen keine Gesundheitskarten mehr durch die Gegend fahren",
@@ -890,15 +899,6 @@
    "summary": "Digitalminister Wildberger setzt große Hoffnungen in den Zusammenschluss des kanadischen KI-Unternehmens Cohere mit dem deutschen Start-up Aleph Alpha. Aber mit allzu hohen Erwartungen sollte man vorsichtig sein.",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-und-cohere-kein-ki-wunder-erwarten-201232808.html",
    "published": "2026-09-16T16:46:47+00:00",
-   "first_seen": "2026-09-16T17:04:04.939302+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Landgericht Frankfurt: Urteil gegen Meta: Facebook-Konzern haftet für betrügerische Deepfakes im Netz",
-   "summary": "Die Geldanlage-Plattform Finanzfluss verklagte des US-Konzern – und hat jetzt recht bekommen. Die Entscheidung zeigt einen für den Konzern unerfreulichen Trend.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/deepfakes-urteil-gegen-meta-facebook-konzern-haftet-fuer-betrug-im-netz/100241787.html",
-   "published": "2026-09-16T16:34:23+00:00",
    "first_seen": "2026-09-16T17:04:04.939302+00:00",
    "paywall": true
   }
