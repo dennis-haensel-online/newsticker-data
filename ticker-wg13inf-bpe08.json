@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T10:04:27.362778+00:00",
+ "updated": "2026-09-20T11:04:00.330196+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an",
+   "summary": "Führende Köpfe der KI-Labore fürchten einen Kontrollverlust durch Künstliche Intelligenz. Trump setzt weiter auf die Technologie – und will ihr Wachstum persönlich beaufsichtigen.",
+   "link": "https://www.handelsblatt.com/politik/international/technologie-us-praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an/100255925.html",
+   "published": "2026-09-20T10:17:56+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Wendepunkte der Geschichte: Boston Tea Party",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255176.html",
    "published": "2026-09-17T00:47:55+00:00",
    "first_seen": "2026-09-17T01:04:46.206073+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Banken stellen 22 Milliarden für KI-Projekt von Google und Blackstone",
-   "summary": "Crux AI, das gemeinsame Cloud-Unternehmen von Blackstone und Google, bekommt von zehn Banken ein Milliarden-Darlehen. Ein weiterer Mega-Kredit für den Ausbau von KI-Infrastruktur.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-banken-stellen-22-milliarden-fuer-ki-projekt-von-google-und-blackstone/100255156.html",
-   "published": "2026-09-16T22:08:58+00:00",
-   "first_seen": "2026-09-16T23:04:08.744904+00:00",
    "paywall": true
   }
  ]

@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-20T10:04:27.362778+00:00",
+ "updated": "2026-09-20T11:04:00.330196+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an",
+   "summary": "Führende Köpfe der KI-Labore fürchten einen Kontrollverlust durch Künstliche Intelligenz. Trump setzt weiter auf die Technologie – und will ihr Wachstum persönlich beaufsichtigen.",
+   "link": "https://www.handelsblatt.com/politik/international/technologie-us-praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an/100255925.html",
+   "published": "2026-09-20T10:17:56+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
    "paywall": true
   },
   {
@@ -892,15 +901,6 @@
    "published": "2026-09-16T15:00:21+00:00",
    "first_seen": "2026-09-16T15:04:51.882053+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "USA: Widersetzt sich Fed-Chef Kevin Warsh dem Druck von US-Präsident Donald Trump?",
-   "summary": "Der neue Fed-Chef steht vor einer kaum lösbaren Aufgabe: die Inflation bekämpfen und dafür die Zinsen erhöhen – oder seinen Fürsprecher Donald Trump glücklich machen. Es ist ein Test, wie unabhängig der oberste US-Währungshüter ist.",
-   "link": "https://www.spiegel.de/wirtschaft/usa-widersetzt-sich-fed-chef-kevin-warsh-dem-druck-von-us-praesident-donald-trump-a-78810cd9-3e2f-43cc-8252-50684f9c1752#ref=rss",
-   "published": "2026-09-16T14:56:00+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": false
   }
  ]
 }

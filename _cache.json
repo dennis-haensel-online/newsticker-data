@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T10:04:27.362778+00:00",
+ "updated": "2026-09-20T11:04:00.330196+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,114 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Neuer Tankrabatt: Nichts dazugelernt",
+   "summary": "Die Bundesregierung einigt sich auf einen weiteren Tankrabatt. Aber der entlastet nicht nur Geringverdienende, sondern bedient vor allem Reiche und Mineralölkonzerne. mehr...",
+   "link": "https://taz.de/Neuer-Tankrabatt/!6214691/",
+   "published": "2026-09-20T10:44:00+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Teurer Sprit: Neuer Tankrabatt ab Oktober – Kritik an fehlendem Sparanreiz",
+   "summary": "Die Neuauflage des Tankrabatts soll Autofahrer kurzfristig entlasten, stößt aber auf Kritik. Verbraucherschützer und Sozialverbände fordern gezieltere Maßnahmen für Haushalte mit geringem Einkommen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/teurer-sprit-neuer-tankrabatt-ab-oktober-kritik-an-fehlendem-sparanreiz/100255911.html",
+   "published": "2026-09-20T10:38:19+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Berlin-Wahl 2026: Berliner können seit acht Uhr ihre Stimme abgeben",
+   "summary": "Sowohl die Linke als auch die CDU machen sich in Berlin Hoffnungen aufs Rote Rathaus. Alle Ereignisse im Liveticker.",
+   "link": "https://www.wiwo.de/politik/deutschland/wahlen-berlin-2026-im-liveticker-das-muessen-sie-wissen/100255680.html",
+   "published": "2026-09-20T10:28:00+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Autoproduktion in Deutschland ist kein Naturgesetz",
+   "summary": "VDA-Präsidentin Hildegard Müller fordert vor dem IG-Metall-Aktionstag mehr Veränderungsbereitschaft von Gewerkschaften und Beschäftigten – und warnt vor den hohen Arbeitskosten.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/hildegard-mueller-autoproduktion-in-deutschland-ist-kein-naturgesetz/100255457.html",
+   "published": "2026-09-20T10:27:15+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Ukraine gelingt begrenzte, aber wichtige Gegenoffensive",
+   "summary": "Bei Lyman hat die Ukraine einen russischen Vorstoß abgewehrt. Die Operation \"Vivaldi\" zeigt, dass örtliche Gegenangriffe im Stellungskrieg gelingen können.",
+   "link": "https://www.zdfheute.de/politik/ausland/militaeranalyse-lyman-stellungskrieg-ukraine-russland-100.html",
+   "published": "2026-09-20T10:27:00+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Huthi-Angriffe in Saudi-Arabien: USA warnen vor Eskalation",
+   "summary": "Der Konflikt zwischen Saudi-Arabien und der von Iran unterstützten Huthi-Miliz verschärft sich. In Riad kam es zu Explosionen. Die USA warnen vor einer raschen Eskalation.",
+   "link": "https://www.zdfheute.de/politik/ausland/huthi-saudi-arabien-neue-angriffe-100.html",
+   "published": "2026-09-20T10:21:00+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Oldtimer: Schnell, schön, Superveloce – Diese Italo-Sportwagen sollte man kennen",
+   "summary": "Limitierte Hypercars legendärer Italo-Marken liegen im Trend: Bei Highspeed-Festivals wie Goodwood stehen sie im Fokus und erzielen Rekordwerte bei Auktionen. Ein Rückblick.",
+   "link": "https://www.handelsblatt.com/mobilitaet/oldtimer/italo-sportwagen-schnell-schoen-superveloce-diese-klassiker-sollte-man-kennen/100255926.html",
+   "published": "2026-09-20T10:20:21+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an",
+   "summary": "Führende Köpfe der KI-Labore fürchten einen Kontrollverlust durch Künstliche Intelligenz. Trump setzt weiter auf die Technologie – und will ihr Wachstum persönlich beaufsichtigen.",
+   "link": "https://www.handelsblatt.com/politik/international/technologie-us-praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an/100255925.html",
+   "published": "2026-09-20T10:17:56+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "US-Militär tötet vier Menschen auf angeblichem Drogenboot",
+   "summary": "Erneut hat die US-Armee ein Boot angegriffen, das in Drogenschmuggel involviert gewesen sein soll. Vier Menschen kamen nach US-Angaben ums Leben.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-angriff-boot-karibik-drogenhandel-100.html",
+   "published": "2026-09-20T10:17:00+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Landtagswahlen Mecklenburg-Vorpommern: SPD kurz vor Wahl in Mecklenburg-Vorpommern leicht vor der AfD",
+   "summary": "Mecklenburg-Vorpommern wählt einen neuen Landtag. Laut einer aktuellen Umfrage droht ein Kopf-an-Kopf-Rennen zwischen AfD und SPD.",
+   "link": "https://www.wiwo.de/politik/deutschland/wahl-mecklenburg-vorpommern-2026-spd-in-aktueller-umfrage-vor-afd/100252860.html",
+   "published": "2026-09-20T10:12:00+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energie: „Zombie-Projekte“: Investoren sicherten sich Lizenzen für Windparks auf See – jetzt zögern sie",
+   "summary": "Ungenutzte Flächen für Windparks in Nord- und Ostsee blockieren den Ausbau der Offshore-Windkraft. Das Wirtschaftsministerium könnte helfen, sieht aber keinen Handlungsbedarf.",
+   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-zombie-projekte-investoren-zoegern-beim-bau-von-windparks-auf-see/100255556.html",
+   "published": "2026-09-20T10:01:55+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Ukrainische Drohnen attackieren Moskau am Wahltag",
+   "summary": "180 Fluggeräte sollen abgefangen worden sein, zwei Menschen starben. Auch eine Ölraffinerie wurde getroffen. Moskaus Bürgermeister sprach von einem Versuch, die Abstimmung zu stören.",
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-ukrainische-drohnen-attackieren-moskau-am-wahltag/100255922.html",
+   "published": "2026-09-20T09:57:52+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
    "paywall": true
   },
   {
@@ -26,6 +134,15 @@
    "link": "https://www.wiwo.de/politik/deutschland/wahlen-mecklenburg-vorpommern-2026-aktuelle-news-im-liveticker/100255684.html",
    "published": "2026-09-20T09:50:00+00:00",
    "first_seen": "2026-09-20T10:04:27.362778+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Wahl Mecklenburg-Vorpommern 2026: Schwesig gegen die AfD – Wahllokale geöffnet",
+   "summary": "Mecklenburg-Vorpommern wählt einen neuen Landtag. Wir begleiten die Wahl in unserem Liveticker.",
+   "link": "https://www.wiwo.de/politik/deutschland/wahl-mecklenburg-vorpommern-2026-aktuelle-news-im-liveticker/100255684.html",
+   "published": "2026-09-20T09:50:00+00:00",
+   "first_seen": "2026-09-20T11:04:00.330196+00:00",
    "paywall": true
   },
   {
@@ -13382,123 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaft-ig-metall-sieht-erholung-und-attackiert-arbeitgeber/100254983.html",
    "published": "2026-09-16T10:20:43+00:00",
    "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Kinder fragen, die taz antwortet: Was ist eigentlich in meinem Hoden? Eier, Nüsse oder Mandeln?",
-   "summary": "Wir wollen von Kindern wissen, welche Fragen sie beschäftigen. Jede Woche beantworten wir eine. Diese Frage kommt von Mads, 5 Jahre alt. mehr...",
-   "link": "https://taz.de/Kinder-fragen-die-taz-antwortet/!6208126/",
-   "published": "2026-09-16T10:16:00+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Desinformation: „Frequenz der Aktivitäten weiter erhöht“: Verfassungsschutz sieht Merz verstärkt im Visier Russlands",
-   "summary": "Russland verstärkt laut Verfassungsschutz seine Desinformationskampagnen gegen Kanzler Friedrich Merz. Der Zeitpunkt ist heikel: In wenigen Tagen stehen zwei wichtige Wahlen an.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/desinformation-verfassungsschutz-warnt-vor-anti-merz-kampagne-aus-russland/100254765.html",
-   "published": "2026-09-16T10:15:18+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Buch über Macht von Bewertungssystemen: Eine universelle Sprache der Rechtfertigung",
-   "summary": "In „Der Score. Wie wir aufhören, das Spiel der anderen zu spielen“ untersucht der Philosoph C. Thi Nguyen die Macht von Bewertungssystemen. mehr...",
-   "link": "https://taz.de/Buch-ueber-Macht-von-Bewertungssystemen/!6211487/",
-   "published": "2026-09-16T10:14:00+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: China warnt vor militärischem Missbrauch von KI",
-   "summary": "Kurz vor dem Gipfeltreffen in Washington fordert Peking internationale KI-Regeln. Verteidigungsminister Jun verweist auf das Risiko, Streitkräfte könnten die Technologie missbrauchen.",
-   "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-china-warnt-vor-militaerischem-missbrauch-von-ki/100254882.html",
-   "published": "2026-09-16T10:11:15+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Agrar: BayWa-Sanierung kurz vor Abschluss – Hybridanleihe fast wertlos",
-   "summary": "Bei BayWa müssen die Zeichner einer Hybridanleihe Verluste wegstecken. Es ist bereits der zweite Anlauf auf eine Sanierung des Agrarkonzerns, der erste war gescheitert.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/agrar-baywa-sanierung-kurz-vor-abschluss-hybridanleihe-fast-wertlos/100254980.html",
-   "published": "2026-09-16T10:07:24+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Zuwanderung von Fachkräften: Verlorene Zeit",
-   "summary": "Deutschland braucht dringend Fachkräfte aus dem Ausland. Selbst die Bundesregierung beteuert das oft – aber sie tut nichts dafür. mehr...",
-   "link": "https://taz.de/Zuwanderung-von-Fachkraeften/!6213296/",
-   "published": "2026-09-16T10:05:00+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz in Schulen: Wie Google, Amazon und Microsoft in Europas Klassenzimmer drängen",
-   "summary": "US-Techkonzerne drängen mit ihrer KI-Software in die Schulen und Universitäten. Gerät das Bildungssystem in eine gefährliche Abhängigkeit?",
-   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-in-schulen-wie-google-amazon-und-microsoft-in-europas-klassenzimmer-draengen-a-ba136f53-3aec-4800-bdc2-2604e21a6149#ref=rss",
-   "published": "2026-09-16T10:03:00+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Medienkonsum bei Kindern: Sein oder Bildschirmschein",
-   "summary": "Smartphones und Tablets prägen den Familienalltag. Doch dabei verlieren Kinder oft den Bezug zur Realität. Ein Besuch in der Physiotherapie. mehr...",
-   "link": "https://taz.de/Medienkonsum-bei-Kindern/!6204140/",
-   "published": "2026-09-16T10:03:00+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz in Schulen: Wie Google, Amazon, Microsoft in Europas Klassenzimmer drängen",
-   "summary": "US-Techkonzerne drängen mit ihrer KI-Software in die Schulen und Universitäten. Gerät das Bildungssystem in eine gefährliche Abhängigkeit?",
-   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-in-schulen-wie-google-amazon-microsoft-in-europas-klassenzimmer-draengen-a-ba136f53-3aec-4800-bdc2-2604e21a6149#ref=rss",
-   "published": "2026-09-16T10:03:00+00:00",
-   "first_seen": "2026-09-16T17:04:04.939302+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilitätskosten: Rekorde beim Spritpreis - Entlastung schon zum 1. Oktober?",
-   "summary": "Benzin ist so teuer wie nie zuvor, Diesel nur noch knapp unter seinem Höchststand. Die Koalition will schnell handeln. Was genau passieren soll, ist umstritten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-rekorde-beim-spritpreis-entlastung-schon-zum-1-oktober/100254910.html",
-   "published": "2026-09-16T10:01:40+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deutscher Herzbericht: Herzbericht: Weniger Todesfälle durch Herzinfarkte",
-   "summary": "Die Sterberate durch Herzinfarkte ist zuletzt deutlich gesunken. Was der aktuelle Herzbericht über Ursachen, Trends und Herausforderungen der Versorgung zeigt.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/deutscher-herzbericht-herzbericht-weniger-todesfaelle-durch-herzinfarkte/100254996.html",
-   "published": "2026-09-16T10:00:06+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI räumt „schlimmsten Unfall“ der KI-Geschichte ein",
-   "summary": "Auf der Salesforce-Konferenz Dreamforce streiten Sam Altman, Jensen Huang und Dario Amodei über KI‑Risiken. OpenAI räumt nach dem Hugging-Face-Vorfall schwere Kontrollprobleme ein.",
-   "link": "https://www.wiwo.de/unternehmen/dreamforce-openai-raeumt-schlimmsten-unfall-der-ki-geschichte-ein/100254875.html",
-   "published": "2026-09-16T09:59:00+00:00",
-   "first_seen": "2026-09-16T11:04:24.309187+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "EU: Kanadas langer Weg nach Europa",
-   "summary": "Kanada könnte assoziiertes EU-Mitglied werden. Wie Ursula von der Leyen und Mark Carney die Annäherung planen, welche Hürden bestehen und was das für die Wirtschaft bedeutet.",
-   "link": "https://www.wiwo.de/politik/europa/eu-kanadas-langer-weg-nach-europa/100254639.html",
-   "published": "2026-09-16T09:58:27+00:00",
-   "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": true
   }
  ]
