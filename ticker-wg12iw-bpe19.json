@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-20T02:04:14.362384+00:00",
+ "updated": "2026-09-20T03:04:37.719591+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Wirtschaftsweise Veronika Grimm kritisiert neuen Tankrabatt scharf",
+   "summary": "Die geplante Entlastung an der Zapfsäule geht laut Veronika Grimm auf Kosten der jungen Generation. Die Wirtschaftsweise warnt: Derartig kurzsichtige Aktionen könnten mittelfristig drastische Konsequenzen haben.",
+   "link": "https://www.spiegel.de/wirtschaft/wirtschaftsweise-veronika-grimm-kritisiert-neuen-tankrabatt-scharf-a-9a7b83fd-da6f-4e40-9359-f2234f8cb33e#ref=rss",
+   "published": "2026-09-20T02:31:00+00:00",
+   "first_seen": "2026-09-20T03:04:37.719591+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -892,15 +901,6 @@
    "published": "2026-09-16T13:49:00+00:00",
    "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Fed-Sitzung: Kevin Warsh macht einen Fehler, wenn er die Leitzinsen erhöht",
-   "summary": "Steigende Zinsen werden die Inflationsursachen nicht bekämpfen. Fed-Chef Warsh sollte sich gegen die Markterwartungen stellen – auch wenn sein Ruf auf dem Spiel steht. Ein Gastbeitrag.",
-   "link": "https://www.wiwo.de/politik/ausland/fed-zinsentscheid-warum-hoehere-leitzinsen-die-us-inflation-nicht-senken/100254949.html",
-   "published": "2026-09-16T13:22:00+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
   }
  ]
 }
