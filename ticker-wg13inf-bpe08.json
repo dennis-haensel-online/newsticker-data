@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T06:04:52.850467+00:00",
+ "updated": "2026-09-20T07:03:40.321519+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Deutsche Autobauer melden ungewöhnlich schwaches erstes Halbjahr",
+   "summary": "Studie: Umsatz gegen internationalen Trend rückläufig +++ Trump will „KI-Zar“ ernennen +++ Neuigkeiten im Unternehmen-Liveblog.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-deutsche-autobauer-melden-ungewoehnlich-schwaches-erstes-halbjahr-faz-200452404.html",
+   "published": "2026-09-20T06:02:59+00:00",
+   "first_seen": "2026-09-20T07:03:40.321519+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Führung: „Das Schlimmste aus der Perspektive eines überklugen Typen wie Elon Musk ist ja das Sterben“",
@@ -892,15 +901,6 @@
    "published": "2026-09-16T17:02:24+00:00",
    "first_seen": "2026-09-16T18:05:01.594711+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Roboter kocht am Leipziger Hauptbahnhof",
-   "summary": "Im \"Robyn’s\" am Leipziger Hauptbahnhof steht kein Mensch, sondern ein Roboter am Herd. Das Restaurant ist das erste in Deutschland, in dem ein Roboter kocht.",
-   "link": "https://www.zdfheute.de/video/zdfheute-xpress/roboter-koch-restaurant-video-100.html",
-   "published": "2026-09-16T16:52:00+00:00",
-   "first_seen": "2026-09-16T17:04:04.939302+00:00",
-   "paywall": false
   }
  ]
 }
