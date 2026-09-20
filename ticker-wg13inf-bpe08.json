@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-20T16:04:00.828089+00:00",
+ "updated": "2026-09-20T17:03:47.751371+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Zollkrieg: USA und China bereiten Trump-Xi-Gipfel vor – Zölle im Fokus",
+   "summary": "Bei den Verhandlungen werden die Handelsbeauftragten auch über Künstliche Intelligenz sprechen. Die USA seien laut US-Finanzminister Scott Bessent offen für Gespräche.",
+   "link": "https://www.handelsblatt.com/politik/international/zollkrieg-usa-und-china-bereiten-trump-xi-gipfel-vor-zoelle-im-fokus/100255965.html",
+   "published": "2026-09-20T16:34:05+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Russland meldet Cyberangriffe auf Wahl-Infrastruktur",
@@ -891,15 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/auto/autonomes-fahren-us-behoerde-nimmt-sich-teslas-robotaxi-vor/100255210.html",
    "published": "2026-09-17T05:59:00+00:00",
    "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
-   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-macht-weitere-ki-probleme-oeffentlich/100255177.html",
-   "published": "2026-09-17T04:52:00+00:00",
-   "first_seen": "2026-09-17T05:04:20.465625+00:00",
    "paywall": true
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T16:04:00.828089+00:00",
+ "updated": "2026-09-20T17:03:47.751371+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,294 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Alle Grafiken zur Wahl in Mecklenburg-Vorpommern",
+   "summary": "Mecklenburg-Vorpommern hat gewählt. Hier finden Sie im Lauf des Abends alle Grafiken zum Wahlausgang, zu möglichen Koalitionen und dem Wahlverhalten nach Alter und Geschlecht.",
+   "link": "https://www.zdfheute.de/politik/deutschland/landtagswahl-mecklenburg-vorpommern-ergebnisse-grafiken-102.html",
+   "published": "2026-09-20T17:02:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahl: AfD liegt in Mecklenburg-Vorpommern knapp vor der SPD",
+   "summary": "Die Aufholjagd der Ministerpräsidentin Manuela Schwesig (SPD) reichte nicht, um an der AfD vorbeizuziehen. Eine Regierungsbildung wird aber auch für AfD‑Kandidat Holm schwierig.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/mecklenburg-vorpommern-afd-liegt-laut-hochrechnungen-vor-der-spd/100255948.html",
+   "published": "2026-09-20T16:59:04+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Berlin Wahlen 2026: Linke gewinnen Berlin-Wahlen laut aktuellen Hochrechnungen",
+   "summary": "Die schwarz-rote Regierung verliert ihre Mehrheit. Das BSW zittert um den Einzug ins Abgeordnetenhaus. Aktuelle Hochrechnungen und mögliche Koalitionen im Überblick.",
+   "link": "https://www.wiwo.de/politik/deutschland/berlin-wahlen-2026-aktuelle-hochrechnung-sitzverteilung-co./100255930.html",
+   "published": "2026-09-20T16:59:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahlen: „Was für eine Aufholjagd!“ – Schwesig feiert Wahlergebnis und schließt AfD-Regierungsbeteiligung aus",
+   "summary": "Chrupalla und Holm sehen Regierungsauftrag für AfD in MV +++ Grüne wollen in Berlin mitregieren +++ AfD vor SPD in MV +++ Merz: „Reformen müssen kommen“ +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-was-fuer-eine-aufholjagd-schwesig-feiert-wahlergebnis/100252039.html",
+   "published": "2026-09-20T16:57:10+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Landtagswahlen Mecklenburg-Vorpommern: AfD laut aktuellen Hochrechnungen vorn, CDU schafft wohl Wiedereinzug",
+   "summary": "Mecklenburg-Vorpommern hat einen neuen Landtag gewählt. Laut aktuellen Hochrechnungen führt die AfD knapp vor der SPD.",
+   "link": "https://www.wiwo.de/politik/deutschland/wahl-mecklenburg-vorpommern-2026-aktuelle-hochrechnungen-sitzverteilung-co./100252860.html",
+   "published": "2026-09-20T16:55:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Alle Grafiken zur Wahl in Berlin",
+   "summary": "Berlin hat gewählt. Hier finden Sie im Lauf des Abends alle Grafiken zum Wahlausgang, zu möglichen Koalitionen und dem Wahlverhalten nach Alter und Geschlecht.",
+   "link": "https://www.zdfheute.de/politik/deutschland/wahl-berlin-2026-alle-ergebnisse-grafiken-102.html",
+   "published": "2026-09-20T16:54:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahlen: Merz wählt die Flucht nach vorn – die fünf Lehren am Wahlabend",
+   "summary": "Trotz „Desaster“ in Mecklenburg-Vorpommern will der Kanzler weiterhin Verantwortung übernehmen. An Manuela Schwesig kommt in der SPD niemand mehr vorbei. Große Gewinner sind aber andere.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-merz-waehlt-die-flucht-nach-vorn-die-fuenf-lehren-am-wahlabend/100253497.html",
+   "published": "2026-09-20T16:53:27+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahl in Mecklenburg-Vorpommern: AfD im Nordosten leicht vor SPD - CDU nur knapp im Landtag",
+   "summary": "Die AfD liegt an Ostseeküste und Seenplatte knapp vor der SPD. Die CDU ist nach den ersten Hochrechnungen nur hauchdünn im Parlament und muss zittern. Wer kann am Ende regieren?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-mecklenburg-vorpommern-afd-im-nordosten-leicht-vor-spd-cdu-nur-knapp-im-landtag/100255963.html",
+   "published": "2026-09-20T16:52:03+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Ein Desaster\": Merz reagiert auf das CDU-Wahlergebnis",
+   "summary": "Kanzler Merz hat sich zu den Wahlprognosen in Berlin und Mecklenburg-Vorpommern geäußert. Er verteidigte die Arbeit der Regierung und betonte: \"Deutschland ist reformfähig.\"",
+   "link": "https://www.zdfheute.de/politik/deutschland/merz-kanzler-wahlen-berlin-mecklenburg-vorpommern-statement-cdu-regierung-100.html",
+   "published": "2026-09-20T16:52:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahlen: CDU-Pleite bei Wahl im Nordosten – Linke vorn in Berlin",
+   "summary": "Die CDU stürzt in Mecklenburg-Vorpommern ab – und in Berlin könnte erstmals eine Linken-Politikerin die Regierung anführen. Beides könnte Folgen für Kanzler Merz und die Bundesregierung haben.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-cdu-pleite-bei-wahl-im-nordosten-linke-vorn-in-berlin/100255884.html",
+   "published": "2026-09-20T16:51:44+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Peters: \"Schwierigste Rahmenbedingungen\"",
+   "summary": "Die CDU bangt in Mecklenburg-Vorpommern um den Einzug in den Landtag. Spitzenkandidat Daniel Peters sieht im Wahlkampf \"schwierigste Rahmenbedingungen\" und dankt den Wahlkämpfern.",
+   "link": "https://www.zdfheute.de/video/wahlen/daniel-peters-cdu-schwierige-bedingungen-mecklenburg-vorpommern-wahl-video-100.html",
+   "published": "2026-09-20T16:49:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Abgeordnetenhauswahl: Berliner Grüne streben Koalition mit Linken und SPD an",
+   "summary": "Die Linke liegt in Berlin klar vorn - der Koalitionspoker ist eröffnet. Das haben die Grünen nun vor.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/abgeordnetenhauswahl-berliner-gruene-streben-koalition-mit-linken-und-spd-an/100255962.html",
+   "published": "2026-09-20T16:47:28+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Klüssendorf: \"Gemischte Gefühle\"",
+   "summary": "Das Ergebnis der SPD in Mecklenburg-Vorpommern sei ein \"großer Erfolg\", sagt Tim Klüssendorf, Generalsekretär der SPD. Das Ergebnis in Berlin sei hingegen \"extrem enttäuschend.\"",
+   "link": "https://www.zdfheute.de/video/wahlen/tim-kluessendorf-spd-reaktion-prognose-mecklenburg-vorpommern-wahl-video-100.html",
+   "published": "2026-09-20T16:46:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "MV-Landtagswahl: Leif-Erik Holm - strahlender Wahlkämpfer, aber auch Kritik",
+   "summary": "Im Kampf um die Schweriner Staatskanzlei setzte Leif-Erik Holm für die AfD auf bürgerliches und lockeres Auftreten. Doch es gibt Kritik an ihm - nicht nur von der politischen Konkurrenz.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/mv-landtagswahl-leif-erik-holm-strahlender-wahlkaempfer-aber-auch-kritik/100255899.html",
+   "published": "2026-09-20T16:45:46+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Rad-WM: Einzelzeitfahren der Männer",
+   "summary": "Sehen Sie das Einzelzeitfahren der Männer bei der Straßenrad-WM im kanadischen Montreal im Livestream. Kommentar: Felix Tusche, Experte: Simon Geschke.",
+   "link": "https://www.zdf.de/video/livestreams/radsport-wettkaempfe-livestreams-highlights-live-100/radsport-strassenrad-wm-montreal-einzelzeitfahren-maenner-livestream-100",
+   "published": "2026-09-20T16:45:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Merz: \"Ordentliches Ergebnis in Berlin“",
+   "summary": "Im Norden sei die CDU zerrieben worden im Zweikampf zwischen SPD und AfD, bilanziert Bundeskanzler Friedrich Merz (CDU). Der Rückenwind der Bundespolitik habe gefehlt.",
+   "link": "https://www.zdfheute.de/video/wahlen/friedrich-merz-cdu-statement-mecklenburg-vorpommern-wahl-berlin-wahl-video-100.html",
+   "published": "2026-09-20T16:44:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "CDU: Merz bleibt im Amt und wirbt für Reformkurs der Regierung",
+   "summary": "Schicksalstag für den Kanzler: Direkt nach den Prognosen zu den Wahlen in Mecklenburg-Vorpommern und Berlin äußert sich der CDU-Vorsitzende selbst. Er will im Amt bleiben.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/cdu-merz-bleibt-im-amt-und-wirbt-fuer-reformkurs-der-regierung/100255881.html",
+   "published": "2026-09-20T16:43:12+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahl in Berlin: Wahl-Prognosen: Linke greift in Berlin nach der Macht",
+   "summary": "In Berlin steht nach der Wahl zum Abgeordnetenhaus ein Regierungswechsel an. Möglich sind nach den Prognosen nur noch Dreier-Koalitionen. Diese Parteien könnten sie anführen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-berlin-wahl-prognosen-linke-greift-in-berlin-nach-der-macht/100255968.html",
+   "published": "2026-09-20T16:39:14+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Brantner: \"Herausforderndes Ergebnis\"",
+   "summary": "Es habe sich gelohnt zu kämpfen, sagt die Bundesvorsitzende Franziska Brantner (Grüne). Mit den Grünen sei zu rechnen.",
+   "link": "https://www.zdfheute.de/video/wahlen/franziska-brantner-gruene-gesamteinschaetzung-mecklenburg-vorpommern-wahl-berlin-wahl-video-100.html",
+   "published": "2026-09-20T16:36:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zollkrieg: USA und China bereiten Trump-Xi-Gipfel vor – Zölle im Fokus",
+   "summary": "Bei den Verhandlungen werden die Handelsbeauftragten auch über Künstliche Intelligenz sprechen. Die USA seien laut US-Finanzminister Scott Bessent offen für Gespräche.",
+   "link": "https://www.handelsblatt.com/politik/international/zollkrieg-usa-und-china-bereiten-trump-xi-gipfel-vor-zoelle-im-fokus/100255965.html",
+   "published": "2026-09-20T16:34:05+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Weidel: Die Wähler wollen einen Politikwechsel",
+   "summary": "Die AfD sei die neue Volkspartei und sei jetzt in der Mitte der Bevölkerung angekommen, sagt Alice Weidel, die Bundessprecherin der AfD.",
+   "link": "https://www.zdfheute.de/video/wahlen/alice-weidel-afd-statement-mecklenburg-vorpommern-wahl-berlin-wahl-video-100.html",
+   "published": "2026-09-20T16:34:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie die Hochrechnung in Schwerin und Berlin ausfällt",
+   "summary": "Die erste Hochrechnung liegt vor: In Mecklenburg-Vorpommern liegt die AfD knapp vor der SPD. In Berlin konnten die Linken die meisten Stimmen gewinnen. Mehr im Liveblog.",
+   "link": "https://www.zdfheute.de/politik/deutschland/wahl-berlin-landtagswahl-mecklenburg-vorpommern-prognose-hochrechnung-ergebnisse-liveticker-104.html",
+   "published": "2026-09-20T16:29:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahl: Die „Frau gegen Blau“ hofft auf Fortsetzung in Schwerin",
+   "summary": "Nach dem Sieg in Sachsen-Anhalt hat die AfD auch in Mecklenburg-Vorpommern ein Rekordergebnis erzielt. Doch die SPD hat zuletzt enorm Boden gut gemacht. Reicht das zum Weiterregieren?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahl-die-frau-gegen-blau-hofft-auf-fortsetzung-in-schwerin/100255966.html",
+   "published": "2026-09-20T16:28:29+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Evers: CDU in Berlin \"gegen Abwärtstrend zugelegt\"",
+   "summary": "Die Wahlprognose in Berlin stimme demütig, so CDU-Spitzenkandidat Stefan Evers. Man habe sich gemeinsam gegen den politischen Gegenwind gestemmt.",
+   "link": "https://www.zdfheute.de/video/wahlen/stefan-evers-cdu-nach-prognose-berlin-wahl-video-100.html",
+   "published": "2026-09-20T16:28:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Berlin-Wahl: Linke in Berlin stärkste Kraft – CDU büßt Stimmen ein",
+   "summary": "Bei den Wahlen für das Berliner Landesparlament kann die Linke deutlich zulegen und schneidet auch besser ab als die CDU. Die AfD legt leicht zu, die SPD verliert deutlich.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/berlin-wahl-linke-in-berlin-staerkste-kraft-cdu-buesst-stimmen-ein/100255947.html",
+   "published": "2026-09-20T16:23:11+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Schwesig: \"Das ist eine Teamleistung\"",
+   "summary": "\"Vor einem Jahr hätten die wenigsten gedacht, dass es möglich ist, aufzuholen\", sagt die Spitzenkandidatin der SPD Manuela Schwesig: \"Wir haben von Anfang an daran geglaubt.\"",
+   "link": "https://www.zdfheute.de/video/wahlen/manuela-schwesig-spd-prognose-mecklenburg-vorpommern-wahl-video-100.html",
+   "published": "2026-09-20T16:22:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Eralp: \"Haben gemeinsam Geschichte geschrieben\"",
+   "summary": "Nach der ersten Prognose zur Wahl in Berlin herrscht Feierstimmung bei den Linken. Spitzenkandidatin Elif Eralp dankt ihren Wählerinnen und Wählern für den Zusammenhalt.",
+   "link": "https://www.zdfheute.de/video/wahlen/elif-eralp-linke-nach-prognose-berlin-wahl-video-100.html",
+   "published": "2026-09-20T16:21:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahl in Berlin: Wer ist Elif Eralp?",
+   "summary": "Elif Eralp hat die Berliner Linke durch den Wahlkampf geführt. Und ihre Partei hat nach den aktuellen Daten klar den Sieg errungen. Wofür steht die Politikerin? Und was sind ihre Ziele?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-berlin-wer-ist-elif-eralp/100255898.html",
+   "published": "2026-09-20T16:20:32+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Merz: \"Ich möchte unser Land voranbringen\"",
+   "summary": "Statement von Bundeskanzler Friedrich Merz ()CDU) am Abend der Wahlen in Berlin und Mecklenburg-Vorpommern",
+   "link": "https://www.phoenix.de/merz-nach-den-wahlen-a-5234196.html",
+   "published": "2026-09-20T16:19:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Trump und seine Umbenneritis: Sein Name, seine Stadt, seine Welt",
+   "summary": "Donald Trump will sich in Washington verewigen – im Fall des Kennedy-Centers sogar buchstäblich. Man muss sich sorgen um die Kulturinstitution. mehr...",
+   "link": "https://taz.de/Trump-und-seine-Umbenneritis/!6208372/",
+   "published": "2026-09-20T16:10:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Melonis Plan für Italiens Schulen: Ausländerquote und Schleierverbot",
+   "summary": "Italiens Ministerpräsidentin will das Tragen von Gesichtsschleiern in Schulen verbieten. Außerdem will sie Eltern zum Italienischlernen verpflichten. mehr...",
+   "link": "https://taz.de/Melonis-Plan-fuer-Italiens-Schulen/!6214863/",
+   "published": "2026-09-20T16:09:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Vorm Wahllokal in Mecklenburg-Vorpommern: „Die AfD ist mir zu lasch“",
+   "summary": "Die einen finden an der AfD einfach „alles toll“, für die anderen sind die Rechtsextremen ein No-Go. Momentaufnahme eines gespaltenen Wahlvolks. mehr...",
+   "link": "https://taz.de/Vorm-Wahllokal-in-Mecklenburg-Vorpommern/!6213501/",
+   "published": "2026-09-20T16:06:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -81,6 +369,15 @@
    "published": "2026-09-20T15:36:24+00:00",
    "first_seen": "2026-09-20T16:04:00.828089+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wahlen in Berlin und Mecklenburg-Vorpommern",
+   "summary": "Es ist ein Kopf-an-Kopf-Rennen sowohl bei der Landtagswahl in Mecklenburg-Vorpommern als auch bei der Abgeordnetenhauswahl in Berlin. Das ZDF berichtet live aus dem Wahlstudio in Schwerin.",
+   "link": "https://www.zdfheute.de/video/wahlen/wahlen-in-berlin-und-mecklenburg-vorpommern-100.html",
+   "published": "2026-09-20T15:30:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -161,6 +458,15 @@
    "link": "https://taz.de/Argentinien-unter-Milei/!6214824/",
    "published": "2026-09-20T14:30:00+00:00",
    "first_seen": "2026-09-20T15:03:44.800932+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Starke Kinder, starke Zukunft\"",
+   "summary": "In Deutschland wird heute der Weltkindertag gefeiert. Dieser soll dran erinnern, dass jedes Kind ein Recht auf Schutz, Bildung und Chancengleichheit hat.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/weltkindertag-deutschland-kinder-video-100.html",
+   "published": "2026-09-20T14:30:00+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
    "paywall": false
   },
   {
@@ -926,6 +1232,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hkm-in-duisburg-wenn-die-stahlschmelzer-ihren-ofen-fuer-immer-abschalten-accg-201239189.html",
    "published": "2026-09-20T08:29:11+00:00",
    "first_seen": "2026-09-20T09:04:01.882267+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Umbruch in Duisburg: Wenn die Stahlschmelzer ihren Ofen für immer abschalten",
+   "summary": "Aus nach 53 Produktionsjahren: Das zweitgrößte integrierte deutsche Stahlwerk hat am Wochenende einen seiner Hochöfen außer Betrieb genommen. Wie die Arbeiter das Ende erlebt haben.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wenn-die-stahlschmelzer-ihren-ofen-nach-53-jahren-fuer-immer-abschalten-accg-201239189.html",
+   "published": "2026-09-20T08:29:11+00:00",
+   "first_seen": "2026-09-20T17:03:47.751371+00:00",
    "paywall": true
   },
   {
@@ -13184,321 +13499,6 @@
    "link": "https://www.handelsblatt.com/karriere/unternehmen-mir-wuerde-dafuer-ein-einfaches-danke-manchmal-schon-reichen/100108181.html",
    "published": "2026-09-16T13:58:00+00:00",
    "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
-   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-jobs-in-der-it-branche-bleiben-trotz-ki-zukunftssicher/100238210.html",
-   "published": "2026-09-16T13:54:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Der Tankrabatt und die Realsatire mit den Kontonummern",
-   "summary": "Der Kanzler will beim teuren Benzin und Diesel entlasten. Egal, wie er das macht: Es wird das Steuergeld nicht wert sein. Die einzig sinnvolle Option bekommt Berlin nicht auf die Reihe.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-tankrabatt-und-die-realsatire-mit-den-kontonummern/100254895.html",
-   "published": "2026-09-16T13:53:51+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mittelstand: Goldbeck widersetzt sich dem Abschwung im Wohnungsbau",
-   "summary": "Das Bielefelder Familienunternehmen erzielt einen Rekord beim Auftragseingang, der Umsatz bleibt dagegen stabil. Das offenbart ein Dilemma, das nicht nur die deutsche Baubranche umtreibt.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/mittelstand-goldbeck-widersetzt-sich-dem-abschwung-im-wohnungsbau/100254391.html",
-   "published": "2026-09-16T13:53:37+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Amnesty-Bericht zu Iran: 87 Architekten von Mord, Gewalt und Folter",
-   "summary": "Amnesty International macht publik, wer 2022 in Iran die Proteste niederschlug. Die Bezichtigten sind teils bekannte Gesichter des Islamischen Regimes. mehr...",
-   "link": "https://taz.de/Amnesty-Bericht-zu-Iran/!6213629/",
-   "published": "2026-09-16T13:53:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
-   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-so-schaut-die-juengste-ki-professorin-deutschlands-auf-den-ki-hype-01/100188740.html",
-   "published": "2026-09-16T13:52:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Go West! - Die letzte Elf der DDR\"",
-   "summary": "Eine außergewöhnliche Zeitreise zwischen Mauerfall, Fußball und persönlichen Schicksalen: Die Doku-Serie \"Go West! - Die letzte Elf der DDR\" ab Freitag im ZDF-Streaming-Portal.",
-   "link": "https://www.zdfheute.de/sport/go-west-doku-serie-ddr-fussball-100.html",
-   "published": "2026-09-16T13:50:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Tötungen von Ak­ti­vis­t*in­nen: Wo Umweltschutz lebensgefährlich ist",
-   "summary": "An jedem dritten Tag wurde 2025 ein*e Um­welt­schüt­ze­r*in getötet, sagt die Menschenrechtsorganisation Global Witness. Die Dunkelziffer ist hoch. mehr...",
-   "link": "https://taz.de/Toetungen-von-Aktivistinnen/!6213595/",
-   "published": "2026-09-16T13:49:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
-   "summary": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko. Nur was, wenn die Freundschaft am Geld scheitert?",
-   "link": "https://www.handelsblatt.com/finanzen/friendflation-geld-ist-eines-der-letzten-tabuthemen-unserer-gesellschaft/100154689.html",
-   "published": "2026-09-16T13:49:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Repression in der Türkei: Festnahmen bei Demos gegen LGBTIQ-Repression",
-   "summary": "In der Türkei kam es nach landesweiten Razzien gegen queere Institutionen zu Protesten. Dabei wurden erneut Menschen festgenommen. mehr...",
-   "link": "https://taz.de/Repression-in-der-Tuerkei/!6213727/",
-   "published": "2026-09-16T13:47:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Kanzlerkrise: Bestimmt Friedrich Merz noch selbst über sein Schicksal?",
-   "summary": "In einem Treibhaus namens Berlin zählen sie Tage bis zum nächsten Wahlsonntag. Der Kanzler will um sein Amt kämpfen – und sucht nach einer passenden Erzählung.",
-   "link": "https://www.wiwo.de/politik/deutschland/friedrich-merz-in-der-krise-so-kaempft-der-kanzler-um-seine-macht/100255028.html",
-   "published": "2026-09-16T13:47:00+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Gleichstellung: Weltwirtschaftsforum sieht Rückschritte bei Geschlechtergleichheit",
-   "summary": "Bis zur Gleichberechtigung »dürfte es 120 Jahre dauern«: Die Zahl der Frauen in Spitzenpositionen ist laut einem Bericht der Stiftung Weltwirtschaftsforum gesunken. Besonders schlecht läuft es in den USA.",
-   "link": "https://www.spiegel.de/wirtschaft/soziales/gleichstellung-weltwirtschaftsforum-sieht-rueckschritte-bei-geschlechtergleichheit-a-b94fd28d-4109-4d36-bd94-1eddb58ebdea#ref=rss",
-   "published": "2026-09-16T13:45:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aufstiegschancen: „Excel statt Exzellenz“: Drei Faktoren entscheiden, wer es in deutschen Firmen nach ganz oben schafft",
-   "summary": "Viele Unternehmen befördern stets die gleichen Menschentypen und lassen die Belegschaft frustriert zurück. Experten erklären die entscheidenden Mechanismen – und was sich ändern muss.",
-   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-diese-drei-faktoren-entscheiden-ueber-den-aufstieg-im-unternehmen/100147821.html",
-   "published": "2026-09-16T13:45:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Drohender Jobverlust: Vorsicht, Falle! Wie Führungskräfte ihre schleichende Degradierung erkennen – und gegensteuern",
-   "summary": "Wenn Arbeitgeber unliebsame Manager ohne hohe Abfindungen loswerden wollen, greifen sie oft zu Tricks. Die wichtigsten Warnsignale und juristischen Gegenmaßnahmen.",
-   "link": "https://www.handelsblatt.com/karriere/kuendigung-welche-warnzeichen-den-jobverlust-ankuendigen-01/100173417.html",
-   "published": "2026-09-16T13:43:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US‑Börsen legen vor Zinsentscheid leicht zu",
-   "summary": "Die Märkte warten gebannt auf die Entscheidung der Notenbank, Händler halten sich im Vorfeld zurück. Bei den Anleiherenditen deutet sich dagegen leichte Entspannung an.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-usboersen-legen-vor-zinsentscheid-leicht-zu/100255058.html",
-   "published": "2026-09-16T13:42:35+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Merz in der Krise: Unterstützung um fünf vor Landtagswahl",
-   "summary": "Lange haben sie geschwiegen. Nun stellen sich die CDU-Ministerpräsidenten hinter den Bundeskanzler. Doch starker Rückhalt sieht anders aus. mehr...",
-   "link": "https://taz.de/Merz-in-der-Krise/!6213677/",
-   "published": "2026-09-16T13:42:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pilotengehalt: Das verdienen Lufthansa-Piloten 2026",
-   "summary": "Piloten verdienen in der Lufthansa-Gruppe nirgendwo so gut wie bei der Kernmarke Lufthansa Airlines. Dennoch sind sie unzufrieden. Ist das berechtigt? Der Gehaltscheck zeigt die Details.",
-   "link": "https://www.handelsblatt.com/karriere/pilot-gehalt-so-viel-zahlt-die-lufthansa-an-ihre-piloten-im-jahr-2026/100037203.html",
-   "published": "2026-09-16T13:41:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Cohere übernimmt Aleph Alpha: Die Pläne der neuen deutsch-kanadischen KI-Hoffnung",
-   "summary": "Die Übernahme der einstigen deutschen KI-Hoffnung Aleph Alpha durch Cohere ist unterzeichnet. Hier sprechen die Chefs Aidan Gomez und Ilhan Scheer über ihre Pläne – und was in der Vergangenheit schiefgelaufen ist.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-und-cohere-das-planen-aidan-gomez-und-ilhan-scheer-201231269.html",
-   "published": "2026-09-16T13:40:30+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Carney traut Europa mehr zu als Europa sich selbst",
-   "summary": "Kanadas Premier will Europa zum Zentrum einer neuen Allianz der Mittelmächte machen. Die EU hat alles, was es dafür braucht – wenn sie endlich bereit ist zu führen.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-carney-traut-europa-mehr-zu-als-europa-sich-selbst/100254803.html",
-   "published": "2026-09-16T13:39:37+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wissenschaftspreis: Zukunftspreis: Energiespeicher, Chip und Intensiv-Therapie",
-   "summary": "Drei Projekte aus Bayern und Baden-Württemberg gehen ins Rennen um den Deutschen Zukunftspreis 2026. Was ihre Technologien für Medizin, Energiewende und Digitalisierung leisten können.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/wissenschaftspreis-zukunftspreis-energiespeicher-chip-und-intensiv-therapie/100255037.html",
-   "published": "2026-09-16T13:38:46+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geoeconomics: Wir überlassen die gefährlichste Technologie der Welt privaten Laboren",
-   "summary": "Während die KI-Skepsis zum Mainstream wird, stellen sich US-Präsident Donald Trump und die US-Tech-Elite gegen jede wirksame Kontrolle. Ein Gastbeitrag.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/geoeconomics-wir-ueberlassen-die-gefaehrlichste-technologie-der-welt-privaten-laboren/100254595.html",
-   "published": "2026-09-16T13:38:37+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "FIRE-Bewegung: Wer finanziell frei werden will, sollte auf diese sechs Punkte achten",
-   "summary": "Auf dem Weg zur finanziellen Unabhängigkeit kann viel schiefgehen. Ein Frührentner-Paar verrät, wie man die größten Fallstricke vermeidet – und sich den Traum der frühen Rente erfüllt.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fire-welche-fehler-sie-auf-dem-weg-zur-finanziellen-freiheit-vermeiden-sollten/100164519.html",
-   "published": "2026-09-16T13:38:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Medizintechnik: Dieser Mann will erreichen, dass Blinde wieder sehen können",
-   "summary": "Max Hodak hat mit Elon Musk Neuralink gegründet. Nun will er zeigen, dass Gehirntechnologie nicht nur Visionen produziert – sondern etwa auch Blinden helfen kann.",
-   "link": "https://www.wiwo.de/unternehmen/it/medizintechnik-us-unternehmen-bringt-chip-fuer-blinde-nach-deutschland/100253320.html",
-   "published": "2026-09-16T13:37:00+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
-   "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/jan-viebig-wer-vermoegen-aufbauen-will-kommt-an-aktien-kaum-vorbei/100222130.html",
-   "published": "2026-09-16T13:36:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Klimaneutraler Verkehr: Antriebswende bei Stadtbussen hat Daimler schon fast bewältigt",
-   "summary": "Die fehlenden Ladesäulen bremsen den Hochlauf der Elektromobilität nicht nur im Schwerlastverkehr, sondern auch beim Einsatz von Bussen. Allerdings gibt es ein Segment, das schon bald klimaneutral unterwegs sein wird.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/daimler-buses-stadtbusse-fahren-ab-2030-rein-elektrisch-201230414.html",
-   "published": "2026-09-16T13:34:23+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-   "summary": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben. Über einen Mann, dessen Beruf es ist, sinnvoll Geld loszuwerden.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-warum-dieser-millionenerbe-seine-millionen-loswerden-will/100204748.html",
-   "published": "2026-09-16T13:34:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Das WirtschaftsWoche-Quiz: Testen Sie Ihr Wirtschaftswissen – sieben aktuelle Fragen",
-   "summary": "Stellen Sie sich jeden Mittwoch neu den Fragen der Woche. Ein kleiner Tipp: Alle Antworten finden Sie auf wiwo.de. Prüfen Sie jetzt Ihr Wissen!",
-   "link": "https://www.wiwo.de/spiele/das-wirtschaftswoche-quiz-testen-sie-ihr-wirtschaftswissen-mit-sieben-aktuellen-fragen/100132973.html",
-   "published": "2026-09-16T13:34:00+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Asia Techonomics: Warum Singapurs Premier Wong künftig eine Million Dollar mehr verdient",
-   "summary": "Der Premierminister des Stadtstaates Singapur ist seit Langem der bestbezahlte Politiker der Welt. Nun steigt sein Gehalt noch einmal deutlich – aus gutem Grund, argumentiert die Regierung.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/singapur-warum-premier-wong-kuenftig-eine-million-dollar-mehr-verdient/100254586.html",
-   "published": "2026-09-16T13:31:20+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Diplomatie: Russischer Sonderflug zur Ausreise von Konsulatsmitarbeitern",
-   "summary": "Bis Freitag müssen die Mitarbeiter des russischen Generalkonsulats Deutschland verlassen haben. Jetzt landet ein besonderer Flieger.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/diplomatie-russischer-sonderflug-zur-ausreise-von-konsulatsmitarbeitern/100255079.html",
-   "published": "2026-09-16T13:27:23+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Zehn Dinge, die ich als Anfänger über ETFs gelernt habe",
-   "summary": "Aus dem Handelsblatt-Archiv: Unser Autor befasst sich zum ersten Mal in seinem Leben mit ETFs – und stellt fest, dass Altersvorsorge damit in der Theorie einfacher ist als in der Praxis.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-was-ich-ueber-den-einstieg-in-etfs-gelernt-habe/100184984.html",
-   "published": "2026-09-16T13:27:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wirtschaftskriminalität: 60 Millionen Schaden – Razzia gegen Geldwäsche",
-   "summary": "Rund 800 Einsatzkräfte durchsuchen Objekte in Deutschland und Belgien. Im Visier: ein System zur Geldwäsche, mit dem Staat und Sozialversicherungen um über 60 Millionen Euro geprellt wurden.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/wirtschaftskriminalitaet-60-millionen-schaden-razzia-gegen-geldwaesche/100255068.html",
-   "published": "2026-09-16T13:24:06+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Nach CSD-Anschlag: Regierung legt Zehn-Punkte-Plan vor",
-   "summary": "Die Bundesregierung reagiert auf den CSD-Terroranschlag in Berlin: Ein Zehn-Punkte-Plan sieht härtere Strafen, strengere Bewährungsregeln und mehr Befugnisse für Ermittler vor.",
-   "link": "https://www.zdfheute.de/politik/deutschland/anschlag-csd-berlin-zehn-punkte-plan-100.html",
-   "published": "2026-09-16T13:23:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilität: Strom statt Benzin – wie viel spart ein E-Auto beim Tanken ein?",
-   "summary": "Durch den Iran-Krieg sind die Spritpreise nach wie vor auf Höchstniveau. Wie viel lässt sich durch Laden statt Tanken einsparen? Der Handelsblatt-Rechner zeigt es.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/spritpreise-dieser-rechner-zeigt-wie-viel-sie-beim-tanken-mit-einem-e-auto-sparen/100251862.html",
-   "published": "2026-09-16T13:22:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Fed-Sitzung: Kevin Warsh macht einen Fehler, wenn er die Leitzinsen erhöht",
-   "summary": "Steigende Zinsen werden die Inflationsursachen nicht bekämpfen. Fed-Chef Warsh sollte sich gegen die Markterwartungen stellen – auch wenn sein Ruf auf dem Spiel steht. Ein Gastbeitrag.",
-   "link": "https://www.wiwo.de/politik/ausland/fed-zinsentscheid-warum-hoehere-leitzinsen-die-us-inflation-nicht-senken/100254949.html",
-   "published": "2026-09-16T13:22:00+00:00",
-   "first_seen": "2026-09-16T15:04:51.882053+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "VW-Konzern: „Volkswagens Stuttgart 21“ – Audi verschiebt Elektro-A4 und fällt hinter BMW und Mercedes zurück",
-   "summary": "Mit dem A4 e-tron sollte Volkswagens Zukunftsplattform SSP an den Start gehen. Doch das zentrale Projekt verzögert sich immer weiter. Zudem droht ein Machtkampf um die Technikhoheit.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/vw-konzern-audi-verschiebt-elektro-a4-und-neue-konzernplattform/100252863.html",
-   "published": "2026-09-16T13:21:52+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Kann eine 150 Jahre alte Grafik die Börsenkurse vorhersagen?",
-   "summary": "Aus dem Handelsblatt-Archiv: Eine Kurve aus dem 19. Jahrhundert sagt erstaunlich präzise die Entwicklung der Märkte voraus. Für 2026 empfiehlt sie, Aktien zu verkaufen. Wie verlässlich das wirklich ist.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-warum-diese-150-jahre-alte-boersengrafik-noch-heute-beachtung-findet/100189715.html",
-   "published": "2026-09-16T13:13:00+00:00",
-   "first_seen": "2026-09-16T14:04:48.837101+00:00",
    "paywall": true
   }
  ]
