@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T20:03:54.286764+00:00",
+ "updated": "2026-09-20T21:03:53.063158+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,60 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Experte Korte: \"Versuchung des Autoritären\"",
+   "summary": "Die Wahlen in Berlin und Mecklenburg-Vorpommern zeigen laut Experte Karl-Rudolf Korte eine Erstarkung der radikalen Ränder. Er sagt: Die Volksparteien liegen schon fast in Ruinen.",
+   "link": "https://www.zdfheute.de/politik/deutschland/berlin-mecklenburg-vorpommern-wahl-korte-analyse-100.html",
+   "published": "2026-09-20T20:42:00+00:00",
+   "first_seen": "2026-09-20T21:03:53.063158+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "MV-Landtagswahl: Leif-Erik Holm - Wahlsieger, aber kein Siegmund",
+   "summary": "Im Kampf um die Schweriner Staatskanzlei setzte Leif-Erik Holm für die AfD auf bürgerliches und lockeres Auftreten. Einen Vergleich muss er sich immer wieder gefallen lassen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/mv-landtagswahl-leif-erik-holm-wahlsieger-aber-kein-siegmund/100255899.html",
+   "published": "2026-09-20T20:26:06+00:00",
+   "first_seen": "2026-09-20T21:03:53.063158+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahlen: CDU im Nordosten unter fünf Prozent – Linke siegt in Berlin",
+   "summary": "Die CDU erlebt in Mecklenburg-Vorpommern das nächste Desaster – erstmals könnte sie aus einem Landtag fliegen. In Berlin lässt die Linke die bisher regierende CDU weit hinter sich.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-cdu-im-nordosten-unter-fuenf-prozent-linke-siegt-in-berlin/100255884.html",
+   "published": "2026-09-20T20:22:25+00:00",
+   "first_seen": "2026-09-20T21:03:53.063158+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahl in Mecklenburg-Vorpommern: Nordost-AfD vor SPD - CDU wohl erstmals raus aus Landtag",
+   "summary": "Historisches CDU-Fiasko: Erstmals in ihrer Geschichte scheitert die Kanzlerpartei in einem Land wohl an der Fünf-Prozent-Hürde. Stärkste Kraft an Ostsee und Seenplatte ist die AfD vor der SPD.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahl-in-mecklenburg-vorpommern-nordost-afd-vor-spd-cdu-wohl-erstmals-raus-aus-landtag/100255963.html",
+   "published": "2026-09-20T20:19:41+00:00",
+   "first_seen": "2026-09-20T21:03:53.063158+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Evenepoel einzigartig: Viertes Zeitfahr-Gold in Folge",
+   "summary": "Remco Evenepoel ist in Montreal als erster Radsport-Profi zum vierten Mal in Folge Zeitfahr-Weltmeister geworden. In der ewigen WM-Wertung liegt er nun gleichauf mit Tony Martin.",
+   "link": "https://www.zdfheute.de/sport/radsport-wm-montreal-zeitfahren-remco-evenepoel-vierter-titel-in-folge-100.html",
+   "published": "2026-09-20T20:15:00+00:00",
+   "first_seen": "2026-09-20T21:03:53.063158+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Wahlen +++: Aktuelle Hochrechnung – CDU fällt in Mecklenburg-Vorpommern unter fünf Prozent",
+   "summary": "Wegner macht Merz für CDU-Verluste verantwortlich +++ Weidel: „Haben die CDU als Volkspartei verdrängt“ +++ Eralp: „Ich will Regierende Bürgermeisterin für Berlin werden“ +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-cdu-faellt-in-mecklenburg-vorpommern-unter-fuenf-prozent/100252039.html",
+   "published": "2026-09-20T19:59:13+00:00",
+   "first_seen": "2026-09-20T21:03:53.063158+00:00",
    "paywall": true
   },
   {
@@ -108,6 +162,15 @@
    "published": "2026-09-20T18:54:30+00:00",
    "first_seen": "2026-09-20T20:03:54.286764+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Team Germany in der Flaute: Starts bleiben das Problem",
+   "summary": "Beim elften Event des SailGP auf dem Genfer See zeigt das deutsche Boot seine schwächste Saisonleistung. Die Starts bleiben das Problem, doch es gibt Hoffnung auf Besserung.",
+   "link": "https://www.zdfheute.de/sport/sailgp/sailgp-2026-genf-team-germany-flaute-100.html",
+   "published": "2026-09-20T18:54:00+00:00",
+   "first_seen": "2026-09-20T21:03:53.063158+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13437,69 +13500,6 @@
    "published": "2026-09-16T17:18:22+00:00",
    "first_seen": "2026-09-16T18:05:01.594711+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Reiche für Senkung der Mehrwertsteuer auf Sprit",
-   "summary": "Die Diskussion über mögliche Maßnahmen gegen hohe Spritpreise gewinnt an Fahrt. Wirtschaftsministerin Reiche spricht sich für eine Senkung der Mehrwertsteuer auf Kraftstoffe aus.",
-   "link": "https://www.zdfheute.de/politik/deutschland/reiche-spritpreise-senken-steuer-rabatt-100.html",
-   "published": "2026-09-16T17:07:00+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Übernahme: Berentzen verhandelt über Verkauf in die USA",
-   "summary": "Der Alkoholkonzern Sazerac aus New Orleans hat Interesse an dem niedersächsischen Unternehmen. Die Aktie des Apfelkornherstellers legt aufgrund des Übernahmeangebots zu.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/uebernahme-berentzen-verhandelt-ueber-verkauf-in-die-usa/100255133.html",
-   "published": "2026-09-16T17:03:18+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Kampf um China-Technik: Die Tricks der Mobilfunkanbieter gegen ein Huawei-Verbot",
-   "summary": "Mobilfunkanbieter mit Huawei-Technik in ihren Netzen wehren sich gegen die Austauschpflicht. Ihre Einflussnahme auf eine vermeintlich unabhängige Studie zeigt, wie weit sie gehen.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/huawei-verbot-wie-netzbetreiber-gegen-das-eu-gesetz-kaempfen/100255063.html",
-   "published": "2026-09-16T17:03:06+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Aleph Alpha und Cohere wollen „echter Konkurrent“ von OpenAI werden",
-   "summary": "Der Übernahme-Deal der KI-Unternehmen ist beschlossene Sache: Aleph Alpha wird Teil von Cohere. Die Einigung steht auch für die neue strategische Allianz zwischen Deutschland und Kanada.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-aleph-alpha-und-cohere-wollen-echter-konkurrent-von-openai-werden/100254362.html",
-   "published": "2026-09-16T17:02:24+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Rede zur Lage der Union: Von der Leyen überspannt den Bogen",
-   "summary": "In ihrer Rede zur Lage der Union lässt die EU-Kommissionspräsidentin viele Fragen offen. Wohin Europa mit ihr steuert, bleibt unklar. mehr...",
-   "link": "https://taz.de/Rede-zur-Lage-der-Union/!6213664/",
-   "published": "2026-09-16T17:00:00+00:00",
-   "first_seen": "2026-09-16T17:04:04.939302+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Alarm auf Flughafen: Nato: Russische Behauptung zu Leipzig-Ermittlung ist absurd",
-   "summary": "Die Nato widerspricht russischen Angaben zu Geheimdiensterkenntnissen zum Fund der Sprengstoffdrohne auf dem Flughafen Leipzig/Halle. Stattdessen stärkt sie deutschen Ermittlern den Rücken.",
-   "link": "https://www.handelsblatt.com/politik/international/alarm-auf-flughafen-nato-russische-behauptung-zu-leipzig-ermittlung-ist-absurd/100255135.html",
-   "published": "2026-09-16T16:59:51+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Nach Einsturz-Tragödie in Gaza: Dutzende Menschen noch unter Trümmern gesucht",
-   "summary": "Ein eingestürztes Wohnhaus hat viele Menschen unter sich begraben. Dort hatten vertriebene Familien gelebt. Israel setzt derweil seine Angriffe fort. mehr...",
-   "link": "https://taz.de/Nach-Einsturz-Tragoedie-in-Gaza/!6213863/",
-   "published": "2026-09-16T16:59:00+00:00",
-   "first_seen": "2026-09-16T17:04:04.939302+00:00",
-   "paywall": false
   }
  ]
 }
