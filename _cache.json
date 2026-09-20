@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T05:03:49.908983+00:00",
+ "updated": "2026-09-20T06:04:52.850467+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,87 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Die Wahllokale sind geöffnet",
+   "summary": "Heute ist Wahltag: In Berlin wird das Abgeordnetenhaus neu gewählt, in Mecklenburg-Vorpommern ein neuer Landtag. Aktuelle Entwicklungen sowie Hintergründe finden Sie hier im Blog.",
+   "link": "https://www.zdfheute.de/politik/deutschland/wahl-berlin-landtagswahl-mecklenburg-vorpommern-prognose-hochrechnung-ergebnisse-liveticker-100.html",
+   "published": "2026-09-20T06:00:00+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Rosa-Carmen: Innovative OP-Methode bei Skoliose",
+   "summary": "Die 14-jährige Rosa-Carmen Haasjes aus den Niederlanden leidet unter schwerer Skoliose. Bei einer innovativen Operation wird ihr ein flexibles Kunststoffseil eingesetzt.",
+   "link": "https://www.zdfheute.de/video/panorama-ruecken-skoliose-100.html",
+   "published": "2026-09-20T05:30:00+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Management-Moment: Wie Führungskräfte angemessen, aber nicht kopflos auf Krisen reagieren",
+   "summary": "Es ist aber auch kompliziert: Geschäfte weiterführen und in die USA fliegen? Oder Krise anerkennen, vom Reiseplan abweichen – und überbesorgt wirken?",
+   "link": "https://www.wiwo.de/erfolg/management/management-moment-wie-fuehrungskraefte-angemessen-aber-nicht-kopflos-auf-krisen-reagieren/100255248.html",
+   "published": "2026-09-20T05:26:24+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Berlin und Mecklenburg-Vorpommern: Die Hauptstadt der Pleiten und das Land der kleinen Krisen",
+   "summary": "Wahltag in Berlin und Mecklenburg-Vorpommern: Warum in der Hauptstadt so viele Firmen scheitern, während es an der Küste nur wenige Großpleiten gibt.",
+   "link": "https://www.wiwo.de/politik/deutschland/landtagswahlen-berlin-und-mecklenburg-vorpommern-die-hauptstadt-der-pleiten-und-das-land-der-kleinen-krisen/100254758.html",
+   "published": "2026-09-20T05:24:38+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie die ersten Säugetiere die Dinosaurier überlebten",
+   "summary": "Die ersten Säugetiere lebten schon zur Zeit der Dinosaurier. Ihre Geschichte begann jedoch viel früher. Wie die Tiergruppe gleich mehrere Katastrophen überleben konnte.",
+   "link": "https://www.zdfheute.de/wissen/therapsiden-saeugetiere-dinosaurier-ueberleben-100.html",
+   "published": "2026-09-20T05:09:00+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Steinmann & Co.: Diese Oststars scheiterten im Westen",
+   "summary": "Längst nicht alle Topspieler aus der ehemaligen DDR starteten in der Bundesliga durch wie Ulf Kirsten oder Matthias Sammer. Manche Karrieren erlitten auch einen Bruch.",
+   "link": "https://www.zdfheute.de/sport/fussball-ddr-wendezeit-gescheiterte-ost-stars-100.html",
+   "published": "2026-09-20T05:08:00+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wenn der Bot im Online-Shop immer schneller ist",
+   "summary": "Für Kunden wird es immer schwieriger, Tickets oder limitierte Sammlerobjekte direkt zu kaufen. Stattdessen landen sie zu hohen Preisen auf Online-Marktplätzen. Woran liegt das?",
+   "link": "https://www.zdfheute.de/wirtschaft/bots-software-online-shop-100.html",
+   "published": "2026-09-20T05:07:00+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Stefanie Giesinger: verliebt in das Leben",
+   "summary": "Erfolgreich, aber auch unbequem: Stefanie Giesinger spricht über Selbstakzeptanz, Schönheitsideale und warum sie sich von der Modebranche nichts mehr vorschreiben lässt.",
+   "link": "https://www.zdfheute.de/panorama/prominente/model-stefanie-giesinger-reflektiert-leben-100.html",
+   "published": "2026-09-20T05:05:00+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung: „Das Schlimmste aus der Perspektive eines überklugen Typen wie Elon Musk ist ja das Sterben“",
+   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
+   "link": "https://www.handelsblatt.com/karriere/fuehrung-das-schlimmste-aus-der-perspektive-musks-ist-das-sterben/100252820.html",
+   "published": "2026-09-20T04:47:00+00:00",
+   "first_seen": "2026-09-20T06:04:52.850467+00:00",
    "paywall": true
   },
   {
@@ -13419,87 +13500,6 @@
    "published": "2026-09-16T08:36:00+00:00",
    "first_seen": "2026-09-16T10:04:05.822956+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Bundespolitik +++: CDU-Ministerpräsidenten stellen sich hinter Merz – „gemeinsam mit dem Bundeskanzler“",
-   "summary": "Bundesregierung verschärft Strafrecht für Messerattacken und IS-Propaganda +++ Merz sagt Reise zur UN-Generaldebatte ab +++ AfD kann mehr als 250 Sitze in Niedersachsen nicht besetzen +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-cduministerpraesidenten-gemeinsam-mit-dem-bundeskanzler/100137034.html",
-   "published": "2026-09-16T08:35:49+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Violinistin Jessie Marino: Sie lässt Formen kollidieren",
-   "summary": "Jessie Marino verbindet zeitgenössische Musik mit Folk und erschafft mit Alltagsgegenständen magische Momente. Porträt einer ungewöhnlichen Künstlerin. mehr...",
-   "link": "https://taz.de/Violinistin-Jessie-Marino/!6213274/",
-   "published": "2026-09-16T08:35:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Stark geleerte Speicher: Reiche erhöht Anreize für mehr Gasreserven",
-   "summary": "Deutschlands Gasspeicher sind ungewöhnlich leer für diese Jahreszeit. Wirtschaftsministerin Reiche will deshalb die finanziellen Anreize für Händler erhöhen, mehr Gas für den Winter vorzuhalten.",
-   "link": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-gas-winter-anreize-100.html",
-   "published": "2026-09-16T08:31:09+00:00",
-   "first_seen": "2026-09-16T12:05:29.393463+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Konflikt bei Mercedes: Die 35-Stunden-Woche wird fallen",
-   "summary": "Die Produktion in Deutschland ist zu teuer, sagt nicht nur der Autohersteller Mercedes. Vorstand und Arbeitnehmervertreter werden sich über kurz oder lang auf niedrigere Lohnkosten einigen müssen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-und-die-35-stunden-woche-droht-das-ende-201222681.html",
-   "published": "2026-09-16T08:30:18+00:00",
-   "first_seen": "2026-09-18T15:04:13.112243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
-   "summary": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl.",
-   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-im-ausland-welches-land-ist-ideal-dieses-tool-hilft-bei-der-auswahl/100168299.html",
-   "published": "2026-09-16T08:29:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Benzin für drei Euro?: Der deutsche Verbraucher ist der dreifache Ölpreis-Verlierer",
-   "summary": "Alles Steuern, oder was? Wieso die Spritpreise in europäischen Ländern wie Polen oder Schweden so viel günstiger als in Deutschland sind.",
-   "link": "https://www.wiwo.de/unternehmen/energie/spritpreise-in-europa-warum-deutschland-teurer-als-polen-und-schweden-ist/100254689.html",
-   "published": "2026-09-16T08:29:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilienfonds: Urteil lässt Anleger des Uni Immo Wohnen ZBI hoffen",
-   "summary": "Ein Gericht hat die Volksbank Dresden-Bautzen wegen Falschberatung zum Uni Immo Wohnen ZBI verurteilt. Ein weiteres Verfahren könnte dramatische Folgen für die ganze Branche haben.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-urteil-laesst-anleger-des-uni-immo-wohnen-zbi-hoffen/100254823.html",
-   "published": "2026-09-16T08:24:03+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Krankmeldung: Wie sich Arbeitgeber gegen Blaumacher wehren können",
-   "summary": "Aus dem Handelsblatt-Archiv: Ein Mitarbeiter meldet sich immer an Brückentagen und montags krank? Diese rechtlichen Möglichkeiten haben Firmen bei Verdacht auf Blaumachen.",
-   "link": "https://www.handelsblatt.com/karriere/krankmeldung-so-koennen-arbeitgeber-gegen-krankfeierer-rechtlich-vorgehen/100180160.html",
-   "published": "2026-09-16T08:23:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deutsche Bahn: „Wir brauchen funktionierende Züge, kein weiteres Redesign“",
-   "summary": "Die Bahn feiert ihre Beschäftigten im neuen Markenauftritt als „Die Macher:innen“. Im Intranet kontern diese fast geschlossen mit beißender Kritik. Dann meldet sich der Konzern.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/deutsche-bahn-warum-mitarbeiter-den-neuen-markenauftritt-heftig-kritisieren/100254191.html",
-   "published": "2026-09-16T08:22:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
   }
  ]
 }
