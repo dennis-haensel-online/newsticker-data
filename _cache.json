@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T03:04:37.719591+00:00",
+ "updated": "2026-09-20T04:04:24.400251+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,69 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Von Freiburg lernen heißt Ausbildung lernen",
+   "summary": "Perfektes Timing: Jeder sechste Spieler im Aufgebot von Jürgen Klopp wurde in der Fußballschule des SC Freiburg ausgebildet. Die feiert dieser Tage ihr 25-jähriges Jubiläum.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-freiburg--ausbildung-nationalmannschaft-klopp-100.html",
+   "published": "2026-09-20T03:47:00+00:00",
+   "first_seen": "2026-09-20T04:04:24.400251+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Kampf um die Unentschlossenen: Finale im Nordosten",
+   "summary": "Auf den letzten Metern kämpfen die Parteien in Mecklenburg-Vorpommern um die unentschlossenen Wähler, alle geben sich siegesgewiss. Die AfD beschwört das Ende des Kanzlers herauf.",
+   "link": "https://www.zdfheute.de/politik/deutschland/mecklenburg-vorpommern-wahlkampf-bilanz-100.html",
+   "published": "2026-09-20T03:45:00+00:00",
+   "first_seen": "2026-09-20T04:04:24.400251+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Warum wir noch immer so viel Essen wegwerfen",
+   "summary": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
+   "published": "2026-09-20T03:38:41+00:00",
+   "first_seen": "2026-09-20T04:04:24.400251+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Stand der Digitalisierung: Pflegekräfte wollen keine Gesundheitskarten mehr durch die Gegend fahren",
+   "summary": "Zeitdruck, Überlastung – aber jedes Quartal muss ein Arzt die Karten pflegebedürftiger Patienten einlesen. Dafür Personal zu schicken, kostet Zeit und Geld. Das müsse einfacher gehen, fordern Pflegeanbieter.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/pflegebranche-gesundheitskarten-einlesen-zu-aufwaendig-accg-201243954.html",
+   "published": "2026-09-20T03:19:07+00:00",
+   "first_seen": "2026-09-20T04:04:24.400251+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Serbiens Hauptstadt: Zwischen Skyline und zwei Strömen: Citytrip nach Belgrad",
+   "summary": "In der kontrastreichen Metropole an Donau und Save vibrieren die Balkan-Beats. Aber nicht nur: Belgrad hat auch erholsame Ruheoasen und Aussichtspunkte für tolle Stadtpanoramen. 5 Tipps.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/serbiens-hauptstadt-zwischen-skyline-und-zwei-stroemen-citytrip-nach-belgrad/100255891.html",
+   "published": "2026-09-20T03:05:09+00:00",
+   "first_seen": "2026-09-20T04:04:24.400251+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Optimismus-Appell: Telekom-Chef: „Ich freue mich über jede Baustelle“",
+   "summary": "Ach herrje: Die Brücke ist gesperrt und auch auf der Bahnstrecke sorgen Bauarbeiten für Verzögerungen und Umwege. Das sorgt für Frust im Alltag. Ein Bonner Top-Manager möchte trotzdem nicht meckern.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/optimismus-appell-telekom-chef-ich-freue-mich-ueber-jede-baustelle/100255890.html",
+   "published": "2026-09-20T03:05:04+00:00",
+   "first_seen": "2026-09-20T04:04:24.400251+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Versorgung: Pflegebranche beklagt hohen Aufwand nur fürs Karten-Einlesen",
+   "summary": "Viele Pflegekräfte sind überlastet und unter Zeitdruck. Braucht es da weiterhin Fahrten zu Arztpraxen, um Gesundheitskarten für die Abrechnung einlesen zu lassen?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/versorgung-pflegebranche-beklagt-hohen-aufwand-nur-fuers-karten-einlesen/100255889.html",
+   "published": "2026-09-20T03:00:20+00:00",
+   "first_seen": "2026-09-20T04:04:24.400251+00:00",
    "paywall": true
   },
   {
@@ -13435,69 +13498,6 @@
    "summary": "Reicht die Nato aus, um die Sicherheit Europas zu gewährleisten? EU-Kommissionspräsidentin Ursula von der Leyen scheint daran zu zweifeln und unternimmt einen weitreichenden Vorstoß.",
    "link": "https://www.handelsblatt.com/politik/international/bedrohungen-durch-russland-von-der-leyen-will-eigenen-artikel-4-fuer-die-eu/100254940.html",
    "published": "2026-09-16T08:15:58+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Rausschmiss wegen „Free Palestine“-Ruf: Es wird einsam um Ed Sheeran",
-   "summary": "Nachdem er Macklemore aus seinem Programm warf, verlassen alle anderen Vorgruppen die US-Tour des irischen Stars. Ein US-Milliardär hatte Druck auf ihn gemacht. mehr...",
-   "link": "https://taz.de/Rausschmiss-wegen-Free-Palestine-Ruf/!6213578/",
-   "published": "2026-09-16T08:15:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Rückkehrer und Neulinge: Klopp setzt erste Zeichen",
-   "summary": "Marc-André ter Stegen kehrt ins DFB-Tor zurück, Joshua Kimmich spielt wieder im Mittelfeld und zwei laufstarke Frankfurter sollen sich im Sturm der deutschen Nationalelf zeigen.",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league-dfb-kader-nominierung-klopp-100.html",
-   "published": "2026-09-16T08:15:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Landtagswahlen: Insa-Umfrage – SPD holt in Mecklenburg-Vorpommern weiter auf",
-   "summary": "Die AfD liegt demnach bei 37 Prozent, die SPD bei 35 Prozent. Die rot-rote Regierungskonstellation könnte damit nicht weiterregieren. Drei Parteien liegen nahe der Fünf-Prozent-Hürde.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-insa-umfrage-spd-holt-in-mecklenburg-vorpommern-weiter-auf/100254920.html",
-   "published": "2026-09-16T08:13:23+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Landtagswahl: Was Sie zur Landtagswahl in Mecklenburg-Vorpommern wissen sollten",
-   "summary": "Am 20. September 2026 wird in Mecklenburg-Vorpommern der Landtag gewählt. Der Wahl-O-Mat zeigt Ihnen, welche Partei am ehesten Ihre Interessen vertritt. Welche Wahl-Tools gibt es noch?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-finden-sie-ihre-partei-bei-der-wahl-in-mecklenburg-vorpommern/100247936.html",
-   "published": "2026-09-16T08:12:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kabinett: Zehn Maßnahmen für Schutz gegen islamistischen Terror",
-   "summary": "Sicherheitsinteressen sollen bei Bewährungsentscheidungen stärker zählen und gefährliche Körperverletzungen mit Messern als Verbrechen gewertet werden. Was der neue Maßnahmenkatalog vorsieht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/kabinett-zehn-massnahmen-fuer-schutz-gegen-islamistischen-terror/100254897.html",
-   "published": "2026-09-16T08:10:47+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Dieser Rechner zeigt, wie viel Sie künftig arbeiten müssen",
-   "summary": "Sollte KI nicht Arbeitszeit ersparen? Erste Studien zeigen, dass teils das Gegenteil der Fall ist. Woran das liegt – und wie viel mehr oder weniger Sie womöglich bald arbeiten.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-rechner-haben-sie-durch-ki-mehr-oder-weniger-arbeit/100233077.html",
-   "published": "2026-09-16T08:10:00+00:00",
-   "first_seen": "2026-09-16T09:04:03.358734+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Preisvergleich: Idealo wächst – doch KI könnte das Geschäftsmodell des Portals aushebeln",
-   "summary": "Obwohl KI den Preisvergleich automatisieren kann, zeigt das Preisvergleichsportal Idealo noch starke Wachstumszahlen. Der Anbieter hält sich für unentbehrlich, doch Experten warnen.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/preisvergleich-idealo-will-zum-datenlieferanten-fuer-ki-agenten-werden/100252856.html",
-   "published": "2026-09-16T08:08:56+00:00",
    "first_seen": "2026-09-16T09:04:03.358734+00:00",
    "paywall": true
   }
