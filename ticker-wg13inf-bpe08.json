@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-21T14:04:13.585478+00:00",
+ "updated": "2026-09-21T15:03:40.131846+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Wall Street startet mit Gewinnen – Trump-Xi-Gipfel und KI-Aktien im Fokus",
+   "summary": "Fallende Ölpreise und Renditen stützen die US-Börsen. Anleger blicken auf das Treffen von Trump und Xi – zugleich bleibt die Stimmung im KI-Sektor trotz Profitabilitätszweifeln freundlich.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-wall-street-startet-mit-gewinnen-trump-xi-gipfel-und-ki-aktien-im-fokus/100256264.html",
+   "published": "2026-09-21T14:39:04+00:00",
+   "first_seen": "2026-09-21T15:03:40.131846+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Datenschutz-Verstöße: Google muss 400 Millionen Euro Strafe zahlen",
@@ -891,15 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-modell-claude-entwickelt-nachfolger-mit/100255552.html",
    "published": "2026-09-18T05:43:27+00:00",
    "first_seen": "2026-09-18T09:04:07.236682+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-echte-karrierechancen-bieten/100235558.html",
-   "published": "2026-09-18T05:36:00+00:00",
-   "first_seen": "2026-09-18T06:04:58.635024+00:00",
    "paywall": true
   }
  ]
