@@ -1,7 +1,88 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-21T13:03:31.615659+00:00",
+ "updated": "2026-09-21T14:04:13.585478+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Datenschutz-Verstöße: Google muss 400 Millionen Euro Strafe zahlen",
+   "summary": "Der US-Techkonzern Google ist zu einer Millionenstrafe wegen Verstoßes gegen EU-Recht verurteilt worden. Grund sind Datenschutzverstöße bei der Verarbeitung von Standortdaten der Google-Nutzer.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-eu-strafe-datenschutz-100.html",
+   "published": "2026-09-21T13:49:08+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html",
+   "published": "2026-09-21T13:42:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-auf-diese-kompetenzen-achten-headhunter-in-zeiten-von-ki/100240522.html",
+   "published": "2026-09-21T13:40:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
+   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
+   "link": "https://www.handelsblatt.com/unternehmen/management/ki-die-lineare-fuehrungskarriere-ist-ein-auslaufmodell/100243656.html",
+   "published": "2026-09-21T13:39:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Software: Praktischer veranlagt als ChatGPT: Autodesk-KI soll Architekten effizienter machen",
+   "summary": "Autodesk ist Marktführer bei Software für Architekten. Nun setzt Firmenchef Andrew Anagnost auf KI-Agenten. Wichtig sei deren Unterschied zu gängigen Sprachmodellen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/software-praxisnaeher-als-chatgpt-autodesk-ki-soll-bauen-effizienter-machen-01/100255803.html",
+   "published": "2026-09-21T13:31:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
+   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-technologie-werden-ceos-bald-von-kuenstlicher-intelligenz-ersetzt/100189694.html",
+   "published": "2026-09-21T13:30:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
+   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-wie-deutschlands-juengste-ki-professorin-unsere-zukunft-einschaetzt/100188740.html",
+   "published": "2026-09-21T13:19:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitszeit: Dieser Rechner zeigt, wie viel Sie künftig arbeiten müssen",
+   "summary": "Sollte KI nicht Arbeitszeit ersparen? Erste Studien zeigen, dass teils das Gegenteil der Fall ist. Woran das liegt – und wie viel mehr oder weniger Sie womöglich bald arbeiten.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/arbeitszeit-wie-viel-arbeit-nimmt-ihnen-ki-in-zukunft-wirklich-ab/100233077.html",
+   "published": "2026-09-21T13:02:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
+   "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-bei-der-anwendung-von-ki-stehen-wir-noch-ganz-am-anfang/100222130.html",
+   "published": "2026-09-21T13:02:00+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Verstoß gegen Datenschutz: Ärger um Standortdaten: Google muss 400 Millionen zahlen",
@@ -490,6 +571,15 @@
   },
   {
    "label": "FAZ",
+   "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
+   "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge. Die Erklärung ist höchst besorgniserregend. Was dahintersteckt und nun zu tun ist.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscher-yoshua-bengio-warum-die-ki-agenten-ausarten-accg-201242795.html",
+   "published": "2026-09-19T12:34:58+00:00",
+   "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
    "title": "Business-Ticker: Open AI-Chef Altman spricht vor UN-Sicherheitsrat über KI-Risiken",
    "summary": "Google-KI Gemini hackte ebenfalls andere Unternehmen +++ Buffett zieht sich bei Berkshire zurück +++ Jan Brorhilker neuer Chef von EY Deutschland +++ Neuigkeiten im Unternehmen-Liveblog.",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-chef-altman-spricht-vor-un-sicherheitsrat-ueber-ki-risiken-faz-200452404.html",
@@ -810,96 +900,6 @@
    "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-echte-karrierechancen-bieten/100235558.html",
    "published": "2026-09-18T05:36:00+00:00",
    "first_seen": "2026-09-18T06:04:58.635024+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Disrupt: Horrorszenario 2031: Diese KI-Chefin glaubt, dass Europa erpressbar wird",
-   "summary": "Langdocks neue Co-Chefin skizziert ein düsteres Zukunftsszenario für Europa – und erklärt im Podcast, warum sie den Kündigungsschutz lockern will.",
-   "link": "https://www.handelsblatt.com/audio/disrupt-podcast/disrupt-horrorszenario-2031-diese-ki-chefin-glaubt-dass-europa-erpressbar-wird/100255516.html",
-   "published": "2026-09-18T04:53:46+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wettbewerbsnachteil: Europa ist auf die rasante KI-Entwicklung nicht vorbereitet",
-   "summary": "Künstliche Intelligenz könnte schon bald einen gesellschaftlichen und ökonomischen Bruch einleiten, der die industrielle Revolution übertrifft. Vier Vorschläge, wie sich Deutschland dafür rüsten sollte.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fuest-und-schnitzer-warnen-europa-ist-auf-die-rasante-ki-entwicklung-nicht-vorbereitet-accg-201218653.html",
-   "published": "2026-09-18T04:34:48+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wettbewerbsnachteil: Europa ist auf die rasante KI-Entwicklung nicht vorbereitet",
-   "summary": "Künstliche Intelligenz könnte schon bald einen gesellschaftlichen und ökonomischen Bruch einleiten, der die industrielle Revolution übertrifft. Vier Vorschläge, wie sich Deutschland dafür rüsten sollte.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/europa-ist-auf-die-rasante-ki-entwicklung-nicht-vorbereitet-accg-201218653.html",
-   "published": "2026-09-18T04:34:48+00:00",
-   "first_seen": "2026-09-18T11:03:59.278781+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Medien- und KI-Kompetenz: So stärken Eltern ihre Kinder",
-   "summary": "Viel zu viele, darunter auch falsche Informationen: Kinder brauchen mehr Kompetenz im Umgang mit KI und Medien denn je. Wie Eltern sie dabei gut begleiten und unterstützen können.",
-   "link": "https://www.zdfheute.de/ratgeber/ki-social-media-internet-kinder-familie-eltern-kompetenz-100.html",
-   "published": "2026-09-18T04:31:00+00:00",
-   "first_seen": "2026-09-18T10:04:33.370905+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing Podcast: KI: Wie gefährlich die Technologie wirklich ist / Spritpreise: Zank am Tank",
-   "summary": "Die Auswertung bisheriger KI-Ausbrüche zeigt, was die Technologie schon heute kann. Viele der Ängste sind übertrieben, Schäden kann sie dennoch anrichten. Es sei denn, zwei Regierungen greifen ein.",
-   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-ki-wie-gefaehrlich-die-technologie-wirklich-ist---spritpreise-zank-am-tank/100255537.html",
-   "published": "2026-09-18T04:09:20+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Topix, CSI 300: Asiens Börsen reagieren auf Japans Zinserhöhung mit Gewinnen",
-   "summary": "Chip- und KI-Werte in Tokio verzeichnen Kursgewinne, während die Bank of Japan ihre Geldpolitik weiter strafft. Die Märkte hoffen nun auf eine niedrigere Inflation.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-reagieren-auf-japans-zinserhoehung-mit-gewinnen/100255536.html",
-   "published": "2026-09-18T04:04:16+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing: Drei Thesen, zu was die KI wirklich fähig ist",
-   "summary": "Bisherige KI-Ausbrüche zeigen, was die Technologie schon heute kann. Ein Blick auf die Details zeigt, Ängste übertrieben sind und welche Schäden die KI dennoch anrichten kann.",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-drei-thesen-zu-was-die-ki-wirklich-faehig-ist/100255472.html",
-   "published": "2026-09-18T03:57:04+00:00",
-   "first_seen": "2026-09-18T04:04:03.979464+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gesundheitstipps vom Chatbot: KI, was hab' ich? Symptome online checken - aber richtig",
-   "summary": "Dr. KI hat 24/7 Sprechstunde und immer eine Idee, was hinter unseren Beschwerden stecken könnte. Wie man Chatbots bei Gesundheitsfragen clever nutzt - und welche (eher unbekannte) Alternative es gibt.",
-   "link": "https://www.handelsblatt.com/technik/medizin/gesundheitstipps-vom-chatbot-ki-was-hab-ich-symptome-online-checken-aber-richtig/100255534.html",
-   "published": "2026-09-18T03:42:04+00:00",
-   "first_seen": "2026-09-18T04:04:03.979464+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Untergangsszenarien: Welche konkreten Gefahren drohen durch KI?",
-   "summary": "Löscht die KI die Menschheit aus oder lenken Doomsday-Szenarien von den echten Gefahren ab? Während manche Vordenker vor Kontrollverlust warnen, halten andere die Untergangsbilder für Science-Fiction.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/untergangsszenarien-welche-konkreten-gefahren-drohen-durch-ki/100255508.html",
-   "published": "2026-09-18T02:30:07+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung: „Die Leute müssen das Gefühl haben, blöd sein zu dürfen“",
-   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
-   "link": "https://www.handelsblatt.com/karriere/fuehrung-die-leute-muessen-das-gefuehl-haben-bloed-sein-zu-duerfen/100252820.html",
-   "published": "2026-09-18T02:00:00+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
    "paywall": true
   }
  ]
