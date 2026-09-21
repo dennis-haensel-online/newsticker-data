@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-21T10:04:08.746101+00:00",
+ "updated": "2026-09-21T11:04:09.209375+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Skoda setzt auf Interims-Chef",
+   "summary": "Berentzen wird amerikanisch +++ Autobauer melden ungewöhnlich schwaches erstes Halbjahr +++ Umsatz gegen internationalen Trend rückläufig +++ Trump will „KI-Zar“ ernennen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-skoda-setzt-auf-interims-chef-holger-peters-faz-200452404.html",
+   "published": "2026-09-21T10:47:24+00:00",
+   "first_seen": "2026-09-21T11:04:09.209375+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "81. UN-Generalversammlung in New York: Kriege und KI im Fokus des UN-Gipfels",
+   "summary": "Bei der jährlichen UN-Vollversammlung stehen wieder aktuelle Krisen und Herausforderungen im Mittelpunkt, echte Durchbrüche sind nicht zu erwarten. mehr...",
+   "link": "https://taz.de/81-UN-Generalversammlung-in-New-York/!6214845/",
+   "published": "2026-09-21T10:15:00+00:00",
+   "first_seen": "2026-09-21T11:04:09.209375+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
+   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-der-bedarf-an-spezialisierten-it-fachkraeften-wird-tendenziell-hoch-bleiben/100238210.html",
+   "published": "2026-09-21T09:57:00+00:00",
+   "first_seen": "2026-09-21T11:04:09.209375+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Logistik: Kühne+Nagel winkt durch Amazon-Deal Milliardenumsatz mit KI-Logistik",
@@ -873,33 +900,6 @@
    "link": "https://www.zdfheute.de/video/ki-fakes-desinformation-journalismus-demokratie-100.html",
    "published": "2026-09-17T16:47:00+00:00",
    "first_seen": "2026-09-17T17:03:37.104390+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Trump nennt es Hoax, Sam Altman den Weltuntergang – beide irren",
-   "summary": "Die KI-Debatte pendelt zwischen Panik und Verharmlosung. Ein Blick auf einen realen Fall zeigt, welche Gefahr tatsächlich schon existiert – und wem die Angst vor der Super-KI nützt.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-trump-nennt-es-hoax-sam-altman-den-weltuntergang-beide-irren/100254339.html",
-   "published": "2026-09-17T14:58:53+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Staatsvertrag zu KI-Plattformen: Mehr regeln, mehr werben",
-   "summary": "Die Bundesländer wollen mit einem neuen Medienstaatsvertrag Anbieter von auf Künstlicher Intelligenz basierenden Informationssystemen regulieren. mehr...",
-   "link": "https://taz.de/Staatsvertrag-zu-KI-Plattformen/!6214032/",
-   "published": "2026-09-17T14:55:00+00:00",
-   "first_seen": "2026-09-17T15:04:33.634945+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Künstliche Intelligenz als Gefahr: OpenAI macht weitere KI-Probleme öffentlich",
-   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt. mehr...",
-   "link": "https://taz.de/OpenAI-macht-weitere-KI-Probleme-oeffentlich/!6214076/",
-   "published": "2026-09-17T14:03:00+00:00",
-   "first_seen": "2026-09-17T14:04:31.193503+00:00",
    "paywall": false
   }
  ]
