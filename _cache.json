@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T04:04:02.783439+00:00",
+ "updated": "2026-09-21T05:04:21.962249+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,105 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Immobilien: „Der Hamburger Baustandard kann die Kosten um 30 Prozent senken“",
+   "summary": "In Deutschland sind Wohnungen knapp, doch der Neubau stockt. Drei Immobilienmanager erklären, welche Hürden es gibt und wo sich Potenzial für Wohnraum heben lässt.",
+   "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-der-hamburger-baustandard-kann-die-kosten-um-30-prozent-senken/100255102.html",
+   "published": "2026-09-21T04:55:00+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Green Economy: Fünf Aktien für eine robustere Welt",
+   "summary": "Der Klimawandel kostet die Wirtschaft Milliarden. Unternehmen, die bei der Anpassung an Hitze und Starkregen helfen, könnten in den nächsten Jahren profitieren.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/green-economy-fuenf-aktien-fuer-eine-robustere-welt/100255098.html",
+   "published": "2026-09-21T04:55:00+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Neue Warnschüsse von den Rändern",
+   "summary": "Trotz der Basta-Rede des Kanzlers sind die Regierungsparteien in Aufruhr. Davon werden wir in der kommenden Woche viel sehen und hören.",
+   "link": "https://www.zdfheute.de/briefing/nach-wahlen-mecklenburg-vorpommern-berlin-cdu-spd-zimmermann-zdfheute-update-100.html",
+   "published": "2026-09-21T04:50:00+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Antoine Arnault: Französischer Milliardärssohn steigt bei Luxusautobauer ein",
+   "summary": "Antoine Arnault kauft Anteile bei Delage. Der französische Hersteller fertigt Fahrzeuge in Kleinserie, die mindestens zwei Millionen Euro kosten – und will nun international wachsen.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/antoine-arnault-franzoesischer-milliardaerssohn-steigt-bei-luxusautobauer-ein/100256067.html",
+   "published": "2026-09-21T04:46:49+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Staatsstabilität: Die Staatsverschuldung steigt rund um den Globus",
+   "summary": "Ein Weltschuldencrash in naher Zukunft ist unwahrscheinlich, doch an den Finanzmärkten wächst die Sorge. Die Bürger bekommen die Folgen auch ohne ganz große Krise zu spüren.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/staatsstabilitaet-die-staatsverschuldung-steigt-rund-um-den-globus/100256066.html",
+   "published": "2026-09-21T04:46:32+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Immer mehr Produktrückrufe bei Lebensmitteln",
+   "summary": "Immer mehr Lebensmittel werden vorsorglich aus dem Handel genommen, doch die Rückrufe erreichen nicht alle Verbraucher. Hinzu kommt: Es gibt nicht genug Kontrollen. Von Martin Küstermann.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html",
+   "published": "2026-09-21T04:45:15+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte: China bremst offenbar Börsengänge von Roboter-Herstellern",
+   "summary": "Chinesische Aufsichtsbehörden prüfen wegen hoher Bewertungen mehrere geplante Börsengänge von Roboterfirmen. Auslöser ist laut Insidern unter anderem der volatile Börsenstart von Unitree Robotics.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/maerkte-china-bremst-offenbar-boersengaenge-von-roboter-herstellern/100256063.html",
+   "published": "2026-09-21T04:31:43+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Weltweite Abstimmung: Piepmatz mit Krone: Karure ist Neuseelands Vogel des Jahres",
+   "summary": "In einem weltweiten Wettstreit hat sich der einst fast ausgestorbene Karure in Neuseeland den Titel „Bird of the Year“ gesichert. Wie kaum ein anderer steht der Vogel für die Wiedergeburt einer Art.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/weltweite-abstimmung-piepmatz-mit-krone-karure-ist-neuseelands-vogel-des-jahres/100256064.html",
+   "published": "2026-09-21T04:17:45+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Börse am 21. September: Sechs Punkte, die für Anleger heute wichtig sind",
+   "summary": "Erholt sich der Dax zu Beginn der neuen Handelswoche? Die Ergebnisse der Landtagswahlen könnten sich im Tagesverlauf auf die Kurse auswirken – ganz besonders in einer Branche.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sechs-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
+   "published": "2026-09-21T04:16:39+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Podcast: Wahlen: Der Erfolg der extremen Ränder / Strompreise: Es geht auch günstiger",
+   "summary": "Mecklenburg-Vorpommern und Berlin besiegeln den Eintritt von Friedrich Merz in das Siechtum seiner Kanzlerschaft. Weitermachen will er trotzdem, eine Idee präsentiert er nicht.",
+   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-wahlen-der-erfolg-der-extremen-raender---strompreise-es-geht-auch-guenstiger/100256060.html",
+   "published": "2026-09-21T04:14:17+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Wohnungsmarkt: »Wir stecken 35.000 Euro in eine Wohnung, die uns nicht gehört«",
+   "summary": "Eine Mietwohnung, die passt und bezahlbar ist? In vielen Städten kaum zu finden. Vier Menschen erzählen vom Abschied von der Traumwohnung. Und dem Leben mit Kompromissen.",
+   "link": "https://www.zeit.de/geld/2026-08/wohnungsmarkt-miete-grossstadt-kosten-kompromisse",
+   "published": "2026-09-21T04:01:15+00:00",
+   "first_seen": "2026-09-21T05:04:21.962249+00:00",
    "paywall": true
   },
   {
@@ -13399,105 +13498,6 @@
    "summary": "Der niedrige Füllstand der Gasspeicher in Deutschland beunruhigt viele Menschen. Aber wie funktioniert eigentlich das System der Gasspeicher?",
    "link": "https://www.handelsblatt.com/politik/deutschland/gasversorgung-gasspeicher-sorgen-fuer-nervositaet-welche-rolle-haben-sie/100255202.html",
    "published": "2026-09-17T02:45:05+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitaler Durchblick: Sie hassen das Windows-Sounddesign? - Wie alles gut wird",
-   "summary": "Windows 11 hat viele Sounds an Bord. Fast alle sind individualisierbar - vom Start bis zu Systemereignissen. So passen Sie die Klänge nach Ihren Wünschen an oder sorgen für Ruhe.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/digitaler-durchblick-sie-hassen-das-windows-sounddesign-wie-alles-gut-wird/100255198.html",
-   "published": "2026-09-17T02:37:04+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gefährliche Tropenkrankheit: Malaria am Frankfurter Airport: Behörde rät zu Mückenschutz",
-   "summary": "Erneut erkranken Menschen in Frankfurt an Malaria. Fachleute gehen davon aus, dass dies mit dem Flughafen zusammen hängt. Eigentlich kommen solche Fälle selten vor. Was das Gesundheitsamt jetzt rät.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-tropenkrankheit-malaria-am-frankfurter-airport-behoerde-raet-zu-mueckenschutz/100255194.html",
-   "published": "2026-09-17T02:30:05+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Energiekonzerne: Vattenfall fordert klare Zuständigkeiten für Sicherheit",
-   "summary": "Russische Schattenflotten in der Ostsee und Zwischenfälle mit Drohnen: Die Bedrohungslage hat sich aus Sicht des Vattenfall-Deutschlandchefs geändert – es brauche politische Unterstützung.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/energiekonzerne-vattenfall-fordert-klare-zustaendigkeiten-fuer-sicherheit/100255193.html",
-   "published": "2026-09-17T02:30:04+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nutzfahrzeugindustrie: Bosch – Konkurrenz durch chinesische Hersteller nimmt zu",
-   "summary": "Die Geschäfte von Bosch waren zuletzt stark unter Druck. Der Chef der Mobilitätssparte beobachtet eine zunehmende Konkurrenz aus China. Und hat eine klare Forderung an die EU.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/nutzfahrzeugindustrie-bosch-konkurrenz-durch-chinesische-hersteller-nimmt-zu/100255192.html",
-   "published": "2026-09-17T02:28:31+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wohnungsmarkt: Hohe Bauzinsen: Nachfrage nach Immobilien kühlt sich ab",
-   "summary": "Ob Eigenheim oder Wohnung: Viele Menschen wollen in die eigenen vier Wände. Doch stark steigende Bauzinsen machen bei vielen die Rechnung zunichte. Und Kredite könnten noch teurer werden.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wohnungsmarkt-hohe-bauzinsen-nachfrage-nach-immobilien-kuehlt-sich-ab/100255189.html",
-   "published": "2026-09-17T02:15:05+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Spirituosen-Markt: Berentzen spricht über Kauf durch US-Konzern",
-   "summary": "Berentzen Apfelkorn könnte bald aus dem selben Haus kommen wie amerikanischer Whiskey. Das US-Schwergewicht Sazerac erwägt ein Übernahmeangebot.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/spirituosen-markt-berentzen-spricht-ueber-kauf-durch-us-konzern/100255188.html",
-   "published": "2026-09-17T02:12:52+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gehälter: Was ist beim Gehalt noch drin – trotz Krise?",
-   "summary": "Eine exklusive Auswertung der Unternehmensberatung Willis Towers Watson zeigt, wie sich die Vergütungsbudgets von Unternehmen entwickeln – und was Beschäftigte erwarten können.",
-   "link": "https://www.handelsblatt.com/karriere/gehaelter-was-ist-beim-gehalt-noch-drin-trotz-krise/100254274.html",
-   "published": "2026-09-17T02:08:32+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Der Aufbruch beginnt bei uns – worauf warten wir noch?",
-   "summary": "Für eine wirtschaftliche und mentale Wende müssen wir zurückkehren zu Freiheitsliebe und Vertrauen in die Unternehmen, sagt Nicola Leibinger-Kammüller.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-der-aufbruch-beginnt-bei-uns-worauf-warten-wir-noch/100252147.html",
-   "published": "2026-09-17T02:07:08+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsbeziehungen: Kanadischer Bankenchef McKay: „Wir sind zu abhängig von der US-Wirtschaft“",
-   "summary": "Kanada will seine Handelsbeziehungen zu Europa und Deutschland stärken. Der Chef der größten Bank Kanadas sagt, wie eine Kooperation konkret aussehen könnte – und welche Hürden er sieht.",
-   "link": "https://www.handelsblatt.com/politik/international/kanada-rbc-chef-mckay-wir-sind-zu-abhaengig-von-der-us-wirtschaft/100254552.html",
-   "published": "2026-09-17T02:03:40+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Große Investoren fürchten vor allem eine Entwicklung",
-   "summary": "Die von der Branche erhoffte deutliche Wende am Transaktionsmarkt für Immobilien blieb bislang aus. Die globale Nummer zwei auf dem Markt verrät, wie sich der Trend 2027 entwickeln wird.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-grosse-investoren-fuerchten-vor-allem-eine-entwicklung/100253659.html",
-   "published": "2026-09-17T02:01:44+00:00",
-   "first_seen": "2026-09-17T03:04:09.044653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Verbraucher: Bargeldlos zahlen: Mehrheit wünscht sich mehr Möglichkeiten",
-   "summary": "Wo wollen Sie bargeldlos bezahlen können? Bei einer aktuellen Umfrage sprechen sich mehr als zwei Drittel für Kartenzahlung im Restaurant aus. Auch Supermärkte stehen hoch im Kurs.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/verbraucher-bargeldlos-zahlen-mehrheit-wuenscht-sich-mehr-moeglichkeiten/100255184.html",
-   "published": "2026-09-17T02:00:46+00:00",
    "first_seen": "2026-09-17T03:04:09.044653+00:00",
    "paywall": true
   }
