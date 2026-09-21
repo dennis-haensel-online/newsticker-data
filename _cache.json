@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T23:03:57.735092+00:00",
+ "updated": "2026-09-21T00:05:24.136340+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Personaldiskussion um Merz vertagt?",
+   "summary": "Zum ersten Mal verpasst die CDU den Einzug in einen Landtag. Friedrich Merz will dennoch Kanzler und Parteivorsitzender bleiben und verweist auf den Reformkurs der Bundesregierung.",
+   "link": "https://www.zdfheute.de/politik/deutschland/landtagswahlen-merz-personaldiskussion-vertagt-100.html",
+   "published": "2026-09-20T23:42:00+00:00",
+   "first_seen": "2026-09-21T00:05:24.136340+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahlen: Historische Demütigung für die CDU - Kann Merz sich halten?",
+   "summary": "Die schlimmsten Befürchtungen der CDU sind am Wahlabend wahr geworden. Sie fliegt erstmals aus einem Landtag und wird von der Linken abgehängt. Kann sich der Kanzler jetzt noch im Amt halten?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-historische-demuetigung-fuer-die-cdu-kann-merz-sich-halten/100255881.html",
+   "published": "2026-09-20T23:39:23+00:00",
+   "first_seen": "2026-09-21T00:05:24.136340+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "CDU scheitert erstmals an Fünf-Prozent-Hürde",
+   "summary": "Erstmals in der Geschichte der CDU liegt die Partei bei einer Landtagswahl unter fünf Prozent. CDU-Politiker suchen nach Erklärungen für das Wahldesaster.",
+   "link": "https://www.zdfheute.de/politik/deutschland/cdu-fuenf-prozent-huerde-mecklenburg-vorpommern-wahl-100.html",
+   "published": "2026-09-20T23:32:00+00:00",
+   "first_seen": "2026-09-21T00:05:24.136340+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13472,33 +13499,6 @@
    "link": "https://taz.de/NHL-ignoriert-deutsche-Eishockeyplaene/!6213604/",
    "published": "2026-09-16T18:06:00+00:00",
    "first_seen": "2026-09-16T19:03:41.979474+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-   "summary": "Die US-Notenbank Fed hat auf die hohe Inflation reagiert und den Leitzins auf die neue Spanne von 3,75 bis 4,00 Prozent angehoben. Zuvor hatte Trump auf eine Senkung gepocht.",
-   "link": "https://www.zdfheute.de/wirtschaft/fed-entscheidung-leitzins-usa-notenbank-100.html",
-   "published": "2026-09-16T18:06:00+00:00",
-   "first_seen": "2026-09-16T19:03:41.979474+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Hohe Benzin- und Dieselpreise: Wie der Staat die hohen Spritkosten abfedern kann",
-   "summary": "Bundeskanzler Merz hat Entlastungen versprochen und will dazu bald einen Vorschlag machen. Welche Ideen es schon gibt – und was sie bringen. mehr...",
-   "link": "https://taz.de/Hohe-Benzin--und-Dieselpreise/!6213593/",
-   "published": "2026-09-16T18:05:00+00:00",
-   "first_seen": "2026-09-16T19:03:41.979474+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Streit um Palästina-Statements: Von wegen unpolitischer Hedonismus",
-   "summary": "Nach dem Macklemore-Rauswurf behauptet Ed Sheeran, es ginge ihm nur um Musik, nicht um Politik. Das ist unglaubwürdig, wie die Vergangenheit zeigt. mehr...",
-   "link": "https://taz.de/Streit-um-Palaestina-Statements/!6213616/",
-   "published": "2026-09-16T18:03:00+00:00",
-   "first_seen": "2026-09-16T18:05:01.594711+00:00",
    "paywall": false
   }
  ]
