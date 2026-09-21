@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-21T06:05:34.475101+00:00",
+ "updated": "2026-09-21T07:05:57.632400+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Vor Trump-Xi-Gipfel: China und USA beraten über KI",
+   "summary": "Die USA und China befinden sich in einem Wettlauf um den Vorsprung bei Künstlicher Intelligenz. Diese Woche wollen die Präsidenten bei einem Treffen über KI sprechen. Vertreter beider Staaten haben nun vorab über die Risiken beraten.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-china-ki-gespraeche-100.html",
+   "published": "2026-09-21T06:54:14+00:00",
+   "first_seen": "2026-09-21T07:05:57.632400+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "China, USA und KI: Gespräche über ein Meldesystem für KI-Sicherheitsrisiken",
+   "summary": "Am Sonntag sprach der US-Finanzminister mit Chinas Vize-Ministerpräsident. Ergebnis: Die Länder wollen künftig Informationen über KI-Vorfälle austauschen. mehr...",
+   "link": "https://taz.de/China-USA-und-KI/!6214922/",
+   "published": "2026-09-21T06:50:00+00:00",
+   "first_seen": "2026-09-21T07:05:57.632400+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Sicherheitsrisiken im Fokus: China und USA sprechen vor Trump-Xi-Gipfel über KI",
@@ -883,24 +901,6 @@
    "published": "2026-09-17T10:01:00+00:00",
    "first_seen": "2026-09-17T11:04:20.153056+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-diese-studiengaenge-sind-im-ki-wandel-besonders-gefragt/100235558.html",
-   "published": "2026-09-17T09:19:00+00:00",
-   "first_seen": "2026-09-17T10:04:12.265883+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "OpenAI veröffentlicht neue Fälle von KI-Fehlverhalten",
-   "summary": "OpenAI macht sechs Fälle öffentlich, in denen KI-Systeme eigenmächtig gehandelt haben oder Kontrollen umgehen wollten. Künftig sollen solche Vorfälle systematisch erfasst werden.",
-   "link": "https://www.zdfheute.de/panorama/openai-ki-auffaelliges-verhalten-100.html",
-   "published": "2026-09-17T09:02:00+00:00",
-   "first_seen": "2026-09-17T10:04:12.265883+00:00",
-   "paywall": false
   }
  ]
 }
