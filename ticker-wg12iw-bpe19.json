@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-21T11:04:09.209375+00:00",
+ "updated": "2026-09-21T12:04:58.804847+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sparen: Vier Prozent und mehr – haben die Tagesgeld-Zinsen ihren Höhepunkt erreicht?",
+   "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/tagesgeld-vier-prozent-und-mehr-wann-beenden-die-zinsen-ihren-hoehenflug/100255706.html",
+   "published": "2026-09-21T11:35:27+00:00",
+   "first_seen": "2026-09-21T12:04:58.804847+00:00",
    "paywall": true
   },
   {
@@ -675,51 +684,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-imk-ezb-li.3549284",
    "published": "2026-09-17T11:07:24+00:00",
    "first_seen": "2026-09-17T12:05:22.815045+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Wie klimafreundlich sind die DAX-Unternehmen?",
-   "summary": "Wie gut setzen deutsche Unternehmen ihre Klimaziele um? Der Klima-Report einer Frankfurter Beratungsfirma versucht den Fortschritt messbar zu machen. Maßstab ist dabei der Beitrag zur Erderwärmung - gemessen in Temperaturen. Von Katharina…",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dax-unternehmen-klima-100.html",
-   "published": "2026-09-17T10:29:54+00:00",
-   "first_seen": "2026-09-17T11:04:20.153056+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Teurer Sprit: Wirtschaftsweise wirbt für \"Direktauszahlung\"",
-   "summary": "Die Spritpreise steigen weiter und die Regierung diskutiert Entlastungen. Was ist sinnvoll und was nicht? Einschätzungen der Wirtschaftsweisen Monika Schnitzer im ZDF-Morgenmagazin.",
-   "link": "https://www.zdfheute.de/politik/deutschland/monika-schnitzer-hohe-spritpreise-entlastungen-wirtschaftsweise-100.html",
-   "published": "2026-09-17T10:20:00+00:00",
-   "first_seen": "2026-09-17T11:04:20.153056+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Teuerung: Inflation im Euroraum leicht niedriger als zunächst angenommen",
-   "summary": "Die Verbraucherpreise in der Eurozone sind im August um 3,2 Prozent gestiegen. Inflationstreiber sind die Energiepreise, die sich um mehr als 14 Prozent erhöhten.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/inflation-eurozone-energie-ezb-leitzins-gxe",
-   "published": "2026-09-17T10:08:24+00:00",
-   "first_seen": "2026-09-17T11:04:20.153056+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Inflation im Euroraum bei 3,2 Prozent",
-   "summary": "Die Inflation im Euroraum klettert im August auf 3,2 Prozent. Energie bleibt der Preistreiber. Welche Folgen das haben könnte.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-inflation-im-euroraum-bei-32-prozent/100255329.html",
-   "published": "2026-09-17T10:01:30+00:00",
-   "first_seen": "2026-09-17T11:04:20.153056+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Teuerung: Inflation im Euroraum leicht niedriger als zunächst angenommen",
-   "summary": "Die Verbraucherpreise in der Eurozone sind im August um 3,2 Prozent gestiegen. Inflationstreiber sind die Energiepreise, die sich um mehr als 14 Prozent erhöhten.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/inflation-eurozone-energie-ezb-leitzins",
-   "published": "2026-09-17T09:49:08+00:00",
-   "first_seen": "2026-09-17T10:04:12.265883+00:00",
    "paywall": true
   }
  ]
