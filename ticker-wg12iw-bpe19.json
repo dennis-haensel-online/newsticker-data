@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-21T09:04:15.095413+00:00",
+ "updated": "2026-09-21T10:04:08.746101+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nicola Fuchs-Schündeln: „Bisher hat keine Technologie die Arbeit abgeschafft“",
+   "summary": "Die Ökonomin Nicola Fuchs-Schündeln rechnet vor, wie viel Wachstum Deutschland durch zu wenig KI-Nutzung verpasst. Und sie erklärt, welche Reformen helfen würden, den Fachkräftemangel zu lindern.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/nicola-fuchs-schuendeln-bisher-hat-keine-technologie-die-arbeit-abgeschafft/100254925.html",
+   "published": "2026-09-21T09:21:56+00:00",
+   "first_seen": "2026-09-21T10:04:08.746101+00:00",
    "paywall": true
   },
   {
@@ -694,15 +703,6 @@
    "published": "2026-09-17T09:19:00+00:00",
    "first_seen": "2026-09-17T10:04:12.265883+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Wirtschaft in Deutschland: Auftragspolster der Industrie steigt auf Rekordhoch",
-   "summary": "Ökonomen heben ihre Wachstumsprognosen, die deutsche Industrie schöpft neue Hoffnung. Viele Aufträge für Rüstungs- und Maschinenbau treiben das Wachstum, die Autobranche bleibt Sorgenkind.",
-   "link": "https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-auftragspolster-der-industrie-steigt-auf-rekordhoch-a-d48972e6-1167-4cd9-b249-3e18e695458f#ref=rss",
-   "published": "2026-09-17T08:34:00+00:00",
-   "first_seen": "2026-09-17T09:04:29.747153+00:00",
-   "paywall": false
   }
  ]
 }
