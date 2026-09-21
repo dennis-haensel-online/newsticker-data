@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-21T15:03:40.131846+00:00",
+ "updated": "2026-09-21T16:04:16.102477+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Führende Institute verdoppeln Wachstumsprognose",
+   "summary": "Die Prognose im Auftrag des Wirtschaftsministeriums fällt nach Handelsblatt-Informationen dieses Jahr deutlich besser aus. Der Aufschwung setzt sich auch im kommenden Jahr fort.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-fuehrende-institute-verdoppeln-wachstumsprognose/100256290.html",
+   "published": "2026-09-21T15:41:11+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
    "paywall": true
   },
   {
@@ -576,15 +585,6 @@
    "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-zinserhoehung-und-russischer-hochzeitssponsor-die-trump-news-der-woche/100255456.html",
    "published": "2026-09-17T16:34:35+00:00",
    "first_seen": "2026-09-17T17:03:37.104390+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch analysiert die Marktbewegungen nach der Fed-Sitzung",
-   "summary": "Die US-Notenbank hat am Mittwoch eine Zinserhöhung verkündet. In der anschließenden Pressekonferenz habe sich Fed-Chef Warsh „sehr entschieden im Lager der Inflationsbekämpfer“ positioniert, berichtet Markus Koch und ordnet die Folgen ein.",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-analysiert-die-marktbewegungen-nach-der-fed-sitzung/100255444.html",
-   "published": "2026-09-17T15:06:11+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
    "paywall": true
   }
  ]

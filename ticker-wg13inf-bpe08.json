@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-21T15:03:40.131846+00:00",
+ "updated": "2026-09-21T16:04:16.102477+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Google muss 400 Millionen Euro Strafe zahlen",
+   "summary": "Google muss wegen Verstößen gegen europäische Datenschutzregeln mehr als 400 Millionen Euro Strafe zahlen. Im Fokus steht der Umgang mit Standortdaten von Nutzern.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/google-strafe-standortdaten-datenschutz-100.html",
+   "published": "2026-09-21T15:56:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitale Sicherheit: Rechnungshof: EU nicht genug gegen Cyberangriffe gewappnet",
+   "summary": "Eine Attacke legt 2025 IT-Systeme an Flughäfen in Berlin, Dublin sowie Brüssel lahm und zeigt die Verwundbarkeit bei Cyberangriffen. Unabhängige Prüfer kritisieren Lücken in der Verteidigung der EU.",
+   "link": "https://www.handelsblatt.com/politik/international/digitale-sicherheit-rechnungshof-eu-nicht-genug-gegen-cyberangriffe-gewappnet/100256285.html",
+   "published": "2026-09-21T15:00:04+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Wall Street: Wall Street startet mit Gewinnen – Trump-Xi-Gipfel und KI-Aktien im Fokus",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/cyberangriffe-nordkorea-cybergruppe-bestiehlt-it-fachleute-auf-jobsuche/100255558.html",
    "published": "2026-09-18T06:00:07+00:00",
    "first_seen": "2026-09-18T07:04:40.035652+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Anthropic: KI-Modell Claude hilft bei Entwicklung seines Nachfolgers",
-   "summary": "Eine KI, die sich selbst verbessern kann, gilt als ein risikoreiches Szenario. Anthropic ist diesem nun einen Schritt näher gekommen.",
-   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-modell-claude-hilft-bei-entwicklung-seines-nachfolgers/100255552.html",
-   "published": "2026-09-18T05:43:27+00:00",
-   "first_seen": "2026-09-18T06:04:58.635024+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Anthropic: KI-Modell Claude hilft bei Entwicklung seines Nachfolgers",
-   "summary": "Eine Künstliche Intelligenz, die sich selbst verbessern kann, gilt als ein risikoreiches Szenario. Anthropic ist diesem nun einen Schritt näher gekommen.",
-   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-modell-claude-entwickelt-nachfolger-mit/100255552.html",
-   "published": "2026-09-18T05:43:27+00:00",
-   "first_seen": "2026-09-18T09:04:07.236682+00:00",
    "paywall": true
   }
  ]

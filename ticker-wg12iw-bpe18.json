@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-21T15:03:40.131846+00:00",
+ "updated": "2026-09-21T16:04:16.102477+00:00",
  "items": [
   {
    "label": "ZEIT",
@@ -9,6 +9,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/ig-metall-aktionstag-autoindustrie-china-konkurrenz-vw",
    "published": "2026-09-21T13:42:11+00:00",
    "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Gewerkschaft: IG Metall fordert EU-Subventionen für Autoindustrie",
+   "summary": "Die Politik tut nach Ansicht der IG Metall zu wenig für die Autoindustrie. Bei ihrem Aktionstag kritisiert die Gewerkschaft etwa fehlende EU-Zölle auf chinesische Autos.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/ig-metall-aktionstag-autoindustrie-china-konkurrenz-vw-gxe",
+   "published": "2026-09-21T13:42:11+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
    "paywall": true
   },
   {
@@ -397,15 +406,6 @@
    "published": "2026-09-17T16:03:00+00:00",
    "first_seen": "2026-09-17T17:03:37.104390+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch analysiert die Marktbewegungen nach der Fed-Sitzung",
-   "summary": "Die US-Notenbank hat am Mittwoch eine Zinserhöhung verkündet. In der anschließenden Pressekonferenz habe sich Fed-Chef Warsh „sehr entschieden im Lager der Inflationsbekämpfer“ positioniert, berichtet Markus Koch und ordnet die Folgen ein.",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-analysiert-die-marktbewegungen-nach-der-fed-sitzung/100255444.html",
-   "published": "2026-09-17T15:06:11+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
   }
  ]
 }

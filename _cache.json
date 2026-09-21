@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T15:03:40.131846+00:00",
+ "updated": "2026-09-21T16:04:16.102477+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -12,12 +12,237 @@
   },
   {
    "label": "taz",
+   "title": "Wahlsieg der Linken in Berlin: Jung, weiblich, mit Abi",
+   "summary": "Die Linke hat die Berliner Abgeordnetenhauswahl klar gewonnen. Ein Blick in die Statistik zeigt, wem sie ihren Wahlsieg verdankt. mehr...",
+   "link": "https://taz.de/Wahlsieg-der-Linken-in-Berlin/!6215159/",
+   "published": "2026-09-21T16:02:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Elif Eralp und Manuela Schwesig: Weiblicher Wahlsieg",
+   "summary": "Die Spitzenkandidatinnen Schwesig und Eralp haben erkannt, was es heute braucht: soziale Ansprache und ein Gefühl für die Nöte der Menschen. mehr...",
+   "link": "https://taz.de/Elif-Eralp-und-Manuela-Schwesig-Beide-haben-erkannt-was-im-Wahlkampf-von-heute-wichtig-ist/!6214960/",
+   "published": "2026-09-21T16:01:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Was Beschäftigte in der Autoindustrie dem Management vorwerfen",
+   "summary": "Ob bei Zulieferern oder den Herstellern - bei Beschäftigten in der Autoindustrie wachsen die Sorgen. Beim Aktionstag der IG Metall machen sie ihrem Ärger Luft - etwa in Baden-Württemberg. Von Fabian Siegel",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autoindustrie-protest-aktionstag-mercedes-100.html",
+   "published": "2026-09-21T15:56:46+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Google muss 400 Millionen Euro Strafe zahlen",
+   "summary": "Google muss wegen Verstößen gegen europäische Datenschutzregeln mehr als 400 Millionen Euro Strafe zahlen. Im Fokus steht der Umgang mit Standortdaten von Nutzern.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/google-strafe-standortdaten-datenschutz-100.html",
+   "published": "2026-09-21T15:56:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Russland: Wahlkämpfer mit 85 Jahren: Ein Schweizer Milliardär will die Sanktionen gegen Putin kippen",
+   "summary": "Christoph Blocher gilt als Übervater der rechtskonservativen SVP. Er will den Neutralitätsstatus der Schweiz stärken – zugunsten von Russland. In wenigen Tagen kommt es zum Showdown.",
+   "link": "https://www.handelsblatt.com/politik/international/russland-ein-schweizer-milliardaer-will-die-sanktionen-gegen-putin-kippen/100254805.html",
+   "published": "2026-09-21T15:51:19+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Medien klagen gegen Rausschmiss aus Weißem Haus",
+   "summary": "CNN, Politico und MS NOW klagen gegen das Hausverbot im Weißen Haus. Zudem wollen vier weitere große Sender ihre Berichterstattung über Donald Trump einschränken.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-medien-cnn-politico-msnow-weisses-haus-klage-100.html",
+   "published": "2026-09-21T15:48:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "CDU-Aus in Mecklenburg-Vorpommern: Fassungslosigkeit nach dem Super-GAU",
+   "summary": "Erstmals in der Geschichte der Bundesrepublik ist die CDU nun APO. Daran sei auch der eigene Landesverband schuld, heißt es aus der Partei in Mecklenburg-Vorpommern. mehr...",
+   "link": "https://taz.de/CDU-Aus-in-Mecklenburg-Vorpommern/!6215015/",
+   "published": "2026-09-21T15:47:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Führende Institute verdoppeln Wachstumsprognose",
+   "summary": "Die Prognose im Auftrag des Wirtschaftsministeriums fällt nach Handelsblatt-Informationen dieses Jahr deutlich besser aus. Der Aufschwung setzt sich auch im kommenden Jahr fort.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-fuehrende-institute-verdoppeln-wachstumsprognose/100256290.html",
+   "published": "2026-09-21T15:41:11+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Vorstoß des Kanzlers: Merz prangert Ungerechtigkeit in der Krankenversicherung an",
+   "summary": "Kanzler Merz benennt die Unterschiede zwischen privater und gesetzlicher Krankenversicherung als Gerechtigkeitsproblem und kündigt Veränderungen an. Der Gesundheitsminister weiß von nichts.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/merz-prangert-ungerechtigkeit-in-der-krankenversicherung-an-201248985.html",
+   "published": "2026-09-21T15:40:11+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Scheuer weist Vorwurf der Falschaussage zurück",
+   "summary": "Hat Scheuer vor dem U-Ausschuss zur Pkw-Maut gelogen? Zum Prozessauftakt wies der Ex-Verkehrsminister dies zurück. Über den gerichtlichen Stopp sei er \"total überrascht\" gewesen.",
+   "link": "https://www.zdfheute.de/politik/deutschland/scheuer-prozess-falschaussage-maut-zurueckweisung-100.html",
+   "published": "2026-09-21T15:38:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Landtagswahlen: Wie reagieren CDU und SPD? | Strompreise könnten sinken",
+   "summary": "SPD und CDU verlieren in Berlin und Mecklenburg-Vorpommern, eine historische Niederlage für die CDU. Und: Sinken bald die Strompreise in Deutschland?",
+   "link": "https://www.handelsblatt.com/audio/today/today-landtagswahlen-wie-reagieren-cdu-und-spd-strompreise-koennten-sinken/100256296.html",
+   "published": "2026-09-21T15:35:01+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Schiffbauer: Investorensuche: Steigt die Schweizer MSC bei der Meyer Werft ein?",
+   "summary": "Die Spekulationen verdichten sich, dass die Reederei MSC beim Kreuzfahrt-Spezialisten einsteigt. Doch bisher stehen einem solchen Deal einige durchaus große Hürden im Weg.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/schiffbauer-steigt-die-schweizer-msc-bei-der-meyer-werft-ein/100256255.html",
+   "published": "2026-09-21T15:26:37+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Brodeln an der Basis: Kritik an SPD-Doppelspitze wächst: „politischere Führung“",
+   "summary": "Im Ruhrgebiet wächst der Unmut über die SPD-Führung. Im einstigen „Stammland“ der Sozialdemokratie dringen unzufriedene Genossen auf Veränderungen in Partei und Regierung.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/brodeln-an-der-basis-kritik-an-spd-doppelspitze-waechst-politischere-fuehrung/100256293.html",
+   "published": "2026-09-21T15:24:55+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Berlin-Wahl 2026: Merz will Anti-Enteignungs-Gesetz vorantreiben",
+   "summary": "Nach dem Sieg der Linken in Berlin hat Friedrich Merz eine klare Botschaft: „Es gibt in Deutschland keine Enteignungen von privatem Eigentum.“",
+   "link": "https://www.wiwo.de/politik/deutschland/berlin-wahl-2026-merz-will-anti-enteignungs-gesetz-vorantreiben/100256288.html",
+   "published": "2026-09-21T15:23:20+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Der Tag nach dem CDU-Debakel",
+   "summary": "Am Tag nach der Landtagswahl in Mecklenburg-Vorpommern spricht Kanzler Merz von einer \"tiefen Zäsur\" für die CDU - und muss sich erklären.",
+   "link": "https://www.zdfheute.de/briefing/merz-cdu-druck-zdfheute-update-100.html",
+   "published": "2026-09-21T15:20:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Abgeordnetenhauswahl: Clan-Mitglied bei Linken-Wahlparty – Hürden für Rot-Grün-Rot",
+   "summary": "Die Linke in Berlin will die nächste Landesregierung führen. Aber der Besuch eines Mitglieds einer arabischstämmigen Großfamilie auf einer Wahlparty und Antisemitismus-Vorwürfe könnten das erschweren.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/abgeordnetenhauswahl-clan-mitglied-bei-linken-wahlparty-huerden-fuer-rot-gruen-rot/100256023.html",
+   "published": "2026-09-21T15:18:06+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Mecklenburg-Vorpommern: Die neue Liebe der Unternehmer für Rot-Rot-Grün",
+   "summary": "Sie leiden mit der CDU – und freuen sich über die Machtperspektive für die SPD: Reaktionen dreier Unternehmen auf das Wahlergebnis in Schwerin.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/mecklenburg-vorpommern-die-neue-liebe-der-unternehmer-fuer-rot-rot-gruen/100255083.html",
+   "published": "2026-09-21T15:17:29+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Merz: Niemand in CDU-Führung stellt Personalfrage",
+   "summary": "Nach dem Wahldebakel weist Friedrich Merz eine Personaldebatte zurück. In der CDU-Führung habe niemand seine Ämter infrage gestellt. Zugleich bekräftigt er seinen Reformkurs.",
+   "link": "https://www.zdfheute.de/politik/deutschland/merz-kanzler-wahlniederlage-personalfrage-100.html",
+   "published": "2026-09-21T15:15:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Merz: Gesetz gegen Enteignungen soll schnell kommen",
+   "summary": "Merz hofft auf eine \"klare Botschaft\" an internationale Investoren: Der Bundeskanzler will ein Bundesgesetz vorantreiben, das Enteignungen von Wohnungsgesellschaften verbietet.",
+   "link": "https://www.zdfheute.de/politik/deutschland/merz-enteignungen-verbot-gesetz-100.html",
+   "published": "2026-09-21T15:08:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "PDF: Handelsblatt vom 22. September 2026",
+   "summary": "",
+   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-22.-september-2026/100256282.html",
+   "published": "2026-09-21T15:06:33+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Wohnungsmarkt: Banken warnen vor Enteignung von Wohnungskonzernen in Berlin",
+   "summary": "Der Bankenverband warnt vor einer Vergesellschaftung von Immobilien in Berlin. Dies schrecke Investoren ab und beschädige den Standort Deutschland.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/berliner-enteignung-vergesellschaftung-linke-deutsche-kreditwirtschaft-gxe",
+   "published": "2026-09-21T15:06:16+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kolumne „Inside America“: Mein „Toronto“-Pullover ist plötzlich hochpolitisch",
+   "summary": "Trump tauft einen See um – und damit wird ein altes Sweatshirt aus meinem Kleiderschrank zum Bekenntnis. So gerät eine Reise durch die USA, Kanada und Brüssel auf einmal Abenteuer.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/trump-und-kanada-mein-toronto-pullover-ist-ploetzlich-hochpolitisch/100254738.html",
+   "published": "2026-09-21T15:05:27+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Nasdaq 100: SpaceX und die Gewichtsfrage",
+   "summary": "SpaceX hat im Index Nasdaq 100 neuerdings ein doppelt so hohes Gewicht wie zuvor. Das könnte Folgen für den Kurs der Aktie haben.",
+   "link": "https://www.wiwo.de/finanzen/boerse/nasdaq-100-spacex-und-die-gewichtsfrage/100256155.html",
+   "published": "2026-09-21T15:05:19+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitale Sicherheit: Rechnungshof: EU nicht genug gegen Cyberangriffe gewappnet",
+   "summary": "Eine Attacke legt 2025 IT-Systeme an Flughäfen in Berlin, Dublin sowie Brüssel lahm und zeigt die Verwundbarkeit bei Cyberangriffen. Unabhängige Prüfer kritisieren Lücken in der Verteidigung der EU.",
+   "link": "https://www.handelsblatt.com/politik/international/digitale-sicherheit-rechnungshof-eu-nicht-genug-gegen-cyberangriffe-gewappnet/100256285.html",
+   "published": "2026-09-21T15:00:04+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
    "title": "Wahl der Bezirksverordnetenversammlungen: Linke boomt auch in Bezirken",
    "summary": "Die Eralp-Partei wird mutmaßlich mindestens fünf Bürgermeister stellen. Die Grünen dürften nur noch drei statt bisher sechs Chefposten besetzen. mehr...",
    "link": "https://taz.de/Wahl-der-Bezirksverordnetenversammlungen/!6214964/",
    "published": "2026-09-21T14:59:00+00:00",
    "first_seen": "2026-09-21T15:03:40.131846+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Angeschaut und ausprobiert: Apples neuer Mac Mini im Alltagstest: Schneller und teurer",
+   "summary": "Vor zwei Jahren mischte Apple den PC-Markt mit einer Umgestaltung seines Mac mini zum Kampfpreis auf. Jetzt werden die Geräte mit einem Chip-Upgrade noch einmal leistungsstärker - das kostet.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/angeschaut-und-ausprobiert-apples-neuer-mac-mini-im-alltagstest-schneller-und-teurer/100256284.html",
+   "published": "2026-09-21T14:57:19+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": true
   },
   {
    "label": "FAZ",
@@ -144,6 +369,15 @@
    "published": "2026-09-21T14:28:55+00:00",
    "first_seen": "2026-09-21T15:03:40.131846+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wahlnachlese der Grünen",
+   "summary": "Pressekonferenz von Bündnis 90/Die Grünen zum Ausgang der Wahklen in Berlin und Mecklenburg-Vorpommern",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5234544",
+   "published": "2026-09-21T14:28:00+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -323,6 +557,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/ig-metall-aktionstag-autoindustrie-china-konkurrenz-vw",
    "published": "2026-09-21T13:42:11+00:00",
    "first_seen": "2026-09-21T14:04:13.585478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Gewerkschaft: IG Metall fordert EU-Subventionen für Autoindustrie",
+   "summary": "Die Politik tut nach Ansicht der IG Metall zu wenig für die Autoindustrie. Bei ihrem Aktionstag kritisiert die Gewerkschaft etwa fehlende EU-Zölle auf chinesische Autos.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/ig-metall-aktionstag-autoindustrie-china-konkurrenz-vw-gxe",
+   "published": "2026-09-21T13:42:11+00:00",
+   "first_seen": "2026-09-21T16:04:16.102477+00:00",
    "paywall": true
   },
   {
@@ -13255,249 +13498,6 @@
    "summary": "Alexander Vlaskamp, CEO des Münchner Lkw-Herstellers MAN, investiert Milliarden in die Elektrowende und gibt sich trotz neuer Konkurrenz aus China gelassen.",
    "link": "https://www.wiwo.de/unternehmen/auto/man-chef-die-staedte-fordern-immer-oefter-made-in-europe/100255301.html",
    "published": "2026-09-17T15:43:31+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "MAN-Chef: „Es herrscht eine riesige Blockade im System“",
-   "summary": "Alexander Vlaskamp, CEO des Münchner Lkw-Herstellers MAN, investiert Milliarden in die Elektrowende und gibt sich trotz neuer Konkurrenz aus China gelassen.",
-   "link": "https://www.wiwo.de/unternehmen/auto/man-chef-es-herrscht-eine-riesige-blockade-im-system/100255301.html",
-   "published": "2026-09-17T15:43:31+00:00",
-   "first_seen": "2026-09-17T19:03:44.651491+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Luxus-Krise: Die deutsche Tochter des Luxuslabels Bally ist insolvent",
-   "summary": "Die Schweizer Traditionsmarke Bally kämpft ums Überleben. Jetzt hat die deutsche Tochter Insolvenz angemeldet – und bereitet den Ausverkauf vor.",
-   "link": "https://www.wiwo.de/unternehmen/handel/bally-die-deutsche-tochter-des-luxuslabels-ist-insolvent/100255297.html",
-   "published": "2026-09-17T15:43:05+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Olympisches Boxen: Dann muss es eben Nikita machen",
-   "summary": "Bei den Europameisterschaften hoffen die deutschen Boxer auf einen: den Superschwergewichtler Nikita Putilov. Ein Quereinsteiger mit Perspektiven. mehr...",
-   "link": "https://taz.de/Olympisches-Boxen/!6213922/",
-   "published": "2026-09-17T15:42:00+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Krieg in der Ukraine: Alarmstufe Rot im Dauermodus",
-   "summary": "Die ukrainische Hauptstadt Kyjiw wurde in der Nacht zu Donnerstag wieder Ziel massiver russische Luftangriffe. Tote sind keine zu beklagen. mehr...",
-   "link": "https://taz.de/Krieg-in-der-Ukraine/!6213936/",
-   "published": "2026-09-17T15:40:00+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Auf den Einbruch folgt der Ausbruch",
-   "summary": "Am Mittwoch reagierte die Wall Street nur wenig begeistert auf die Zinserhöhungen der Fed. Am Donnerstag hob sie aber schon wieder ab – auch wegen Anleihenrenditen und Ölpreis.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-auf-den-einbruch-folgt-der-ausbruch/100255426.html",
-   "published": "2026-09-17T15:38:16+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Musterdepot – Nachhaltigkeit: Die stille Rotation an den Aktienmärkten",
-   "summary": "Nach dem Renditeanstieg an den Anleihemärkten schichten Aktienanleger von teuren Zyklikern in Cashflow-starke Werte um. Das zieht auch Änderungen im Musterdepot Nachhaltigkeit nach sich.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-die-stille-rotation-an-den-aktienmaerkten/100254435.html",
-   "published": "2026-09-17T15:38:14+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Erneut Explosionen in Frankfurt am Main",
-   "summary": "In Frankfurt hat es in der Nacht erneut Explosionen gegeben. Es wurden keine Menschen verletzt, jedoch kam es zu erheblichen Sachschäden. Die Polizei konnte eine verdächtige Person festnehmen.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/frankfurt-nacht-explosionen-100.html",
-   "published": "2026-09-17T15:38:00+00:00",
-   "first_seen": "2026-09-17T20:04:26.484661+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Giovanni Zarrella macht kleine Stars groß",
-   "summary": "In der neusten Ausgabe der Giovanni Zarrella-Show hat der Schlagerstar ganz besondere Gäste zu Besuch: Gemeinsam mit großen Popstars stellen Kinder ihre Talente auf der großen Bühne unter Beweis.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/zarrella-show-kleine-stars-100.html",
-   "published": "2026-09-17T15:37:00+00:00",
-   "first_seen": "2026-09-17T20:04:26.484661+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tanken: Steuern senken oder Preise deckeln? Bundesregierung verhakt sich bei Spritpreis-Entlastung",
-   "summary": "Die Koalition will noch vor den Wahlen am Wochenende eine Entlastung beschließen. Drei verschiedene Vorschläge liegen auf dem Tisch. Aus Brüssel droht Ärger.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/tanken-bundesregierung-verhakt-sich-bei-spritpreis-entlastung/100255160.html",
-   "published": "2026-09-17T15:36:22+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilienfonds: Zu viele Investoren wollen raus: DWS muss Immobilien verkaufen, um Anteilseigner auszuzahlen",
-   "summary": "Weil immer mehr Anleger ihre Anteile an Immobilienfonds zurückgeben, muss die Deutsche-Bank-Tochter verstärkt Immobilien auf den Markt bringen. Was Anteilseigner nun tun können.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/immobilienfonds-dws-muss-immobilien-verkaufen-um-anteilseigner-auszuzahlen/100255424.html",
-   "published": "2026-09-17T15:33:38+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Fed hebt Zinsen an / Ist Nvidia „too big to fail“?",
-   "summary": "Die US-Notenbanker geben ein einstimmiges Votum gegen Trumps Zinssenkungsforderungen ab. Weitere Schritte könnten folgen. Und: Warum Nvidia zum Risiko für das globale Finanzsystem wird.",
-   "link": "https://www.handelsblatt.com/audio/today/today-fed-hebt-zinsen-an---ist-nvidia-too-big-to-fail/100255437.html",
-   "published": "2026-09-17T15:32:02+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wird Berentzen verkauft?: Eisgekühlter Bommerlunder könnte amerikanisch werden",
-   "summary": "Auf dem Oktoberfest oder beim Après-Ski sind die Spirituosen von Berentzen ein fester Bestandteil. Jetzt greift ein amerikanischer Whisky-Riese nach dem hochprozentigen niedersächsischen Traditionsunternehmen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/berentzen-gruppe-uebernahme-durch-us-spirituosengigant-sazerac-201235604.html",
-   "published": "2026-09-17T15:27:20+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Verhaltensökonomik: Ökonomenklub auf Abwegen",
-   "summary": "Die große deutsche Ökonomenvereinigung, der Verein für Socialpolitik, wird als Stimme in der wirtschaftspolitischen Debatte nicht (mehr) wahrgenommen. Hier sind einige Gründe dafür.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/verein-fuer-socialpolitik-adam-smith-und-die-verhaltensoekonomik-201231734.html",
-   "published": "2026-09-17T15:22:56+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Kennedy Center Washington geschlossen: Palast der Schande",
-   "summary": "Wie US-Präsident Trump eine Kulturinstitution in der Hauptstadt Washington beschädigt, beschäftigt nun auch Gerichte. Die Chronik eines Niedergangs. mehr...",
-   "link": "https://taz.de/Kennedy-Center-Washington-geschlossen/!6213955/",
-   "published": "2026-09-17T15:17:00+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Warum die Rechtspopulisten in Schweden verloren haben",
-   "summary": "In Deutschland erlebt die AfD gerade einen Höhenflug. In Schweden sind die rechtspopulistischen Schwedendemokraten bei der Parlamentswahl der große Verlierer. Warum ist das so?",
-   "link": "https://www.zdfheute.de/politik/ausland/schweden-parlament-wahl-schwedendemokraten-rechtspopulisten-100.html",
-   "published": "2026-09-17T15:17:00+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit Lehrkräfte: Bundesgericht kippt Ausgleich für Überstunden eines Rektors",
-   "summary": "Wie viel Mehrarbeit steckt im Lehreralltag? Ein Grundschulrektor kämpft um Entschädigung. Das Bundesverwaltungsgericht hat nun entschieden.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitszeit-lehrkraefte-bundesgericht-kippt-ausgleich-fuer-ueberstunden-eines-rektors/100255382.html",
-   "published": "2026-09-17T15:11:39+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "König Charles: Was Dianas Bruder ihm vorwirft",
-   "summary": "Sollten William und Harry hinter Dianas Sarg gehen? Charles Spencer, der Bruder der Prinzessin, erhebt in seinem Buch schwere Vorwürfe gegen König Charles III. Der Palast widerspricht.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/diana-charles-spencer-koenig-reaktion-buch-100.html",
-   "published": "2026-09-17T15:10:00+00:00",
-   "first_seen": "2026-09-17T19:03:44.651491+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Taxifahrer überwältigt bewaffneten Angreifer",
-   "summary": "In Hannover konnte ein Taxifahrer erfolgreich einen Angreifer entwaffnen und sich so aus einem Überfall retten. Es ist nicht die erste heldenhafte Situation des Fahrers.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/taxifahrer-ueberwaeltigt-angreifer-100.html",
-   "published": "2026-09-17T15:10:00+00:00",
-   "first_seen": "2026-09-17T20:04:26.484661+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Entwicklungshilfe: Die Weltbank findet Milliarden",
-   "summary": "Die Weltbank mobilisiert so viel privates Kapital wie nie. Unter Präsident Banga rückt die Schaffung von Arbeitsplätzen ins Zentrum statt der Klimafinanzierung.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltbank-mobilisiert-112-milliarden-dollar-privates-kapital-201237684.html",
-   "published": "2026-09-17T15:09:51+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "PDF: Handelsblatt vom 18. September",
-   "summary": "",
-   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-18.-september/100255443.html",
-   "published": "2026-09-17T15:08:13+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "PDF: Beilage zum Handelsblatt vom 18. September",
-   "summary": "",
-   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-beilage-zum-handelsblatt-vom-18.-september/100255445.html",
-   "published": "2026-09-17T15:07:48+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch analysiert die Marktbewegungen nach der Fed-Sitzung",
-   "summary": "Die US-Notenbank hat am Mittwoch eine Zinserhöhung verkündet. In der anschließenden Pressekonferenz habe sich Fed-Chef Warsh „sehr entschieden im Lager der Inflationsbekämpfer“ positioniert, berichtet Markus Koch und ordnet die Folgen ein.",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-analysiert-die-marktbewegungen-nach-der-fed-sitzung/100255444.html",
-   "published": "2026-09-17T15:06:11+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "AKW Saporischschja: Sorge um nukleare Sicherheit nimmt zu",
-   "summary": "Die Organisation Greenpeace warnt vor einem Sicherheitsrisiko, weil die Stromversorgung des AKW Saporischschja immer wieder unterbrochen sei. Es wird von Russland besetzt.",
-   "link": "https://www.zdfheute.de/politik/ausland/akw-saporischschja-strom-greenpeace-ukraine-krieg-100.html",
-   "published": "2026-09-17T15:03:00+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Klopps Kader, Kanadas Nähe zu Europa und Spritpreis-Debatte",
-   "summary": "Jürgen Klopp startet mit XXL-Kader und großen Botschaften, Kanada und die EU nähern sich an und die Spritpreis-Debatte geht weiter.",
-   "link": "https://www.zdfheute.de/newsticker/klopp-kader-eu-kanada-carney-spritpreise-entlastung-zdfheute-update-100.html",
-   "published": "2026-09-17T15:01:00+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Nachfrage bricht ein: Bilfinger streicht 1500 Stellen",
-   "summary": "Schlechte Zeiten für den weltgrößten Industriedienstleister: Unternehmen und Energieversorger halten sich wegen des Golfkrieges mit Investitionen zurück. Die Aktionäre nehmen Reißaus.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bilfinger-streicht-1500-stellen-thomas-schulz-im-krisenmodus-201236874.html",
-   "published": "2026-09-17T15:00:10+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie die Premier League den Transfermarkt bestimmt",
-   "summary": "Vier Milliarden Euro für Transfers - die Premier League ist weiter im Kaufrausch. Doch das Geld bleibt zunehmend auf der Insel. Das könnte für die Bundesliga zum Problem werden.",
-   "link": "https://www.zdfheute.de/sport/premier-league-transfer-rekord-folgen-weltfussball-100.html",
-   "published": "2026-09-17T15:00:00+00:00",
-   "first_seen": "2026-09-17T16:04:31.819604+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Trump nennt es Hoax, Sam Altman den Weltuntergang – beide irren",
-   "summary": "Die KI-Debatte pendelt zwischen Panik und Verharmlosung. Ein Blick auf einen realen Fall zeigt, welche Gefahr tatsächlich schon existiert – und wem die Angst vor der Super-KI nützt.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-trump-nennt-es-hoax-sam-altman-den-weltuntergang-beide-irren/100254339.html",
-   "published": "2026-09-17T14:58:53+00:00",
    "first_seen": "2026-09-17T16:04:31.819604+00:00",
    "paywall": true
   }
