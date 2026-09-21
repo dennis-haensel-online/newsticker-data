@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-21T05:04:21.962249+00:00",
+ "updated": "2026-09-21T06:05:34.475101+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Anleger nehmen Wahlausgang gelassen auf",
+   "summary": "Das Gesprächsthema am Aktienmarkt werden heute die Wahlausgänge in Mecklenburg-Vorpommern und Berlin sein. Der sinkende Ölpreis stützt den DAX, vor allem die Konjunktur dürfte in dieser Woche im Blickpunkt stehen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+   "published": "2026-09-21T05:28:55+00:00",
+   "first_seen": "2026-09-21T06:05:34.475101+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -756,24 +765,6 @@
    "link": "https://www.spiegel.de/wirtschaft/immobilien-hohe-bauzinsen-daempfen-nachfrage-a-8068e68d-7001-42f1-bcc2-f3cf8a4ac271#ref=rss",
    "published": "2026-09-17T05:08:00+00:00",
    "first_seen": "2026-09-17T06:05:19.407839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei: Börse in Asien uneinheitlich nach erstem US-Zinsschritt seit Jahren",
-   "summary": "Fed-Chef Kevin Warsh begründete den Schritt mit der anhaltend hohen Inflation in den USA. Anleger in Asien blicken mit gemischten Gefühlen auf die Maßnahme.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-boerse-in-asien-uneinheitlich-nach-erstem-us-zinsschritt-seit-jahren/100255203.html",
-   "published": "2026-09-17T03:30:23+00:00",
-   "first_seen": "2026-09-17T04:04:35.573110+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Offiziell arbeitslos\" - Liga ohne Steuerfrau",
-   "summary": "Doppel-Olympiasiegerin Martine Grael war ab 2024 die erste Fahrerin in der Segel-Formel 1. Jetzt ist der Traum vom weiblichen Erfolg am SailGP-Steuer vorerst geplatzt.",
-   "link": "https://www.zdfheute.de/sport/sailgp/sailgp-aus-fuer-steuerfrau-martine-grael-100.html",
-   "published": "2026-09-17T03:13:00+00:00",
-   "first_seen": "2026-09-17T04:04:35.573110+00:00",
    "paywall": false
   }
  ]
