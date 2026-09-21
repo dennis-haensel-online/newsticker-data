@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T07:05:57.632400+00:00",
+ "updated": "2026-09-21T08:04:26.350186+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,240 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Führungskräfte: Wenn KI-Agenten zu Managern werden",
+   "summary": "Neun Menschen, mehr als 100 KI-Agenten: Start-up-Gründer Dominic von Proeck erprobt, wie Unternehmen mit digitalen Mitarbeitern wachsen können – und warum dafür gute Führung entscheidend ist.",
+   "link": "https://www.handelsblatt.com/unternehmen/ki-fuehrungskraefte-wenn-ki-agenten-zu-managern-werden-01/100252551.html",
+   "published": "2026-09-21T08:00:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Roman von Shida Bazyar: Der Geist aus dem Off",
+   "summary": "Shida Bazyar verbindet in „Die Lücken“ deutsche Post-NS-Geschichte mit einer exiliranischen Perspektive auf die deutsche Gesellschaft. mehr...",
+   "link": "https://taz.de/Roman-von-Shida-Bazyar/!6208307/",
+   "published": "2026-09-21T07:59:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
+   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
+   "link": "https://www.handelsblatt.com/karriere/ruestungsindustrie-was-eine-headhunterin-fuer-den-quereinstieg-empfiehlt/100211178.html",
+   "published": "2026-09-21T07:55:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Presseschau: „Merz gerät ins Taumeln“ – Das schreibt die Weltpresse zu den Landtagswahlen",
+   "summary": "Das schwache Abschneiden der Kanzlerpartei hat Auswirkungen auf Europa, fürchten manche Kommentatoren. Andere warnen vor „sozialistischen Experimenten“ in Berlin. Ein Überblick.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-merz-geraet-ins-taumeln-das-schreibt-die-weltpresse/100256108.html",
+   "published": "2026-09-21T07:49:59+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Russen befürchten nach Wahl neue Rekrutierungswelle",
+   "summary": "Nach der Duma-Wahl scheinen sich die russischen Behörden darauf vorzubereiten, neue Soldaten einzuziehen. Zugleich verlassen immer mehr Russen das Land.",
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russen-befuerchten-neue-rekrutierungswelle/100256094.html",
+   "published": "2026-09-21T07:49:03+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Depot vererben – so machen Sie es Ihren Kindern einfach",
+   "summary": "Wer ein Depot vererben möchte, sollte einige Vorkehrungen treffen. Ansonsten kann es für die Erben nicht nur mühsam, sondern auch teuer werden.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-depot-vererben-so-machen-sie-es-ihren-kindern-einfach/100252853.html",
+   "published": "2026-09-21T07:47:30+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Nach den Wahlen: CDU-Ministerpräsidenten berieten am Sonntag noch ohne Merz",
+   "summary": "Am Wahlabend hatte Friedrich Merz das CDU-Präsidium in der Parteizentrale versammelt. Anschließend gab es aber noch eine weitere Runde führender CDU-Politiker – ohne den Kanzler.",
+   "link": "https://www.wiwo.de/politik/deutschland/nach-den-wahlen-cdu-ministerpraesidenten-berieten-am-sonntag-noch-ohne-merz/100256105.html",
+   "published": "2026-09-21T07:46:49+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Berentzen wird amerikanisch",
+   "summary": "Autobauer melden ungewöhnlich schwaches erstes Halbjahr +++ Umsatz gegen internationalen Trend rückläufig +++ Trump will „KI-Zar“ ernennen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-sazerac-bietet-53-millionen-euro-fuer-schnapshersteller-berentzen-faz-200452404.html",
+   "published": "2026-09-21T07:46:02+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Börsen Asien: Asien-Börsen legen zu – Tech-Aktien profitieren",
+   "summary": "Steigende Kurse bei Chipherstellern kurbeln die asiatischen Märkte in China an. Der Aktienmarkt in Japan bleibt wegen eines Feiertags geschlossen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/boersen-asien-asien-boersen-legen-zu-tech-aktien-profitieren/100256045.html",
+   "published": "2026-09-21T07:44:11+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Syrer in Deutschland: Dobrindt will Schutzstatus auf breiter Front aberkennen",
+   "summary": "Der Bundesinnenminister will Syrern noch in diesem Herbst den Schutzstatus aberkennen. Zusätzlich plant er stärkere Anreize für freiwillige Ausreisen. mehr...",
+   "link": "https://taz.de/Syrer-in-Deutschland/!6214934/",
+   "published": "2026-09-21T07:43:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Forderung nach einem Wahlrecht für alle: „Wahlrecht muss unabhängig von Staatsbürgerschaft gelten“",
+   "summary": "Deutschland braucht neue Regeln für Teilhabe, sagt der Politikwissenschaftler Halil Can. Nur so werde es der diversen Migrationsgesellschaft gerecht. mehr...",
+   "link": "https://taz.de/Forderung-nach-einem-Wahlrecht-fuer-alle/!6214219/",
+   "published": "2026-09-21T07:39:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Autobranche: Deutsche Autoexporte sinken – Importe aus China steigen",
+   "summary": "China ist erstmals wichtigstes Lieferland für Neuwagen nach Deutschland. Deutsche Pkw-Exporte sinken bei Verbrennungsmotoren und Elektroautos",
+   "link": "https://www.wiwo.de/unternehmen/auto/autobranche-deutsche-autoexporte-sinken-importe-aus-china-steigen/100256101.html",
+   "published": "2026-09-21T07:37:24+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax legt zu – Vonovia reagiert nach Berlin-Wahl",
+   "summary": "Die Landtagswahlen erhöhen den Druck auf die Bundesregierung, ein fallender Ölpreis sorgt dagegen für Entlastung. Immobilienwerte wie Vonovia stehen besonders im Fokus.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-legt-zu-vonovia-reagiert-nach-berlin-wahl/100256071.html",
+   "published": "2026-09-21T07:35:37+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Arbeitgeber: „Längere Arbeitszeiten dürfen keine Tabuzone sein“",
+   "summary": "Die IG Metall stimmt sich auf die große Tarifrunde ein. Peter S. Krause, Vorsitzender der Metallarbeitgeber im Schlüsselbezirk Baden-Württemberg, fordert Verhandlungen im Zeichen der Kostensenkung für die Autoindustrie.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/ig-metall-tarifrunde-arbeitgeber-fordern-laengere-arbeitszeiten-accg-201243152.html",
+   "published": "2026-09-21T07:33:04+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Geh, opfere dich – wenn du den endgültigen Tod annimmst“: Protokoll des KI-Angriffs, der die Welt verschreckt",
+   "summary": "KI-Schöpfer warnen vor ihren eigenen Entwicklungen, bis hin zur Auslöschung der Menschheit. Die Protokolle des Ausbruchs legen nahe, wer versagt hat – und worauf wir uns einstellen müssen.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-das-protokoll-des-ki-angriffs-der-die-welt-verschreckt-01/100254926.html",
+   "published": "2026-09-21T07:32:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
+   "summary": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl.",
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-im-ausland-wo-liegt-ihr-traumland-fuer-den-ruhestand/100168299.html",
+   "published": "2026-09-21T07:31:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Die Aussicht auf sinkende Strompreise trügt",
+   "summary": "Der Ausbau der Netze wird in den kommenden Jahren zusammengerechnet Investitionen in der Größenordnung von etwa einer halben Billion Euro erforderlich machen.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-aussicht-auf-sinkende-strompreise-truegt-01/100255120.html",
+   "published": "2026-09-21T07:30:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studienabschluesse-bieten-absolventen-trotz-ki-die-besten-chancen/100235558.html",
+   "published": "2026-09-21T07:30:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autoindustrie: Deutschland exportiert weniger Autos",
+   "summary": "Die Krise der Autohersteller schlägt sich auch in der Exportstatistik wieder. Der wichtigste Kunde, die USA, nimmt weniger Autos ab. Chinesische Konzerne drängen nach Deutschland.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/autoindustrie-deutschland-exportiert-weniger-autos/100256100.html",
+   "published": "2026-09-21T07:28:33+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "ÖPNV: Deutschlandticket sorgt für mehr Fahrgäste im Nahverkehr",
+   "summary": "In Bussen und Bahnen waren im ersten Halbjahr mehr Fahrgäste unterwegs. Das hat auch mit dem Deutschlandticket zu tun, dessen Preis viele wegen der Rekordspritpreise gerne noch drücken würden.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/oepnv-deutschlandticket-sorgt-fuer-mehr-fahrgaeste-im-nahverkehr/100256104.html",
+   "published": "2026-09-21T07:27:11+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
+   "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-warum-erbschaftsteuer-nicht-immer-ein-erbe-voraussetzt/100246436.html",
+   "published": "2026-09-21T07:23:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-ihr-vermoegen-im-deutschen-vergleich-abschneidet/100149729.html",
+   "published": "2026-09-21T07:22:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "ICE in Texas: Beamte schießen Mann an",
+   "summary": "Die ICE steht wegen Gewalt gegen Migranten in der Kritik. Nun fallen erneut Schüsse, diesmal in Austin. Der Bürgermeister der Stadt fordert Aufarbeitung. mehr...",
+   "link": "https://taz.de/ICE-in-Texas/!6214930/",
+   "published": "2026-09-21T07:20:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Nutzfahrzeugmesse IAA: Die autonomen Lastwagen kommen",
+   "summary": "Die Assistenzsysteme für die Lkw werden immer weiter perfektioniert. Zum autonomen Fahren bleibt nur noch ein kleiner Schritt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lkw-assistenzsysteme-man-auf-dem-weg-zum-autonomen-fahren-accg-201244679.html",
+   "published": "2026-09-21T07:15:29+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Spirituosen-Markt: Berentzen unterzeichnet Übernahmevereinbarung mit US-Konzern",
+   "summary": "Der Apfelkorn von Berentzen dürfte bald aus demselben Hause kommen wie amerikanischer Whiskey. US-Branchenriese Sazerac will ein Übernahmeangebot abgeben.",
+   "link": "https://www.wiwo.de/unternehmen/handel/spirituosen-markt-berentzen-unterzeichnet-uebernahmevereinbarung-mit-us-konzern/100256090.html",
+   "published": "2026-09-21T07:13:21+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Standortprobleme: Bürokratie mit großem Abstand vorne",
+   "summary": "Wo zwickt es deutsche Unternehmen am meisten? Einer Umfrage des Ifo-Instituts zufolge liegen weder die vielgescholtenen Arbeitskosten noch die hohen Energiepreise vorne.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-standortprobleme-buerokratie-mit-grossem-abstand-vorne/100256097.html",
+   "published": "2026-09-21T07:09:24+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
    "paywall": true
   },
   {
@@ -26,6 +260,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/landtagswahlen-cdu-fehlten-in-mecklenburg-vorpommern-rund-1100-stimmen/100252039.html",
    "published": "2026-09-21T06:51:09+00:00",
    "first_seen": "2026-09-21T07:05:57.632400+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Wahlen +++: CDU fehlten in Mecklenburg-Vorpommern rund 1100 Stimmen",
+   "summary": "AfD-Kandidat Holm sieht keine Regierungsbeteiligung in MV +++ Linke gewinnt Berliner Wahl mit großem Vorsprung +++ Eralp distanziert sich von Clan-Chefs auf Wahlparty +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-cdu-fehlten-in-mecklenburg-vorpommern-rund-1100-stimmen/100252039.html",
+   "published": "2026-09-21T06:51:09+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
    "paywall": true
   },
   {
@@ -188,6 +431,15 @@
    "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-spd-darf-sich-von-scheswigs-aufholjagd-nicht-taeuschen-lassen/100255979.html",
    "published": "2026-09-21T06:01:09+00:00",
    "first_seen": "2026-09-21T07:05:57.632400+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Die SPD darf sich von Schwesigs Aufholjagd nicht täuschen lassen",
+   "summary": "Der Wahlsonntag ist auch für die beiden Co-Vorsitzenden Bärbel Bas und Lars Klingbeil ein Denkzettel. Allerdings darf sie daraus jetzt nicht die falschen Schlüsse ziehen.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-spd-darf-sich-von-schwesigs-aufholjagd-nicht-taeuschen-lassen/100255979.html",
+   "published": "2026-09-21T06:01:09+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
    "paywall": true
   },
   {
@@ -13247,258 +13499,6 @@
    "link": "https://www.handelsblatt.com/karriere/gehaltsentwicklung-so-viel-mehr-gehalt-ist-jetzt-fuer-sie-drin/100254274.html",
    "published": "2026-09-17T07:03:56+00:00",
    "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Für Petrolheads und E-Fahrer: Dodge bringt den Charger nach Europa",
-   "summary": "In den USA verehren sie in seit 60 Jahren als Muscle-Car. Nun soll der Dodge Charger auch europäische Sportfahrer ansprechen. Dabei haben die Amerikaner aber nicht nur die Benzinfraktion im Visier.",
-   "link": "https://www.handelsblatt.com/mobilitaet/motor/fuer-petrolheads-und-e-fahrer-dodge-bringt-den-charger-nach-europa/100255251.html",
-   "published": "2026-09-17T07:00:06+00:00",
-   "first_seen": "2026-09-17T08:04:51.723802+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autotest: Mit dem Dodge Charger lässt Motown die Muskeln spielen",
-   "summary": "Ein bisschen Spaß muss sein, selbst in einem biederen Konzern wie Stellantis. Während die europäischen Töchter brav sind und politisch korrekt, gibt die US-Schwester Dodge sich wild. Nun auch bei uns.",
-   "link": "https://www.handelsblatt.com/mobilitaet/motor/autotest-mit-dem-dodge-charger-laesst-motown-die-muskeln-spielen/100255250.html",
-   "published": "2026-09-17T07:00:06+00:00",
-   "first_seen": "2026-09-17T08:04:51.723802+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Spritpreise: Diesel in Deutschland ist so teuer wie nie zuvor",
-   "summary": "Mit 2,453 Euro pro Liter hat der Preis für Diesel den bisherigen Höchstwert vom April überschritten. Der Benzinpreis hatte schon am Mittwoch einen Höchstpreis erreicht.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/diesel-in-deutschland-teuer-wie-nie-zuvor",
-   "published": "2026-09-17T06:59:28+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
-   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
-   "link": "https://www.handelsblatt.com/technik/ki/openai-chatgpt-entwickler-macht-weitere-ki-probleme-oeffentlich/100255175.html",
-   "published": "2026-09-17T06:53:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilitätskosten: Spritpreisrekorde: Jetzt ist auch Diesel teuer wie nie zuvor",
-   "summary": "Die Krise im Nahen Osten treibt die Kraftstoffpreise in Deutschland von Rekord zu Rekord. Ob und - wenn ja - was dagegen getan werden kann, ist umstritten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/mobilitaetskosten-spritpreisrekorde-jetzt-ist-auch-diesel-teuer-wie-nie-zuvor/100255242.html",
-   "published": "2026-09-17T06:51:15+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "CDU-Wirtschaftsflügel: Jetzt stützt die Mittelstandsbasis den Kanzler",
-   "summary": "PKM-Chef Christian von Stetten verteidigt Friedrich Merz gegen seine Kritiker. Doch nach den Landtagswahlen könnte die Debatte erneut aufflammen.",
-   "link": "https://www.wiwo.de/politik/deutschland/friedrich-merz-der-wirtschaftsfluegel-staerkt-den-kanzler/100255117.html",
-   "published": "2026-09-17T06:43:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Vor der Duma-Wahl: Sanktionen sind kein stumpfes Schwert",
-   "summary": "Trotz aller westlicher Sanktionen liegt Russlands Wirtschaft nicht am Boden. Das ist aber kein Grund, etwas an diesem Kurs zu ändern – im Gegenteil.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/sanktionen-gegen-russland-wirkung-trotz-aller-grenzen-201214491.html",
-   "published": "2026-09-17T06:42:45+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Schlagzeilen",
-   "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
-   "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-   "published": "2026-09-17T06:36:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Aktuelles zum Krieg in der Ukraine",
-   "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-   "published": "2026-09-17T06:36:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Bundesgerichtshof: Wieso die AGB-Rechtsprechung der Korrektur bedarf",
-   "summary": "Die Bundesregierung verspricht eine Reform des AGB-Rechts – aber nur für große Kapitalgesellschaften. Das wäre ein wichtiger erster Schritt, genügt aber nicht.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/agb-rechtsprechung-des-bundesgerichtshofs-reform-dringend-noetig-accg-201219336.html",
-   "published": "2026-09-17T06:34:57+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie: Milliarden versinken im „schwarzen Loch“: Italiens größtes Stahlwerk muss Hochöfen schließen",
-   "summary": "Das einst größte Stahlwerk Europas muss nach einem Gerichtsurteil die Hochöfen schließen. Ein Konzept für die Zukunft fehlt – und Tausende Jobs sind in Süditalien bedroht.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-italiens-groesstes-stahlwerk-muss-hochoefen-schliessen/100254365.html",
-   "published": "2026-09-17T06:32:52+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "VDMA: Maschinenbau-Verband korrigiert Prognose deutlich nach unten",
-   "summary": "Der Verband rechnet für 2026 mit einem realen Rückgang der Produktion um zwei Prozent. Es wäre der vierte Rückgang in Folge.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/vdma-produktion-prognose-li.3548697",
-   "published": "2026-09-17T06:32:32+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Prien: Social-Media-Pläne der EU genau auf deutscher Linie",
-   "summary": "Bundesbildungsministerin Karin Prien begrüßt den EU-Vorstoß zur Social-Media-Beschränkung von Kindern und Jugendlichen. Schon im Oktober will sie eigene Eckpunkte vorlegen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/prien-social-media-altersgrenzen-eu-100.html",
-   "published": "2026-09-17T06:32:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "VDMA-Prognose: Maschinenbau schrumpft 2026 viertes Jahr in Folge",
-   "summary": "Bei den Maschinenbauern ist die Hoffnung für das Jahr geschwunden. Erst 2027 dürfte die Produktion wieder zulegen. Doch das ist kein Selbstläufer.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/vdma-prognose-maschinenbau-schrumpft-2026-viertes-jahr-in-folge/100255233.html",
-   "published": "2026-09-17T06:17:21+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Ölmarkt hofft auf Reparatur von attackierter Pipeline",
-   "summary": "Araber wollen Schaden an strategischer Ölleitung reparieren +++ Große Geldwäsche-Razzia in mehreren Bundesländern +++ RWE stockt bei Netzbetreiber Amprion auf 58 Prozent auf +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-araber-wollen-nach-angriff-ost-west-pipeline-reparieren-faz-200452404.html",
-   "published": "2026-09-17T06:15:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "+++ Nachrichten im Ukraine-Krieg +++: US-Kongress beschließt Gesetz für Russland-Sanktionen",
-   "summary": "Gibt es bald neue US-Sanktionen gegen Russland? Ein Gesetz dazu hat nun das US-Parlament passiert. Der Schritt könnte auch die Beziehungen zu China belasten. mehr...",
-   "link": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6213892/",
-   "published": "2026-09-17T06:12:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Silicon Valley: Die neuen „Specs“: Snaps Angriff auf Meta kostet 2195 Dollar",
-   "summary": "Evan Spiegel hat seine neue Computerbrille vorgestellt. Elf Jahre lang hat er sie gegen alle Widerstände verteidigt. Die Wette dahinter ist weniger verrückt, als es aussieht.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-snaps-angriff-auf-meta-kostet-2195-dollar/100254495.html",
-   "published": "2026-09-17T06:11:15+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "VDMA: Maschinenbauer erwarten viertes Minusjahr in Folge",
-   "summary": "Die Lage im Maschinenbau bleibt angespannt. Die Auftragslage habe sich zwar gebessert, doch die konjunkturelle Entwicklung belaste, betont der VDMA. 2027 soll die Trendwende gelingen.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/vdma-maschinenbauer-erwarten-viertes-minusjahr-in-folge/100255230.html",
-   "published": "2026-09-17T06:06:20+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Landtagswahl: Was Sie zur Landtagswahl in Mecklenburg-Vorpommern wissen sollten",
-   "summary": "Am 20. September 2026 wird in Mecklenburg-Vorpommern der Landtag gewählt. Der Wahl-O-Mat zeigt Ihnen, welche Partei am ehesten Ihre Interessen vertritt. Welche Wahl-Tools gibt es noch?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-welche-partei-soll-ich-in-mecklenburg-vorpommern-waehlen/100247936.html",
-   "published": "2026-09-17T06:06:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: „Too big to fail“? Nvidia wird zum stillen Risiko für das globale Finanzsystem",
-   "summary": "Wie die Spinne im Netz ist Nvidia mit der Tech- und der Finanzbranche verwoben. Damit wächst das Risiko: Was, wenn nicht nur Banken systemrelevant sind, sondern auch ein Chiphersteller?",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/maerkte-warum-nvidia-zum-stillen-risiko-fuer-das-globale-finanzsystem-wird/100252704.html",
-   "published": "2026-09-17T06:03:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vier Jahre ohne Wachstum: Deutsche Maschinenbauer erwarten erst 2027 Produktionsplus",
-   "summary": "Bei Deutschlands Maschinenbauern ist die letzte Hoffnung für das laufende Jahr geschwunden. Erst im nächsten Jahr dürfte die Produktion wieder zulegen. Doch auch das ist kein Selbstläufer.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/vier-jahre-ohne-wachstum-deutsche-maschinenbauer-erwarten-erst-2027-produktionsplus/100255232.html",
-   "published": "2026-09-17T06:00:06+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Autonomes Fahren: US-Behörde nimmt sich Teslas Robotaxi vor",
-   "summary": "Nach US-Regeln brauchen autonome Robotaxis eine Ausnahmeerlaubnis, wenn sie ohne Lenkrad und Pedale unterwegs sind. Elon Musks Tesla ignorierte das.",
-   "link": "https://www.wiwo.de/unternehmen/auto/autonomes-fahren-us-behoerde-nimmt-sich-teslas-robotaxi-vor/100255210.html",
-   "published": "2026-09-17T05:59:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsstreit: Trump droht EU – „Sehr hohe Zölle“ bei Kooperation mit Kanada",
-   "summary": "Die EU verhandelt mit Kanada über mehr Zusammenarbeit. Das erzürnt US-Präsident Donald Trump. Vor Journalisten nennt er das Vorgaben „lächerlich“ und droht mit harten Gegenmaßnahmen.",
-   "link": "https://www.handelsblatt.com/politik/international/handelsstreit-trump-droht-eu-sehr-hohe-zoelle-bei-kooperation-mit-kanada/100255229.html",
-   "published": "2026-09-17T05:56:26+00:00",
-   "first_seen": "2026-09-17T06:05:19.407839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Zölle: Trump droht EU im Falle engerer Beziehungen zu Kanada mit Zöllen",
-   "summary": "Die EU verhandelt mit Kanada über mehr Zusammenarbeit. Das erzürnt US-Präsident Donald Trump. Vor Journalisten nennt er das Vorgaben „lächerlich“ und droht mit harten Gegenmaßnahmen.",
-   "link": "https://www.handelsblatt.com/politik/international/us-zoelle-trump-droht-eu-im-falle-engerer-beziehungen-zu-kanada-mit-zoellen/100255229.html",
-   "published": "2026-09-17T05:56:26+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "EU: Kanadas langer Weg nach Europa",
-   "summary": "Kanada könnte assoziiertes EU-Mitglied werden. Wie Ursula von der Leyen und Mark Carney die Annäherung planen, welche Hürden bestehen und was das für die Wirtschaft bedeutet.",
-   "link": "https://www.wiwo.de/politik/europa/assoziierte-eu-mitgliedschaft-fuer-kanada-was-der-plan-bedeutet/100254639.html",
-   "published": "2026-09-17T05:56:00+00:00",
-   "first_seen": "2026-09-17T06:05:19.407839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Bundespolitik +++: Frei tritt Zweifeln an Positionierung für Merz entgegen",
-   "summary": "Bundesregierung verschärft Strafrecht für Messerattacken und IS-Propaganda +++ Merz sagt Reise zur UN-Generaldebatte ab +++ AfD kann mehr als 250 Sitze in Niedersachsen nicht besetzen +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-frei-tritt-zweifeln-an-positionierung-fuer-merz-entgegen/100137034.html",
-   "published": "2026-09-17T05:46:00+00:00",
-   "first_seen": "2026-09-17T06:05:19.407839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "15 Jahre Occupy Wall Street: Als die Wall Street abgeriegelt wurde",
-   "summary": "In den USA verhalf die Occupy-Bewegung einer Linken zu großer Wirkungsmacht. Doch für einen basisdemokratisch öffentlichen Raum war in New York auf Dauer kein Platz. mehr...",
-   "link": "https://taz.de/15-Jahre-Occupy-Wall-Street/!6213571/",
-   "published": "2026-09-17T05:41:00+00:00",
-   "first_seen": "2026-09-17T06:05:19.407839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Krieg im Nahen Osten: Der Iran-Krieg treibt den Ölpreis – doch der Markt kennt dieses Muster",
-   "summary": "Die Eskalation im Iran-Krieg treibt den Ölpreis erneut an – das dürfte zunächst so bleiben. Die Erfahrung aus früheren Bewegungen am Ölmarkt macht dennoch Mut.",
-   "link": "https://www.wiwo.de/finanzen/boerse/oelpreis-prognose-wann-rohoel-und-spritpreise-wieder-sinken/100254950.html",
-   "published": "2026-09-17T05:40:00+00:00",
-   "first_seen": "2026-09-17T06:05:19.407839+00:00",
    "paywall": true
   }
  ]

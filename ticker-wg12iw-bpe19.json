@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-21T07:05:57.632400+00:00",
+ "updated": "2026-09-21T08:04:26.350186+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
+   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
+   "link": "https://www.handelsblatt.com/karriere/ruestungsindustrie-was-eine-headhunterin-fuer-den-quereinstieg-empfiehlt/100211178.html",
+   "published": "2026-09-21T07:55:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studienabschluesse-bieten-absolventen-trotz-ki-die-besten-chancen/100235558.html",
+   "published": "2026-09-21T07:30:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-ihr-vermoegen-im-deutschen-vergleich-abschneidet/100149729.html",
+   "published": "2026-09-21T07:22:00+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Standortprobleme: Bürokratie mit großem Abstand vorne",
+   "summary": "Wo zwickt es deutsche Unternehmen am meisten? Einer Umfrage des Ifo-Instituts zufolge liegen weder die vielgescholtenen Arbeitskosten noch die hohen Energiepreise vorne.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-standortprobleme-buerokratie-mit-grossem-abstand-vorne/100256097.html",
+   "published": "2026-09-21T07:09:24+00:00",
+   "first_seen": "2026-09-21T08:04:26.350186+00:00",
    "paywall": true
   },
   {
@@ -676,24 +712,6 @@
    "published": "2026-09-17T07:24:00+00:00",
    "first_seen": "2026-09-17T08:04:51.723802+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "VDMA: Maschinenbauer erwarten viertes Minusjahr in Folge",
-   "summary": "Die Lage im Maschinenbau bleibt angespannt. Die Auftragslage habe sich zwar gebessert, doch die konjunkturelle Entwicklung belaste, betont der VDMA. 2027 soll die Trendwende gelingen.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/vdma-maschinenbauer-erwarten-viertes-minusjahr-in-folge/100255230.html",
-   "published": "2026-09-17T06:06:20+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vier Jahre ohne Wachstum: Deutsche Maschinenbauer erwarten erst 2027 Produktionsplus",
-   "summary": "Bei Deutschlands Maschinenbauern ist die letzte Hoffnung für das laufende Jahr geschwunden. Erst im nächsten Jahr dürfte die Produktion wieder zulegen. Doch auch das ist kein Selbstläufer.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/vier-jahre-ohne-wachstum-deutsche-maschinenbauer-erwarten-erst-2027-produktionsplus/100255232.html",
-   "published": "2026-09-17T06:00:06+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
-   "paywall": true
   }
  ]
 }
