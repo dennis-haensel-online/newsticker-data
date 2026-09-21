@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T21:03:54.170728+00:00",
+ "updated": "2026-09-21T22:04:17.139967+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Was die Linke für mögliche Koalitionspartner unattraktiv macht",
+   "summary": "In Berlin könnte die Linke bald regieren - wären da nicht Antisemitismus-Vorwürfe und ein Clan-Chef, der zur Party auftauchte. Kommt es trotzdem zu Sondierungen mit SPD und Grünen?",
+   "link": "https://www.zdfheute.de/politik/deutschland/linke-sondierung-probleme-berlin-wahl-100.html",
+   "published": "2026-09-21T21:12:00+00:00",
+   "first_seen": "2026-09-21T22:04:17.139967+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Der nächste Karriereschritt für Philipp Amthor",
+   "summary": "Philipp Amthor sitzt mit 33 schon fast ein Jahrzehnt im Bundestag - und führt jetzt kommissarisch die CDU im Nordosten. Er gilt als konservativ, sein Auftreten ist pointiert.",
+   "link": "https://www.zdfheute.de/politik/deutschland/philipp-amthor-cdu-mecklenburg-vorpommern-landesvorsitz-100.html",
+   "published": "2026-09-21T21:04:00+00:00",
+   "first_seen": "2026-09-21T22:04:17.139967+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -1187,6 +1205,15 @@
    "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-im-ausland-wo-liegt-ihr-traumland-fuer-den-ruhestand-01/100168299.html",
    "published": "2026-09-21T13:56:00+00:00",
    "first_seen": "2026-09-21T15:03:40.131846+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Märkte: Aktien mit Grönland-Bezug schießen in die Höhe",
+   "summary": "Fallende Ölpreise dämpfen die Zinssorgen an den Finanzmärkten. Im Zentrum der Woche steht das Treffen zwischen US-Präsident Donald Trump und Chinas Staatschef Xi Jinping.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-deutlich-im-plus-nasdaq-gewinnt-ueber-20-prozent/100256217.html",
+   "published": "2026-09-21T13:55:00+00:00",
+   "first_seen": "2026-09-21T22:04:17.139967+00:00",
    "paywall": true
   },
   {
@@ -13473,33 +13500,6 @@
    "published": "2026-09-17T23:22:00+00:00",
    "first_seen": "2026-09-18T00:04:51.293171+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Umfrage: Fast jeder Zweite erwartet Kanzlerwechsel vor Jahresende",
-   "summary": "Die CDU-Ministerpräsidenten haben Merz in der Kanzler-Krise zunächst den Rücken gestärkt. Trotzdem ist nicht sicher, wie es mit ihm nach den Wahlen weitergeht - und vor allem wie lange.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/umfrage-fast-jeder-zweite-erwartet-kanzlerwechsel-vor-jahresende/100255480.html",
-   "published": "2026-09-17T22:30:04+00:00",
-   "first_seen": "2026-09-17T23:03:12.556660+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Als Kanzler Kohl \"Calli\" stoppte",
-   "summary": "Wie begann der Ausverkauf des DDR-Fußballs? Warum ist Ex-Nationalcoach Eduard Geyer noch immer erbost über die Tricks von Reiner Calmund & Co? Das zeigt die Doku-Serie \"Go West!\".",
-   "link": "https://www.zdfheute.de/sport/go-west-doku-reiner-calmund-bayer-leverkusen-wende-ddr-1989-ulf-kirsten-matthias-sammer-andreas-thom-fussball-100.html",
-   "published": "2026-09-17T22:01:00+00:00",
-   "first_seen": "2026-09-17T23:03:12.556660+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Rekonstruktion eines KI-Angriffs – Wie gefährlich die großen Modelle wirklich sind",
-   "summary": "Immer neue Fälle von KI-Programmen, die außer Kontrolle geraten. Immer mehr Warnungen vor den Gefahren der Künstlichen Intelligenz. Wie Politik, Entwickler und Konzerne damit umgehen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-wie-gefaehrlich-die-grossen-ki-modelle-wirklich-sind/100254926.html",
-   "published": "2026-09-17T22:01:00+00:00",
-   "first_seen": "2026-09-17T23:03:12.556660+00:00",
-   "paywall": true
   }
  ]
 }
