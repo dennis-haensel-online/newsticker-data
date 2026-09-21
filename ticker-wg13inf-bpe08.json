@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-21T03:03:59.946180+00:00",
+ "updated": "2026-09-21T04:04:02.783439+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: Die USA und China wollen sich künftig öfter über KI austauschen",
+   "summary": "US-Finanzminister Bessent verkündet Tage vor dem Treffen von US-Präsident Trump und Chinas Machthaber Xi die Einrichtung eines „Meldemechanismus“ bei gefährlichen Vorfällen.",
+   "link": "https://www.handelsblatt.com/politik/international/technologie-die-usa-und-china-wollen-sich-kuenftig-oefter-ueber-ki-austauschen/100256039.html",
+   "published": "2026-09-21T03:43:43+00:00",
+   "first_seen": "2026-09-21T04:04:02.783439+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sicherheitsrisiken im Fokus: Vor Trump-Xi-Gipfel: China und USA sprechen über KI",
+   "summary": "Handel und Künstliche Intelligenz: Hochrangige Unterhändler der USA und Chinas ringen vor einem wichtigen Treffen der Präsidenten beider Länder um gewichtige Streitthemen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/sicherheitsrisiken-im-fokus-vor-trump-xi-gipfel-china-und-usa-sprechen-ueber-ki/100256050.html",
+   "published": "2026-09-21T03:11:47+00:00",
+   "first_seen": "2026-09-21T04:04:02.783439+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Führungskräfte: Wenn KI-Agenten zu Managern werden",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-langdock-verlegt-hauptsitz-von-den-usa-nach-deutschland-01/100254184.html",
    "published": "2026-09-17T07:55:00+00:00",
    "first_seen": "2026-09-17T08:04:51.723802+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "OpenAI veröffentlicht weitere KI-Zwischenfälle",
-   "summary": "Künstliche Intelligenz entwickelt sich rasant - mit teils ungewollten Folgen. Zuletzt löste etwa ein Hacker-Angriff durch KI-Software von OpenAI weltweit Sorgen aus. Jetzt informierte der Entwickler über sechs neue Zwischenfälle.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/openai-kuenstliche-intelligenz-100.html",
-   "published": "2026-09-17T07:05:33+00:00",
-   "first_seen": "2026-09-17T08:04:51.723802+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI macht weitere KI-Probleme öffentlich",
-   "summary": "Die Hacking-Attacke durch KI-Software von OpenAI verstärkte zuletzt die Ängste vor der Technologie. Jetzt gibt der ChatGPT-Entwickler neue Probleme bekannt.",
-   "link": "https://www.handelsblatt.com/technik/ki/openai-chatgpt-entwickler-macht-weitere-ki-probleme-oeffentlich/100255175.html",
-   "published": "2026-09-17T06:53:00+00:00",
-   "first_seen": "2026-09-17T07:05:56.060960+00:00",
    "paywall": true
   }
  ]
