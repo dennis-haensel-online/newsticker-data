@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-22T15:04:14.754427+00:00",
+ "updated": "2026-09-22T16:04:19.448499+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Linkspartei und AfD: Wie entscheidend sind Tiktok und Co. für Wahlerfolge?",
+   "summary": "Die AfD und SPD in Mecklenburg-Vorpommern sowie die Linkspartei in Berlin waren im Wahlkampf besonders präsent in den sozialen Medien. Wird der Einfluss von Social Media auf den Wahlerfolg überschätzt?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wie-entscheidend-sind-tiktok-und-co-fuer-wahlerfolge-201251867.html",
+   "published": "2026-09-22T15:27:13+00:00",
+   "first_seen": "2026-09-22T16:04:19.448499+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Konzern aus China: Alibaba-Chef: KI befreit die Menschheit",
+   "summary": "Die KI-Größen in den USA warnen vor ihr, Eddie Wu malt die KI-Zukunft in China dagegen nun in den schönsten Farben. Risiken erwähnt der Chef von Alibaba mit keinem Wort.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/alibaba-chef-eddie-wu-ki-befreit-die-menschheit-201251511.html",
+   "published": "2026-09-22T15:08:33+00:00",
+   "first_seen": "2026-09-22T16:04:19.448499+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Bahnindustrie: Ein goldenes Zeitalter?",
+   "summary": "In Sachen KI hat die Bahnbranche noch erheblichen Nachholbedarf, monieren Kritiker.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bahnindustrie-ein-goldenes-zeitalter-201252623.html",
+   "published": "2026-09-22T15:07:29+00:00",
+   "first_seen": "2026-09-22T16:04:19.448499+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Signaltechnik: Milliardenauftrag aus Österreich für Siemens-Bahnsparte",
+   "summary": "Digitalisierung soll das österreichische Bahnnetz verbessern. Bis es losgeht, dauert es aber noch.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/signaltechnik-milliardenauftrag-aus-oesterreich-fuer-siemens-bahnsparte/100256648.html",
+   "published": "2026-09-22T15:00:00+00:00",
+   "first_seen": "2026-09-22T16:04:19.448499+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Industrie: Wie Trumps Nvidia-Deal Armenien zum KI-Hotspot macht",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/karriere/fuehrung-das-schlimmste-aus-der-perspektive-musks-ist-das-sterben/100252820.html",
    "published": "2026-09-20T04:47:00+00:00",
    "first_seen": "2026-09-20T06:04:52.850467+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Gefahren durch KI: Die wollen gebremst werden? Wirklich?",
-   "summary": "Ausgerechnet die Chefs der großen KI-Unternehmen warnen vor ihrer Technik. Sie wünschen sich neue Gesetze – und könnten dadurch noch mächtiger werden.",
-   "link": "https://www.zeit.de/2026/40/gefahren-ki-risiken-openai-anthropic-dario-amodei-sam-altman",
-   "published": "2026-09-20T04:16:03+00:00",
-   "first_seen": "2026-09-20T05:03:49.908983+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Stand der Digitalisierung: Pflegekräfte wollen keine Gesundheitskarten mehr durch die Gegend fahren",
-   "summary": "Zeitdruck, Überlastung – aber jedes Quartal muss ein Arzt die Karten pflegebedürftiger Patienten einlesen. Dafür Personal zu schicken, kostet Zeit und Geld. Das müsse einfacher gehen, fordern Pflegeanbieter.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/pflegebranche-gesundheitskarten-einlesen-zu-aufwaendig-accg-201243954.html",
-   "published": "2026-09-20T03:19:07+00:00",
-   "first_seen": "2026-09-20T04:04:24.400251+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mensch besser als KI: KI hat gravierende Schwächen beim Erkennen von Formen",
-   "summary": "Warum KI selbst die einfachsten Umrisse oft nicht erkennt – und Katzen plötzlich als „Kreuzworträtsel“ deutet.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/mensch-besser-als-ki-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen/100255873.html",
-   "published": "2026-09-20T01:00:07+00:00",
-   "first_seen": "2026-09-20T02:04:14.362384+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Trump will „KI-Zar“ ernennen",
-   "summary": "US-Präsident: „Wachstum dieser unglaublichen Industrie in keinster Weise behindern“ +++ KI-Fehler hätte laut CNN-Bericht fast zu US-Militäreinsatz gegen chinesisches Schiff geführt +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-will-ki-zar-ernennen-faz-200452404.html",
-   "published": "2026-09-19T18:53:29+00:00",
-   "first_seen": "2026-09-19T19:03:36.370657+00:00",
    "paywall": true
   }
  ]
