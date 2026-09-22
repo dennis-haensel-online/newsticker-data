@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T08:04:13.382356+00:00",
+ "updated": "2026-09-22T09:03:59.472341+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,60 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Außenhandel: EU und Philippinen einigen sich auf Freihandelsabkommen",
+   "summary": "Neue Chancen für Maschinen, Arzneimittel und Schweinefleisch: Die Europäische Union und die Philippinen haben sich auf Handelserleichterungen geeinigt. Das ist jetzt der Stand.",
+   "link": "https://www.handelsblatt.com/politik/international/aussenhandel-eu-und-philippinen-einigen-sich-auf-freihandelsabkommen/100256479.html",
+   "published": "2026-09-22T08:50:41+00:00",
+   "first_seen": "2026-09-22T09:03:59.472341+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Evonik kündigt Abbau von 3.200 Stellen an",
+   "summary": "Der Chemiekonzern Evonik hat den Abbau von 3.200 Stellen angekündigt. Mehr als 2.000 davon sollen in Deutschland wegfallen. Gute Chancen für Wachstum sieht Evonik besonders in Asien und Amerika.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/evonik-chemiekonzern-stellenabbau-100.html",
+   "published": "2026-09-22T08:49:47+00:00",
+   "first_seen": "2026-09-22T09:03:59.472341+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Chemiekonzern: Evonik kündigt Abbau von 3200 Stellen an",
+   "summary": "Der Chemiekonzern setzt auf Wachstum in Asien und Amerika. In Deutschland sollen neue Aufgaben verteilt werden. Es ist nicht die erste Sparrunde.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/chemiekonzern-evonik-kuendigt-abbau-von-3200-stellen-an/100256454.html",
+   "published": "2026-09-22T08:40:00+00:00",
+   "first_seen": "2026-09-22T09:03:59.472341+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Spritpreise: Die fünf versteckten Schwächen des Tankstellen-Preisdeckels",
+   "summary": "Ab Januar will die Bundesregierung Spritpreise staatlich begrenzen. Der Wirtschaftsweise Gabriel Felbermayr nennt fünf Gründe, die gegen den Spritpreisdeckel sprechen.",
+   "link": "https://www.wiwo.de/politik/deutschland/spritpreisdeckel-und-tankrabatt-das-sind-die-fuenf-versteckten-schwaechen/100256222.html",
+   "published": "2026-09-22T08:33:50+00:00",
+   "first_seen": "2026-09-22T09:03:59.472341+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Wirtschaftsweise Monika Schnitzer stützt Reformkurs von Friedrich Merz - warnt vor Tankpreisdeckel",
+   "summary": "Trotz der Wahlergebnisse warnt die Chefin der Wirtschaftsweisen vor einem Kurswechsel bei geplanten Sozialreformen. Monika Schnitzer schlägt außerdem eine Alternative zur Verstaatlichung von Wohnungen in Berlin vor.",
+   "link": "https://www.spiegel.de/wirtschaft/soziales/wirtschaftsweise-monika-schnitzer-stuetzt-reformkurs-von-friedrich-merz-warnt-vor-tankpreisdeckel-a-4abf34b0-7dd8-4016-a847-95763c746fd5#ref=rss",
+   "published": "2026-09-22T08:32:00+00:00",
+   "first_seen": "2026-09-22T09:03:59.472341+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Start ins zweite Halbjahr: Deutliches Plus für deutsche Elektroexporte",
+   "summary": "Die deutsche Elektroindustrie hat ihre Ausfuhren im Juli gesteigert. Das Geschäft mit der EU sorgt für Wachstum. Es läuft aber nicht in allen Märkten.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/start-ins-zweite-halbjahr-deutliches-plus-fuer-deutsche-elektroexporte/100256438.html",
+   "published": "2026-09-22T08:14:00+00:00",
+   "first_seen": "2026-09-22T09:03:59.472341+00:00",
    "paywall": true
   },
   {
@@ -468,33 +522,6 @@
    "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/der-chefoekonom-wachstum-und-gerechtigkeit-bedingen-sich-gegenseitig/100254984.html",
    "published": "2026-09-18T09:05:12+00:00",
    "first_seen": "2026-09-18T10:04:33.370905+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Stärkster Anstieg der Erzeugerpreise seit 2023 – Iran-Krieg und Hitze belasten",
-   "summary": "Die steigenden Kosten für Energie und Klima setzen Erzeuger weiter unter Druck. Gerade die Kraftstoffpreise treiben den Anstieg an. Dies kommt auch bei den Verbrauchern an.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-erzeugerpreise-steigen-so-stark-wie-seit-2023-nicht-mehr/100255582.html",
-   "published": "2026-09-18T08:21:17+00:00",
-   "first_seen": "2026-09-18T09:04:07.236682+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Notenbank unter Druck: EZB-Umfrage: Verbraucher erwarten mit Krieg höhere Inflation",
-   "summary": "Der Iran-Krieg verteuert Öl, Tanken und Heizen und treibt damit die Inflation nach oben. Die Menschen rechnen mit steigenden Preisen, auch über längere Zeit. Für die EZB ist das ein Alarmsignal.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/notenbank-unter-druck-ezb-umfrage-verbraucher-erwarten-mit-krieg-hoehere-inflation/100255600.html",
-   "published": "2026-09-18T08:18:39+00:00",
-   "first_seen": "2026-09-18T09:04:07.236682+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Erzeugerpreise mit stärkstem Anstieg seit 2023",
-   "summary": "Der Iran-Krieg und der Klimawandel fordern ihren Tribut. Die Erzeugerpreise sind so hoch, wie seit drei Jahren nicht mehr.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-erzeugerpreise-mit-staerkstem-anstieg-seit-2023/100255584.html",
-   "published": "2026-09-18T08:00:00+00:00",
-   "first_seen": "2026-09-18T09:04:07.236682+00:00",
    "paywall": true
   }
  ]
