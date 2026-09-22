@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T12:04:46.064409+00:00",
+ "updated": "2026-09-22T13:04:39.989008+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Außenhandel: China fordert EU zu weniger Protektionismus auf",
+   "summary": "Der chinesische Handelsminister sieht Peking als „Partner“ für die Lösung von Wirtschaftsproblemen in der Europäischen Union. Unterdessen möchte Deutschland seine Industrie vor China schützen.",
+   "link": "https://www.handelsblatt.com/politik/international/aussenhandel-china-fordert-eu-zu-weniger-protektionismus-auf/100256599.html",
+   "published": "2026-09-22T12:59:32+00:00",
+   "first_seen": "2026-09-22T13:04:39.989008+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Werben um Fachkräfte: Warum immer mehr Griechen Deutschland verlassen",
+   "summary": "Lange profitierte der deutsche Arbeitsmarkt von Griechen, die während der Eurokrise ins Land kamen. Doch diese Zeit scheint vorbei: Die griechische Regierung wirbt gezielt um ihre Talente, auch in Deutschland. Von J. Riemann.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/fachkraefte-mangel-deutschland-griechenland-100.html",
+   "published": "2026-09-22T12:49:49+00:00",
+   "first_seen": "2026-09-22T13:04:39.989008+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Inflation: Wegen Energiekosten rechnet EZB-Chefvolkswirt mit anhaltender Inflation",
+   "summary": "Öl und Gas verteuern sich erneut: EZB-Chefvolkswirt Philip Lane sieht die Inflation in der Eurozone länger über dem Zielwert.",
+   "link": "https://www.wiwo.de/unternehmen/banken/wegen-energiekosten-ezb-chefvolkswirt-rechnet-mit-anhaltender-inflation/100256549.html",
+   "published": "2026-09-22T12:42:00+00:00",
+   "first_seen": "2026-09-22T13:04:39.989008+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gewerkschaften: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und Jobsicherheit",
+   "summary": "Die IG-Metall-Bezirke stecken ihre Ziele für die Tarifrunde ab. Angesichts von Stellenabbau und drohenden Werksschließungen rückt vor allem die Beschäftigungssicherung in den Fokus.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaften-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-jobsicherheit/100256579.html",
+   "published": "2026-09-22T12:05:31+00:00",
+   "first_seen": "2026-09-22T13:04:39.989008+00:00",
    "paywall": true
   },
   {
@@ -468,51 +504,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-rund-400-punkte-tiefer-tech-aktie-legt-zu/100255551.html",
    "published": "2026-09-18T15:10:28+00:00",
    "first_seen": "2026-09-18T17:03:43.518714+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "EZB: Bundesbank-Chef Nagel so gut wie aus dem Rennen um Lagarde-Nachfolge",
-   "summary": "Die Bundesregierung wird nach Handelsblatt-Informationen den Bundesbank-Präsidenten höchstwahrscheinlich nicht als EZB-Chef nominieren. Dafür macht eine deutsche Personalrochade die Runde.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-joachim-nagel-so-gut-wie-aus-dem-rennen-um-lagarde-nachfolge/100255562.html",
-   "published": "2026-09-18T14:06:41+00:00",
-   "first_seen": "2026-09-18T15:04:13.112243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US-Märkte starten verhalten in den Verfallstag",
-   "summary": "Robuste US-Arbeitsmarktdaten und sinkende Ölpreise haben positive Signale gesendet – Anleger reagieren zum Handelsstart dennoch eher ruhig. Analysten zeigen sich weiter optimistisch.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-starten-verhalten-in-den-verfallstag/100255660.html",
-   "published": "2026-09-18T14:01:44+00:00",
-   "first_seen": "2026-09-18T14:04:05.046810+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax notiert schwächer – Tech-Aktie legt zu",
-   "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht. Der Dax profitiert von sinkenden Ölpreisen, neue Konjunkturdaten dürften Anleger jedoch beunruhigen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-deutlich-im-minus-tech-aktie-legt-zu/100255551.html",
-   "published": "2026-09-18T13:59:48+00:00",
-   "first_seen": "2026-09-18T14:04:05.046810+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Reform: Lange Übergangsfrist für „Rente mit 63“ würde Millionen Fachkräfte kosten",
-   "summary": "Die Koalition streitet über die Frist bis zur Abschaffung der abschlagsfreien Frührente. Experten und Arbeitgeber warnen vor Belastungen für den Arbeitsmarkt bei einer langen Übergangsphase.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/rente-mit-63-lange-uebergangsfrist-wuerde-millionen-fachkraefte-kosten/100247730.html",
-   "published": "2026-09-18T13:28:23+00:00",
-   "first_seen": "2026-09-18T14:04:05.046810+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: Lagarde sieht EZB im Kampf gegen Inflation gut positioniert",
-   "summary": "Steigende Energiepreise treiben die Inflation weiter nach oben. Die EZB-Chefin warnt jedoch davor, sich bei Zinsentscheidungen ausschließlich auf die Energiepreise zu konzentrieren.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-lagarde-sieht-ezb-im-kampf-gegen-inflation-gut-positioniert/100255676.html",
-   "published": "2026-09-18T12:51:50+00:00",
-   "first_seen": "2026-09-18T13:03:54.382077+00:00",
    "paywall": true
   }
  ]
