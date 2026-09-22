@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-22T05:04:14.050566+00:00",
+ "updated": "2026-09-22T06:05:08.716720+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: DAX könnte Erholung fortsetzen",
+   "summary": "Starke Vorgaben aus den USA dürften den DAX heute weiter anschieben. Die Hoffnung auf eine diplomatische Lösung im Nahen Osten sorgt für freundliche Stimmung. An der Wall Street waren KI-Aktien gefragt.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+   "published": "2026-09-22T05:44:57+00:00",
+   "first_seen": "2026-09-22T06:05:08.716720+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Geh, opfere dich – wenn du den endgültigen Tod annimmst“: Protokoll des KI-Angriffs, der die Welt verschreckt",
+   "summary": "KI-Schöpfer warnen vor ihren eigenen Entwicklungen, bis hin zur Auslöschung der Menschheit. Die Protokolle des Ausbruchs legen nahe, wer versagt hat – und worauf wir uns einstellen müssen.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-das-protokoll-des-ki-angriffs-der-die-welt-verschreckt-02/100254926.html",
+   "published": "2026-09-22T05:21:00+00:00",
+   "first_seen": "2026-09-22T06:05:08.716720+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start-up: Khachab gibt Führung bei der Gastro-Bestellplattform Choco ab",
+   "summary": "Nach acht Jahren als Chef übergibt Khachab die Führung des Berliner Start-ups Choco. Er selbst will sich künftig auf Produktentwicklung und KI konzentrieren. Der neue Chef hat eine Mission.",
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-up-khachab-gibt-fuehrung-bei-der-gastro-bestellplattform-choco-ab/100255272.html",
+   "published": "2026-09-22T05:15:45+00:00",
+   "first_seen": "2026-09-22T06:05:08.716720+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Nikkei Futures und CSI 300: Asiens Börsen profitieren von Techwerten und Hoffnungen auf US-China-Gipfel",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/karriere/job-wuerden-sie-ein-bewerbungsgespraech-mit-einem-ki-recruiter-fuehren/100248546.html",
    "published": "2026-09-18T08:17:00+00:00",
    "first_seen": "2026-09-18T09:04:07.236682+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: „Da war uns klar, dass etwas Interessantes im Gange ist“",
-   "summary": "Seine Erfindung hat ChatGPT und Claude erst ermöglicht. Fürchtet Jakob Uszkoreit, dass wir die Kontrolle über die KI verlieren?",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-erfinder-jakob-uszkoreit-ueber-die-zukunft-von-ki/100255124.html",
-   "published": "2026-09-18T08:16:59+00:00",
-   "first_seen": "2026-09-18T09:04:07.236682+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cybersicherheit: Hacker dringen offenbar mit Anthropic-KI in OpenAI ein",
-   "summary": "Sicherheitsforscher haben einem Medienbericht zufolge das KI-Modell Claude genutzt, um sich in OpenAI zu hacken. Der Vorfall zeigt einmal mehr die Risiken von KI in der Cybersicherheit.",
-   "link": "https://www.handelsblatt.com/technik/ki/cybersicherheit-hacker-dringen-offenbar-mit-anthropic-ki-in-openai-ein/100255565.html",
-   "published": "2026-09-18T08:01:58+00:00",
-   "first_seen": "2026-09-18T08:04:13.474811+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung: „Die Leute müssen das Gefühl haben, blöd sein zu dürfen“",
-   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
-   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-die-leute-muessen-das-gefuehl-haben-bloed-sein-zu-duerfen/100252820.html",
-   "published": "2026-09-18T07:59:00+00:00",
-   "first_seen": "2026-09-18T08:04:13.474811+00:00",
    "paywall": true
   }
  ]

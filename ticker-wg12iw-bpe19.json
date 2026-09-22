@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T05:04:14.050566+00:00",
+ "updated": "2026-09-22T06:05:08.716720+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sparen: Vier Prozent und mehr – wann beenden die Tagesgeld-Zinsen ihren Höhenflug?",
+   "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-wie-sparer-sich-bei-vier-prozent-und-mehr-beim-tagesgeld-aufstellen/100255706.html",
+   "published": "2026-09-22T05:48:00+00:00",
+   "first_seen": "2026-09-22T06:05:08.716720+00:00",
    "paywall": true
   },
   {
@@ -495,60 +504,6 @@
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-gehoeren-sie-mit-ihrem-vermoegen-zu-den-reichsten-deutschen/100149729.html",
    "published": "2026-09-18T05:23:00+00:00",
    "first_seen": "2026-09-18T06:04:58.635024+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Zinsentscheid: Japans Notenbank folgt der Fed und erhöht den Leitzins",
-   "summary": "Um der Inflation entgegenzuwirken, hebt Japan den Leitzins auf 1,25 Prozent. Das ist der höchste Wert seit 31 Jahren.",
-   "link": "https://www.wiwo.de/politik/konjunktur/zinsentscheid-japans-notenbank-folgt-der-fed-und-erhoeht-den-leitzins/100255540.html",
-   "published": "2026-09-18T04:57:35+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Weniger Arbeitslosengeld für Ältere könnte mehr als zwei Milliarden Euro sparen",
-   "summary": "Ältere erhalten bis zu zwei Jahre lang Arbeitslosengeld – Jüngere nur ein Jahr. Eine Angleichung würde jährlich mindestens 2,4 Milliarden Euro bringen, sagen Arbeitsmarktforscher.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-kuerzeres-arbeitslosengeld-fuer-aeltere-koenntemilliarden-sparen-02/100254612.html",
-   "published": "2026-09-18T04:57:00+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Japan: Japans Zentralbank hebt Leitzins auf höchsten Stand seit 31 Jahren",
-   "summary": "Nachdem die USA ihre Leitzinsen erhöht haben, zieht auch die japanische Zentralbank nach. Experten rechnen mit weiteren Zinserhöhungen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/leitzins-japan-bank-of-japan-toichiro-asada-ayano-sato",
-   "published": "2026-09-18T04:43:48+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Japan: Japans Zentralbank hebt Leitzins auf höchsten Stand seit 31 Jahren",
-   "summary": "Nachdem die USA ihre Leitzinsen erhöht haben, zieht auch die japanische Zentralbank nach. Experten rechnen mit weiteren Zinserhöhungen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/leitzins-japan-bank-of-japan-toichiro-asada-ayano-sato-gxe",
-   "published": "2026-09-18T04:43:48+00:00",
-   "first_seen": "2026-09-18T07:04:40.035652+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Börse am 18. September: Sieben Punkte, die für Anleger heute wichtig sind",
-   "summary": "Konjunkturdaten des Statistischen Bundesamts werden die Stimmung der Anleger vor dem Wochenende bestimmen. Japans historische Leitzinserhöhung könnte die Märkte weiter beruhigen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-   "published": "2026-09-18T04:19:00+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Topix, CSI 300: Asiens Börsen reagieren auf Japans Zinserhöhung mit Gewinnen",
-   "summary": "Chip- und KI-Werte in Tokio verzeichnen Kursgewinne, während die Bank of Japan ihre Geldpolitik weiter strafft. Die Märkte hoffen nun auf eine niedrigere Inflation.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-reagieren-auf-japans-zinserhoehung-mit-gewinnen/100255536.html",
-   "published": "2026-09-18T04:04:16+00:00",
-   "first_seen": "2026-09-18T05:03:45.092798+00:00",
    "paywall": true
   }
  ]
