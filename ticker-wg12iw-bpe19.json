@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T13:04:39.989008+00:00",
+ "updated": "2026-09-22T14:03:48.666872+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Mehr als doppelt so viel Wachstum in diesem Jahr – woher der plötzliche deutsche Aufschwung kommt",
+   "summary": "Die führenden Forschungsinstitute gehen von deutlich mehr Wirtschaftswachstum aus – aus drei Gründen. Sind die wirtschaftlichen Probleme in Deutschland doch nicht so groß?",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-woher-der-ploetzliche-deutsche-aufschwung-kommt/100256427.html",
+   "published": "2026-09-22T13:43:50+00:00",
+   "first_seen": "2026-09-22T14:03:48.666872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Großbritanniens großes KI-Dilemma",
+   "summary": "Die britische Regierung ist in einem Dilemma: Sie will Wachstum und gleichzeitig die Gemeinden einbeziehen. Doch gegen die geplanten Datenzentren regt sich Protest.",
+   "link": "https://www.zdfheute.de/politik/ausland/ki-london-rechenzentrum-protest-einwohner-100.html",
+   "published": "2026-09-22T13:35:00+00:00",
+   "first_seen": "2026-09-22T14:03:48.666872+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -487,24 +505,6 @@
    "published": "2026-09-18T20:00:00+00:00",
    "first_seen": "2026-09-18T21:03:53.324750+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US-Märkte zum Wochenschluss weitgehend stabil",
-   "summary": "Robuste US-Arbeitsmarktdaten und sinkende Ölpreise haben positive Signale gesendet – Anleger reagieren zum Handelsstart dennoch eher ruhig. Analysten zeigen sich weiter optimistisch.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-maerkte-zum-wochenschluss-weitgehend-stabil/100255660.html",
-   "published": "2026-09-18T15:28:00+00:00",
-   "first_seen": "2026-09-18T16:04:00.687217+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax schließt rund 400 Punkte tiefer – Tech-Aktie legt zu",
-   "summary": "Die Entwicklung der Ölpreise kann am deutschen Aktienmarkt nicht mehr für Optimismus sorgen. Auch neue Konjunkturdaten und eine gekappte Prognose drücken auf die Stimmung.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-rund-400-punkte-tiefer-tech-aktie-legt-zu/100255551.html",
-   "published": "2026-09-18T15:10:28+00:00",
-   "first_seen": "2026-09-18T17:03:43.518714+00:00",
-   "paywall": true
   }
  ]
 }
