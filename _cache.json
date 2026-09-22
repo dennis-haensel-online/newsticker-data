@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T03:04:03.420676+00:00",
+ "updated": "2026-09-22T04:03:57.050979+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,132 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Notaufnahmen: \"Nackt im Sturm des Kostendrucks\"",
+   "summary": "Eine neue Umfrage zeigt: Fast jede zweite Notaufnahme in Deutschland ist überlastet - teilweise so stark, dass die Patientensicherheit gefährdet ist. Was sagen betroffene Ärzte?",
+   "link": "https://www.zdfheute.de/politik/deutschland/notaufnahme-patient-gesundheitssystem-ueberlastet-zdf-frontal-100.html",
+   "published": "2026-09-22T04:00:00+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei Futures und CSI 300: Asiens Börsen profitieren von Techwerten und Hoffnungen auf US-China-Gipfel",
+   "summary": "Investoren hoffen auf eine Verlängerung des Handelsabkommens zwischen den USA und China. Zusätzlich sorgt die Begeisterung über den KI-Assistenten „Muse“ von Meta für gute Stimmung bei den Anlegern.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-futures-und-csi-300-asiens-boersen-profitieren-von-techwerten-und-hoffnungen-auf-us-china-gipfel/100256396.html",
+   "published": "2026-09-22T03:57:45+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Digitalisierung: Stochern im digitalen Nebel",
+   "summary": "Die Bundesregierung gibt über sechs Milliarden Euro für Digitalprojekte aus. Doch die Evaluierung der Maßnahmen funktioniert nur unzureichend, kritisiert eine Studie.",
+   "link": "https://www.wiwo.de/politik/konjunktur/digitalprojekte-zew-studie-kritisiert-kontrolle-des-bundes/100255942.html",
+   "published": "2026-09-22T03:51:26+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Warum der Kanzler die private Krankenversicherung angeht",
+   "summary": "Typischer Merz-Fehler oder echte Schubumkehr? Egal. Hinter Friedrich Merz' Zweifel am Gesundheitssystem steckt eine grundsätzliche Frage, die sich gerade stellt.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-warum-der-kanzler-die-private-krankenversicherung-angeht/100256341.html",
+   "published": "2026-09-22T03:51:10+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Letzte gemeinsame Titelmission für Bühl, Kett und Co.?",
+   "summary": "Die Bayern-Frauen sind der einzige verbliebene Bundesliga-Klub in der Ligaphase der Champions League. Für einige Spielerinnen könnte es die letzte Chance auf den Titel sein.",
+   "link": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-ligaphase-fc-bayer-manchester-city-100.html",
+   "published": "2026-09-22T03:45:00+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Manchester City: Die neue Macht von der Insel",
+   "summary": "Manchester City will nach dem Double in England nun zum internationalen Spitzenteam reifen. Last-Minute-Zugang Carlotta Wamser soll dabei eine Schlüsselrolle spielen.",
+   "link": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-bayern-gegner-manchester-city-vorbericht-100.html",
+   "published": "2026-09-22T03:43:00+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: Nach Hausverbot – Sender klagen gegen Trump, auch Fox News protestiert",
+   "summary": "Der Schritt des Präsidenten, CNN, MS NOW und „Politico“ aus dem Weißen Haus zu werfen, stößt auf Gegenwehr. Auch Trump-freundliche Reporter erklären sich solidarisch – und bleiben Auftritten fern.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-nach-hausverbot-sender-klagen-gegen-trump-auch-fox-news-protestiert/100256375.html",
+   "published": "2026-09-22T03:41:43+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "„Most Voted Apps“: Diese Website hat App-Empfehlungen von echten Menschen",
+   "summary": "Empfehlungen statt Charts: Die neue Website Most Voted Apps zeigt, welche Apps von der Community wirklich genutzt und geschätzt werden – für Smartphones und Personal Computer.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/most-voted-apps-diese-website-hat-app-empfehlungen-von-echten-menschen/100256394.html",
+   "published": "2026-09-22T03:21:04+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Diplomatie: Chinas Außenminister Wang – China und Europa sollten keinen Handelskrieg führen",
+   "summary": "Deutschland gehört zu den lautesten Kritikern eines unausgewogenen Handels mit China. Wang hofft, dass Deutschland sich in der EU für Freihandel sowie gegen Protektionismus einsetzt.",
+   "link": "https://www.handelsblatt.com/politik/international/diplomatie-chinas-aussenminister-wang-china-und-europa-sollten-keinen-handelskrieg-fuehren/100256387.html",
+   "published": "2026-09-22T03:11:19+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "UN-Generaldebatte: Iran-Krieg und Grönland-Abkommen: Trumps Agenda in New York",
+   "summary": "In New York kommt die Welt im Schatten zahlreicher ungelöster Konflikte zusammen. Während der Iran-Krieg andauert, will Trump mit der Lösung einer anderen Krise punkten, die er selbst vom Zaun brach.",
+   "link": "https://www.handelsblatt.com/politik/international/un-generaldebatte-iran-krieg-und-groenland-abkommen-trumps-agenda-in-new-york/100256391.html",
+   "published": "2026-09-22T03:06:48+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "EU-Handelskammer fordert Umdenken im Handel mit China",
+   "summary": "Chinas Handelsüberschuss mit Europa wächst, zugleich verschärft sich der Preiswettbewerb. Die EU-Handelskammer fordert, dass der Handel auch für Europa einen Gewinn bringen müsse.",
+   "link": "https://www.zdfheute.de/wirtschaft/eu-handelskammer-china-wettbewerb-handel-umdenken-100.html",
+   "published": "2026-09-22T03:06:00+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Kabinett bringt Tankrabatt auf den Weg",
+   "summary": "Am 1. Oktober soll der neue Tankrabatt kommen - nun hat das Kabinett den Gesetzentwurf im Umlaufverfahren beschlossen. Bundestag und Bundesrat sollen ihn noch in dieser Woche billigen.",
+   "link": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html",
+   "published": "2026-09-22T03:04:01+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Autoindustrie: Studie warnt vor teureren E-Autos durch EU-Zölle und Auflagen",
+   "summary": "Die EU will ihre krisengeplagte Autoindustrie schützen. Nun warnt eine einflussreiche Denkfabrik: Neue Zölle und Lockerungen des Verbrenner-Aus könnten E-Autos verteuern – und die Branche schwächen.",
+   "link": "https://www.spiegel.de/wirtschaft/autoindustrie-studie-warnt-vor-teureren-e-autos-durch-eu-zoelle-und-auflagen-a-645fc0ed-3a21-4553-a18d-5c2538955d0d#ref=rss",
+   "published": "2026-09-22T03:02:00+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Impfquoten: Nur 10 Prozent der Kinder mit Risiken gegen Grippe geimpft",
+   "summary": "Kindern mit einer chronischen Herz-Kreislauf-Erkrankung oder Diabetes wird eine Impfung gegen Grippe empfohlen. Doch die wenigsten Eltern nehmen das Angebot wahr.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/impfquoten-nur-10-prozent-der-kinder-mit-risiken-gegen-grippe-geimpft/100256388.html",
+   "published": "2026-09-22T03:00:04+00:00",
+   "first_seen": "2026-09-22T04:03:57.050979+00:00",
    "paywall": true
   },
   {
@@ -13373,132 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/international/schulverbot-unter-den-taliban-wie-afghanische-maedchen-im-geheimen-weiterlernen/100255518.html",
    "published": "2026-09-18T03:00:14+00:00",
    "first_seen": "2026-09-18T04:04:03.979464+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kunstwerk oder Gemeingut?: Streit um die „Strat“ - Aufruhr in der Gitarrenwelt",
-   "summary": "Kein Gitarrenmodell der Welt wurde so oft kopiert und imitiert wie die Fender Stratocaster. Doch nun will der US-Hersteller Nachbauten einen Riegel vorschieben - zum Ärger von Musikern und Händlern.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/kunstwerk-oder-gemeingut-streit-um-die-strat-aufruhr-in-der-gitarrenwelt/100255517.html",
-   "published": "2026-09-18T03:00:10+00:00",
-   "first_seen": "2026-09-18T04:04:03.979464+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: US-Post stoppt Arbeit an umstrittenem Computersystem für Briefwahl",
-   "summary": "Trump zieht überraschend Toppersonalie zu ICE-Behörde zurück +++ US-Repräsentantenhaus stimmt erneut gegen Iran-Krieg +++ Trump will Kennedy Center schließen +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/us-post-stoppt-arbeit-an-umstrittenem-computersystem-fuer-briefwahl/29669594.html",
-   "published": "2026-09-18T02:50:00+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kollision an der Auffahrt: Autobahnunfall: Ist fast ganz eingefädelt genug eingefädelt?",
-   "summary": "Wer beim Einfädeln auf der Autobahn nur halb auf dem Hauptfahrstreifen steht, riskiert Ärger - aber auch der Hintermann muss aufpassen. Wie ein Gericht beide zur Verantwortung zieht.",
-   "link": "https://www.handelsblatt.com/mobilitaet/motor/kollision-an-der-auffahrt-autobahnunfall-ist-fast-ganz-eingefaedelt-genug-eingefaedelt/100255510.html",
-   "published": "2026-09-18T02:33:04+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Untergangsszenarien: Welche konkreten Gefahren drohen durch KI?",
-   "summary": "Löscht die KI die Menschheit aus oder lenken Doomsday-Szenarien von den echten Gefahren ab? Während manche Vordenker vor Kontrollverlust warnen, halten andere die Untergangsbilder für Science-Fiction.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/untergangsszenarien-welche-konkreten-gefahren-drohen-durch-ki/100255508.html",
-   "published": "2026-09-18T02:30:07+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kohlendioxid-Lagerung: CO2-Lager im Meeresgrund: Dänemark feiert Regelbetrieb",
-   "summary": "Schon seit mehreren Jahren wird in Dänemark die Lagerung von CO2 im Meeresgrund getestet. Jetzt geht das Projekt „Greensand“ laut der Verantwortlichen in den Regelbetrieb. Am Ziel ist es noch nicht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/kohlendioxid-lagerung-co2-lager-im-meeresgrund-daenemark-feiert-regelbetrieb/100255509.html",
-   "published": "2026-09-18T02:30:05+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gebrauchtwagen-Check: Frühe Gelenkprobleme: Der elektrische Opel Mokka",
-   "summary": "Jung ist der elektrische kleine Crossover aus dem Stellantis-Konzern. Schützt das vor Gebrechen? Leider nicht immer und überall.",
-   "link": "https://www.handelsblatt.com/mobilitaet/motor/gebrauchtwagen-check-fruehe-gelenkprobleme-der-elektrische-opel-mokka/100255507.html",
-   "published": "2026-09-18T02:26:04+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Mehr Maschendrahtzaun wagen, anstatt Brandmauern zu errichten",
-   "summary": "Warum ein Löffel Dreck, ein Bier am Gartenzaun und 30 Prozent Unverständnis unsere Demokratie resilienter machen können. Ein Gastbeitrag der Neuropsychologin Laura Wünsch vor den Landtagswahlen.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-mehr-maschendrahtzaun-wagen-anstatt-brandmauern-zu-errichten/100254320.html",
-   "published": "2026-09-18T02:09:44+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Raus aus der Verblödungsfalle – wie wir unser Bildungssystem retten",
-   "summary": "Die Pisa-Studie zeigt: Deutschlands Schüler verlieren den Anschluss. Was sich in Kita, Schule, Ausbildung und Hochschule ändern muss – der Auftakt zur 15-teiligen Handelsblatt-Serie.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-raus-aus-der-verbloedungsfalle-wie-wir-unser-bildungssystem-retten/100254946.html",
-   "published": "2026-09-18T02:07:52+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tata-Gruppe: Börsengang von Indiens größtem Konglomerat rückt näher",
-   "summary": "Indiens Zentralbank will die Muttergesellschaft der Tata-Gruppe an die Börse zwingen. Der Vorstand gibt den Widerstand auf, doch hinter den Kulissen tobt ein Machtkampf um die Führung.",
-   "link": "https://www.handelsblatt.com/finanzen/tata-gruppe-boersengang-von-indiens-groesstem-konglomerat-rueckt-naeher/100254636.html",
-   "published": "2026-09-18T02:05:29+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "HRI-Konjunkturprognose: Wachstum ja, aber Deutschlands Bevölkerung wird trotzdem ärmer",
-   "summary": "Die Signale weisen auf den Aufschwung hin. Und tatsächlich ist Deutschland auf kurze Sicht ein Krisengewinner. Gleichwohl wachsen die strukturellen Probleme gewaltig.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/hri-konjunkturprognose-wachstum-ja-aber-deutschlands-bevoelkerung-wird-trotzdem-aermer/100251425.html",
-   "published": "2026-09-18T02:03:37+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zufallsfund vor 35 Jahren: Irrweg als Glücksfall: Wie Ötzi zur Weltsensation wurde",
-   "summary": "Sein Fund war eine Sensation. Ötzi starb vor 5.300 Jahren - heute kann er in einem speziellen Kühlraum besichtigt werden. Forschenden gibt die Mumie noch immer viele Rätsel auf.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/zufallsfund-vor-35-jahren-irrweg-als-gluecksfall-wie-oetzi-zur-weltsensation-wurde/100255502.html",
-   "published": "2026-09-18T02:00:45+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kolonisierung Australiens: Studie: Zahl der Aborigines war viel höher als gedacht",
-   "summary": "Wie viele Menschen lebten in Australien vor der Kolonisierung? Einer Studie zufolge viel mehr als bislang angenommen. Zugleich wird klar, wie drastisch die indigene Bevölkerung danach schrumpfte.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/kolonisierung-australiens-studie-zahl-der-aborigines-war-viel-hoeher-als-gedacht/100255501.html",
-   "published": "2026-09-18T02:00:07+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Audi: Verzögerung durch Technik",
-   "summary": "Der A4 ist für Audi ein extrem wichtiges Modell – und als E-Auto viel zu spät dran. Nun wird der Produktionsstart auch noch verschoben. Audi-Chef Döllner sagt: Das sei es „absolut wert“.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/audi-verzoegerung-durch-technik-li.3549257",
-   "published": "2026-09-18T02:00:00+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mecklenburg-Vorpommern: Ein Land, ein Ziel – was könnten Ost und West voneinander lernen?",
-   "summary": "Es gibt sie, die deutsch-deutschen Geschichten, die von jenem Mut, Unternehmergeist und Veränderungswillen erzählen, den Deutschland so dringend bräuchte. Eine Spurensuche an der Ostsee.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/mecklenburg-vorpommern-ein-land-ein-ziel-eine-ost-west-verbindung/100255027.html",
-   "published": "2026-09-18T02:00:00+00:00",
-   "first_seen": "2026-09-18T03:04:13.269532+00:00",
    "paywall": true
   }
  ]
