@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T23:04:20.576230+00:00",
+ "updated": "2026-09-22T00:05:39.212902+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Infantino zeigt sich gesprächsbereit",
+   "summary": "Gianni Infantino gibt seine Blockadehaltung auf: Der FIFA-Präsident zeigt sich erstmals offen für Reformen im Fußball-Weltverband.",
+   "link": "https://www.zdfheute.de/sport/fussball-infantino-reformen-fifa-100.html",
+   "published": "2026-09-21T23:10:00+00:00",
+   "first_seen": "2026-09-22T00:05:39.212902+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Grenzregion: Ostfrankreich will verstärkt deutsche Investoren werben",
+   "summary": "Mit einer neuen Anlaufstelle in München will Ostfrankreich gezielt deutsche Unternehmen ansprechen. Besonders in Schlüsseltechnologien wollen die Franzosen deutsche Investoren gewinnen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/grenzregion-ostfrankreich-will-verstaerkt-deutsche-investoren-werben/100256356.html",
+   "published": "2026-09-21T23:00:04+00:00",
+   "first_seen": "2026-09-22T00:05:39.212902+00:00",
    "paywall": true
   },
   {
@@ -314,6 +332,15 @@
    "link": "https://www.handelsblatt.com/politik/international/russische-milliardaere-eu-will-sanktionen-gegen-russische-milliardaere-aufheben/100256323.html",
    "published": "2026-09-21T17:48:11+00:00",
    "first_seen": "2026-09-21T19:03:25.652465+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: USA wollen laut Insidern zwei neue Militärstützpunkte in Grönland eröffnen",
+   "summary": "Löschhubschrauber stürzt im Yosemite Park ab – zwei Tote +++ USA liefern erstmals seit 1977 Waffen nach Guatemala +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-usa-wollen-laut-insidern-zwei-neue-militaerstuetzpunkte-in-groenland-eroeffnen/29669594.html",
+   "published": "2026-09-21T17:45:44+00:00",
+   "first_seen": "2026-09-22T00:05:39.212902+00:00",
    "paywall": true
   },
   {
@@ -13472,33 +13499,6 @@
    "link": "https://www.zdfheute.de/politik/deutschland/merz-berlin-wahl-auftritt-cdu-linke-antisemitismus-100.html",
    "published": "2026-09-18T01:17:00+00:00",
    "first_seen": "2026-09-18T02:04:02.655183+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Asien: Japans Kerninflation bleibt stabil – Notenbank vor Zinserhöhung",
-   "summary": "Mittlerweile liegt die Kerninflation nun seit acht Monaten in Folge unter dem Zielwert. Eine Zinserhöhung wird immer wahrscheinlicher.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/asien-japans-kerninflation-bleibt-stabil-notenbank-vor-zinserhoehung/100255488.html",
-   "published": "2026-09-18T01:04:15+00:00",
-   "first_seen": "2026-09-18T02:04:02.655183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Eingeschleppte Mücken: Dritter Malaria-Toter in Frankfurt - was ist bekannt?",
-   "summary": "In Frankfurt ist erneut ein Mensch an der von Mücken übertragenen Tropenkrankheit gestorben. Drohen weitere Fälle?",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/eingeschleppte-muecken-dritter-malaria-toter-in-frankfurt-was-ist-bekannt/100255489.html",
-   "published": "2026-09-18T01:00:07+00:00",
-   "first_seen": "2026-09-18T02:04:02.655183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hoppermann: Müssen jetzt geschlossen nach vorne gehen",
-   "summary": "CDU-Generalsekretärin Franziska Hoppermann hält bei \"maybrit illner\" an Kanzler Friedrich Merz fest. Tübingens OB Boris Palmer fordert, den \"Herbst der Reformen\" nachzuholen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/illner-hoppermann-palmer-reformen-cdu-spd-100.html",
-   "published": "2026-09-18T00:51:00+00:00",
-   "first_seen": "2026-09-18T01:04:06.124346+00:00",
    "paywall": false
   }
  ]
