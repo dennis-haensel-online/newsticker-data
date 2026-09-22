@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T06:05:08.716720+00:00",
+ "updated": "2026-09-22T07:05:02.937152+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-so-hoch-ist-ihr-vermoegen-im-deutschland-vergleich/100149729.html",
+   "published": "2026-09-22T06:51:00+00:00",
+   "first_seen": "2026-09-22T07:05:02.937152+00:00",
    "paywall": true
   },
   {
@@ -468,42 +477,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-leicht-schwaecher-tech-aktie-legt-zu/100255551.html",
    "published": "2026-09-18T07:40:55+00:00",
    "first_seen": "2026-09-18T08:04:13.474811+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Industrie erhöht Wachstumsprognose",
-   "summary": "Die deutsche Wirtschaft scheint sich wieder zu erholen. Auch der BDI hebt seine Erwartungen an. Warum das trotzdem kein Grund zur Entwarnung ist.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-industrie-erhoeht-wachstumsprognose/100255544.html",
-   "published": "2026-09-18T05:42:29+00:00",
-   "first_seen": "2026-09-18T06:04:58.635024+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-echte-karrierechancen-bieten/100235558.html",
-   "published": "2026-09-18T05:36:00+00:00",
-   "first_seen": "2026-09-18T06:04:58.635024+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Russland-Geschäft von Nestlé unter russische Verwaltung gestellt",
-   "summary": "Japans Leitzins auf 31-Jahres-Hoch angehoben +++ Playmobil-Chef verlässt Unternehmen +++ RTL Deutschland und Sky streichen rund 500 Stellen +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-putin-verstaatlicht-russlandgeschaeft-von-nestle-faz-200452404.html",
-   "published": "2026-09-18T05:27:00+00:00",
-   "first_seen": "2026-09-18T06:04:58.635024+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-gehoeren-sie-mit-ihrem-vermoegen-zu-den-reichsten-deutschen/100149729.html",
-   "published": "2026-09-18T05:23:00+00:00",
-   "first_seen": "2026-09-18T06:04:58.635024+00:00",
    "paywall": true
   }
  ]

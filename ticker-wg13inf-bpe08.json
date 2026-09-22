@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-22T06:05:08.716720+00:00",
+ "updated": "2026-09-22T07:05:02.937152+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Merz unterzeichnet Aufruf dafür, dass KI unter menschlicher Kontrolle bleibt",
+   "summary": "Irische Behörde verhängt Strafe von 400 Millionen Euro gegen Google +++ Entscheidung zu Neubaustrecke Hannover-Hamburg verschoben +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-merz-unterzeichnet-aufruf-dafuer-dass-ki-unter-menschlicher-kontrolle-bleibt-faz-200452404.html",
+   "published": "2026-09-22T06:41:10+00:00",
+   "first_seen": "2026-09-22T07:05:02.937152+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-grosse-sprachmodelle-sind-darauf-ausgelegt-unsere-schwaechen-auszunutzen/100223312.html",
+   "published": "2026-09-22T06:01:00+00:00",
+   "first_seen": "2026-09-22T07:05:02.937152+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Marktbericht: DAX könnte Erholung fortsetzen",
@@ -36,6 +54,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-futures-und-csi-300-asiens-boersen-profitieren-von-techwerten-und-hoffnungen-auf-us-china-gipfel/100256396.html",
    "published": "2026-09-22T03:57:45+00:00",
    "first_seen": "2026-09-22T04:03:57.050979+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, CSI 300: Asiens Börsen profitieren von Techwerten und Hoffnungen auf US-China-Gipfel",
+   "summary": "Investoren hoffen auf eine Verlängerung des Handelsabkommens zwischen den USA und China. Zusätzlich sorgt die Begeisterung über den KI-Assistenten „Muse“ von Meta für gute Stimmung.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-csi-300-asiens-boersen-profitieren-von-techwerten-und-hoffnungen-auf-us-china-gipfel/100256396.html",
+   "published": "2026-09-22T03:57:45+00:00",
+   "first_seen": "2026-09-22T07:05:02.937152+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/thomas-rabe-bertelsmann-und-die-zukunft-mit-ki-accg-201234325.html",
    "published": "2026-09-18T09:34:37+00:00",
    "first_seen": "2026-09-18T10:04:33.370905+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Geh, opfere dich – wenn du den endgültigen Tod annimmst“: Protokoll des KI-Angriffs, der die Welt verschreckt",
-   "summary": "KI-Schöpfer warnen vor ihren eigenen Entwicklungen, bis hin zur Auslöschung der Menschheit. Die Protokolle des Ausbruchs legen nahe, wer versagt hat – und worauf wir uns einstellen müssen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-das-protokoll-des-ki-angriffs-der-die-welt-verschreckt/100254926.html",
-   "published": "2026-09-18T09:28:00+00:00",
-   "first_seen": "2026-09-18T10:04:33.370905+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI braucht Infrastruktur: Deutschlands hartes Rennen und die Rechenzentren",
-   "summary": "Die Bundesregierung hat sich in ihrer Rechenzentrumsstrategie 28 Ziele gesetzt, die sie innerhalb eines Jahres erfüllen will. Wo steht sie nach der Hälfte der Zeit?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/rechenzentrumsstrategie-wo-steht-deutschland-im-vergleich-accg-201239176.html",
-   "published": "2026-09-18T08:23:58+00:00",
-   "first_seen": "2026-09-18T09:04:07.236682+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/job-wuerden-sie-ein-bewerbungsgespraech-mit-einem-ki-recruiter-fuehren/100248546.html",
-   "published": "2026-09-18T08:17:00+00:00",
-   "first_seen": "2026-09-18T09:04:07.236682+00:00",
    "paywall": true
   }
  ]
