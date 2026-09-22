@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T21:03:43.543974+00:00",
+ "updated": "2026-09-22T22:03:56.672400+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Architektonische Abenteuer",
+   "summary": "Kugelförmige Häuser, ungewöhnliche Festungen, steile Bahnstrecken. Manche Bauwerke wirken bizarr. Welche technischen Ideen stecken hinter den außergewöhnlichen Konstruktionen?",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-geniale-bauwerke-der-geschichte-100/zdfinfo-geniale-bauwerke-der-geschichte-architektonische-abenteuer-100",
+   "published": "2026-09-22T22:00:00+00:00",
+   "first_seen": "2026-09-22T22:03:56.672400+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Diplomatie: USA und Iran treffen sich erstmals seit Monaten",
+   "summary": "Im Iran-Krieg gelten die Fronten als verhärtet. Nun wurde laut den Amerikanern das erste Mal seit längerem wieder verhandelt. Der Iran betont, dies sei auf US-Wunsch geschehen.",
+   "link": "https://www.handelsblatt.com/politik/international/diplomatie-usa-und-iran-treffen-sich-erstmals-seit-monaten/100256685.html",
+   "published": "2026-09-22T21:20:41+00:00",
+   "first_seen": "2026-09-22T22:03:56.672400+00:00",
    "paywall": true
   },
   {
@@ -13480,24 +13498,6 @@
    "summary": "Kirill Dmitrijew, Berater des russischen Präsidenten, stellt der AfD vor der Wahl in Mecklenburg-Vorpommern günstiges Gas in Aussicht.",
    "link": "https://www.wiwo.de/politik/deutschland/mecklenburg-vorpommern-kremlbeauftragter-dmitrijew-wirbt-vor-wahl-fuer-die-afd/100255824.html",
    "published": "2026-09-19T11:40:31+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Meckel&Matthes: Die Krise der CDU, eine Schicksalswahl für den Kanzler und Kontrollverlust bei KI",
-   "summary": "",
-   "link": "https://www.handelsblatt.com/video/pool/die-krise-der-cdu-eine-schicksalswahl-fuer-den-kanzler-und-kontrollverlust-bei-ki/100255819.html",
-   "published": "2026-09-19T11:26:30+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Reform der Pflege: Der Pflegesoli ist der falsche Weg",
-   "summary": "Der Überschuss in der privaten Pflegeversicherung ist Folge eines anderen Finanzierungsmodells. Er kann nicht einfach so umverteilt werden.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/pflegereform-der-pflegesoli-ist-der-falsche-weg-accg-201228201.html",
-   "published": "2026-09-19T11:26:09+00:00",
    "first_seen": "2026-09-19T12:04:43.498374+00:00",
    "paywall": true
   }
