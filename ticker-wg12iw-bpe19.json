@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T07:05:02.937152+00:00",
+ "updated": "2026-09-22T08:04:13.382356+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-boom-die-besten-chancen-bieten/100235558.html",
+   "published": "2026-09-22T07:38:00+00:00",
+   "first_seen": "2026-09-22T08:04:13.382356+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Chemiekonzern: Evonik kündigt Abbau von 3.200 Stellen an",
+   "summary": "Der Chemiekonzern setzt auf Wachstum in Asien und Amerika. In Deutschland sollen an sechs Standorten neue Aufgaben verteilt werden. Es ist nicht die erste Sparrunde.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/chemiekonzern-evonik-kuendigt-abbau-von-3200-stellen-an/100256450.html",
+   "published": "2026-09-22T07:36:53+00:00",
+   "first_seen": "2026-09-22T08:04:13.382356+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elektroindustrie: Deutliches Plus für deutsche Elektroexporte",
+   "summary": "Die deutsche Elektroindustrie hat ihre Ausfuhren im Juli deutlich gesteigert. Besonders das Geschäft mit der EU sorgt für Wachstum. Es läuft allerdings nicht in allen wichtigen Märkten.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/elektroindustrie-deutliches-plus-fuer-deutsche-elektroexporte/100256434.html",
+   "published": "2026-09-22T07:16:53+00:00",
+   "first_seen": "2026-09-22T08:04:13.382356+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start ins zweite Halbjahr: Deutliches Plus für deutsche Elektroexporte",
+   "summary": "Die deutsche Elektroindustrie hat ihre Ausfuhren im Juli deutlich gesteigert. Besonders das Geschäft mit der EU sorgt für Wachstum. Es läuft allerdings nicht in allen wichtigen Märkten.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/start-ins-zweite-halbjahr-deutliches-plus-fuer-deutsche-elektroexporte/100256437.html",
+   "published": "2026-09-22T06:59:52+00:00",
+   "first_seen": "2026-09-22T08:04:13.382356+00:00",
    "paywall": true
   },
   {
@@ -459,24 +495,6 @@
    "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-erzeugerpreise-mit-staerkstem-anstieg-seit-2023/100255584.html",
    "published": "2026-09-18T08:00:00+00:00",
    "first_seen": "2026-09-18T09:04:07.236682+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Irankrieg: Erzeugerpreise in Deutschland steigen stärker als erwartet – Ölpreise als Treiber",
-   "summary": "Erzeugerpreise gelten als Barometer für die Inflation und können damit Hinweise geben auf die wirtschaftliche Stabilität des Landes. Neueste Daten zeigen: Sie steigen hierzulande weiter – und schneller als gedacht.",
-   "link": "https://www.spiegel.de/wirtschaft/service/irankrieg-erzeugerpreise-in-deutschland-steigen-staerker-als-erwartet-oelpreise-als-treiber-a-431a1495-ad8b-484d-8143-417f1c0550cf#ref=rss",
-   "published": "2026-09-18T07:53:00+00:00",
-   "first_seen": "2026-09-18T08:04:13.474811+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax startet leicht schwächer – Tech-Aktie legt zu",
-   "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht. Der Dax profitiert von sinkenden Ölpreisen, neue Konjunkturdaten dürften Anleger jedoch beunruhigen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-leicht-schwaecher-tech-aktie-legt-zu/100255551.html",
-   "published": "2026-09-18T07:40:55+00:00",
-   "first_seen": "2026-09-18T08:04:13.474811+00:00",
    "paywall": true
   }
  ]
