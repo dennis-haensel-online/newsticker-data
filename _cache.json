@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T20:04:00.148791+00:00",
+ "updated": "2026-09-22T21:03:43.543974+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Wir brauchen einen neuen Leistungsanspruch in der Bildung",
+   "summary": "Ludger Wößmann, Chef des Ifo-Zentrums für Bildungsökonomik, fordert ein einheitliches Kernabitur, um den Pisa-Abstieg zu stoppen. Dass sich Reformen auszahlen, zeigen Hamburg und England.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-einen-neuen-leistungsanspruch-in-der-bildung/100256198.html",
+   "published": "2026-09-22T20:39:56+00:00",
+   "first_seen": "2026-09-22T21:03:43.543974+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Gerichtsmedizin: Panettiere starb an Drogen-Mix",
+   "summary": "Die US-Schauspielerin Hayden Panettiere ist an einem Drogen-Mix mit Fentanyl gestorben. Das gab die Gerichtsmedizin in South Carolina rund einen Monat nach ihrem Tod bekannt.",
+   "link": "https://www.zdfheute.de/panorama/prominente/panettiere-fentanyl-usa-tod-100.html",
+   "published": "2026-09-22T20:39:00+00:00",
+   "first_seen": "2026-09-22T21:03:43.543974+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "EU hebt Sanktionen gegen zwei russische Oligarchen auf",
+   "summary": "Kurz vor Fristablauf erzielt die EU eine Einigung bei den Russland-Sanktionen. Zwei Oligarchen werden von der Sanktionsliste gestrichen. Die Ukraine reagiert mit scharfer Kritik.",
+   "link": "https://www.zdfheute.de/politik/ausland/eu-russland-sanktionen-milliardaere-aufhebung-100.html",
+   "published": "2026-09-22T20:26:00+00:00",
+   "first_seen": "2026-09-22T21:03:43.543974+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Mein Weg ins Vergessen - Leben mit Frühdemenz",
+   "summary": "Frühdemenz mit 56: Brittas Diagnose verändert alles. Auch ihre Familie kämpft mit dem unausweichlichen Weg ins Vergessen. Dennoch genießen sie bewusst die Zeit, die ihnen bleibt.",
+   "link": "https://www.zdf.de/video/reportagen/37-grad-104/37-mein-weg-ins-vergessen---leben-mit-fruehdemenz-100",
+   "published": "2026-09-22T20:15:00+00:00",
+   "first_seen": "2026-09-22T21:03:43.543974+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wieso Trump sich mit seinem Medien-Bann schaden könnte",
+   "summary": "US-Präsident Donald Trump verbannt kritische Medien aus dem Weißen Haus. Doch die ausgesetzte TV-Berichterstattung könnte für den Präsidenten selbst zum Problem werden.",
+   "link": "https://www.zdfheute.de/politik/ausland/politico-msnow-cnn-bann-weisses-haus-usa-100.html",
+   "published": "2026-09-22T20:04:00+00:00",
+   "first_seen": "2026-09-22T21:03:43.543974+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -359,6 +404,15 @@
    "link": "https://www.handelsblatt.com/politik/international/usa-trump-verschiebt-friedensziel-im-iran-und-nennt-ki-jetzt-anders/100256267.html",
    "published": "2026-09-22T17:23:48+00:00",
    "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "UN-Vollversammlung: Trump droht Iran erneut mit der Hölle – und nennt KI jetzt anders",
+   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von Künstlicher Intelligenz erklärt er zur Lüge – und will den Begriff KI ersetzen.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-droht-iran-erneut-mit-der-hoelle-und-nennt-ki-jetzt-anders/100256267.html",
+   "published": "2026-09-22T17:23:48+00:00",
+   "first_seen": "2026-09-22T21:03:43.543974+00:00",
    "paywall": true
   },
   {
@@ -13444,60 +13498,6 @@
    "summary": "Der Überschuss in der privaten Pflegeversicherung ist Folge eines anderen Finanzierungsmodells. Er kann nicht einfach so umverteilt werden.",
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/pflegereform-der-pflegesoli-ist-der-falsche-weg-accg-201228201.html",
    "published": "2026-09-19T11:26:09+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Benzinpreise: Das Gute am Übergewinn",
-   "summary": "Kaum etwas ärgert die Wähler so sehr wie der hohe Profit der Ölkonzerne in der Krise. Fachleute denken da ganz anders. Warum hohe Gewinne der Gesellschaft nützen können.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/uebergewinnsteuer-was-lars-klingbeil-bei-oelkonzernen-plant-accg-201236587.html",
-   "published": "2026-09-19T11:25:04+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Studi-Mieten in Großstädten: Jedes zweite WG-Zimmer in Berlin kostet mehr als 650 Euro",
-   "summary": "Deutschlandweit bleiben die Zimmer-Mieten zuletzt stabil, in den Millionenstädten aber ziehen sie an. Die Hauptstadt ist dabei nicht am teuersten. mehr...",
-   "link": "https://taz.de/Studi-Mieten-in-Grossstaedten/!6214660/",
-   "published": "2026-09-19T11:24:00+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Grönland-Abkommen mit den USA: Lob und Erleichterung, soweit das Auge reicht",
-   "summary": "Trump feiert einen Grönland-Deal, auch Dänemark und Grönland sind zufrieden. Das Abkommen soll die Sicherheit stärken. Viele Details bleiben jedoch offen. mehr...",
-   "link": "https://taz.de/Groenland-Abkommen-mit-den-USA/!6214661/",
-   "published": "2026-09-19T11:21:00+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Tata: Führungschaos in Indiens größtem Konzern",
-   "summary": "Die Tata-Gruppe, zu der Autohersteller wie Land Rover, IT-Berater und Teemarken gehören, muss gegen ihren Willen an die Börse. Nun soll auch noch der Chef weitermachen, der gerade erst seinen Abschied angekündigt hatte.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tata-sons-fuehrungschaos-beim-groessten-konzern-indiens-accg-201240085.html",
-   "published": "2026-09-19T11:20:31+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Volkswagen-Tochter: Abbau von 4100 weiteren Stellen bei Porsche möglich",
-   "summary": "Beim Sportwagenhersteller stehen weitere Arbeitsplätze auf der Streichliste – zusätzlich zu bisherigen Vereinbarungen. Dem Mutterkonzern fehlen 700 Millionen Euro.",
-   "link": "https://www.wiwo.de/unternehmen/auto/volkswagen-tochter-abbau-von-4100-weiteren-stellen-bei-porsche-moeglich/100255822.html",
-   "published": "2026-09-19T11:18:43+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Einigung auf Paket: Entlastung bei Spritpreisen - wie geht es jetzt weiter?",
-   "summary": "Tankrabatt und Spritpreisdeckel: Wie schnell kommen die Entlastungen für Autofahrer und Unternehmen? Und wer profitiert am stärksten?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/einigung-auf-paket-entlastung-bei-spritpreisen-wie-geht-es-jetzt-weiter/100255825.html",
-   "published": "2026-09-19T11:14:58+00:00",
    "first_seen": "2026-09-19T12:04:43.498374+00:00",
    "paywall": true
   }

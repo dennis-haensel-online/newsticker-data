@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-22T20:04:00.148791+00:00",
+ "updated": "2026-09-22T21:03:43.543974+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -45,6 +45,15 @@
    "link": "https://www.handelsblatt.com/politik/international/usa-trump-verschiebt-friedensziel-im-iran-und-nennt-ki-jetzt-anders/100256267.html",
    "published": "2026-09-22T17:23:48+00:00",
    "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "UN-Vollversammlung: Trump droht Iran erneut mit der Hölle – und nennt KI jetzt anders",
+   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von Künstlicher Intelligenz erklärt er zur Lüge – und will den Begriff KI ersetzen.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-droht-iran-erneut-mit-der-hoelle-und-nennt-ki-jetzt-anders/100256267.html",
+   "published": "2026-09-22T17:23:48+00:00",
+   "first_seen": "2026-09-22T21:03:43.543974+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.zdfheute.de/politik/ausland/russland-cyber-angriff-wahl-100.html",
    "published": "2026-09-20T15:54:00+00:00",
    "first_seen": "2026-09-20T16:04:00.828089+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Fast-Militärvorfall USA/China: KI als neues militärisches Risiko",
-   "summary": "Das US‑Militär bereitete offenbar einen Angriff auf ein Schiff aus China vor, das angeblich Atomwaffen transportierte. Doch das war ein Fehler einer KI. mehr...",
-   "link": "https://taz.de/Fast-Militaervorfall-USA-China/!6214745/",
-   "published": "2026-09-20T14:08:00+00:00",
-   "first_seen": "2026-09-20T15:03:44.800932+00:00",
    "paywall": false
   }
  ]
