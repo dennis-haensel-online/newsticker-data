@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T10:05:08.537199+00:00",
+ "updated": "2026-09-22T11:04:20.063643+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
+   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
+   "link": "https://www.handelsblatt.com/karriere/ruestungsindustrie-welche-kompetenzen-manager-beim-einstieg-mitbringen-sollten/100211178.html",
+   "published": "2026-09-22T10:44:00+00:00",
+   "first_seen": "2026-09-22T11:04:20.063643+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Wirtschaft in Deutschland: Institute verdoppeln Wachstumsprognose",
+   "summary": "Die deutsche Wirtschaft zieht nach jahrelanger Flaute wieder an. Nun erhöhen Ökonominnen und Ökonomen ihre Voraussage deutlich, auch für das kommende Jahr.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-institute-verdoppeln-wachstumsprognose-a-b8c76870-ed93-480b-9c94-4bad7fadd370#ref=rss",
+   "published": "2026-09-22T10:37:00+00:00",
+   "first_seen": "2026-09-22T11:04:20.063643+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -487,33 +505,6 @@
    "published": "2026-09-18T11:26:45+00:00",
    "first_seen": "2026-09-18T12:05:02.356633+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax notiert schwächer – Tech-Aktie legt zu",
-   "summary": "Nach der US-Notenbank Fed hat nun auch die Bank of Japan den Leitzins erhöht. Der Dax profitiert von sinkenden Ölpreisen, neue Konjunkturdaten dürften Anleger jedoch beunruhigen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-schwaecher-tech-aktie-legt-zu/100255551.html",
-   "published": "2026-09-18T11:25:09+00:00",
-   "first_seen": "2026-09-18T12:05:02.356633+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Merz rechnet mit Wachstum von 1,3 Prozent in diesem Jahr",
-   "summary": "Der Bundeskanzler hat am Donnerstag auf einer Wahlkampfveranstaltung in Berlin die Arbeit der schwarz-roten Bundesregierung verteidigt. „Trotz mancher Kritik können wir heute sagen: Wir sind auf dem Weg raus aus der Krise“, sagte Merz.",
-   "link": "https://www.handelsblatt.com/video/politik/konjunktur-merz-rechnet-mit-wachstum-von-13-prozent-in-diesem-jahr/100255643.html",
-   "published": "2026-09-18T10:29:09+00:00",
-   "first_seen": "2026-09-18T11:03:59.278781+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Deutschlands Rekordschulden: Warum die Zahl wenig aussagt",
-   "summary": "Deutschland hat Rekordschulden in Höhe von 2,8 Billionen Euro. Gemessen an der Wirtschaftsleistung ist das noch vergleichsweise wenig. Für Unsicherheit sorgen sie trotzdem.",
-   "link": "https://www.zdfheute.de/wirtschaft/deutschland-schulden-staatsverschuldung-steigerung-100.html",
-   "published": "2026-09-18T10:16:00+00:00",
-   "first_seen": "2026-09-18T11:03:59.278781+00:00",
-   "paywall": false
   }
  ]
 }
