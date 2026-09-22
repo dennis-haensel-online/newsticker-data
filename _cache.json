@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T19:03:23.898070+00:00",
+ "updated": "2026-09-22T20:04:00.148791+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -11,12 +11,75 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Regierungsbildung in Berlin: SPD-Spitze an Linke: Antisemitismus nicht mit uns",
+   "summary": "Die Linke in Berlin möchte - neben den Grünen - zusammen mit den Sozialdemokraten regieren. Die SPD-Bundesspitze macht nun klar: Antisemitismus hat in ihrer Politik keinen Platz.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-spd-spitze-an-linke-antisemitismus-nicht-mit-uns/100256692.html",
+   "published": "2026-09-22T19:55:05+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für Künstliche Intelligenz",
+   "summary": "Kurz vor dem Treffen mit Xi will Trump „Artificial Intelligence“ in „Super Intelligence“ umtaufen – und zeigt damit, dass er lieber auf absurde Symbolpolitik statt Regulierung setzt.",
+   "link": "https://www.wiwo.de/politik/ausland/donald-trump-will-ki-umbenennen-absage-an-regulierung/100256688.html",
+   "published": "2026-09-22T19:54:01+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Private Krankenversicherung: Merz und die Gerechtigkeit",
+   "summary": "Kanzler Merz hat ein \"Gerechtigkeitsproblem\" entdeckt: Zwei Klassen in der Medizin - daran müsse sich was ändern. Alles nicht so gemeint, heißt es später. Aber die Debatte ist da.",
+   "link": "https://www.zdfheute.de/politik/deutschland/krankenversicherung-merz-miersch-lauterbach-sozialpolitik-100.html",
+   "published": "2026-09-22T19:06:00+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Abhängigkeit von den USA: Trumps geheime Knebelverträge",
+   "summary": "Die Bundesregierung will bei der Rüstung souveräner werden. Ein exklusiver Einblick in vertrauliche Akten zeigt jedoch: Die Abhängigkeit von den USA nimmt zu.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/abhaengigkeit-usa-bundeswehr-ruestungsindustrie-kampfjet-f-35",
+   "published": "2026-09-22T19:02:48+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": true
+  },
+  {
    "label": "ZDF",
    "title": "CDU-Pleite | Notaufnahmen vor dem Kollaps",
    "summary": "Mit den Themen: CDU nach historischer Pleite | Notaufnahmen vor dem Kollaps | Deutschlands neuer Kampfjet F-35",
    "link": "https://www.zdf.de/video/magazine/frontal-das-magazin-100/frontal-vom-22-september-2026-100",
    "published": "2026-09-22T19:00:00+00:00",
    "first_seen": "2026-09-22T19:03:23.898070+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "CDU nach historischer Pleite",
+   "summary": "Die CDU erlebt einen historischen Absturz: In Mecklenburg-Vorpommern scheitert die Partei erstmals bei einer Landtagswahl an der Fünf-Prozent-Hürde, auch in Berlin verliert sie deutlich.",
+   "link": "https://www.zdfheute.de/video/frontal/cdu-pleite-wie-sich-parteibasis-von-merz-distanziert-100.html",
+   "published": "2026-09-22T19:00:00+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Deutschlands neuer Kampfjet",
+   "summary": "Deutschland und Europa sollen deutlich mehr für ihre eigene Verteidigungsfähigkeit tun und sicherheitspolitisch unabhängiger von den USA werden, fordert die Bundesregierung.",
+   "link": "https://www.zdfheute.de/video/frontal/deutschlands-neuer-kampfjet-f-35-knebelvertraege-mit-usa-100.html",
+   "published": "2026-09-22T19:00:00+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Die Berliner Linke und der Antisemitismus",
+   "summary": "Die Berliner Linke steht nach ihrem Wahlerfolg vor einer schwierigen Debatte: Spitzenkandidatin Elif Eralp hat sich ausdrücklich zum Schutz jüdischen Lebens in der Hauptstadt bekannt.",
+   "link": "https://www.zdfheute.de/video/frontal/berliner-linke-und-antisemitismus-100.html",
+   "published": "2026-09-22T19:00:00+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
    "paywall": false
   },
   {
@@ -287,6 +350,15 @@
    "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-die-grosse-trump-show-bei-den-vereinten-nationen/100256267.html",
    "published": "2026-09-22T17:23:48+00:00",
    "first_seen": "2026-09-22T18:05:03.068000+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "UN-Vollversammlung: Trump verschiebt Friedensziel im Iran – und nennt KI jetzt anders",
+   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-verschiebt-friedensziel-im-iran-und-nennt-ki-jetzt-anders/100256267.html",
+   "published": "2026-09-22T17:23:48+00:00",
+   "first_seen": "2026-09-22T20:04:00.148791+00:00",
    "paywall": true
   },
   {
@@ -13427,78 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/einigung-auf-paket-entlastung-bei-spritpreisen-wie-geht-es-jetzt-weiter/100255825.html",
    "published": "2026-09-19T11:14:58+00:00",
    "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Oberbürgermeister Krause eröffnet Oktoberfest in München",
-   "summary": "Oberbürgermeister Dominik Krause hat mit zwei Schlägen das diesjährige Oktoberfest in München eröffnet. Die erste Maß reichte er an Ministerpräsidenten Markus Söder.",
-   "link": "https://www.zdfheute.de/video/eroeffnung-oktoberfest-muenchen-100.html",
-   "published": "2026-09-19T11:08:44+00:00",
-   "first_seen": "2026-09-19T17:03:39.294704+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Lieferant von Rohdiamanten: Botswana greift nach De Beers",
-   "summary": "Mehr Einfluss auf den Diamantenkonzern soll dem Land helfen, seine Wirtschaft zu diversifizieren. Seine Finanzreserven sind weitgehend aufgebraucht. mehr...",
-   "link": "https://taz.de/Lieferant-von-Rohdiamanten/!6197767/",
-   "published": "2026-09-19T10:56:00+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Mit einer Menschenkette gegen den Abriss",
-   "summary": "Demonstranten haben das Kennedy Center in Washington symbolisch mit einer Menschenkette geschützt. Anlass sind die Drohungen Trumps, das Zentrum zu schließen oder gar abzureißen.",
-   "link": "https://www.zdfheute.de/politik/ausland/trump-kennedy-center-menschenkette-100.html",
-   "published": "2026-09-19T10:54:00+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Die Welt in Bildern: Blickfang",
-   "summary": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang.",
-   "link": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
-   "published": "2026-09-19T10:41:00+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "F‑35: „Deutschlands schärfstes Schwert der Abschreckung“",
-   "summary": "Verteidigungsminister Boris Pistorius übernimmt in Texas Deutschlands ersten F‑35‑Kampfjet. Warum die Bundesregierung beim Kauf trotz anhaltender Kritik keine Kompromisse macht.",
-   "link": "https://www.wiwo.de/politik/deutschland/f-35-fuer-die-bundeswehr-warum-pistorius-am-us-jet-festhaelt/100255603.html",
-   "published": "2026-09-19T10:41:00+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: „Vor KI, die die Menschheit auslöscht, habe ich wirklich gar keine Angst“",
-   "summary": "Jakob Uszkoreit legte die Basis für ChatGPT und Claude. Im Interview erklärt der Transformer-Pionier, warum er keine Angst vor der KI hat – und welche Gefahren er für weit realistischer hält.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/jakob-uszkoreit-chatgpt-pionier-ueber-reale-ki-gefahren/100255124.html",
-   "published": "2026-09-19T10:41:00+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Immobilien: Die zwölf größten deutschen Städte im Vermietercheck",
-   "summary": "Für Vermieter stehen die Zeichen auf Sturm: neue Auflagen, höhere Kosten, in Berlin drohen gar Enteignungen. Wo lohnt es sich noch, Immobilien zu vermieten?",
-   "link": "https://www.wiwo.de/finanzen/immobilien/wo-lohnt-sich-vermieten-noch-grossstaedte-im-regulierungs-check/100255296.html",
-   "published": "2026-09-19T10:30:00+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Wahlkampf: Warum Merz ausgerechnet auf die einstige Chaos-CDU Berlins hofft",
-   "summary": "Friedrich Merz setzt im Berliner Wahlkampf auf Spitzenkandidat Stefan Evers. Ein Erfolg könnte ihm Zeit verschaffen. Mehr nicht.",
-   "link": "https://www.wiwo.de/politik/deutschland/stefan-evers-warum-friedrich-merz-so-auf-die-berliner-cdu-hofft/100254642.html",
-   "published": "2026-09-19T10:28:00+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
    "paywall": true
   }
  ]
