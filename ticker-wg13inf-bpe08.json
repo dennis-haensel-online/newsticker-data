@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-22T17:03:55.369783+00:00",
+ "updated": "2026-09-22T18:05:03.068000+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Buch über Ungleichheit: „Arme Menschen sind ständig damit beschäftigt, zu überleben“",
+   "summary": "Auf Social Media erklärt Soziologin Ramona Wuttig, was es heißt, arm auf dem Land in Ostdeutschland aufzuwachsen. Jetzt hat sie ein Buch darüber geschrieben. mehr...",
+   "link": "https://taz.de/Buch-ueber-Ungleichheit/!6214042/",
+   "published": "2026-09-22T17:58:00+00:00",
+   "first_seen": "2026-09-22T18:05:03.068000+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "UN-Vollversammlung: „Friedensstifter und Technologie-Erklärer“: Die große Trump-Show bei den Vereinten Nationen",
+   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen.",
+   "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-die-grosse-trump-show-bei-den-vereinten-nationen/100256267.html",
+   "published": "2026-09-22T17:23:48+00:00",
+   "first_seen": "2026-09-22T18:05:03.068000+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Technikmesse Innotrans: Wohin der Bahnverkehr steuert",
@@ -883,24 +901,6 @@
    "published": "2026-09-20T12:57:00+00:00",
    "first_seen": "2026-09-20T13:03:22.412380+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Digitalisierung: Können Sie E-Rechnung?",
-   "summary": "Vom kommenden Jahr an müssen alle Unternehmen mit mehr als 800.000 Euro Umsatz elektronische Rechnungen verschicken. Doch nur sechs Prozent sind aktuell dazu in der Lage.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/digitalisierung-koennen-sie-e-rechnung/100255379.html",
-   "published": "2026-09-20T11:23:13+00:00",
-   "first_seen": "2026-09-20T12:04:44.313194+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Tourismus: Mit KI durch Japan",
-   "summary": "Auf einem Innovationsgipfel in Tokio schwärmen die Führungskräfte einer Buchungsplattform von den Möglichkeiten der künstlichen Intelligenz. Tatsächlich ist die besonders für Reisende in Japan spannend.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/booking-com-ki-tourismus-japan-li.3548083",
-   "published": "2026-09-20T11:21:36+00:00",
-   "first_seen": "2026-09-20T12:04:44.313194+00:00",
-   "paywall": true
   }
  ]
 }
