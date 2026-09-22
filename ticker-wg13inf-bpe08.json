@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-22T11:04:20.063643+00:00",
+ "updated": "2026-09-22T12:04:46.064409+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Staatschefs fordern strenge Kontrolle hochentwickelter KI",
+   "summary": "Staats- und Regierungschefs fordern eine globale Kontrollbehörde für leistungsfähige KI-Systeme. Was der neue Drei-Punkte-Plan vorsieht.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-staatschefs-fordern-strenge-kontrolle-hochentwickelter-ki/100256577.html",
+   "published": "2026-09-22T11:51:12+00:00",
+   "first_seen": "2026-09-22T12:04:46.064409+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Datenschutz: Werbung bei ChatGPT: Bei KI-Empfehlung noch genauer hinsehen",
+   "summary": "Noch ist es Zukunftsmusik: Aber künftig könnte auch personalisierte Werbung in den Antworten der KI-Chatbots auftauchen. Wie der aktuelle Stand bei ChatGPT ist und was Verbraucher beachten sollten.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/datenschutz-werbung-bei-chatgpt-bei-ki-empfehlung-noch-genauer-hinsehen/100256575.html",
+   "published": "2026-09-22T11:33:59+00:00",
+   "first_seen": "2026-09-22T12:04:46.064409+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Constellation Software: Die KI-Panik bei Software-Aktien ist vorbei",
+   "summary": "Die Aktien der kanadischen Holding Constellation Software bieten nach starkem Abverkauf eine lukrative Einstiegsgelegenheit.",
+   "link": "https://www.wiwo.de/finanzen/boerse/constellation-software-warum-die-ki-panik-bei-software-aktien-vorbei-ist/100255439.html",
+   "published": "2026-09-22T11:26:06+00:00",
+   "first_seen": "2026-09-22T12:04:46.064409+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Staatschefs fordern strenge Kontrolle hochentwickelter KI",
+   "summary": "Staats- und Regierungschefs fordern eine globale Kontrollbehörde für leistungsfähige KI-Systeme. Was der neue Drei-Punkte-Plan vorsieht.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-staatschefs-fordern-strenge-kontrolle-hochentwickelter-ki/100256565.html",
+   "published": "2026-09-22T11:00:03+00:00",
+   "first_seen": "2026-09-22T12:04:46.064409+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "USA: „Fake News“ – Trump greift US-Medien bei Treffen mit Mamdani erneut an",
@@ -865,42 +901,6 @@
    "published": "2026-09-19T07:42:27+00:00",
    "first_seen": "2026-09-19T08:04:24.518667+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Accenture und Anthropic investieren Milliarden wegen Sicherheitsbedenken",
-   "summary": "Der Druck von Aufsichtsbehörden auf KI-Entwickler steigt. Die beiden Firmen möchten nun bei der unabhängigen Überprüfung von KI-Modellen zusammenarbeiten.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-unternehmen-accenture-und-anthropic-investieren-milliarden-in-ki-sicherheit/100255810.html",
-   "published": "2026-09-19T07:42:27+00:00",
-   "first_seen": "2026-09-19T11:03:48.667947+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Auch Googles KI Gemini führte Cyberattacken durch",
-   "summary": "Nach OpenAI, Anthropic und Meta meldet nun auch Google, dass die hauseigene KI Gemini andere Unternehmen gehackt hat.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/google-ki-gemini-cyberattacke-100.html",
-   "published": "2026-09-19T07:10:00+00:00",
-   "first_seen": "2026-09-19T08:04:24.518667+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung: „Die Leute müssen das Gefühl haben, blöd sein zu dürfen“",
-   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
-   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-jeder-leidet-unter-dem-perfektionszwang/100252820.html",
-   "published": "2026-09-19T04:47:00+00:00",
-   "first_seen": "2026-09-19T05:03:46.073909+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "ChatGPT, Reddit, Roblox: Was strengere Kontrollen bedeuten",
-   "summary": "Mehr als 45 Millionen User nutzen ChatGPT, Reddit oder Roblox monatlich. Damit unterliegen sie einer schärferen EU-Kontrolle. Was dies für die Plattformen und Verbraucher bedeutet.",
-   "link": "https://www.zdfheute.de/ratgeber/chatgpt-reddit-roblox-neue-eu-regeln-100.html",
-   "published": "2026-09-19T04:07:00+00:00",
-   "first_seen": "2026-09-19T05:03:46.073909+00:00",
-   "paywall": false
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-22T11:04:20.063643+00:00",
+ "updated": "2026-09-22T12:04:46.064409+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Inflation: Wegen Energiekosten rechnet EZB-Chefvolkswirt mit anhaltender Inflation",
+   "summary": "Öl und Gas verteuern sich erneut: EZB-Chefvolkswirt Philip Lane sieht die Inflation in der Eurozone länger über dem Zielwert.",
+   "link": "https://www.wiwo.de/unternehmen/banken/inflation-wegen-energiekosten-rechnet-ezb-chefvolkswirt-mit-anhaltender-inflation/100256549.html",
+   "published": "2026-09-22T11:21:39+00:00",
+   "first_seen": "2026-09-22T12:04:46.064409+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ranking 2026: Das sind Deutschlands wachstumsstärkste Mittelständler",
+   "summary": "Erfolgreiche Mittelständler zeichnen sich durch konsequente Positionierung im Markt und klare Standortpolitik aus. Ein Ranking zeigt die Wachstums-Champions in Deutschland.",
+   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/ranking-2026-das-sind-deutschlands-wachstumsstaerkste-mittelstaendler/100244614.html",
+   "published": "2026-09-22T11:08:46+00:00",
+   "first_seen": "2026-09-22T12:04:46.064409+00:00",
    "paywall": true
   },
   {
@@ -495,15 +513,6 @@
    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-lagarde-sieht-ezb-im-kampf-gegen-inflation-gut-positioniert/100255676.html",
    "published": "2026-09-18T12:51:50+00:00",
    "first_seen": "2026-09-18T13:03:54.382077+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Buffett übergibt Berkshire- Verwaltungsrat – an seinen Sohn",
-   "summary": "Russland-Geschäft von Nestlé unter russischer Verwaltung +++ Japans Leitzins auf 31-Jahres-Hoch angehoben +++ Raiffeisenbank wehrt sich gegen Leerverkäufer Grizzly +++ Playmobil-Chef verlässt Unternehmen +++ Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-buffett-zieht-sich-bei-berkshire-weiter-zurueck-faz-200452404.html",
-   "published": "2026-09-18T11:26:45+00:00",
-   "first_seen": "2026-09-18T12:05:02.356633+00:00",
    "paywall": true
   }
  ]
