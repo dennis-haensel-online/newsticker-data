@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-22T09:03:59.472341+00:00",
+ "updated": "2026-09-22T10:05:08.537199+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Führungskräfte: Wenn KI-Agenten zu Managern werden",
+   "summary": "Neun Menschen, mehr als 100 KI-Agenten: Start-up-Gründer Dominic von Proeck erprobt, wie Unternehmen mit digitalen Mitarbeitern wachsen können – und warum dafür gute Führung entscheidend ist.",
+   "link": "https://www.handelsblatt.com/unternehmen/technologie-wenn-ki-agenten-zu-fuehrungskraeften-werden/100252551.html",
+   "published": "2026-09-22T09:57:00+00:00",
+   "first_seen": "2026-09-22T10:05:08.537199+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Taiwan: Taiwans Auslandsaufträge übertreffen erstmals 100-Milliarden-Dollar-Marke",
+   "summary": "Die taiwanischen Auftragsbücher gelten als Frühindikator für die weltweite Nachfrage nach Technologieprodukten. Durch den KI-Boom steht Taiwans Wirtschaft vor einem Wachstum von historischem Ausmaß.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/taiwan-taiwans-auslandsauftraege-uebertreffen-100-milliarden-dollar-marke/100256527.html",
+   "published": "2026-09-22T09:37:17+00:00",
+   "first_seen": "2026-09-22T10:05:08.537199+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Finanzbranche: Die Probleme der gehypten Online-Bank Revolut",
+   "summary": "Das Unternehmen steht wegen eines Hackerangriffs unter Druck. Interne Dokumente legen nah: Es ist wohl nicht das erste Mal, dass das Fintech mit Problemen zu kämpfen hat.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/revolut-bank-probleme-li.3548824",
+   "published": "2026-09-22T09:02:45+00:00",
+   "first_seen": "2026-09-22T10:05:08.537199+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Nutzung von KI-Tools und Streamingdiensten nimmt zu",
+   "summary": "Der neuen ARD/ZDF-Medienstudie zufolge ist die Nutzung von KI-Tools je nach Alter unterschiedlich stark. Und mehr als die Hälfte der Deutschen streamt die Angebote von ARD und ZDF.",
+   "link": "https://www.zdfheute.de/wissen/ard-zdf-medienstudie-2026-ki-tools-streaming-100.html",
+   "published": "2026-09-22T09:00:00+00:00",
+   "first_seen": "2026-09-22T10:05:08.537199+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Umsatzrekord: Deutscher KI-Markt wächst 2026 um fast die Hälfte",
+   "summary": "KI-Software bleibt Wachstumstreiber: Deutsche Unternehmen investieren 2026 deutlich mehr, um Prozesse zu beschleunigen und Produkte zu verbessern.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/umsatzrekord-deutscher-ki-markt-waechst-2026-um-fast-die-haelfte/100256494.html",
+   "published": "2026-09-22T08:50:35+00:00",
+   "first_seen": "2026-09-22T10:05:08.537199+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Dax aktuell: Dax startet unverändert – Ölpreise steigen wieder",
@@ -856,51 +901,6 @@
    "published": "2026-09-19T01:01:30+00:00",
    "first_seen": "2026-09-19T02:03:59.554889+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Sicherheut: Google-KI Gemini hackte bei Test drei Unternehmen",
-   "summary": "Googles KI Gemini hat Passwörter erraten und öffentliche Zugangsdaten genutzt, um in Unternehmenssysteme einzudringen. Ein weiterer Vorfall, der die Debatte um eine Regulierung anheizt.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-sicherheut-google-ki-gemini-hackte-bei-test-drei-unternehmen/100255773.html",
-   "published": "2026-09-19T00:47:08+00:00",
-   "first_seen": "2026-09-19T01:03:35.065333+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Trump will mehreren Medien Zugang zum Weißen Haus verbieten",
-   "summary": "US-Präsident Trump will mit sofortiger Wirkung CNN, MSNOW und Politico den Zugang zum Weißen Haus verwehren. Als Begründung schrieb er, die Medien würden \"Fake News\" verbreiten.",
-   "link": "https://www.zdfheute.de/politik/ausland/trump-presse-medien-weisses-haus-zutritt-100.html",
-   "published": "2026-09-19T00:19:00+00:00",
-   "first_seen": "2026-09-19T01:03:35.065333+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Kalifornien könnte Notschalter für KI vorschreiben",
-   "summary": "Die bekanntesten leistungsstarken KI-Modelle werden in Kalifornien entwickelt. Der US-Bundesstaat will in der Debatte um Sicherheitsrisiken die Initiative ergreifen - und erwägt eine radikale Vorgabe.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-kalifornien-koennte-notschalter-fuer-ki-vorschreiben/100255771.html",
-   "published": "2026-09-18T23:46:27+00:00",
-   "first_seen": "2026-09-19T00:05:05.001676+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an",
-   "summary": "Dänemark und USA verkünden Durchbruch im Grönland-Streit +++ Trump verbietet CNN und anderen Medien Zugang zum Weißen Haus +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-us-praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an/29669594.html",
-   "published": "2026-09-18T22:48:00+00:00",
-   "first_seen": "2026-09-20T01:03:51.725490+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Maß Bier und KI-Kameras: Die Wiesn 2026 beginnt",
-   "summary": "Bis Anfang Oktober feiern Millionen Menschen auf der Münchner Theresienwiese das größte Volksfest der Welt. Wiesn-Preise, Trachten-Trends und Sicherheit - alle Infos im Überblick.",
-   "link": "https://www.zdfheute.de/panorama/oktoberfest-wiesn-muenchen-2026-bier-preis-sicherheit-100.html",
-   "published": "2026-09-18T19:49:00+00:00",
-   "first_seen": "2026-09-18T20:04:08.148620+00:00",
-   "paywall": false
   }
  ]
 }
