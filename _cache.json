@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T00:05:39.212902+00:00",
+ "updated": "2026-09-22T01:03:22.266381+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Warum Jan Zimmermann für die Volleyballer so wichtig ist",
+   "summary": "Die DVV-Männer spielen am Abend im EM-Viertelfinale gegen Topfavorit Polen. Dabei kommt es in besonderem Maße auf Zuspieler Jan Zimmermann an.",
+   "link": "https://www.zdfheute.de/sport/volleyball-em-2026-viertelfinale-deutschland-polen-vorschau-100.html",
+   "published": "2026-09-22T00:46:00+00:00",
+   "first_seen": "2026-09-22T01:03:22.266381+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsbeziehungen: EU-Handelskammer sieht Umdenken im Handel mit China erreicht",
+   "summary": "China sprach im Handel mit anderen Ländern lange von „Win-Win“. Doch die EU-Handelskammer in Peking sieht die Vorteile nur noch auf einer Seite - und äußert Sorgen vor der weiteren Entwicklung.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/handelsbeziehungen-eu-handelskammer-sieht-umdenken-im-handel-mit-china-erreicht/100256361.html",
+   "published": "2026-09-22T00:30:04+00:00",
+   "first_seen": "2026-09-22T01:03:22.266381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Politologe Stecker: \"Regieren ist Mist, heutzutage\"",
+   "summary": "Unionsfraktionschef Frei scheint mit sich selbst uneins, ob die Reformpakete aufgeschnürt werden sollten. Politikwissenschaftler Stecker fordert ein Ende des Koalitionszwangs.",
+   "link": "https://www.zdfheute.de/politik/deutschland/illner-landtagswahl-lektion-bundesregierung-koalition-reform-100.html",
+   "published": "2026-09-22T00:23:00+00:00",
+   "first_seen": "2026-09-22T01:03:22.266381+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13473,33 +13500,6 @@
    "published": "2026-09-18T01:30:05+00:00",
    "first_seen": "2026-09-18T02:04:02.655183+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Fallstricke für beide Seiten: Workation-Risiken: Extra-Steuer und Betriebsstätten-Gründung",
-   "summary": "Wer im Ausland arbeitet, sollte die 183-Tage-Regel kennen. Welche steuerlichen Folgen eine längere Workation für Beschäftigte haben kann - und für Unternehmen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/fallstricke-fuer-beide-seiten-workation-risiken-extra-steuer-und-betriebsstaetten-gruendung/100255494.html",
-   "published": "2026-09-18T01:25:05+00:00",
-   "first_seen": "2026-09-18T02:04:02.655183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsurlaub erklärt: EU-Workation für Anfänger: 7 Tipps fürs mobile Arbeiten",
-   "summary": "Workation klingt verlockend, bringt aber viele rechtliche und organisatorische Hürden mit sich. Was Beschäftigte vor und beim mobilen Arbeiten im EU-Ausland beachten müssen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsurlaub-erklaert-eu-workation-fuer-anfaenger-7-tipps-fuers-mobile-arbeiten/100255493.html",
-   "published": "2026-09-18T01:25:04+00:00",
-   "first_seen": "2026-09-18T02:04:02.655183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Merz beendet Wahlkampf mit Auftritt in Berlin",
-   "summary": "Kurz vor der Abgeordnetenhauswahl ist Kanzler Merz erstmals im Berliner Wahlkampf aufgetreten. In den Umfragen liefern sich CDU und Linke in Berlin ein enges Rennen um Platz eins.",
-   "link": "https://www.zdfheute.de/politik/deutschland/merz-berlin-wahl-auftritt-cdu-linke-antisemitismus-100.html",
-   "published": "2026-09-18T01:17:00+00:00",
-   "first_seen": "2026-09-18T02:04:02.655183+00:00",
-   "paywall": false
   }
  ]
 }
