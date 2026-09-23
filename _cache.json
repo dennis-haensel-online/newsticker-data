@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T19:03:39.173493+00:00",
+ "updated": "2026-09-23T20:04:30.318225+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Grüne Visionen",
+   "summary": "Weltweit entstehen Bauwerke nach dem Vorbild der Natur. Moderne Ingenieurskunst verbindet Ästhetik, Funktion und Nachhaltigkeit - neue Wege für eine Architektur der Zukunft.",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-geniale-bauwerke-der-geschichte-100/zdfinfo-geniale-bauwerke-der-geschichte-gruene-visionen-100",
+   "published": "2026-09-23T19:45:00+00:00",
+   "first_seen": "2026-09-23T20:04:30.318225+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Nvidia-Chef Jensen Huang und Donald Trump: Der KI-Einflüsterer",
+   "summary": "Jensen Huang leitet Nvidia, das wertvollste Unternehmen der Welt. Von KI-Horrorszenarien hält er nichts – so ist er zum wichtigen Verbündeten von Donald Trump geworden. Doch hinter der Bromance steckt noch mehr.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-chef-jensen-huang-und-donald-trump-der-ki-einfluesterer-a-fad307df-42fa-4911-badb-cdd21d6a4d2d#ref=rss",
+   "published": "2026-09-23T19:35:00+00:00",
+   "first_seen": "2026-09-23T20:04:30.318225+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Drohnenalarm am Berliner Flughafen",
+   "summary": "Wegen einer Drohnensichtung am Berliner Flughafen BER wurde der Flugverkehr kurzzeitig komplett eingestellt. Passagiere in umgeleiteten Fliegern wurden von den Crews informiert.",
+   "link": "https://www.zdfheute.de/panorama/kriminalitaet/berlin-flughafen-ber-drohnen-alarm-100.html",
+   "published": "2026-09-23T19:27:00+00:00",
+   "first_seen": "2026-09-23T20:04:30.318225+00:00",
+   "paywall": false
   },
   {
    "label": "tagesschau",
@@ -35,6 +62,15 @@
    "link": "https://www.zdf.de/video/re-live/dokus-hintergruende-videos-100/fussball-dfb-team-interview-vor-niederlande-juergen-klopp-100",
    "published": "2026-09-23T18:42:00+00:00",
    "first_seen": "2026-09-23T19:03:39.173493+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie Jürgen Klopp mit der DFB-Elf \"ins Fliegen\" kommen will",
+   "summary": "Jürgen Klopp geht als Bundestrainer mit seinem Tatendrang voran. Am besten soll die DFB-Elf gleich im Klassiker gegen die Niederlande in Amsterdam \"ins Fliegen\" kommen.",
+   "link": "https://www.zdfheute.de/sport/fussball-dfb-nations-league-amsterdam-niederlande-100.html",
+   "published": "2026-09-23T18:40:00+00:00",
+   "first_seen": "2026-09-23T20:04:30.318225+00:00",
    "paywall": false
   },
   {
@@ -152,6 +188,24 @@
    "link": "https://www.zdfheute.de/sport/video/olympia-bewerbung-koeln-rhein-ruhr-vorstellung-100.html",
    "published": "2026-09-23T18:01:00+00:00",
    "first_seen": "2026-09-23T19:03:39.173493+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Schlagzeilen",
+   "summary": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker",
+   "link": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+   "published": "2026-09-23T17:58:00+00:00",
+   "first_seen": "2026-09-23T20:04:30.318225+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Aktuelles zum Krieg in der Ukraine",
+   "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+   "link": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+   "published": "2026-09-23T17:58:00+00:00",
+   "first_seen": "2026-09-23T20:04:30.318225+00:00",
    "paywall": false
   },
   {
@@ -13446,60 +13500,6 @@
    "published": "2026-09-21T05:04:07+00:00",
    "first_seen": "2026-09-21T06:05:34.475101+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Immobilien: „Der Hamburger Baustandard kann die Kosten um 30 Prozent senken“",
-   "summary": "In Deutschland sind Wohnungen knapp, doch der Neubau stockt. Drei Immobilienmanager erklären, welche Hürden es gibt und wo sich Potenzial für Wohnraum heben lässt.",
-   "link": "https://www.wiwo.de/finanzen/immobilien/immobilien-der-hamburger-baustandard-kann-die-kosten-um-30-prozent-senken/100255102.html",
-   "published": "2026-09-21T04:55:00+00:00",
-   "first_seen": "2026-09-21T05:04:21.962249+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Green Economy: Fünf Aktien für eine robustere Welt",
-   "summary": "Der Klimawandel kostet die Wirtschaft Milliarden. Unternehmen, die bei der Anpassung an Hitze und Starkregen helfen, könnten in den nächsten Jahren profitieren.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/green-economy-fuenf-aktien-fuer-eine-robustere-welt/100255098.html",
-   "published": "2026-09-21T04:55:00+00:00",
-   "first_seen": "2026-09-21T05:04:21.962249+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Neue Warnschüsse von den Rändern",
-   "summary": "Trotz der Basta-Rede des Kanzlers sind die Regierungsparteien in Aufruhr. Davon werden wir in der kommenden Woche viel sehen und hören.",
-   "link": "https://www.zdfheute.de/briefing/nach-wahlen-mecklenburg-vorpommern-berlin-cdu-spd-zimmermann-zdfheute-update-100.html",
-   "published": "2026-09-21T04:50:00+00:00",
-   "first_seen": "2026-09-21T05:04:21.962249+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Antoine Arnault: Französischer Milliardärssohn steigt bei Luxusautobauer ein",
-   "summary": "Antoine Arnault kauft Anteile bei Delage. Der französische Hersteller fertigt Fahrzeuge in Kleinserie, die mindestens zwei Millionen Euro kosten – und will nun international wachsen.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/antoine-arnault-franzoesischer-milliardaerssohn-steigt-bei-luxusautobauer-ein/100256067.html",
-   "published": "2026-09-21T04:46:49+00:00",
-   "first_seen": "2026-09-21T05:04:21.962249+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Staatsstabilität: Die Staatsverschuldung steigt rund um den Globus",
-   "summary": "Ein Weltschuldencrash in naher Zukunft ist unwahrscheinlich, doch an den Finanzmärkten wächst die Sorge. Die Bürger bekommen die Folgen auch ohne ganz große Krise zu spüren.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/staatsstabilitaet-die-staatsverschuldung-steigt-rund-um-den-globus/100256066.html",
-   "published": "2026-09-21T04:46:32+00:00",
-   "first_seen": "2026-09-21T05:04:21.962249+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Immer mehr Produktrückrufe bei Lebensmitteln",
-   "summary": "Immer mehr Lebensmittel werden vorsorglich aus dem Handel genommen, doch die Rückrufe erreichen nicht alle Verbraucher. Hinzu kommt: Es gibt nicht genug Kontrollen. Von Martin Küstermann.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html",
-   "published": "2026-09-21T04:45:15+00:00",
-   "first_seen": "2026-09-21T05:04:21.962249+00:00",
-   "paywall": false
   }
  ]
 }
