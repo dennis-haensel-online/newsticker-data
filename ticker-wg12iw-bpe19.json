@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-23T06:05:09.094731+00:00",
+ "updated": "2026-09-23T07:04:39.009934+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Wir brauchen einen neuen Leistungsanspruch in der Bildung",
+   "summary": "Ludger Wößmann, Chef des Ifo-Zentrums für Bildungsökonomik, fordert ein einheitliches Kernabitur, um den Pisa-Abstieg zu stoppen. Dass sich Reformen auszahlen, zeigen Hamburg und England.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-einen-neuen-leistungsanspruch-in-der-bildung-01/100256198.html",
+   "published": "2026-09-23T06:26:00+00:00",
+   "first_seen": "2026-09-23T07:04:39.009934+00:00",
    "paywall": true
   },
   {
@@ -514,15 +523,6 @@
    "published": "2026-09-20T02:31:00+00:00",
    "first_seen": "2026-09-20T03:04:37.719591+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Trump will „KI-Zar“ ernennen",
-   "summary": "US-Präsident: „Wachstum dieser unglaublichen Industrie in keinster Weise behindern“ +++ KI-Fehler hätte laut CNN-Bericht fast zu US-Militäreinsatz gegen chinesisches Schiff geführt +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-will-ki-zar-ernennen-faz-200452404.html",
-   "published": "2026-09-19T18:53:29+00:00",
-   "first_seen": "2026-09-19T19:03:36.370657+00:00",
-   "paywall": true
   }
  ]
 }
