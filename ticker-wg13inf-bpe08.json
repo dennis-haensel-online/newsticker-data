@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T05:03:42.883856+00:00",
+ "updated": "2026-09-23T06:05:09.094731+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: Deutschland und Niederlande fördern Entwicklung von KI-Chips",
+   "summary": "Die Entwicklung von KI-Prozessoren soll in Europa schneller vorangehen. Dafür kooperieren jetzt Deutschland und die Niederlande. Besonders in einem Gebiet gibt es Potenzial.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-deutschland-und-niederlande-foerdern-entwicklung-von-ki-chips/100256763.html",
+   "published": "2026-09-23T05:54:30+00:00",
+   "first_seen": "2026-09-23T06:05:09.094731+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: DAX leicht höher erwartet",
+   "summary": "Die KI-Rally ist zurück, zugleich setzen die Märkte auf eine weitere Entspannung im Iran-Konflikt sowie ein konstruktives Gipfeltreffen zwischen China und den USA. Der DAX dürfte etwas höher starten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
+   "published": "2026-09-23T05:41:08+00:00",
+   "first_seen": "2026-09-23T06:05:09.094731+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
+   "summary": "Deutschland und Niederlande fördern Entwicklung von KI-Chips +++ Trump will Begriff KI mit „Superintelligenz“ ersetzen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen-faz-200452404.html",
+   "published": "2026-09-23T05:14:02+00:00",
+   "first_seen": "2026-09-23T06:05:09.094731+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "KI-Wettrennen zwischen USA und China",
@@ -873,33 +900,6 @@
    "link": "https://www.wiwo.de/politik/ausland/sicherheitsrisiken-im-fokus-vor-trump-xi-gipfel-china-und-usa-sprechen-ueber-ki/100256051.html",
    "published": "2026-09-21T05:07:00+00:00",
    "first_seen": "2026-09-21T06:05:34.475101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Vor Trump-Xi-Gipfel: USA und China reden über KI-Sicherheit",
-   "summary": "Amerikas KI-Branche sieht KI als möglicherweise existenzielle Gefahr für die Menschheit. Nun haben sich die USA und China über die Risiken beim Einsatz der Technologie ausgetauscht.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/usa-und-china-starten-ki-dialog-was-steckt-dahinter-accg-201246828.html",
-   "published": "2026-09-21T05:04:07+00:00",
-   "first_seen": "2026-09-21T06:05:34.475101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte: China bremst offenbar Börsengänge von Roboter-Herstellern",
-   "summary": "Chinesische Aufsichtsbehörden prüfen wegen hoher Bewertungen mehrere geplante Börsengänge von Roboterfirmen. Auslöser ist laut Insidern unter anderem der volatile Börsenstart von Unitree Robotics.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/maerkte-china-bremst-offenbar-boersengaenge-von-roboter-herstellern/100256063.html",
-   "published": "2026-09-21T04:31:43+00:00",
-   "first_seen": "2026-09-21T05:04:21.962249+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: Die USA und China wollen sich künftig öfter über KI austauschen",
-   "summary": "US-Finanzminister Bessent verkündet Tage vor dem Treffen von US-Präsident Trump und Chinas Machthaber Xi die Einrichtung eines „Meldemechanismus“ bei gefährlichen Vorfällen.",
-   "link": "https://www.handelsblatt.com/politik/international/technologie-die-usa-und-china-wollen-sich-kuenftig-oefter-ueber-ki-austauschen/100256039.html",
-   "published": "2026-09-21T03:43:43+00:00",
-   "first_seen": "2026-09-21T04:04:02.783439+00:00",
    "paywall": true
   }
  ]
