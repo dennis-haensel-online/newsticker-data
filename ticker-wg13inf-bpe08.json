@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T10:03:57.150613+00:00",
+ "updated": "2026-09-23T11:03:55.917659+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Machtkampf um KI: \"Eine Schicksalsfrage der Menschheit\"",
+   "summary": "Künstliche Intelligenz droht zunehmend der menschlichen Kontrolle zu entgleiten. Was kann die Politik tun? Wo muss jetzt gehandelt werden? Die Debatte im auslandsjournal-Podcast.",
+   "link": "https://www.zdfheute.de/politik/ausland/ki-usa-china-chatgpt-trump-xi-jinping-100.html",
+   "published": "2026-09-23T10:55:00+00:00",
+   "first_seen": "2026-09-23T11:03:55.917659+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "US-China-Abkommen?: Künstliche Intelligenz ist keine Atomwaffe",
+   "summary": "Donald Trump trifft Xi Jinping: Zu einer Kooperation bei der KI-Sicherheit wird es nur kommen, wenn sich die USA und China auf Augenhöhe begegnen. Doch die echte Herausforderung ist nicht die Geopolitik, es sind die Unternehmer in beiden…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/donald-trump-trifft-xi-jinping-ki-ist-keine-atomwaffe-201248327.html",
+   "published": "2026-09-23T10:44:21+00:00",
+   "first_seen": "2026-09-23T11:03:55.917659+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "KI im Job: Forscher warnen vor Technostress bei körperlicher Arbeit",
+   "summary": "Menschen ohne Bürojobs berichten bei zunehmender Digitalisierung von schlechterer Gesundheit, zeigt eine Studie. Forscher sprechen von möglichem »Technostress« – und zeigen Lösungen auf.",
+   "link": "https://www.spiegel.de/wirtschaft/ki-im-job-forscher-warnen-vor-technostress-bei-koerperlicher-arbeit-a-02d82c02-a29b-4ebd-91e6-e8af92fa4769#ref=rss",
+   "published": "2026-09-23T10:29:00+00:00",
+   "first_seen": "2026-09-23T11:03:55.917659+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Timotheus Höttges: Timotheus Höttges: »KI hilft uns mit unserer Überforderung«",
+   "summary": "Schon in der Schule wollte er CEO werden. Nun leitet er die Deutschen Telekom. Im Gespräch mit Rainer Esser blickt er auf das, was er hinterlassen will.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/timotheus-hoettges-deutsche-telekom-ceo-ki",
+   "published": "2026-09-23T10:27:47+00:00",
+   "first_seen": "2026-09-23T11:03:55.917659+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
@@ -865,42 +901,6 @@
    "published": "2026-09-21T10:15:00+00:00",
    "first_seen": "2026-09-21T11:04:09.209375+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
-   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-der-bedarf-an-spezialisierten-it-fachkraeften-wird-tendenziell-hoch-bleiben/100238210.html",
-   "published": "2026-09-21T09:57:00+00:00",
-   "first_seen": "2026-09-21T11:04:09.209375+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Logistik: Kühne+Nagel winkt durch Amazon-Deal Milliardenumsatz mit KI-Logistik",
-   "summary": "Kühne+Nagel baut das Amazon-Geschäft aus und nimmt AWS als Kunden. Die Vereinbarung könnte das jährliche Volumen auf mehrere Milliarden Dollar steigern.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/logistik-kuehnenagel-winkt-durch-amazon-deal-milliardenumsatz-mit-ki-logistik/100256154.html",
-   "published": "2026-09-21T09:36:46+00:00",
-   "first_seen": "2026-09-21T10:04:08.746101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Software: Praktischer veranlagt als ChatGPT: Autodesk-KI soll Architekten effizienter machen",
-   "summary": "Autodesk ist Marktführer bei Software für Architekten. Nun setzt Firmenchef Andrew Anagnost auf KI-Agenten. Wichtig sei deren Unterschied zu gängigen Sprachmodellen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/software-praxisnaeher-als-chatgpt-autodesk-ki-soll-bauen-effizienter-machen/100255803.html",
-   "published": "2026-09-21T09:29:18+00:00",
-   "first_seen": "2026-09-21T10:04:08.746101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Logistik: Amazon-Deal könnte Kühne+Nagel Milliardenumsatz bringen",
-   "summary": "Kühne+Nagel kooperiert langfristig mit Amazon. Der Konzern übernimmt Logistikdienstleistungen für die Cloud-Sparte von Amazon. Anleger nehmen die Nachricht positiv auf.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-logistik-amazon-deal-koennte-kuehnenagel-milliardenumsatz-bringen/100256152.html",
-   "published": "2026-09-21T09:24:00+00:00",
-   "first_seen": "2026-09-21T10:04:08.746101+00:00",
-   "paywall": true
   }
  ]
 }

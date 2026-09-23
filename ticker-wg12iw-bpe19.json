@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-23T10:03:57.150613+00:00",
+ "updated": "2026-09-23T11:03:55.917659+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -12,6 +12,15 @@
    "paywall": true
   },
   {
+   "label": "tagesschau",
+   "title": "OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht an",
+   "summary": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft in diesem Jahr deutlich heraufgesetzt. Das Bruttoinlandsprodukt werde um 1,1 Prozent wachsen. Für 2027 steht ebenfalls eine positive Prognose.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
+   "published": "2026-09-23T10:13:52+00:00",
+   "first_seen": "2026-09-23T11:03:55.917659+00:00",
+   "paywall": false
+  },
+  {
    "label": "taz",
    "title": "Klimapolitik in Down Under: Australien bleibt der Kohle verpflichtet",
    "summary": "Der australische Premier warnt in New York vor der Klimakatastrophe. Zugleich exportiert Australien mehr Fossile, als es seinen Klimazielen entspräche. mehr...",
@@ -19,6 +28,15 @@
    "published": "2026-09-23T10:00:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gemeinschaftswährung: EZB: Neue Euro-Banknoten ab Anfang der 2030er Jahre",
+   "summary": "Wie sollen die Euro-Scheine künftig aussehen? Millionen Menschen haben sich an einer Umfrage der Europäischen Zentralbank beteiligt. Bis sie die neuen Banknoten in Händen halten, dauert es aber noch.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/gemeinschaftswaehrung-ezb-neue-euro-banknoten-ab-anfang-der-2030er-jahre/100256847.html",
+   "published": "2026-09-23T09:50:26+00:00",
+   "first_seen": "2026-09-23T11:03:55.917659+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
