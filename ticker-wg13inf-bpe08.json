@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T14:04:42.420718+00:00",
+ "updated": "2026-09-23T15:03:40.861103+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-physische-ki-wo-die-naechsten-ki-gewinner-warten/100252788.html",
    "published": "2026-09-23T13:59:49+00:00",
    "first_seen": "2026-09-23T14:04:42.420718+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Experten erwarten Roboter-Rally an der Börse – Diese Aktien empfehlen Analysten schon jetzt",
+   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-analysten-erwarten-roboter-rally-diese-aktien-empfehlen-sie-jetzt/100252788.html",
+   "published": "2026-09-23T13:59:49+00:00",
+   "first_seen": "2026-09-23T15:03:40.861103+00:00",
    "paywall": true
   },
   {
@@ -27,6 +36,15 @@
    "link": "https://www.wiwo.de/erfolg/management/datenschutz-warum-schnueffelnde-mitarbeiter-teuer-werden-koennen/100254688.html",
    "published": "2026-09-23T13:57:19+00:00",
    "first_seen": "2026-09-23T14:04:42.420718+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Datenschutz: Warum schnüffelnde Mitarbeiter teuer werden können",
+   "summary": "Verstoßen Mitarbeiter aus persönlichen Motiven im Job gegen den Datenschutz, riskieren sie Strafen. Doch auch Unternehmen bringen sie damit in Schwierigkeiten.",
+   "link": "https://www.wiwo.de/erfolg/management/datenschutz-warum-schnueffelnde-mitarbeiter-fuer-unternehmen-teuer-werden-koennen/100254688.html",
+   "published": "2026-09-23T13:57:19+00:00",
+   "first_seen": "2026-09-23T15:03:40.861103+00:00",
    "paywall": true
   },
   {
@@ -881,24 +899,6 @@
    "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
    "link": "https://www.handelsblatt.com/unternehmen/management/ki-die-lineare-fuehrungskarriere-ist-ein-auslaufmodell/100243656.html",
    "published": "2026-09-21T13:39:00+00:00",
-   "first_seen": "2026-09-21T14:04:13.585478+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Software: Praktischer veranlagt als ChatGPT: Autodesk-KI soll Architekten effizienter machen",
-   "summary": "Autodesk ist Marktführer bei Software für Architekten. Nun setzt Firmenchef Andrew Anagnost auf KI-Agenten. Wichtig sei deren Unterschied zu gängigen Sprachmodellen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/software-praxisnaeher-als-chatgpt-autodesk-ki-soll-bauen-effizienter-machen-01/100255803.html",
-   "published": "2026-09-21T13:31:00+00:00",
-   "first_seen": "2026-09-21T14:04:13.585478+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
-   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-technologie-werden-ceos-bald-von-kuenstlicher-intelligenz-ersetzt/100189694.html",
-   "published": "2026-09-21T13:30:00+00:00",
    "first_seen": "2026-09-21T14:04:13.585478+00:00",
    "paywall": true
   }
