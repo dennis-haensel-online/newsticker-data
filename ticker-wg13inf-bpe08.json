@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T04:04:07.692316+00:00",
+ "updated": "2026-09-23T05:03:42.883856+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "KI-Wettrennen zwischen USA und China",
+   "summary": "Nachdem KI-Entwickler vor der eigenen Technologie gewarnt haben, macht US-Präsident Trump klar, den KI-Wettstreit nicht verlangsamen zu wollen.",
+   "link": "https://www.zdfheute.de/briefing/ki-china-jung-zdfheute-update-100.html",
+   "published": "2026-09-23T04:48:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für KI",
+   "summary": "Kurz vor dem Treffen mit Xi will Trump „Artificial Intelligence“ in „Super Intelligence“ umtaufen. Er zeigt damit, dass er lieber auf absurde Symbolpolitik statt Regulierung setzt.",
+   "link": "https://www.wiwo.de/politik/ausland/donald-trumps-super-intelligence-warum-er-ki-umbenennen-will/100256688.html",
+   "published": "2026-09-23T04:35:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei-Futures und CSI 300: Asiens Börsen profitieren von KI-Boom – Anleger in China vor Xi-Reise vorsichtig",
+   "summary": "Technologiewerte zählen zu den großen Gewinnern in Asien. Sie steigen dank der starken Nachfrage nach neuen KI-Apps von Meta und Google.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-futures-und-csi-300-asiens-boersen-profitieren-von-ki-boom-anleger-in-china-vor-xi-reise-vorsichtig/100256739.html",
+   "published": "2026-09-23T03:57:35+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstlichen Intelligenz: Großbritannien will bei KI-Regeln international eine Führungsrolle",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/international/technologie-die-usa-und-china-wollen-sich-kuenftig-oefter-ueber-ki-austauschen/100256039.html",
    "published": "2026-09-21T03:43:43+00:00",
    "first_seen": "2026-09-21T04:04:02.783439+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sicherheitsrisiken im Fokus: Vor Trump-Xi-Gipfel: China und USA sprechen über KI",
-   "summary": "Handel und Künstliche Intelligenz: Hochrangige Unterhändler der USA und Chinas ringen vor einem wichtigen Treffen der Präsidenten beider Länder um gewichtige Streitthemen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/sicherheitsrisiken-im-fokus-vor-trump-xi-gipfel-china-und-usa-sprechen-ueber-ki/100256050.html",
-   "published": "2026-09-21T03:11:47+00:00",
-   "first_seen": "2026-09-21T04:04:02.783439+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Führungskräfte: Wenn KI-Agenten zu Managern werden",
-   "summary": "Neun Menschen, mehr als 100 KI-Agenten: Start-up-Gründer Dominic von Proeck erprobt, wie Unternehmen mit digitalen Mitarbeitern wachsen können – und warum dafür gute Führung entscheidend ist.",
-   "link": "https://www.handelsblatt.com/unternehmen/ki-fuehrungskraefte-wenn-ki-agenten-zu-managern-werden/100252551.html",
-   "published": "2026-09-21T02:17:07+00:00",
-   "first_seen": "2026-09-21T03:03:59.946180+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zollkrieg: USA und China bereiten Trump-Xi-Gipfel vor – Zölle im Fokus",
-   "summary": "Bei den Verhandlungen werden die Handelsbeauftragten auch über Künstliche Intelligenz sprechen. Die USA seien laut US-Finanzminister Scott Bessent offen für Gespräche.",
-   "link": "https://www.handelsblatt.com/politik/international/zollkrieg-usa-und-china-bereiten-trump-xi-gipfel-vor-zoelle-im-fokus/100255965.html",
-   "published": "2026-09-20T16:34:05+00:00",
-   "first_seen": "2026-09-20T17:03:47.751371+00:00",
    "paywall": true
   }
  ]

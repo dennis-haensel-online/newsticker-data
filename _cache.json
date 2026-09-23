@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T04:04:07.692316+00:00",
+ "updated": "2026-09-23T05:03:42.883856+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,87 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "KI-Wettrennen zwischen USA und China",
+   "summary": "Nachdem KI-Entwickler vor der eigenen Technologie gewarnt haben, macht US-Präsident Trump klar, den KI-Wettstreit nicht verlangsamen zu wollen.",
+   "link": "https://www.zdfheute.de/briefing/ki-china-jung-zdfheute-update-100.html",
+   "published": "2026-09-23T04:48:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Abkommen unterzeichnet: Grönland-Aktien im Check",
+   "summary": "Das Abkommen zwischen den USA und Dänemark lässt die Kurse von Aktien mit Grönland-Bezug hochschießen. Was Anleger wissen sollten.",
+   "link": "https://www.wiwo.de/finanzen/boerse/groenland-aktien-warum-anleger-den-hype-meiden-sollten/100256604.html",
+   "published": "2026-09-23T04:43:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Ölkrise: Pumpstation 11 bleibt zerstört, doch das Öl fließt schon bald wieder",
+   "summary": "Satellitenbilder zeigen: Saudi-Arabien repariert die Ost-West-Pipeline im Eiltempo. Was das für den Ölpreis und Lieferungen nach Europa bedeutet.",
+   "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oelpreis-pumpstation-11-bleibt-zerstoert-doch-das-oel-fliesst-schon-bald-wieder/100255697.html",
+   "published": "2026-09-23T04:40:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für KI",
+   "summary": "Kurz vor dem Treffen mit Xi will Trump „Artificial Intelligence“ in „Super Intelligence“ umtaufen. Er zeigt damit, dass er lieber auf absurde Symbolpolitik statt Regulierung setzt.",
+   "link": "https://www.wiwo.de/politik/ausland/donald-trumps-super-intelligence-warum-er-ki-umbenennen-will/100256688.html",
+   "published": "2026-09-23T04:35:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Familienunternehmen – Weniger Familie, mehr Unternehmen",
+   "summary": "Eine neue Generation an Unternehmern öffnet sich für Geldgeber von außen. Nicht aus Not, sondern weil ihnen professionelle Strukturen helfen. Was macht das mit dem klassischen Unternehmerbild?",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-familienunternehmen-weniger-familie-mehr-unternehmen/100256697.html",
+   "published": "2026-09-23T04:08:37+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Pionierprojekt: Hier beginnt die Atomkraft-Aufholjagd des Westens",
+   "summary": "Neue Mini-Reaktoren sollen der Kernenergie zum Comeback verhelfen. Bislang gibt es sie nur in China und Russland. Doch auch in der westlichen Welt wird jetzt die erste Anlage gebaut.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/small-modular-reactors-kanadas-atomkraftwerk-der-zukunft-accg-201228436.html",
+   "published": "2026-09-23T04:04:57+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Unternehmen: Private Equity erobert den Mittelstand",
+   "summary": "Eine neue Generation an Unternehmern öffnet sich für Geldgeber von außen. Nicht aus Not, sondern weil ihnen professionelle Strukturen helfen. Was macht das mit dem klassischen Unternehmerbild?",
+   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-unternehmen-private-equity-erobert-den-mittelstand/100256742.html",
+   "published": "2026-09-23T04:04:55+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Enteignen in Berlin? \"Das kann ich Ihnen garantieren\"",
+   "summary": "Bei \"Lanz\" bekräftigt Jan van Aken die Enteignungspläne seiner Linkspartei. Der Neuköllner Bezirksbürgermeister Martin Hikel (SPD) warnt dagegen vor Folgen für den Wohnungsbau.",
+   "link": "https://www.zdfheute.de/politik/deutschland/lanz-linke-enteignung-wohnung-berlin-van-aken-100.html",
+   "published": "2026-09-23T04:03:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rente: Neuer Unions-Fraktionsvize Johannes Winkel fordert Rentenreform ohne Abstriche",
+   "summary": "Der „Rentenrebell“ will die Rentenreform umsetzen – und die Rente mit 63 abschaffen. Die Maßnahmen sieht er als Gegenmittel zum Vertrauensverlust der Regierung und seiner Partei.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/rente-neuer-unionsfraktionsvize-winkel-fordert-rentenreform-ohne-abstriche/100256698.html",
+   "published": "2026-09-23T04:00:58+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
    "paywall": true
   },
   {
@@ -20,12 +101,48 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Nach der Ausbildung: Stellenangebot für Berufseinsteiger sinkt rasant",
+   "summary": "Bei den Ausbildungsplätzen in Deutschland sieht es noch recht gut aus. Danach aber gelingt es jungen Leute oft nicht, eine Stelle zu finden. Weniger Branchen bieten Chancen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-ausbildung-stellenangebot-fuer-berufseinsteiger-sinkt-rasant/100256744.html",
+   "published": "2026-09-23T04:00:10+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Riskante Deals: „Ich weiß nicht, ob es jemals einen größeren Finanzskandal im deutschen Gesundheitswesen gegeben hat“",
+   "summary": "Krankenkassen und Kassenärztliche Vereinigungen haben Hunderte Millionen Euro verzockt. Ein internes Gutachten könnte sie nun in Bedrängnis bringen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/gutachten-krankenkassen-intern-fehlinvestments-li.3548818",
+   "published": "2026-09-23T04:00:00+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
    "label": "WiWo",
    "title": "Reform der privaten Altersvorsorge: Wie lange geht die Preisschlacht ums Altersvorsorgedepot noch?",
    "summary": "Anbieter unterbieten sich bisher bei den Kosten des neuen Altersvorsorgedepots. Doch dieser Preiskampf könnte bald enden – wegen einer kaum bekannten Regel.",
    "link": "https://www.wiwo.de/finanzen/vorsorge/reform-der-privaten-altersvorsorge-wie-lange-geht-die-preisschlacht-ums-altersvorsorgedepot-noch/100256482.html",
    "published": "2026-09-23T03:59:59+00:00",
    "first_seen": "2026-09-23T04:04:07.692316+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Fahrtkosten, Fortbildung & Co: Welche beruflichen Ausgaben die Steuerlast senken können",
+   "summary": "Sprachkurs, Bewerbungsmappe oder doppelte Miete: Was alles zu den Werbungskosten zählt und wann sich die Ausgaben wirklich auszahlen. Experten-Tipps für die nächste Steuererklärung.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/fahrtkosten-fortbildung-co-welche-beruflichen-ausgaben-die-steuerlast-senken-koennen/100256743.html",
+   "published": "2026-09-23T03:59:04+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei-Futures und CSI 300: Asiens Börsen profitieren von KI-Boom – Anleger in China vor Xi-Reise vorsichtig",
+   "summary": "Technologiewerte zählen zu den großen Gewinnern in Asien. Sie steigen dank der starken Nachfrage nach neuen KI-Apps von Meta und Google.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-futures-und-csi-300-asiens-boersen-profitieren-von-ki-boom-anleger-in-china-vor-xi-reise-vorsichtig/100256739.html",
+   "published": "2026-09-23T03:57:35+00:00",
+   "first_seen": "2026-09-23T05:03:42.883856+00:00",
    "paywall": true
   },
   {
@@ -13382,123 +13499,6 @@
    "link": "https://www.zdfheute.de/wirtschaft/ddr-uran-bergbau-wismut-krebs-sowjetunion-udssr-100.html",
    "published": "2026-09-19T14:29:00+00:00",
    "first_seen": "2026-09-19T15:03:39.466657+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Wirtschaftsstandort Ostdeutschland: Was bringt eine Sonderwirtschaftszone Ost?",
-   "summary": "Zwischen den Wahlen in Sachsen-Anhalt und in Mecklenburg-Vorpommern ist die Diskussion über Sonderwirtschaftszonen in Ostdeutschland neu entflammt. Hilft das dem Standort? Oder nur der AfD?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/wuerde-eine-sonderwirtschaftszone-ostdeutschland-helfen-accg-201238474.html",
-   "published": "2026-09-19T14:17:00+00:00",
-   "first_seen": "2026-09-19T15:03:39.466657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Sachbuch über die Wohnungskrise: Aufbauprogramm für Populisten",
-   "summary": "Fehlprognosen, Blindheit, Ignoranz: „Die Wohnkrise“ beleuchtet Ausmaß und Ursachen des wachsenden sozialen Problems, das politischen Sprengstoff birgt. mehr...",
-   "link": "https://taz.de/Sachbuch-ueber-die-Wohnungskrise/!6212592/",
-   "published": "2026-09-19T14:07:00+00:00",
-   "first_seen": "2026-09-19T15:03:39.466657+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Tour de France in Ostdeutschland?: Abgefahrene Straßen",
-   "summary": "Die Tour de France soll 2029 in Ostdeutschland starten. Doch der „Grand Depart“ passt nicht so ganz zur Situation des Breitensports und zur Infrastruktur. mehr...",
-   "link": "https://taz.de/Tour-de-France-in-Ostdeutschland/!6208389/",
-   "published": "2026-09-19T14:06:00+00:00",
-   "first_seen": "2026-09-19T15:03:39.466657+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Marine Le Pen: Frankreichs Le Pen geht auf Abstand zu Russland",
-   "summary": "Der französischen Rechtsnationalen wurde immer wieder Russlandnähe nachgesagt. Nun findet die Präsidentschaftskandidatin klare Worte gegen den Kreml.",
-   "link": "https://www.wiwo.de/politik/europa/marine-le-pen-frankreichs-le-pen-geht-auf-abstand-zu-russland/100255838.html",
-   "published": "2026-09-19T14:04:59+00:00",
-   "first_seen": "2026-09-19T15:03:39.466657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Der Machtkampf um die Arktis in Karten",
-   "summary": "Der Machtkampf um die Arktis in Karten",
-   "link": "https://zdfheute-stories-scroll.zdf.de/groenland-arktis-klimawandel-militaer-rohstoffe-schifffahrt-trump/index.html",
-   "published": "2026-09-19T14:03:45+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: KI-Fehler hätte laut CNN-Bericht fast zu US-Militäreinsatz gegen chinesisches Schiff geführt",
-   "summary": "US-Soldaten sollen sich bereits auf Entern vorbereitet haben +++ Open-AI-Chef Altman spricht vor UN-Sicherheitsrat über KI-Risiken +++ Google-KI Gemini hackte ebenfalls andere Unternehmen +++ Neuigkeiten im Unternehmen-Liveblog.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cnn-ki-fehler-haette-fast-zu-us-militaereinsatz-gegen-chinesisches-schiff-gefuehrt-faz-200452404.html",
-   "published": "2026-09-19T13:57:13+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konflikte: Frankreichs Le Pen geht auf Abstand zu Russland",
-   "summary": "Der französischen Rechtsnationalen wurde immer wieder Russlandnähe nachgesagt. Nun findet die Präsidentschaftskandidatin klare Worte und wirft dem Kreml Destabilisierung und Provokation in Europa vor.",
-   "link": "https://www.handelsblatt.com/politik/international/konflikte-frankreichs-le-pen-geht-auf-abstand-zu-russland/100255839.html",
-   "published": "2026-09-19T13:54:36+00:00",
-   "first_seen": "2026-09-19T15:03:39.466657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Flughafen Findel: Drohnen legen Flughafen Luxemburg zeitweise lahm",
-   "summary": "Nicht genehmigte Drohnen über dem Flughafen Findel in Luxemburg haben den Flugbetrieb vorübergehend gestoppt. Die Behörden ermitteln.",
-   "link": "https://www.wiwo.de/politik/deutschland/flughafen-findel-drohnen-legen-flughafen-luxemburg-zeitweise-lahm/100255837.html",
-   "published": "2026-09-19T13:49:40+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "KI-Forscherin Theresa Züger: „Das Hauptproblem ist die Verantwortungslosigkeit“",
-   "summary": "Wenn Tech-CEOs vom Ende der Menschheit fabulieren, wollen sie Verantwortung verschieben. Dabei bräuchte es eine gemeinwohlorientierte KI. mehr...",
-   "link": "https://taz.de/KI-Forscherin-Theresa-Zueger/!6208301/",
-   "published": "2026-09-19T13:47:00+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Krise in der Autoindustrie: Porsche prüft laut Medienbericht Abbau von 4.000 weiteren Stellen",
-   "summary": "2026 rechnet der VW-Konzern nur mit einer Umsatzrendite von einem Prozent. Die Sparmaßnahmen bei der Tochter Porsche könnten laut »Handelsblatt« ausgeweitet werden.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose",
-   "published": "2026-09-19T13:46:33+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Krise in der Autoindustrie: Porsche prüft laut Medienbericht Abbau von 4.000 weiteren Stellen",
-   "summary": "2026 rechnet der VW-Konzern nur mit einer Umsatzrendite von einem Prozent. Die Sparmaßnahmen bei der Tochter Porsche könnten laut »Handelsblatt« ausgeweitet werden.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/porsche-vw-stellenabbau-gewinnprognose-gxe",
-   "published": "2026-09-19T13:46:33+00:00",
-   "first_seen": "2026-09-19T15:03:39.466657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Skoliose-OP: Nie wieder Rücken?",
-   "summary": "Bei einer Skoliose verkrümmt und verdreht sich die Wirbelsäule. Für Jugendliche hat das oft lebenslang schmerzhafte Folgen. Die \"dynamische Skoliose-Korrektur\" kann hier helfen.",
-   "link": "https://www.zdfheute.de/ratgeber/gesundheit/skoliose-rueckenschmerzen-operation-seil-100.html",
-   "published": "2026-09-19T13:42:00+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Großbritanniens verlorene Generation",
-   "summary": "Sie schaffen es nicht in eine Ausbildung oder finden einfach keinen Job: Die britische Jugend ist in einer Krise. Viele hängen fest in der Sozialhilfe. Das Land sucht Lösungen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/grossbritannien-jugend-jobsuche-job-ausbildung-neet-100.html",
-   "published": "2026-09-19T13:41:00+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
    "paywall": false
   }
  ]
