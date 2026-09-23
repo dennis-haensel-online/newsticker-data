@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-23T08:04:19.646872+00:00",
+ "updated": "2026-09-23T09:03:53.684737+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Konjunktur in Deutschland: OECD hebt Prognose deutlich auf plus 1,1 Prozent an",
+   "summary": "Nach den führenden Wirtschaftsforschungsinstituten hebt auch die OECD ihre Konjunkturprognose für Deutschland an. Zugleich warnen die Ökonomen.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-oecd-hebt-prognose-deutlich-auf-plus-1-1-prozent-an-a-c3393451-089f-4b68-8d32-d893dde7fa12#ref=rss",
+   "published": "2026-09-23T09:01:00+00:00",
+   "first_seen": "2026-09-23T09:03:53.684737+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Umfragen deuten auf deutlich stärkeres Wachstum in Deutschland und Europa hin",
+   "summary": "Die Einkaufsmanagerindizes für Deutschland und Europa übertreffen die Erwartungen deutlich. Vor allem die deutsche Industrie treibt das Wachstum an.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umfrage-deutet-auf-deutlich-staerkeres-wachstum-im-euro-raum-hin/100256806.html",
+   "published": "2026-09-23T08:47:05+00:00",
+   "first_seen": "2026-09-23T09:03:53.684737+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: OECD erhöht Wachstumsprognose für Deutschland – „Reformen voranbringen“",
+   "summary": "Das deutsche Wirtschaftswachstum zieht trotz Krisen und Unsicherheiten langsam wieder an. KI-Boom, Exporte und staatliche Investitionen treiben die Erholung.",
+   "link": "https://www.wiwo.de/politik/konjunktur/wegen-ki-boom-und-exporten-oecd-erhoeht-wachstumsprognose-fuer-deutschland/100256796.html",
+   "published": "2026-09-23T08:47:00+00:00",
+   "first_seen": "2026-09-23T09:03:53.684737+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studiengaenge-bleiben-trotz-ki-boom-aussichtsreich/100235558.html",
+   "published": "2026-09-23T08:43:00+00:00",
+   "first_seen": "2026-09-23T09:03:53.684737+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Prognose: OECD erhöht Wachstumsprognose für die  deutsche Wirtschaft",
+   "summary": "Für die Weltwirtschaft rechnet die OECD für 2026 und 2027 mit einem Wachstum von 2,9 und 3,0 Prozent. Exporte wachsen laut Experten auch durch den KI-Boom überraschend kräftig.",
+   "link": "https://www.handelsblatt.com/unternehmen/prognose-oecd-erhoeht-wachstumsprognose-fuer-die-deutsche-wirtschaft/100256794.html",
+   "published": "2026-09-23T08:14:26+00:00",
+   "first_seen": "2026-09-23T09:03:53.684737+00:00",
    "paywall": true
   },
   {
@@ -532,24 +577,6 @@
    "published": "2026-09-20T10:17:56+00:00",
    "first_seen": "2026-09-20T11:04:00.330196+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: IW-Forscher verdreifachen Prognose – Plus von 1,2 Prozent erwartet",
-   "summary": "Die deutsche Wirtschaft wächst stärker als erwartet. Doch es gibt Risiken.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-iw-forscher-verdreifachen-prognose-plus-von-12-prozent-erwartet/100255910.html",
-   "published": "2026-09-20T07:38:48+00:00",
-   "first_seen": "2026-09-20T08:03:57.371713+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Wirtschaftswachstum: Ökonomen verdreifachen Prognose für Deutschland",
-   "summary": "Wirtschaftsforscher erwarten für Deutschland jetzt 1,2 Prozent Wachstum. Weit mehr als noch vor Kurzem. Auch das nächste Jahr sehen sie positiv. Zwei Wachstumsjahre seien schon ein Erfolg. Doch Risiken bleiben.",
-   "link": "https://www.spiegel.de/wirtschaft/wirtschaftswachstum-oekonomen-verdreifachen-prognose-fuer-deutschland-a-47cc64ee-ef7e-4e86-9244-dc6ecc0053ca#ref=rss",
-   "published": "2026-09-20T07:00:00+00:00",
-   "first_seen": "2026-09-20T08:03:57.371713+00:00",
-   "paywall": false
   }
  ]
 }
