@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-23T07:04:39.009934+00:00",
+ "updated": "2026-09-23T08:04:19.646872+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Herbstgutachten: OECD hebt Wachstumsprognose für Deutschland deutlich an",
+   "summary": "Die Organisation schätzt die Lage in Deutschland erheblich rosiger ein als vor dem Sommer. Chefökonom Stefano Scarpetta sieht den Tankrabatt jedoch kritisch – und mahnt die Bundesregierung zu Reformen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/deutschland-wirtschaftswachstum-oecd-prognose-li.3552119",
+   "published": "2026-09-23T08:00:00+00:00",
+   "first_seen": "2026-09-23T08:04:19.646872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-ab-welchem-vermoegen-gelten-sie-in-deutschland-als-reich/100149729.html",
+   "published": "2026-09-23T07:31:00+00:00",
+   "first_seen": "2026-09-23T08:04:19.646872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "EZB: Leitzinsniveau könnte Wirtschaft in der Zukunft leicht bremsen",
+   "summary": "Bundesbankchef Joachim Nagel warnt bei dauerhaft hohen Energiepreisen vor einer strafferen Geldpolitik der EZB. Zugleich sieht er die Gefahr einer neuen Lohn-Preis-Spirale als begrenzt an.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/ezb-leitzinsniveau-koennte-wirtschaft-in-der-zukunft-leicht-bremsen/100256783.html",
+   "published": "2026-09-23T07:25:09+00:00",
+   "first_seen": "2026-09-23T08:04:19.646872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Halbjahreszahlen: Konsum auf Pump treibt Wachstum der Kreditbanken",
+   "summary": "Mehr neue Kredite für den privaten Konsum, weniger für betriebliche Investitionen. Die Halbjahresbilanz der Kreditbanken hat zwei Seiten. Ihr Verband appelliert an die Politik.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/halbjahreszahlen-konsum-auf-pump-treibt-wachstum-der-kreditbanken/100256776.html",
+   "published": "2026-09-23T07:00:04+00:00",
+   "first_seen": "2026-09-23T08:04:19.646872+00:00",
    "paywall": true
   },
   {
@@ -513,15 +549,6 @@
    "link": "https://www.spiegel.de/wirtschaft/wirtschaftswachstum-oekonomen-verdreifachen-prognose-fuer-deutschland-a-47cc64ee-ef7e-4e86-9244-dc6ecc0053ca#ref=rss",
    "published": "2026-09-20T07:00:00+00:00",
    "first_seen": "2026-09-20T08:03:57.371713+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Wirtschaftsweise Veronika Grimm kritisiert neuen Tankrabatt scharf",
-   "summary": "Die geplante Entlastung an der Zapfsäule geht laut Veronika Grimm auf Kosten der jungen Generation. Die Wirtschaftsweise warnt: Derartig kurzsichtige Aktionen könnten mittelfristig drastische Konsequenzen haben.",
-   "link": "https://www.spiegel.de/wirtschaft/wirtschaftsweise-veronika-grimm-kritisiert-neuen-tankrabatt-scharf-a-9a7b83fd-da6f-4e40-9359-f2234f8cb33e#ref=rss",
-   "published": "2026-09-20T02:31:00+00:00",
-   "first_seen": "2026-09-20T03:04:37.719591+00:00",
    "paywall": false
   }
  ]
