@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T11:03:55.917659+00:00",
+ "updated": "2026-09-23T12:05:32.749529+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Börse feiert Metas neuen KI-Hit – Zuckerberg nutzt geschickt seine größte Macht",
+   "summary": "Millionen Downloads in zwei Wochen, elf Prozent Kursplus in einem Tag: Analysten feiern Muse als „Killer App“. Dabei wiederholte Meta nur ein gnadenloses Erfolgsrezept.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-boerse-feiert-muse-zuckerberg-nutzt-geschickt-seine-groesste-macht/100256800.html",
+   "published": "2026-09-23T11:12:53+00:00",
+   "first_seen": "2026-09-23T12:05:32.749529+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Machtkampf um KI: \"Eine Schicksalsfrage der Menschheit\"",
@@ -10,6 +19,15 @@
    "published": "2026-09-23T10:55:00+00:00",
    "first_seen": "2026-09-23T11:03:55.917659+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Soziales: Regierung will Sozialbetrug eindämmen - KI gegen Kriminelle",
+   "summary": "Schrottimmobilien, Betrug bei Behörden, kriminelle Strukturen: Sozialleistungen werden immer wieder mit üblen Machenschaften erschlichen. Die Regierung setzt an verschiedenen Stellen dagegen an.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/soziales-regierung-will-sozialbetrug-eindaemmen-ki-gegen-kriminelle/100256873.html",
+   "published": "2026-09-23T10:46:06+00:00",
+   "first_seen": "2026-09-23T12:05:32.749529+00:00",
+   "paywall": true
   },
   {
    "label": "FAZ",
@@ -882,24 +900,6 @@
    "link": "https://taz.de/Einfluss-von-KI-auf-Landwirtschaft/!6206432/",
    "published": "2026-09-21T11:05:00+00:00",
    "first_seen": "2026-09-21T12:04:58.804847+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Skoda setzt auf Interims-Chef",
-   "summary": "Berentzen wird amerikanisch +++ Autobauer melden ungewöhnlich schwaches erstes Halbjahr +++ Umsatz gegen internationalen Trend rückläufig +++ Trump will „KI-Zar“ ernennen +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-skoda-setzt-auf-interims-chef-holger-peters-faz-200452404.html",
-   "published": "2026-09-21T10:47:24+00:00",
-   "first_seen": "2026-09-21T11:04:09.209375+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "81. UN-Generalversammlung in New York: Kriege und KI im Fokus des UN-Gipfels",
-   "summary": "Bei der jährlichen UN-Vollversammlung stehen wieder aktuelle Krisen und Herausforderungen im Mittelpunkt, echte Durchbrüche sind nicht zu erwarten. mehr...",
-   "link": "https://taz.de/81-UN-Generalversammlung-in-New-York/!6214845/",
-   "published": "2026-09-21T10:15:00+00:00",
-   "first_seen": "2026-09-21T11:04:09.209375+00:00",
    "paywall": false
   }
  ]
