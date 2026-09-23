@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-23T09:03:53.684737+00:00",
+ "updated": "2026-09-23T10:03:57.150613+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Klimapolitik in Down Under: Australien bleibt der Kohle verpflichtet",
+   "summary": "Der australische Premier warnt in New York vor der Klimakatastrophe. Zugleich exportiert Australien mehr Fossile, als es seinen Klimazielen entspräche. mehr...",
+   "link": "https://taz.de/Klimapolitik-in-Down-Under/!6215574/",
+   "published": "2026-09-23T10:00:00+00:00",
+   "first_seen": "2026-09-23T10:03:57.150613+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Beyond the obvious: Nach dem Versagen der Währungshüter",
+   "summary": "Beinahe wäre Ricardo Reis IWF-Chefvolkswirt geworden. Daniel Stelter sprach bereits 2022 mit ihm über die Verantwortung der Notenbanken für die Inflation. Seine Diagnose bleibt relevant.",
+   "link": "https://www.handelsblatt.com/audio/bto/beyond-the-obvious-nach-dem-versagen-der-waehrungshueter/100256748.html",
+   "published": "2026-09-23T09:28:19+00:00",
+   "first_seen": "2026-09-23T10:03:57.150613+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Standort Deutschland: „Auf den nächsten Aufschwung zu warten, ist keine Option“",
+   "summary": "Eine exklusive Roland-Berger-Studie zeigt, wie Sanierungsexperten die Lage der deutschen Wirtschaft bewerten – und in welchen Branchen es brennt.",
+   "link": "https://www.wiwo.de/unternehmen/handel/restrukturierung-roland-berger-warnt-vor-dauer-stagnation-in-deutschland/100256544.html",
+   "published": "2026-09-23T09:25:18+00:00",
+   "first_seen": "2026-09-23T10:03:57.150613+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trotz Iran-Krieg: Bessere Aussichten für deutsche Wirtschaft",
+   "summary": "Die OECD hebt ihre Prognose für die deutsche Wirtschaft an: Für dieses Jahr erwartet sie nun 1,1 Prozent Wachstum. Doch Risiken bleiben - durch Konflikte, Extremwetter und KI.",
+   "link": "https://www.zdfheute.de/wirtschaft/oecd-konjunktur-prognose-aufschwung-100.html",
+   "published": "2026-09-23T09:21:00+00:00",
+   "first_seen": "2026-09-23T10:03:57.150613+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "OECD-Prognose: OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht",
+   "summary": "Die deutsche Wirtschaft könnte sich laut OECD besser entwickeln als zuletzt geschätzt. Diese Prognose unterliege allerdings einer hohen Unsicherheit.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/oecd-prognose-wirtschaftswachstum-deutschland-europa-iran-gxe",
+   "published": "2026-09-23T09:19:52+00:00",
+   "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": true
   },
   {
@@ -568,15 +613,6 @@
    "published": "2026-09-20T14:03:00+00:00",
    "first_seen": "2026-09-20T15:03:44.800932+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: US-Präsident Trump kündigt „AI Force“ zur KI-Regulierung an",
-   "summary": "Führende Köpfe der KI-Labore fürchten einen Kontrollverlust durch Künstliche Intelligenz. Trump setzt weiter auf die Technologie – und will ihr Wachstum persönlich beaufsichtigen.",
-   "link": "https://www.handelsblatt.com/politik/international/technologie-us-praesident-trump-kuendigt-ai-force-zur-ki-regulierung-an/100255925.html",
-   "published": "2026-09-20T10:17:56+00:00",
-   "first_seen": "2026-09-20T11:04:00.330196+00:00",
-   "paywall": true
   }
  ]
 }
