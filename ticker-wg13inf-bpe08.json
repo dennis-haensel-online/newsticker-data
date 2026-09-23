@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T21:04:28.853642+00:00",
+ "updated": "2026-09-23T22:04:07.822242+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "KI-Chefs in New York: „KI könnte ein Risiko für die ganze Menschheit sein“",
+   "summary": "Die Vorstandschefs von Anthropic und Open AI sprechen vor den Vereinten Nationen über die Gefahren Künstlicher Intelligenz – und fordern globale Zusammenarbeit.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/sam-altman-und-dario-amodei-warnen-vor-ki-risiken-201257130.html",
+   "published": "2026-09-23T21:28:28+00:00",
+   "first_seen": "2026-09-23T22:04:07.822242+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
@@ -892,15 +901,6 @@
    "published": "2026-09-21T16:13:49+00:00",
    "first_seen": "2026-09-21T17:03:39.251356+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Google muss 400 Millionen Euro Strafe zahlen",
-   "summary": "Google muss wegen Verstößen gegen europäische Datenschutzregeln mehr als 400 Millionen Euro Strafe zahlen. Im Fokus steht der Umgang mit Standortdaten von Nutzern.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/google-strafe-standortdaten-datenschutz-100.html",
-   "published": "2026-09-21T15:56:00+00:00",
-   "first_seen": "2026-09-21T16:04:16.102477+00:00",
-   "paywall": false
   }
  ]
 }
