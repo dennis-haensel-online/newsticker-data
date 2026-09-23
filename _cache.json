@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T22:04:07.822242+00:00",
+ "updated": "2026-09-23T23:03:19.047516+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vereinte Nationen: Wadephul wirft Moskau gefährliche Eskalation in Europa vor",
+   "summary": "Der deutsche Außenminister spricht im UN-Sicherheitsrat zum russischen Angriffskrieg gegen die Ukraine. Russlands hybride Angriffe haben ihm zufolge eine neue Stufe erreicht.",
+   "link": "https://www.handelsblatt.com/politik/international/vereinte-nationen-wadephul-wirft-moskau-gefaehrliche-eskalation-in-europa-vor/100256972.html",
+   "published": "2026-09-23T22:36:11+00:00",
+   "first_seen": "2026-09-23T23:03:19.047516+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Reform: CSU zu Frühverrentung – Härtefälle ja, Regelfälle nein",
+   "summary": "Union und SPD beraten einem Bericht zufolge, die abschlagsfreie Rente künftig erst nach bis zu 47 Beitragsjahren zu ermöglichen. Die CSU will sie zudem auf Härtefälle begrenzen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/reform-csu-zu-fruehverrentung-haertefaelle-ja-regelfaelle-nein/100256968.html",
+   "published": "2026-09-23T22:25:02+00:00",
+   "first_seen": "2026-09-23T23:03:19.047516+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Staatsbesuch: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
+   "summary": "Chinas Präsident Xi Jinping ist zu einem Besuch in Washington gelandet. Für den Chinesen ist es die erste USA-Reise seit rund drei Jahren.",
+   "link": "https://www.handelsblatt.com/politik/international/staatsbesuch-chinas-praesident-xi-zu-staatsbesuch-in-den-usa-angekommen/100256969.html",
+   "published": "2026-09-23T22:17:31+00:00",
+   "first_seen": "2026-09-23T23:03:19.047516+00:00",
    "paywall": true
   },
   {
@@ -13472,33 +13499,6 @@
    "link": "https://www.zdfheute.de/politik/ausland/usa-abschiebungen-drittlaender-trump-abkommen-100.html",
    "published": "2026-09-21T05:34:00+00:00",
    "first_seen": "2026-09-21T07:05:57.632400+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Krise in der Auto-Industrie: IG Metall ruft Automobil-Beschäftigte bundesweit zum Protest",
-   "summary": "Die Automobilbranche steht für viele gut bezahlte Jobs in Deutschland. Doch Gewerkschafter warnen vor immer neuen Einschnitten für die Beschäftigten.",
-   "link": "https://www.wiwo.de/unternehmen/auto/krise-in-der-auto-industrie-ig-metall-ruft-automobil-beschaeftigte-bundesweit-zum-protest/100256026.html",
-   "published": "2026-09-21T05:32:00+00:00",
-   "first_seen": "2026-09-21T06:05:34.475101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Anleger nehmen Wahlausgang gelassen auf",
-   "summary": "Das Gesprächsthema am Aktienmarkt werden heute die Wahlausgänge in Mecklenburg-Vorpommern und Berlin sein. Der sinkende Ölpreis stützt den DAX, vor allem die Konjunktur dürfte in dieser Woche im Blickpunkt stehen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
-   "published": "2026-09-21T05:28:55+00:00",
-   "first_seen": "2026-09-21T06:05:34.475101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Berlin und Mecklenburg-Vorpommern: Fünf Lehren aus den Wahlen",
-   "summary": "Es gibt ein Rezept gegen die AfD, und das größte Problem der CDU ist nicht der Kanzler: Fünf Lehren aus den Landtagswahlen. mehr...",
-   "link": "https://taz.de/Berlin-und-Mecklenburg-Vorpommern/!6214911/",
-   "published": "2026-09-21T05:27:00+00:00",
-   "first_seen": "2026-09-21T06:05:34.475101+00:00",
    "paywall": false
   }
  ]
