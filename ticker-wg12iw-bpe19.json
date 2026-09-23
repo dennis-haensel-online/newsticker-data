@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-23T15:03:40.861103+00:00",
+ "updated": "2026-09-23T16:04:21.482954+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "UN-Hochseeschutzabkommen: Deutschland ist wichtigem Umweltabkommen beigetreten",
+   "summary": "Schutzgebiete, nachhaltige Nutzung, gerechte Verteilung der Ressourcen – das UN-Hochseeabkommen gilt als Meilenstein für den Schutz der Ozeane. mehr...",
+   "link": "https://taz.de/UN-Hochseeabkommen-Deutschland-tritt-wichtigem-Umweltabkommen-bei/!6215566/",
+   "published": "2026-09-23T15:55:00+00:00",
+   "first_seen": "2026-09-23T16:04:21.482954+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Teure Tankregel, Knebelverträge und gute Wirtschafts-News",
+   "summary": "Der ADAC kritisiert die 12-Uhr-Regel, Deutschland kauft Kampfjets mit Einschränkungen und die OECD hebt ihre Wachstumsprognose an.",
+   "link": "https://www.zdfheute.de/briefing/adac-tanken-kampfjets-oecd-prognose-zdfheute-update-100.html",
+   "published": "2026-09-23T15:11:00+00:00",
+   "first_seen": "2026-09-23T16:04:21.482954+00:00",
+   "paywall": false
   },
   {
    "label": "SZ",

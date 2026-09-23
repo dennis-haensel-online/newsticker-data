@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T15:03:40.861103+00:00",
+ "updated": "2026-09-23T16:04:21.482954+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Asia Techonomics: Toyota mobilisiert 400.000 Roboter für die Fabriken der Zukunft",
+   "summary": "Roboter sollen den Menschen nicht ersetzen, verspricht Toyota. Die Zahlen erzählen eine andere Geschichte. Ein Blick auf die leise Roboteroffensive des Weltmarktführers.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/toyota-mobilisiert-400.000-roboter-fuer-die-fabriken-der-zukunft/100256749.html",
+   "published": "2026-09-23T15:26:17+00:00",
+   "first_seen": "2026-09-23T16:04:21.482954+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Geldanlage: Physische KI – Wo die nächsten KI-Gewinner warten",
@@ -91,6 +100,15 @@
    "published": "2026-09-23T12:09:27+00:00",
    "first_seen": "2026-09-23T13:05:48.292411+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Zu Tisch beim Roboter in Leipzig",
+   "summary": "Im Leipziger Hauptbahnhof hat das erste Roboterrestaurant „Robyn’s“ eröffnet. Dort können bis zu 100 Gerichte pro Stunde frisch zubereitet werden. Auslöser für das Konzept war der Personalmangel.",
+   "link": "https://www.zdfheute.de/video/heute-in-deutschland/zu-tisch-beim-roboter-in-leipzig-100.html",
+   "published": "2026-09-23T12:00:00+00:00",
+   "first_seen": "2026-09-23T16:04:21.482954+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -881,24 +899,6 @@
    "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
    "link": "https://www.handelsblatt.com/technik/ki/technologie-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html",
    "published": "2026-09-21T13:42:00+00:00",
-   "first_seen": "2026-09-21T14:04:13.585478+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-auf-diese-kompetenzen-achten-headhunter-in-zeiten-von-ki/100240522.html",
-   "published": "2026-09-21T13:40:00+00:00",
-   "first_seen": "2026-09-21T14:04:13.585478+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
-   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
-   "link": "https://www.handelsblatt.com/unternehmen/management/ki-die-lineare-fuehrungskarriere-ist-ein-auslaufmodell/100243656.html",
-   "published": "2026-09-21T13:39:00+00:00",
    "first_seen": "2026-09-21T14:04:13.585478+00:00",
    "paywall": true
   }
