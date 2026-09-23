@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-23T01:04:13.216012+00:00",
+ "updated": "2026-09-23T02:04:13.086002+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstlichen Intelligenz: Großbritannien will bei KI-Regeln international eine Führungsrolle",
+   "summary": "London will feindliche Informationsangriffe mit einem neuen Abwehrzentrum bekämpfen. Globale KI-Standards sollen Thema der britischen G20-Präsidentschaft werden.",
+   "link": "https://www.handelsblatt.com/politik/international/kuenstlichen-intelligenz-grossbritannien-will-bei-ki-regeln-international-eine-fuehrungsrolle/100256711.html",
+   "published": "2026-09-23T01:54:48+00:00",
+   "first_seen": "2026-09-23T02:04:13.086002+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für Künstliche Intelligenz",
@@ -892,15 +901,6 @@
    "published": "2026-09-20T16:34:05+00:00",
    "first_seen": "2026-09-20T17:03:47.751371+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Russland meldet Cyberangriffe auf Wahl-Infrastruktur",
-   "summary": "Während der laufenden Parlamentswahl in Russland meldete die Wahlkommission eine Welle von Cyberangriffen. Wer dafür verantwortlich sein soll, ist unklar.",
-   "link": "https://www.zdfheute.de/politik/ausland/russland-cyber-angriff-wahl-100.html",
-   "published": "2026-09-20T15:54:00+00:00",
-   "first_seen": "2026-09-20T16:04:00.828089+00:00",
-   "paywall": false
   }
  ]
 }

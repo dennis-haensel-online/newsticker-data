@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T01:04:13.216012+00:00",
+ "updated": "2026-09-23T02:04:13.086002+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstlichen Intelligenz: Großbritannien will bei KI-Regeln international eine Führungsrolle",
+   "summary": "London will feindliche Informationsangriffe mit einem neuen Abwehrzentrum bekämpfen. Globale KI-Standards sollen Thema der britischen G20-Präsidentschaft werden.",
+   "link": "https://www.handelsblatt.com/politik/international/kuenstlichen-intelligenz-grossbritannien-will-bei-ki-regeln-international-eine-fuehrungsrolle/100256711.html",
+   "published": "2026-09-23T01:54:48+00:00",
+   "first_seen": "2026-09-23T02:04:13.086002+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Spritpreise: ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
+   "summary": "Seit April dürfen nur um 12 Uhr die Spritpreise an den Tankstellen erhöht werden. Der ADAC kritisiert, dass die Regel vor allem zu noch größeren Preisschwankungen im Tagesverlauf geführt habe.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-adac-fordert-abschaffung-der-12-uhr-regel-an-tankstellen/100256713.html",
+   "published": "2026-09-23T01:41:04+00:00",
+   "first_seen": "2026-09-23T02:04:13.086002+00:00",
    "paywall": true
   },
   {
@@ -13482,24 +13500,6 @@
    "published": "2026-09-19T11:56:29+00:00",
    "first_seen": "2026-09-19T13:03:30.109118+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Experte rechnet mit zwei neuen Militärbasen",
-   "summary": "Der Streit um Grönland scheint mit dem Deal ein Ende zu finden, meint Arktis-Experte Michael Paul. Bei ZDFheute live ordnet er ein, wie die USA ihre Militärpräsenz vor Ort ausgestalten könnte.",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/groenland-abkommen-usa-daenemark-paul-100.html",
-   "published": "2026-09-19T11:53:00+00:00",
-   "first_seen": "2026-09-19T14:03:57.163040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Porsche: Personalabbau könnte drastischer ausfallen – weitere 4000 Jobs bedroht",
-   "summary": "Der Personalabbau bei Porsche könnte drastischer ausfallen als bekannt. Laut einem Zeitungsbericht steht in einer Aufsichtratsvorlage für den Mutterkonzern VW die Streichung von weiteren 4000 weiteren Jobs.",
-   "link": "https://www.spiegel.de/wirtschaft/porsche-personalabbau-koennte-drastischer-ausfallen-weitere-4000-jobs-bedroht-a-8d3666e5-11e0-41f7-b799-7a14f6830353#ref=rss",
-   "published": "2026-09-19T11:52:00+00:00",
-   "first_seen": "2026-09-19T12:04:43.498374+00:00",
-   "paywall": false
   }
  ]
 }
