@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T21:04:00.159110+00:00",
+ "updated": "2026-09-24T22:04:10.464457+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Die Zukunft hat in Deutschland keine Lobby",
+   "summary": "Laufen unsere Kinder eines Tages im VW-Werk Schlittschuh? Reisen nach Boston und Shenzhen zeigen, wie Transformation und Aufstieg gelingen – wenn man sie wirklich will.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/kommentar-die-zukunft-hat-in-deutschland-keine-lobby/100257074.html",
+   "published": "2026-09-24T21:35:22+00:00",
+   "first_seen": "2026-09-24T22:04:10.464457+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Trumps Diesel-Exportstopp: Der absurde Umweg über Asien, der Ihren Diesel verteuert",
+   "summary": "Donald Trump erwägt einen Exportstopp für US‑Diesel. Warum Europa neue Preisschübe fürchten muss und wie Konzerne in Südkorea und Indien profitieren.",
+   "link": "https://www.wiwo.de/unternehmen/energie/spritpreis-donald-trumps-drohendes-diesel-chaos-einmal-richtig-erklaert/100256888.html",
+   "published": "2026-09-24T21:05:00+00:00",
+   "first_seen": "2026-09-24T22:04:10.464457+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Unternehmen: Starbucks schließt 250 Filialen in Nordamerika",
+   "summary": "Die US-Kaffeehauskette setzt ihren Sparkurs fort und gibt unrentable Standorte auf. Die Schließungen kosten den Konzern 300 Millionen Dollar.",
+   "link": "https://www.handelsblatt.com/unternehmen/unternehmen-starbucks-schliesst-250-filialen-in-nordamerika/100257285.html",
+   "published": "2026-09-24T20:57:43+00:00",
+   "first_seen": "2026-09-24T22:04:10.464457+00:00",
    "paywall": true
   },
   {
@@ -44,6 +71,15 @@
    "link": "https://www.zdf.de/video/dokus/die-akte-trump-100/zdfinfo-die-akte-trump-banden-bosse-bukele-deal-mit-el-salvador-100",
    "published": "2026-09-24T19:45:00+00:00",
    "first_seen": "2026-09-24T20:04:37.639273+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Kölner Oper: Wiedereröffnung nach 14 Jahren",
+   "summary": "Nach 14 Jahren Sanierung wird die Kölner Oper wiedereröffnet. Die Kosten sind fast sechsmal so hoch wie geplant. Wie kam es zu Verzögerungen und Mehrkosten?",
+   "link": "https://www.zdfheute.de/video/heute-journal/muellerrussell-oper-koeln-100.html",
+   "published": "2026-09-24T19:45:00+00:00",
+   "first_seen": "2026-09-24T22:04:10.464457+00:00",
    "paywall": false
   },
   {
@@ -818,6 +854,15 @@
    "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235222",
    "published": "2026-09-24T14:44:00+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Brandenburger Elchbulle Bert ist tot",
+   "summary": "Trauer um Elch Bert: Fast neun Jahre lang wurde das Tier per GPS überwacht. Nun ist Brandenburgs bekanntester Elch gestorben. Seine Todesursache wird nun untersucht.",
+   "link": "https://www.zdfheute.de/video/hallo-deutschland/elch-bert-brandenburg-100.html",
+   "published": "2026-09-24T14:44:00+00:00",
+   "first_seen": "2026-09-24T22:04:10.464457+00:00",
    "paywall": false
   },
   {
@@ -13455,51 +13500,6 @@
    "published": "2026-09-22T04:14:25+00:00",
    "first_seen": "2026-09-22T05:04:14.050566+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing Podcast: Wahlen: Sozialpolitik schlägt Wirtschaftspolitik / Konjunktur: Wachstum zieht an",
-   "summary": "Typischer Merz-Fehler oder echte Schubumkehr? Egal. Hinter Friedrich Merz' Zweifel am Gesundheitssystem steckt eine grundsätzliche Frage, die sich gerade stellt.",
-   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-wahlen-sozialpolitik-schlaegt-wirtschaftspolitik---konjunktur-wachstum-zieht-an/100256397.html",
-   "published": "2026-09-22T04:02:19+00:00",
-   "first_seen": "2026-09-22T05:04:14.050566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Windenergiebranche: Milliardenpoker um Offshore-Parks",
-   "summary": "In der deutschen Nordsee wollte BP zwei riesige Windparks bauen. Doch die Arbeiten an den Projekten sind offenbar seit Monaten eingestellt. Das zeigen Recherchen von NDR, WDR und SZ.",
-   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bp-offshore-windparks-100.html",
-   "published": "2026-09-22T04:00:16+00:00",
-   "first_seen": "2026-09-22T11:04:20.063643+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Notaufnahmen: \"Nackt im Sturm des Kostendrucks\"",
-   "summary": "Eine neue Umfrage zeigt: Fast jede zweite Notaufnahme in Deutschland ist überlastet - teilweise so stark, dass die Patientensicherheit gefährdet ist. Was sagen betroffene Ärzte?",
-   "link": "https://www.zdfheute.de/politik/deutschland/notaufnahme-patient-gesundheitssystem-ueberlastet-zdf-frontal-100.html",
-   "published": "2026-09-22T04:00:00+00:00",
-   "first_seen": "2026-09-22T04:03:57.050979+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Offshore-Windkraft: Wie der Rückzug eines Unternehmens die Energiewende verzögern könnte",
-   "summary": "Bei milliardenschweren Windparks zur See droht der Stillstand, weil eine BP-Tochter offenbar das Interesse an den Projekten verliert. Es droht ein Dämpfer für die Industrie – aber eine einfache Antwort gibt es nicht.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/windpark-projekte-oceanbeat-nordsee-netzanschluss-deutschland-li.3551465",
-   "published": "2026-09-22T04:00:00+00:00",
-   "first_seen": "2026-09-22T05:04:14.050566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Notfall Notaufnahme",
-   "summary": "Jede Minute zählt. Doch viele Notaufnahmen arbeiten längst am Limit. frontal inside blickt hinter die Recherche - zeigt, wie Personalmangel, Kostendruck und Überlastung Patienten gefährden kann.",
-   "link": "https://www.zdfheute.de/video/frontal/inside-notaufnahme-frontal-100.html",
-   "published": "2026-09-22T04:00:00+00:00",
-   "first_seen": "2026-09-22T05:04:14.050566+00:00",
-   "paywall": false
   }
  ]
 }
