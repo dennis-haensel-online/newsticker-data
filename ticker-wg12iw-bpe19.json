@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T20:04:37.639273+00:00",
+ "updated": "2026-09-24T21:04:00.159110+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Börsen schließen kaum verändert – Zinssorgen belasten Anleger",
+   "summary": "Inflationsrisiken, Unsicherheiten bei den Ölpreisen und US-Staatsfinanzen machten der Wall Street am Donnerstag zu schaffen. Investoren achteten auf Ergebnisse aus dem Treffen von Xi und Trump.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-kaum-veraendert-zinssorgen-belasten-anleger/100257196.html",
+   "published": "2026-09-24T19:26:00+00:00",
+   "first_seen": "2026-09-24T21:04:00.159110+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaften-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-jobsicherheit/100256579.html",
    "published": "2026-09-22T12:05:31+00:00",
    "first_seen": "2026-09-22T13:04:39.989008+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Inflation: Wegen Energiekosten rechnet EZB-Chefvolkswirt mit anhaltender Inflation",
-   "summary": "Öl und Gas verteuern sich erneut: EZB-Chefvolkswirt Philip Lane sieht die Inflation in der Eurozone länger über dem Zielwert.",
-   "link": "https://www.wiwo.de/unternehmen/banken/inflation-wegen-energiekosten-rechnet-ezb-chefvolkswirt-mit-anhaltender-inflation/100256549.html",
-   "published": "2026-09-22T11:21:39+00:00",
-   "first_seen": "2026-09-22T12:04:46.064409+00:00",
    "paywall": true
   }
  ]
