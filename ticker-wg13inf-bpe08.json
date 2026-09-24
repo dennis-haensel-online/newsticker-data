@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T08:04:17.551928+00:00",
+ "updated": "2026-09-24T09:04:15.470239+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Diese fünf Branchen sorgen für Aufschwung in der Wirtschaft",
+   "summary": "Mehr Staatsausgaben, überraschend starke Exporte und der weltweite KI-Boom: Was die deutsche Wirtschaft stützt - und wie dauerhaft die Impulse sein könnten.",
+   "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-diagnose-ki-ruestung-industrie-100.html",
+   "published": "2026-09-24T08:55:00+00:00",
+   "first_seen": "2026-09-24T09:04:15.470239+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Chatbot: Diese KI-Kenntnisse retten Ihren Job",
+   "summary": "KI verändert die Arbeitswelt rasant. Und damit wächst der Druck auf Beschäftigte. Unser interaktives Tool zeigt, wo Sie stehen – und was Experten zur richtigen Weiterbildung raten.",
+   "link": "https://www.handelsblatt.com/karriere/ki-chatbot-welche-skills-fuer-ihren-job-in-zukunft-entscheidend-werden/100249593.html",
+   "published": "2026-09-24T08:41:00+00:00",
+   "first_seen": "2026-09-24T09:04:15.470239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Regisseur Werner Herzog: „Die Welt eröffnet sich für die, die zu Fuß sind“",
+   "summary": "Regisseur Werner Herzog wird beim Filmfestival von San Sebastián für sein Lebenswerk geehrt. Er spricht über seinen neuen Film „Bucking Fastard“ und KI. mehr...",
+   "link": "https://taz.de/Regisseur-Werner-Herzog-im-Interview-Seht-zu-dass-ihr-euer-Denken-nicht-irgendwelchen-Algorithmen-ueberliefert/!6215547/",
+   "published": "2026-09-24T08:28:00+00:00",
+   "first_seen": "2026-09-24T09:04:15.470239+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studiengaenge-bieten-trotz-ki-boom-gute-perspektiven/100235558.html",
+   "published": "2026-09-24T08:26:00+00:00",
+   "first_seen": "2026-09-24T09:04:15.470239+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "KI-generierte Kultur: Der Mensch, das vernünftige Fehlerwesen",
@@ -225,6 +261,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/usa-uno-kuenstliche-intelligenz-sam-altman-dario-amodei-openai-anthropic-kontrolle-regulierung-li.3552934",
    "published": "2026-09-24T03:07:08+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Reguliert uns",
+   "summary": "Open-AI-Chef Sam Altman und Anthropic-Gründer Dario Amodei sprechen vor dem UN-Sicherheitsrat über die Risiken von KI und fordern eine Regulierung ihrer Branche. Nur darüber, wie die aussehen könnte, haben sie unterschiedliche…",
+   "link": "https://www.sueddeutsche.de/wirtschaft/usa-uno-kuenstliche-intelligenz-altman-amodei-regulierung-li.3552934",
+   "published": "2026-09-24T03:07:08+00:00",
+   "first_seen": "2026-09-24T09:04:15.470239+00:00",
    "paywall": true
   },
   {
@@ -856,51 +901,6 @@
    "published": "2026-09-22T13:45:32+00:00",
    "first_seen": "2026-09-24T07:04:59.934858+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Angst vor KI‑Agenten? Offenbar nicht vor Muse",
-   "summary": "Metas neuer KI-Agent Muse führt wenige Tage nach dem Start die App-Charts an. An der Börse löst das einmal mehr Euphorie aus.",
-   "link": "https://www.wiwo.de/finanzen/boerse/meta-angst-vor-kiagenten-offenbar-nicht-vor-muse/100256489.html",
-   "published": "2026-09-22T13:43:54+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Großbritanniens großes KI-Dilemma",
-   "summary": "Die britische Regierung ist in einem Dilemma: Sie will Wachstum und gleichzeitig die Gemeinden einbeziehen. Doch gegen die geplanten Datenzentren regt sich Protest.",
-   "link": "https://www.zdfheute.de/politik/ausland/ki-london-rechenzentrum-protest-einwohner-100.html",
-   "published": "2026-09-22T13:35:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
-   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
-   "link": "https://www.handelsblatt.com/unternehmen/management/ki-technologie-geraten-traditionelle-manager-jobs-unter-druck/100243656.html",
-   "published": "2026-09-22T13:23:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-mit-diesem-ki-wissen-beeindrucken-sie-headhunter-sofort/100240522.html",
-   "published": "2026-09-22T13:21:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
-   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-kann-ki-kuenftig-in-der-lage-sein-auch-top-manager-zu-ersetzen/100189694.html",
-   "published": "2026-09-22T13:13:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
   }
  ]
 }
