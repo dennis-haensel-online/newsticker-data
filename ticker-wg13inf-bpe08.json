@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T11:04:11.540074+00:00",
+ "updated": "2026-09-24T12:05:14.330788+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Live: Wer kontrolliert die KI?",
+   "summary": "Ein Risiko für Demokratie und Menschheit? Führende KI-Unternehmen warnen den UN-Sicherheitsrat vor den Gefahren ihrer eigenen Schöpfungen. ZDFheute live ordnet ein.",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/ki-warnung-un-sicherheitsrat-video-100.html",
+   "published": "2026-09-24T12:00:00+00:00",
+   "first_seen": "2026-09-24T12:05:14.330788+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Automatisierung: Autoindustrie bremst Robotik-Ausbau in Deutschland",
+   "summary": "Deutschland ist bei der industriellen Automatisierung zwar Europas führende Volkswirtschaft. Doch im weltweiten Wettlauf droht der Standort, den Anschluss zu verlieren.",
+   "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-bremst-robotik-ausbau-in-deutschland/100257177.html",
+   "published": "2026-09-24T11:40:14+00:00",
+   "first_seen": "2026-09-24T12:05:14.330788+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Meta Connect : Jetzt müssen ihm die Leute nur noch vertrauen",
+   "summary": "Mark Zuckerberg setzt alles auf Metas neuen KI-Agenten Muse. Der kann erstaunlich viel, muss dafür aber auch fast alles über seine Nutzer wissen. Ist das eine gute Idee?",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/meta-connect-entwicklung-ki-agent-muse-mark-zuckerberg",
+   "published": "2026-09-24T11:30:04+00:00",
+   "first_seen": "2026-09-24T12:05:14.330788+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Automatisierung: Autoindustrie bremst Robotik-Ausbau in Deutschland",
+   "summary": "Deutschland ist bei der industriellen Automatisierung zwar Europas führende Volkswirtschaft. Doch im weltweiten Wettlauf droht der Standort den Anschluss zu verlieren.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/automatisierung-autoindustrie-bremst-robotik-ausbau-in-deutschland/100257178.html",
+   "published": "2026-09-24T11:30:04+00:00",
+   "first_seen": "2026-09-24T12:05:14.330788+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
+   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-was-deutschlands-juengste-ki-professorin-ueber-den-ki-boom-denkt/100188740.html",
+   "published": "2026-09-24T11:19:00+00:00",
+   "first_seen": "2026-09-24T12:05:14.330788+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Softbank: Tech-Investor Son wettet mit Rekord-Anleihe auf die Künstliche Superintelligenz",
+   "summary": "Der Softbank-Gründer sammelt elf Milliarden Dollar ein und zahlt dafür bis zu zehn Prozent Zinsen. Profiteur ist vor allem der KI-Anbieter OpenAI. Die Börse reagiert gespalten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/softbank-nimmt-bonds-in-hoehe-von-11-milliarden-dollar-fuer-openai-wette-auf/100257094.html",
+   "published": "2026-09-24T11:12:50+00:00",
+   "first_seen": "2026-09-24T12:05:14.330788+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Experten fordern Kurswechsel von KI-Konzernen",
+   "summary": "KI-Giganten wie OpenAI und Anthropic bremsen ihr Entwicklungstempo – doch reicht das, um Risiken für die Menschheit zu verhindern?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-experten-fordern-kurswechsel-von-ki-konzernen/100257023.html",
+   "published": "2026-09-24T11:07:14+00:00",
+   "first_seen": "2026-09-24T12:05:14.330788+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Immobilien: Das Ende der Mail an den Facility-Manager? Wie KI das Management von Gebäuden revolutioniert",
@@ -838,69 +901,6 @@
    "published": "2026-09-22T17:58:00+00:00",
    "first_seen": "2026-09-22T18:05:03.068000+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Vollversammlung: „Friedensstifter und Technologie-Erklärer“: Die große Trump-Show bei den Vereinten Nationen",
-   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen.",
-   "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-die-grosse-trump-show-bei-den-vereinten-nationen/100256267.html",
-   "published": "2026-09-22T17:23:48+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Vollversammlung: Trump verschiebt Friedensziel im Iran – und nennt KI jetzt anders",
-   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-verschiebt-friedensziel-im-iran-und-nennt-ki-jetzt-anders/100256267.html",
-   "published": "2026-09-22T17:23:48+00:00",
-   "first_seen": "2026-09-22T20:04:00.148791+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Vollversammlung: Trump droht Iran erneut mit der Hölle – und nennt KI jetzt anders",
-   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von Künstlicher Intelligenz erklärt er zur Lüge – und will den Begriff KI ersetzen.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-droht-iran-erneut-mit-der-hoelle-und-nennt-ki-jetzt-anders/100256267.html",
-   "published": "2026-09-22T17:23:48+00:00",
-   "first_seen": "2026-09-22T21:03:43.543974+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Technikmesse Innotrans: Wohin der Bahnverkehr steuert",
-   "summary": "Auf der Technikmesse Innotrans glänzen Drohnen, Wasserstoffzüge und KI-Assistenzsysteme. Doch eine BCG-Studie zeigt, wie wenig die Branche ihr Potential nutzt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/messe-innotrans-wohin-der-bahnverkehr-steuert-201252453.html",
-   "published": "2026-09-22T16:36:41+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US-Börsen starten im Plus – Neue KI-Zuversicht als Kurstreiber",
-   "summary": "Der Technologiesektor gibt den US-Märkten auch am Dienstag Rückenwind. Die Ölpreise fallen weiter und die Hoffnungen auf Gespräche der USA mit dem Iran und China halten an.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-ki-zuversicht-hilft-nasdaq/100256578.html",
-   "published": "2026-09-22T16:18:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: Neuer KI-Boom an der Börse?",
-   "summary": "Die hohe Nachfrage nach Metas neuem Chatbot „Muse“ hat unter den Anlegern zu neuer Zuversicht für die KI-Branche und für Rückenwind im Nasdaq gesorgt. Markus Koch erklärt, warum der neue KI-Chatbot nicht nur dem Facebook-Konzern hilft.",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-neuer-ki-boom-an-der-boerse/100256662.html",
-   "published": "2026-09-22T16:09:35+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kreative Zerstörung: Permafrust und Permatod – Wie konnte uns die Kontrolle über die KI so entgleiten?",
-   "summary": "Dass plötzlich wild gewordene KI-Agenten sich verselbstständigen, ist kein Naturgesetz. Es gibt in der Technikgeschichte genug Beispiele, wie sich dies verhindern ließe.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/ki-wie-konnte-uns-die-kontrolle-so-entgleiten/100256345.html",
-   "published": "2026-09-22T16:06:17+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
   }
  ]
 }
