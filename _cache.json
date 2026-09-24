@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T01:04:10.904583+00:00",
+ "updated": "2026-09-24T02:03:59.366418+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Ex-Google-Manager warnt vor KI-Gefahren für Kinder und fordert Schutzmaßnahmen",
+   "summary": "Tech-Konzerne warnen vor den Risiken Künstlicher Intelligenz. Laut Siegel sollten Anthropic und OpenAI strengere Altersüberprüfungen für ihre Chatbots durchsetzen.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ex-google-manager-warnt-vor-ki-gefahren-fuer-kinder-und-fordert-schutzmassnahmen/100256990.html",
+   "published": "2026-09-24T01:29:22+00:00",
+   "first_seen": "2026-09-24T02:03:59.366418+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "USA setzen Zusatzzölle für China vorerst weiter aus",
+   "summary": "Chinas Präsident Xi Jinping ist zum Staatsbesuch in Washington. Gleich zu Beginn gibt es eine Einigung: Die US-Zusatzzölle auf chinesische Produkte bleiben vorerst ausgesetzt.",
+   "link": "https://www.zdfheute.de/wirtschaft/usa-zoelle-china-aufschub-bessent-100.html",
+   "published": "2026-09-24T01:26:00+00:00",
+   "first_seen": "2026-09-24T02:03:59.366418+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gesundheit: Nächster Anlauf zu neuen Organspende-Regeln",
+   "summary": "Tausende Schwerkranke warten auf eine gespendete Niere oder Leber. Um zu mehr Transplantationen zu kommen, wird schon lange über ein ganz anderes Prinzip diskutiert. Im Parlament wird es nun konkret.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/gesundheit-naechster-anlauf-zu-neuen-organspende-regeln/100256987.html",
+   "published": "2026-09-24T01:15:04+00:00",
+   "first_seen": "2026-09-24T02:03:59.366418+00:00",
    "paywall": true
   },
   {
@@ -468,6 +495,15 @@
    "published": "2026-09-23T17:34:00+00:00",
    "first_seen": "2026-09-23T18:05:26.586555+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: EU-Ratschef fordert von Iran Kooperation mit Atombehörde",
+   "summary": "Rubio: USA müssen atomwaffenfreien Iran sicherstellen +++ Emirate sanktionieren Irans größte staatliche Bank +++ Insider: Wadephul fordert iranischen Außenminister zu Verhandlungen auf +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-eu-ratschef-fordert-von-iran-kooperation-mit-atombehoerde/100136895.html",
+   "published": "2026-09-23T17:32:00+00:00",
+   "first_seen": "2026-09-24T02:03:59.366418+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -13464,42 +13500,6 @@
    "published": "2026-09-21T06:00:00+00:00",
    "first_seen": "2026-09-21T06:05:34.475101+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuern: Finanzämter füllen Steuererklärungen für Bürger aus – jeder zweite lehnt ab",
-   "summary": "Hessen verschickt in einem Pilotprojekt vorausgefüllte Steuerunterlagen. Das soll Bürgern und Bürgern Arbeit ersparen. Doch eine interne Präsentation zeigt: es herrscht Misstrauen.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-so-reagierten-212.000-hessen-auf-die-vorausgefuellte-steuererklaerung/100252838.html",
-   "published": "2026-09-21T06:00:00+00:00",
-   "first_seen": "2026-09-21T06:05:34.475101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Man fragt sich, was besprochen wurde\"",
-   "summary": "Nachdem klar war, dass die CDU in MV aus dem Landtag fliegt, haben sich die CDU-Ministerpräsidenten offenbar ohne Kanzler Merz getroffen, sagt ZDF-Hauptstadtkorrespondentin Andrea Maurer.",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/wahlen-analyse-mvp-berlin-maurer-video-100.html",
-   "published": "2026-09-21T06:00:00+00:00",
-   "first_seen": "2026-09-21T15:03:40.131846+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "\"CDU sitzt in einer Falle\"",
-   "summary": "Die Union und SPD haben sowohl versäumt zu erklären, was die Reformen genau seien und wie sie Politik in Zukunft gestalten wollen, sagt Politikwissenschaftler Constantin Wurthmann.",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/wahlen-analyse-mvp-berlin-wurthmann-video-100.html",
-   "published": "2026-09-21T06:00:00+00:00",
-   "first_seen": "2026-09-21T15:03:40.131846+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Iran-Krieg +++: Iran droht USA – Einsatz neuer Waffen und Angriff auf andere Regionen",
-   "summary": "Verkehr durch Straße von Hormus bricht ein +++ QatarEnergy: Sperre der Straße von Hormus verzögert wohl Projekte +++ CIA-Chef trifft ägyptischen Präsidenten +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-droht-usa-einsatz-neuer-waffen-und-angriff-auf-andere-regionen/100136895.html",
-   "published": "2026-09-21T05:58:10+00:00",
-   "first_seen": "2026-09-21T06:05:34.475101+00:00",
-   "paywall": true
   }
  ]
 }
