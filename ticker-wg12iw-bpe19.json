@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T07:04:59.934858+00:00",
+ "updated": "2026-09-24T08:04:17.551928+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,51 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Wirtschaftsinstitute erwarten für 2026 Wachstum von 1,3 Prozent",
+   "summary": "",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/herbstprognose-wirtschaftsinstitute-2026-wirtschaftswachstum-1-3-prozent",
+   "published": "2026-09-24T08:00:09+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sparen: Vier Prozent und mehr – wann beenden die Tagesgeld-Zinsen ihren Höhenflug?",
+   "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-was-sparer-beim-tagesgeld-jetzt-beachten-sollten/100255706.html",
+   "published": "2026-09-24T07:48:00+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Europas ungenutzte Wachstumsreserve",
+   "summary": "Deutschland profitiert sehr vom EU‑Binnenmarkt. Daher sollte Berlin europäische Lösungen wie die Kapitalmarktaufsicht nicht hemmen, meint Andreas Pinkwart.",
+   "link": "https://www.handelsblatt.com/meinung/global-challenges/gastkommentar-europas-ungenutzte-wachstumsreserve/100256156.html",
+   "published": "2026-09-24T07:39:42+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, Topix, CSI 300: Inflation treibt japanische Staatsanleihen – China-Börsen verlieren",
+   "summary": "Die KI-Euphorie und die globalen Konflikte sind die dominierenden Themen an den asiatischen Börsen. Die japanische Börse tendiert fester, in China geben die Märkte nach.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-inflation-treibt-japanische-staatsanleihen-china-boersen-verlieren/100257012.html",
+   "published": "2026-09-24T07:16:02+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Konjunktur: Wirtschaftsforscher verdoppeln Wachstumsprognose für 2026",
+   "summary": "Am Vormittag legen die führenden Wirtschaftsforschungsinstitute ihr Herbstgutachten vor. Nach SPIEGEL-Informationen verdoppeln sie ihre Wachstumsprognose für 2026. Doch danach flaut es wieder ab.",
+   "link": "https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsforscher-verdoppeln-wachstumsprognose-fuer-2026-a-624aa0cd-6947-4587-aa2f-4b2b16adf0b1#ref=rss",
+   "published": "2026-09-24T07:04:00+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": false
   },
   {
    "label": "tagesschau",
@@ -648,15 +693,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/ezb-setzt-auf-krypto-technik-europas-waehrungshueter-digitalisieren-wertpapierhandel/100256175.html",
    "published": "2026-09-21T10:00:08+00:00",
    "first_seen": "2026-09-21T11:04:09.209375+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nicola Fuchs-Schündeln: „Bisher hat keine Technologie die Arbeit abgeschafft“",
-   "summary": "Die Ökonomin Nicola Fuchs-Schündeln rechnet vor, wie viel Wachstum Deutschland durch zu wenig KI-Nutzung verpasst. Und sie erklärt, welche Reformen helfen würden, den Fachkräftemangel zu lindern.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/nicola-fuchs-schuendeln-bisher-hat-keine-technologie-die-arbeit-abgeschafft/100254925.html",
-   "published": "2026-09-21T09:21:56+00:00",
-   "first_seen": "2026-09-21T10:04:08.746101+00:00",
    "paywall": true
   }
  ]

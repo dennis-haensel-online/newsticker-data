@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T07:04:59.934858+00:00",
+ "updated": "2026-09-24T08:04:17.551928+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "KI-generierte Kultur: Der Mensch, das vernünftige Fehlerwesen",
+   "summary": "Wenn KI-generierte Produkte menschlichen immer mehr ähneln, wie unterscheidet man sie dann voreinander? Beim menschlichen Makel. Und mit Vernunft? mehr...",
+   "link": "https://taz.de/Wie-unterscheidet-man-KI-generierte-Produkte-wenn-sie-menschlichen-immer-mehr-aehneln/!6215255/",
+   "published": "2026-09-24T07:59:00+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI und Ukraine-Krieg: OpenAI nimmt Ukraine in KI-Cyberabwehr-Programm auf",
+   "summary": "Hacker-Angriffe aus Russland treffen seit Jahren Versorger und Krankenhäuser in der Ukraine. Die ChatGPT-Firma OpenAI gibt den Behörden nun Zugang zu KI, die Schwachstellen finden und schließen soll.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-und-ukraine-krieg-openai-nimmt-ukraine-in-ki-cyberabwehr-programm-auf/100257092.html",
+   "published": "2026-09-24T07:27:58+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, Topix, CSI 300: Inflation treibt japanische Staatsanleihen – China-Börsen verlieren",
+   "summary": "Die KI-Euphorie und die globalen Konflikte sind die dominierenden Themen an den asiatischen Börsen. Die japanische Börse tendiert fester, in China geben die Märkte nach.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-inflation-treibt-japanische-staatsanleihen-china-boersen-verlieren/100257012.html",
+   "published": "2026-09-24T07:16:02+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "KI-Agent hackt australisches Regierungsportal",
+   "summary": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt.",
+   "link": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html",
+   "published": "2026-09-24T07:12:43+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Neuer Handelsblatt-Chatbot: Testen Sie Ihre KI-Fitness im Job",
+   "summary": "KI verändert die Arbeitswelt rasant. Und damit wächst der Druck auf Beschäftigte. Unser interaktives Tool zeigt, wo Sie stehen – und was Experten zur richtigen Weiterbildung raten.",
+   "link": "https://www.handelsblatt.com/karriere/kuenstliche-intelligenz-neuer-handelsblatt-chatbot-testen-sie-ihre-ki-fitness-im-job/100249593.html",
+   "published": "2026-09-24T07:10:16+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Tödlicher Arbeitsunfall in der größten Kupfermine der Welt",
@@ -30,6 +75,15 @@
    "paywall": true
   },
   {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
+   "summary": "Anthropic-CEO Dario Amodei sieht KI als Risiko für die Menschheit. Vor dem UN-Sicherheitsrat fordert er die Regierungen zur Zusammenarbeit auf.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/warnung-vor-ki-tech-chefs-draengen-un-zu-regulierung/100257039.html",
+   "published": "2026-09-24T05:34:07+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
+   "paywall": true
+  },
+  {
    "label": "Handelsblatt",
    "title": "Geldanlage: Experten erwarten Roboter-Rally an der Börse – Diese Aktien empfehlen Analysten schon jetzt",
    "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
@@ -54,6 +108,15 @@
    "link": "https://www.wiwo.de/unternehmen/it/metas-neue-ki-strategie-was-der-agent-muse-fuer-den-konzern-bedeutet/100257019.html",
    "published": "2026-09-24T05:10:04+00:00",
    "first_seen": "2026-09-24T06:05:25.199286+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Entwicklerkonferenz Connect: Zuckerbergs neue Liebe heißt Muse",
+   "summary": "Die Chefs von OpenAI und Anthropic warnen vor den Risiken der KI. Mark Zuckerberg dagegen ruft die Ära der „persönlichen Superintelligenz“ aus. Was hat der Meta-Boss bloß vor?",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-agent-muse-wie-meta-mit-neuer-hardware-openai-angreift/100257019.html",
+   "published": "2026-09-24T05:10:04+00:00",
+   "first_seen": "2026-09-24T08:04:17.551928+00:00",
    "paywall": true
   },
   {
@@ -837,69 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/technologie-kann-ki-kuenftig-in-der-lage-sein-auch-top-manager-zu-ersetzen/100189694.html",
    "published": "2026-09-22T13:13:00+00:00",
    "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
-   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
-   "link": "https://www.handelsblatt.com/karriere/technologie-entwickler-muessen-also-nicht-nur-ki-bedienen/100238210.html",
-   "published": "2026-09-22T13:08:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Technologiekonzern: Alibaba stellt neuen KI-Chip und leistungsstärkere Modelle vor",
-   "summary": "Der chinesische Technologiekonzern Alibaba verschärft den Wettbewerb mit den USA – mit neuen Chips, einem leistungsstärkeren Modell und mehr Rechenkapazität.",
-   "link": "https://www.wiwo.de/unternehmen/it/alibaba-stellt-neuen-ki-chip-und-leistungsstaerkere-modelle-vor/100256606.html",
-   "published": "2026-09-22T13:07:10+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
-   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-was-deutschlands-juengste-ki-professorin-ueber-unsere-zukunft-sagt/100188740.html",
-   "published": "2026-09-22T13:07:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "China: Alibaba stellt neuen KI-Chip und leistungsstärkere Modelle vor",
-   "summary": "Alibaba will im KI-Wettlauf zu den führenden US-Anbietern aufschließen. Dafür setzt der chinesische Konzern auf einen neuen Hochleistungschip und einen massiven Ausbau seiner Rechenzentren.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/china-alibaba-stellt-neuen-ki-chip-und-leistungsstaerkere-modelle-vor/100256605.html",
-   "published": "2026-09-22T13:00:06+00:00",
-   "first_seen": "2026-09-22T13:04:39.989008+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Branchenmesse Innotrans: KI soll Bahnreisen effizienter und zuverlässiger machen",
-   "summary": "Künstliche Intelligenz wird auch im Zugverkehr eine große Rolle spielen, sind sich Fachleute sicher. Einen Eindruck davon bekommt man auf der Mobilitätsmesse Innotrans in Berlin.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/branchenmesse-innotrans-ki-soll-bahnreisen-effizienter-und-zuverlaessiger-machen/100256568.html",
-   "published": "2026-09-22T12:38:36+00:00",
-   "first_seen": "2026-09-22T13:04:39.989008+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Studie: KI-Investitionen in Deutschland steigen",
-   "summary": "Die Ausgaben für künstliche Intelligenz wachsen in diesem Jahr voraussichtlich um 48 Prozent.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-markt-deutschland-milliarden-euro-li.3552102",
-   "published": "2026-09-22T12:03:19+00:00",
-   "first_seen": "2026-09-22T13:04:39.989008+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Staatschefs fordern strenge Kontrolle hochentwickelter KI",
-   "summary": "Staats- und Regierungschefs fordern eine globale Kontrollbehörde für leistungsfähige KI-Systeme. Was der neue Drei-Punkte-Plan vorsieht.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-staatschefs-fordern-strenge-kontrolle-hochentwickelter-ki/100256577.html",
-   "published": "2026-09-22T11:51:12+00:00",
-   "first_seen": "2026-09-22T12:04:46.064409+00:00",
    "paywall": true
   }
  ]
