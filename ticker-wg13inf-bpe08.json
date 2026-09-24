@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T14:04:35.198815+00:00",
+ "updated": "2026-09-24T15:05:18.914842+00:00",
  "items": [
   {
    "label": "SZ",
@@ -9,6 +9,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/australien-ki-hack-chatgpt-sicherheitsvorfall-gesundheitssystem-li.3553165",
    "published": "2026-09-24T14:02:08+00:00",
    "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Foxconn plant Fabrik: Ein polnischer Milliardencoup nach dem Intel-Aus",
+   "summary": "Tech-Konzerne aus Taiwan wollen in Polen milliardenschwere Fabriken für KI- und Autotechnik aufbauen. Das dürfte auch die Lieferketten deutscher Konzerne stärken – und manche Standortwerber ärgern.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/foxconn-ein-polnischer-milliardencoup-nach-dem-intel-aus-201257610.html",
+   "published": "2026-09-24T13:59:37+00:00",
+   "first_seen": "2026-09-24T15:05:18.914842+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/prognose-oecd-erhoeht-wachstumsprognose-fuer-die-deutsche-wirtschaft/100256794.html",
    "published": "2026-09-23T08:14:26+00:00",
    "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Diese Top-Manager kommen zu Trumps Staatsbankett für Xi",
-   "summary": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen +++ Trump will Begriff KI mit „Superintelligenz“ ersetzen +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-diese-top-manager-kommen-zu-trumps-staatsbankett-fuer-xi-faz-200452404.html",
-   "published": "2026-09-23T07:16:12+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
    "paywall": true
   }
  ]
