@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T06:05:25.199286+00:00",
+ "updated": "2026-09-24T07:04:59.934858+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Tödlicher Arbeitsunfall in der größten Kupfermine der Welt",
+   "summary": "KI von Open AI hackt Webseite der australischen Regierung +++ Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-toedlicher-arbeitsunfall-in-escondida-in-der-groessten-kupfermine-der-welt-faz-200452404.html",
+   "published": "2026-09-24T06:40:38+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "KI-Firmenchefs warnen UN-Sicherheitsrat vor Gefahren",
+   "summary": "Während der US-Präsident die Warnungen vor KI als \"Schwindel\" abtut, mahnen KI-Konzernchefs erstmals im UN-Sicherheitsrat: Es bestehe ein \"Risiko für die gesamte Menschheit\".",
+   "link": "https://www.zdfheute.de/politik/ausland/un-sicherheitsrat-ki-firmenchefs-risiken-100.html",
+   "published": "2026-09-24T06:24:00+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
@@ -90,6 +108,15 @@
    "link": "https://www.wiwo.de/technologie/digitale-welt/alibaba-chip-wie-china-bei-ki-prozessoren-aufholt/100256583.html",
    "published": "2026-09-24T03:55:26+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Wie lange braucht China die KI-Chips aus dem Westen noch?",
+   "summary": "KI-Chips sind Amerikas Faustpfand in Auseinandersetzungen mit China. Jetzt hat Alibaba den angeblich schnellsten Prozessor aus China vorgestellt. Endet die Abhängigkeit bald?",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/ki-chip-wie-china-bei-ki-prozessoren-aufholt/100256583.html",
+   "published": "2026-09-24T03:55:26+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
    "paywall": true
   },
   {
@@ -199,6 +226,15 @@
    "published": "2026-09-24T00:35:17+00:00",
    "first_seen": "2026-09-24T01:04:10.904583+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Techbosse warnen UN-Sicherheitsrat vor KI",
+   "summary": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
+   "link": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
+   "published": "2026-09-23T23:58:22+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -750,6 +786,15 @@
    "paywall": true
   },
   {
+   "label": "tagesschau",
+   "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
+   "summary": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.",
+   "link": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
+   "published": "2026-09-22T13:45:32+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": false
+  },
+  {
    "label": "WiWo",
    "title": "BörsenTag: Angst vor KI‑Agenten? Offenbar nicht vor Muse",
    "summary": "Metas neuer KI-Agent Muse führt wenige Tage nach dem Start die App-Charts an. An der Börse löst das einmal mehr Euphorie aus.",
@@ -855,51 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-staatschefs-fordern-strenge-kontrolle-hochentwickelter-ki/100256577.html",
    "published": "2026-09-22T11:51:12+00:00",
    "first_seen": "2026-09-22T12:04:46.064409+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Datenschutz: Werbung bei ChatGPT: Bei KI-Empfehlung noch genauer hinsehen",
-   "summary": "Noch ist es Zukunftsmusik: Aber künftig könnte auch personalisierte Werbung in den Antworten der KI-Chatbots auftauchen. Wie der aktuelle Stand bei ChatGPT ist und was Verbraucher beachten sollten.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/datenschutz-werbung-bei-chatgpt-bei-ki-empfehlung-noch-genauer-hinsehen/100256575.html",
-   "published": "2026-09-22T11:33:59+00:00",
-   "first_seen": "2026-09-22T12:04:46.064409+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Constellation Software: Die KI-Panik bei Software-Aktien ist vorbei",
-   "summary": "Die Aktien der kanadischen Holding Constellation Software bieten nach starkem Abverkauf eine lukrative Einstiegsgelegenheit.",
-   "link": "https://www.wiwo.de/finanzen/boerse/constellation-software-warum-die-ki-panik-bei-software-aktien-vorbei-ist/100255439.html",
-   "published": "2026-09-22T11:26:06+00:00",
-   "first_seen": "2026-09-22T12:04:46.064409+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Staatschefs fordern strenge Kontrolle hochentwickelter KI",
-   "summary": "Staats- und Regierungschefs fordern eine globale Kontrollbehörde für leistungsfähige KI-Systeme. Was der neue Drei-Punkte-Plan vorsieht.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-staatschefs-fordern-strenge-kontrolle-hochentwickelter-ki/100256565.html",
-   "published": "2026-09-22T11:00:03+00:00",
-   "first_seen": "2026-09-22T12:04:46.064409+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: „Fake News“ – Trump greift US-Medien bei Treffen mit Mamdani erneut an",
-   "summary": "Der US-Präsident hat sich am Montag mit dem New Yorker Bürgermeister zum Thema Wohnungsnot in der Metropole getroffen. Dabei bekräftigte Trump seine Entscheidung, großen US‑Medien wie CNN den Zugang zum Weißen Haus zu verweigern.",
-   "link": "https://www.handelsblatt.com/video/politik/usa-fake-news-trump-greift-us-medien-bei-treffen-mit-mamdani-erneut-an/100256535.html",
-   "published": "2026-09-22T10:00:52+00:00",
-   "first_seen": "2026-09-22T11:04:20.063643+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Führungskräfte: Wenn KI-Agenten zu Managern werden",
-   "summary": "Neun Menschen, mehr als 100 KI-Agenten: Start-up-Gründer Dominic von Proeck erprobt, wie Unternehmen mit digitalen Mitarbeitern wachsen können – und warum dafür gute Führung entscheidend ist.",
-   "link": "https://www.handelsblatt.com/unternehmen/technologie-wenn-ki-agenten-zu-fuehrungskraeften-werden/100252551.html",
-   "published": "2026-09-22T09:57:00+00:00",
-   "first_seen": "2026-09-22T10:05:08.537199+00:00",
    "paywall": true
   }
  ]

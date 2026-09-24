@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T06:05:25.199286+00:00",
+ "updated": "2026-09-24T07:04:59.934858+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Hitze schwächt Europas Wirtschaftsleistung",
+   "summary": "Extreme Hitze kostet die europäische Wirtschaft in diesem Jahr voraussichtlich 113 Milliarden Euro. Deutschland ist besonders stark betroffen. Die Allianz warnt vor weiter steigenden Schäden durch den Klimawandel.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/hitze-senkt-europas-wirtschaftsleistung-allianz-100.html",
+   "published": "2026-09-24T06:45:33+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Berechnung der Allianz: Hitze dämpfte Europas Wirtschaftsleistung",
+   "summary": "Die starke Hitze der vergangenen Monate hat vielen Menschen zugesetzt. Einer Studie der Allianz zufolge hatte das Wetter zudem erhebliche Auswirkungen auf die Wirtschaftskraft.",
+   "link": "https://www.spiegel.de/wirtschaft/berechnung-der-allianz-hitze-daempfte-europas-wirtschaftsleistung-a-297d80d8-a8c2-4503-b05b-e6ab5b29b75e#ref=rss",
+   "published": "2026-09-24T06:06:00+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": false
   },
   {
    "label": "tagesschau",

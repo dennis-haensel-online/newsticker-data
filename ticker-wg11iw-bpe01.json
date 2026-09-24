@@ -1,7 +1,16 @@
 {
  "id": "wg11iw-bpe01",
- "updated": "2026-09-24T06:05:25.199286+00:00",
+ "updated": "2026-09-24T07:04:59.934858+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Hitze schwächt Europas Wirtschaftsleistung",
+   "summary": "Extreme Hitze kostet die europäische Wirtschaft in diesem Jahr voraussichtlich 113 Milliarden Euro. Deutschland ist besonders stark betroffen. Die Allianz warnt vor weiter steigenden Schäden durch den Klimawandel.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/hitze-senkt-europas-wirtschaftsleistung-allianz-100.html",
+   "published": "2026-09-24T06:45:33+00:00",
+   "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Bundestag: Was dürfen Deutschlands Nachrichtendienste künftig?",
@@ -117,15 +126,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/nicola-fuchs-schuendeln-bisher-hat-keine-technologie-die-arbeit-abgeschafft/100254925.html",
    "published": "2026-09-21T09:21:56+00:00",
    "first_seen": "2026-09-21T10:04:08.746101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Klimaschutz: „So ein heißer Sommer kann ein Lerneffekt sein“",
-   "summary": "Biodiversität hat ihren Preis: Ökonom Moritz Kraemer untersucht, wie schrumpfende Artenvielfalt die Staatsfinanzen belastet. Welche wirtschaftlichen Folgen hat der Klimawandel?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/biodiversitaet-und-klimawandel-was-kostet-der-artenverlust-accg-201223522.html",
-   "published": "2026-09-21T08:49:57+00:00",
-   "first_seen": "2026-09-21T09:04:15.095413+00:00",
    "paywall": true
   }
  ]
