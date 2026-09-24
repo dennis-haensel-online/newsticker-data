@@ -1,7 +1,88 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T03:03:55.118330+00:00",
+ "updated": "2026-09-24T04:03:59.882005+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Meta-Konzern: Das Tamagotchi ist zurück - Zuckerberg startet Frontalangriff auf OpenAI",
+   "summary": "Der Facebook-Gründer stellt ein neues KI-Gerät für die Handfläche vor, das herzallerliebst aussieht und unser aller Leben managen soll. OpenAI-Chef Altman, der ähnliches plant, dürfte rotieren.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/meta-konzern-das-tamagotchi-ist-zurueck-zuckerberg-startet-frontalangriff-auf-openai/100256358.html",
+   "published": "2026-09-24T04:00:03+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI-Agent hackt australisches Regierungsportal",
+   "summary": "Eine KI sollte Gesundheitsstatistiken suchen – und hackte sich dabei in ein australisches Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257017.html",
+   "published": "2026-09-24T03:58:54+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Wie lange braucht China die KI-Chips aus dem Westen noch?",
+   "summary": "KI-Chips sind Amerikas Faustpfand in Auseinandersetzungen mit China. Jetzt hat Alibaba den angeblich schnellsten Prozessor aus China vorgestellt. Endet die Abhängigkeit bald?",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/alibaba-chip-wie-china-bei-ki-prozessoren-aufholt/100256583.html",
+   "published": "2026-09-24T03:55:26+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, Topix, CSI 300: KI-Boom in Tokio trotzt Zinsängsten  – Asien-Börsen uneinheitlich",
+   "summary": "Die KI-Euphorie und die globalen Konflikte sind die dominierenden Themen an den asiatischen Börsen. Die japanische Börse tendiert fester, in China geben die Märkte nach.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-ki-boom-in-tokio-trotzt-zinsaengsten-asien-boersen-uneinheitlich/100257012.html",
+   "published": "2026-09-24T03:44:15+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
+   "summary": "Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die Branche, wie sie auf veränderte Bedrohungen reagieren will. Von Jens…",
+   "link": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
+   "published": "2026-09-24T03:32:22+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI-Agent hackt australisches Regierungsportal",
+   "summary": "Eine KI sollte Gesundheitsstatistiken suchen – und hackte sich dabei in ein australisches Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257010.html",
+   "published": "2026-09-24T03:22:32+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "China und USA: Und sie brauchen sich doch",
+   "summary": "KI-Sicherheit, Handelsstreit und Krieg in Nahost: Beim Treffen Trumps mit Xi wäre der Erhalt des Status Quo ein Erfolg. Den letzten Besuch nutzte der Chinese für sich.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/china-usa-donald-trump-xi-jinping-treffen-washington-dc",
+   "published": "2026-09-24T03:07:22+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Reguliert uns",
+   "summary": "OpenAI-Chef Sam Altman und Anthropic-Gründer Dario Amodei sprechen vor dem UN-Sicherheitsrat über die Risiken von KI und fordern eine Regulierung ihrer Branche. Nur darüber, wie die aussehen könnte, haben sie unterschiedliche Vorstellungen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/usa-uno-kuenstliche-intelligenz-sam-altman-dario-amodei-openai-anthropic-kontrolle-regulierung-li.3552934",
+   "published": "2026-09-24T03:07:08+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitswelt: Umfrage: Rund die Hälfte erwartet KI-Kenntnisse für Jobstart",
+   "summary": "Künstliche Intelligenz hat auch in der Jobwelt Einzug gehalten. Wie wichtig werden entsprechende Kompetenzen für Berufsanfänger? Und wie werden KI-Weiterbildungen in den Unternehmen genutzt?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/arbeitswelt-umfrage-rund-die-haelfte-erwartet-ki-kenntnisse-fuer-jobstart/100257004.html",
+   "published": "2026-09-24T03:05:04+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Handelskonflikt: USA verkünden zu Xis Staatsbesuch verlängerte Zollpause",
@@ -72,6 +153,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-anthropic-chef-warnt-un-sicherheitsrat-vor-ki-gefahren-fuer-die-menschheit/100256961.html",
    "published": "2026-09-23T20:46:44+00:00",
    "first_seen": "2026-09-23T21:04:28.853642+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Superintelligenz vor dem UN-Sicherheitsrat – Die KI-Chefs warnen vor sich selbst",
+   "summary": "Altman und Amodei fordern auf der Weltbühne in New York globale Leitplanken. Doch US-Präsident Trump lehnt ab – und Kritiker fragen, ob es den Konzernen wirklich nur um Sicherheit geht.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-superintelligenz-vor-dem-un-sicherheitsrat-die-ki-chefs-warnen-vor-sich-selbst/100256961.html",
+   "published": "2026-09-23T20:46:44+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
    "paywall": true
   },
   {
@@ -810,96 +900,6 @@
    "link": "https://www.handelsblatt.com/karriere/job-was-sind-vor-und-nachteile-von-ki-interviews/100248546.html",
    "published": "2026-09-22T07:49:00+00:00",
    "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung: „Das Schlimmste aus der Perspektive eines überklugen Typen wie Elon Musk ist ja das Sterben“",
-   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
-   "link": "https://www.handelsblatt.com/karriere/technologie-die-ki-ist-der-gipfelpunkt-der-bewegung-zur-ueberklugheit/100252820.html",
-   "published": "2026-09-22T07:48:00+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-boom-die-besten-chancen-bieten/100235558.html",
-   "published": "2026-09-22T07:38:00+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Evonik hält an Abbau von 3200 Stellen fest",
-   "summary": "Merz unterzeichnet Aufruf dafür, dass KI unter menschlicher Kontrolle bleibt +++ Irische Behörde verhängt Strafe von 400 Millionen Euro gegen Google +++ Entscheidung zu Neubaustrecke Hannover-Hamburg verschoben +++ Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-evonik-haelt-an-abbau-von-3200-stellen-fest-faz-200452404.html",
-   "published": "2026-09-22T07:30:15+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Künstliche Intelligenz: Staatschefs fordern Regeln für menschliche Kontrolle",
-   "summary": "Bundeskanzler Merz (CDU) und 17 weitere Staats- und Regierungschefs unterzeichnen einen Aufruf zu KI-Regulierung. Sie wollen verbindliche Standards. mehr...",
-   "link": "https://taz.de/Kuenstliche-Intelligenz/!6215228/",
-   "published": "2026-09-22T07:09:00+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
-   "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/aktien-anleger-sollten-nur-in-unternehmen-investieren-die-sie-verstehen/100222130.html",
-   "published": "2026-09-22T07:01:00+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Merz unterzeichnet Aufruf dafür, dass KI unter menschlicher Kontrolle bleibt",
-   "summary": "Irische Behörde verhängt Strafe von 400 Millionen Euro gegen Google +++ Entscheidung zu Neubaustrecke Hannover-Hamburg verschoben +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-merz-unterzeichnet-aufruf-dafuer-dass-ki-unter-menschlicher-kontrolle-bleibt-faz-200452404.html",
-   "published": "2026-09-22T06:41:10+00:00",
-   "first_seen": "2026-09-22T07:05:02.937152+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-grosse-sprachmodelle-sind-darauf-ausgelegt-unsere-schwaechen-auszunutzen/100223312.html",
-   "published": "2026-09-22T06:01:00+00:00",
-   "first_seen": "2026-09-22T07:05:02.937152+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: DAX könnte Erholung fortsetzen",
-   "summary": "Starke Vorgaben aus den USA dürften den DAX heute weiter anschieben. Die Hoffnung auf eine diplomatische Lösung im Nahen Osten sorgt für freundliche Stimmung. An der Wall Street waren KI-Aktien gefragt.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
-   "published": "2026-09-22T05:44:57+00:00",
-   "first_seen": "2026-09-22T06:05:08.716720+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Geh, opfere dich – wenn du den endgültigen Tod annimmst“: Protokoll des KI-Angriffs, der die Welt verschreckt",
-   "summary": "KI-Schöpfer warnen vor ihren eigenen Entwicklungen, bis hin zur Auslöschung der Menschheit. Die Protokolle des Ausbruchs legen nahe, wer versagt hat – und worauf wir uns einstellen müssen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-das-protokoll-des-ki-angriffs-der-die-welt-verschreckt-02/100254926.html",
-   "published": "2026-09-22T05:21:00+00:00",
-   "first_seen": "2026-09-22T06:05:08.716720+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Start-up: Khachab gibt Führung bei der Gastro-Bestellplattform Choco ab",
-   "summary": "Nach acht Jahren als Chef übergibt Khachab die Führung des Berliner Start-ups Choco. Er selbst will sich künftig auf Produktentwicklung und KI konzentrieren. Der neue Chef hat eine Mission.",
-   "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-up-khachab-gibt-fuehrung-bei-der-gastro-bestellplattform-choco-ab/100255272.html",
-   "published": "2026-09-22T05:15:45+00:00",
-   "first_seen": "2026-09-22T06:05:08.716720+00:00",
    "paywall": true
   }
  ]

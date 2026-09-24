@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T03:03:55.118330+00:00",
+ "updated": "2026-09-24T04:03:59.882005+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Klima und Konjunktur: Allianz: Hitze senkt Europas Wirtschaftsleistung",
+   "summary": "Bei starker Hitze fühlen sich viele Menschen schlapp. Auch wenn nichts kaputtgeht, hat das laut Allianz dennoch erhebliche Auswirkungen auf die Wirtschaftskraft.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/klima-und-konjunktur-allianz-hitze-senkt-europas-wirtschaftsleistung/100257013.html",
+   "published": "2026-09-24T03:30:07+00:00",
+   "first_seen": "2026-09-24T04:03:59.882005+00:00",
    "paywall": true
   },
   {
@@ -665,15 +674,6 @@
    "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-wie-ihr-vermoegen-im-deutschen-vergleich-abschneidet/100149729.html",
    "published": "2026-09-21T07:22:00+00:00",
-   "first_seen": "2026-09-21T08:04:26.350186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Standortprobleme: Bürokratie mit großem Abstand vorne",
-   "summary": "Wo zwickt es deutsche Unternehmen am meisten? Einer Umfrage des Ifo-Instituts zufolge liegen weder die vielgescholtenen Arbeitskosten noch die hohen Energiepreise vorne.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-standortprobleme-buerokratie-mit-grossem-abstand-vorne/100256097.html",
-   "published": "2026-09-21T07:09:24+00:00",
    "first_seen": "2026-09-21T08:04:26.350186+00:00",
    "paywall": true
   }
