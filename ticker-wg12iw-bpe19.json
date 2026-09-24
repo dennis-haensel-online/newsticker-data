@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T09:04:15.470239+00:00",
+ "updated": "2026-09-24T10:04:09.955690+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen verbessert sich weiter",
+   "summary": "Die Wirtschaft scheint sich zu erholen, entsprechend positiv blicken Unternehmen derzeit in die Zukunft. Der Geschäftsklimaindex stieg auf den höchsten Wert seit 2023.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/ifo-geschaeftsklima-index-deutschland-unternehmen-konjunktur",
+   "published": "2026-09-24T09:59:35+00:00",
+   "first_seen": "2026-09-24T10:04:09.955690+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax notiert trotz starker Konjunkturaussichten im Minus",
+   "summary": "Hohe Ölpreise, steigende Anleiherenditen und geopolitische Unsicherheit bremsen die Märkte. Ein starker Ifo-Geschäftsklimaindex kann die Anleger nicht überzeugen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-trotz-starker-konjunkturaussichten-im-minus/100257045.html",
+   "published": "2026-09-24T09:55:33+00:00",
+   "first_seen": "2026-09-24T10:04:09.955690+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Die deutsche Wirtschaft wächst – doch die Zahl der Jobs sinkt",
+   "summary": "Die deutsche Wirtschaft wächst wieder – aber der Aufschwung kommt nicht am Arbeitsmarkt an. Vor allem in einer Branche gehen Stellen verloren.",
+   "link": "https://www.wiwo.de/politik/konjunktur/deutsche-wirtschaft-waechst-zahl-der-jobs-sinkt-aber/100257139.html",
+   "published": "2026-09-24T09:48:05+00:00",
+   "first_seen": "2026-09-24T10:04:09.955690+00:00",
    "paywall": true
   },
   {
@@ -135,6 +162,15 @@
    "link": "https://www.wiwo.de/politik/konjunktur/wirtschaftswachstum-wirtschaftsinstitute-verdoppeln-konjunkturprognose/100257104.html",
    "published": "2026-09-24T08:13:06+00:00",
    "first_seen": "2026-09-24T09:04:15.470239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Wirtschaftsinstitute verdoppeln Konjunkturprognose",
+   "summary": "Die deutsche Wirtschaft befindet sich im Aufschwung. Doch die Wirtschaftsinstitute warnen: Die Erholung steht auf wackligen Beinen.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-wirtschaftsinstitute-verdoppeln-konjunkturprognose/100257104.html",
+   "published": "2026-09-24T08:13:06+00:00",
+   "first_seen": "2026-09-24T10:04:09.955690+00:00",
    "paywall": true
   },
   {
@@ -792,15 +828,6 @@
    "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-fuehrende-institute-verdoppeln-wachstumsprognose/100256290.html",
    "published": "2026-09-21T15:41:11+00:00",
    "first_seen": "2026-09-21T16:04:16.102477+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sparen: Vier Prozent und mehr – haben die Tagesgeld-Zinsen ihren Höhepunkt erreicht?",
-   "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
-   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/tagesgeld-vier-prozent-und-mehr-wann-beenden-die-zinsen-ihren-hoehenflug/100255706.html",
-   "published": "2026-09-21T11:35:27+00:00",
-   "first_seen": "2026-09-21T12:04:58.804847+00:00",
    "paywall": true
   }
  ]
