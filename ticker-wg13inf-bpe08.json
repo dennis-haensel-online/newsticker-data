@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T12:05:14.330788+00:00",
+ "updated": "2026-09-24T13:05:01.801047+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
+   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-sie-koennte-so-leistungsfaehig-werden-dass-sie-zur-bedrohung-wird/100189694.html",
+   "published": "2026-09-24T12:32:00+00:00",
+   "first_seen": "2026-09-24T13:05:01.801047+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Krankenversicherung: Als der KI-Agent einbrach, hat es Australien nicht mal bemerkt",
+   "summary": "Open AI wusste schon Mitte August von der Attacke auf die gesetzliche Krankenversicherung, meldete sie den Australiern aber erst vier Wochen später. Es ist der erste Einbruch einer KI in ein staatliches System. Die Regierung klingt panisch.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/als-der-ki-agent-einbrach-hat-es-australien-noch-nicht-mal-gemerkt-accg-201258246.html",
+   "published": "2026-09-24T12:15:16+00:00",
+   "first_seen": "2026-09-24T13:05:01.801047+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Preisgekrönter Schriftsteller soll mit KI geschrieben haben",
+   "summary": "Sein Debütroman gilt als \"Phänomen des Literaturjahres\". Doch nun wird der Schriftsteller Thélyson Orélien beschuldigt, diesen mit KI geschrieben zu haben. Die Vorwürfe stellen Frankreichs Literaturbetrieb vor Herausforderungen. Von J.…",
+   "link": "https://www.tagesschau.de/ausland/europa/prix-goncourt-ki-100.html",
+   "published": "2026-09-24T12:08:06+00:00",
+   "first_seen": "2026-09-24T13:05:01.801047+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Live: Wer kontrolliert die KI?",
@@ -874,33 +901,6 @@
    "published": "2026-09-23T01:54:48+00:00",
    "first_seen": "2026-09-23T02:04:13.086002+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "UN-Generalversammlung: Jetzt erfindet Trump auch noch einen neuen Namen für Künstliche Intelligenz",
-   "summary": "Kurz vor dem Treffen mit Xi will Trump „Artificial Intelligence“ in „Super Intelligence“ umtaufen – und zeigt damit, dass er lieber auf absurde Symbolpolitik statt Regulierung setzt.",
-   "link": "https://www.wiwo.de/politik/ausland/donald-trump-will-ki-umbenennen-absage-an-regulierung/100256688.html",
-   "published": "2026-09-22T19:54:01+00:00",
-   "first_seen": "2026-09-22T20:04:00.148791+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Vollversammlung: Britischer Premier Burnham sucht Annäherung an USA und Europa",
-   "summary": "Großbritanniens Regierungschef will das Verhältnis zwischen London und Washington wieder festigen. Gleichzeitig wirbt er für Handelserleichterungen mit der EU und globale KI-Regeln.",
-   "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-britischer-premier-burnham-sucht-annaeherung-an-usa-und-europa/100255588.html",
-   "published": "2026-09-22T18:22:26+00:00",
-   "first_seen": "2026-09-22T19:03:23.898070+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Buch über Ungleichheit: „Arme Menschen sind ständig damit beschäftigt, zu überleben“",
-   "summary": "Auf Social Media erklärt Soziologin Ramona Wuttig, was es heißt, arm auf dem Land in Ostdeutschland aufzuwachsen. Jetzt hat sie ein Buch darüber geschrieben. mehr...",
-   "link": "https://taz.de/Buch-ueber-Ungleichheit/!6214042/",
-   "published": "2026-09-22T17:58:00+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": false
   }
  ]
 }

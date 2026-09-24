@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T12:05:14.330788+00:00",
+ "updated": "2026-09-24T13:05:01.801047+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Jetzt wird die US-Wirtschaft zum Problem für den Anleihemarkt",
+   "summary": "Die Renditen von US-Staatsanleihen steigen wieder. Das liegt auch an der überraschend starken US-Konjunktur.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/boersentag-jetzt-wird-die-us-wirtschaft-zum-problem-fuer-den-anleihemarkt/100257114.html",
+   "published": "2026-09-24T12:53:14+00:00",
+   "first_seen": "2026-09-24T13:05:01.801047+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Anleger trotz starker Konjunkturaussichten unbeeindruckt – Dax liegt im Minus",
+   "summary": "Hohe Ölpreise, steigende Anleiherenditen und geopolitische Unsicherheit bremsen die Märkte. Ein starker Ifo-Geschäftsklimaindex kann die Anleger nicht überzeugen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-liegt-trotz-starker-konjunkturaussichten-im-minus/100257045.html",
+   "published": "2026-09-24T12:24:00+00:00",
+   "first_seen": "2026-09-24T13:05:01.801047+00:00",
    "paywall": true
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-wie-sparer-sich-bei-vier-prozent-und-mehr-beim-tagesgeld-aufstellen/100255706.html",
    "published": "2026-09-22T05:48:00+00:00",
    "first_seen": "2026-09-22T06:05:08.716720+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing Podcast: Wahlen: Sozialpolitik schlägt Wirtschaftspolitik / Konjunktur: Wachstum zieht an",
-   "summary": "Typischer Merz-Fehler oder echte Schubumkehr? Egal. Hinter Friedrich Merz' Zweifel am Gesundheitssystem steckt eine grundsätzliche Frage, die sich gerade stellt.",
-   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-wahlen-sozialpolitik-schlaegt-wirtschaftspolitik---konjunktur-wachstum-zieht-an/100256397.html",
-   "published": "2026-09-22T04:02:19+00:00",
-   "first_seen": "2026-09-22T05:04:14.050566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Polens Börse hängt den Rest von Europa ab",
-   "summary": "Ein robustes Wirtschaftswachstum und das Interesse internationaler Investoren treiben die polnischen Märkte an. Es spricht vieles dafür, dass die Rally weitergeht, meint Michael Maisch.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-polens-boerse-haengt-den-rest-von-europa-ab/100256131.html",
-   "published": "2026-09-21T16:23:24+00:00",
-   "first_seen": "2026-09-21T17:03:39.251356+00:00",
    "paywall": true
   }
  ]
