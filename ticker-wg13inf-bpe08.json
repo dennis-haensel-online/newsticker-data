@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T05:03:41.554213+00:00",
+ "updated": "2026-09-24T06:05:25.199286+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
+   "summary": "Anthropic-CEO Dario Amodei sieht KI als Risiko für die Menschheit. Vor dem UN-Sicherheitsrat fordert er die Regierungen zur Zusammenarbeit auf.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/warnung-vor-ki-gefahren-tech-chefs-draengen-un-zu-regulierung/100257039.html",
+   "published": "2026-09-24T05:34:07+00:00",
+   "first_seen": "2026-09-24T06:05:25.199286+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Experten erwarten Roboter-Rally an der Börse – Diese Aktien empfehlen Analysten schon jetzt",
+   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-analysten-erwarten-roboter-rally-diese-aktien-empfehlen-sie-jetzt-01/100252788.html",
+   "published": "2026-09-24T05:22:00+00:00",
+   "first_seen": "2026-09-24T06:05:25.199286+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI-Agent hackt australisches Regierungsportal",
+   "summary": "Eine KI sollte Statistiken suchen – und hackte sich in ein Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257011.html",
+   "published": "2026-09-24T05:13:00+00:00",
+   "first_seen": "2026-09-24T06:05:25.199286+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Zuckerbergs neue Liebe heißt Muse",
+   "summary": "Meta-Chef Mark Zuckerberg predigt auf seiner Entwicklerkonferenz Connect die Ära der „persönlichen Superintelligenz“. Auf mögliche Gefahren ging er nicht ein.",
+   "link": "https://www.wiwo.de/unternehmen/it/metas-neue-ki-strategie-was-der-agent-muse-fuer-den-konzern-bedeutet/100257019.html",
+   "published": "2026-09-24T05:10:04+00:00",
+   "first_seen": "2026-09-24T06:05:25.199286+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "OpenAI-KI hackt australisches Regierungsportal",
@@ -27,6 +63,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/meta-konzern-das-tamagotchi-ist-zurueck-zuckerberg-startet-frontalangriff-auf-openai/100256358.html",
    "published": "2026-09-24T04:00:03+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Meta-Konzern: KI für den Schlüsselbund: Zuckerberg kommt OpenAI mit neuem Assistenten zuvor",
+   "summary": "Der Facebook-Gründer stellt ein putziges KI-Gerät im Miniaturformat vor, das unser Leben organisieren soll. Damit nimmt die KI-Ergänzung zum Smartphone Gestalt an.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/meta-konzern-zuckerberg-praesentiert-ki-assistenten-fuer-den-schluesselbund/100256358.html",
+   "published": "2026-09-24T04:00:03+00:00",
+   "first_seen": "2026-09-24T06:05:25.199286+00:00",
    "paywall": true
   },
   {
@@ -855,51 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/technologie-wenn-ki-agenten-zu-fuehrungskraeften-werden/100252551.html",
    "published": "2026-09-22T09:57:00+00:00",
    "first_seen": "2026-09-22T10:05:08.537199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Taiwan: Taiwans Auslandsaufträge übertreffen erstmals 100-Milliarden-Dollar-Marke",
-   "summary": "Die taiwanischen Auftragsbücher gelten als Frühindikator für die weltweite Nachfrage nach Technologieprodukten. Durch den KI-Boom steht Taiwans Wirtschaft vor einem Wachstum von historischem Ausmaß.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/taiwan-taiwans-auslandsauftraege-uebertreffen-100-milliarden-dollar-marke/100256527.html",
-   "published": "2026-09-22T09:37:17+00:00",
-   "first_seen": "2026-09-22T10:05:08.537199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Finanzbranche: Die Probleme der gehypten Online-Bank Revolut",
-   "summary": "Das Unternehmen steht wegen eines Hackerangriffs unter Druck. Interne Dokumente legen nah: Es ist wohl nicht das erste Mal, dass das Fintech mit Problemen zu kämpfen hat.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/revolut-bank-probleme-li.3548824",
-   "published": "2026-09-22T09:02:45+00:00",
-   "first_seen": "2026-09-22T10:05:08.537199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Nutzung von KI-Tools und Streamingdiensten nimmt zu",
-   "summary": "Der neuen ARD/ZDF-Medienstudie zufolge ist die Nutzung von KI-Tools je nach Alter unterschiedlich stark. Und mehr als die Hälfte der Deutschen streamt die Angebote von ARD und ZDF.",
-   "link": "https://www.zdfheute.de/wissen/ard-zdf-medienstudie-2026-ki-tools-streaming-100.html",
-   "published": "2026-09-22T09:00:00+00:00",
-   "first_seen": "2026-09-22T10:05:08.537199+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Umsatzrekord: Deutscher KI-Markt wächst 2026 um fast die Hälfte",
-   "summary": "KI-Software bleibt Wachstumstreiber: Deutsche Unternehmen investieren 2026 deutlich mehr, um Prozesse zu beschleunigen und Produkte zu verbessern.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/umsatzrekord-deutscher-ki-markt-waechst-2026-um-fast-die-haelfte/100256494.html",
-   "published": "2026-09-22T08:50:35+00:00",
-   "first_seen": "2026-09-22T10:05:08.537199+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax startet unverändert – Ölpreise steigen wieder",
-   "summary": "Nahost, Ukraine, KI-Regulierung und ein mögliches Trump-Xi-Treffen: Die UN-Vollversammlung in New York hat viele Themen auf der Agenda. Der Dax startet zurückhaltend.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-unveraendert-oelpreise-steigen-wieder/100256414.html",
-   "published": "2026-09-22T07:54:29+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
    "paywall": true
   }
  ]

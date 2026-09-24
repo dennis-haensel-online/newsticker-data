@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T05:03:41.554213+00:00",
+ "updated": "2026-09-24T06:05:25.199286+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
+   "summary": "Der DAX dürfte heute zum Handelsbeginn sinken. Der kräftige Anstieg des Ölpreises schürt neue Inflations- und Zinssorgen. Im Fokus stehen zudem der Trump-Xi-Gipfel und die neue Konjunkturprognose.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
+   "published": "2026-09-24T05:26:00+00:00",
+   "first_seen": "2026-09-24T06:05:25.199286+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine: „Die Wirtschaft stürzt ab“: Putins Angriffe ruinieren die Ukraine",
+   "summary": "Russlands Luftkrieg gegen die ukrainische Wirtschaft zeigt Wirkung: Ökonomen revidieren ihre Wachstumsprognosen massiv nach unten. Im Staatshaushalt tun sich neue Löcher auf.",
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-die-wirtschaft-stuerzt-ab-putins-angriffe-ruinieren-die-ukraine/100256214.html",
+   "published": "2026-09-24T05:20:45+00:00",
+   "first_seen": "2026-09-24T06:05:25.199286+00:00",
    "paywall": true
   },
   {
@@ -621,51 +639,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/nicola-fuchs-schuendeln-bisher-hat-keine-technologie-die-arbeit-abgeschafft/100254925.html",
    "published": "2026-09-21T09:21:56+00:00",
    "first_seen": "2026-09-21T10:04:08.746101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Jedes zweite Unternehmen sieht Bürokratie als größtes Standortproblem",
-   "summary": "Eine Umfrage des Ifo-Instituts zeigt die größten Probleme des Wirtschaftsstandorts Deutschland. Hohe Energiepreise und Arbeitskosten liegen dabei mit Abstand hinter den vielen Regulierungen.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-jedes-zweite-unternehmen-sieht-buerokratie-als-groesstes-standortproblem/100256113.html",
-   "published": "2026-09-21T08:31:43+00:00",
-   "first_seen": "2026-09-21T09:04:15.095413+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Beyond the obvious: Europas Produktivitätsproblem – Was die EU wirklich reformieren muss",
-   "summary": "Europa fällt bei der Produktivität hinter die USA zurück. Ökonom João Duarte erklärt, warum der Binnenmarkt der Schlüssel zu mehr Wachstum sein könnte.",
-   "link": "https://www.handelsblatt.com/audio/bto/beyond-the-obvious-europas-produktivitaetsproblem-was-die-eu-wirklich-reformieren-muss/100255902.html",
-   "published": "2026-09-21T08:28:25+00:00",
-   "first_seen": "2026-09-21T09:04:15.095413+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie-Arbeitsmarkt: IAB-Studie: Rüstung kann Jobverluste nicht ausgleichen",
-   "summary": "Nur rund 1.100 Menschen sind im vergangenen Jahr von anderen Industriesparten in die Rüstung gewechselt. Die immensen Jobverluste kann das nicht kompensieren.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/industrie-arbeitsmarkt-iab-studie-ruestung-kann-jobverluste-nicht-ausgleichen/100256133.html",
-   "published": "2026-09-21T08:26:21+00:00",
-   "first_seen": "2026-09-21T09:04:15.095413+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Wirtschaft in Deutschland: Bürokratie ist größtes Standortproblem für Unternehmen",
-   "summary": "Regulierung und Bürokratie bremsen in besonderem Maß die deutsche Wirtschaft. Das ist das Ergebnis einer Umfrage des Münchner Ifo-Instituts. Demnach besonders betroffen: große und mittlere Unternehmen.",
-   "link": "https://www.spiegel.de/wirtschaft/wirtschaft-in-deutschland-buerokratie-ist-groesstes-standortproblem-fuer-unternehmen-a-d0762441-15ef-4a46-855b-661a3d278c7b#ref=rss",
-   "published": "2026-09-21T08:20:00+00:00",
-   "first_seen": "2026-09-21T09:04:15.095413+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
-   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
-   "link": "https://www.handelsblatt.com/karriere/ruestungsindustrie-was-eine-headhunterin-fuer-den-quereinstieg-empfiehlt/100211178.html",
-   "published": "2026-09-21T07:55:00+00:00",
-   "first_seen": "2026-09-21T08:04:26.350186+00:00",
    "paywall": true
   }
  ]
