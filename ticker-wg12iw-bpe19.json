@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T13:05:01.801047+00:00",
+ "updated": "2026-09-24T14:04:35.198815+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -12,12 +12,75 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Zinssorgen bremsen US-Börsen zum Handelsstart",
+   "summary": "Inflationsrisiken, Unsicherheiten bei den Ölpreisen und US-Staatsfinanzen machen der Wall Street zu schaffen. Anleger schauen auf das Treffen von Trump und Xi.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-zinssorgen-bremsen-us-boersen-zum-handelsstart/100257196.html",
+   "published": "2026-09-24T14:04:12+00:00",
+   "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Starbucks schließt 250 Filialen in Nordamerika und senkt Wachstumserwartung",
+   "summary": "Kürzere Wartezeiten, simplere Speisekarten und Protein-Milchschaum: Konzernchef Brian Niccol verändert Starbucks nach seinen Vorstellungen. Die Restrukturierungskosten liegen bei Hunderten Millionen Dollar.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/starbucks-schliesst-250-filialen-in-nordamerika-und-senkt-wachstumserwartung-a-d47d05ba-c889-430d-8edb-0ea335bb4b33#ref=rss",
+   "published": "2026-09-24T13:56:00+00:00",
+   "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Wachstumsprognosen erhöht: Ein Aufschwung, den keiner spürt",
+   "summary": "Deutschland sei seit Jahresende 2025 im Aufschwung, sagen Ökonomen. Doch die Stimmung ist düster. Der Staat plustert sich auf und legt Bürgern und Unternehmen Stolpersteine in den Weg.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/deutschland-im-aufschwung-201259122.html",
+   "published": "2026-09-24T13:42:25+00:00",
+   "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Vorzeitiger Abschied: EZB-Direktorin Schnabel wechselt zum IWF",
+   "summary": "Die Amtszeit der Deutschen endet eigentlich erst Ende 2027. Jetzt geht sie nach Informationen der F.A.Z. nach Washington – und dürfte Teil eines größeren Personalkarussells sein.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/ezb-direktorin-schnabel-wechselt-zum-iwf-201259762.html",
+   "published": "2026-09-24T13:36:51+00:00",
+   "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax bewegt sich kaum – Aktie eines Chip-Konzerns verliert erneut",
+   "summary": "Hohe Ölpreise, steigende Anleiherenditen und geopolitische Unsicherheit bremsen die Märkte. Ein starker Ifo-Geschäftsklimaindex kann die Anleger nicht überzeugen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-liegt-trotz-starker-konjunkturaussichten-unveraendert/100257045.html",
+   "published": "2026-09-24T13:23:50+00:00",
+   "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: „Ich sehe eine große Gefahr“: Institute sorgen sich um Staatsschulden in Deutschland",
+   "summary": "Deutschland erlebt einen wirtschaftlichen Aufschwung. Doch die führenden Institute sind alles andere als euphorisch – weil neue Berechnungen zu den Staatsschulden erhebliche Risiken zeigen.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-institute-sorgen-sich-um-staatsschulden-in-deutschland/100256891.html",
+   "published": "2026-09-24T13:10:32+00:00",
+   "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": true
+  },
+  {
    "label": "WiWo",
    "title": "BörsenTag: Jetzt wird die US-Wirtschaft zum Problem für den Anleihemarkt",
    "summary": "Die Renditen von US-Staatsanleihen steigen wieder. Das liegt auch an der überraschend starken US-Konjunktur.",
    "link": "https://www.wiwo.de/finanzen/geldanlage/boersentag-jetzt-wird-die-us-wirtschaft-zum-problem-fuer-den-anleihemarkt/100257114.html",
    "published": "2026-09-24T12:53:14+00:00",
    "first_seen": "2026-09-24T13:05:01.801047+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Jetzt wird die US-Wirtschaft zum Problem für den Anleihemarkt",
+   "summary": "Die Renditen von US-Staatsanleihen steigen wieder. Das liegt auch an der überraschend starken US-Konjunktur.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/boerse-us-wirtschaft-wird-zum-problem-fuer-den-anleihemarkt/100257114.html",
+   "published": "2026-09-24T12:53:14+00:00",
+   "first_seen": "2026-09-24T14:04:35.198815+00:00",
    "paywall": true
   },
   {
@@ -838,69 +901,6 @@
    "published": "2026-09-22T08:32:00+00:00",
    "first_seen": "2026-09-22T09:03:59.472341+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Start ins zweite Halbjahr: Deutliches Plus für deutsche Elektroexporte",
-   "summary": "Die deutsche Elektroindustrie hat ihre Ausfuhren im Juli gesteigert. Das Geschäft mit der EU sorgt für Wachstum. Es läuft aber nicht in allen Märkten.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/start-ins-zweite-halbjahr-deutliches-plus-fuer-deutsche-elektroexporte/100256438.html",
-   "published": "2026-09-22T08:14:00+00:00",
-   "first_seen": "2026-09-22T09:03:59.472341+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-boom-die-besten-chancen-bieten/100235558.html",
-   "published": "2026-09-22T07:38:00+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chemiekonzern: Evonik kündigt Abbau von 3.200 Stellen an",
-   "summary": "Der Chemiekonzern setzt auf Wachstum in Asien und Amerika. In Deutschland sollen an sechs Standorten neue Aufgaben verteilt werden. Es ist nicht die erste Sparrunde.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/chemiekonzern-evonik-kuendigt-abbau-von-3200-stellen-an/100256450.html",
-   "published": "2026-09-22T07:36:53+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Elektroindustrie: Deutliches Plus für deutsche Elektroexporte",
-   "summary": "Die deutsche Elektroindustrie hat ihre Ausfuhren im Juli deutlich gesteigert. Besonders das Geschäft mit der EU sorgt für Wachstum. Es läuft allerdings nicht in allen wichtigen Märkten.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/elektroindustrie-deutliches-plus-fuer-deutsche-elektroexporte/100256434.html",
-   "published": "2026-09-22T07:16:53+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Start ins zweite Halbjahr: Deutliches Plus für deutsche Elektroexporte",
-   "summary": "Die deutsche Elektroindustrie hat ihre Ausfuhren im Juli deutlich gesteigert. Besonders das Geschäft mit der EU sorgt für Wachstum. Es läuft allerdings nicht in allen wichtigen Märkten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/start-ins-zweite-halbjahr-deutliches-plus-fuer-deutsche-elektroexporte/100256437.html",
-   "published": "2026-09-22T06:59:52+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-so-hoch-ist-ihr-vermoegen-im-deutschland-vergleich/100149729.html",
-   "published": "2026-09-22T06:51:00+00:00",
-   "first_seen": "2026-09-22T07:05:02.937152+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sparen: Vier Prozent und mehr – wann beenden die Tagesgeld-Zinsen ihren Höhenflug?",
-   "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
-   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-wie-sparer-sich-bei-vier-prozent-und-mehr-beim-tagesgeld-aufstellen/100255706.html",
-   "published": "2026-09-22T05:48:00+00:00",
-   "first_seen": "2026-09-22T06:05:08.716720+00:00",
-   "paywall": true
   }
  ]
 }
