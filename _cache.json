@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T16:04:24.963385+00:00",
+ "updated": "2026-09-24T17:03:45.598497+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -11,12 +11,183 @@
    "paywall": true
   },
   {
+   "label": "WiWo",
+   "title": "US-China-Gipfel: Xi und Trump beschwören Freundschaft – Panda-Diplomatie und Handelsgespräche",
+   "summary": "Trump und Xi demonstrieren beim Treffen im Weißen Haus überraschende Einigkeit. Freundschaft, Pandas und Handel sollen die Spannungen zwischen den Supermächten entschärfen.",
+   "link": "https://www.wiwo.de/politik/ausland/us-china-gipfel-xi-und-trump-beschwoeren-freundschaft-panda-diplomatie-und-handelsgespraeche/100257269.html",
+   "published": "2026-09-24T16:59:23+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einstweilige Verfügung: CNN, „Politico“ und MS NOW: Reporter wieder im Weißen Haus",
+   "summary": "Trump geht gegen führende US-Medien vor und verbannt sie aus dem Weißen Haus. Kurz darauf untersagt dies ein Gericht - zumindest vorerst. Trotzdem gibt es zunächst Probleme am Eingang.",
+   "link": "https://www.handelsblatt.com/politik/international/einstweilige-verfuegung-cnn-politico-und-ms-now-reporter-wieder-im-weissen-haus/100257056.html",
+   "published": "2026-09-24T16:52:29+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Gewalt fängt nicht mit einem Schlag an\"",
+   "summary": "Mareike Luisa Groß hat häusliche Gewalt erlebt und fand Hilfe beim Weißen Ring. Vor 50 Jahren von ZDF-Moderator Zimmermann mitbegründet, unterstützt der Verein bis heute Opfer.",
+   "link": "https://www.zdfheute.de/panorama/kriminalitaet/weisser-ring-50-jahre-hilfe-opferschutz-gewalt-100.html",
+   "published": "2026-09-24T16:43:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Journalisten von CNN und MS NOW dürfen wieder ins Weiße Haus",
+   "summary": "Amnesty International fordert Auflösung von ICE-Behörde +++ USA prüfen Exportstopp für Diesel +++ US-Notenbankdirektor: Wahrscheinlich weitere Zinserhöhungen nötig +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-journalisten-von-cnn-und-ms-now-duerfen-wieder-ins-weisse-haus/29669594.html",
+   "published": "2026-09-24T16:42:54+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Statt Sachsen-Anhalt: Ministerpräsidentenkonferenz: Rheinland-Pfalz behält Vorsitz",
+   "summary": "Eigentlich hätte Rheinland-Pfalz den Vorsitz der Ministerpräsidentenkonferenz an Sachsen-Anhalt abgeben müssen. Doch das Land behält den Posten für ein weiteres Jahr.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/mpk-rheinland-pfalz-fuehrt-ministerpraesidentenkonferenz-weiter-an/100257263.html",
+   "published": "2026-09-24T16:39:10+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Wechsel zum IWF: EZB-Direktorin Schnabel tritt vorzeitig ab",
+   "summary": "Die deutsche Top-Ökonomin zieht es für eine neue Rolle nach Washington zum Internationalen Währungsfonds. Die Neubesetzung könnte interessant werden - denn auch die EZB-Präsidentin könnte ihren Posten vorzeitig räumen.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-schnabel-ezb-100.html",
+   "published": "2026-09-24T16:35:53+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Koordinierungsgremium: Statt Sachsen-Anhalt: Rheinland-Pfalz weiter an MPK-Spitze",
+   "summary": "Eigentlich wäre der Staffelstab bald an Sachsen-Anhalt gegangen - doch nun behält Ministerpräsident Schnieder den Vorsitz des Gremiums der Länderregierungschefs ein weiteres Jahr. Was bedeutet das?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/koordinierungsgremium-statt-sachsen-anhalt-rheinland-pfalz-weiter-an-mpk-spitze/100257266.html",
+   "published": "2026-09-24T16:33:25+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "China: NRW und Baden-Württemberg machen Druck auf Subventionspolitik",
+   "summary": "Chinesische Subventionen und Überkapazitäten setzen deutsche Schlüsselindustrien unter Druck. Nordrhein-Westfalen und Baden-Württemberg fordern nun deutliche Gegenwehr gegen einen »unfairen Wettbewerb«.",
+   "link": "https://www.spiegel.de/wirtschaft/china-nrw-und-baden-wuerttemberg-machen-druck-auf-subventionspolitik-a-4a2984db-13ae-493e-825a-dbb2ab1f3a4d#ref=rss",
+   "published": "2026-09-24T16:30:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Baltische Länder gegen Oligarchen: Wenn die EU nicht mitmacht, machen sie es eben selbst",
+   "summary": "Die baltischen Länder verhängen eigene Sanktionen gegen zwei russische Oligarchen. Von der Lockerung durch die Europäische Union sind sie nicht überzeugt. mehr...",
+   "link": "https://taz.de/Baltische-Laender-gegen-Oligarchen/!6215952/",
+   "published": "2026-09-24T16:26:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Ab 20:45 Uhr: Deutschlands NL-Auftakt gegen die Niederlande",
+   "summary": "Die Nations League im Überblick: Tabelle, Spiele, Liveticker und mehr finden Sie hier. Die europäische Liga der Fußball-Männer-Nationalmannschaften auf ZDFheute.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league-tabelle-spielplan-ergebnisse-liveticker-100.html",
+   "published": "2026-09-24T16:24:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "KI, der Ruf nach Regulierung - und was die EU tun kann",
+   "summary": "Die KI-Chefs Sam Altman und Dario Amodei wollen mehr Regulierung für ihre eigene Branche. Wirklich? Was hinter der Forderung steckt - und wie mehr Kontrolle aussehen könnte.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/open-ai-ki-hackerangriff-australien-kontrolle-100.html",
+   "published": "2026-09-24T16:21:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Wahlen in Mecklenburg-Vorpommern: AfD-interne Kritik am Wahlerfolg",
+   "summary": "Nach einer AfD-Analyse wäre in Mecklenburg-Vorpommern mehr möglich gewesen. Der Schuldige: ihr Ministerpräsidentenkandidat. mehr...",
+   "link": "https://taz.de/Wahlen-in-Mecklenburg-Vorpommern/!6215933/",
+   "published": "2026-09-24T16:20:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Musikfest Berlin: Wo Wiederhören Freude macht",
+   "summary": "Das Musikfest Berlin bot dieses Jahr neben Orchesterwerken viel Musiktheater ganz unterschiedlicher Art. Am Anfang wie am Ende standen diesmal Vokalwerke. mehr...",
+   "link": "https://taz.de/Abschluss-Musikfest-Berlin/!6215654/",
+   "published": "2026-09-24T16:11:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Premiere 100 Jahre Münchner Kammerspiele: Selbstbewusst den Schorf der Vergangenheit aufkratzen",
+   "summary": "Die Münchner Kammerspiele eröffnen zum Spielzeitjubiläum mit „Danton“, frei nach Büchner, humorvoll und mit viel Drama von Post Paradies inszeniert. mehr...",
+   "link": "https://taz.de/Premiere-100-Jahre-Muenchner-Kammerspiele/!6216062/",
+   "published": "2026-09-24T16:08:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "UN-Vollversammlung: Deutschland legt kontraproduktive Klimaschutzpläne vor",
+   "summary": "Deutschland meldet einen Klimaschutzplan bei der UNO an, der nicht umsetzbar sein dürfte: Sabotiert Wirtschaftsministerin Reiche doch die Eneuerbaren? mehr...",
+   "link": "https://taz.de/UN-Vollversammlung/!6215919/",
+   "published": "2026-09-24T16:07:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: Sorge um Rechenzentrums-Pläne von Oracle",
+   "summary": "Bei dem geplanten Vorzeigeprojekt „Jupiter“ des Techkonzerns gibt es Medienberichten zufolge Finanzierungsprobleme. Die Oracle-Aktie brach am Donnerstag um fünf Prozent ein, berichtet Markus Koch.",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-sorge-um-rechenzentrums-plaene-von-oracle/100257261.html",
+   "published": "2026-09-24T16:06:44+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Sondervermögen: Die Milliarden sind da, aber die Bagger stehen noch",
+   "summary": "100 Milliarden Euro sollen aus dem Sondervermögen an die Länder und Kommunen gehen. Warum es dauern könnte, bis das Geld auf den Baustellen ankommt – und das nicht unbedingt eine schlechte Nachricht sein muss.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/sondervermoegen-die-milliarden-fliessen-aber-die-bagger-stehen-noch-still-201211448.html",
+   "published": "2026-09-24T16:05:10+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "HVO: Ökodiesel im Großhandel erstmals billiger als Diesel",
+   "summary": "Seit 2024 ist HVO100 in Deutschland zugelassen. Nun ist der Ökodiesel im Großhandel wegen der Spannungen im Nahen Osten erstmals günstiger als fossiler Diesel. Das könnte auch bald an der Zapfsäule ankommen.",
+   "link": "https://www.spiegel.de/wirtschaft/service/hvo-oekodiesel-im-grosshandel-erstmals-billiger-als-diesel-a-84e509be-a2ac-4adb-8667-145f6475e3ca#ref=rss",
+   "published": "2026-09-24T16:02:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Dax aktuell: Dax schließt im Minus – Aktie eines Chipkonzerns setzt Negativtrend fort",
    "summary": "Hohe Ölpreise, steigende Anleiherenditen und geopolitische Unsicherheit haben die Märkte am Donnerstag gebremst. Ein starker Ifo-Geschäftsklimaindex konnte die Anleger nicht überzeugen.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-infineon-setzt-negativtrend-fort/100257045.html",
    "published": "2026-09-24T15:53:00+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Staatsbesuch: Xi zu Besuch in Washington: Zwei Pandabären für die USA",
+   "summary": "China nutzt die niedlichen Tiere gern als Zeichen der Diplomatie. Auch für die USA soll es zwei neue Pandabären geben.",
+   "link": "https://www.handelsblatt.com/politik/international/staatsbesuch-xi-zu-besuch-in-washington-zwei-pandabaeren-fuer-die-usa/100256969.html",
+   "published": "2026-09-24T15:51:10+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
    "paywall": true
   },
   {
@@ -566,6 +737,15 @@
    "link": "https://www.handelsblatt.com/politik/international/usa-weisses-haus-sperrt-us-medien-trotz-richterspruchs-aus/100257048.html",
    "published": "2026-09-24T13:48:28+00:00",
    "first_seen": "2026-09-24T14:04:35.198815+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: CNN und MS Now – Journalisten dürfen wieder ins Weiße Haus",
+   "summary": "Ein Bundesrichter stoppte den Ausschluss von CNN, MS NOW und „Politico“ aus dem Weißen Haus. Am Nachmittag waren sie trotzdem abgewiesen worden. Jetzt haben die Journalisten wieder Zugang.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-cnn-und-ms-now-journalisten-duerfen-wieder-ins-weisse-haus/100257048.html",
+   "published": "2026-09-24T13:48:28+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
    "paywall": true
   },
   {
@@ -13320,186 +13500,6 @@
    "published": "2026-09-21T22:53:42+00:00",
    "first_seen": "2026-09-22T06:05:08.716720+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Tankrabatt ab 1. Oktober: Bundesregierung gibt grünes Licht",
-   "summary": "Das Bundeskabinett hat grünes Licht für den Tankrabatt ab 1. Oktober gegeben. Bundestag und Bundesrat sollen die Maßnahme noch diese Woche beschließen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/tankrabatt-oktober-regierung-beschluss-100.html",
-   "published": "2026-09-21T22:20:00+00:00",
-   "first_seen": "2026-09-21T23:04:20.576230+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Seiltänzerin überquert Halden ohne Sicherung",
-   "summary": "Die Hochseil-Artistin Tatiana-Mosio Bongonga balancierte ohne Netz und Sicherung in luftiger Höhe zwischen zwei Halden in Nordfrankreich. Etwa 9.000 Zuschauer sahen beim Spektakel zu.",
-   "link": "https://www.zdfheute.de/bilder/seiltaenzerin-quert-halden-video-100.html",
-   "published": "2026-09-21T22:14:00+00:00",
-   "first_seen": "2026-09-21T23:04:20.576230+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Energiekosten: Prognose: Heizkosten steigen 2026 an",
-   "summary": "Es zeichnet sich ab, dass Haushalte in diesem Jahr fürs Heizen oft mehr bezahlen müssen als 2025. Wer mit Gas heizt, könnte erstaunlicherweise aber noch Glück haben. Eine neue Studie nennt Gründe.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/energiekosten-prognose-heizkosten-steigen-2026-an/100256350.html",
-   "published": "2026-09-21T22:02:04+00:00",
-   "first_seen": "2026-09-21T23:04:20.576230+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Was die Linke für mögliche Koalitionspartner unattraktiv macht",
-   "summary": "In Berlin könnte die Linke bald regieren - wären da nicht Antisemitismus-Vorwürfe und ein Clan-Chef, der zur Party auftauchte. Kommt es trotzdem zu Sondierungen mit SPD und Grünen?",
-   "link": "https://www.zdfheute.de/politik/deutschland/linke-sondierung-probleme-berlin-wahl-100.html",
-   "published": "2026-09-21T21:12:00+00:00",
-   "first_seen": "2026-09-21T22:04:17.139967+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Der nächste Karriereschritt für Philipp Amthor",
-   "summary": "Philipp Amthor sitzt mit 33 schon fast ein Jahrzehnt im Bundestag - und führt jetzt kommissarisch die CDU im Nordosten. Er gilt als konservativ, sein Auftreten ist pointiert.",
-   "link": "https://www.zdfheute.de/politik/deutschland/philipp-amthor-cdu-mecklenburg-vorpommern-landesvorsitz-100.html",
-   "published": "2026-09-21T21:04:00+00:00",
-   "first_seen": "2026-09-21T22:04:17.139967+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Die Höhle der Löwen: „Ich war aufgeregter als bei meinen Abiturprüfungen“",
-   "summary": "Compactgreens baut Pflanzsysteme für Städter. Die Begeisterung der Löwen ist groß. Was ist aus dem Handschlagdeal mit Dagmar Wöhrl geworden?",
-   "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-compactgreens-begeistert-investoren-mit-pflanzsystem/100256117.html",
-   "published": "2026-09-21T21:00:00+00:00",
-   "first_seen": "2026-09-21T21:03:54.170728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Spritpreise: Regierung hat Tankrabatt auf den Weg gebracht",
-   "summary": "Zum 1. Oktober soll das Tanken billiger werden. Die Bundesregierung hat dazu nun entsprechende Beschlüsse gefasst.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/spritpreise-regierung-hat-tankrabatt-auf-den-weg-gebracht/100256279.html",
-   "published": "2026-09-21T20:52:27+00:00",
-   "first_seen": "2026-09-21T21:03:54.170728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Recherche enthüllt: Klimaforscher arbeiten für Ölkonzerne",
-   "summary": "Dutzende Klimaforscher beim Weltklimarrat (IPCC) haben Kontakte zur Öl- und Gasindustrie. Vor allem die Autoren mit Verbindungen zum saudischen Ölriesen Aramco werfen Fragen auf.",
-   "link": "https://www.zdfheute.de/wissen/ipcc-klimarat-lobbyismus-100.html",
-   "published": "2026-09-21T20:46:00+00:00",
-   "first_seen": "2026-09-21T21:03:54.170728+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wahlergebnisse: \"Historischer Einschnitt für die CDU\"",
-   "summary": "Zusammenschnitt der Einordnungen der Reaktionen auf die gestrige Landtagswahl in Mecklenburg-Vorpommern und die Wahl des Berliner Abgeordnetenhauses durch den Politikwissenschaftler Prof. Stefan Marschall (Heinrich Heine-Universität…",
-   "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-der-tag/ua-einordnungen-am-tag-na-a-5227159.html",
-   "published": "2026-09-21T20:44:00+00:00",
-   "first_seen": "2026-09-22T07:05:02.937152+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Russische Milliardäre: Zoff um Oligarchen: Vorerst kein Deal zu Russland-Sanktionen",
-   "summary": "Die EU hat nach dem Beginn von Russlands Angriffskrieg gegen die Ukraine Sanktionen gegen etliche milliardenschwere Oligarchen verhängt. Nun gibt es in der EU großen Ärger um zwei von ihnen.",
-   "link": "https://www.handelsblatt.com/politik/international/russische-milliardaere-zoff-um-oligarchen-vorerst-kein-deal-zu-russland-sanktionen/100256323.html",
-   "published": "2026-09-21T20:23:16+00:00",
-   "first_seen": "2026-09-21T21:03:54.170728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Merz ist nicht so frei, wie er glaubt",
-   "summary": "Merz wähnt sich nach der Wahlniederlage befreit. Doch eine Realität bleibt: Seine Ministerpräsidenten werden seine Reformen an die Landtagswahlen im April koppeln.",
-   "link": "https://www.zdfheute.de/politik/deutschland/merz-wahlniederlage-cdu-reformen-druck-100.html",
-   "published": "2026-09-21T20:23:00+00:00",
-   "first_seen": "2026-09-21T21:03:54.170728+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kanzler-Spekulationen: Wüst: „Ich möchte Ministerpräsident bleiben“",
-   "summary": "Nordrhein-Westfalens Regierungschef Wüst wird als möglicher Nachfolger von Kanzler Merz gehandelt. Bei einer Veranstaltung bekennt Wüst sich zu seinem Amt in NRW – für immer?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/kanzler-spekulationen-wuest-ich-moechte-ministerpraesident-bleiben/100256342.html",
-   "published": "2026-09-21T20:20:28+00:00",
-   "first_seen": "2026-09-21T21:03:54.170728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Live: Was bedeuten die Wahlen für Deutschland?",
-   "summary": "Nach den Landtagswahlen: Wer will oder kann mit wem regieren? Was bedeuten die Wahlergebnisse für das Land und die Bundesregierung? u.a. mit Thorsten Frei (CDU) und Sigmar Gabriel (SPD).",
-   "link": "https://www.zdf.de/video/talk/maybrit-illner-128/maybrit-illner-spezial-vom-21-september-2026-100",
-   "published": "2026-09-21T20:15:00+00:00",
-   "first_seen": "2026-09-21T21:03:54.170728+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Private Krankenversicherung: Kanzler deutet Kurswechsel an",
-   "summary": "Die Bevölkerung sehe ein massives Problem beim Nebeneinander von privater und gesetzlicher Krankenversicherung, sagt Merz. Er sei zu Änderungen bereit - zu welchen, sagt er nicht.",
-   "link": "https://www.zdfheute.de/politik/deutschland/merz-krankenkasse-krankenversicherung-privat-gesetzlich-vorschlag-100.html",
-   "published": "2026-09-21T19:32:00+00:00",
-   "first_seen": "2026-09-21T20:04:12.107368+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Chat mit Mitglied des Remmo-Clans: Ferat Koçak entschuldigt sich",
-   "summary": "Firas Remmo veröffentlicht einen alten Chat mit dem Linken-Abgeordneten Koçak. Der sagt, er habe erst nicht gewusst, mit wem er schreibe, dann aber einen Fehler begangen. mehr...",
-   "link": "https://taz.de/Chat-mit-Mitglied-des-Remmo-Clans/!6215212/",
-   "published": "2026-09-21T19:31:00+00:00",
-   "first_seen": "2026-09-22T06:05:08.716720+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Landtagswahlen: Rote Traumschlösser",
-   "summary": "Die Mehrheit der Wähler hat sich in einer Parallelwelt eingerichtet, in der ökonomische Fakten wenig zählen. Der starke Staat wird es schon richten, irgendwie.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/landtagswahlen-rote-traumschloesser-201247377.html",
-   "published": "2026-09-21T19:24:52+00:00",
-   "first_seen": "2026-09-21T20:04:12.107368+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nach der Landtagswahl in MV: MV mit Kurs auf Rot-Rot-Grün - CDU-Landesführung wirft hin",
-   "summary": "Nach der Wahl ist vor den Koalitionsverhandlungen in Mecklenburg-Vorpommern. Die ersten Weichen sind gestellt. Bei dem Wahlverlierer CDU gibt es derweil personelle Konsequenzen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-landtagswahl-in-mv-mv-mit-kurs-auf-rot-rot-gruen-cdu-landesfuehrung-wirft-hin/100256336.html",
-   "published": "2026-09-21T19:19:05+00:00",
-   "first_seen": "2026-09-21T20:04:12.107368+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Alstom-Chef: „Der Zug wird in ein goldenes Zeitalter eintreten“",
-   "summary": "Die Bahn erlebt mit der Digitalisierung gerade ihre vierte Revolution, stellt der Chef des TGV-Herstellers Alstom klar. Bei Schutz und Standardisierung müsse Europa aber mehr tun.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chef-von-tgv-hersteller-alstom-der-zug-wird-in-ein-goldenes-zeitalter-eintreten-201247191.html",
-   "published": "2026-09-21T19:08:55+00:00",
-   "first_seen": "2026-09-21T20:04:12.107368+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Iran-Krieg +++: Kallas: EU-Mission im Roten Meer benötigt mehr Schiffe",
-   "summary": "Großbritannien unterstützt Saudi-Arabien gegen Huthi-Angriffe +++ Zeitung: USA erwägen 5-Mrd-Zahlung für Energie-Wiederaufbau in Nahost +++ USA wollen Irans Fluggesellschaften weltweit isolieren +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-kallas-eu-mission-im-roten-meer-benoetigt-mehr-schiffe/100136895.html",
-   "published": "2026-09-21T19:04:00+00:00",
-   "first_seen": "2026-09-22T05:04:14.050566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Yasmin Fahimi fordert mehr Industriepolitik",
-   "summary": "DGB-Chefin Fahimi fordert eine andere Reformpolitik: mehr Industriepolitik, sichere Renten und Investitionen in Infrastruktur. Einsparungen dürften nicht zulasten von Arbeitnehmern gehen.",
-   "link": "https://www.zdfheute.de/video/zdfspezial/260921-1925-clip-12-spz-102.html",
-   "published": "2026-09-21T18:55:00+00:00",
-   "first_seen": "2026-09-21T20:04:12.107368+00:00",
-   "paywall": false
   }
  ]
 }

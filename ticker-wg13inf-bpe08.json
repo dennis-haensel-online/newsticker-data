@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T16:04:24.963385+00:00",
+ "updated": "2026-09-24T17:03:45.598497+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "KI, der Ruf nach Regulierung - und was die EU tun kann",
+   "summary": "Die KI-Chefs Sam Altman und Dario Amodei wollen mehr Regulierung für ihre eigene Branche. Wirklich? Was hinter der Forderung steckt - und wie mehr Kontrolle aussehen könnte.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/open-ai-ki-hackerangriff-australien-kontrolle-100.html",
+   "published": "2026-09-24T16:21:00+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
@@ -892,15 +901,6 @@
    "published": "2026-09-23T09:35:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Trotz Iran-Krieg: Bessere Aussichten für deutsche Wirtschaft",
-   "summary": "Die OECD hebt ihre Prognose für die deutsche Wirtschaft an: Für dieses Jahr erwartet sie nun 1,1 Prozent Wachstum. Doch Risiken bleiben - durch Konflikte, Extremwetter und KI.",
-   "link": "https://www.zdfheute.de/wirtschaft/oecd-konjunktur-prognose-aufschwung-100.html",
-   "published": "2026-09-23T09:21:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
   }
  ]
 }

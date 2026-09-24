@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T16:04:24.963385+00:00",
+ "updated": "2026-09-24T17:03:45.598497+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Wechsel zum IWF: EZB-Direktorin Schnabel tritt vorzeitig ab",
+   "summary": "Die deutsche Top-Ökonomin zieht es für eine neue Rolle nach Washington zum Internationalen Währungsfonds. Die Neubesetzung könnte interessant werden - denn auch die EZB-Präsidentin könnte ihren Posten vorzeitig räumen.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-schnabel-ezb-100.html",
+   "published": "2026-09-24T16:35:53+00:00",
+   "first_seen": "2026-09-24T17:03:45.598497+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -892,15 +901,6 @@
    "published": "2026-09-22T10:44:00+00:00",
    "first_seen": "2026-09-22T11:04:20.063643+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Wirtschaft in Deutschland: Institute verdoppeln Wachstumsprognose",
-   "summary": "Die deutsche Wirtschaft zieht nach jahrelanger Flaute wieder an. Nun erhöhen Ökonominnen und Ökonomen ihre Voraussage deutlich, auch für das kommende Jahr.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/wirtschaft-in-deutschland-institute-verdoppeln-wachstumsprognose-a-b8c76870-ed93-480b-9c94-4bad7fadd370#ref=rss",
-   "published": "2026-09-22T10:37:00+00:00",
-   "first_seen": "2026-09-22T11:04:20.063643+00:00",
-   "paywall": false
   }
  ]
 }
