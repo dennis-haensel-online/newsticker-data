@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T18:05:12.163553+00:00",
+ "updated": "2026-09-24T19:04:04.206492+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Zinssorgen und steigender Ölpreis bremsen US-Börsen",
+   "summary": "Inflationsrisiken, Unsicherheiten bei den Ölpreisen und US-Staatsfinanzen machen der Wall Street zu schaffen. Anleger schauen auf das Treffen von Trump und Xi.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-zinssorgen-und-steigender-oelpreis-bremsen-us-boersen/100257196.html",
+   "published": "2026-09-24T18:49:00+00:00",
+   "first_seen": "2026-09-24T19:04:04.206492+00:00",
    "paywall": true
   },
   {
@@ -36,6 +45,15 @@
    "link": "https://www.spiegel.de/wirtschaft/isabel-schnabel-ezb-direktorin-tritt-vorzeitig-zurueck-und-wechselt-zum-iwf-a-d7dfee01-e432-4fa9-8800-a6dce7456157#ref=rss",
    "published": "2026-09-24T15:33:00+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Isabel Schnabel: EZB-Direktorin tritt vorzeitig ab und wechselt zum IWF",
+   "summary": "Gemeinsam mit Christine Lagarde ist Isabel Schnabel die einzige Frau im Direktorium der Europäischen Zentralbank. Nun ist klar: Anfang Januar wird die Deutsche Frankfurt verlassen.",
+   "link": "https://www.spiegel.de/wirtschaft/isabel-schnabel-ezb-direktorin-tritt-vorzeitig-ab-und-wechselt-zum-iwf-a-d7dfee01-e432-4fa9-8800-a6dce7456157#ref=rss",
+   "published": "2026-09-24T15:33:00+00:00",
+   "first_seen": "2026-09-24T19:04:04.206492+00:00",
    "paywall": false
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/banken/inflation-wegen-energiekosten-rechnet-ezb-chefvolkswirt-mit-anhaltender-inflation/100256549.html",
    "published": "2026-09-22T11:21:39+00:00",
    "first_seen": "2026-09-22T12:04:46.064409+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ranking 2026: Das sind Deutschlands wachstumsstärkste Mittelständler",
-   "summary": "Erfolgreiche Mittelständler zeichnen sich durch konsequente Positionierung im Markt und klare Standortpolitik aus. Ein Ranking zeigt die Wachstums-Champions in Deutschland.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/ranking-2026-das-sind-deutschlands-wachstumsstaerkste-mittelstaendler/100244614.html",
-   "published": "2026-09-22T11:08:46+00:00",
-   "first_seen": "2026-09-22T12:04:46.064409+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
-   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
-   "link": "https://www.handelsblatt.com/karriere/ruestungsindustrie-welche-kompetenzen-manager-beim-einstieg-mitbringen-sollten/100211178.html",
-   "published": "2026-09-22T10:44:00+00:00",
-   "first_seen": "2026-09-22T11:04:20.063643+00:00",
    "paywall": true
   }
  ]
