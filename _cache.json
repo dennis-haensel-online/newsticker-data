@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T19:04:04.206492+00:00",
+ "updated": "2026-09-24T20:04:37.639273+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Banden, Bosse & Bukele - Deal mit El Salvador",
+   "summary": "2025 handeln El Salvadors Präsident Nayib Bukele und Donald Trump einen Deal aus: El Salvador nimmt in seinem Megagefängnis CECOT Abschiebehäftlinge aus den USA auf. Was steckt dahinter?",
+   "link": "https://www.zdf.de/video/dokus/die-akte-trump-100/zdfinfo-die-akte-trump-banden-bosse-bukele-deal-mit-el-salvador-100",
+   "published": "2026-09-24T19:45:00+00:00",
+   "first_seen": "2026-09-24T20:04:37.639273+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Brandmauer-Debatte: AfD und CDU stimmen gegen Verlegung von Stolpersteinen",
+   "summary": "Stadträte von CDU und AfD sprechen sich gegen Stolpersteine zur Erinnerung an Opfer des Nationalsozialismus in der Stadt aus. Ihr Antrag wurde angenommen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/brandmauer-debatte-afd-und-cdu-stimmen-gegen-verlegung-von-stolpersteinen/100257281.html",
+   "published": "2026-09-24T19:43:18+00:00",
+   "first_seen": "2026-09-24T20:04:37.639273+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Prinzessin Dianas Bruder und die Enthüllungen im \"Swan Song\"",
+   "summary": "Der Schwanengesang ist in der griechischen Mythologie das letzte bedeutende Werk eines Menschen. Eine Nachricht an die Welt. So sieht Charles Spencer das Buch über seine Schwester.",
+   "link": "https://www.zdfheute.de/panorama/prominente/charles-spencer-lady-diana-buch-swan-song-100.html",
+   "published": "2026-09-24T19:42:00+00:00",
+   "first_seen": "2026-09-24T20:04:37.639273+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "150 jüdische Berliner verteidigen Linke - Zentralrat warnt",
+   "summary": "Gegen die Linke in Berlin hagelt es nach ihrem Wahlerfolg Antisemitismus-Vorwürfe. Mehrere Jüdinnen und Juden wehren sich nun gegen eine Instrumentalisierung des Vorwurfs.",
+   "link": "https://www.zdfheute.de/politik/deutschland/brief-juden-juedinnen-linke-antisemitismus-berlin-wahl-100.html",
+   "published": "2026-09-24T19:03:00+00:00",
+   "first_seen": "2026-09-24T20:04:37.639273+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -171,6 +207,15 @@
    "published": "2026-09-24T17:38:09+00:00",
    "first_seen": "2026-09-24T18:05:12.163553+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Berlin: SPD und Grüne vor Sondierungsgesprächen mit Linke?",
+   "summary": "Nach der Wahl in Berlin stehen Grüne und SPD vor einer weiteren Wahl: Linke oder CDU. Mögliche Sondierungsgespräche mit der Linkspartei stehen vor der Tür. Doch es gibt Kritik.",
+   "link": "https://www.zdfheute.de/politik/deutschland/spd-aufstellung-koalitionsverhandlungen-berlin-linke-100.html",
+   "published": "2026-09-24T17:32:00+00:00",
+   "first_seen": "2026-09-24T20:04:37.639273+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -12395,6 +12440,15 @@
    "paywall": true
   },
   {
+   "label": "tagesschau",
+   "title": "Kabinett bringt Tankrabatt auf den Weg",
+   "summary": "Am 1. Oktober soll der neue Tankrabatt kommen - nun hat das Kabinett den Gesetzentwurf im Umlaufverfahren beschlossen. Bundestag und Bundesrat sollen ihn noch in dieser Woche billigen.",
+   "link": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html",
+   "published": "2026-09-22T07:52:20+00:00",
+   "first_seen": "2026-09-24T20:04:37.639273+00:00",
+   "paywall": false
+  },
+  {
    "label": "ZEIT",
    "title": "Evonik: Chemiekonzern Evonik baut 2.150 Stellen in Deutschland ab",
    "summary": "Evonik hat angekündigt, bis 2029 weltweit 3.200 Stellen zu streichen. Auch ein Verkauf der Konzerntöchter Oxeno und Synect ist laut dem Chemiekonzern aus Essen geplant.",
@@ -13446,60 +13500,6 @@
    "published": "2026-09-22T03:45:00+00:00",
    "first_seen": "2026-09-22T04:03:57.050979+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Manchester City: Die neue Macht von der Insel",
-   "summary": "Manchester City will nach dem Double in England nun zum internationalen Spitzenteam reifen. Last-Minute-Zugang Carlotta Wamser soll dabei eine Schlüsselrolle spielen.",
-   "link": "https://www.zdfheute.de/sport/fussball-frauen-champions-league-bayern-gegner-manchester-city-vorbericht-100.html",
-   "published": "2026-09-22T03:43:00+00:00",
-   "first_seen": "2026-09-22T04:03:57.050979+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: Nach Hausverbot – Sender klagen gegen Trump, auch Fox News protestiert",
-   "summary": "Der Schritt des Präsidenten, CNN, MS NOW und „Politico“ aus dem Weißen Haus zu werfen, stößt auf Gegenwehr. Auch Trump-freundliche Reporter erklären sich solidarisch – und bleiben Auftritten fern.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-nach-hausverbot-sender-klagen-gegen-trump-auch-fox-news-protestiert/100256375.html",
-   "published": "2026-09-22T03:41:43+00:00",
-   "first_seen": "2026-09-22T04:03:57.050979+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: Nach Hausverbot – Trump-naher Sender zeigt sich solidarisch mit Betroffenen",
-   "summary": "Nach dem Rauswurf aus dem Weißen Haus erhalten die betroffenen Medien unerwartete Unterstützung von Trump-freundlichen Reportern. Der Präsident startet derweil „Trump TV“.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-nach-hausverbot-trump-naher-sender-solidarisch-mit-betroffenen/100256375.html",
-   "published": "2026-09-22T03:41:43+00:00",
-   "first_seen": "2026-09-22T05:04:14.050566+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "„Most Voted Apps“: Diese Website hat App-Empfehlungen von echten Menschen",
-   "summary": "Empfehlungen statt Charts: Die neue Website Most Voted Apps zeigt, welche Apps von der Community wirklich genutzt und geschätzt werden – für Smartphones und Personal Computer.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/most-voted-apps-diese-website-hat-app-empfehlungen-von-echten-menschen/100256394.html",
-   "published": "2026-09-22T03:21:04+00:00",
-   "first_seen": "2026-09-22T04:03:57.050979+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Diplomatie: Chinas Außenminister Wang – China und Europa sollten keinen Handelskrieg führen",
-   "summary": "Deutschland gehört zu den lautesten Kritikern eines unausgewogenen Handels mit China. Wang hofft, dass Deutschland sich in der EU für Freihandel sowie gegen Protektionismus einsetzt.",
-   "link": "https://www.handelsblatt.com/politik/international/diplomatie-chinas-aussenminister-wang-china-und-europa-sollten-keinen-handelskrieg-fuehren/100256387.html",
-   "published": "2026-09-22T03:11:19+00:00",
-   "first_seen": "2026-09-22T04:03:57.050979+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Generaldebatte: Iran-Krieg und Grönland-Abkommen: Trumps Agenda in New York",
-   "summary": "In New York kommt die Welt im Schatten zahlreicher ungelöster Konflikte zusammen. Während der Iran-Krieg andauert, will Trump mit der Lösung einer anderen Krise punkten, die er selbst vom Zaun brach.",
-   "link": "https://www.handelsblatt.com/politik/international/un-generaldebatte-iran-krieg-und-groenland-abkommen-trumps-agenda-in-new-york/100256391.html",
-   "published": "2026-09-22T03:06:48+00:00",
-   "first_seen": "2026-09-22T04:03:57.050979+00:00",
-   "paywall": true
   }
  ]
 }
