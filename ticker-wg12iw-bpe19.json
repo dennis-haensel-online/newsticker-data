@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-24T10:04:09.955690+00:00",
+ "updated": "2026-09-24T11:04:11.540074+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -13,11 +13,47 @@
   },
   {
    "label": "ZEIT",
+   "title": "Institut für Arbeitsmarkt- und Berufsforschung: Institut erwartet Verlust von 350.000 Jobs bis Ende 2027",
+   "summary": "Das unerwartete Wirtschaftswachstum kommt laut einer Prognose des IAB nicht am Arbeitsmarkt an. Vor allem in der Industrie erwarten Ökonomen einen weiteren Stellenabbau.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/iab-prognose-erwerbstaetigkeit-deutschland-demografischer-wandel-arbeitsmarkt-gxe",
+   "published": "2026-09-24T10:36:22+00:00",
+   "first_seen": "2026-09-24T11:04:11.540074+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Finanzen: Finanzagentur rechnet für 2027 mit neuen Rekordschulden",
+   "summary": "Um das Wirtschaftswachstum zu stützen, dürfte der Bund auch 2027 Schulden in Rekordhöhe aufnehmen, sagt die Finanzagentur voraus. Das hat auch Folgen für Staatsanleihen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/finanzen-finanzagentur-rechnet-fuer-2027-mit-neuen-rekordschulden/100256292.html",
+   "published": "2026-09-24T10:30:59+00:00",
+   "first_seen": "2026-09-24T11:04:11.540074+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Trockenheit: El Niño bringt die Stabilität ganzer Nationen in Gefahr",
+   "summary": "Nach Trumps Zöllen und Irankrieg droht der wachstumsstärksten Region der Welt die nächste Gefahr: extreme Trockenheit, die Preise und Schulden steigen lässt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/el-nino-bringt-die-stabilitaet-ganzer-nationen-in-gefahr-accg-201255646.html",
+   "published": "2026-09-24T10:02:03+00:00",
+   "first_seen": "2026-09-24T11:04:11.540074+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
    "title": "Ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen verbessert sich weiter",
    "summary": "Die Wirtschaft scheint sich zu erholen, entsprechend positiv blicken Unternehmen derzeit in die Zukunft. Der Geschäftsklimaindex stieg auf den höchsten Wert seit 2023.",
    "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/ifo-geschaeftsklima-index-deutschland-unternehmen-konjunktur",
    "published": "2026-09-24T09:59:35+00:00",
    "first_seen": "2026-09-24T10:04:09.955690+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen verbessert sich weiter",
+   "summary": "Die Wirtschaft scheint sich zu erholen, entsprechend positiv blicken Unternehmen derzeit in die Zukunft. Der Geschäftsklimaindex stieg auf den höchsten Wert seit 2023.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/ifo-geschaeftsklima-index-deutschland-unternehmen-konjunktur-gxe",
+   "published": "2026-09-24T09:59:35+00:00",
+   "first_seen": "2026-09-24T11:04:11.540074+00:00",
    "paywall": true
   },
   {
@@ -36,6 +72,15 @@
    "link": "https://www.wiwo.de/politik/konjunktur/deutsche-wirtschaft-waechst-zahl-der-jobs-sinkt-aber/100257139.html",
    "published": "2026-09-24T09:48:05+00:00",
    "first_seen": "2026-09-24T10:04:09.955690+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Die deutsche Wirtschaft wächst – doch die Zahl der Jobs sinkt",
+   "summary": "Die Wirtschaft in Deutschland wächst wieder – aber der Aufschwung kommt nicht am Arbeitsmarkt an. Vor allem in einer Branche gehen Stellen verloren.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-und-zahl-der-jobs-sinkt/100257139.html",
+   "published": "2026-09-24T09:48:05+00:00",
+   "first_seen": "2026-09-24T11:04:11.540074+00:00",
    "paywall": true
   },
   {
@@ -261,6 +306,15 @@
    "link": "https://www.spiegel.de/wirtschaft/berechnung-der-allianz-hitze-daempfte-europas-wirtschaftsleistung-a-297d80d8-a8c2-4503-b05b-e6ab5b29b75e#ref=rss",
    "published": "2026-09-24T06:06:00+00:00",
    "first_seen": "2026-09-24T07:04:59.934858+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Hitze dämpfte laut Studie der Allianz Europas Wirtschaftsleistung",
+   "summary": "Die starke Hitze der vergangenen Monate hat vielen Menschen zugesetzt. Einer Studie der Allianz zufolge hatte das Wetter zudem erhebliche Auswirkungen auf die Wirtschaftskraft.",
+   "link": "https://www.spiegel.de/wirtschaft/hitze-daempfte-laut-studie-der-allianz-europas-wirtschaftsleistung-a-297d80d8-a8c2-4503-b05b-e6ab5b29b75e#ref=rss",
+   "published": "2026-09-24T06:06:00+00:00",
+   "first_seen": "2026-09-24T11:04:11.540074+00:00",
    "paywall": false
   },
   {
