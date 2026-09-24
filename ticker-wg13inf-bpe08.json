@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-24T04:03:59.882005+00:00",
+ "updated": "2026-09-24T05:03:41.554213+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "OpenAI-KI hackt australisches Regierungsportal",
+   "summary": "In Australien hat sich ein KI-Agent von OpenAI Zugang zu einem Regierungsportal der Krankenversicherung verschafft. Das hat Premier Anthony Albanese in New York bekannt gegeben.",
+   "link": "https://www.zdfheute.de/politik/ausland/australien-open-ai-hackerangriff-regierung-gehackt-100.html",
+   "published": "2026-09-24T04:09:00+00:00",
+   "first_seen": "2026-09-24T05:03:41.554213+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Warnungen vor KI-Gefahren: Managerin an Techbosse: Macht die Blackbox KI auf",
+   "summary": "Untergangsszenarien durch KI lösen Verunsicherung aus. Ist Alarmismus übertrieben? Die neue Geschäftsführerin am Forschungsinstitut von Hasso Plattner schlägt US-Techkonzernen eine Prüfaufsicht vor.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/warnungen-vor-ki-gefahren-managerin-an-techbosse-macht-die-blackbox-ki-auf/100257023.html",
+   "published": "2026-09-24T04:00:11+00:00",
+   "first_seen": "2026-09-24T05:03:41.554213+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Meta-Konzern: Das Tamagotchi ist zurück - Zuckerberg startet Frontalangriff auf OpenAI",
@@ -881,24 +899,6 @@
    "summary": "Nahost, Ukraine, KI-Regulierung und ein mögliches Trump-Xi-Treffen: Die UN-Vollversammlung in New York hat viele Themen auf der Agenda. Der Dax startet zurückhaltend.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-unveraendert-oelpreise-steigen-wieder/100256414.html",
    "published": "2026-09-22T07:54:29+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/berufe-in-welchen-branchen-auf-dem-arbeitsmarkt-ki-kenntnisse-gefragt-sind/100251207.html",
-   "published": "2026-09-22T07:50:00+00:00",
-   "first_seen": "2026-09-22T08:04:13.382356+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/job-was-sind-vor-und-nachteile-von-ki-interviews/100248546.html",
-   "published": "2026-09-22T07:49:00+00:00",
    "first_seen": "2026-09-22T08:04:13.382356+00:00",
    "paywall": true
   }
