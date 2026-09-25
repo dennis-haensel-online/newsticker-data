@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T09:04:20.519616+00:00",
+ "updated": "2026-09-25T10:04:11.680094+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wochenend-Newsletter: Oft wird viel geredet, aber wenig gesagt",
+   "summary": "Außerdem: ein KI-Pionier mit Selbstzweifeln, ein Plädoyer gegen die Cowboy-Mentalität und ein Kult-Moped mit AfD-Problem. Das sind unsere Lese-Empfehlungen.",
+   "link": "https://www.handelsblatt.com/wochenende/wochenend-newsletter-oft-wird-viel-geredet-aber-wenig-gesagt/100257090.html",
+   "published": "2026-09-25T09:52:08+00:00",
+   "first_seen": "2026-09-25T10:04:11.680094+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
+   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
+   "link": "https://www.handelsblatt.com/technik/ki/yoshua-bengio-diese-kis-betruegen-obwohl-sie-es-nicht-duerfen/100256318.html",
+   "published": "2026-09-25T09:13:00+00:00",
+   "first_seen": "2026-09-25T10:04:11.680094+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Entwicklung von Robotern: Die gute Fee, gefüllt mit Helium",
@@ -881,24 +899,6 @@
    "summary": "Die CEOs von OpenAI und Anthropic werben bei der UN für eine Zusammenarbeit im Bereich KI. Trump hatte zuvor Versuche abgelehnt, ein globales Kontrollsystem zu errichten.",
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-anthropic-chef-warnt-un-sicherheitsrat-vor-ki-gefahren-fuer-die-menschheit/100256961.html",
    "published": "2026-09-23T20:46:44+00:00",
-   "first_seen": "2026-09-23T21:04:28.853642+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Superintelligenz vor dem UN-Sicherheitsrat – Die KI-Chefs warnen vor sich selbst",
-   "summary": "Altman und Amodei fordern auf der Weltbühne in New York globale Leitplanken. Doch US-Präsident Trump lehnt ab – und Kritiker fragen, ob es den Konzernen wirklich nur um Sicherheit geht.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-superintelligenz-vor-dem-un-sicherheitsrat-die-ki-chefs-warnen-vor-sich-selbst/100256961.html",
-   "published": "2026-09-23T20:46:44+00:00",
-   "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
-   "summary": "Deutschland und Indien wollen gemeinsam U-Boote bauen +++ Windkraft-Betrüger Hendrik Holt in Dubai verhaftet +++ Flixtrain bestellt neue Hochgeschwindigkeitszüge +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-anthropic-chef-warnt-un-sicherheitsrat-vor-ki-gefahren-fuer-die-menschheit-faz-200452404.html",
-   "published": "2026-09-23T19:59:48+00:00",
    "first_seen": "2026-09-23T21:04:28.853642+00:00",
    "paywall": true
   }
