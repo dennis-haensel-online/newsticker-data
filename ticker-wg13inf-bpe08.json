@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T08:04:13.622338+00:00",
+ "updated": "2026-09-25T09:04:20.519616+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Entwicklung von Robotern: Die gute Fee, gefüllt mit Helium",
+   "summary": "For­sche­r:in­nen haben eine neue Art von fliegendem Roboter entwickelt. Der Ballon soll Begleiter sein. Das sagt auch etwas über unsere Gesellschaft. mehr...",
+   "link": "https://taz.de/Entwicklung-von-Robotern/!6215918/",
+   "published": "2026-09-25T08:42:00+00:00",
+   "first_seen": "2026-09-25T09:04:20.519616+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Wer bezahlt die Aufpasser der KI?",
+   "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/deutschland-wer-bezahlt-die-aufpasser-der-ki/100256634.html",
+   "published": "2026-09-25T08:41:00+00:00",
+   "first_seen": "2026-09-25T09:04:20.519616+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Social Media: Hass und Desinformation treffen Merz und Schwesig am stärksten",
+   "summary": "Eine Analyse von mehr als 120.000 Onlinekommentaren zeigt das Ausmaß von Hassattacken gegen deutsche Politiker auf Social Media. Tausende Beiträge bewegen sich im strafrechtlichen Bereich.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/social-media-hass-und-desinformation-treffen-schwesig-und-merz-am-staerksten/100255674.html",
+   "published": "2026-09-25T08:23:21+00:00",
+   "first_seen": "2026-09-25T09:04:20.519616+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "KI-Lieferkette: Was der Arbeitskampf in Taiwans Chipindustrie für die KI-Welt bedeutet",
@@ -153,6 +180,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/metas-ki-agent-muse-wird-zum-ueberraschungserfolg-fuer-mark-zuckerberg-201255847.html",
    "published": "2026-09-24T17:38:09+00:00",
    "first_seen": "2026-09-24T18:05:12.163553+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "App Muse: Warum Metas KI-Agent so erfolgreich ist",
+   "summary": "Der Tech-Konzern landet mit seinem neuen virtuellen Alltagshelfer Muse einen Überraschungserfolg und stellt ein eigens dafür konzipiertes Gerät vor. Doch der KI-Agent wirft einige Fragen auf.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agent-muse-warum-meta-damit-einen-ueberraschungserfolg-landet-201255847.html",
+   "published": "2026-09-24T17:38:09+00:00",
+   "first_seen": "2026-09-25T09:04:20.519616+00:00",
    "paywall": true
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-anthropic-chef-warnt-un-sicherheitsrat-vor-ki-gefahren-fuer-die-menschheit-faz-200452404.html",
    "published": "2026-09-23T19:59:48+00:00",
    "first_seen": "2026-09-23T21:04:28.853642+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Nvidia-Chef Jensen Huang und Donald Trump: Der KI-Einflüsterer",
-   "summary": "Jensen Huang leitet Nvidia, das wertvollste Unternehmen der Welt. Von KI-Horrorszenarien hält er nichts – so ist er zum wichtigen Verbündeten von Donald Trump geworden. Doch hinter der Bromance steckt noch mehr.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-chef-jensen-huang-und-donald-trump-der-ki-einfluesterer-a-fad307df-42fa-4911-badb-cdd21d6a4d2d#ref=rss",
-   "published": "2026-09-23T19:35:00+00:00",
-   "first_seen": "2026-09-23T20:04:30.318225+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Windkraft-Betrüger Hendrik Holt in Dubai verhaftet",
-   "summary": "ADAC fordert Abschaffung der Zwölf-Uhr-Regel an Tankstellen +++ Welche Manager zu Trumps Staatsbankett für Xi kommen +++ Trump will Begriff KI mit „Superintelligenz“ ersetzen +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-windkraft-betrueger-hendrik-holt-in-dubai-verhaftet-faz-200452404.html",
-   "published": "2026-09-23T16:30:00+00:00",
-   "first_seen": "2026-09-23T17:03:36.950232+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Asia Techonomics: Toyota mobilisiert 400.000 Roboter für die Fabriken der Zukunft",
-   "summary": "Roboter sollen den Menschen nicht ersetzen, verspricht Toyota. Die Zahlen erzählen eine andere Geschichte. Ein Blick auf die leise Roboteroffensive des Weltmarktführers.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/toyota-mobilisiert-400.000-roboter-fuer-die-fabriken-der-zukunft/100256749.html",
-   "published": "2026-09-23T15:26:17+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Physische KI – Wo die nächsten KI-Gewinner warten",
-   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-physische-ki-wo-die-naechsten-ki-gewinner-warten/100252788.html",
-   "published": "2026-09-23T13:59:49+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
    "paywall": true
   }
  ]
