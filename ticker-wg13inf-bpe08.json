@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T22:04:02.090405+00:00",
+ "updated": "2026-09-25T23:03:43.613530+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Open AI: Dutzende Organisationen von „Besuch“ durch KI-Agenten betroffen",
+   "summary": "Offenbar Webseiten von Regierungen und Universitäten durch KI-Agenten beeinträchtigt +++ Starbucks schließt 250 Filialen in Nordamerika +++ KI-Modell mit mehr Sicherheit geplant +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-dutzende-organisationen-von-besuch-durch-ki-agenten-betroffen-faz-200452404.html",
+   "published": "2026-09-25T22:06:28+00:00",
+   "first_seen": "2026-09-25T23:03:43.613530+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Ab jetzt mehr Überwachung an Bahnhöfen und Flughäfen möglich",
@@ -890,15 +899,6 @@
    "summary": "Eine KI sollte Gesundheitsstatistiken suchen – und hackte sich dabei in ein australisches Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257017.html",
    "published": "2026-09-24T03:58:54+00:00",
-   "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Wie lange braucht China die KI-Chips aus dem Westen noch?",
-   "summary": "KI-Chips sind Amerikas Faustpfand in Auseinandersetzungen mit China. Jetzt hat Alibaba den angeblich schnellsten Prozessor aus China vorgestellt. Endet die Abhängigkeit bald?",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/alibaba-chip-wie-china-bei-ki-prozessoren-aufholt/100256583.html",
-   "published": "2026-09-24T03:55:26+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
    "paywall": true
   }

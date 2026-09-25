@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T22:04:02.090405+00:00",
+ "updated": "2026-09-25T23:03:43.613530+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Iran – Haben USA Plan übermittelt, nun ist Washington am Zug",
+   "summary": "Iran bei Atomprogramm in Verhandlungen offenbar unnachgiebig +++ Iran legt wohl Sieben-Tage-Plan zur Beendigung des Krieges vor +++ Netanjahu verteidigt Kriege bei UN-Rede +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-haben-usa-plan-uebermittelt-nun-ist-washington-am-zug/100136895.html",
+   "published": "2026-09-25T22:58:00+00:00",
+   "first_seen": "2026-09-25T23:03:43.613530+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Open AI: Dutzende Organisationen von „Besuch“ durch KI-Agenten betroffen",
+   "summary": "Offenbar Webseiten von Regierungen und Universitäten durch KI-Agenten beeinträchtigt +++ Starbucks schließt 250 Filialen in Nordamerika +++ KI-Modell mit mehr Sicherheit geplant +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-dutzende-organisationen-von-besuch-durch-ki-agenten-betroffen-faz-200452404.html",
+   "published": "2026-09-25T22:06:28+00:00",
+   "first_seen": "2026-09-25T23:03:43.613530+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Reformdebatte: SPD will bei Pflegereform Leistungskürzung verhindern",
+   "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257533.html",
+   "published": "2026-09-25T22:02:04+00:00",
+   "first_seen": "2026-09-25T23:03:43.613530+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Frankreich siegt bei Zidanes Trainer-Einstand",
+   "summary": "Zinedine Zidane glückt der Einstand als Nationaltrainer Frankreichs. In der Türkei holen die Franzosen einen knappen Sieg - mit einem Wermutstropfen.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/tuerkei-frankreich-highlights-maenner-zusammenfassung-100.html",
+   "published": "2026-09-25T22:00:00+00:00",
+   "first_seen": "2026-09-25T23:03:43.613530+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Pfiffe nach Italiens Auftritt gegen Belgien",
+   "summary": "Italien verpatzt den Neustart unter Trainer Roberto Mancini. Gegen Belgien zeigen die Azzurri eine mäßige Leistung und unterliegen dem Team um Kevin de Bruyne.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/italien-belgien-highlights-2026-27-maenner-zusammenfassung-100.html",
+   "published": "2026-09-25T22:00:00+00:00",
+   "first_seen": "2026-09-25T23:03:43.613530+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13453,51 +13498,6 @@
    "summary": "Auf der Technikmesse Innotrans glänzen Drohnen, Wasserstoffzüge und KI-Assistenzsysteme. Doch eine BCG-Studie zeigt, wie wenig die Branche ihr Potential nutzt.",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/messe-innotrans-wohin-der-bahnverkehr-steuert-201252453.html",
    "published": "2026-09-22T16:36:41+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Ungerechtigkeiten überall: Steuerhinterzieher kaufen Straffreiheit",
-   "summary": "Kleiner Sozialleistungsbetrug und große Steuerhinterziehung werden schreiend unterschiedlich verfolgt, beklagt die Organisation Finanzwende. mehr...",
-   "link": "https://taz.de/Ungerechtigkeiten-ueberall/!6215403/",
-   "published": "2026-09-22T16:34:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Chemiekonzern: Wacker Chemie wirft weiteres Siltronic-Aktienpaket auf den Markt",
-   "summary": "Der Münchener Chemiekonzern platziert 2,2 Millionen Siltronic-Aktien. Damit senkt Wacker Chemie seine Beteiligung an der ehemaligen Tochter weiter.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/chemiekonzern-wacker-chemie-wirft-weiteres-siltronic-aktienpaket-auf-den-markt/100256666.html",
-   "published": "2026-09-22T16:31:14+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Streit um EU-Sanktionen: Zum Preis von zwei russischen Oligarchen",
-   "summary": "Kurz vor knapp findet die EU eine Möglichkeit ihre Russland-Sanktionen doch zu verlängern. Die Enthaltung eines Landes machte es möglich. mehr...",
-   "link": "https://taz.de/Streit-um-EU-Sanktionen/!6215522/",
-   "published": "2026-09-22T16:28:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Extreme Hitze bei NFL-Partie: Wenn Schuhe schmelzen",
-   "summary": "Beim NFL-Spiel zwischen den Tennessee Titans und den Philadelphia Eagles heizt die Sonne den Kunstrasen extrem auf. Geschützt werden die Profis nicht. mehr...",
-   "link": "https://taz.de/Extreme-Hitze-bei-NFL-Partie/!6215284/",
-   "published": "2026-09-22T16:26:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Starker Preisanstieg: Frankreich weitet Tankhilfen für Berufstätige und Firmen aus",
-   "summary": "Pflegekräfte, Fischer und Baugewerbe bekommen neue Unterstützung. Was steckt hinter dem 450-Millionen-Euro-Hilfspaket und wie hilft es auch einkommensschwachen Haushalten?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/starker-preisanstieg-frankreich-weitet-tankhilfen-fuer-berufstaetige-und-firmen-aus/100256667.html",
-   "published": "2026-09-22T16:24:26+00:00",
    "first_seen": "2026-09-22T17:03:55.369783+00:00",
    "paywall": true
   }
