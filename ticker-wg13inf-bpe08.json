@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T18:04:18.157587+00:00",
+ "updated": "2026-09-25T19:03:53.502840+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Fideuram in Italien: Betrüger legen Privatbank rein, erbeuten 36 Millionen Euro",
+   "summary": "Mit einer KI wird die Stimme eines bekannten Anwalts imitiert. Und dann überweist die Privatbank Fideuram Geld an Betrüger. Sehr viel Geld. Nur ein Teil kann zurückgeholt werden.",
+   "link": "https://www.spiegel.de/wirtschaft/fideuram-in-italien-betrueger-legen-privatbank-rein-erbeuten-36-millionen-euro-a-ad94fe43-ad7f-42d0-8f3f-968a4d83b6b5#ref=rss",
+   "published": "2026-09-25T18:54:00+00:00",
+   "first_seen": "2026-09-25T19:03:53.502840+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "WhatsApp-Nachricht: Bank-Manager fällt auf KI-Fake rein – Betrüger erbeuten 36 Millionen Euro von Intesa-Sanpaolo-Tochter",
+   "summary": "Der Ex-Verwaltungsratschef der italienischen Fideuram-Bank wurde Opfer eines KI-Betrugs. Er ließ 95 Millionen Euro aus dem Bankvermögen überweisen. Nur ein Teil konnte zurückgeholt werden.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/whatsapp-fake-betrueger-legen-bank-manager-rein-36-millionen-euro-schaden/100257520.html",
+   "published": "2026-09-25T18:29:13+00:00",
+   "first_seen": "2026-09-25T19:03:53.502840+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Künstliche Intelligenz: Bill Gates warnt vor einer Milliarde Todesfällen durch KI",
@@ -881,24 +899,6 @@
    "summary": "Die KI-Euphorie und die globalen Konflikte sind die dominierenden Themen an den asiatischen Börsen. Die japanische Börse tendiert fester, in China geben die Märkte nach.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-ki-boom-in-tokio-trotzt-zinsaengsten-asien-boersen-uneinheitlich/100257012.html",
    "published": "2026-09-24T03:44:15+00:00",
-   "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
-   "summary": "Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die Branche, wie sie auf veränderte Bedrohungen reagieren will. Von Jens…",
-   "link": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
-   "published": "2026-09-24T03:32:22+00:00",
-   "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI-Agent hackt australisches Regierungsportal",
-   "summary": "Eine KI sollte Gesundheitsstatistiken suchen – und hackte sich dabei in ein australisches Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257010.html",
-   "published": "2026-09-24T03:22:32+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
    "paywall": true
   }
