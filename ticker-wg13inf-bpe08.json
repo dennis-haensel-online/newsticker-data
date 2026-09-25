@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T15:04:36.153236+00:00",
+ "updated": "2026-09-25T16:04:46.445536+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Aktuelle Stunde im Bundestag: KI-Debatte im Bundestag: Mehr Kontrolle und Souveränität",
+   "summary": "Der Bundestag debattiert über Chancen und Risiken künstlicher Intelligenz. Haben Entwickler hierzulande genügend Beinfreiheit und was ist mit dem Schutzversprechen des Staates?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/aktuelle-stunde-im-bundestag-ki-debatte-im-bundestag-mehr-kontrolle-und-souveraenitaet/100257502.html",
+   "published": "2026-09-25T15:27:41+00:00",
+   "first_seen": "2026-09-25T16:04:46.445536+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Staat gibt Beteiligung an Condor ab",
@@ -45,6 +54,15 @@
    "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-wenn-die-ki-in-banken-einzieht-fordert-die-gewerkschaft-urlaub/100257381.html",
    "published": "2026-09-25T13:06:18+00:00",
    "first_seen": "2026-09-25T14:04:55.208615+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Die Banken-Gewerkschaft will KI‑Sonderurlaub – so wird das nichts",
+   "summary": "In den meisten Bankfilialen stehen ohnehin vielfach nur noch Geldautomaten. Da hätten die Gewerkschaften auch gleich 24 weitere Urlaubstage für die Mitarbeiter fordern können.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-banken-gewerkschaft-will-kisonderurlaub-so-wird-das-nichts/100257381.html",
+   "published": "2026-09-25T13:06:18+00:00",
+   "first_seen": "2026-09-25T16:04:46.445536+00:00",
    "paywall": true
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/arbeitswelt-umfrage-rund-die-haelfte-erwartet-ki-kenntnisse-fuer-jobstart/100257004.html",
    "published": "2026-09-24T03:05:04+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelskonflikt: USA verkünden zu Xis Staatsbesuch verlängerte Zollpause",
-   "summary": "KI, Zölle, seltene Erden: Die Liste der Streitpunkte zwischen China und den USA ist lang, als Staatschef Xi Jinping in Washington eintrifft. Zumindest bei einem Punkt soll es eine Übereinkunft geben.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/handelskonflikt-usa-verkuenden-zu-xis-staatsbesuch-verlaengerte-zollpause/100256980.html",
-   "published": "2026-09-24T02:42:57+00:00",
-   "first_seen": "2026-09-24T03:03:55.118330+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Facebook-Konzern: Facebook-Konzern überholt Rivalen mit kleinem KI-Gerät",
-   "summary": "Der ChatGPT-Entwickler OpenAI arbeitet an einem neuartigen Gerät für die KI-Ära. Doch nun dürfte es der Facebook-Konzern Meta sein, der solche Technik als Erster auf den Markt bringt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/facebook-konzern-facebook-konzern-ueberholt-rivalen-mit-kleinem-ki-geraet/100256983.html",
-   "published": "2026-09-24T02:27:32+00:00",
-   "first_seen": "2026-09-24T03:03:55.118330+00:00",
    "paywall": true
   }
  ]

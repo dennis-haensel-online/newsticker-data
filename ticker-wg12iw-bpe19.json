@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T15:04:36.153236+00:00",
+ "updated": "2026-09-25T16:04:46.445536+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt-Studie: Exklusive Ifo-Berechnung: Stellenabbau in Deutschland kommt zum Stillstand",
+   "summary": "Das Beschäftigungsbarometer des Ifo-Instituts für das Handelsblatt zeigt: Der Abwärtstrend am Arbeitsmarkt ist vorerst gestoppt. Für einen Aufbau neuer Jobs ist es allerdings noch zu früh.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-studie-stellenabbau-in-deutschland-kommt-zum-stillstand/100257183.html",
+   "published": "2026-09-25T15:17:03+00:00",
+   "first_seen": "2026-09-25T16:04:46.445536+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Beinahe wäre Ricardo Reis IWF-Chefvolkswirt geworden. Daniel Stelter sprach bereits 2022 mit ihm über die Verantwortung der Notenbanken für die Inflation. Seine Diagnose bleibt relevant.",
    "link": "https://www.handelsblatt.com/audio/bto/beyond-the-obvious-nach-dem-versagen-der-waehrungshueter/100256748.html",
    "published": "2026-09-23T09:28:19+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Standort Deutschland: „Auf den nächsten Aufschwung zu warten, ist keine Option“",
-   "summary": "Eine exklusive Roland-Berger-Studie zeigt, wie Sanierungsexperten die Lage der deutschen Wirtschaft bewerten – und in welchen Branchen es brennt.",
-   "link": "https://www.wiwo.de/unternehmen/handel/restrukturierung-roland-berger-warnt-vor-dauer-stagnation-in-deutschland/100256544.html",
-   "published": "2026-09-23T09:25:18+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": true
   }
