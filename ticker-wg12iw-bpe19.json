@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T02:03:47.798715+00:00",
+ "updated": "2026-09-25T03:04:14.353413+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wirtschaftspolitik: Standort Deutschland: BDI fordert neue Prioritäten",
+   "summary": "Die deutsche Industrie ist im Umbruch. In dieser Zeit brauche es einige neue Weichenstellungen, findet ihr Dachverband. Wachstum und Wettbewerbsfähigkeit stehen für ihn ganz oben.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-standort-deutschland-bdi-fordert-neue-prioritaeten/100257303.html",
+   "published": "2026-09-25T02:00:09+00:00",
+   "first_seen": "2026-09-25T03:04:14.353413+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bundesregierung: Wohlstand für keinen? Wie die politische Mitte die soziale Marktwirtschaft verspielt",
+   "summary": "Die Faszination für die Radikalen zerstört die marktwirtschaftlichen Grundlagen. Dabei gibt es Beispiele, wie vernünftige Wirtschaftspolitik die Mitte wieder stark macht.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/reform-wie-kanzler-und-koalition-den-kampf-um-unseren-wohlstand-verlieren/100256547.html",
+   "published": "2026-09-25T02:00:00+00:00",
+   "first_seen": "2026-09-25T03:04:14.353413+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-09-22T12:49:49+00:00",
    "first_seen": "2026-09-22T13:04:39.989008+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Inflation: Wegen Energiekosten rechnet EZB-Chefvolkswirt mit anhaltender Inflation",
-   "summary": "Öl und Gas verteuern sich erneut: EZB-Chefvolkswirt Philip Lane sieht die Inflation in der Eurozone länger über dem Zielwert.",
-   "link": "https://www.wiwo.de/unternehmen/banken/wegen-energiekosten-ezb-chefvolkswirt-rechnet-mit-anhaltender-inflation/100256549.html",
-   "published": "2026-09-22T12:42:00+00:00",
-   "first_seen": "2026-09-22T13:04:39.989008+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gewerkschaften: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und Jobsicherheit",
-   "summary": "Die IG-Metall-Bezirke stecken ihre Ziele für die Tarifrunde ab. Angesichts von Stellenabbau und drohenden Werksschließungen rückt vor allem die Beschäftigungssicherung in den Fokus.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gewerkschaften-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-jobsicherheit/100256579.html",
-   "published": "2026-09-22T12:05:31+00:00",
-   "first_seen": "2026-09-22T13:04:39.989008+00:00",
-   "paywall": true
   }
  ]
 }
