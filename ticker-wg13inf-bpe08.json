@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T19:03:53.502840+00:00",
+ "updated": "2026-09-25T20:03:44.580552+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Ab jetzt mehr Überwachung an Bahnhöfen und Flughäfen möglich",
+   "summary": "Gesichtserkennung, Handy-Ortung und KI-Überwachung: Bundestag und Bundesrat haben die Reform des Bundespolizeigesetzes verabschiedet - nach fünf Jahren und einer Panne.",
+   "link": "https://www.zdfheute.de/politik/deutschland/bundespolizei-befugnisse-abschiebehaft-100.html",
+   "published": "2026-09-25T19:29:00+00:00",
+   "first_seen": "2026-09-25T20:03:44.580552+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Medizin, Essen, Haushalt: Kann die KI mehr als nur Kosten sparen?",
+   "summary": "Tech-Unternehmer betonen, dass KI trotz aller Gefahren lange undenkbare Innovationen hervorbringen kann. Diese Beispiele zeigen, wo das schon heute gelingt. Aber der Weg zum großen Fortschrittsversprechen ist lang.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-kann-ki-mehr-als-kosten-sparen-201251373.html",
+   "published": "2026-09-25T19:02:27+00:00",
+   "first_seen": "2026-09-25T20:03:44.580552+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Fideuram in Italien: Betrüger legen Privatbank rein, erbeuten 36 Millionen Euro",
@@ -881,24 +899,6 @@
    "summary": "KI-Chips sind Amerikas Faustpfand in Auseinandersetzungen mit China. Jetzt hat Alibaba den angeblich schnellsten Prozessor aus China vorgestellt. Endet die Abhängigkeit bald?",
    "link": "https://www.wiwo.de/technologie/digitale-welt/alibaba-chip-wie-china-bei-ki-prozessoren-aufholt/100256583.html",
    "published": "2026-09-24T03:55:26+00:00",
-   "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Wie lange braucht China die KI-Chips aus dem Westen noch?",
-   "summary": "KI-Chips sind Amerikas Faustpfand in Auseinandersetzungen mit China. Jetzt hat Alibaba den angeblich schnellsten Prozessor aus China vorgestellt. Endet die Abhängigkeit bald?",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/ki-chip-wie-china-bei-ki-prozessoren-aufholt/100256583.html",
-   "published": "2026-09-24T03:55:26+00:00",
-   "first_seen": "2026-09-24T07:04:59.934858+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Topix, CSI 300: KI-Boom in Tokio trotzt Zinsängsten  – Asien-Börsen uneinheitlich",
-   "summary": "Die KI-Euphorie und die globalen Konflikte sind die dominierenden Themen an den asiatischen Börsen. Die japanische Börse tendiert fester, in China geben die Märkte nach.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-ki-boom-in-tokio-trotzt-zinsaengsten-asien-boersen-uneinheitlich/100257012.html",
-   "published": "2026-09-24T03:44:15+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
    "paywall": true
   }
