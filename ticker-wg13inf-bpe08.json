@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T13:06:00.186622+00:00",
+ "updated": "2026-09-25T14:04:55.208615+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Neues Gesetz: Abschiebehaft und KI – Bundespolizei bekommt neue Befugnisse",
+   "summary": "Im Juli gab es eine Panne bei der Abstimmung, jetzt steht die Kanzlermehrheit im Bundestag: Die Bundespolizei soll neue Befugnisse bekommen. Und diesmal stimmt auch der Bundesrat zu.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/neues-gesetz-abschiebehaft-und-ki-bundespolizei-bekommt-neue-befugnisse/100257489.html",
+   "published": "2026-09-25T13:41:37+00:00",
+   "first_seen": "2026-09-25T14:04:55.208615+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Gefahr durch künstliche Intelligenz: Zahlenspiele zum Ende der Menschheit",
+   "summary": "Die KI-Szene berechnet gern die Wahrscheinlichkeit, dass ihre Erfindung die Menschheit auslöscht. Aber was, wenn es recht wahrscheinlich ist, dass die KI-Szene Quatsch erzählt?",
+   "link": "https://www.sueddeutsche.de/wirtschaft/kuenstliche-intelligenz-risiko-apokalypse-amodei-li.3547756",
+   "published": "2026-09-25T13:29:30+00:00",
+   "first_seen": "2026-09-25T14:04:55.208615+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Wenn die KI in die Banken einzieht, fordert die Gewerkschaft erst mal Urlaub",
+   "summary": "Die Arbeitnehmervertreter im privaten Bankgewerbe wollen bis zu zwölf Tage mehr Freizeit pro Jahr, weil KI die Arbeit erschwere. Dahinter steckt mehr als gewerkschaftliche Folklore.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-wenn-die-ki-in-banken-einzieht-fordert-die-gewerkschaft-urlaub/100257381.html",
+   "published": "2026-09-25T13:06:18+00:00",
+   "first_seen": "2026-09-25T14:04:55.208615+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Modernisierung und Digitalisierung der Arbeitsförderung",
+   "summary": "Debatte zum Gesetzentwurf der Bundesregierung zur \"Modernisierung und Digitalisierung der Arbeitsförderung\"",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235522",
+   "published": "2026-09-25T12:33:00+00:00",
+   "first_seen": "2026-09-25T14:04:55.208615+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Staatsanleihen: Ölschock und KI-Boom - Kampf ums Kapital treibt die Renditen",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/forschung-innovation/energieeffiziente-technik-roboter-in-suedkorea-laeuft-marathon-unter-viereinhalb-stunden/100256991.html",
    "published": "2026-09-24T02:00:24+00:00",
    "first_seen": "2026-09-24T03:03:55.118330+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Ex-Google-Manager warnt vor KI-Gefahren für Kinder und fordert Schutzmaßnahmen",
-   "summary": "Tech-Konzerne warnen vor den Risiken Künstlicher Intelligenz. Laut Siegel sollten Anthropic und OpenAI strengere Altersüberprüfungen für ihre Chatbots durchsetzen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ex-google-manager-warnt-vor-ki-gefahren-fuer-kinder-und-fordert-schutzmassnahmen/100256990.html",
-   "published": "2026-09-24T01:29:22+00:00",
-   "first_seen": "2026-09-24T02:03:59.366418+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Facebook-Konzern: Meta bringt KI-Brille mit Display auch nach Deutschland",
-   "summary": "Um Kamera-Brillen unter anderem von Meta gibt es aktuell Datenschutz-Debatten. Der Facebook-Konzern prescht aber voran und bringt in Deutschland ein Modell mit Display auf den Markt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/facebook-konzern-meta-bringt-ki-brille-mit-display-auch-nach-deutschland/100256983.html",
-   "published": "2026-09-24T00:35:17+00:00",
-   "first_seen": "2026-09-24T01:04:10.904583+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Techbosse warnen UN-Sicherheitsrat vor KI",
-   "summary": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
-   "link": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
-   "published": "2026-09-23T23:58:22+00:00",
-   "first_seen": "2026-09-24T07:04:59.934858+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Chefs in New York: „KI könnte ein Risiko für die ganze Menschheit sein“",
-   "summary": "Die Vorstandschefs von Anthropic und Open AI sprechen vor den Vereinten Nationen über die Gefahren Künstlicher Intelligenz – und fordern globale Zusammenarbeit.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/sam-altman-und-dario-amodei-warnen-vor-ki-risiken-201257130.html",
-   "published": "2026-09-23T21:28:28+00:00",
-   "first_seen": "2026-09-23T22:04:07.822242+00:00",
    "paywall": true
   }
  ]

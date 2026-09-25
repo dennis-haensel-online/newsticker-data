@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T13:06:00.186622+00:00",
+ "updated": "2026-09-25T14:04:55.208615+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Arbeitsmarkt: Flexible Personalplanung nimmt zu, Beschäftigte tragen die Last",
+   "summary": "Befristungen, Arbeitszeitkonten, Überstunden: Die deutsche Wirtschaft setzt zunehmend auf flexible Personalplanung. Beschäftigte zahlen den Preis.",
+   "link": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss",
+   "published": "2026-09-25T13:29:00+00:00",
+   "first_seen": "2026-09-25T14:04:55.208615+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Konjunktur: Eine schlechte gute Nachricht",
+   "summary": "Wirtschaftsministerin Katherina Reiche freut sich über die besseren Wachstumsprognosen – und hat doch eine Befürchtung: dass die leichte Erholung zu falschen Schlussfolgerungen führt.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-katherina-reiche-li.3553837",
+   "published": "2026-09-25T13:21:40+00:00",
+   "first_seen": "2026-09-25T14:04:55.208615+00:00",
    "paywall": true
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.zdfheute.de/wirtschaft/oecd-konjunktur-prognose-aufschwung-100.html",
    "published": "2026-09-23T09:21:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "OECD-Prognose: OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht",
-   "summary": "Die deutsche Wirtschaft könnte sich laut OECD besser entwickeln als zuletzt geschätzt. Diese Prognose unterliege allerdings einer hohen Unsicherheit.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/oecd-prognose-wirtschaftswachstum-deutschland-europa-iran-gxe",
-   "published": "2026-09-23T09:19:52+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Konjunktur in Deutschland: OECD hebt Prognose deutlich auf plus 1,1 Prozent an",
-   "summary": "Nach den führenden Wirtschaftsforschungsinstituten hebt auch die OECD ihre Konjunkturprognose für Deutschland an. Zugleich warnen die Ökonomen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-in-deutschland-oecd-hebt-prognose-deutlich-auf-plus-1-1-prozent-an-a-c3393451-089f-4b68-8d32-d893dde7fa12#ref=rss",
-   "published": "2026-09-23T09:01:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
    "paywall": false
   }
  ]
