@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T05:03:39.481463+00:00",
+ "updated": "2026-09-25T06:04:54.710079+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Stoppt der DAX seine Verlustserie?",
+   "summary": "Dem deutschen Leitindex winkt ein versöhnlicher Wochenabschluss. Dafür könnten neue Konjunkturdaten sorgen. Doch der hohe Ölpreis bleibt eine Belastung und facht die Inflationsangst an.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
+   "published": "2026-09-25T05:57:17+00:00",
+   "first_seen": "2026-09-25T06:04:54.710079+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Bundespolitik +++: AfD baut im Bund Vorsprung auf CDU aus",
+   "summary": "Ökonomen kritisieren „unklare Wirtschaftspolitik“ +++ Kabinett beschließt Tankrabatt +++ Unions-Wirtschaftsflügel fordert Umsetzung der Reformen bis Winter +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-afd-baut-im-bund-vorsprung-auf-cdu-aus/100137034.html",
+   "published": "2026-09-25T05:43:21+00:00",
+   "first_seen": "2026-09-25T06:04:54.710079+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-mit-so-viel-vermoegen-gelten-sie-in-deutschland-als-reich-01/100149729.html",
+   "published": "2026-09-25T05:25:00+00:00",
+   "first_seen": "2026-09-25T06:04:54.710079+00:00",
    "paywall": true
   },
   {
@@ -45,6 +72,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-standort-deutschland-bdi-fordert-neue-prioritaeten/100257303.html",
    "published": "2026-09-25T02:00:09+00:00",
    "first_seen": "2026-09-25T03:04:14.353413+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Wirtschaftspolitik: BDI fordert neue Prioritäten für den Standort Deutschland",
+   "summary": "Die deutsche Industrie ist im Umbruch. In dieser Zeit brauche es einige neue Weichenstellungen, findet ihr Dachverband.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/wirtschaftspolitik-standort-deutschland-bdi-fordert-neue-prioritaeten/100257306.html",
+   "published": "2026-09-25T02:00:09+00:00",
+   "first_seen": "2026-09-25T06:04:54.710079+00:00",
    "paywall": true
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-welche-fragen-sich-sparer-aktuell-beim-tagesgeld-stellen-sollten/100255706.html",
    "published": "2026-09-23T05:25:00+00:00",
    "first_seen": "2026-09-23T06:05:09.094731+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Wir brauchen einen neuen Leistungsanspruch in der Bildung",
-   "summary": "Ludger Wößmann, Chef des Ifo-Zentrums für Bildungsökonomik, fordert ein einheitliches Kernabitur, um den Pisa-Abstieg zu stoppen. Dass sich Reformen auszahlen, zeigen Hamburg und England.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-einen-neuen-leistungsanspruch-in-der-bildung/100256198.html",
-   "published": "2026-09-22T20:39:56+00:00",
-   "first_seen": "2026-09-22T21:03:43.543974+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Joseph Stiglitz: „Hohe Ungleichheit schwächt langfristig die Wirtschaftsleistung“",
-   "summary": "Der Nobelpreisträger will einen Welt-Ungleichheitsrat schaffen. Ein Gespräch über Demagogen, das reichste ein Prozent der Weltbevölkerung und die Regeln, die gesellschaftliche Spaltung fördern.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ungleichheit-wirtschaft-interview-stiglitz-li.3551053",
-   "published": "2026-09-22T15:06:52+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Mehr als doppelt so viel Wachstum in diesem Jahr – woher der plötzliche deutsche Aufschwung kommt",
-   "summary": "Die führenden Forschungsinstitute gehen von deutlich mehr Wirtschaftswachstum aus – aus drei Gründen. Sind die wirtschaftlichen Probleme in Deutschland doch nicht so groß?",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-woher-der-ploetzliche-deutsche-aufschwung-kommt/100256427.html",
-   "published": "2026-09-22T13:43:50+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Institute verdoppeln Wachstums-Prognose für Deutschland: Der plötzliche Aufschwung hat drei Gründe",
-   "summary": "Die führenden Forschungsinstitute gehen von deutlich mehr Wirtschaftswachstum aus. Sind die wirtschaftlichen Probleme in Deutschland doch nicht so groß?",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-institute-verdoppeln-wachstums-prognose-fuer-deutschland/100256427.html",
-   "published": "2026-09-22T13:43:50+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
    "paywall": true
   }
  ]
