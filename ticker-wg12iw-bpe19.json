@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T12:05:20.875204+00:00",
+ "updated": "2026-09-25T13:06:00.186622+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -12,12 +12,30 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Isabel Schnabel irrte, provozierte – und wird der EZB fehlen",
+   "summary": "Ein folgenreiches Eingeständnis hat die angesehene Deutsche zur überzeugten Hardlinerin geformt. Ihr vorzeitiger Abschied wird die Statik unter den Notenbankern verändern.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-isabel-schnabel-irrte-provozierte-und-wird-der-ezb-fehlen/100257353.html",
+   "published": "2026-09-25T12:51:51+00:00",
+   "first_seen": "2026-09-25T13:06:00.186622+00:00",
+   "paywall": true
+  },
+  {
    "label": "WiWo",
    "title": "Deutsche Konjunktur: Ist dieser Tankrabatt sinnvoll, Frau Schnitzer?",
    "summary": "Monika Schnitzer, die Chefin der Wirtschaftsweisen, hält den Aufschwung nicht für sicher. Sie warnt vor einem Aufweichen der politischen Reformen.",
    "link": "https://www.wiwo.de/politik/konjunktur/monika-schnitzer-wirtschaftsexpertin-steht-dem-aufschwung-kritisch-gegenueber/100249127.html",
    "published": "2026-09-25T11:51:45+00:00",
    "first_seen": "2026-09-25T12:05:20.875204+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Deutsche Konjunktur: Ist dieser Tankrabatt sinnvoll, Frau Schnitzer?",
+   "summary": "Der Bundestag hat einen neuen Tankrabatt beschlossen. Warum Wirtschaftsweise Monika Schnitzer die Maßnahme für falsch hält. Und vor fatalen Folgen für den Haushalt warnt.",
+   "link": "https://www.wiwo.de/politik/konjunktur/neuer-tankrabatt-warum-monika-schnitzer-vor-hilfen-warnt/100249127.html",
+   "published": "2026-09-25T11:51:45+00:00",
+   "first_seen": "2026-09-25T13:06:00.186622+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-09-23T09:01:00+00:00",
    "first_seen": "2026-09-23T09:03:53.684737+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Umfragen deuten auf deutlich stärkeres Wachstum in Deutschland und Europa hin",
-   "summary": "Die Einkaufsmanagerindizes für Deutschland und Europa übertreffen die Erwartungen deutlich. Vor allem die deutsche Industrie treibt das Wachstum an.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umfrage-deutet-auf-deutlich-staerkeres-wachstum-im-euro-raum-hin/100256806.html",
-   "published": "2026-09-23T08:47:05+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: OECD erhöht Wachstumsprognose für Deutschland – „Reformen voranbringen“",
-   "summary": "Das deutsche Wirtschaftswachstum zieht trotz Krisen und Unsicherheiten langsam wieder an. KI-Boom, Exporte und staatliche Investitionen treiben die Erholung.",
-   "link": "https://www.wiwo.de/politik/konjunktur/wegen-ki-boom-und-exporten-oecd-erhoeht-wachstumsprognose-fuer-deutschland/100256796.html",
-   "published": "2026-09-23T08:47:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
   }
  ]
 }
