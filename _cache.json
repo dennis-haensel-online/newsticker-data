@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T21:04:09.196834+00:00",
+ "updated": "2026-09-25T22:04:02.090405+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Jemens Außenministerin: Iran verantwortlich für Kämpfe",
+   "summary": "Um den Konflikt im Jemen zu beenden, braucht es Druck auf Iran, sagt Afrah Al-Zouba, Außenministerin des Jemen. Rückendeckung bekommt sie dabei vom UN-Sicherheitsrat.",
+   "link": "https://www.zdfheute.de/politik/ausland/jemen-huthi-un-sicherheitsrat-afrah-al-zouba-100.html",
+   "published": "2026-09-25T21:20:00+00:00",
+   "first_seen": "2026-09-25T22:04:02.090405+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13491,15 +13500,6 @@
    "published": "2026-09-22T16:24:26+00:00",
    "first_seen": "2026-09-22T17:03:55.369783+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "US-Entwicklungshilfe in Kamerun: Das Blut, über das niemand spricht",
-   "summary": "In Kamerun reißt die Streichung der US-Hilfsgelder Lücken in die Versorgung von Mädchen. In Konfliktregionen fehlen Hygieneartikel und Anlaufstellen. mehr...",
-   "link": "https://taz.de/US-Entwicklungshilfe-in-Kamerun/!6197751/",
-   "published": "2026-09-22T16:23:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
   }
  ]
 }
