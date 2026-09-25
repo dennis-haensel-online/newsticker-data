@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T11:04:08.189797+00:00",
+ "updated": "2026-09-25T12:05:20.875204+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Deutsche Konjunktur: Ist dieser Tankrabatt sinnvoll, Frau Schnitzer?",
+   "summary": "Monika Schnitzer, die Chefin der Wirtschaftsweisen, hält den Aufschwung nicht für sicher. Sie warnt vor einem Aufweichen der politischen Reformen.",
+   "link": "https://www.wiwo.de/politik/konjunktur/monika-schnitzer-wirtschaftsexpertin-steht-dem-aufschwung-kritisch-gegenueber/100249127.html",
+   "published": "2026-09-25T11:51:45+00:00",
+   "first_seen": "2026-09-25T12:05:20.875204+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Das deutsche Wirtschaftswachstum zieht trotz Krisen und Unsicherheiten langsam wieder an. KI-Boom, Exporte und staatliche Investitionen treiben die Erholung.",
    "link": "https://www.wiwo.de/politik/konjunktur/wegen-ki-boom-und-exporten-oecd-erhoeht-wachstumsprognose-fuer-deutschland/100256796.html",
    "published": "2026-09-23T08:47:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studiengaenge-bleiben-trotz-ki-boom-aussichtsreich/100235558.html",
-   "published": "2026-09-23T08:43:00+00:00",
    "first_seen": "2026-09-23T09:03:53.684737+00:00",
    "paywall": true
   }
