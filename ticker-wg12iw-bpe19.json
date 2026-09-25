@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T06:04:54.710079+00:00",
+ "updated": "2026-09-25T07:04:57.948401+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Wirtschaftspolitik: Die Industrie wird grundsätzlich",
+   "summary": "Der BDI legt sein erstes Grundsatzpapier zur Wirtschafts- und Handelspolitik vor. Die Wettbewerbsfähigkeit des Standorts steht über allem.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/bdi-grundsatzpapier-tanja-goenner-fordert-reformen-accg-201258429.html",
+   "published": "2026-09-25T06:44:12+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   },
   {
@@ -63,6 +72,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/bdi-abhaengigkeit-china-lieferketten-usa-eu",
    "published": "2026-09-25T03:24:25+00:00",
    "first_seen": "2026-09-25T04:04:11.598584+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "BDI-Grundsatzpapier: Deutsche Industrie will unabhängiger von China und USA werden",
+   "summary": "Der Bundesverband der Deutschen Industrie fordert eine Neuausrichtung der deutschen Wirtschaftspolitik. Wachstum und Wettbewerbsfähigkeit seien oberste Priorität.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/bdi-abhaengigkeit-china-lieferketten-usa-eu-gxe",
+   "published": "2026-09-25T03:24:25+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   },
   {
@@ -162,6 +180,15 @@
    "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-wir-haben-unterschaetzt-wie-stark-deutschland-vom-ki-boom-profitiert-hat/100256792.html",
    "published": "2026-09-24T15:31:22+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
+   "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutschland-profitiert-vom-ki-boom/100256792.html",
+   "published": "2026-09-24T15:31:22+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/ezb-leitzinsniveau-koennte-wirtschaft-in-der-zukunft-leicht-bremsen/100256783.html",
    "published": "2026-09-23T07:25:09+00:00",
    "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Halbjahreszahlen: Konsum auf Pump treibt Wachstum der Kreditbanken",
-   "summary": "Mehr neue Kredite für den privaten Konsum, weniger für betriebliche Investitionen. Die Halbjahresbilanz der Kreditbanken hat zwei Seiten. Ihr Verband appelliert an die Politik.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/halbjahreszahlen-konsum-auf-pump-treibt-wachstum-der-kreditbanken/100256776.html",
-   "published": "2026-09-23T07:00:04+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Wir brauchen einen neuen Leistungsanspruch in der Bildung",
-   "summary": "Ludger Wößmann, Chef des Ifo-Zentrums für Bildungsökonomik, fordert ein einheitliches Kernabitur, um den Pisa-Abstieg zu stoppen. Dass sich Reformen auszahlen, zeigen Hamburg und England.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-einen-neuen-leistungsanspruch-in-der-bildung-01/100256198.html",
-   "published": "2026-09-23T06:26:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sparen: Vier Prozent und mehr – wann beenden die Tagesgeld-Zinsen ihren Höhenflug?",
-   "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
-   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-welche-fragen-sich-sparer-aktuell-beim-tagesgeld-stellen-sollten/100255706.html",
-   "published": "2026-09-23T05:25:00+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
    "paywall": true
   }
  ]

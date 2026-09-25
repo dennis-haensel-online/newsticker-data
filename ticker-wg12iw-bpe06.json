@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-09-25T06:04:54.710079+00:00",
+ "updated": "2026-09-25T07:04:57.948401+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,15 @@
    "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
    "published": "2026-09-25T05:45:56+00:00",
    "first_seen": "2026-09-25T06:04:54.710079+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI: Anthropic plant vor Börsengang wohl Stimmrechtsmehrheit für Gründer",
+   "summary": "Der Entwickler der Künstlichen Intelligenz Anthropic strebt an die Börse – mit einer Aktienstruktur nach Palantir-Vorbild und Kontrolle der Gründer.",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
+   "published": "2026-09-25T05:45:56+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   },
   {
@@ -514,15 +523,6 @@
    "published": "2026-09-22T08:08:00+00:00",
    "first_seen": "2026-09-22T14:03:48.666872+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Start-Up 1Komma5°: Ein Einhorn will das Stromnetz intelligenter machen",
-   "summary": "Mit Solaranlagen, Wärmepumpen und Wallboxen ist das Start-up 1Komma5° schnell groß geworden und profitabel noch dazu. Jetzt will der Gründer an das nächste Thema ran: die Balance im Stromnetz.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/1komma5-chef-philipp-schroeder-will-das-stromnetz-intelligenter-machen-accg-201240483.html",
-   "published": "2026-09-22T08:04:13+00:00",
-   "first_seen": "2026-09-22T09:03:59.472341+00:00",
-   "paywall": true
   }
  ]
 }

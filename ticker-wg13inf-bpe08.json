@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T06:04:54.710079+00:00",
+ "updated": "2026-09-25T07:04:57.948401+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Gewerkschaft: Bankangestellte fordern bis zu drei KI-Entlastungstage im Quartal",
+   "summary": "Die Finanzbranche setzt zunehmend auf Künstliche Intelligenz. Dadurch werde die Arbeit dichter und komplexer, argumentiert die Gewerkschaft der Bankangestellten – und verlangt Entlastung.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/gewerkschaft-bankangestellte-fordern-bis-zu-drei-ki-entlastungstage-im-quartal/100257347.html",
+   "published": "2026-09-25T06:07:06+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: Anthropic plant vor Börsengang wohl Stimmrechtsmehrheit für Gründer",
@@ -13,11 +22,29 @@
   },
   {
    "label": "WiWo",
+   "title": "KI: Anthropic plant vor Börsengang wohl Stimmrechtsmehrheit für Gründer",
+   "summary": "Der Entwickler der Künstlichen Intelligenz Anthropic strebt an die Börse – mit einer Aktienstruktur nach Palantir-Vorbild und Kontrolle der Gründer.",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
+   "published": "2026-09-25T05:45:56+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
    "title": "Künstliche Intelligenz: OpenAI wohl vor Präsentation von neuem Cybersicherheitsmodell",
    "summary": "Der KI-Pionier plant offenbar ein neues Modell für Cybersicherheit und ein Sicherheitsprodukt für KI-Agenten. Warum OpenAI nun auf diese Sparte setzen will.",
    "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-openai-wohl-vor-praesentation-von-neuem-cybersicherheitsmodell/100257339.html",
    "published": "2026-09-25T05:44:42+00:00",
    "first_seen": "2026-09-25T06:04:54.710079+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI wohl vor Präsentation von neuem Cybersicherheitsmodell",
+   "summary": "Der KI-Pionier plant offenbar ein neues Modell für Cybersicherheit und ein Sicherheitsprodukt für KI-Agenten. Warum OpenAI nun auf diese Sparte setzen will.",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-openai-setzt-auf-cybersicherheitsmodell/100257339.html",
+   "published": "2026-09-25T05:44:42+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   },
   {
@@ -46,6 +73,15 @@
    "published": "2026-09-25T04:52:32+00:00",
    "first_seen": "2026-09-25T05:03:39.481463+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
+   "summary": "Der KI die Hausaufgaben überlassen: Die Möglichkeiten künstlicher Intelligenz sind für Schüler verführerisch. Singapur hat deshalb eigene KI-Tools für den Unterricht entwickelt - von denen auch Lehrer profitieren. Von J. Johnston.",
+   "link": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
+   "published": "2026-09-25T03:22:44+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -117,6 +153,15 @@
    "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-wir-haben-unterschaetzt-wie-stark-deutschland-vom-ki-boom-profitiert-hat/100256792.html",
    "published": "2026-09-24T15:31:22+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
+   "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutschland-profitiert-vom-ki-boom/100256792.html",
+   "published": "2026-09-24T15:31:22+00:00",
+   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   },
   {
@@ -855,51 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-flixtrain-bestellt-neue-hochgeschwindigkeitszuege-faz-200452404.html",
    "published": "2026-09-23T13:59:00+00:00",
    "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Datenschutz: Warum schnüffelnde Mitarbeiter teuer werden können",
-   "summary": "Verstoßen Mitarbeiter aus persönlichen Motiven im Job gegen den Datenschutz, riskieren sie Strafen. Doch auch Unternehmen bringen sie damit in Schwierigkeiten.",
-   "link": "https://www.wiwo.de/erfolg/management/datenschutz-warum-schnueffelnde-mitarbeiter-teuer-werden-koennen/100254688.html",
-   "published": "2026-09-23T13:57:19+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Datenschutz: Warum schnüffelnde Mitarbeiter teuer werden können",
-   "summary": "Verstoßen Mitarbeiter aus persönlichen Motiven im Job gegen den Datenschutz, riskieren sie Strafen. Doch auch Unternehmen bringen sie damit in Schwierigkeiten.",
-   "link": "https://www.wiwo.de/erfolg/management/datenschutz-warum-schnueffelnde-mitarbeiter-fuer-unternehmen-teuer-werden-koennen/100254688.html",
-   "published": "2026-09-23T13:57:19+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: „Killer-App“: Wie KI-Agent Muse das Bild von Meta bei Analysten dreht",
-   "summary": "Bis zu 10,8 Milliarden Dollar Zusatzumsatz durch Abos, ein Kursziel von 875 Dollar: Warum Analysten den Kauf von Meta-Aktien empfehlen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-killer-app-wie-muse-das-bild-von-meta-bei-analysten-dreht/100256801.html",
-   "published": "2026-09-23T13:23:32+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Kompetenz in der Bundeswehr: „Im Cyberraum sind wir schon lange nicht mehr im Frieden“",
-   "summary": "Der Chef des IT-Dienstleisters der Bundeswehr warnt vor einem möglichen Zurückfallen der Truppe im schnelllebigen Digitalzeitalter: „KI mischt jetzt die Karten noch mal völlig neu.“",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chef-des-it-dienstleisters-der-bundeswehr-warnt-im-cyberraum-sind-wir-schon-lange-nicht-mehr-im-frieden-201254172.html",
-   "published": "2026-09-23T12:54:40+00:00",
-   "first_seen": "2026-09-23T13:05:48.292411+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Südkorea: „Der Kühlschrank ist tot“",
-   "summary": "Nach einem Update fallen in Südkorea zahlreiche KI-Kühlschränke von Samsung aus – ausgerechnet wenige Tage vor einem der wichtigsten Feiertage des Landes, an dem große Familienessen anstehen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/samsung-kuehlschrank-ausfall-suedkorea-chuseok-li.3552649",
-   "published": "2026-09-23T12:37:43+00:00",
-   "first_seen": "2026-09-23T13:05:48.292411+00:00",
    "paywall": true
   }
  ]
