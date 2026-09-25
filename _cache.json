@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T20:03:44.580552+00:00",
+ "updated": "2026-09-25T21:04:09.196834+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -107,6 +107,15 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/whatsapp-fake-betrueger-legen-bank-manager-rein-36-millionen-euro-schaden/100257520.html",
    "published": "2026-09-25T18:29:13+00:00",
    "first_seen": "2026-09-25T19:03:53.502840+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Börsen schließen mit Zuwächsen",
+   "summary": "Weiter steigende Anleiherenditen, neue Entwicklungen im Nahen Osten und neue Firmendeals bewegen am Freitag die Börse. In Washington endet derweil das Treffen zwischen Trump und Xi.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-schliessen-mit-zuwaechsen/100257444.html",
+   "published": "2026-09-25T18:23:00+00:00",
+   "first_seen": "2026-09-25T21:04:09.196834+00:00",
    "paywall": true
   },
   {
@@ -13489,15 +13498,6 @@
    "summary": "In Kamerun reißt die Streichung der US-Hilfsgelder Lücken in die Versorgung von Mädchen. In Konfliktregionen fehlen Hygieneartikel und Anlaufstellen. mehr...",
    "link": "https://taz.de/US-Entwicklungshilfe-in-Kamerun/!6197751/",
    "published": "2026-09-22T16:23:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Nach Superwahljahr 2026: \"Es geht für die CDU ums Ganze\"",
-   "summary": "Die CDU wollte sich im Superwahljahr 2026 von der AfD abgrenzen. Am Ende spricht Kanzler Merz von einem \"Desaster\". Ein Blick hinter die Kulissen einer Partei im Abstiegskampf.",
-   "link": "https://www.zdfheute.de/politik/deutschland/friedrich-merz-cdu-news-landtagswahlen-2026-folgen-100.html",
-   "published": "2026-09-22T16:22:00+00:00",
    "first_seen": "2026-09-22T17:03:55.369783+00:00",
    "paywall": false
   }
