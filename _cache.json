@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T17:03:25.290796+00:00",
+ "updated": "2026-09-25T18:04:18.157587+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,186 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Wahlen +++: Parteitag entscheidet –  Berliner Linkspartei will mit Grünen und SPD sondieren",
+   "summary": "Schweig fordert Reformgipfel mit Merz und Ministerpräsidenten +++ Berliner SPD-Vize Kiziltepe für Rot-Grün-Rot +++ SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-berliner-linkspartei-will-mit-gruenen-und-spd-sondieren/100252039.html",
+   "published": "2026-09-25T17:59:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Ghost Pairing: Und plötzlich bist du auf WhatsApp der Superspreader",
+   "summary": "Du glaubst, du erkennst Spam leicht. Bis die beste Freundin auf Whatsapp zu einer Abstimmung für die Tochter von Freunden aufruft. So verletzlich machen uns Messenger.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/ghost-pairing-betrug-messengerdienste-cybersicherheit-spam",
+   "published": "2026-09-25T17:58:49+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Wirtschaft vor acht vom 25.09.2026",
+   "summary": "Wirtschaft vor acht vom 25.09.2026",
+   "link": "https://www.tagesschau.de/video/video-1655568.html",
+   "published": "2026-09-25T17:56:59+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "BASF-Chef Kamieth: Der Sanierer, der jetzt Deutschlands zweitgrößten Chemiekonzern kaufen will",
+   "summary": "Schlanker und schuldenärmer wollte BASF werden. Mit den Übernahmeplänen für Evonik stellt CEO Markus Kamieth seinen eigenen Kurs infrage. Warum bloß?",
+   "link": "https://www.wiwo.de/unternehmen/industrie/basf-will-evonik-kaufen-was-hinter-kamieths-strategiewechsel-steckt/100257510.html",
+   "published": "2026-09-25T17:56:06+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nach der Abgeordnetenhauswahl: Berliner Linke will mit Grünen und SPD sondieren",
+   "summary": "Jetzt ist es offiziell: Die Berliner Linke lädt Grüne und SPD zu Sondierungsgesprächen für eine Regierungsbildung ein. Ob die drei Parteien später tatsächlich eine Koalition bilden, ist noch offen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-abgeordnetenhauswahl-berliner-linke-will-mit-gruenen-und-spd-sondieren/100257515.html",
+   "published": "2026-09-25T17:52:55+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Börsen bauen Gewinne im Handelsverlauf aus – Anleiherenditen bleiben auf hohem Niveau",
+   "summary": "Weiter steigende Anleiherenditen, neue Entwicklungen im Nahen Osten und neue Firmendeals bewegen am Freitag die Börse. In Washington endet derweil das Treffen zwischen Trump und Xi.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-bauen-tagesgewinne-im-handelsverlauf-aus/100257444.html",
+   "published": "2026-09-25T17:52:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Diplomatie: Xi und Trump wollen sich im November in China treffen",
+   "summary": "Chinas Staatschef Xi hat seinen Besuch bei US-Präsident Trump in Washington beendet. Doch noch in diesem Jahr soll es zwei weitere Treffen geben.",
+   "link": "https://www.handelsblatt.com/politik/international/diplomatie-xi-und-trump-wollen-sich-im-november-in-china-treffen/100257522.html",
+   "published": "2026-09-25T17:46:13+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Luxus mit über 800 PS: Erster komplett elektrischer Bentley startet durch",
+   "summary": "Bentley hat sich von den Plänen einer schnellen Elektrifizierung verabschiedet. Dennoch gibt es nun ein reines Elektromodell, positioniert für jüngere Käufer. Absatzprobleme in China und am Golf belasten die Marke.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/bentley-torcal-das-neue-elektro-suv-fuer-200-000-euro-201262867.html",
+   "published": "2026-09-25T17:41:42+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz: Bill Gates warnt vor einer Milliarde Todesfällen durch KI",
+   "summary": "Immer mehr Menschen aus der Technologiebranche warnen vor den existenziellen Gefahren durch künstliche Intelligenz. Nun hat sich auch Microsoft-Mitgründer Bill Gates zu Wort gemeldet.",
+   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss",
+   "published": "2026-09-25T17:35:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Xi Jinping lädt Trump zu nächstem gemeinsamen Treffen nach China ein",
+   "summary": "Trump fährt Zwischenerfolg im Rechtsstreit um Wählerdaten ein +++ Verbindung zwischen USA und China war Trump zufolge nie stärker +++ Ergebnisse von Treffen wohl am Montag +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-xi-jinping-laedt-trump-zu-naechstem-treffen-nach-china-ein/29669594.html",
+   "published": "2026-09-25T17:33:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahlen: Erfolgreich mit „Erlebnispopulismus“ – warum die AfD mehr Menschen erreicht als die CDU",
+   "summary": "Die AfD schafft es, Wähler zu mobilisieren, die andere Parteien längst verloren haben. Experten sehen dahinter eine Strategie, die weit über Social Media hinausgeht.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/afd-erlebnispopulismus-was-andere-parteien-daraus-lernen-koennen/100255264.html",
+   "published": "2026-09-25T17:32:38+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Land in der Krise: Industrieabbau auf Italienisch",
+   "summary": "Auch in Italien, der zweitgrößten Industrienation Europas, geht es bergab. Aber es gibt einige Lichtblicke, etwa in der kaum bekannten italienischen Pharmaindustrie.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/italiens-industrieabbau-krise-und-lichtblicke-im-vergleich-201241434.html",
+   "published": "2026-09-25T17:25:06+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump postet massiv manipuliertes Bild von sich und Xi",
+   "summary": "Ein Kampfjet donnert über Donald Trump und Xi Jinping, Trump verzieht das Gesicht. In einem von ihm geposteten Bild ist davon nichts zu sehen. Noch mehr Details wurden verändert.",
+   "link": "https://www.zdfheute.de/politik/ausland/faktencheck-trump-xi-foto-manipulation-100.html",
+   "published": "2026-09-25T17:21:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Antisemitismus in der Linkspartei: Wollen wir nicht besser sein?",
+   "summary": "Ich will, dass Berlins nächste Regierende Elif Eralp heißt. Gleichzeitig will ich, dass die Ängste von uns jüdischen Menschen ernst genommen werden. mehr...",
+   "link": "https://taz.de/Antisemitismus-in-der-Linkspartei/!6211073/",
+   "published": "2026-09-25T17:12:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Wieder Verbündete sein\": Pistorius zu Besuch in Ungarn",
+   "summary": "Verteidigungsminister Boris Pistorius möchte die Zusammenarbeit mit Ungarn stärken. Man wachse politisch wieder enger zusammen, hieß es. Aber was wurde konkret beschlossen?",
+   "link": "https://www.zdfheute.de/politik/pistorius-ungarn-militaer-ruestung-ruszin-szendi-100.html",
+   "published": "2026-09-25T17:09:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Muss ja",
+   "summary": "Im neu gewählten Landtag von Mecklenburg-Vorpommern hat Rot-Rot-Grün eine Mehrheit. Trotz Animositäten sind SPD, Linke und Grüne bereit zu koalieren. mehr...",
+   "link": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6211151/",
+   "published": "2026-09-25T17:08:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Drohnenangriff auf Bürohaus in Kyjiw: „Wir alle sind lebende Ziele für Putin“",
+   "summary": "Die russischen Streitkräfte greifen ein Bürogebäude in der ukrainischen Hauptstadt Kyjiw an. Mindestens 7 Menschen sterben bei der Drohnenattacke. mehr...",
+   "link": "https://taz.de/Drohnenangriff-auf-Buerohaus-in-Kyjiw/!6216389/",
+   "published": "2026-09-25T17:06:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Big Brother Award wegen Smart Glasses: Fielmann und Apollo bekommen Auszeichnung für Stalkerware",
+   "summary": "Zwei große Optiker-Ketten bekommen den Big Brother Award. Die Laudatorin kritisiert die dort vertriebenen Smart Glasses als „getarnte Stalkerware“. mehr...",
+   "link": "https://taz.de/Big-Brother-Award-wegen-Smart-Glasses/!6216308/",
+   "published": "2026-09-25T17:05:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Regisseur Visar Morina im Gespräch: „Wir sollten mehr über Geld und Geldpolitik sprechen“",
+   "summary": "In „Von Scham und Geld“ zeigt Regisseur Visar Morina eine Familie im sozialen Abstieg. Er spricht über Wirtschaft und Kosovo als gesellschaftliches Labor. mehr...",
+   "link": "https://taz.de/Regisseur-Visar-Morina-im-Gespraech/!6215903/",
+   "published": "2026-09-25T17:04:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Schweizerische Neutralität: Maximal neutral",
+   "summary": "Am Sonntag äußern sich die Schweizer in einer Volksabstimmung zur politischen Neutralität ihres Landes. Die rechtspopulistische SVP will nichts ändern. mehr...",
+   "link": "https://taz.de/Schweizerische-Neutralitaet/!6215605/",
+   "published": "2026-09-25T17:03:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -81,6 +261,15 @@
    "published": "2026-09-25T16:39:14+00:00",
    "first_seen": "2026-09-25T17:03:25.290796+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Sonderparteitag: „Haben alle gemeinsam Geschichte geschrieben“",
+   "summary": "Rede von Elif Eralp (Die Linke) beim Sonderparteitag der Linken",
+   "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-der-tag/u-a-rede-von-elif-eralp-b-a-5227622.html",
+   "published": "2026-09-25T16:36:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13311,195 +13500,6 @@
    "published": "2026-09-22T15:58:00+00:00",
    "first_seen": "2026-09-22T16:04:19.448499+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Russisches Angriffs-Szenario gegen Nato \"durchaus möglich\"",
-   "summary": "Mehrere europäische Geheimdienste warnen: Russland könnte Staaten der Nato angreifen, um das Bündnis zu testen. Militärexperte Gustav Gressel hält das für möglich.",
-   "link": "https://www.zdfheute.de/politik/ausland/russland-eskalation-nato-mobilisierung-gressel-100.html",
-   "published": "2026-09-22T15:58:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Hitzetote und weitere Rekorde: Rückblick auf einen Sommer der Klimakrise",
-   "summary": "Der Herbst beginnt – und damit endet ein Sommer, der es in sich hatte. Traurige Rekorde gab es bei Temperaturen, Hitzetoten und Niedrigwasser. mehr...",
-   "link": "https://taz.de/Rueckblick-auf-den-Sommer-Traurige-Rekorde/!6215250/",
-   "published": "2026-09-22T15:55:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax im Plus – Ölpreis sinkt wieder unter 100 Dollar",
-   "summary": "Die Energiepreise bleiben bestimmendes Thema an den Börsen. Anleger haben zudem die Rede von Donald Trump vor der UN-Vollversammlung im Blick. Unter Druck gerät erneut die Vonovia-Aktie.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-oelpreis-zeitweise-unter-100-dollar/100256414.html",
-   "published": "2026-09-22T15:53:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nach Wahldebakel: Berliner SPD sucht Orientierung und neuen Fraktionschef",
-   "summary": "Raed Saleh war 15 Jahre lang Fraktionschef in Berlin. Jetzt will er nicht wieder kandidieren. Aber was heißt das für die Hauptstadt-SPD und für die anstehenden Sondierungsgespräche?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/nach-wahldebakel-berliner-spd-sucht-orientierung-und-neuen-fraktionschef/100256617.html",
-   "published": "2026-09-22T15:51:20+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Generaldebatte: Trump will Begriff KI mit „Superintelligenz“ ersetzen",
-   "summary": "Donald Trump mag die Bezeichnung Künstliche Intelligenz nicht, weil sie die Technologie „fake“ erscheinen lasse. Der Präsident hat einen neuen Namen parat, an den sich seine Regierung nun halten soll.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/un-generaldebatte-trump-will-begriff-ki-mit-superintelligenz-ersetzen/100256660.html",
-   "published": "2026-09-22T15:49:24+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: Trump feiert vor der UN die USA und sich selbst: „Wir sind jetzt im goldenen Zeitalter“",
-   "summary": "Grönland, USA und Dänemark unterzeichnen Abkommen +++ US-Präsident ruft Staaten zu Austritt aus Strafgerichtshof auf +++ Iran-Krieg laut Trump vor Umbruch: Deal oder „Hölle“ für den Iran +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-feiert-vor-der-un-die-usa-und-sich-selbst/29669594.html",
-   "published": "2026-09-22T15:48:35+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Streit um Bahnstrecke Hannover–Hamburg: Schwarz-rote Niedersachsen-Connection bremst Bahnneubau aus",
-   "summary": "Eigentlich sollte sich der Bundestag für einen Bahn-Neubau zwischen Hannover und Hamburg entscheiden. Doch Niedersachsen stellt sich mal wieder quer. mehr...",
-   "link": "https://taz.de/Streit-um-Bahnstrecke-Hannover-Hamburg/!6215286/",
-   "published": "2026-09-22T15:48:00+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Die Gefahr eines abrupten Renditeanstiegs bei Anleihen ist nicht gebannt",
-   "summary": "Die Renditen an den Bondmärkten sind von ihren jüngsten Hochs etwas gesunken. Das ist positiv, aber noch kein Grund zur Entwarnung, meint Andrea Cünnen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anleihen-die-gefahr-eines-abrupten-renditeanstiegs-ist-nicht-gebannt/100255650.html",
-   "published": "2026-09-22T15:38:40+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "David Ellison: Hollywoods neuer Milchbubi-Mogul",
-   "summary": "Paramount übernimmt Warner Brothers. Trump-Freund David Ellison wird zum mächtigsten Mann der US-Unterhaltungsbranche. Doch hat er wirklich das Sagen? mehr...",
-   "link": "https://taz.de/Fusion-von-Paramount-und-Warner-Bros-Discovery-Wie-viel-Macht-hat-David-Ellison-wirklich/!6215315/",
-   "published": "2026-09-22T15:35:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "UN-Generalversammlung - Rede Donald Trump",
-   "summary": "UN-Generalversammlung - Rede von US-Präsident Donald Trump",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5234771",
-   "published": "2026-09-22T15:35:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Enteignungspläne der Linken im Check | Mercedes droht mit Werk-Aus",
-   "summary": "Die Linke will Wohnungskonzerne in Berlin enteignen – aber löst das den Wohnungsmangel? Und: Die Auseinandersetzung zwischen Mercedes-Management und Belegschaft verschärft sich.",
-   "link": "https://www.handelsblatt.com/audio/today/today-enteignungsplaene-der-linken-im-check-mercedes-droht-mit-werk-aus/100256655.html",
-   "published": "2026-09-22T15:31:59+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Unternehmenensberater: Strafprozess gegen Stephan Goetz",
-   "summary": "Die Pleite des Textilunternehmens Sympatex beschäftigt die Justiz. In München steht der 70 Jahre alte Unternehmenberater Stephan Goetz vor Gericht. Laut Staatsanwaltschaft soll er Anleger um mehr als eine Million Euro betrogen haben.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/stephan-goetz-strafprozess-wegen-betrug-bei-sympatex-201251490.html",
-   "published": "2026-09-22T15:28:10+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Theater Bremen nach Tod des Intendanten: Aber Pathos passt gut",
-   "summary": "Mit der Gegenwartsoper „Innocence“ und der Schauspiel-Uraufführung „I. Grief. Different.“ trauert das Theater Bremen um den verstorbenen Intendanten. mehr...",
-   "link": "https://taz.de/Theater-Bremen-nach-Tod-des-Intendanten/!6207641/",
-   "published": "2026-09-22T15:28:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Linkspartei und AfD: Wie entscheidend sind Tiktok und Co. für Wahlerfolge?",
-   "summary": "Die AfD und SPD in Mecklenburg-Vorpommern sowie die Linkspartei in Berlin waren im Wahlkampf besonders präsent in den sozialen Medien. Wird der Einfluss von Social Media auf den Wahlerfolg überschätzt?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wie-entscheidend-sind-tiktok-und-co-fuer-wahlerfolge-201251867.html",
-   "published": "2026-09-22T15:27:13+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Merz holpert, Koçak stolpert, Trump poltert",
-   "summary": "Friedrich Merz steht nach den Wahlen weiter unter Druck, Linker Koçak stolpert über Clan-Chat und Trump sendet nun selbst aus dem Weißen Haus.",
-   "link": "https://www.zdfheute.de/briefing/merz-trump-remmo-linke-zdfheute-update-100.html",
-   "published": "2026-09-22T15:27:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Auftakt der UN-Generalversammlung",
-   "summary": "Auftakt der UN-Generalversammlung in New York mit Reden von UN-Generalsekretär António Guterres und US-Präsident Donald Trump, dazu Einschätzungen von Politikwissenschaftler Prof. Manuel Fröhlich",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5234770",
-   "published": "2026-09-22T15:27:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Tarifkonflikt: IG Metall fordert fünf Prozent mehr Lohn",
-   "summary": "Die Arbeitgeber fordern Kostensenkung, um Produktion im Land zu halten. Die IG Metall schlägt andere Wege sein. Sie will in der bevorstehenden Tarifrunde Löhne erhöhen und trotzdem Stellenabbau verhindern.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/ig-metall-fordert-fuenf-prozent-mehr-lohn-in-der-tarifrunde-201251665.html",
-   "published": "2026-09-22T15:26:51+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Potsdam-Institut über Klimafolgen: Sieben von neun Öko-Grenzen überschritten",
-   "summary": "Dem Planeten geht es so schlecht wie noch nie. Eigentlich sind Lösungen aber bekannt, sagen Klimaforscher:innen. Man müsse nur handeln. mehr...",
-   "link": "https://taz.de/Potsdam-Institut-ueber-Klimafolgen/!6215444/",
-   "published": "2026-09-22T15:24:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Flugzeugunglück: US-Kampfjet auf Airbase Spangdahlem abgestürzt",
-   "summary": "In der Eifel stürzt eine Militärmaschine ab. Der Pilot kann sich laut US-Luftwaffe mit dem Schleudersitz retten. Er wird medizinisch versorgt. Was bislang bekannt ist.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/flugzeugunglueck-us-kampfjet-auf-airbase-spangdahlem-abgestuerzt/100256640.html",
-   "published": "2026-09-22T15:23:17+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Defensive stärken: Gladbach setzt auf Alexander Blessin",
-   "summary": "Borussia Mönchengladbach setzt im Kampf um den Klassenerhalt auf ein bekanntes Gesicht: Alexander Blessin. Seine erste Aufgabe sollte die Stabilisierung der löchrigen Abwehr sein.",
-   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-borussia-moenchengladbach-alexander-blessin-trainer-100.html",
-   "published": "2026-09-22T15:23:00+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilität: Siemens erhält Milliardenauftrag der ÖBB",
-   "summary": "Das internationale Mobilitätsgeschäft Siemens Mobility erhält einen Auftrag von der ÖBB. Dabei geht es aber nicht mehr nur um den klassischen Zugbau, sondern um moderne Technologien.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/mobilitaet-siemens-erhaelt-milliardenauftrag-der-oebb/100256654.html",
-   "published": "2026-09-22T15:22:53+00:00",
-   "first_seen": "2026-09-22T16:04:19.448499+00:00",
-   "paywall": true
   }
  ]
 }

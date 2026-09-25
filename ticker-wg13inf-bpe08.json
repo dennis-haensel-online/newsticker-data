@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T17:03:25.290796+00:00",
+ "updated": "2026-09-25T18:04:18.157587+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz: Bill Gates warnt vor einer Milliarde Todesfällen durch KI",
+   "summary": "Immer mehr Menschen aus der Technologiebranche warnen vor den existenziellen Gefahren durch künstliche Intelligenz. Nun hat sich auch Microsoft-Mitgründer Bill Gates zu Wort gemeldet.",
+   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss",
+   "published": "2026-09-25T17:35:00+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landtagswahlen: Erfolgreich mit „Erlebnispopulismus“ – warum die AfD mehr Menschen erreicht als die CDU",
+   "summary": "Die AfD schafft es, Wähler zu mobilisieren, die andere Parteien längst verloren haben. Experten sehen dahinter eine Strategie, die weit über Social Media hinausgeht.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/afd-erlebnispopulismus-was-andere-parteien-daraus-lernen-koennen/100255264.html",
+   "published": "2026-09-25T17:32:38+00:00",
+   "first_seen": "2026-09-25T18:04:18.157587+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Gates: KI könnte Tod einer Milliarde Menschen verursachen",
@@ -881,24 +899,6 @@
    "summary": "Eine KI sollte Gesundheitsstatistiken suchen – und hackte sich dabei in ein australisches Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
    "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257010.html",
    "published": "2026-09-24T03:22:32+00:00",
-   "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "China und USA: Und sie brauchen sich doch",
-   "summary": "KI-Sicherheit, Handelsstreit und Krieg in Nahost: Beim Treffen Trumps mit Xi wäre der Erhalt des Status Quo ein Erfolg. Den letzten Besuch nutzte der Chinese für sich.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/china-usa-donald-trump-xi-jinping-treffen-washington-dc",
-   "published": "2026-09-24T03:07:22+00:00",
-   "first_seen": "2026-09-24T04:03:59.882005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Reguliert uns",
-   "summary": "OpenAI-Chef Sam Altman und Anthropic-Gründer Dario Amodei sprechen vor dem UN-Sicherheitsrat über die Risiken von KI und fordern eine Regulierung ihrer Branche. Nur darüber, wie die aussehen könnte, haben sie unterschiedliche Vorstellungen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/usa-uno-kuenstliche-intelligenz-sam-altman-dario-amodei-openai-anthropic-kontrolle-regulierung-li.3552934",
-   "published": "2026-09-24T03:07:08+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
    "paywall": true
   }
