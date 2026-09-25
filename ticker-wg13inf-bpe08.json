@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-25T14:04:55.208615+00:00",
+ "updated": "2026-09-25T15:04:36.153236+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Staat gibt Beteiligung an Condor ab",
+   "summary": "Chemiebranche vor Großübernahme +++ Starbucks schließt 250 Filialen in Nordamerika +++ KI-Modell mit mehr Sicherheit geplant +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-staat-zieht-sich-aus-fluggesellschaft-condor-zurueck-faz-200452404.html",
+   "published": "2026-09-25T14:49:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Aktuelle Stunde: Sicherheit und Kontrolle von KI-Systemen",
+   "summary": "Aktuelle Stunde im Bundestag zu Sicherheit und Kontrolle von KI-Systemen auf Verlangen der Grünen-Fraktion",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235564",
+   "published": "2026-09-25T14:14:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Neues Gesetz: Abschiebehaft und KI – Bundespolizei bekommt neue Befugnisse",
@@ -881,24 +899,6 @@
    "summary": "Der ChatGPT-Entwickler OpenAI arbeitet an einem neuartigen Gerät für die KI-Ära. Doch nun dürfte es der Facebook-Konzern Meta sein, der solche Technik als Erster auf den Markt bringt.",
    "link": "https://www.handelsblatt.com/technik/it-internet/facebook-konzern-facebook-konzern-ueberholt-rivalen-mit-kleinem-ki-geraet/100256983.html",
    "published": "2026-09-24T02:27:32+00:00",
-   "first_seen": "2026-09-24T03:03:55.118330+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gipfel in Washington: Der KI-Machtkampf zwischen USA und China",
-   "summary": "Trump und Xi wollen auf dem Gipfel am Donnerstag über gemeinsame Leitplanken für KI sprechen. Doch schon bei der Definition der größten Risiken sind sie uneins.",
-   "link": "https://www.handelsblatt.com/politik/international/technologie-der-ki-machtkampf-zwischen-usa-und-china/100251198.html",
-   "published": "2026-09-24T02:02:25+00:00",
-   "first_seen": "2026-09-24T03:03:55.118330+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Energieeffiziente Technik: Roboter in Südkorea läuft Marathon unter viereinhalb Stunden",
-   "summary": "Passable Zeit und nur eine Batterieladung: Umgeben von menschlichen Läufern hat ein vierbeiniger Roboter einen Marathon gemeistert. „Raibo2“ könnte bei Patrouillen Anwendung finden, hofft das Team.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/energieeffiziente-technik-roboter-in-suedkorea-laeuft-marathon-unter-viereinhalb-stunden/100256991.html",
-   "published": "2026-09-24T02:00:24+00:00",
    "first_seen": "2026-09-24T03:03:55.118330+00:00",
    "paywall": true
   }

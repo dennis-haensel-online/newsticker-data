@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T14:04:55.208615+00:00",
+ "updated": "2026-09-25T15:04:36.153236+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -11,12 +11,219 @@
    "paywall": true
   },
   {
+   "label": "SZ",
+   "title": "Podcast: „Auf den Punkt“: Kann Vergesellschaftung Mieten senken?",
+   "summary": "Die Linke will in Berlin 200 000 Wohnungen vergesellschaften. Das löst nicht alle Probleme.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/podcast-nachrichten-auf-den-punkt-mieten-berlin-li.3553979",
+   "published": "2026-09-25T15:01:34+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Nach Schnabels Rückzug: Im Rennen um die Lagarde-Nachfolge wird es ernst",
+   "summary": "EZB-Direktoriumsmitglied Isabel Schnabel scheidet vorzeitig aus dem Amt. Damit hat das Stühlerücken in der Notenbank begonnen. Nun könnte alles ganz schnell gehen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/im-rennen-um-die-lagarde-nachfolge-in-der-ezb-wird-es-ernst-201262077.html",
+   "published": "2026-09-25T14:58:04+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Automobilindustrie: Welche Fahrzeuge vom VW-Rückruf betroffen sind",
+   "summary": "Weil eine Lenkungsschraube Korrosionsgefahr birgt, hat Volkswagen knapp eine Million Pkw zurückgerufen. Betroffen sind auch Modelle der Marken Seat und Audi.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/vw-rueckruf-autos-lenkung-schraube-audi-volkswagen",
+   "published": "2026-09-25T14:57:31+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Rapperin Wa22ermann: Ernüchterung, Wut und Flow",
+   "summary": "Die aus Pakistan stammende Berliner Rapperin Wa22ermann findet auf ihrem Debütalbum „Knax“ den Sound für die Vielfalt der Hauptstadt. mehr...",
+   "link": "https://taz.de/Rapperin-Wa22ermann/!6211182/",
+   "published": "2026-09-25T14:51:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Brasilien: Der nächste Bolsonaro",
+   "summary": "Flávio Bolsonaro will es seinem Vater gleichtun und Präsident von Brasilien werden. Seine Chancen stehen gut. Wenn da nicht ein veritabler Finanzskandal wäre.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/favio-bolsonaro-praesidentschaftskandidat-mit-finanzskandal-201231786.html",
+   "published": "2026-09-25T14:50:33+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Staat gibt Beteiligung an Condor ab",
+   "summary": "Chemiebranche vor Großübernahme +++ Starbucks schließt 250 Filialen in Nordamerika +++ KI-Modell mit mehr Sicherheit geplant +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-staat-zieht-sich-aus-fluggesellschaft-condor-zurueck-faz-200452404.html",
+   "published": "2026-09-25T14:49:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Rückruf bei VW und Audi: Lenkungsausfall droht – was tun?",
+   "summary": "VW ruft fast eine Million Autos wegen Problemen an der Lenkung zurück. Betroffene Modelle bei VW, Audi und Seat, Sicherheitsrisiko und Werkstatt-Ablauf im Überblick.",
+   "link": "https://www.wiwo.de/unternehmen/auto/rueckruf-bei-vw-und-audi-lenkungsausfall-droht-was-tun/100257495.html",
+   "published": "2026-09-25T14:48:14+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Agrarministerkonferenz: Agrarminister einigen sich auf neue Dünge-Regelung",
+   "summary": "Die Belastung des Grundwassers mit Nitrat durch intensive Landwirtschaft ist seit Jahrzehnten ein Problem. Der Vorschlag der Agrarminister der Länder stößt vor allem bei Wasserversorgern auf Kritik.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/agrarministerkonferenz-agrarminister-einigen-sich-auf-neue-duenge-regelung/100257402.html",
+   "published": "2026-09-25T14:46:26+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Chemieindustrie: Evonik bestätigt Übernahmeangebot durch BASF",
+   "summary": "Die deutsche Chemiebranche könnte vor Veränderungen stehen: Evonik hat ein Übernahmeangebot von BASF öffentlich gemacht. Gespräche fänden derzeit jedoch nicht statt.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/basf-evonik-uebernahme-chemiekonzerne-rag-stiftung",
+   "published": "2026-09-25T14:41:32+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Frankreich-Besuch: Papst mahnt zu „neuer Brüderlichkeit“",
+   "summary": "Eigentlich gilt Frankreich als „älteste Tochter“ der Kirche. Aber beim ersten Besuch von Leo XIV. in Paris geht es auch um Konfliktthemen wie Sterbehilfe und Abtreibung. Und um seine Wurzeln.",
+   "link": "https://www.handelsblatt.com/politik/international/frankreich-besuch-papst-mahnt-zu-neuer-bruederlichkeit/100257440.html",
+   "published": "2026-09-25T14:41:32+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Debakel für Antonelli - Russel holt Pole",
+   "summary": "Die Formel 1: Das Wichtigste der Rennserie in Bildern.",
+   "link": "https://www.zdfheute.de/sport/formel-1-saison-2026-100.html",
+   "published": "2026-09-25T14:39:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bitcoin-Anstieg: Spekulanten wetten gegen Krypto-Aktien – bei einer könnte ein Short-Squeeze bevorstehen",
+   "summary": "Der Anstieg des Bitcoin hat Investoren überrascht, die am Aktienmarkt gegen Krypto-Unternehmen wetten. In einem Fall könnte das die Kurse noch weiter antreiben.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/bitcoin-bei-dieser-krypto-aktie-koennte-ein-short-squeeze-bevorstehen/100257361.html",
+   "published": "2026-09-25T14:37:11+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
+   "summary": "Der \"Tankrabatt\" kommt wieder. Diesmal gilt die Preissenkung sogar drei Monate lang. Das sind gute Nachrichten für Autofahrer, Spediteure und Landwirte. Es gibt aber auch Kritik an der Maßnahme.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html",
+   "published": "2026-09-25T14:36:26+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Sparpläne bei Öffentlich-Rechtlichen: WDR will sich halbieren",
+   "summary": "Der WDR will die Hälfte seiner Programmangebote bis zum Jahr 2030 streichen. 76 davon schon bis Ende 2027. Durch den Umbau sollen 133 Stellen wegfallen. mehr...",
+   "link": "https://taz.de/Sparplaene-bei-Oeffentlich-Rechtlichen/!6216377/",
+   "published": "2026-09-25T14:36:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Der Traum vom großen Chemiedeal: BASF buhlt um Evonik",
+   "summary": "Der Chemiekonzern BASF hat seine Fühler nach dem Konkurrenten Evonik ausgestreckt. Sollten sie sich einigen, entstünde ein neuer Chemieriese aus Deutschland. Doch viele Fragen sind noch offen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/grosser-deal-in-der-chemie-basf-arbeitet-an-uebernahme-von-evonik-201263548.html",
+   "published": "2026-09-25T14:35:18+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energiekise: Wie teuer wird Diesel in Deutschland? Die wichtigsten Fragen und Antworten",
+   "summary": "Die USA erwägen Exportbeschränkungen auf Diesel. Am stärksten dürfte davon Europa betroffen sein. Was bedeutet das für die Preise an deutschen Tankstellen – und könnte Diesel knapp werden?",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/tankstelle-wie-teuer-wird-diesel-noch-die-wichtigsten-fragen-und-antworten/100257356.html",
+   "published": "2026-09-25T14:32:58+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Hohe Ölpreise: Kann diese Ölpalme die Biosprit-Knappheit beenden?",
+   "summary": "Preislich attraktiv sind Biokraftstoffe inzwischen – und knapp. Eine bisher kaum bekannte brasilianische Ölpalme könnte das ändern, sagen Wissenschaftler.",
+   "link": "https://www.wiwo.de/technologie/knappes-oel-kann-diese-palme-den-mangel-an-bio-kerosin-lindern/100257193.html",
+   "published": "2026-09-25T14:32:51+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Falscher Weg\": Knobloch entsetzt über Stolperstein-Verbot",
+   "summary": "Es hagelt Kritik am Stolperstein-Verbot im sächsischen Heidenau: Holocaust-Überlebende Charlotte Knobloch ist entsetzt, Grünen-Chef Felix Banaszak spricht von einem \"Skandal\".",
+   "link": "https://www.zdfheute.de/politik/deutschland/stolpersteine-heidenau-cdu-afd-kritik-knobloch-100.html",
+   "published": "2026-09-25T14:31:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Betrugsverfahren: Die fragwürdigen Deutschland-Geschäfte des Wanja Oberhof",
+   "summary": "Der in New York unter Betrugsverdacht stehende Unternehmer versuchte sich in seiner Heimat zuletzt an der Übernahme von zwei Firmen. Die Bilanz: eher durchwachsen.",
+   "link": "https://www.wiwo.de/unternehmen/dienstleister/betrug-die-fragwuerdigen-deutschland-geschaefte-des-unternehmers-wanja-oberhof/100257367.html",
+   "published": "2026-09-25T14:29:03+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Chemiekonzerne: BASF streckt bei Evonik die Fühler aus – Evonik-Aktien ziehen an",
+   "summary": "Der Chemieriese BASF hat den Konkurrenten Evonik ins Visier genommen. Das berichten mehrere Medien. In der Folge reagieren die Aktien der Unternehmen stark.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/basf-will-evonik-uebernehmen-aktienkurse-reagieren-heftig/100257469.html",
+   "published": "2026-09-25T14:25:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Donald Trump, Xi Jinping, Techbosse: Wer beim Dinner neben den Präsidenten saß",
+   "summary": "Zum Staatsbesuch des chinesischen Präsidenten hat Donald Trump das Who’s who der amerikanischen Wirtschaft eingeladen. Die Sitzordnung lässt darauf schließen, wer dem Mann im Weißen Haus derzeit besonders nah ist.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss",
+   "published": "2026-09-25T14:22:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Aktuelle Stunde: Sicherheit und Kontrolle von KI-Systemen",
+   "summary": "Aktuelle Stunde im Bundestag zu Sicherheit und Kontrolle von KI-Systemen auf Verlangen der Grünen-Fraktion",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235564",
+   "published": "2026-09-25T14:14:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen öffnen im Plus – Ölpreis fällt wieder",
    "summary": "Weiter steigende Anleiherenditen, neue Entwicklungen im Nahen Osten und neue Firmendeals bewegen am Freitag die Börse. In Washington endet derweil das Treffen zwischen Trump und Xi.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-oeffnen-im-plus-oelpreis-faellt-wieder/100257444.html",
    "published": "2026-09-25T13:58:56+00:00",
    "first_seen": "2026-09-25T14:04:55.208615+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Börsen öffnen im Plus – Anleiherenditen weiter auf hohem Niveau",
+   "summary": "Weiter steigende Anleiherenditen, neue Entwicklungen im Nahen Osten und neue Firmendeals bewegen am Freitag die Börse. In Washington endet derweil das Treffen zwischen Trump und Xi.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-oeffnen-im-plus-anleiherenditen-weiter-auf-hohem-niveau/100257444.html",
+   "published": "2026-09-25T13:58:56+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
    "paywall": true
   },
   {
@@ -36,6 +243,15 @@
    "published": "2026-09-25T13:52:01+00:00",
    "first_seen": "2026-09-25T14:04:55.208615+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Pegelstand bei Kaub erreicht Rekordtief von zwei Zentimetern",
+   "summary": "Das Niedrigwasser des Rheins erreicht ein neues Rekordtief. Das Wasserstraßen- und Schifffahrtsamt spricht von einer \"weiterhin angespannten\" Lage.",
+   "link": "https://www.zdfheute.de/panorama/pegelstand-rhein-rekord-tief-kaub-100.html",
+   "published": "2026-09-25T13:50:00+00:00",
+   "first_seen": "2026-09-25T15:04:36.153236+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13283,222 +13499,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/energie/energie-tschechischer-milliardaer-kretinsky-bietet-fuer-uniper/100256613.html",
    "published": "2026-09-22T14:12:57+00:00",
    "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Merz zu Krankenversicherungen: Ein löblicher Sinneswandel",
-   "summary": "Überraschend hält Kanzler Merz das Zweiklassensystem bei der Krankenversicherung für ungerecht. Die Privaten will er natürlich nicht abschaffen. mehr...",
-   "link": "https://taz.de/Merz-zu-Krankenversicherungen/!6215283/",
-   "published": "2026-09-22T14:12:00+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Ist Jungwählern Antisemitismus in Teilen der Linken egal?",
-   "summary": "Fast die Hälfte der jungen Menschen in Berlin hat die Linke gewählt - trotz antisemitischer Aussagen von Teilen der Partei. Beobachter sehen dafür vor allem zwei Gründe.",
-   "link": "https://www.zdfheute.de/politik/deutschland/junge-jugend-erstwaehler-linke-antisemitismus-berlin-wahl-100.html",
-   "published": "2026-09-22T14:11:00+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Grönland-Abkommen: Hoffnung auf den Grönland-Deal lässt Rohstoffaktien explodieren",
-   "summary": "Die Aussicht auf ein Abkommen zwischen den USA und Dänemark lässt die Kurse von Aktien mit Grönland-Bezug hochschießen. Wer einsteigen will, sollte vorsichtig sein.",
-   "link": "https://www.wiwo.de/finanzen/boerse/groenland-aktien-im-hype-warum-anleger-jetzt-aufpassen-muessen/100256604.html",
-   "published": "2026-09-22T14:11:00+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Nach Erlaubnis für Emirates: Condor gibt Dubai-Flüge auf",
-   "summary": "Die Fluggesellschaft Emirates hat gerade das Recht bekommen, von Berlin nach Dubai zu fliegen. Nun reagiert Condor und streicht die eigenen Dubai-Flüge. Die neuen Rechte für Emirates sind aber nicht der alleinige Grund.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-erlaubnis-fuer-emirates-condor-streicht-dubai-fluege-ab-berlin-201252339.html",
-   "published": "2026-09-22T14:08:03+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Musikmagazin Pitchfork: Von der Kaufentscheidung zur Überlebenshilfe",
-   "summary": "Die Klage über den Niedergang der Musikkritik hat die Klage über den Niedergang der Popmusik abgelöst. Zurecht? mehr...",
-   "link": "https://taz.de/Musikmagazin-Pitchfork-Von-Kaufentscheidung-zur-Ueberlebenshilfe/!6208304/",
-   "published": "2026-09-22T14:08:00+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führerschein-Durchfallquote: So viele Fahrschüler fallen bei der Prüfung durch",
-   "summary": "2025 ist die Zahl der Führerscheinprüfungen auf einen neuen Spitzenwert gestiegen. Viele Fahranfänger bestehen die Prüfungen allerdings nicht. Was Sie zur Durchfallquote wissen müssen.",
-   "link": "https://www.handelsblatt.com/mobilitaet/ratgeber-service/fuehrerscheinpruefung-die-aktuelle-durchfallquote-beim-fuehrerschein-01/29418642.html",
-   "published": "2026-09-22T14:08:00+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Polen: Marienstatue überragt Rio",
-   "summary": "Im polnischen Konotopie steht jetzt Europas größte Marienstatue. Mit über 55 Metern überragt sie sogar die Christusfigur von Rio de Janeiro deutlich.",
-   "link": "https://www.zdfheute.de/video/heute-in-europa/polen-marienstatue-ueberragt-rio-100.html",
-   "published": "2026-09-22T14:00:00+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Wahlen +++: Söder will „extremistischer“ Politik der Linken in Berlin das Geld entziehen",
-   "summary": "Schwesig will Sondierungen nächste Woche starten +++ Berlins SPD-Fraktionschef will nicht wieder kandieren +++ Fraktionsmanagerin: „Volle Rückendeckung“ für den Kanzler ++ Der Newsblog",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-soeder-will-extremistischer-politik-der-linken-geld-entziehen/100252039.html",
-   "published": "2026-09-22T13:57:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Nach der Wahl: Wie die Bundesregierung offenbar verhindern will, dass die AfD Geheimnisse nach Russland weiterleitet",
-   "summary": "Die Bundesregierung möchte einer möglichen AfD-Landesregierung in Magdeburg keine Geheimdienstinformationen mehr zu Russland zukommen lassen.",
-   "link": "https://www.wiwo.de/politik/deutschland/afd-und-russland-wie-die-bundesregierung-verhindern-will-dass-geheimnisse-weitergeleitet-werden/100256416.html",
-   "published": "2026-09-22T13:56:32+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Umstrittene Auszeichnung: Münsters zweiter Friedenspreis",
-   "summary": "Ausgerechnet die Nato bekommt in diesem Jahr den Westfälischen Friedenspreis. In Münster regt sich Widerstand samt eigens gegründetem Alternativpreis. mehr...",
-   "link": "https://taz.de/Umstrittene-Auszeichnung/!6213219/",
-   "published": "2026-09-22T13:53:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US-Börsen starten im Plus – Neue KI-Zuversicht als Kurstreiber",
-   "summary": "Der Technologiesektor gibt den US-Märkten auch am Dienstag Rückenwind. Die Ölpreise fallen weiter und die Hoffnungen auf Gespräche der USA mit dem Iran und China halten an.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-starten-im-plus-neue-ki-zuversicht/100256578.html",
-   "published": "2026-09-22T13:50:44+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Metall- und Elektroindustrie: IG-Metall-Bezirke wollen fünf Prozent mehr Geld und sichere Jobs",
-   "summary": "Die IG Metall fordert fünf Prozent mehr Lohn. In der kriselnden Metall- und Elektroindustrie droht ein Konflikt um Arbeitskosten und Jobs.",
-   "link": "https://www.wiwo.de/unternehmen/auto/metall-und-elektroindustrie-ig-metall-bezirke-wollen-fuenf-prozent-mehr-geld-und-sichere-jobs/100256623.html",
-   "published": "2026-09-22T13:49:47+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
-   "summary": "Die Entwicklung Künstlicher Intelligenz schreitet rasant voran - doch zuletzt häuften sich Berichte von Cyberattacken durch die KI. Nun fordert eine Gruppe von 22 Staats-und Regierungschefs eine internationale Aufsicht.",
-   "link": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html",
-   "published": "2026-09-22T13:45:32+00:00",
-   "first_seen": "2026-09-24T07:04:59.934858+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Geldanlage: „Am besten lässt man sich nicht verrückt machen“",
-   "summary": "Anlageprofi Andreas Beck erklärt, warum Anleihen jetzt attraktiv sind, wie Anleger mit Unsicherheit bei Aktien umgehen sollten und warum Gold gerade keine gute Absicherung ist.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-wie-sollen-anleger-mit-der-aktuellen-marktlage-umgehen/100256436.html",
-   "published": "2026-09-22T13:44:56+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Geldanlage: „Am besten lässt man sich nicht verrückt machen“",
-   "summary": "Anlageprofi Andreas Beck erklärt, warum Anleihen jetzt attraktiv sind, wie Anleger mit Unsicherheit bei Aktien umgehen sollten und warum Gold gerade keine gute Absicherung ist.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/anleihen-kaufen-warum-andreas-beck-jetzt-dazu-raet/100256436.html",
-   "published": "2026-09-22T13:44:56+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Angst vor KI‑Agenten? Offenbar nicht vor Muse",
-   "summary": "Metas neuer KI-Agent Muse führt wenige Tage nach dem Start die App-Charts an. An der Börse löst das einmal mehr Euphorie aus.",
-   "link": "https://www.wiwo.de/finanzen/boerse/meta-angst-vor-kiagenten-offenbar-nicht-vor-muse/100256489.html",
-   "published": "2026-09-22T13:43:54+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Mehr als doppelt so viel Wachstum in diesem Jahr – woher der plötzliche deutsche Aufschwung kommt",
-   "summary": "Die führenden Forschungsinstitute gehen von deutlich mehr Wirtschaftswachstum aus – aus drei Gründen. Sind die wirtschaftlichen Probleme in Deutschland doch nicht so groß?",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-woher-der-ploetzliche-deutsche-aufschwung-kommt/100256427.html",
-   "published": "2026-09-22T13:43:50+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Institute verdoppeln Wachstums-Prognose für Deutschland: Der plötzliche Aufschwung hat drei Gründe",
-   "summary": "Die führenden Forschungsinstitute gehen von deutlich mehr Wirtschaftswachstum aus. Sind die wirtschaftlichen Probleme in Deutschland doch nicht so groß?",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-institute-verdoppeln-wachstums-prognose-fuer-deutschland/100256427.html",
-   "published": "2026-09-22T13:43:50+00:00",
-   "first_seen": "2026-09-22T15:04:14.754427+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Wegen Clan-Kontakten: Linken-Abgeordneter Koçak lässt Funktionen vorerst ruhen",
-   "summary": "Der Bundestagsabgeordnete Ferat Koçak sorgt mit einem Chat mit einem Mitglied der Familie Remmo für Wirbel. Auch Partei und Fraktion äußern sich kritisch. mehr...",
-   "link": "https://taz.de/Wegen-Clan-Kontakten/!6215405/",
-   "published": "2026-09-22T13:39:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bundesregierung: Reformen durchziehen oder aufweichen? Union streitet um ihren Kurs",
-   "summary": "Nach den Wahlniederlagen wachsen auch bei CDU und CSU Zweifel am Kurs der Regierung. Während die Bundestagsfraktion Reformen durchziehen will, fordern viele Ministerpräsidenten Korrekturen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-reformen-durchziehen-oder-aufweichen-streit-um-union-kurs/100256430.html",
-   "published": "2026-09-22T13:38:42+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "CDU-Krise: Frei: „Der Bundeskanzler hat unsere Unterstützung“",
-   "summary": "Erst Parteipräsidium und -vorstand, jetzt noch die Bundestagsfraktion: Nach den desaströsen Wahlniederlagen der CDU kämpft der Kanzler um Rückhalt in Partei und Parlament.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/cdu-krise-frei-der-bundeskanzler-hat-unsere-unterstuetzung/100256382.html",
-   "published": "2026-09-22T13:38:41+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Erdgas: Produktion ausgesetzt – Chemiekonzern Ineos kämpft mit hohen Gaspreisen",
-   "summary": "Das Vereinigte Königreich kämpft mit immer weiter steigenden Erdgaspreisen. Der Chemiegigant Ineos zieht nun Konsequenzen und stellt seine Produktion teilweise vorübergehend ein.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/erdgas-produktion-ausgesetzt-chemiekonzern-ineos-kaempft-mit-hohen-gaspreisen/100256621.html",
-   "published": "2026-09-22T13:37:18+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Großbritanniens großes KI-Dilemma",
-   "summary": "Die britische Regierung ist in einem Dilemma: Sie will Wachstum und gleichzeitig die Gemeinden einbeziehen. Doch gegen die geplanten Datenzentren regt sich Protest.",
-   "link": "https://www.zdfheute.de/politik/ausland/ki-london-rechenzentrum-protest-einwohner-100.html",
-   "published": "2026-09-22T13:35:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Berlin: Ein Versuch ohne historisches Beispiel",
-   "summary": "Die Linke will in Berlin regieren und macht es zur Bedingung, Wohnungsbestände großer Wohnungskonzerne zu vergesellschaften. Wie ist die rechtliche Lage? Und was wären die Auswirkungen?",
-   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/berlin-enteignen-vonovia-linke-vergesellschaften-e024153/",
-   "published": "2026-09-22T13:26:00+00:00",
-   "first_seen": "2026-09-22T14:03:48.666872+00:00",
    "paywall": true
   }
  ]
