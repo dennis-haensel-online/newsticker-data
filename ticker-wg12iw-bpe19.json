@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-25T07:04:57.948401+00:00",
+ "updated": "2026-09-25T08:04:13.622338+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-Lieferkette: Was der Arbeitskampf in Taiwans Chipindustrie für die KI-Welt bedeutet",
+   "summary": "Taiwans Vorzeigebranche steht vor einem Verteilungskonflikt: Beschäftigte wollen stärker am KI-Boom beteiligt werden – mit globalen Folgen?",
+   "link": "https://www.wiwo.de/unternehmen/it/tsmc-co.-was-der-chip-streik-in-taiwan-fuer-ki-bedeutet/100256210.html",
+   "published": "2026-09-25T07:56:28+00:00",
+   "first_seen": "2026-09-25T08:04:13.622338+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-ab-welchem-vermoegen-gelten-sie-in-deutschland-als-reich/100149729.html",
    "published": "2026-09-23T07:31:00+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "EZB: Leitzinsniveau könnte Wirtschaft in der Zukunft leicht bremsen",
-   "summary": "Bundesbankchef Joachim Nagel warnt bei dauerhaft hohen Energiepreisen vor einer strafferen Geldpolitik der EZB. Zugleich sieht er die Gefahr einer neuen Lohn-Preis-Spirale als begrenzt an.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/ezb-leitzinsniveau-koennte-wirtschaft-in-der-zukunft-leicht-bremsen/100256783.html",
-   "published": "2026-09-23T07:25:09+00:00",
    "first_seen": "2026-09-23T08:04:19.646872+00:00",
    "paywall": true
   }
