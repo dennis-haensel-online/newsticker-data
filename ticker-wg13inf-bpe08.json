@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-26T22:03:54.570211+00:00",
+ "updated": "2026-09-26T23:03:55.429012+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall",
+   "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. Nun zieht OpenAI Konsequenzen, um an wichtigen Stellen bei der Sicherheit nachzubessern.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
+   "published": "2026-09-26T22:35:38+00:00",
+   "first_seen": "2026-09-26T23:03:55.429012+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI pausiert KI-Training nach neuem Zwischenfall",
+   "summary": "Nach Hacking-Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell schaffte es trotzdem, Antworten von einem externen Chatbot zu bekommen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257651.html",
+   "published": "2026-09-26T22:21:48+00:00",
+   "first_seen": "2026-09-26T23:03:55.429012+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Anschlusspapier: KI, Handel und Militär – China und USA wollen Dialog stärken",
@@ -881,24 +899,6 @@
    "summary": "Mark Zuckerberg setzt alles auf Metas neuen KI-Agenten Muse. Der kann erstaunlich viel, muss dafür aber auch fast alles über seine Nutzer wissen. Ist das eine gute Idee?",
    "link": "https://www.zeit.de/wirtschaft/2026-09/meta-connect-entwicklung-ki-agent-muse-mark-zuckerberg",
    "published": "2026-09-24T11:30:04+00:00",
-   "first_seen": "2026-09-24T12:05:14.330788+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Automatisierung: Autoindustrie bremst Robotik-Ausbau in Deutschland",
-   "summary": "Deutschland ist bei der industriellen Automatisierung zwar Europas führende Volkswirtschaft. Doch im weltweiten Wettlauf droht der Standort den Anschluss zu verlieren.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/automatisierung-autoindustrie-bremst-robotik-ausbau-in-deutschland/100257178.html",
-   "published": "2026-09-24T11:30:04+00:00",
-   "first_seen": "2026-09-24T12:05:14.330788+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
-   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-was-deutschlands-juengste-ki-professorin-ueber-den-ki-boom-denkt/100188740.html",
-   "published": "2026-09-24T11:19:00+00:00",
    "first_seen": "2026-09-24T12:05:14.330788+00:00",
    "paywall": true
   }
