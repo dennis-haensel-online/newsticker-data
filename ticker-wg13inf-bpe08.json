@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-26T04:04:04.669814+00:00",
+ "updated": "2026-09-26T05:03:38.265358+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -27,6 +27,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chatgpt-openai-li.3554221",
    "published": "2026-09-26T02:56:50+00:00",
    "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Nach Datenleck: Open AI prüft unerwünschtes Verhalten von KI-Agenten",
+   "summary": "Für das Training von Modellen greifen die KI-Programme von Open AI auf anonymisierte Nutzerdaten zurück. Da ist nun offenbar etwas schiefgelaufen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chat-gpt-open-ai-li.3554221",
+   "published": "2026-09-26T02:56:50+00:00",
+   "first_seen": "2026-09-26T05:03:38.265358+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Eine KI sollte Statistiken suchen – und hackte sich in ein Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
    "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257011.html",
    "published": "2026-09-24T05:13:00+00:00",
-   "first_seen": "2026-09-24T06:05:25.199286+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Zuckerbergs neue Liebe heißt Muse",
-   "summary": "Meta-Chef Mark Zuckerberg predigt auf seiner Entwicklerkonferenz Connect die Ära der „persönlichen Superintelligenz“. Auf mögliche Gefahren ging er nicht ein.",
-   "link": "https://www.wiwo.de/unternehmen/it/metas-neue-ki-strategie-was-der-agent-muse-fuer-den-konzern-bedeutet/100257019.html",
-   "published": "2026-09-24T05:10:04+00:00",
    "first_seen": "2026-09-24T06:05:25.199286+00:00",
    "paywall": true
   }

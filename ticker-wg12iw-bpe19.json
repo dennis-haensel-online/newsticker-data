@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-26T04:04:04.669814+00:00",
+ "updated": "2026-09-26T05:03:38.265358+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche 578: Editorial: Wie kann das gutgehen?",
+   "summary": "Ölpreis, Anleiherenditen, Leitzinsen: Das Umfeld für Aktien war schonmal besser. Doch es gibt gute Gründe für steigende Kurse.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/steigende-zinsen-und-aktien-warum-die-kurse-trotzdem-klettern/100257162.html",
+   "published": "2026-09-26T04:51:00+00:00",
+   "first_seen": "2026-09-26T05:03:38.265358+00:00",
    "paywall": true
   },
   {
@@ -892,15 +901,6 @@
    "published": "2026-09-23T10:00:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gemeinschaftswährung: EZB: Neue Euro-Banknoten ab Anfang der 2030er Jahre",
-   "summary": "Wie sollen die Euro-Scheine künftig aussehen? Millionen Menschen haben sich an einer Umfrage der Europäischen Zentralbank beteiligt. Bis sie die neuen Banknoten in Händen halten, dauert es aber noch.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gemeinschaftswaehrung-ezb-neue-euro-banknoten-ab-anfang-der-2030er-jahre/100256847.html",
-   "published": "2026-09-23T09:50:26+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
   }
  ]
 }
