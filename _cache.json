@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T19:03:33.132025+00:00",
+ "updated": "2026-09-26T20:03:48.011229+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "SPD nimmt Einladung der Linken zu Sondierungsgesprächen an",
+   "summary": "In Berlin wollen SPD und die Linke zu Sondierungsgesprächen zusammenkommen. Doch der Weg zu einem möglichen rot-grün-rotem Bündnis ist noch lang und hat viele Hürden.",
+   "link": "https://www.zdfheute.de/politik/deutschland/berlin-sondierungsgesprache-spd-linke-100.html",
+   "published": "2026-09-26T19:47:00+00:00",
+   "first_seen": "2026-09-26T20:03:48.011229+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Klopp: \"Die Nationalmannschaft zieht\"",
+   "summary": "Vor dem Nations-League-Spiel gegen Griechenland spricht Bundestrainer Jürgen Klopp im ZDF-Interview mit Reporterin Lili Engels.",
+   "link": "https://www.zdfheute.de/sport/video/das-aktuelle-sportstudio/fussball-nationalmannschaft-nations-league-dfb-team-griechenland-juergen-klopp-interview-100.html",
+   "published": "2026-09-26T18:59:00+00:00",
+   "first_seen": "2026-09-26T20:03:48.011229+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13480,24 +13498,6 @@
    "summary": "Branche, Unternehmensgröße und Standort beeinflussen maßgeblich die Gehälter – das gilt auch für Chefs. Mit unserem interaktiven Rechner sehen Sie, wo Sie im Verhältnis zu anderen stehen.",
    "link": "https://www.handelsblatt.com/karriere/gehalt-finden-sie-heraus-wie-viel-sie-als-fuehrungskraft-verdienen-sollten/100248227.html",
    "published": "2026-09-23T09:04:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Monika Schnitzer: Die Koalition verteilt mit viel Empathie Beruhigungspillen",
-   "summary": "Mit Tankrabatten und Energiehilfen will die Politik Bürger entlasten. Tatsächlich verteilt sie nur Verluste und macht aus jeder Krise einen neuen Anspruch an den Staat. Ein Gastbeitrag.",
-   "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/monika-schnitzer-die-koalition-verteilt-mit-viel-empathie-beruhigungspillen/100256190.html",
-   "published": "2026-09-23T09:01:45+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Einzelhandel: Elektronische Kassen sollen im Handel Standard werden",
-   "summary": "Die Bonpflicht soll abgeschafft werden. Das bedeutet für alle weniger Bürokratie. Moderne Kassensysteme sind im Handel bereits weit verbreitet.",
-   "link": "https://www.handelsblatt.com/unternehmen/einzelhandel-elektronische-kassen-sollen-im-handel-standard-werden/100256816.html",
-   "published": "2026-09-23T09:01:41+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": true
   }
