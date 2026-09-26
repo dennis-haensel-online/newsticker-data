@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T01:03:04.484459+00:00",
+ "updated": "2026-09-26T02:03:56.596285+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Düsseldorfer Konzern: Persil, Taft, Pril, Pritt – Henkel wird 150",
+   "summary": "Mit seinen bekannten Markenprodukten prägt Henkel seit Jahrzehnten den Alltag vieler Kunden. Ein Blick auf wichtige Meilensteine, Krisen und aktuelle Herausforderungen des Konzerns.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/duesseldorfer-konzern-persil-taft-pril-pritt-henkel-wird-150/100257545.html",
+   "published": "2026-09-26T01:30:05+00:00",
+   "first_seen": "2026-09-26T02:03:56.596285+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Alter Skandal, neues Urteil: Rückschlag für Meta vor Gericht wegen Cambridge Analytica",
+   "summary": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Im Nachgang führt der Fall nun zu einem neuen Urteil gegen den Meta-Konzern. Das könnte für ihn teuer werden.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/alter-skandal-neues-urteil-rueckschlag-fuer-meta-vor-gericht-wegen-cambridge-analytica/100257543.html",
+   "published": "2026-09-26T01:08:56+00:00",
+   "first_seen": "2026-09-26T02:03:56.596285+00:00",
    "paywall": true
   },
   {
@@ -13482,24 +13500,6 @@
    "published": "2026-09-22T16:41:22+00:00",
    "first_seen": "2026-09-22T17:03:55.369783+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-   "summary": "Harris nennt Trumps Vorgehen gegen Medien „abscheulich“ +++ Trump würde Richterspruch zu CNN „wahrscheinlich“ befolgen +++ Grönland, USA und Dänemark unterzeichnen Abkommen +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel/29669594.html",
-   "published": "2026-09-22T16:41:00+00:00",
-   "first_seen": "2026-09-23T01:04:13.216012+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Von Trump gestarteter Streit: Grönland, Dänemark und USA unterzeichnen Abkommen",
-   "summary": "Der US-Präsident hatte Ansprüche auf Grönland erhoben. Nun haben die Parteien ein Abkommen unterzeichnet – doch viele Details bleiben unklar. mehr...",
-   "link": "https://taz.de/Von-Trump-gestarteter-Streit/!6215533/",
-   "published": "2026-09-22T16:40:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
   }
  ]
 }
