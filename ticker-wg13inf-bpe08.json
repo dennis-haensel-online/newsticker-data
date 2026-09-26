@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-26T05:03:38.265358+00:00",
+ "updated": "2026-09-26T06:05:11.380885+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
+   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
+   "link": "https://www.handelsblatt.com/technik/ki/yoshua-bengio-diese-kis-betruegen-obwohl-sie-es-nicht-duerfen-01/100256318.html",
+   "published": "2026-09-26T05:42:00+00:00",
+   "first_seen": "2026-09-26T06:05:11.380885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zukunftsgestalter: Die Kundenversteher – mit digitalen Tools gewinnt Fielmann abtrünnige Kunden zurück",
+   "summary": "Jedes Jahr verlor der Optiker 700.000 Kunden – durch zu lange Wartezeiten. Mithilfe von KI vereinfacht Fielmann nun Augencheck und Brillenkauf und hat so seinen Marktanteil erhöht.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/fielmann-mit-digitalen-tools-zu-mehr-kundenzufriedenheit-01/100243934.html",
+   "published": "2026-09-26T05:35:00+00:00",
+   "first_seen": "2026-09-26T06:05:11.380885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Wer bezahlt die Aufpasser der KI?",
+   "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/deutschland-wer-bezahlt-die-aufpasser-der-ki-01/100256634.html",
+   "published": "2026-09-26T05:32:00+00:00",
+   "first_seen": "2026-09-26T06:05:11.380885+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "+++ Bundespolitik +++: Digitalminister Wildberger fordert internationale KI-Kontrolle",
@@ -72,6 +99,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-dutzende-organisationen-von-besuch-durch-ki-agenten-betroffen-faz-200452404.html",
    "published": "2026-09-25T22:06:28+00:00",
    "first_seen": "2026-09-25T23:03:43.613530+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Open-AI-Agenten griffen in Webseiten von US-Behörden ein",
+   "summary": "KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen +++ Social-Media-Sucht: Tiktok wendet Prozess in USA durch 100-Millionen-Vergleich ab +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-agenten-griffen-in-webseiten-von-us-behoerden-ein-faz-200452404.html",
+   "published": "2026-09-25T22:06:28+00:00",
+   "first_seen": "2026-09-26T06:05:11.380885+00:00",
    "paywall": true
   },
   {
@@ -865,42 +901,6 @@
    "published": "2026-09-24T06:24:00+00:00",
    "first_seen": "2026-09-24T07:04:59.934858+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
-   "summary": "Anthropic-CEO Dario Amodei sieht KI als Risiko für die Menschheit. Vor dem UN-Sicherheitsrat fordert er die Regierungen zur Zusammenarbeit auf.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/warnung-vor-ki-gefahren-tech-chefs-draengen-un-zu-regulierung/100257039.html",
-   "published": "2026-09-24T05:34:07+00:00",
-   "first_seen": "2026-09-24T06:05:25.199286+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Anthropic-Chef warnt UN-Sicherheitsrat vor KI-Gefahren für die Menschheit",
-   "summary": "Anthropic-CEO Dario Amodei sieht KI als Risiko für die Menschheit. Vor dem UN-Sicherheitsrat fordert er die Regierungen zur Zusammenarbeit auf.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/warnung-vor-ki-tech-chefs-draengen-un-zu-regulierung/100257039.html",
-   "published": "2026-09-24T05:34:07+00:00",
-   "first_seen": "2026-09-24T08:04:17.551928+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Experten erwarten Roboter-Rally an der Börse – Diese Aktien empfehlen Analysten schon jetzt",
-   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-analysten-erwarten-roboter-rally-diese-aktien-empfehlen-sie-jetzt-01/100252788.html",
-   "published": "2026-09-24T05:22:00+00:00",
-   "first_seen": "2026-09-24T06:05:25.199286+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI-Agent hackt australisches Regierungsportal",
-   "summary": "Eine KI sollte Statistiken suchen – und hackte sich in ein Regierungsportal. Persönliche Daten sind offenbar nicht betroffen. Aber die Empörung ist groß.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-agent-hackt-australisches-regierungsportal/100257011.html",
-   "published": "2026-09-24T05:13:00+00:00",
-   "first_seen": "2026-09-24T06:05:25.199286+00:00",
-   "paywall": true
   }
  ]
 }
