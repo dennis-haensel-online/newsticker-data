@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-26T10:03:53.474342+00:00",
+ "updated": "2026-09-26T11:03:45.350394+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
+   "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-und-kuenstliche-intelligenz-deutschland-profitiert-vom-ki-boom/100256792.html",
+   "published": "2026-09-26T10:15:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Die Gewerkschaft begründet die Forderung für die 3,7 Millionen Beschäftigten auch mit der besseren Konjunkturprognose. Das Infragestellen der 35-Stunden-Woche sei eine „Kriegserklärung“.",
    "link": "https://www.handelsblatt.com/politik/deutschland/ig-metall-gewerkschaft-fordert-fuenf-prozent-mehr-lohn-und-gewinnbeteiligung/100256242.html",
    "published": "2026-09-23T12:50:11+00:00",
-   "first_seen": "2026-09-23T13:05:48.292411+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: Ungarn geht wichtigen Schritt zur Euro-Einführung: Notenbank passt Inflationsziel an",
-   "summary": "Seit dem Machtwechsel in Budapest treibt Regierungschef Péter Magyar seinen ambitionierten Plan zur Euro-Einführung voran. Jetzt zieht auch die Notenbank mit.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/euro-ungarn-geht-naechsten-schritt-zur-gemeinschaftswaehrung/100256764.html",
-   "published": "2026-09-23T11:57:57+00:00",
    "first_seen": "2026-09-23T13:05:48.292411+00:00",
    "paywall": true
   }

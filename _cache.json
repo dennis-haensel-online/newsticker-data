@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T10:03:53.474342+00:00",
+ "updated": "2026-09-26T11:03:45.350394+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,132 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Karin Prien zu Stolperstein-Verbot: „Das ist ein Skandal“",
+   "summary": "CDU- und AfD-Politiker haben in der sächsischen Stadt Heidenau einen Antrag gegen Stolpersteine beschlossen. Jetzt äußert sich die Bundesbildungsministerin. mehr...",
+   "link": "https://taz.de/Karin-Prien-zu-Stolperstein-Verbot/!6216417/",
+   "published": "2026-09-26T10:48:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "USA und China planen Hotline für KI-Zwischenfälle",
+   "summary": "Die USA und China wollen nach Angaben beider Seiten einen direkten Kanal für KI-Zwischenfälle einrichten - und einen Dialog über Chancen und Risiken starten.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-china-trump-ki-kanal-100.html",
+   "published": "2026-09-26T10:42:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe",
+   "summary": "Nach Angriffen auf Saporischschja und andere Städte mahnt Selenskyj: „Russland eskaliert jeden Tag.“ Er bestätigt auch ukrainische Drohnenangriffe auf russische Ziele.",
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-selenskyj-tote-und-verletzte-durch-russische-angriffe/100257592.html",
+   "published": "2026-09-26T10:38:06+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Vereinbarkeit oder Lifestyle-Teilzeit?: Was Frauen von Arbeitgebern brauchen, um ihre Arbeitszeit auszuweiten",
+   "summary": "Jede zweite Frau in Deutschland arbeitet in Teilzeit – aber nur jeder siebte Mann. Unternehmen können viel tun, um das ungenutzte Potenzial zu heben. Eine Anleitung.",
+   "link": "https://www.wiwo.de/politik/deutschland/kind-und-karriere-was-frauen-von-arbeitgebern-brauchen-um-ihre-arbeitszeit-auszuweiten/100257186.html",
+   "published": "2026-09-26T10:28:25+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Warum Blutspenden auch im Alter möglich ist",
+   "summary": "Lange war Blutspenden ab 65 Jahren nicht erlaubt. Aber der Bedarf an Blut steigt, während es immer weniger neue Spendende gibt. Ärzte warnen vor häufiger werdenden Engpässen.",
+   "link": "https://www.zdfheute.de/wissen/blutspende-alter-mediziner-tagung-100.html",
+   "published": "2026-09-26T10:15:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Streit um Autozölle: Neue Zölle braucht das Land",
+   "summary": "EU und Großbritannien streiten um Autozölle und Autobatterien – wahrscheinlich sehr zur Freude von China, das währenddessen die hiesige Autoindustrie plattmacht. Ein Kommentar.",
+   "link": "https://www.wiwo.de/unternehmen/auto/zoelle-auf-autos-wie-china-von-dem-streit-in-europa-profitiert/100257439.html",
+   "published": "2026-09-26T10:15:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
+   "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-und-kuenstliche-intelligenz-deutschland-profitiert-vom-ki-boom/100256792.html",
+   "published": "2026-09-26T10:15:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Jede Generation hat ihren Emil verdient\"",
+   "summary": "Der neue Kinofilm bleibt Erich Kästner treu und schafft doch den Sprung ins Zeitalter von E-Rollern und Smartphones. Eine Hommage an Berlin und die Kraft der Freundschaft.",
+   "link": "https://www.zdfheute.de/panorama/emil-detektive-kino-film-100.html",
+   "published": "2026-09-26T10:10:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Mercedes-Benz: Mercedes-Mitarbeiter sollen wieder vier Tage im Büro arbeiten",
+   "summary": "Die Verhandlungen zum mobilen Arbeiten bei Mercedes sind auf der Zielgeraden. Das Homeoffice soll nur noch an einem Tag in der Woche möglich sein.",
+   "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-mitarbeiter-sollen-wieder-an-vier-tagen-im-buero-arbeiten/100257209.html",
+   "published": "2026-09-26T10:08:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Versteckte Beitragserhöhung: Darum müssen viele Arbeitnehmer bald 1200 Euro mehr für die Krankenkasse zahlen",
+   "summary": "Die Regierung will die Sozialbeiträge stabil halten. Gutverdiener und ihre Arbeitgeber werden ab 2027 trotzdem deutlich mehr an die gesetzliche Krankenkasse überweisen.",
+   "link": "https://www.wiwo.de/politik/deutschland/gesetzliche-krankenkasse-versteckte-beitragserhoehung-fuer-viele-arbeitnehmer/100257071.html",
+   "published": "2026-09-26T10:08:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Hohe Ölpreise: Kann diese Ölpalme die Biosprit-Knappheit beenden?",
+   "summary": "Preislich attraktiv sind Biokraftstoffe inzwischen – und knapp. Eine bisher kaum bekannte brasilianische Ölpalme könnte das ändern, sagen Wissenschaftler.",
+   "link": "https://www.wiwo.de/technologie/hohe-oelpreisel-kann-diese-palme-den-mangel-an-bio-kerosin-lindern/100257193.html",
+   "published": "2026-09-26T10:05:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Die Jäger der Geisternetze",
+   "summary": "Für Taucher ist die Nordsee herausfordernd: Gezeiten, Strömung, schlechte Sicht. Doch das Team von \"Ghost Diving Germany\" taucht zu Wracks und sichert verlorenen gegangene Netze.",
+   "link": "https://www.zdfheute.de/wissen/taucher-jaeger-geisternetze-muell-meer-100.html",
+   "published": "2026-09-26T10:01:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Insight Innovation: An dieser Technologie hängt Intels Comeback",
+   "summary": "Mit einem neuen Fertigungsprozess wagt der Chiphersteller einen fundamentalen Wechsel in der Transistorarchitektur. Anleger feiern den technischen Fortschritt – aber eine Sache fehlt noch.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/halbleiter-an-dieser-technologie-haengt-intels-comeback/100246256.html",
+   "published": "2026-09-26T10:00:03+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "WiWo History: Die BenQ-Mobile-Pleite und das Ende der Siemens-Handys",
+   "summary": "Vor 20 Jahren schlug die Insolvenz von Benq Mobile Wellen. Kurz zuvor hatte Siemens seine verlustreiche Handysparte an das Unternehmen weitergereicht.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/benq-mobile-pleite-wie-siemens-seine-handysparte-verlor/100246485.html",
+   "published": "2026-09-26T09:59:39+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
    "paywall": true
   },
   {
@@ -1331,6 +1457,15 @@
    "link": "https://www.spiegel.de/wirtschaft/fideuram-in-italien-betrueger-legen-privatbank-rein-erbeuten-36-millionen-euro-a-ad94fe43-ad7f-42d0-8f3f-968a4d83b6b5#ref=rss",
    "published": "2026-09-25T18:54:00+00:00",
    "first_seen": "2026-09-25T19:03:53.502840+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Fideuram in Italien: Betrüger legen Privatbank rein, erbeuten 36 Millionen Euro",
+   "summary": "Mit einer KI wird die Stimme eines bekannten Anwalts imitiert. Und dann überweist die Privatbank Fideuram Geld an Betrüger. Sehr viel Geld. Nur ein Teil kann zurückgeholt werden.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/fideuram-in-italien-betrueger-legen-privatbank-rein-erbeuten-36-millionen-euro-a-ad94fe43-ad7f-42d0-8f3f-968a4d83b6b5#ref=rss",
+   "published": "2026-09-25T18:54:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
    "paywall": false
   },
   {
@@ -13364,141 +13499,6 @@
    "link": "https://www.spiegel.de/wirtschaft/service/temu-shein-billigpakete-aus-china-lassen-sich-durch-aktuelle-zoelle-nicht-stoppen-a-5f59766d-1413-4191-89fd-c27eeb8f7ab2#ref=rss",
    "published": "2026-09-23T06:16:00+00:00",
    "first_seen": "2026-09-23T13:05:48.292411+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "US-Rüstungsdeals: Teure Knebelverträge für die Bundeswehr",
-   "summary": "Deutschland kauft neue Kampfjets in den USA. Sie werden dringend benötigt. Die vertraulichen Kaufverträge zeigen: Deutschland liefert sich noch mehr der Trump-Administration aus.",
-   "link": "https://www.zdfheute.de/politik/f-35-kampfflugzeug-usa-ruestung-geschaeft-bundeswehr-100.html",
-   "published": "2026-09-23T06:13:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Xi und Trump in Washington: Deutsche Wirtschaft fordert aktive EU-Handelspolitik",
-   "summary": "Der Handelskonflikt zwischen den USA und China belastet internationale Geschäfte. Die Präsidenten beider Mächte treffen sich. Welche Rolle hat Europa?",
-   "link": "https://www.wiwo.de/politik/ausland/treffen-von-xi-und-trump-deutsche-wirtschaft-fordert-aktive-eu-handelspolitik/100256751.html",
-   "published": "2026-09-23T06:12:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-   "summary": "Seit April dürfen Tankstellen nur noch um 12 Uhr die Spritpreise erhöhen. Der ADAC kritisiert, dass die Regel zu größeren Preisschwankungen im Tagesverlauf geführt habe, statt die Preise zu senken.",
-   "link": "https://www.tagesschau.de/wirtschaft/energie/adac-tankstellen-12-uhr-regel-100.html",
-   "published": "2026-09-23T06:09:58+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Erbschaftsteuer: Diese Abzüge sollten Sie nutzen",
-   "summary": "Nicht nur Erben, sondern auch Vermächtnisnehmer können mit der Erbfallkostenpauschale ihre Erbschaftsteuer senken. Das hat der BFH klargestellt. Ein weiterer Freibetrag wird oft übersehen.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-erbschaftsteuer-diese-abzuege-sollten-sie-nutzen/100248623.html",
-   "published": "2026-09-23T06:07:37+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: So bleiben Familienheim und Gartengrundstück von der Erbschaftsteuer verschont",
-   "summary": "Wer ins geerbte Familienheim einzieht, zahlt keine Erbschaftsteuer. Diese Begünstigung legt der BFH großzügig aus und bezieht auch einen weitläufigen Garten mit ein – unter einer Bedingung.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/vermoegen-familienheim-geerbt-so-bleibt-das-gartengrundstueck-steuerfrei/100247122.html",
-   "published": "2026-09-23T06:07:04+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Private Altersvorsorge: Die Rabattschlacht ums Altersvorsorgedepot könnte schon bald vorbei sein",
-   "summary": "Anbieter unterbieten sich bisher bei den Kosten des neuen Altersvorsorgedepots. Doch dieser Preiskampf könnte bald enden – wegen einer kaum bekannten Regel.",
-   "link": "https://www.wiwo.de/finanzen/vorsorge/private-altersvorsorge-wie-lange-geht-die-preisschlacht-ums-altersvorsorgedepot-noch/100256482.html",
-   "published": "2026-09-23T06:04:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Geschäftszahlen +++: KWS verdient operativ weniger – Aktie rutscht vorbörslich ab",
-   "summary": "Tui erwartet leichten Gewinnrückgang und bremst das Angebot +++ Leica erstmals seit Jahren mit Umsatzrückgang +++ Zara-Mutter Inditex steigert Umsatz um 9 Prozent +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-kws-verdient-operativ-weniger-aktie-rutscht-vorboerslich-ab/24098412.html",
-   "published": "2026-09-23T06:03:06+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "+++ Nachrichten im Iran-Krieg +++: USA und Iran nehmen Gespräche wieder auf",
-   "summary": "Ttrotz Trumps neuer Drohungen kommen USA und Iran am Rande der UN-Vollversammlung in New York erstmals seit dem Scheitern der Waffenruhe wieder ins Gespräch. mehr...",
-   "link": "https://taz.de/-Nachrichten-im-Iran-Krieg-/!6215541/",
-   "published": "2026-09-23T06:02:00+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
-   "summary": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang nichts nach außen.",
-   "link": "https://www.tagesschau.de/inland/reformdebatte-warken-koalition-100.html",
-   "published": "2026-09-23T05:57:37+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: Deutschland und Niederlande fördern Entwicklung von KI-Chips",
-   "summary": "Die Entwicklung von KI-Prozessoren soll in Europa schneller vorangehen. Dafür kooperieren jetzt Deutschland und die Niederlande. Besonders in einem Gebiet gibt es Potenzial.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-deutschland-und-niederlande-foerdern-entwicklung-von-ki-chips/100256763.html",
-   "published": "2026-09-23T05:54:30+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Grönland-Abkommen unterzeichnet: Happy End in New York",
-   "summary": "Trump, Frederiksen und Nielsen besiegeln den Grönland-Deal. Geplant sind zwei neue US-Basen und eine engere sicherheitspolitische Zusammenarbeit. mehr...",
-   "link": "https://taz.de/Groenland-Abkommen-unterzeichnet/!6215540/",
-   "published": "2026-09-23T05:53:00+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "SPD-Spitze schaltet sich in Debatte um Antisemitismus ein",
-   "summary": "Die SPD-Bundesspitze hat sich zur Debatte um Antisemitismus in Teilen der Berliner Linken geäußert. Sie nimmt die Partei beim Umgang mit dem Thema in die Pflicht.",
-   "link": "https://www.zdfheute.de/politik/deutschland/spd-linke-antisemitismus-organisierte-kriminalitaet-berlin-regierungsbildung-100.html",
-   "published": "2026-09-23T05:52:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
-   "summary": "Viele Steuererklärungen werden automatisch bearbeitet. Doch in einigen Fällen ist das Finanzamt besonders kritisch. Wann Steuerzahler unangenehmen Nachfragen zuvorkommen sollten.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-in-diesen-faellen-schaut-das-finanzamt-besonders-kritisch-hin/100105886.html",
-   "published": "2026-09-23T05:46:00+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: DAX leicht höher erwartet",
-   "summary": "Die KI-Rally ist zurück, zugleich setzen die Märkte auf eine weitere Entspannung im Iran-Konflikt sowie ein konstruktives Gipfeltreffen zwischen China und den USA. Der DAX dürfte etwas höher starten.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-   "published": "2026-09-23T05:41:08+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Mit XXL-Tanks will Qantas ab 2028 von Sydney direkt nach New York fliegen",
-   "summary": "Zwölf Airbus-Maschinen der Qantas bekommen zusätzliche Tanks für 20 Tonnen extra Sprit eingebaut. So sollen sie die Strecke von Australien in die USA ohne Zwischenstopp schaffen – in 18 Stunden.",
-   "link": "https://www.spiegel.de/wirtschaft/mit-xxl-tanks-will-qantas-ab-2028-von-sydney-direkt-nach-new-york-fliegen-a-1d61156a-bf02-48ad-b85f-623caedcaf34#ref=rss",
-   "published": "2026-09-23T05:36:00+00:00",
-   "first_seen": "2026-09-23T06:05:09.094731+00:00",
    "paywall": false
   }
  ]

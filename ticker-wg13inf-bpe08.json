@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-26T10:03:53.474342+00:00",
+ "updated": "2026-09-26T11:03:45.350394+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "USA und China planen Hotline für KI-Zwischenfälle",
+   "summary": "Die USA und China wollen nach Angaben beider Seiten einen direkten Kanal für KI-Zwischenfälle einrichten - und einen Dialog über Chancen und Risiken starten.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-china-trump-ki-kanal-100.html",
+   "published": "2026-09-26T10:42:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
+   "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-und-kuenstliche-intelligenz-deutschland-profitiert-vom-ki-boom/100256792.html",
+   "published": "2026-09-26T10:15:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Politik greift ein: Rotes Telefon wie im Kalten Krieg soll vor KI-Pannen warnen",
@@ -252,6 +270,15 @@
    "link": "https://www.spiegel.de/wirtschaft/fideuram-in-italien-betrueger-legen-privatbank-rein-erbeuten-36-millionen-euro-a-ad94fe43-ad7f-42d0-8f3f-968a4d83b6b5#ref=rss",
    "published": "2026-09-25T18:54:00+00:00",
    "first_seen": "2026-09-25T19:03:53.502840+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Fideuram in Italien: Betrüger legen Privatbank rein, erbeuten 36 Millionen Euro",
+   "summary": "Mit einer KI wird die Stimme eines bekannten Anwalts imitiert. Und dann überweist die Privatbank Fideuram Geld an Betrüger. Sehr viel Geld. Nur ein Teil kann zurückgeholt werden.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/fideuram-in-italien-betrueger-legen-privatbank-rein-erbeuten-36-millionen-euro-a-ad94fe43-ad7f-42d0-8f3f-968a4d83b6b5#ref=rss",
+   "published": "2026-09-25T18:54:00+00:00",
+   "first_seen": "2026-09-26T11:03:45.350394+00:00",
    "paywall": false
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/karriere/ki-chatbot-testen-sie-welche-skills-fuer-ihren-job-entscheidend-werden/100249593.html",
    "published": "2026-09-24T10:16:00+00:00",
    "first_seen": "2026-09-24T11:04:11.540074+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Meta-Konzern: KI für den Schlüsselbund: Zuckerberg kommt OpenAI mit neuem Assistenten zuvor",
-   "summary": "Der Facebook-Gründer stellt mit „Muse Charm“ ein putziges Wesen im Miniaturformat vor, das unser Leben organisieren soll. Damit nimmt die KI-Ergänzung zum Smartphone Gestalt an.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/meta-zuckerberg-stellt-ki-geraet-muse-charm-fuer-den-schluesselbund-vor/100256358.html",
-   "published": "2026-09-24T10:13:00+00:00",
-   "first_seen": "2026-09-24T11:04:11.540074+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Viele Nutzer vertrauen KI-Chatbots intime Themen an",
-   "summary": "Psychische Gesundheit, Finanzen, Partnerschaft: Chatbots werden oft für intime Themen genutzt - obwohl die Anwender große Bedenken beim Datenschutz der KI-Systeme haben.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-viele-nutzer-vertrauen-ki-chatbots-intime-themen-an/100257155.html",
-   "published": "2026-09-24T10:00:05+00:00",
-   "first_seen": "2026-09-24T11:04:11.540074+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bitkom-Studie: Wirtschaft fordert radikale Datenschutz-Reform",
-   "summary": "Viele Betriebe fühlen sich von Bürokratie und Rechtsunsicherheit ausgebremst. Welche Änderungen die Wirtschaft bei der Datenschutzaufsicht konkret fordert.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/bitkom-studie-wirtschaft-fordert-radikale-datenschutz-reform/100257143.html",
-   "published": "2026-09-24T09:42:53+00:00",
-   "first_seen": "2026-09-24T10:04:09.955690+00:00",
    "paywall": true
   }
  ]
