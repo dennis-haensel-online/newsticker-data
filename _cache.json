@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T11:03:45.350394+00:00",
+ "updated": "2026-09-26T12:04:41.057804+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,96 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Öffnung der Straße von Hormus: Trump lehnt Irans Vorschlag ab",
+   "summary": "Der Iran stellte eine Öffnung der Straße von Hormus und Gespräche mit den USA in Aussicht. Doch der US-Präsident lehnt den Vorschlag offenbar ab. mehr...",
+   "link": "https://taz.de/Oeffnung-der-Strasse-von-Hormus/!6216419/",
+   "published": "2026-09-26T12:00:00+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Gleichberechtigte Elternschaft: Der Papa macht jetzt auch mal was",
+   "summary": "Dadfluencer setzen sich in den sozialen Medien öffentlich mit ihrer Vaterschaft auseinander. Ist das Selbstinszenierung, Profitgier oder Aktivismus? mehr...",
+   "link": "https://taz.de/Dadfluencer-Selbstinszenierung-Gier-oder-Aktivismus/!6211193/",
+   "published": "2026-09-26T11:47:00+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Krankenversicherung: Ökonomen schlagen Solidarbeitrag für Gutverdiener vor statt Bürgerversicherung",
+   "summary": "Private Krankenversicherung behalten, Gutverdienende stärker beteiligen: Ökonomen des Kiel-Instituts schlagen einen Mittelweg zwischen dem heutigen System und einer Bürgerversicherung vor.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/krankenversicherung-solidarbeitrag-fuer-gutverdiener-statt-buergerversicherung/100257192.html",
+   "published": "2026-09-26T11:41:35+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Robotaxis in Städten: Das selbstfahrende Auto kommt uns immer näher",
+   "summary": "Waymo-Taxi oder lieber ÖPNV-Shuttle? Dass wir morgen immer öfter autonom unterwegs sind, ist relativ sicher – nur mit wem? 2027 wird ein entscheidendes Jahr.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/robotaxi-das-selbstfahrende-auto-kommt-uns-immer-naeher-accg-201258545.html",
+   "published": "2026-09-26T11:32:32+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Live: Wer wird deutscher Olympiabewerber?",
+   "summary": "München oder Köln Rhein-Ruhr – wer kriegt den Zuschlag für die deutsche Olympia-Bewerbung 2036, 2040 oder 2044? Die Entscheidung live mit Analysen bei ZDFheute live.",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/olympia-bewerbungen-deutschland-100.html",
+   "published": "2026-09-26T11:30:00+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autobauer: Warum VW-Fahrer nach Rückruf zweimal in die Werkstatt müssen",
+   "summary": "Eine fehlerhafte Schraube kann bei mehreren Modellen von VW, Audi und Seat zum Ausfall der Lenkung führen. Die Schrauben müssen getauscht werden, allerdings dürften nicht genug vorrätig sein. Was nun?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/autobauer-warum-vw-fahrer-nach-rueckruf-zweimal-in-die-werkstatt-muessen/100257598.html",
+   "published": "2026-09-26T11:26:22+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Warum die deutsche Offshore-Windenergiebranche in der Krise steckt",
+   "summary": "Bei Windenergie-Firmen wachsen die Sorgen. Projekte fehlen, chinesische Konkurrenten unterbieten die Preise. Droht das Schicksal der Solarenergie-Branche, indem Firmen schließen und die Produktion nach China geht? Von N. Peerenboom.",
+   "link": "https://www.tagesschau.de/wirtschaft/energie/offshore-windparks-deutschland-100.html",
+   "published": "2026-09-26T11:13:17+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump lehnt Irans Vorschlag zu Hormus offenbar ab",
+   "summary": "Iran hat den USA nach eigenen Angaben einen Plan zur Öffnung der Straße von Hormus übermittelt und sieht nun Präsident Trump am Zug. Laut Berichten lehnt dieser den Vorschlag ab.",
+   "link": "https://www.zdfheute.de/politik/ausland/iran-usa-friedensvorschlag-hormus-100.html",
+   "published": "2026-09-26T11:03:00+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "UhrenWoche: Die Auster öffnet sich",
+   "summary": "Mit der Perpetual Padellone geht Rolex neue Wege im Uhrenbau und in der Kommunikation – und schon am Montag könnte in London ein Uhren-Weltrekord fallen.",
+   "link": "https://www.wiwo.de/unternehmen/handel/rolex-padellone-warum-die-luxusmarke-jetzt-neue-wege-geht/100256561.html",
+   "published": "2026-09-26T11:01:01+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Longevity: Einblicke in eine exklusive Welt: Wo Superreiche das ewige Leben suchen",
+   "summary": "120 Investoren und Ärzte treffen sich in den Schweizer Alpen zu einer Longevity-Tagung. Das Handelsblatt war dabei. Ein Ortsbesuch beim Milliardärstreffen gegen den Tod.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/longevity-exklusive-einblicke-wo-superreiche-das-ewige-leben-suchen/100256251.html",
+   "published": "2026-09-26T10:59:55+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
    "paywall": true
   },
   {
@@ -450,6 +540,15 @@
    "published": "2026-09-26T08:22:00+00:00",
    "first_seen": "2026-09-26T09:03:50.392939+00:00",
    "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "VW-Rückrufaktion: Jetzt gehen Volkswagen auch noch die Schrauben aus",
+   "summary": "Millionen Fahrzeuge muss der VW-Konzern wegen einer defekten Schraube zurückrufen. Nach SPIEGEL-Informationen gehen Volkswagen die Ersatzschrauben aus. Das hat Folgen für betroffene Kunden.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/vw-rueckrufaktion-jetzt-gehen-volkswagen-auch-noch-die-schrauben-aus-a-79d9a254-8ad4-42c4-9eb6-219d57bc377a#ref=rss",
+   "published": "2026-09-26T08:22:00+00:00",
+   "first_seen": "2026-09-26T12:04:41.057804+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13401,105 +13500,6 @@
    "published": "2026-09-23T06:38:00+00:00",
    "first_seen": "2026-09-23T07:04:39.009934+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Wirtschaft von oben: Saudische Pipeline war durch Anti-Drohnen-Netze geschützt",
-   "summary": "Neue Satellitenbilder zeigen die Spuren eines Drohnenangriffs auf Saudi-Arabiens wichtigste Ölpipeline – trotz sichtbarer Schutzmaßnahmen.",
-   "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/oel-saudische-pipeline-war-geschuetzt-durch-anti-drohnen-netze/100255632.html",
-   "published": "2026-09-23T06:37:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Überidentifikation: Wenn der Purpose zur Gefahr wird",
-   "summary": "Wer sich mit dem Job identifiziert, ist motivierter – brennt aber auch schneller aus. Wie halten Führungskräfte in ihren Teams die Balance?",
-   "link": "https://www.wiwo.de/erfolg/management/ueberidentifikation-im-job-wann-purpose-zum-burn-out-fuehrt/100255049.html",
-   "published": "2026-09-23T06:36:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Investmentbanking: Das Spiel mit dem Sprengstoff im Finanzsystem",
-   "summary": "Die EU denkt, geringere Eigenkapitalforderungen an Banken würden deren Investitionen in Europa erhöhen. Damit liegt sie falsch – und schafft neue Risiken. Ein Gastbeitrag.",
-   "link": "https://www.wiwo.de/politik/europa/eu-will-bankenregeln-aendern-neuer-sprengstoff-fuers-finanzsystem/100255420.html",
-   "published": "2026-09-23T06:35:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Geh, opfere dich – wenn du den endgültigen Tod annimmst“: Protokoll des KI-Angriffs, der die Welt verschreckt",
-   "summary": "KI-Schöpfer warnen vor ihren eigenen Entwicklungen, bis hin zur Auslöschung der Menschheit. Die Protokolle des Ausbruchs legen nahe, wer versagt hat – und worauf wir uns einstellen müssen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-das-protokoll-des-ki-angriffs-der-die-welt-verschreckt-03/100254926.html",
-   "published": "2026-09-23T06:27:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Wir brauchen einen neuen Leistungsanspruch in der Bildung",
-   "summary": "Ludger Wößmann, Chef des Ifo-Zentrums für Bildungsökonomik, fordert ein einheitliches Kernabitur, um den Pisa-Abstieg zu stoppen. Dass sich Reformen auszahlen, zeigen Hamburg und England.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wir-brauchen-einen-neuen-leistungsanspruch-in-der-bildung-01/100256198.html",
-   "published": "2026-09-23T06:26:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "ADAC fordert Ende der 12-Uhr-Regel an Tankstellen",
-   "summary": "Der ADAC fordert die Abschaffung der 12-Uhr-Regel an Tankstellen. Sie habe das Tanken nicht billiger gemacht, sondern Verbraucher belastet. Nicht nur der ADAC übt Kritik.",
-   "link": "https://www.zdfheute.de/wirtschaft/adac-benzin-tankstelle-12-uhr-regel-spritpreis-100.html",
-   "published": "2026-09-23T06:24:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Importe in die EU: Billiganbieter werden laut Handel mit Zöllen nicht gestoppt",
-   "summary": "Eine zusätzliche Bearbeitungsgebühr soll ab November den EU-Markt vor Billigware schützen. Dem deutschen Handelsverband geht das nicht weit genug.",
-   "link": "https://www.wiwo.de/unternehmen/handel/eu-importe-billiganbieter-werden-laut-handel-mit-zoellen-nicht-gestoppt/100256754.html",
-   "published": "2026-09-23T06:24:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-   "summary": "Angesichts der gestiegenen Treibstoffpreise in den USA hat sich US-Präsident Trump für einen Diesel-Exportstopp ausgesprochen. Zuletzt ergriffen die USA einen solchen Schritt während der Ölkrise der 1970er Jahre.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-diskussion-exportstopp-diesel-100.html",
-   "published": "2026-09-23T06:22:27+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Rechts-KI boomt: Wie sich das Geschäftsmodell der Juristen verändert",
-   "summary": "Mit Noxtua sammelt das nächste Legal-AI-Start-up 100 Millionen Euro ein. Weltweit stecken Investoren Milliarden in Legora, Libra und Harvey. Schaffen sich die Juristen damit selbst ab?",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-wie-rechts-ki-das-geschaeftsmodell-der-juristen-veraendert/100253216.html",
-   "published": "2026-09-23T06:21:40+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Temu, Shein: Billigpakete lassen sich durch aktuelle Zölle nicht stoppen",
-   "summary": "Mit einer Zollgebühr von drei Euro möchte die EU die Zahl der Billigpakete aus China eindämmen. Zu wenig, sagt der Handelsverband HDE und warnt: Temu & Co. werden sich anpassen.",
-   "link": "https://www.spiegel.de/wirtschaft/service/temu-shein-billigpakete-lassen-sich-durch-aktuelle-zoelle-nicht-stoppen-a-5f59766d-1413-4191-89fd-c27eeb8f7ab2#ref=rss",
-   "published": "2026-09-23T06:16:00+00:00",
-   "first_seen": "2026-09-23T07:04:39.009934+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Temu, Shein: Billigpakete aus China lassen sich durch aktuelle Zölle nicht stoppen",
-   "summary": "Mit einer Zollgebühr von drei Euro möchte die EU die Zahl der Billigpakete aus China eindämmen. Zu wenig, sagt der Handelsverband HDE und warnt: Temu und Co. werden sich anpassen.",
-   "link": "https://www.spiegel.de/wirtschaft/service/temu-shein-billigpakete-aus-china-lassen-sich-durch-aktuelle-zoelle-nicht-stoppen-a-5f59766d-1413-4191-89fd-c27eeb8f7ab2#ref=rss",
-   "published": "2026-09-23T06:16:00+00:00",
-   "first_seen": "2026-09-23T13:05:48.292411+00:00",
-   "paywall": false
   }
  ]
 }
