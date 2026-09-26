@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-26T18:04:35.748345+00:00",
+ "updated": "2026-09-26T19:03:33.132025+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Soziale Gerechtigkeit und AfD: Die soziale Frage, neu gestellt",
+   "summary": "Die Verteilungsfrage hilft der AfD. Doch dazu gehören auch Würde, An­er­ken­nung und Zu­ge­hö­rig­keit – das sind die Treiber der Rechts­ra­di­ka­len. mehr...",
+   "link": "https://taz.de/Soziale-Gerechtigkeit-und-AfD/!6211170/",
+   "published": "2026-09-26T18:07:00+00:00",
+   "first_seen": "2026-09-26T19:03:33.132025+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -891,15 +900,6 @@
    "link": "https://www.wiwo.de/politik/deutschland/spritpreisdeckel-und-tankrabatt-das-sind-fuenf-versteckte-schwaechen/100256222.html",
    "published": "2026-09-23T13:35:00+00:00",
    "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Geld: Die Zinsen steigen – was Verbraucher beachten sollten",
-   "summary": "Die Zentralbanken haben ihre Leitzinsen erhöht, die Renditen von Anleihen steigen. Wie Sparer davon profitieren können.",
-   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/zinsen-anleihen-ezb-fed-leitzins-geld-e093799/",
-   "published": "2026-09-23T12:55:00+00:00",
-   "first_seen": "2026-09-23T13:05:48.292411+00:00",
    "paywall": true
   }
  ]
