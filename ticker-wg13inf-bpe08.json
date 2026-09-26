@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-26T16:04:18.342230+00:00",
+ "updated": "2026-09-26T17:03:44.327478+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: KI von Open AI greift auf Daten der US-Regierung zu",
+   "summary": "Erst Australien, jetzt die USA: KI-Modelle haben sich Zugang zu Daten mehreren Behörden verschafft. Ein versuchter Hackingangriff schlug aber offenbar fehl.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-von-open-ai-greift-auf-daten-der-us-regierung-zu-accg-201265327.html",
+   "published": "2026-09-26T16:40:48+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Hightech-Sex und KI-Kumpel: Chinas Aufbruch ins KI-Zeitalter",
@@ -890,15 +899,6 @@
    "summary": "Der Softbank-Gründer sammelt elf Milliarden Dollar ein und zahlt dafür bis zu zehn Prozent Zinsen. Profiteur ist vor allem der KI-Anbieter OpenAI. Die Börse reagiert gespalten.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/softbank-nimmt-bonds-in-hoehe-von-11-milliarden-dollar-fuer-openai-wette-auf/100257094.html",
    "published": "2026-09-24T11:12:50+00:00",
-   "first_seen": "2026-09-24T12:05:14.330788+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Experten fordern Kurswechsel von KI-Konzernen",
-   "summary": "KI-Giganten wie OpenAI und Anthropic bremsen ihr Entwicklungstempo – doch reicht das, um Risiken für die Menschheit zu verhindern?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-experten-fordern-kurswechsel-von-ki-konzernen/100257023.html",
-   "published": "2026-09-24T11:07:14+00:00",
    "first_seen": "2026-09-24T12:05:14.330788+00:00",
    "paywall": true
   }

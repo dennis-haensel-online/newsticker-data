@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T16:04:18.342230+00:00",
+ "updated": "2026-09-26T17:03:44.327478+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,87 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Rechte Influencer: Hallo! Erde an die Erwachsenen!",
+   "summary": "Unsere Autorin ist 14 und geht auf eine Schule, in der viele Jugendliche rechtsextreme Tiktok-Sprüche nachplappern. Sie wünscht sich, dass das aufhört. mehr...",
+   "link": "https://taz.de/Rechte-Influencer/!6211179/",
+   "published": "2026-09-26T16:49:00+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Wirtschaft unter Putin: Und schleichend stirbt die russische Wirtschaft",
+   "summary": "Mit Steuereinnahmen wollte der Kreml seine Kassen füllen. Nun gehen immer mehr Firmen pleite und die Kosten des Kriegs gegen die Ukraine bleiben hoch. mehr...",
+   "link": "https://taz.de/Wirtschaft-unter-Putin/!6211082/",
+   "published": "2026-09-26T16:49:00+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Juristin über Vergewaltigungsprozesse: „Das Dunkelfeld ist riesig“",
+   "summary": "Netzwerke von Vergewaltigern hat es schon immer gegeben, sagt die Rechtswissenschaftlerin Susanne Beck. Neu ist allerdings die digitale Verbreitung. mehr...",
+   "link": "https://taz.de/Juristin-ueber-Vergewaltigungsprozesse/!6211188/",
+   "published": "2026-09-26T16:48:00+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Linkspartei und Antisemitismus: Das Ass im Ärmel",
+   "summary": "Ein guter Jude ist einer, der alles so sieht wie ein guter deutscher Linker. Das ist leichter als in der eigenen Partei antifaschistisch zu handeln. mehr...",
+   "link": "https://taz.de/Linkspartei-und-Antisemitismus/!6211065/",
+   "published": "2026-09-26T16:48:00+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Debatte über Krankenkassen: So ließe sich das Zweiklassensystem abschaffen",
+   "summary": "Als Kassenpatient wartet man beim Arzt oft wochenlang. Kanzler Merz will das ändern. Wie ließe sich das System beenden? Drei Vorschläge",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/debatte-krankenkassen-gerechtigkeit-soziale-ungleichheit-private-krankenversicherung",
+   "published": "2026-09-26T16:41:56+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: KI von Open AI greift auf Daten der US-Regierung zu",
+   "summary": "Erst Australien, jetzt die USA: KI-Modelle haben sich Zugang zu Daten mehreren Behörden verschafft. Ein versuchter Hackingangriff schlug aber offenbar fehl.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-von-open-ai-greift-auf-daten-der-us-regierung-zu-accg-201265327.html",
+   "published": "2026-09-26T16:40:48+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hamburg übt den Ernstfall mit der Bundeswehr",
+   "summary": "Drohnenabwehr, Notaufnahme in der Tiefgarage, Verletzte per Hubschrauber: Bundeswehr, Hilfsorganisationen und Firmen proben in Hamburg den Krisenfall. Es gibt auch Protest.",
+   "link": "https://www.zdfheute.de/politik/deutschland/bundeswehr-uebung-hamburg-drohnenabwehr-red-storm-charlie-100.html",
+   "published": "2026-09-26T16:39:00+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Dobrindt schwört Europa auf noch härteren Migrationskurs ein",
+   "summary": "Wenige Tage vor dem EU-Innenministerrat in Brüssel lädt Alexander Dobrindt zu einem eigenen Migrationsgipfel nach München. Er wirbt dort für die Fortführung der harten Asylpolitik.",
+   "link": "https://www.zdfheute.de/politik/deutschland/migrationsgipfel-muenchen-dobrindt-frontex-100.html",
+   "published": "2026-09-26T16:16:00+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Tah: Klopp hat \"super Energie\" ins Team gebracht",
+   "summary": "Vor dem zweiten Spiel in der Nations League gegen Griechenland spricht DFB-Verteidiger Jonathan Tah im ZDF-Interview mit Reporterin Lili Engels.",
+   "link": "https://www.zdfheute.de/sport/video/das-aktuelle-sportstudio/fussball-nationalmannschaft-dfb-team-jonathan-tah-interview-vor-griechenland-nations-league-100.html",
+   "published": "2026-09-26T16:14:00+00:00",
+   "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13419,87 +13500,6 @@
    "published": "2026-09-23T08:42:08+00:00",
    "first_seen": "2026-09-23T09:03:53.684737+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: „Bezahlter Apparatschik“ – Ex-Sprecher Anthony Scaramucci rechnet mit Donald Trump ab",
-   "summary": "Elf Tage war er Kommunikationschef im Weißen Haus. Heute zählt der Finanzexperte zu den lautesten Trump-Kritikern. Im Podcast-Interview nennt er die größten Gefahren für die Wirtschaft.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/usa-bezahlter-apparatschik-anthony-scaramucci-rechnet-mit-trump-ab/100254486.html",
-   "published": "2026-09-23T08:42:01+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: 13.000 statt 1900 Prozent Rendite – Sind gehebelte ETFs besser als ihr Ruf?",
-   "summary": "Experten warnen vor gehebelten Investments, die Kursentwicklungen verdoppeln sollen. Dabei liegen alle Produkte seit ihrer Auflage im Plus, zeigt eine Handelsblatt-Auswertung.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-sind-gehebelte-etfs-besser-als-ihr-ruf/100251036.html",
-   "published": "2026-09-23T08:40:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autoindustrie: Bosch wächst leicht – Kerngeschäft belastet Ergebnis",
-   "summary": "Die deutsche Autoindustrie steckt in der Krise, das trifft auch Bosch. Die Sparte Mobility drückt auf das Ergebnis des Branchenriesen. Der Umsatz wächst dafür.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autoindustrie-bosch-waechst-leicht-kerngeschaeft-belastet-ergebnis/100256807.html",
-   "published": "2026-09-23T08:38:43+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "DEmokratie in gefahr: Wenn Staatsbürger zu Trollen werden",
-   "summary": "Wir errichten einen Künstlichen Staat. Der ist gefährlich und untergräbt unsere Demokratie, warnt die Harvard-Historikerin Jill Lepore in ihrem neuen Buch „Die Regierung der Maschinen“, aus dem dieser Text stammt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/jill-lepore-warnt-wenn-staatsbuerger-zu-trollen-werden-accg-201229862.html",
-   "published": "2026-09-23T08:35:59+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Sechsjährige bricht Zauberwürfel-Rekord",
-   "summary": "Den Rekord im 3x3x3-Rubik’s-Cube hält jetzt eine Sechsjährige: Lian Yunzhi aus China ist mit einer Durchschnittszeit von 4,27 Sekunden die schnellste weibliche Person.",
-   "link": "https://www.zdfheute.de/video/panorama-rekord-zauberwuerfel-sechsjaehrige-100.html",
-   "published": "2026-09-23T08:29:58+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Film „Das geträumte Abenteuer“: Das trübe Gewässer ihrer Heimatstadt",
-   "summary": "In Valeska Grisebachs „Das geträumte Abenteuer“ wandert die Protagonistin durch eine Welt aus Kriminalität und Frauenhass. Gefahr lauert überall. mehr...",
-   "link": "https://taz.de/Film-Das-getraeumte-Abenteuer-von-Valeska-Grisebach-Wanderung-durch-eine-Welt-aus-Kriminalitaet-und-Frauenhass/!6215147/",
-   "published": "2026-09-23T08:28:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Energie: USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-   "summary": "Kurz vor den US-Zwischenwahlen ziehen die Spritpreise deutlich an. Trump erwägt deswegen einen Diesel-Exportstopp. Was das für die EU bedeuten würde.",
-   "link": "https://www.wiwo.de/politik/ausland/energie-usa-pruefen-wegen-hoher-spritpreise-exportstopp-fuer-diesel/100256706.html",
-   "published": "2026-09-23T08:26:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Philipp Amthor: Merz-Vertrauter aus Mecklenburg-Vorpommern",
-   "summary": "Philipp Amthor kannten früher viele vor allem aus der \"heute show\". Doch inzwischen hat sich der 33-Jährige in der CDU etabliert. Was den Merz-Fanboy aus dem Osten ausmacht.",
-   "link": "https://www.zdfheute.de/politik/deutschland/philipp-amthor-friedrich-merz-cdu-mecklenburg-vorpommern-100.html",
-   "published": "2026-09-23T08:24:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Update Wirtschaft vom 23.09.2026",
-   "summary": "Update Wirtschaft vom 23.09.2026",
-   "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1654052.html",
-   "published": "2026-09-23T08:22:38+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": false
   }
  ]
 }
