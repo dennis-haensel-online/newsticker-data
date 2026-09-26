@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-26T03:03:48.266833+00:00",
+ "updated": "2026-09-26T04:04:04.669814+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Bundespolitik +++: Digitalminister Wildberger fordert internationale KI-Kontrolle",
+   "summary": "Bundesrat stimmt Tankrabatt zu – Gilt ab 1. Oktober +++ Länder im Bundesrat gegen höhere Steuern +++ Söder fordert grundlegende Reform der Energiesteuern +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-digitalminister-wildberger-fordert-internationale-ki-kontrolle/100137034.html",
+   "published": "2026-09-26T03:36:00+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI-KI platziert Nutzer-Bilder auf Online-Plattformen",
+   "summary": "Erstmals sind Daten von OpenAI-Nutzern von eigenständigen Hacking-Aktivitäten betroffen. Der ChatGPT-Entwickler deutet an, dass noch viele weitere Enthüllungen folgen könnten.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/kuenstliche-intelligenz-openai-hacking-nutzer-bilder-100.html",
+   "published": "2026-09-26T03:06:00+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": false
+  },
   {
    "label": "SZ",
    "title": "Künstliche Intelligenz: Nach Datenleck: OpenAI prüft unerwünschtes Verhalten von KI-Agenten",
@@ -9,6 +27,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chatgpt-openai-li.3554221",
    "published": "2026-09-26T02:56:50+00:00",
    "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: KI von OpenAI lud Nutzer-Bilder zu Online-Plattformen hoch",
+   "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257564.html",
+   "published": "2026-09-26T02:55:54+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/metas-neue-ki-strategie-was-der-agent-muse-fuer-den-konzern-bedeutet/100257019.html",
    "published": "2026-09-24T05:10:04+00:00",
    "first_seen": "2026-09-24T06:05:25.199286+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Entwicklerkonferenz Connect: Zuckerbergs neue Liebe heißt Muse",
-   "summary": "Die Chefs von OpenAI und Anthropic warnen vor den Risiken der KI. Mark Zuckerberg dagegen ruft die Ära der „persönlichen Superintelligenz“ aus. Was hat der Meta-Boss bloß vor?",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-agent-muse-wie-meta-mit-neuer-hardware-openai-angreift/100257019.html",
-   "published": "2026-09-24T05:10:04+00:00",
-   "first_seen": "2026-09-24T08:04:17.551928+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "OpenAI-KI hackt australisches Regierungsportal",
-   "summary": "In Australien hat sich ein KI-Agent von OpenAI Zugang zu einem Regierungsportal der Krankenversicherung verschafft. Das hat Premier Anthony Albanese in New York bekannt gegeben.",
-   "link": "https://www.zdfheute.de/politik/ausland/australien-open-ai-hackerangriff-regierung-gehackt-100.html",
-   "published": "2026-09-24T04:09:00+00:00",
-   "first_seen": "2026-09-24T05:03:41.554213+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Warnungen vor KI-Gefahren: Managerin an Techbosse: Macht die Blackbox KI auf",
-   "summary": "Untergangsszenarien durch KI lösen Verunsicherung aus. Ist Alarmismus übertrieben? Die neue Geschäftsführerin am Forschungsinstitut von Hasso Plattner schlägt US-Techkonzernen eine Prüfaufsicht vor.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/warnungen-vor-ki-gefahren-managerin-an-techbosse-macht-die-blackbox-ki-auf/100257023.html",
-   "published": "2026-09-24T04:00:11+00:00",
-   "first_seen": "2026-09-24T05:03:41.554213+00:00",
    "paywall": true
   }
  ]

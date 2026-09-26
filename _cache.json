@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T03:03:48.266833+00:00",
+ "updated": "2026-09-26T04:04:04.669814+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -11,12 +11,93 @@
    "paywall": true
   },
   {
+   "label": "ZEIT",
+   "title": "Wildling-Gründerin: Da wusste sie: Ich muss noch viel mehr Leute entlassen",
+   "summary": "Ihr Start-up für Barfußschuhe war für viele wie eine Familie. Dann musste Anna Yona mehr als die Hälfte ihrer Mitarbeiter rauswerfen. Jetzt reflektiert sie ihre Fehler.",
+   "link": "https://www.zeit.de/2026/41/wildling-anna-yona-unternehmen-entlassung-nachhaltigkeit-profitabilitaet",
+   "published": "2026-09-26T03:53:06+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Bundespolitik +++: Digitalminister Wildberger fordert internationale KI-Kontrolle",
+   "summary": "Bundesrat stimmt Tankrabatt zu – Gilt ab 1. Oktober +++ Länder im Bundesrat gegen höhere Steuern +++ Söder fordert grundlegende Reform der Energiesteuern +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-digitalminister-wildberger-fordert-internationale-ki-kontrolle/100137034.html",
+   "published": "2026-09-26T03:36:00+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI-KI platziert Nutzer-Bilder auf Online-Plattformen",
+   "summary": "Erstmals sind Daten von OpenAI-Nutzern von eigenständigen Hacking-Aktivitäten betroffen. Der ChatGPT-Entwickler deutet an, dass noch viele weitere Enthüllungen folgen könnten.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/kuenstliche-intelligenz-openai-hacking-nutzer-bilder-100.html",
+   "published": "2026-09-26T03:06:00+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mit Zustimmung der Verbraucher: Pakete landen immer häufiger vor der Haustür",
+   "summary": "Ein paar Klicks und das Paket ist bestellt. Aber wie bekomme ich es, wenn ich nicht daheim bin? Der Paketbote soll es einfach vor die Tür legen, finden viele Bürger. Doch die Sache hat ein Risiko.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/mit-zustimmung-der-verbraucher-pakete-landen-immer-haeufiger-vor-der-haustuer/100257566.html",
+   "published": "2026-09-26T03:00:10+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ernährung: Experten warnen vor Risiken bei Nahrungsergänzungsmitteln",
+   "summary": "Mehr als 30.000 neue Mittel kamen 2025 auf den Markt – ohne behördliche Prüfung. Wissenschaftler schlagen Alarm und schicken einen Brief an zwei Bundesministerien.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/ernaehrung-experten-warnen-vor-risiken-bei-nahrungsergaenzungsmitteln/100257565.html",
+   "published": "2026-09-26T03:00:06+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Next Gen Rich",
+   "summary": "Sie sind jung, digital und weltweit vernetzt. Sie sind die Unternehmerinnen und Unternehmer, die Reichtum im 21. Jahrhundert neu definieren. Ihre Erfolgsgeschichten prägen die Welt.",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-die-welt-der-superreichen-100/zdfinfo-die-welt-der-superreichen-next-gen-rich-100",
+   "published": "2026-09-26T03:00:00+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Dynastien",
+   "summary": "Dynastien zwischen Glanz und Abgrund: Über viele Jahrzehnte entstehen Milliardenvermögen, weltbekannte Marken und die Faszination großer Familienimperien.",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-die-welt-der-superreichen-100/zdfinfo-die-welt-der-superreichen-dynastien-100",
+   "published": "2026-09-26T03:00:00+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": false
+  },
+  {
    "label": "SZ",
    "title": "Künstliche Intelligenz: Nach Datenleck: OpenAI prüft unerwünschtes Verhalten von KI-Agenten",
    "summary": "Für das Training von Modellen greifen die KI-Programme von OpenAI auf anonymisierte Nutzerdaten zurück. Da ist nun offenbar etwas schief gelaufen.",
    "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chatgpt-openai-li.3554221",
    "published": "2026-09-26T02:56:50+00:00",
    "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: KI von OpenAI lud Nutzer-Bilder zu Online-Plattformen hoch",
+   "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257564.html",
+   "published": "2026-09-26T02:55:54+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Neues Urteil: Rückschlag für Meta vor Gericht wegen Cambridge Analytica",
+   "summary": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Im Nachgang führt der Fall nun zu einem neuen Urteil gegen den Meta-Konzern. Das könnte für ihn teuer werden.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/neues-urteil-rueckschlag-fuer-meta-vor-gericht-wegen-cambridge-analytica/100257559.html",
+   "published": "2026-09-26T02:55:27+00:00",
+   "first_seen": "2026-09-26T04:04:04.669814+00:00",
    "paywall": true
   },
   {
@@ -13417,87 +13498,6 @@
    "summary": "Nach den Wahlniederlagen wachsen auch bei CDU und CSU Zweifel am Kurs der Regierung. Bald schon will Merz ihn intern zur Diskussion stellen. Schon jetzt zeichnen sich zwei Lager ab.",
    "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-reformen-durchziehen-oder-aufweichen-streit-um-unions-kurs/100256430.html",
    "published": "2026-09-22T17:26:11+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Fox News gegen Trump: Keine Helden der Pressefreiheit",
-   "summary": "Fox schließt sich dem Boykott von US-Medien gegen Trump an. Das zeigt: Der rechte Sender stellt sich quer, wenn er eigene Interessen gefährdet sieht. mehr...",
-   "link": "https://taz.de/Fox-News-schliesst-sich-Trump-Boykott-an-Es-geht-ihnen-nicht-um-die-Pressefreiheit/!6215298/",
-   "published": "2026-09-22T17:26:00+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ressourcen: USA unterzeichnen Vereinbarung mit Dänemark im Grönland-Streit",
-   "summary": "Amerika baut seine Militärpräsenz in Grönland aus. Ein Abkommen mit Dänemark und der Arktisinsel erlaubt zusätzliche Stützpunkte. US-Präsident Trump hat damit nicht ganz sein Ziel erreicht.",
-   "link": "https://www.handelsblatt.com/politik/international/ressourcen-usa-unterzeichnen-vereinbarung-mit-daenemark-im-groenland-streit/100256674.html",
-   "published": "2026-09-22T17:24:01+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Vollversammlung: „Friedensstifter und Technologie-Erklärer“: Die große Trump-Show bei den Vereinten Nationen",
-   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen.",
-   "link": "https://www.handelsblatt.com/politik/international/un-vollversammlung-die-grosse-trump-show-bei-den-vereinten-nationen/100256267.html",
-   "published": "2026-09-22T17:23:48+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Vollversammlung: Trump verschiebt Friedensziel im Iran – und nennt KI jetzt anders",
-   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von KI erklärt er zur Lüge – und will den Begriff durch „Superintelligenz“ ersetzen.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-verschiebt-friedensziel-im-iran-und-nennt-ki-jetzt-anders/100256267.html",
-   "published": "2026-09-22T17:23:48+00:00",
-   "first_seen": "2026-09-22T20:04:00.148791+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Vollversammlung: Trump droht Iran erneut mit der Hölle – und nennt KI jetzt anders",
-   "summary": "Der US-Präsident verspricht in seiner Rede ein Iran-Abkommen nach den Midterms. Die Sorgen über die Risiken von Künstlicher Intelligenz erklärt er zur Lüge – und will den Begriff KI ersetzen.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-droht-iran-erneut-mit-der-hoelle-und-nennt-ki-jetzt-anders/100256267.html",
-   "published": "2026-09-22T17:23:48+00:00",
-   "first_seen": "2026-09-22T21:03:43.543974+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Studie der Finanzwende: „Vor der Strafjustiz haben Menschen nicht die gleichen Chancen“",
-   "summary": "Die Bürgerbewegung Finanzwende sieht eine „fatale Waffenungleichheit“ vor Gericht. Ein kriminologisches Gutachten zeigt, wie Verdächtige bei Wirtschafts- und Steuerdelikten von den Strukturen der Strafjustiz profitieren.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/buergerbewegung-finanzwende-vor-der-strafjustiz-haben-menschen-nicht-die-gleichen-chancen-201247384.html",
-   "published": "2026-09-22T17:23:16+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nach Streit mit Trump: Grönland-Abkommen: Was springt für Trump raus?",
-   "summary": "Er wollte die Insel in US-Territorium verwandeln. Ein frisch unterzeichneter Deal soll den Grönland-Streit zwischen US-Präsident Trump und Dänemark nun beilegen. Was steht im Abkommen?",
-   "link": "https://www.handelsblatt.com/politik/international/nach-streit-mit-trump-groenland-abkommen-was-springt-fuer-trump-raus/100256677.html",
-   "published": "2026-09-22T17:21:59+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Unerhörtes über Charles, Elizabeth und Co.",
-   "summary": "Mehr als 29 Jahre ist Prinzessin Diana nun tot. Die Erinnerungen und Bilder bleiben. Auch für ihren Bruder. Er hat jetzt ein provokantes Buch veröffentlicht.",
-   "link": "https://www.zdfheute.de/panorama/prominente/diana-charles-spencer-grossbritannien-buch-100.html",
-   "published": "2026-09-22T17:11:00+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
-   "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch jetzt steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger.",
-   "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256672.html",
-   "published": "2026-09-22T17:10:00+00:00",
    "first_seen": "2026-09-22T18:05:03.068000+00:00",
    "paywall": true
   }
