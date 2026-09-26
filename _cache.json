@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T02:03:56.596285+00:00",
+ "updated": "2026-09-26T03:03:48.266833+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,69 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Nach Datenleck: OpenAI prüft unerwünschtes Verhalten von KI-Agenten",
+   "summary": "Für das Training von Modellen greifen die KI-Programme von OpenAI auf anonymisierte Nutzerdaten zurück. Da ist nun offenbar etwas schief gelaufen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chatgpt-openai-li.3554221",
+   "published": "2026-09-26T02:56:50+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Proteinhype und El-Niño-Effekt: Milchprodukte könnten bald teurer werden",
+   "summary": "Die Molkereien wollen bei Trinkmilch, Joghurt und Quark höhere Preise durchsetzen – eine Rolle spiele dabei auch das Klima im tropischen Pazifik.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/proteinhype-und-el-nino-effekt-milchprodukte-koennten-bald-teurer-werden/100257560.html",
+   "published": "2026-09-26T02:40:04+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Monatswechsel: Winterzeit, Tankrabatt, Bahnhöfe: Was sich im Oktober ändert",
+   "summary": "Kein Alkohol mehr an Bahnhöfen und die Uhren werden wieder umgestellt: Der neue Monat bringt Änderungen in verschiedenen Bereichen vom Garten bis zur Vorsorge.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/monatswechsel-winterzeit-tankrabatt-bahnhoefe-was-sich-im-oktober-aendert/100257557.html",
+   "published": "2026-09-26T02:30:05+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Trumps Krach mit Medien: Streit geht weiter: CNN darf Trump nicht auf Reise begleiten",
+   "summary": "Der Streit von Donald Trump mit drei US-Medien schien nach der Entscheidung eines Richters. Doch nun darf CNN die Reise des Präsidenten in den Bundesstaat Tennessee nicht begleiten.",
+   "link": "https://www.handelsblatt.com/politik/international/trumps-krach-mit-medien-streit-geht-weiter-cnn-darf-trump-nicht-auf-reise-begleiten/100257556.html",
+   "published": "2026-09-26T02:15:49+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gibt es außerirdisches Leben?: Saturn-Mond: Bedingungen für Leben günstiger als angenommen",
+   "summary": "Der Eismond Enceladus ist einer der wenigen Orte in unserem Sonnensystem, dessen Bedingungen die Entstehung von Leben zulassen. Die Ergebnisse einer neuen Studie verblüfft die Forscher.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/gibt-es-ausserirdisches-leben-saturn-mond-bedingungen-fuer-leben-guenstiger-als-angenommen/100257549.html",
+   "published": "2026-09-26T02:00:15+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elektromobilität: Spritpreise machen gebrauchte Elektroautos teurer",
+   "summary": "Weil Benzin und Diesel so teuer geworden sind, greifen die Menschen beim Gebrauchtkauf eher zum Stromer. Das macht sich auch bei den Preisen bemerkbar.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/elektromobilitaet-spritpreise-machen-gebrauchte-elektroautos-teurer/100257548.html",
+   "published": "2026-09-26T02:00:04+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
+   "summary": "Erstmals sind bei einem Fehlverhalten von OpenAIs KI Nutzerdaten betroffen. Zudem griffen die Systeme laut einem Bericht auf öffentliche Daten von US-Behörden zu.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257541.html",
+   "published": "2026-09-26T01:56:07+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
    "paywall": true
   },
   {
@@ -45,6 +108,15 @@
    "published": "2026-09-25T22:58:00+00:00",
    "first_seen": "2026-09-25T23:03:43.613530+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Ziel Rotes Rathaus: Linke will mit SPD und Grünen regieren",
+   "summary": "Der Wahlsieg war fulminant, dann hagelte es Kritik und Probleme gibt es reichlich. Doch die Linke will sich nicht verunsichern lassen und lädt Grüne und SPD zu Sondierungen ein.",
+   "link": "https://www.zdfheute.de/politik/deutschland/abgeordnetenhauswahl-berlin-linke-spd-gruene-100.html",
+   "published": "2026-09-25T22:31:00+00:00",
+   "first_seen": "2026-09-26T03:03:48.266833+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -13427,78 +13499,6 @@
    "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256672.html",
    "published": "2026-09-22T17:10:00+00:00",
    "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ermittlungen in Niedersachsen: Verdacht auf Sprengstoff-Spuren nach Drohnenfund in Wunstorf",
-   "summary": "Nach dem Fund einer Drohne nahe einem Fliegerhorst in Niedersachsen prüfen Ermittler eine verdächtige Substanz. Was bislang darüber bekannt ist.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/ermittlungen-in-niedersachsen-verdacht-auf-sprengstoff-spuren-nach-drohnenfund-in-wunstorf/100256675.html",
-   "published": "2026-09-22T17:09:16+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Logistik: Der rasante Aufstieg des Unternehmers Navid Thielemann",
-   "summary": "Navid Thielemann liebt große Geschäfte und sichtbaren Luxus. Sein Logistikimperium gibt Rätsel auf: Woher kommt das ganze Geld?",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/navid-thielemann-vermoegen-und-aufstieg-des-logistikunternehmers/100255937.html",
-   "published": "2026-09-22T17:03:36+00:00",
-   "first_seen": "2026-09-22T18:05:03.068000+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Britisches Königshaus in Erklärungsnot",
-   "summary": "Rund 30 Jahre nach dem Tod von Lady Diana sorgt das neue Buch von Dianas Bruder Charles Spencer für Aufruhr im britischen Königshaus.",
-   "link": "https://www.zdfheute.de/video/heute-nachrichten/diana-spencer-buch-video-100.html",
-   "published": "2026-09-22T17:00:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Debatte um Krankenversicherung: Merz sorgt für Aufregung, Union verteilt Beruhigungspillen",
-   "summary": "Mit seiner Äußerung zum ungerechten System der Krankenversicherung hat der Kanzler eine Debatte losgetreten. Nur der zuständige Minister schweigt. mehr...",
-   "link": "https://taz.de/Debatte-um-Krankenversicherung/!6215440/",
-   "published": "2026-09-22T16:59:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Nach der Berliner Wahl: Warten auf das Anti-Gesetz",
-   "summary": "Kann Kanzler Friedrich Merz mit einem Bundesgesetz die Vergesellschaftungspläne der Berliner Linken stoppen? Am Ende wird Karlsruhe entscheiden. mehr...",
-   "link": "https://taz.de/Nach-der-Berliner-Wahl/!6215393/",
-   "published": "2026-09-22T16:45:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Live: FC Bayern - Manchester City",
-   "summary": "Die Frauen des FC Bayern empfangen in der Vorrunde der Champions League Manchester City. Verfolgen Sie hier die Partie im Livestream. Moderation: Gari Paubandt, Kommentar: Meili Scheidemann.",
-   "link": "https://www.zdf.de/video/kurzfassungen/uefa-champions-league-der-frauen-highlights-100/fc-bayern-muenchen-manchester-city-vorrunde-1-spieltag-livestream-saison-2026-27-100",
-   "published": "2026-09-22T16:45:00+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Merz und Gerechtigkeit: Jetzt regiert der Bauch",
-   "summary": "Der Kanzler greift die Unzufriedenheit in der Bevölkerung auf, ohne Lösungen zu präsentieren. Er ähnelt damit den Populisten und setzt noch mehr Vertrauen aufs Spiel.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/friedrich-merz-und-die-gerechtigkeit-jetzt-regiert-der-bauch-201251276.html",
-   "published": "2026-09-22T16:42:24+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ukraine-Krieg: EU hebt Sanktionen gegen russische Milliardäre auf",
-   "summary": "Sie sorgten für viel Zoff unter den EU-Ländern, doch nach langem Ringen steht fest: Zwei milliardenschwere russische Oligarchen sind nicht mehr mit EU-Sanktionen belegt. Andere dafür umso länger.",
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-eu-hebt-sanktionen-gegen-russische-milliardaere-auf/100256671.html",
-   "published": "2026-09-22T16:41:22+00:00",
-   "first_seen": "2026-09-22T17:03:55.369783+00:00",
    "paywall": true
   }
  ]
