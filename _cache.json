@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T14:04:08.772971+00:00",
+ "updated": "2026-09-26T15:04:25.058392+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,96 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Darum ist München der perfekte Olympia-Bewerber",
+   "summary": "Deutschland kann Sport-Events und München sowieso. Auch wenn die Spiele aus finanzieller Sicht ein Minusgeschäft werden könnten: Die deutsche Bewerbung ist ein Volltreffer.",
+   "link": "https://www.zdfheute.de/sport/olympische-spiele-deutscher-bewerber-muenchen-kommentar-100.html",
+   "published": "2026-09-26T14:52:00+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Nachbesserungen gefordert: SPD will Linnemanns Pflegereform wohl blockieren",
+   "summary": "Am Mittwoch will das Bundeskabinett eigentlich die Pflegereform von Gesundheitsminister Linnemann beschließen. Doch SPD-Franktionschef Miersch fordert, dass auch Privatversicherte beitragen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/spd-fraktionschef-miersch-stellt-sich-linnemanns-pflegereform-in-den-weg-accg-201265317.html",
+   "published": "2026-09-26T14:46:04+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Sozialprotest: Zehntausende demonstrieren für den Sozialstaat",
+   "summary": "Die Gewerkschaften haben aufgerufen – und Zehntausende sind gekommen. In zahlreichen deutschen Großstädten gab es Demonstrationszüge.",
+   "link": "https://www.wiwo.de/politik/deutschland/sozialprotest-zehntausende-demonstrieren-fuer-den-sozialstaat/100257618.html",
+   "published": "2026-09-26T14:27:00+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bundestag: Erneute Kritik an Spahn in der Unionsfraktion",
+   "summary": "Im Juli trat Jens Spahn als Fraktionschef zurück. Jetzt sitzt er im Haushaltsausschuss. Doch einige Fraktionsmitglieder fordern nach einem Foto nun Spahns Ausschluss.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-erneute-kritik-an-spahn-in-der-unionsfraktion/100257612.html",
+   "published": "2026-09-26T14:20:59+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Bundestag: Neue Aufregung über Spahn in der Unionsfraktion",
+   "summary": "Im Juli trat Jens Spahn als Unionsfraktionschef zurück. Auf seinem neuen Posten im Haushaltsausschuss scheint er aber nur schwer Fuß zu fassen. Ein Foto löst neue Irritationen aus.",
+   "link": "https://www.wiwo.de/politik/deutschland/bundestag-neue-aufregung-ueber-spahn-in-der-unionsfraktion/100257610.html",
+   "published": "2026-09-26T14:16:27+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sozialprotest: Zehntausende demonstrieren für den Sozialstaat",
+   "summary": "Die Gewerkschaften haben aufgerufen - und Zehntausende sind gekommen. In zahlreichen deutschen Großstädten gab es Demonstrationszüge.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/sozialprotest-zehntausende-demonstrieren-fuer-den-sozialstaat/100257617.html",
+   "published": "2026-09-26T14:09:48+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Dobrindt will Frontex deutlich stärken",
+   "summary": "Bundesinnenminister Alexander Dobrindt hat einige Amtskollegen aus Europa nach München eingeladen, um - so sagt er - den Kurs in der Migrationspolitik zu härten und zu schärfen. Was schlägt er vor?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/migration-dobrindt-will-frontex-deutlich-staerken/100257615.html",
+   "published": "2026-09-26T14:04:16+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hightech-Sex und KI-Kumpel: Chinas Aufbruch ins KI-Zeitalter",
+   "summary": "In China sind die Menschen besonders offen für neue Technologien. Was KI-Sommercamps und KI-Bars damit zu tun haben und wie KI den Markt für Sexspielzeug verändert.",
+   "link": "https://www.zdfheute.de/politik/ausland/ki-china-sexspielzeug-kuenstliche-intelligenz-chatbot-100.html",
+   "published": "2026-09-26T14:04:00+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "DGB-Aktionstag gegen Sozialkürzungen: Über 100.000 Menschen auf der Straße",
+   "summary": "Menschen gehen an diesem Samstag für einen starken Sozialstaat auf die Straße. Sie demonstrieren für sichere Arbeitsplätze und den Schutz von Arbeitnehmerrechten. mehr...",
+   "link": "https://taz.de/DGB-Aktionstag-gegen-Sozialkuerzungen/!6216422/",
+   "published": "2026-09-26T14:03:00+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Angriff: Tote und Verletzte nach Explosion in Pakistan",
+   "summary": "Ein mutmaßlicher Selbstmordanschlag an einem Polizeikontrollposten erschüttert das Grenzgebiet zwischen Pakistan und Afghanistan. In den vergangenen Monaten ist die Gewalt dort eskaliert.",
+   "link": "https://www.handelsblatt.com/politik/international/angriff-tote-und-verletzte-nach-explosion-in-pakistan/100257614.html",
+   "published": "2026-09-26T13:56:27+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
    "paywall": true
   },
   {
@@ -117,6 +207,15 @@
    "published": "2026-09-26T13:09:59+00:00",
    "first_seen": "2026-09-26T14:04:08.772971+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Das Straßenrennen der Frauen - mit Franziska Koch",
+   "summary": "Sehen Sie das Straßenrennen der Frauen bei der Straßenrad-WM im kanadischen Montreal im Livestream. Kommentar: Andreas Kürten, Experte: Simon Geschke.",
+   "link": "https://www.zdf.de/video/livestreams/radsport-wettkaempfe-livestreams-highlights-live-100/radsport-strassenrad-wm-frauenrennen-livestream-100",
+   "published": "2026-09-26T13:00:00+00:00",
+   "first_seen": "2026-09-26T15:04:25.058392+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13401,105 +13500,6 @@
    "published": "2026-09-23T07:46:00+00:00",
    "first_seen": "2026-09-23T08:04:19.646872+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Kauf einer Mietwohnung – Das verdienen Vermieter tatsächlich",
-   "summary": "Viele Deutsche träumen davon, ihre Altersvorsorge mit einer vermieteten Immobilie zu sichern. Doch wieviel Rendite ist wirklich drin? Das Handelsblatt hat nachgerechnet.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-gut-eignen-sich-mietwohnungen-fuer-die-altersvorsorge/100180922.html",
-   "published": "2026-09-23T07:45:00+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Würgende Monsterreptilien: Auch Urzeitechsen war manchmal zum Kotzen",
-   "summary": "Plesiosaurier hatten Flossen und einen sehr langen Hals. Durch den würgten sie wohl immer wieder mal Reste ihrer Mahlzeiten aus - die bis heute als Versteinerungen erhalten blieben.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/wuergende-monsterreptilien-auch-urzeitechsen-war-manchmal-zum-kotzen/100256788.html",
-   "published": "2026-09-23T07:43:24+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konrad-Adenauer-Haus: Kletter-Protest von Aktivisten an CDU-Zentrale in Berlin",
-   "summary": "Kletter-Protest in Berlin: Die Gruppe Robin Wood demonstriert auf dem Konrad-Adenauer-Haus für mehr Klimaschutz und ein klareres Vorgehen gegen den Aufstieg der AfD.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konrad-adenauer-haus-kletter-protest-von-aktivisten-an-cdu-zentrale-in-berlin/100256789.html",
-   "published": "2026-09-23T07:39:50+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Europäische Union: „Was ist da in Deutschland los?“ Merz’ Schwäche wird zum europäischen Problem",
-   "summary": "Nach den Wahlniederlagen der CDU zweifeln EU-Partner an der Führungskraft Deutschlands. Die Schwäche des Kanzlers kommt zur Unzeit: In Brüssel stehen weitreichende Entscheidungen an.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-merz-schwaeche-wird-zum-europaeischen-problem/100256212.html",
-   "published": "2026-09-23T07:36:12+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Banken: UBS erleidet in Kapitalstreit Niederlage im Schweizer Parlament",
-   "summary": "Die UBS muss ihre ausländischen Tochtergesellschaften mit mehr hartem Kernkapital unterlegen als von der Bank erhofft. Das Schweizer Parlament sprach sich für härtere Vorschriften aus.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ubs-erleidet-in-kapitalstreit-niederlage-im-schweizer-parlament/100256784.html",
-   "published": "2026-09-23T07:36:07+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilität: Strom statt Benzin – wie viel spart ein E-Auto beim Tanken ein?",
-   "summary": "Durch den Iran-Krieg sind die Spritpreise nach wie vor auf Höchstniveau. Wie viel lässt sich durch Laden statt Tanken einsparen? Der Handelsblatt-Rechner zeigt es.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-berechnen-sie-wie-viel-sie-mit-einem-e-auto-sparen-koennen/100251862.html",
-   "published": "2026-09-23T07:31:00+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-ab-welchem-vermoegen-gelten-sie-in-deutschland-als-reich/100149729.html",
-   "published": "2026-09-23T07:31:00+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Stadtzentren: Umfrage: Innenstädte werden wieder attraktiver",
-   "summary": "Städte kämpfen seit Jahren gegen den Niedergang ihrer Einkaufszentren. Eine Studie zeigt nun: Ihre Bemühungen scheinen sich allmählich auszuzahlen. Bei den Besuchern verbessert sich die Stimmung.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/stadtzentren-umfrage-innenstaedte-werden-wieder-attraktiver/100256785.html",
-   "published": "2026-09-23T07:30:04+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Cochlea-Implantat: Wie Hören wieder möglich wird",
-   "summary": "Cochlea-Implantate eröffnen Menschen mit Hörstörungen den Zugang zur Welt der Töne und Sprache. Wann sie zum Einsatz kommen, wie sie funktionieren und welche Risiken bestehen.",
-   "link": "https://www.zdfheute.de/ratgeber/gesundheit/cochlea-implantat-hoeren-schwerhoerigkeit-hoerverlust-100.html",
-   "published": "2026-09-23T07:28:00+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Kolumne „HANKS WELT“: Viele Waffen, wenige Ideen",
-   "summary": "Der deutsche Rüstungsboom ist ein wirtschaftliches Problem. Oder haben wir da etwas übersehen?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/viele-waffen-wenige-ideen-der-ruestungsboom-ist-ein-wirtschaftliches-problem-accg-201235563.html",
-   "published": "2026-09-23T07:25:56+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "EZB: Leitzinsniveau könnte Wirtschaft in der Zukunft leicht bremsen",
-   "summary": "Bundesbankchef Joachim Nagel warnt bei dauerhaft hohen Energiepreisen vor einer strafferen Geldpolitik der EZB. Zugleich sieht er die Gefahr einer neuen Lohn-Preis-Spirale als begrenzt an.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/ezb-leitzinsniveau-koennte-wirtschaft-in-der-zukunft-leicht-bremsen/100256783.html",
-   "published": "2026-09-23T07:25:09+00:00",
-   "first_seen": "2026-09-23T08:04:19.646872+00:00",
-   "paywall": true
   }
  ]
 }
