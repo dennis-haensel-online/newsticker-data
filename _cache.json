@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T17:03:44.327478+00:00",
+ "updated": "2026-09-26T18:04:35.748345+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Was das langfristige Speichern von Strom schwierig macht",
+   "summary": "Saisonale Energiespeicher könnten schwankende Verfügbarkeiten erneuerbarer Energien ausgleichen. Doch die Kosten sind hoch. Welche Ansätze es gibt und wie E-Autos helfen können.",
+   "link": "https://www.zdfheute.de/wirtschaft/strom-batteriespeicher-erneuerbare-energien-langzeitspeicher-100.html",
+   "published": "2026-09-26T17:50:00+00:00",
+   "first_seen": "2026-09-26T18:04:35.748345+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Trump gefährdet mit seiner Außenpolitik die demokratische Welt",
+   "summary": "Viel Show, wenig Inhalt – der US-Präsident zeigte beim Besuch von Chinas Staats- und Parteichef Xi Jinping, wo seine Prioritäten liegen. Das schadet nicht nur den USA.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-trump-gefaehrdet-mit-seiner-aussenpolitik-die-demokratische-welt/100256385.html",
+   "published": "2026-09-26T17:40:38+00:00",
+   "first_seen": "2026-09-26T18:04:35.748345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Anschlusspapier: KI, Handel und Militär – China und USA wollen Dialog stärken",
+   "summary": "Trump und Xi wollen bei KI-Vorfällen besser kommunizieren. Mit Blick auf Handelsfragen soll das Board of Trade bald seine Arbeit aufnehmen.",
+   "link": "https://www.handelsblatt.com/politik/international/anschlusspapier-ki-handel-und-militaer-china-und-usa-wollen-dialog-staerken/100257630.html",
+   "published": "2026-09-26T17:34:00+00:00",
+   "first_seen": "2026-09-26T18:04:35.748345+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Das sagt Wadephul über sein Treffen mit Lawrow",
+   "summary": "Nach dem überraschendem Treffen in New York: Das sagt Außenminister Wadephul im exklusiven ZDF-Interview über seinen Austausch mit Sergej Lawrow.",
+   "link": "https://www.zdfheute.de/politik/wadephul-interview-treffen-lawrow-ukraine-krieg-russland-100.html",
+   "published": "2026-09-26T17:19:00+00:00",
+   "first_seen": "2026-09-26T18:04:35.748345+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -89,6 +125,15 @@
    "link": "https://www.zdfheute.de/sport/video/das-aktuelle-sportstudio/fussball-nationalmannschaft-dfb-team-jonathan-tah-interview-vor-griechenland-nations-league-100.html",
    "published": "2026-09-26T16:14:00+00:00",
    "first_seen": "2026-09-26T17:03:44.327478+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Bremen müht sich ins Achtelfinale",
+   "summary": "Der SV Werder Bremen steht im Achtelfinale des DFB-Pokals. Beim Zweitligisten VfL Bochum fährt das Team von Trainerin Fritzi Kromp einen knappen, aber verdienten Sieg ein.",
+   "link": "https://www.zdfheute.de/sport/fussball-dfb-pokal-frauen/video/vfl-bochum-werder-bremen-halbfinale-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-09-26T16:14:00+00:00",
+   "first_seen": "2026-09-26T18:04:35.748345+00:00",
    "paywall": false
   },
   {
@@ -198,6 +243,15 @@
    "published": "2026-09-26T15:16:29+00:00",
    "first_seen": "2026-09-26T16:04:18.342230+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hammer der Woche aus Freden",
+   "summary": "Seit zwei Jahren wird die alte Brücke in Freden saniert. Es wurde bereits über eine Million Euro investiert, als sich rausstellt, dass ein Stahlträger marode ist. Nun muss ein Neubau her.",
+   "link": "https://www.zdfheute.de/video/laenderspiegel/hammer-der-woche-aus-freden-102.html",
+   "published": "2026-09-26T15:05:00+00:00",
+   "first_seen": "2026-09-26T18:04:35.748345+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -13444,60 +13498,6 @@
    "summary": "Die Einkaufsmanagerindizes für Deutschland und Europa übertreffen die Erwartungen deutlich. Vor allem die deutsche Industrie treibt das Wachstum an.",
    "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umfrage-deutet-auf-deutlich-staerkeres-wachstum-im-euro-raum-hin/100256806.html",
    "published": "2026-09-23T08:47:05+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: OECD erhöht Wachstumsprognose für Deutschland – „Reformen voranbringen“",
-   "summary": "Das deutsche Wirtschaftswachstum zieht trotz Krisen und Unsicherheiten langsam wieder an. KI-Boom, Exporte und staatliche Investitionen treiben die Erholung.",
-   "link": "https://www.wiwo.de/politik/konjunktur/wegen-ki-boom-und-exporten-oecd-erhoeht-wachstumsprognose-fuer-deutschland/100256796.html",
-   "published": "2026-09-23T08:47:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Friendflation: Warum Geld in Beziehungen relevanter wird",
-   "summary": "Wer gute Freunde hat, kommt leichter durchs Leben, hat eine bessere Beziehung und verringert sein Sterberisiko. Nur was, wenn die Freundschaft am Geld scheitert?",
-   "link": "https://www.handelsblatt.com/finanzen/vermoegen-koennen-freundschaften-mit-unterschiedlichem-geldbeutel-gluecken/100154689.html",
-   "published": "2026-09-23T08:45:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
-   "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-muessen-sie-erbschaftsteuer-zahlen-wenn-sie-leer-ausgehen/100246436.html",
-   "published": "2026-09-23T08:44:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax notiert im Minus – Ölpreis sinkt weiter",
-   "summary": "Saudi-Arabien hat offenbar den Betrieb seiner Ost-West-Pipeline zum Roten Meer wieder aufgenommen. Zugleich könnten die Chancen auf eine diplomatische Lösung im Iran-Krieg steigen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-sinkt-weiter/100256758.html",
-   "published": "2026-09-23T08:43:39+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studiengaenge-bleiben-trotz-ki-boom-aussichtsreich/100235558.html",
-   "published": "2026-09-23T08:43:00+00:00",
-   "first_seen": "2026-09-23T09:03:53.684737+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Zeitenwende: „Ich würde gerne hundert Leute mit KI herumexperimentieren lassen“",
-   "summary": "Der ehemalige Dax-Vorstand Bernhard Günther soll den IT-Dienstleister der Bundeswehr schneller und schlagkräftiger machen. Doch komplizierte Regeln und langsame Beschaffung erschweren diese Aufgabe.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/bernhard-guenther-bwi-bundeswehr-palantir-ki-li.3551668",
-   "published": "2026-09-23T08:42:08+00:00",
    "first_seen": "2026-09-23T09:03:53.684737+00:00",
    "paywall": true
   }
