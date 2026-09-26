@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T21:03:57.011055+00:00",
+ "updated": "2026-09-26T22:03:54.570211+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wohnungsnot: Riesen-Protest gegen Zwangsräumung einer Rentnerin in Madrid",
+   "summary": "Nach der Zwangsräumung einer 87-Jährigen gehen in Spanien Zehntausende auf die Straße. Der Fall Maricarmen wird zum Symbol für die schlimme Wohnungsnot – und erhöht den Druck auf die linke Regierung.",
+   "link": "https://www.handelsblatt.com/politik/international/wohnungsnot-riesen-protest-gegen-zwangsraeumung-einer-rentnerin-in-madrid/100257643.html",
+   "published": "2026-09-26T21:23:45+00:00",
+   "first_seen": "2026-09-26T22:03:54.570211+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Boeing meldet Softwarefehler bei Pannen-Flugzeug 737 Max",
+   "summary": "Die schlechten Nachrichten für US-Flugzeugbauer Boeing reißen nicht ab. Jetzt gibt es neue Probleme bei Maschinen des Modells 737 Max.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/boeing-meldet-softwarefehler-bei-pannen-flugzeug-737-max-a-7a41d3ef-ff38-4813-a89a-c61c55426627#ref=rss",
+   "published": "2026-09-26T21:03:00+00:00",
+   "first_seen": "2026-09-26T22:03:54.570211+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13482,24 +13500,6 @@
    "published": "2026-09-23T09:11:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Wärmewende: Genossenschaften ärgern sich über Sanierungsauflagen",
-   "summary": "Der Wohnungsbedarf wächst: Kleinere Baugenossenschaften wollen mehr bauen und sanieren. Was hindert sie?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/baugenossenschaften-sanierungsauflagen-als-hindernis-accg-201183976.html",
-   "published": "2026-09-23T09:11:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
-   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
-   "link": "https://www.handelsblatt.com/politik/international/migration-warum-wandern-so-viele-deutsche-nach-polen-aus/100249315.html",
-   "published": "2026-09-23T09:07:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
   }
  ]
 }
