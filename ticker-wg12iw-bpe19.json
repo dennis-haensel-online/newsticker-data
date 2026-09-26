@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-26T06:05:11.380885+00:00",
+ "updated": "2026-09-26T07:04:10.668194+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
+   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
+   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-diese-kompetenzen-braucht-die-ruestungsindustrie-aktuell/100211178.html",
+   "published": "2026-09-26T06:29:00+00:00",
+   "first_seen": "2026-09-26T07:04:10.668194+00:00",
    "paywall": true
   },
   {
@@ -892,15 +901,6 @@
    "published": "2026-09-23T11:57:57+00:00",
    "first_seen": "2026-09-23T13:05:48.292411+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht an",
-   "summary": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft in diesem Jahr deutlich heraufgesetzt. Das Bruttoinlandsprodukt werde um 1,1 Prozent wachsen. Für 2027 steht ebenfalls eine positive Prognose.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
-   "published": "2026-09-23T10:13:52+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
   }
  ]
 }
