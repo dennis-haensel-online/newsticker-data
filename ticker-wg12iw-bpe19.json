@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-26T13:03:36.260841+00:00",
+ "updated": "2026-09-26T14:04:08.772971+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Abschied von Kohle, Öl und Gas: Was taugt Deutschlands neuer Plan zum Fossilen-Ausstieg?",
+   "summary": "Schwarz-rot bekräftigt auf internationaler Bühne Klimaziele. Extremwetterkongress hat in Hamburg getagt. AfD-Wähler*innen verzichten auf Solaranlagen. mehr...",
+   "link": "https://taz.de/Abschied-von-Kohle-Oel-und-Gas/!6215964/",
+   "published": "2026-09-26T13:36:00+00:00",
+   "first_seen": "2026-09-26T14:04:08.772971+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -890,15 +899,6 @@
    "summary": "Die Zentralbanken haben ihre Leitzinsen erhöht, die Renditen von Anleihen steigen. Wie Sparer davon profitieren können.",
    "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/zinsen-anleihen-ezb-fed-leitzins-geld-e093799/",
    "published": "2026-09-23T12:55:00+00:00",
-   "first_seen": "2026-09-23T13:05:48.292411+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tarifrunde: Fünf Prozent mehr Lohn und Gewinnbeteiligung? – Arbeitgeber: „IG Metall ignoriert Dimension der Krise“",
-   "summary": "Die Gewerkschaft begründet die Forderung für die 3,7 Millionen Beschäftigten auch mit der besseren Konjunkturprognose. Das Infragestellen der 35-Stunden-Woche sei eine „Kriegserklärung“.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/ig-metall-gewerkschaft-fordert-fuenf-prozent-mehr-lohn-und-gewinnbeteiligung/100256242.html",
-   "published": "2026-09-23T12:50:11+00:00",
    "first_seen": "2026-09-23T13:05:48.292411+00:00",
    "paywall": true
   }
