@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T20:03:48.011229+00:00",
+ "updated": "2026-09-26T21:03:57.011055+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Alles zur Olympia-Entscheidung und der Nations League",
+   "summary": "Die Entscheidung über die deutsche Olympia-Bewerbung ist gefallen. Pia Greiten, Thomas Weikert, Michael Mronz und Ronald Rauhe diskutieren. Außerdem: Start der DFB-Elf unter Jürgen Klopp.",
+   "link": "https://www.zdf.de/video/shows/das-aktuelle-sportstudio-220/das-aktuelle-sportstudio-vom-26-september-2026-100",
+   "published": "2026-09-26T21:00:00+00:00",
+   "first_seen": "2026-09-26T21:03:57.011055+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vereinte Nationen: Treffen am Rande der UN: Wadephul und Lawrow bleiben uneins",
+   "summary": "Ein Handschlag, gut 20 Minuten Gespräch – und grundlegender Dissens: Wadephul trifft in New York am Rande der UN-Generalversammlung erstmals bilateral auf Lawrow.",
+   "link": "https://www.handelsblatt.com/politik/international/vereinte-nationen-treffen-am-rande-der-un-wadephul-und-lawrow-bleiben-uneins/100257625.html",
+   "published": "2026-09-26T20:27:46+00:00",
+   "first_seen": "2026-09-26T21:03:57.011055+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Flugzeugbauer: Boeing meldet Software-Fehler bei 737 MAX",
+   "summary": "Der Flugzeugbauer hat ein weiteres Problem bei seiner Pannen-Maschine 737 Max eingeräumt. Zwei Airlines haben gebeten, vorerst keine neuen Maschinen mit der betroffenen Software auszuliefern.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/flugzeugbauer-boeing-meldet-software-fehler-bei-737-max/100257640.html",
+   "published": "2026-09-26T20:21:46+00:00",
+   "first_seen": "2026-09-26T21:03:57.011055+00:00",
    "paywall": true
   },
   {
@@ -13471,33 +13498,6 @@
    "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
    "link": "https://www.handelsblatt.com/politik/international/migration-warum-wandern-so-viele-deutsche-nach-polen-aus/100249315.html",
    "published": "2026-09-23T09:07:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Champions League der Frauen: Unfreundlicher Empfang",
-   "summary": "Zur Premiere in der neuen Heimat Unterhaching spielt der FC Bayern 2:2 gegen Manchester City. Allzu viele Leute haben sich dafür nicht interessiert. mehr...",
-   "link": "https://taz.de/Champions-League-der-Frauen/!6215571/",
-   "published": "2026-09-23T09:06:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Geplantes Gesetz zu K.o.-Tropfen: Hubig sieht starkes Signal",
-   "summary": "Der Bundestag berät über härtere Strafen für den Einsatz von K.-o.-Tropfen bei Sexual- und Raubdelikten. Der Entwurf von Ministerin Hubig sieht Mindeststrafen von fünf Jahren vor.",
-   "link": "https://www.zdfheute.de/politik/deutschland/ko-tropfen-strafen-taeter-hubig-100.html",
-   "published": "2026-09-23T09:04:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gehaltsrechner: Wie viel verdienen Sie im Vergleich zu anderen Führungskräften?",
-   "summary": "Branche, Unternehmensgröße und Standort beeinflussen maßgeblich die Gehälter – das gilt auch für Chefs. Mit unserem interaktiven Rechner sehen Sie, wo Sie im Verhältnis zu anderen stehen.",
-   "link": "https://www.handelsblatt.com/karriere/gehalt-finden-sie-heraus-wie-viel-sie-als-fuehrungskraft-verdienen-sollten/100248227.html",
-   "published": "2026-09-23T09:04:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": true
   }
