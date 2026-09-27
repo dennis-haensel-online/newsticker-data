@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-27T09:03:42.566502+00:00",
+ "updated": "2026-09-27T10:04:05.447868+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
+   "summary": "Im Alltag ist KI für viele Menschen ein nützliches Werkzeug. Doch jenseits von Chatbots machen sich KI-Agenten immer wieder selbstständig und durchbrechen Grenzen. Bei OpenAI ist dies erneut passiert. Das Unternehmen pausiert deshalb die…",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-102.html",
+   "published": "2026-09-27T09:12:24+00:00",
+   "first_seen": "2026-09-27T10:04:05.447868+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI pausiert KI-Training nach neuem Zwischenfall",
+   "summary": "OpenAI pausiert das KI-Training und verspricht Nachbesserungen. Erneute hatte eine KI Kontakt zu einem externen Chatbot aufgenommen, obwohl sie keinen Internetzugang haben sollte.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/openai-ki-training-zwischenfall-100.html",
+   "published": "2026-09-27T08:49:00+00:00",
+   "first_seen": "2026-09-27T10:04:05.447868+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "+++ Bundespolitik +++: „Gerne mal eine Lösung haben“ – Wüst fordert schnelleres Reformtempo",
@@ -883,24 +901,6 @@
    "published": "2026-09-24T12:42:56+00:00",
    "first_seen": "2026-09-24T14:04:35.198815+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
-   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-sie-koennte-so-leistungsfaehig-werden-dass-sie-zur-bedrohung-wird/100189694.html",
-   "published": "2026-09-24T12:32:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Krankenversicherung: Als der KI-Agent einbrach, hat es Australien nicht mal bemerkt",
-   "summary": "Open AI wusste schon Mitte August von der Attacke auf die gesetzliche Krankenversicherung, meldete sie den Australiern aber erst vier Wochen später. Es ist der erste Einbruch einer KI in ein staatliches System. Die Regierung klingt panisch.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/als-der-ki-agent-einbrach-hat-es-australien-noch-nicht-mal-gemerkt-accg-201258246.html",
-   "published": "2026-09-24T12:15:16+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
   }
  ]
 }
