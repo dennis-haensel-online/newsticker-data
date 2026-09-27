@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T01:04:10.479666+00:00",
+ "updated": "2026-09-27T02:04:08.413075+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Klopp, Kanzler, Kosten: So geht es im Olympia-Rennen weiter",
+   "summary": "Nach dem Zuschlag für München als deutschen Olympia-Bewerber blickt eine prominente Runde im ZDF-Sportstudio voraus: So stehen die Chancen - und so geht es jetzt weiter.",
+   "link": "https://www.zdfheute.de/sport/sportstudio-muenchen-olympia-bewerber-100.html",
+   "published": "2026-09-27T00:43:00+00:00",
+   "first_seen": "2026-09-27T02:04:08.413075+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13491,15 +13500,6 @@
    "published": "2026-09-23T09:36:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Der Hausbesuch: Kulinarischer Widerstand",
-   "summary": "Sybille und Alexander Tetsch zogen nach Proschim in der Lausitz, um dort ein Restaurant zu eröffnen. Es liegt am Rande einer aktiven Abraumhalde für Braunkohle. mehr...",
-   "link": "https://taz.de/Der-Hausbesuch/!6196005/",
-   "published": "2026-09-23T09:35:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
   }
  ]
 }
