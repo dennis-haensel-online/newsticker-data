@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T04:04:07.271253+00:00",
+ "updated": "2026-09-27T05:03:53.680060+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,60 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konflikte: Gericht in Nordirland lässt umstrittene Oranier-Parade zu",
+   "summary": "Erstmals seit fast drei Jahrzehnten darf der protestantische Oranier-Orden entlang der Garvaghy Road in einem katholischen Teil von Portadown marschieren. Die Bestätigung kommt kurz vor der Parade.",
+   "link": "https://www.handelsblatt.com/politik/international/konflikte-gericht-in-nordirland-laesst-umstrittene-oranier-parade-zu/100257687.html",
+   "published": "2026-09-27T04:40:13+00:00",
+   "first_seen": "2026-09-27T05:03:53.680060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: „Wenn wir jetzt nicht investieren, wird Europa Kollateralschaden im KI-Rennen“",
+   "summary": "Experten fordern mehr KI-Souveränität für Europa. Was ein Rückfallen im KI-Rennen bedeuten könnte – und wo Europas Stärken liegen.",
+   "link": "https://www.wiwo.de/technologie/ki-souveraenitaet-europas-chance-im-rennen-gegen-usa-und-china/100255463.html",
+   "published": "2026-09-27T04:39:00+00:00",
+   "first_seen": "2026-09-27T05:03:53.680060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Warum das Straßenrennen der Männer besonders spannend wird",
+   "summary": "Ohne Pogacar ist das Straßenrennen offen wie lange nicht mehr. Evenepoel will als erster Fahrer Doppel-Weltmeister werden, hat aber große Konkurrenz - sogar im eigenen Team.",
+   "link": "https://www.zdfheute.de/sport/rad-wm-strassenrennen-maenner-montreal-wout-van-aert-mathieu-van-der-poel-remco-evenepoel-100.html",
+   "published": "2026-09-27T04:24:00+00:00",
+   "first_seen": "2026-09-27T05:03:53.680060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "EmpCo-Richtlinie: Wie Deutschland gegen Greenwashing und Verbrauchertäuschung vorgeht",
+   "summary": "Nicht alle Produkte sind so ökologisch, wie die Werbung es suggeriert. In Deutschland ist Greenwashing deshalb ab sofort verboten. Was ändert sich genau? Der Überblick.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/emp-co-richtlinie-greenwashing-produktlebensdauer-obsoleszenz-reparierbarkeit-faq",
+   "published": "2026-09-27T04:16:45+00:00",
+   "first_seen": "2026-09-27T05:03:53.680060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Neue EU‑Label für Gewährleistung und Garantie",
+   "summary": "Verbraucher haben europaweit gesetzliche Gewährleistungsrechte - kennen sie aber oft nicht. Ab dem 27. September 2026 bringt das neue EU-Gewährleistungslabel mehr Klarheit.",
+   "link": "https://www.zdfheute.de/ratgeber/eu-label-gewaehrleistung-garantie-verbraucher-verbraucherrechte-100.html",
+   "published": "2026-09-27T04:02:00+00:00",
+   "first_seen": "2026-09-27T05:03:53.680060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Brasiliens Norden: Karibik Amazoniens: Was Alter do Chão einzigartig macht",
+   "summary": "Weiße Strände, warmes Wasser, tropisches Klima – die Gegend um das brasilianische Alter do Chão wird als „Karibik Amazoniens“ vermarktet. Ein Realität-Check vor Ort.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/brasiliens-norden-karibik-amazoniens-was-alter-do-chao-einzigartig-macht/100257683.html",
+   "published": "2026-09-27T03:55:08+00:00",
+   "first_seen": "2026-09-27T05:03:53.680060+00:00",
    "paywall": true
   },
   {
@@ -7211,6 +7265,15 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "Teilen statt Besitzen",
+   "summary": "Najine Ameli betreibt in Bochum die „Bibliothek der Dinge“. Dort können Menschen Werkzeuge, Küchengeräte und vieles mehr ausleihen – und gemeinsam Neues ausprobieren.",
+   "link": "https://www.zdfheute.de/video/panorama-dinge-bibliothek-kurioses-100.html",
+   "published": "2026-09-24T15:10:34+00:00",
+   "first_seen": "2026-09-27T05:03:53.680060+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: OpenAI-Modell hackt australisches Gesundheitsportal",
    "summary": "Ein Bot des KI-Anbieters hat sich laut Australiens Premier Albanese Zugang zu einem staatlichen Internetportal verschafft. Das Modell sollte Daten über Gesundheitsausgaben sammeln und hat dabei Statistiken der staatlichen Krankenkasse…",
@@ -13436,69 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/bundesregierung-kabinett-beschliesst-plan-gegen-sozialleistungsmissbrauch/100256846.html",
    "published": "2026-09-23T10:01:59+00:00",
    "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Klimapolitik in Down Under: Australien bleibt der Kohle verpflichtet",
-   "summary": "Der australische Premier warnt in New York vor der Klimakatastrophe. Zugleich exportiert Australien mehr Fossile, als es seinen Klimazielen entspräche. mehr...",
-   "link": "https://taz.de/Klimapolitik-in-Down-Under/!6215574/",
-   "published": "2026-09-23T10:00:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Berliner Aquarium nach der Modernisierung",
-   "summary": "Das Berliner Aquarium wurde 1913 eröffnet und beheimatet die artenreichste Sammlung von Meeres - und Süßwasserbewohnern weltweit. Die Wiedereröffnung des Aquariums ist ein Highlight für Berlin.",
-   "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/berliner-aquarium-modernisierung-100.html",
-   "published": "2026-09-23T10:00:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Parkplatznot in Wetzlar",
-   "summary": "In Wetzlar sollte ein neues Parkhaus die Parkplatznot lindern. Doch noch vor der Eröffnung muss es wieder abgerissen und neu gebaut werden.",
-   "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/parkhaus-wetzlar-abriss-102.html",
-   "published": "2026-09-23T10:00:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Die besten Sport- und Wellnessplattformen",
-   "summary": "Fitnessstudio, Yoga oder Bouldern: 19 Tarife von fünf Sport- und Wellnessplattformen im Vergleich. Eine Checkliste hilft, das passende Angebot zu finden.",
-   "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/vergleich-sportplattformen-warentest-102.html",
-   "published": "2026-09-23T10:00:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Urteil: Wann der Arbeitgeber Teilzeit ablehnen darf - und wann nicht",
-   "summary": "Sind die formellen Voraussetzungen für Teilzeitarbeit erfüllt, darf ein Arbeitgeber das Gesuch nicht einfach so ablehnen. Auch nicht, wenn angeblich kein Ersatz aufzutreiben ist.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/urteil-wann-der-arbeitgeber-teilzeit-ablehnen-darf-und-wann-nicht/100256856.html",
-   "published": "2026-09-23T09:58:12+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Angebot vom Tourismusbüro: Festpreis für Taxis am Flughafen Lissabon",
-   "summary": "Keine böse Überraschung mehr beim Taxipreis: Am Airport von Portugals Hauptstadt soll ein neues System Abzocke verhindern.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/angebot-vom-tourismusbuero-festpreis-fuer-taxis-am-flughafen-lissabon/100256855.html",
-   "published": "2026-09-23T09:56:50+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Weltspitze in der Provinz: Wie der größte Pharmakonzern Deutschlands seine Führungskräfte entwickelt",
-   "summary": "Deutschlands größter Pharmakonzern lockt erfolgreich Führungskräfte nach Ingelheim – und die bleiben dank spezieller Programme lange. Probieren Sie in einem Test aus, was dafür nötig ist.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-wie-gewinnt-boehringer-ingelheim-die-talente-der-konkurrenz/100251886.html",
-   "published": "2026-09-23T09:54:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": true
   }
  ]
