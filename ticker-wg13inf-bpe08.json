@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-27T05:03:53.680060+00:00",
+ "updated": "2026-09-27T06:05:18.484880+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall – Altman und Amodei sollen vor Untersuchungsausschuss",
+   "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. OpenAI will nun an wichtigen Stellen bei der Sicherheit nachbessern. Die Chefs von OpenAI und Amodei sollen sich in Australien erklären.",
+   "link": "https://www.handelsblatt.com/technik/ki/openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
+   "published": "2026-09-27T05:44:34+00:00",
+   "first_seen": "2026-09-27T06:05:18.484880+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: „Wenn wir jetzt nicht investieren, wird Europa Kollateralschaden im KI-Rennen“",
@@ -891,15 +900,6 @@
    "link": "https://www.tagesschau.de/ausland/europa/prix-goncourt-ki-100.html",
    "published": "2026-09-24T12:08:06+00:00",
    "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Live: Wer kontrolliert die KI?",
-   "summary": "Ein Risiko für Demokratie und Menschheit? Führende KI-Unternehmen warnen den UN-Sicherheitsrat vor den Gefahren ihrer eigenen Schöpfungen. ZDFheute live ordnet ein.",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/ki-warnung-un-sicherheitsrat-video-100.html",
-   "published": "2026-09-24T12:00:00+00:00",
-   "first_seen": "2026-09-24T12:05:14.330788+00:00",
    "paywall": false
   }
  ]
