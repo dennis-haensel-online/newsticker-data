@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T06:05:18.484880+00:00",
+ "updated": "2026-09-27T07:04:26.240137+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,78 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Being ostdeutsch",
+   "summary": "Siska, 27, fühlt sich \"ostdeutsch\". Bewusst wird ihr dies aber erst als sie in Freiburg studiert. Eine Generation sucht ihre Wurzeln.",
+   "link": "https://www.zdf.de/video/reportagen/37-grad-leben-102/being-ostdeutsch-102",
+   "published": "2026-09-27T07:03:00+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Iran pocht auf Diplomatie – Trump lehnt Vorschlag zur Öffnung der Straße von Hormus ab",
+   "summary": "Iran bei Atomprogramm in Verhandlungen offenbar unnachgiebig +++ Iran legt wohl Sieben-Tage-Plan zur Beendigung des Krieges vor +++ Netanjahu verteidigt Kriege bei UN-Rede +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-iran-draengt-auf-diplomatie-trump-lehnt-vorschlag-zu-hormus-ab/100136895.html",
+   "published": "2026-09-27T06:53:00+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Treffen am Rande der UN: Wadephul und Lawrow bleiben nach Gespräch uneins",
+   "summary": "Ein Handschlag, gut 20 Minuten Gespräch – und grundlegender Dissens: Wadephul trifft in New York erstmals bilateral auf Russlands Außenminister.. mehr...",
+   "link": "https://taz.de/Wadephul-und-Lawrow-bleiben-uneins/!6216434/",
+   "published": "2026-09-27T06:52:00+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Treffen in New York: Wadephul fordert Deeskalation – Lawrow kritisiert Forderungen",
+   "summary": "Die Außenminister Deutschlands und Russlands haben sich zum ersten Mal seit Beginn des Ukraine-Kriegs bilateral getroffen. Eine Annäherung zeichnet sich nicht ab.",
+   "link": "https://www.handelsblatt.com/politik/international/treffen-bei-un-wadephul-fordert-deeskalation-lawrow-kritisiert-forderungen/100257694.html",
+   "published": "2026-09-27T06:41:10+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Hohe Ölpreise: Kann diese Ölpalme die Biosprit-Knappheit beenden?",
+   "summary": "Preislich attraktiv sind Biokraftstoffe inzwischen – und knapp. Eine bisher kaum bekannte brasilianische Ölpalme könnte das ändern, sagen Wissenschaftler.",
+   "link": "https://www.wiwo.de/technologie/hohe-oelpreise-kann-diese-palme-den-mangel-an-bio-kerosin-lindern/100257193.html",
+   "published": "2026-09-27T06:24:00+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Management-Moment: Die Kunst ist, hart in der Sache zu sein, ohne die Beziehung zu verbrennen",
+   "summary": "CEOs müssen sich nicht immer zu Wort melden. Wenn das eigene Geschäftsmodell bedroht wird, sollten sie es jedoch tun. Nur: Wie?",
+   "link": "https://www.wiwo.de/erfolg/management/wann-sich-ceos-einmischen-sollten-und-wann-besser-nicht/100257256.html",
+   "published": "2026-09-27T06:22:29+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Miele-Chef: „Vermögende haben eine besondere Verantwortung“",
+   "summary": "Reinhard Zinkann, Chef des Mittelständlers Miele, erklärt, warum der Westfälische Friedenspreis an die Nato geht, was er gegen den Rechtsruck tun will und in welchem Fall er Steuererhöhungen gutheißen würde.",
+   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/miele-chef-vermoegende-haben-eine-besondere-verantwortung/100255119.html",
+   "published": "2026-09-27T06:12:00+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "100 Jahre WiWo: Finden Sie die WirtschaftsWoche zu Ihrem Geburtstag",
+   "summary": "Seit hundert Jahren berichten wir über Wirtschaft, Politik und Geldanlage. Stöbern Sie durch fast 5000 Titelseiten – und entdecken Sie Ihre Lieblingsausgabe.",
+   "link": "https://www.wiwo.de/100/100-jahre-wirtschaftswoche-finden-sie-das-cover-zu-ihrem-geburtstag/100248332.html",
+   "published": "2026-09-27T06:07:31+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
    "paywall": true
   },
   {
@@ -215,6 +287,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/gerichtsverfahren-patent-urteil-apple-soll-57-milliarden-dollar-zahlen/100257659.html",
    "published": "2026-09-26T23:48:05+00:00",
    "first_seen": "2026-09-27T00:05:57.141386+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Apple Watch: Apple soll nach Patent-Urteil 5,7 Milliarden Dollar zahlen",
+   "summary": "Hinter Vibrations-Alarmen von iPhone und Apple Watch steckt die sogenannte „Taptic Engine“. US-Geschworene befanden, dass Apple bei dem Mechanismus Patente verletzt hat. Es geht um viel Geld.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/apple-watch-patent-urteil-apple-soll-57-milliarden-dollar-zahlen/100257659.html",
+   "published": "2026-09-26T23:48:05+00:00",
+   "first_seen": "2026-09-27T07:04:26.240137+00:00",
    "paywall": true
   },
   {
@@ -13417,87 +13498,6 @@
    "summary": "Ein Felssturz an der Zugspitze hat Deutschlands höchsten Berg in eine große Staubwolke gehüllt. Gefahr für Wege besteht nicht - vorbei ist das Bröckeln aber offenbar nicht.",
    "link": "https://www.zdfheute.de/wissen/zugspitze-felssturz-alpen-100.html",
    "published": "2026-09-23T10:24:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kleines E-Auto: Alter Bekannter liefert Basis für den neuen Nissan Pixo",
-   "summary": "Nissan legt nach dem Micra einen zweiten Klassiker neu auf und bringt den Pixo als elektrischen Stadtflitzer zurück. Ganz neu ist der Winzling aber nicht: Die Basis liefert der Renault Twingo.",
-   "link": "https://www.handelsblatt.com/mobilitaet/motor/kleines-e-auto-alter-bekannter-liefert-basis-fuer-den-neuen-nissan-pixo/100256866.html",
-   "published": "2026-09-23T10:23:01+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Extremwetterkongress: Experten: Künftig mehr Hitzewellen in Deutschland",
-   "summary": "In Hamburg ist der 16. Extremwetterkongress gestartet. Viele künftige Sommer drohen im Mittel noch heißer als in diesem Jahr zu werden, warnen Experten.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/extremwetterkongress-experten-kuenftig-mehr-hitzewellen-in-deutschland/100256865.html",
-   "published": "2026-09-23T10:22:05+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Spritpreise: ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-   "summary": "Seit dem 1. April dürfen Tankstellen die Preise für Benzin und Diesel nur einmal am Tag erhöhen – um 12 Uhr mittags. Der ADAC kritisiert die Regel scharf, ebenso wie einige Wissenschaftler.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/adac-spritpreise-deutschland-li.3552729",
-   "published": "2026-09-23T10:19:27+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Spritpreise: ADAC fordert Abschaffung der 12-Uhr-Regel an Tankstellen",
-   "summary": "Seit dem 1. April dürfen Tankstellen die Preise für Benzin und Diesel nur einmal am Tag erhöhen – um 12 Uhr mittags. Der ADAC kritisiert die Regel scharf, ebenso wie einige Wissenschaftler.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/adac-spritpreise-tankstellen-deutschland-li.3552729",
-   "published": "2026-09-23T10:19:27+00:00",
-   "first_seen": "2026-09-23T13:05:48.292411+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Süß oder salzig?\" - Prinz William am Popcornstand",
-   "summary": "Prinz William \"jobbt\" im Kino, Lionel Richie tritt gesundheitsbedingt kürzer und George Lucas sagte \"Star Wars\"-Filme ab - die aktuellen Promi-News in Bildern.",
-   "link": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-september-2026-100.html",
-   "published": "2026-09-23T10:15:00+00:00",
-   "first_seen": "2026-09-24T10:04:09.955690+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht an",
-   "summary": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft in diesem Jahr deutlich heraufgesetzt. Das Bruttoinlandsprodukt werde um 1,1 Prozent wachsen. Für 2027 steht ebenfalls eine positive Prognose.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
-   "published": "2026-09-23T10:13:52+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tarifrunde für 3,7 Millionen: IG Metall will fünf Prozent mehr Lohn für Metallbeschäftigte",
-   "summary": "Die Preise steigen, nun sollen die Löhne folgen: Die IG Metall fordert mehr Geld für 3,7 Millionen Beschäftigte. Die Arbeitgeber warnt sie vor einer „Kriegserklärung“ bei der 35-Stunden-Woche.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/tarifrunde-fuer-37-millionen-ig-metall-will-fuenf-prozent-mehr-lohn-fuer-metallbeschaeftigte/100256826.html",
-   "published": "2026-09-23T10:13:31+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gesetzentwurf auf dem Weg: Kassenbon soll ab 2028 digital werden",
-   "summary": "Digitale Belege sollen bald Standard werden. Welche Regeln und Ausnahmen das Kabinett für die Kassenpflicht vorsieht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gesetzentwurf-auf-dem-weg-kassenbon-soll-ab-2028-digital-werden/100256863.html",
-   "published": "2026-09-23T10:11:41+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Studie: Wieder weniger Stellenangebote für Berufsanfänger",
-   "summary": "Nach dem Rekordjahr 2022 haben sich die Stellenangebote für Einstiegsjobs einer Studie zufolge stark verringert. Die verschiedenen Branchen sind unterschiedlich stark betroffen.",
-   "link": "https://www.zdfheute.de/wissen/berufseinsteiger-stelle-job-angebote-rueckgang-100.html",
-   "published": "2026-09-23T10:11:00+00:00",
    "first_seen": "2026-09-23T11:03:55.917659+00:00",
    "paywall": false
   }
