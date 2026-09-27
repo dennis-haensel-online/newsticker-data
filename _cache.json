@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T16:04:07.668064+00:00",
+ "updated": "2026-09-27T17:03:40.604517+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Festnahmen an US-Luftwaffenbasis: Britische Polizei vereitelt mutmaßlichen Terroranschlag",
+   "summary": "Von der Militärbasis Fairford in England aus starten US-Bomber zu Angriffen auf Iran. Jetzt wurden dort fünf Männer unter Terrorverdacht festgenommen. mehr...",
+   "link": "https://taz.de/Festnahmen-an-US-Luftwaffenbasis/!6216776/",
+   "published": "2026-09-27T17:00:00+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "100 Jahre WirtschaftsWoche: Kollege Schumpeter",
+   "summary": "Standhaft für liberales Denken: Wie der „Deutsche Volkswirt“, der Vorläufer der WirtschaftsWoche, in der Weimarer Republik die ökonomische Debatte prägte. Ein Gastbeitrag.",
+   "link": "https://www.wiwo.de/politik/konjunktur/100-jahre-wirtschaftswoche-kollege-schumpeter/100249128.html",
+   "published": "2026-09-27T16:51:59+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "CDU: „Keine FDP-light“ – Arbeitnehmerflügel der CDU verlangt von Merz eine Kurskorrektur",
+   "summary": "Die CDU habe sich „verengt“, kritisiert CDA-Chef Radtke. Er will sozialen Belangen mehr Platz geben und nennt konkrete Vorhaben – darunter eines, das viele Wirtschaftsvertreter fürchten.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/cdu-arbeitnehmerfluegel-der-partei-verlangt-kurskorrektur/100257273.html",
+   "published": "2026-09-27T16:30:08+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Was diese Woche im Ukraine-Krieg passiert ist",
+   "summary": "Angriffe auf Rechenzentren stören in Kiew das Internet, die Ukraine trifft russische Raffinerien. Moskaus behauptete Einkesselung ist nicht belegt - die Woche im Ukraine Krieg.",
+   "link": "https://www.zdfheute.de/politik/ausland/infrastruktur-datennetze-ukraine-krieg-russland-100.html",
+   "published": "2026-09-27T16:26:00+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Neue Ausgabe der „Idiome“: Wo die dark tourists des Literaturbetriebs Urlaub machen",
+   "summary": "Im Wiener Literaturmagazin „Idiome“ erscheint seit 20 Jahren Abseitiges und Morbides. Auch die neue Ausgabe glänzt mit schaurig-frechen Texten wenig bekannter Autor:innen. mehr...",
+   "link": "https://taz.de/Neue-Ausgabe-der-Idiome/!6216428/",
+   "published": "2026-09-27T16:10:00+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -27,6 +72,15 @@
    "published": "2026-09-27T15:51:00+00:00",
    "first_seen": "2026-09-27T16:04:07.668064+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "KAPUTTE INFRASTRUKTUR: Braucht es einen Aufbau West?",
+   "summary": "Nirgendwo ist die Infrastruktur in so schlechtem Zustand wie in Nordrhein-Westfalen. Deshalb mehren sich die Forderungen nach einem Kraftakt wie nach der Wiedervereinigung.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kaputte-bruecken-und-schienen-braucht-nrw-einen-aufbau-west-201262502.html",
+   "published": "2026-09-27T15:50:01+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
+   "paywall": true
   },
   {
    "label": "ZEIT",
@@ -359,6 +413,15 @@
    "link": "https://www.handelsblatt.com/politik/international/grossbritannien-sprengstoffverdacht-nahe-us-genutzter-militaerbasis/100257706.html",
    "published": "2026-09-27T13:31:00+00:00",
    "first_seen": "2026-09-27T14:03:49.869469+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Großbritannien: Mehrere Festnahmen nahe US-Militärbasis in England",
+   "summary": "Fünf Personen sollen gegen Sprengstoff- und Terrorgesetze verstoßen haben. Der Stützpunkt wird für Angriffe auf den Iran genutzt. Häuser in der Umgebung wurden evakuiert und eine Sperrzone eingerichtet.",
+   "link": "https://www.handelsblatt.com/politik/international/grossbritannien-mehrere-festnahmen-nahe-us-militaerbasis-in-england/100257706.html",
+   "published": "2026-09-27T13:31:00+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
    "paywall": true
   },
   {
@@ -5471,6 +5534,15 @@
    "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235508",
    "published": "2026-09-25T12:12:00+00:00",
    "first_seen": "2026-09-25T13:06:00.186622+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Debatte zur Bundeszentrale für politische Bildung",
+   "summary": "Debatte zur Bundeszentrale für politische Bildung",
+   "link": "https://www.phoenix.de/deutscher-bundestag-a-5233963.html",
+   "published": "2026-09-25T12:12:00+00:00",
+   "first_seen": "2026-09-27T17:03:40.604517+00:00",
    "paywall": false
   },
   {
@@ -13428,78 +13500,6 @@
    "published": "2026-09-23T15:22:18+00:00",
    "first_seen": "2026-09-24T08:04:17.551928+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Am Rand der UN-Generaldebatte: Trump hat erstmals Venezuelas Präsidentin getroffen",
-   "summary": "Im Januar nahmen die USA Venezuelas langjährigen Staatschef Maduro gefangen und das Öl des Landes ins Visier. Jetzt traf sich Trump erstmals persönlich mit Venezuelas geschäftsführender Präsidentin.",
-   "link": "https://www.handelsblatt.com/politik/international/am-rand-der-un-generaldebatte-trump-hat-erstmals-venezuelas-praesidentin-getroffen/100256936.html",
-   "published": "2026-09-23T15:20:07+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Sozialbetrug: Was bewirkt der Zehn-Punkte-Plan gegen Sozialbetrug wirklich?",
-   "summary": "Die Regierung will Sozialbetrug mit einem Zehn-Punkte-Plan stoppen. Kommunen schlagen derweil Alarm. Wie wirksam sind die Maßnahmen gegen Scheinarbeit und Schleuser? Ein Ortsbesuch.",
-   "link": "https://www.wiwo.de/politik/deutschland/zehn-punkte-plan-gegen-sozialbetrug-was-bringt-er-wirklich/100243918.html",
-   "published": "2026-09-23T15:20:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Extremwetterkongress: Stürmische Aussichten",
-   "summary": "Beim Extremwetterkongress in Hamburg wird deutlich: Wie gefährlich Extremwettereignisse sind, hängt nicht nur von ihrer Stärke ab. mehr...",
-   "link": "https://taz.de/Extremwetterkongress/!6215565/",
-   "published": "2026-09-23T15:16:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Liebes-Aus bei Elyas M'Barek und seiner Frau",
-   "summary": "Schauspieler Elyas M'Barek und seine Frau Jessica haben sich getrennt. Die Beziehung endete bereits vor längerer Zeit, teilte ihr Anwalt mit. Weitere Details will das Ex-Paar nicht nennen.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/videos/elias-m-barek-trennung-100.html",
-   "published": "2026-09-23T15:14:00+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Stolpersteine in Sachsen: „Das dient nicht dem Erinnern, sondern dem Vergessen“",
-   "summary": "In Heidenau unterstützen CDU- und AfD-Mitglieder einen Antrag gegen die Gedenksteine für Opfer der Nazis. Betroffenenverbände kritisieren den Vorstoß. mehr...",
-   "link": "https://taz.de/Stolpersteine-in-Sachsen/!6215252/",
-   "published": "2026-09-23T15:12:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street im Minus – McDonald’s-Aktie unter Druck",
-   "summary": "Steigende Ölpreise belasten erneut die Stimmung an den US-Börsen. Der Blick der Anleger richtet sich zudem weiterhin besonders auf geopolitische Entwicklungen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-mcdonalds-aktie-unter-druck/100256895.html",
-   "published": "2026-09-23T15:11:59+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wie weiter nach der Wahl?: SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein",
-   "summary": "AfD und BSW sprechen in Sachsen-Anhalt über eine mögliche Zusammenarbeit. Doch plötzlich kommt die SPD aus der Deckung: Ist doch ein anderes Bündnis ohne die AfD denkbar?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wie-weiter-nach-der-wahl-spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein/100256932.html",
-   "published": "2026-09-23T15:11:20+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Teure Tankregel, Knebelverträge und gute Wirtschafts-News",
-   "summary": "Der ADAC kritisiert die 12-Uhr-Regel, Deutschland kauft Kampfjets mit Einschränkungen und die OECD hebt ihre Wachstumsprognose an.",
-   "link": "https://www.zdfheute.de/briefing/adac-tanken-kampfjets-oecd-prognose-zdfheute-update-100.html",
-   "published": "2026-09-23T15:11:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
   }
  ]
 }
