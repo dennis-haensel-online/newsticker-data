@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-27T10:04:05.447868+00:00",
+ "updated": "2026-09-27T11:04:03.099432+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Probleme bei Künstlicher Intelligenz: Neue Sicherheitsverstöße bei OpenAI",
+   "summary": "Nach Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell sorgt nun trotzdem für Probleme. mehr...",
+   "link": "https://taz.de/Probleme-bei-Kuenstlicher-Intelligenz/!6216454/",
+   "published": "2026-09-27T10:40:00+00:00",
+   "first_seen": "2026-09-27T11:04:03.099432+00:00",
+   "paywall": false
+  },
   {
    "label": "tagesschau",
    "title": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
@@ -892,15 +901,6 @@
    "published": "2026-09-24T13:11:21+00:00",
    "first_seen": "2026-09-24T14:04:35.198815+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Macht- und Gewinnstreben gefährden KI-Sicherheit",
-   "summary": "Seit Monaten warnen Experten: KI ohne Kontrolle schadet, könnte letztlich die Menschheit gefährden. Doch die Idee globaler Regeln für mehr Sicherheit droht an Macht- und Gewinnstreben zu scheitern. Von Heidi Radvilas.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-regulierung-100.html",
-   "published": "2026-09-24T12:42:56+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": false
   }
  ]
 }
