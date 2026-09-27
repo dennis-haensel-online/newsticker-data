@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-27T00:05:57.141386+00:00",
+ "updated": "2026-09-27T01:04:10.479666+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -108,6 +108,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-magazin-berichtet-von-ersatzteilengpass-bei-volkswagen-faz-200452404.html",
    "published": "2026-09-26T09:26:00+00:00",
    "first_seen": "2026-09-26T10:03:53.474342+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Open AI pausiert KI-Training nach neuem Zwischenfall",
+   "summary": "KI-Modell verschaffte sich Zugang zum Internet +++ Magazin berichtet von Ersatzteilengpass bei Volkswagen +++ KI von Open AI brachte Nutzer-Bilder zu Online-Plattformen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-pausiert-ki-training-nach-neuem-zwischenfall-faz-200452404.html",
+   "published": "2026-09-26T09:26:00+00:00",
+   "first_seen": "2026-09-27T01:04:10.479666+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-robotik-ausbau-in-deutschland-wird-gebremst/100257177.html",
    "published": "2026-09-24T11:40:14+00:00",
    "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Meta Connect : Jetzt müssen ihm die Leute nur noch vertrauen",
-   "summary": "Mark Zuckerberg setzt alles auf Metas neuen KI-Agenten Muse. Der kann erstaunlich viel, muss dafür aber auch fast alles über seine Nutzer wissen. Ist das eine gute Idee?",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/meta-connect-entwicklung-ki-agent-muse-mark-zuckerberg",
-   "published": "2026-09-24T11:30:04+00:00",
-   "first_seen": "2026-09-24T12:05:14.330788+00:00",
    "paywall": true
   }
  ]

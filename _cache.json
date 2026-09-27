@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T00:05:57.141386+00:00",
+ "updated": "2026-09-27T01:04:10.479666+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Demonstrationen nach Zwangsräumung von 87-Jähriger in Madrid",
+   "summary": "Zehntausende Menschen demonstrieren in Madrid für das Recht auf Wohnen und gegen Zwangsräumungen. Davor hatte eine Rentnerin ihre Wohnung verloren, nach 70 Jahren.",
+   "link": "https://www.zdfheute.de/politik/ausland/spanien-madrid-zwangsraeumung-proteste-100.html",
+   "published": "2026-09-27T00:26:00+00:00",
+   "first_seen": "2026-09-27T01:04:10.479666+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -1097,6 +1106,15 @@
    "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-was-ehemalige-top-manager-ueber-den-erfolg-von-amazon-verraten-02/100244278.html",
    "published": "2026-09-26T09:26:00+00:00",
    "first_seen": "2026-09-26T10:03:53.474342+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Open AI pausiert KI-Training nach neuem Zwischenfall",
+   "summary": "KI-Modell verschaffte sich Zugang zum Internet +++ Magazin berichtet von Ersatzteilengpass bei Volkswagen +++ KI von Open AI brachte Nutzer-Bilder zu Online-Plattformen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-pausiert-ki-training-nach-neuem-zwischenfall-faz-200452404.html",
+   "published": "2026-09-26T09:26:00+00:00",
+   "first_seen": "2026-09-27T01:04:10.479666+00:00",
    "paywall": true
   },
   {
@@ -13480,24 +13498,6 @@
    "summary": "Sybille und Alexander Tetsch zogen nach Proschim in der Lausitz, um dort ein Restaurant zu eröffnen. Es liegt am Rande einer aktiven Abraumhalde für Braunkohle. mehr...",
    "link": "https://taz.de/Der-Hausbesuch/!6196005/",
    "published": "2026-09-23T09:35:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung: „Das Schlimmste aus der Perspektive eines überklugen Typen wie Elon Musk ist ja das Sterben“",
-   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
-   "link": "https://www.handelsblatt.com/karriere/manuel-scheidegger-warum-man-ki-als-keine-intelligenz-lesen-sollte/100252820.html",
-   "published": "2026-09-23T09:35:00+00:00",
-   "first_seen": "2026-09-23T10:03:57.150613+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "AfD und Beamte: Widerstand oder Ruhestand",
-   "summary": "Sollte die AfD in Sachsen-Anhalt tatsächlich regieren, kommt es auch auf die Beamten an. Sie können den AfD-Anweisungen widersprechen. Tun sie es auch? mehr...",
-   "link": "https://taz.de/AfD-und-Beamte/!6214993/",
-   "published": "2026-09-23T09:34:00+00:00",
    "first_seen": "2026-09-23T10:03:57.150613+00:00",
    "paywall": false
   }
