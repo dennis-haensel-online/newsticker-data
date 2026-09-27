@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T19:03:18.840284+00:00",
+ "updated": "2026-09-27T20:04:07.341493+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,51 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+   "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen. Von L.-M. Hiltscher.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+   "published": "2026-09-27T20:02:02+00:00",
+   "first_seen": "2026-09-27T20:04:07.341493+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wüst: \"Möchte Ministerpräsident von Nordrhein-Westfalen bleiben“",
+   "summary": "Ist Friedrich Merz noch der Richtige? Im ZDF fordert Hendrik Wüst, der als möglicher Nachfolger gilt, ein Ende der Kanzlerdebatte - und stellt klar, wo er aktuell seine Zukunft sieht.",
+   "link": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-reformen-krise-kanzler-100.html",
+   "published": "2026-09-27T19:39:00+00:00",
+   "first_seen": "2026-09-27T20:04:07.341493+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Szene in ZDF-Dokumentation: Amthor eckt mit Strandkorb im Kanzleramt an",
+   "summary": "Eine Szene aus der Dokumentation „Inside CDU“ erhitzt die Gemüter in den sozialen Medien: Philipp Amthor lässt einen Strandkorb auf dem Balkon des Kanzleramts aufstellen. Schadet das seiner Partei?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/szene-in-zdf-dokumentation-amthor-eckt-mit-strandkorb-im-kanzleramt-an/100257762.html",
+   "published": "2026-09-27T19:23:04+00:00",
+   "first_seen": "2026-09-27T20:04:07.341493+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Politik am Balkan: Serbiens Präsident Vucic zurückgetreten",
+   "summary": "Vucic zieht als Machtstratege ins Rennen um das Amt des Ministerpräsidenten – nach Massenprotesten und politischem Druck. Als letzte Amtshandlung begnadigte er Oppositionelle.",
+   "link": "https://www.handelsblatt.com/politik/international/politik-am-balkan-serbiens-praesident-vucic-zurueckgetreten/100257760.html",
+   "published": "2026-09-27T19:12:04+00:00",
+   "first_seen": "2026-09-27T20:04:07.341493+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Leo XIV. in Frankreich: Papst trifft Missbrauchsopfer in Lourdes",
+   "summary": "Auch in Frankreich gab es zahlreiche Fälle sexuellen Missbrauchs durch katholische Geistliche. Leo XIV. betont, solches Unrecht dürfe sich nicht wiederholen.",
+   "link": "https://www.handelsblatt.com/politik/international/leo-xiv-in-frankreich-papst-trifft-missbrauchsopfer-in-lourdes/100257746.html",
+   "published": "2026-09-27T18:59:54+00:00",
+   "first_seen": "2026-09-27T20:04:07.341493+00:00",
    "paywall": true
   },
   {
@@ -13454,51 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-rubio-haben-putin-zu-g20-gipfel-in-miami-eingeladen/100256919.html",
    "published": "2026-09-23T15:50:14+00:00",
    "first_seen": "2026-09-23T17:03:36.950232+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Kampagne nach der Berlin-Wahl: Linkenhass und Holocaustrelativierung",
-   "summary": "Ein Journalist bringt die Linkspartei im ÖRR mit Auschwitz in Verbindung. Wer so spricht, macht Kampagne – und entleert den Antisemitismusbegriff. mehr...",
-   "link": "https://taz.de/Kampagne-nach-der-Berlin-Wahl/!6215733/",
-   "published": "2026-09-23T15:49:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "X klagt gegen Landesmedienanstalt: Alles für die Nazi-Parole",
-   "summary": "Vorm Verwaltungsgericht Hannover geht X gegen die Niedersächsische Landesmedienanstalt vor. Es geht um einen Post des Coronakritikers Stefan Homburg. mehr...",
-   "link": "https://taz.de/X-klagt-gegen-Landesmedienanstalt/!6215442/",
-   "published": "2026-09-23T15:48:00+00:00",
-   "first_seen": "2026-09-23T17:03:36.950232+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Harvey Weinstein zu 15 Jahren Haft verurteilt",
-   "summary": "Der ehemalige US-Filmproduzent Harvey Weinstein ist wegen eines Sexualverbrechens aus dem Jahr 2006 zu 15 Jahren Haft verurteilt worden. Der 74-Jährige sitzt bereits im Gefängnis.",
-   "link": "https://www.zdfheute.de/panorama/prominente/weinstein-urteil-haft-100.html",
-   "published": "2026-09-23T15:47:37+00:00",
-   "first_seen": "2026-09-23T17:03:36.950232+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "EU-Mittel für Ungarn: In Budapest klingelt die Kasse",
-   "summary": "Die EU-Kommission gibt 4,2 Milliarden Euro aus dem EU-Kohäsionsfonds frei. Damit würden die Reformbemühungen der neuen Regierung gewürdigt, heißt es. mehr...",
-   "link": "https://taz.de/EU-Mittel-fuer-Ungarn/!6215725/",
-   "published": "2026-09-23T15:46:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Wann die hohen Zinsen zum Problem für Aktien werden",
-   "summary": "Obwohl die Notenbanken die Zinswende eingeleitet haben, steigen die Kurse an den Börsen. Denn Anleger klammern eine starke Entwicklung aus, meint Ulf Sommer.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-wann-die-hohen-zinsen-zum-problem-fuer-aktien-werden/100256079.html",
-   "published": "2026-09-23T15:42:43+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
    "paywall": true
   }
  ]
