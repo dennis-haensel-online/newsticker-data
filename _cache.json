@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T21:03:59.469105+00:00",
+ "updated": "2026-09-27T22:03:55.210508+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommunalwahl: AfD verliert Stichwahlen in Niedersachsen – Hannover bleibt grün",
+   "summary": "In drei Stichwahlen hat die AfD Chancen auf ein erstes kommunales Spitzenamt in Niedersachsen. Alle drei gehen klar verloren. In Hannover setzt sich der Amtsinhaber durch.",
+   "link": "https://www.handelsblatt.com/politik/international/kommunalwahl-afd-verliert-stichwahlen-in-niedersachsen-hannover-bleibt-gruen/100257769.html",
+   "published": "2026-09-27T21:04:42+00:00",
+   "first_seen": "2026-09-27T22:03:55.210508+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Frankreich kürt die Pommes-Weltmeister",
+   "summary": "Zum vierten Mal wurde in Frankreich die Pommes-Weltmeisterschaft ausgetragen. 46 Kandidaten traten in mehreren Kategorien gegeneinander an.",
+   "link": "https://www.zdfheute.de/video/pommes-wm-100.html",
+   "published": "2026-09-27T20:57:00+00:00",
+   "first_seen": "2026-09-27T22:03:55.210508+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13482,24 +13500,6 @@
    "published": "2026-09-23T15:55:10+00:00",
    "first_seen": "2026-09-23T16:04:21.482954+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "PDF: Handelsblatt vom 24. September 2026 - Beilage",
-   "summary": "",
-   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-24.-september-2026-beilage/100256835.html",
-   "published": "2026-09-23T15:55:02+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "UN-Hochseeschutzabkommen: Deutschland ist wichtigem Umweltabkommen beigetreten",
-   "summary": "Schutzgebiete, nachhaltige Nutzung, gerechte Verteilung der Ressourcen – das UN-Hochseeabkommen gilt als Meilenstein für den Schutz der Ozeane. mehr...",
-   "link": "https://taz.de/UN-Hochseeabkommen-Deutschland-tritt-wichtigem-Umweltabkommen-bei/!6215566/",
-   "published": "2026-09-23T15:55:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
   }
  ]
 }
