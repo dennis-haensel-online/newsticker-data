@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-27T15:04:02.106872+00:00",
+ "updated": "2026-09-27T16:04:07.668064+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Hybride Bedrohungen | Erstmal die Fakten: Kurz vor der roten Linie",
+   "summary": "Russland greift Europa an: mit Sabotage, Spionage, Desinformation und Hacking. Von Tschechien über Deutschland bis Frankreich. Die Bedrohung nimmt zu. Ein Schadensreport.",
+   "link": "https://www.wiwo.de/politik/deutschland/hybride-bedrohungen-erstmal-die-fakten-kurz-vor-der-roten-linie/100257115.html",
+   "published": "2026-09-27T15:10:34+00:00",
+   "first_seen": "2026-09-27T16:04:07.668064+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Verspätungen und Flugausfälle: 53.000 Klagen von Passieren gegen Fluglinien im Halbjahr",
@@ -10,6 +19,15 @@
    "published": "2026-09-27T14:18:20+00:00",
    "first_seen": "2026-09-27T15:04:02.106872+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "China: Roboter unterhalten Freizeitpark-Gäste",
+   "summary": "Tanzen, den Weg zeigen, gegen Besucher in Spielen antreten: In einem neuen Freizeitpark im chinesischen Zhuhai unterhalten rund 300 KI-gesteuerte Roboter die Gäste.",
+   "link": "https://www.zdfheute.de/video/china-freizeitpark-ki-roboter--tourismus-video-100.html",
+   "published": "2026-09-27T13:53:00+00:00",
+   "first_seen": "2026-09-27T16:04:07.668064+00:00",
+   "paywall": false
   },
   {
    "label": "SZ",
@@ -881,24 +899,6 @@
    "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
    "link": "https://www.handelsblatt.com/unternehmen/management/ki-technologie-ist-die-zeit-des-managers-als-massenberuf-vorbei/100243656.html",
    "published": "2026-09-24T13:50:00+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-grosse-sprachmodelle-sind-darauf-ausgelegt-unsere-schwaechen-auszunutzen-01/100223312.html",
-   "published": "2026-09-24T13:47:00+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-auf-diese-ki-kompetenzen-legen-headhunter-besonderen-wert/100240522.html",
-   "published": "2026-09-24T13:45:00+00:00",
    "first_seen": "2026-09-24T14:04:35.198815+00:00",
    "paywall": true
   }
