@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T17:03:40.604517+00:00",
+ "updated": "2026-09-27T18:05:21.921131+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Mieten-Kampf in Spanien: Solidarität nach Zwangsräumung von 87-Jähriger",
+   "summary": "Ausgelöst durch einen besonders krassen Fall protestieren Zehntausende gegen hohe Mieten in Spanien. Die Regierung steht unter Druck, Linke fordern Enteignungen. mehr...",
+   "link": "https://taz.de/Mieten-Kampf-in-Spanien/!6216495/",
+   "published": "2026-09-27T18:00:00+00:00",
+   "first_seen": "2026-09-27T18:05:21.921131+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Bis zu 31 Grad: Sommerliche Temperaturen zum Wochenstart",
+   "summary": "Viel Sonnenschein und hohe Temperaturen in der neuen Woche: Ende September kommt der Sommer zurück. In den letzten Septembertagen werden bis zu 31 Grad erwartet.",
+   "link": "https://www.zdfheute.de/panorama/wetter-herbst-september-sonne-spaetsommer-altweibersommer-100.html",
+   "published": "2026-09-27T17:24:00+00:00",
+   "first_seen": "2026-09-27T18:05:21.921131+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -13482,24 +13500,6 @@
    "published": "2026-09-23T15:25:00+00:00",
    "first_seen": "2026-09-23T16:04:21.482954+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Gesundheits-Debatte: Immer wieder holt der Kanzler den Gesundheitsminister ein",
-   "summary": "Der neue Minister Carsten Linnemann stellt sich Fragen im Bundestag – und offenbart dabei, wie viel Geld sowohl bei Gesundheit und Pflege vor Jahresende noch fehlen.",
-   "link": "https://www.wiwo.de/politik/deutschland/gesundheits-debatte-immer-wieder-holt-der-kanzler-den-gesundheitsminister-ein/100256793.html",
-   "published": "2026-09-23T15:22:18+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Gesundheits-Debatte: Immer wieder holt der Kanzler den Gesundheitsminister ein",
-   "summary": "Der neue Minister Carsten Linnemann stellt sich Fragen im Bundestag – und offenbart dabei, wie viel Geld bei Gesundheit und Pflege vor Jahresende noch fehlen.",
-   "link": "https://www.wiwo.de/politik/deutschland/friedrich-merz-bei-der-gesundheits-debatte-holt-der-kanzler-den-gesundheitsminister-ein/100256793.html",
-   "published": "2026-09-23T15:22:18+00:00",
-   "first_seen": "2026-09-24T08:04:17.551928+00:00",
-   "paywall": true
   }
  ]
 }
