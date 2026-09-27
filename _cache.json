@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T07:04:26.240137+00:00",
+ "updated": "2026-09-27T08:04:05.349169+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -12,11 +12,119 @@
   },
   {
    "label": "ZDF",
+   "title": "Flucht aus Auschwitz",
+   "summary": "Mai 1944. Der polnische Jude Czeslaw Mordowicz arbeitet seit Wochen auf den Moment hin. Er will aus dem KZ fliehen. Ein verzweifelter Plan. Er weiß, was ihm droht, wenn die Flucht misslingt.",
+   "link": "https://www.zdf.de/video/dokus/terra-x-geschichte-kurz-100/flucht-aus-auschwitz-webvideo-100",
+   "published": "2026-09-27T08:00:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Terrorangriff vom 7. Oktober 2023: Auch Ägypten soll Israel vor Hamas-Gefahr gewarnt haben",
+   "summary": "Ägyptens Geheimdienstchef soll laut „Atlantic“ vor dem 7. Oktober 2023 in Israel gewesen sein – und über einem bevorstehenden Hamas-Angriff informiert haben. mehr...",
+   "link": "https://taz.de/Auch-Aegypten-soll-Israel-vor-Hamas-Gefahr-gewarnt-haben/!6216451/",
+   "published": "2026-09-27T07:49:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Baustellenkonzert in Berlin: Mit Helm in die Oper",
+   "summary": "Die Komische Oper Berlin wird saniert, der Spielbetrieb läuft in einem Ausweichquartier. Doch mit Bauhelm darf man zum Musikhören auch weiter ins Stammhaus. mehr...",
+   "link": "https://taz.de/Baustellenkonzert-in-Berlin/!6211080/",
+   "published": "2026-09-27T07:49:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Besuch beim Merkel-Portrait: Mit ihr wollen immer noch alle ein Foto",
+   "summary": "Im Berliner Bode-Museum ist die Sehnsucht zum Bild geworden. Angela Merkels Porträt kommt gut an – und füllt eine Leerstelle namens Friedrich Merz. mehr...",
+   "link": "https://taz.de/Besuch-beim-Merkel-Portrait/!6211066/",
+   "published": "2026-09-27T07:47:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Reisebus auf A96 umgekippt - zwei Tote, mehrere Verletzte",
+   "summary": "Auf der Autobahn 96 bei Buchloe im Ostallgäu ist ein Reisebus umgekippt, zwei Menschen sind dabei ums Leben gekommen.",
+   "link": "https://www.zdfheute.de/panorama/reisebus-a96-unfall-100.html",
+   "published": "2026-09-27T07:41:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Sondierungen in Berlin: SPD will mit Linken über Regierungsbildung sprechen",
+   "summary": "Die SPD sieht hohe Hürden für eine Koalition mit der Linken unter Elif Eralp in der Hauptstadt. Die Grünen machen ihre Teilnahme von klaren Zusagen abhängig. mehr...",
+   "link": "https://taz.de/Sondierungen-in-Berlin/!6216437/",
+   "published": "2026-09-27T07:30:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Pflegereform: Kassen warnen vor Pflege-Blockade – „Geld alle“",
+   "summary": "Nachdem die SPD weitere Ausbesserungen bei der Pflegereform gefordert hat, kommt Kritik von den Kassen: Die Reform müsse dringend umgesetzt werden, den Kassen ginge das Geld aus.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/pflegereform-kassen-warnen-vor-pflege-blockade-geld-alle/100257700.html",
+   "published": "2026-09-27T07:27:39+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Charisma in Krisenzeiten: Wie man die Massen gewinnt",
+   "summary": "Elif Eralp und Ulrich Siegmund sind grundverschieden. Ihre jüngsten Erfolge hatten aber eine gleiche Zutat: Charisma. Was wir daraus für die Zukunft lernen können. mehr...",
+   "link": "https://taz.de/Charisma-in-Krisenzeiten/!6216346/",
+   "published": "2026-09-27T07:18:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Industrie: Steht Deutschlands Chemiebranche vor einer Riesenfusion?",
+   "summary": "Der weltweit größte Chemiekonzern BASF erwägt, die Nummer zwei in Deutschland, Evonik aus Essen, zu kaufen. Dabei stecken beide Firmen in der Krise und streichen Tausende Jobs.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/evonik-basf-uebernahme-kamieth-jobs-li.3554330",
+   "published": "2026-09-27T07:04:02+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Laufen: Das Geschäft mit Marathon-Events und Carbonschuhen",
+   "summary": "205 Euro für einen Marathonstartplatz, 500 Euro für Carbonschuhe: Mit dem einst so drögen Laufsport werden in Deutschland heute Milliardenbeträge umgesetzt. Was hat den Wandel entfacht?",
+   "link": "https://www.spiegel.de/wirtschaft/laufen-das-geschaeft-mit-marathon-events-und-carbonschuhen-a-4e03d678-452e-4182-b623-ff5f753e2bf4#ref=rss",
+   "published": "2026-09-27T07:04:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
    "title": "Being ostdeutsch",
    "summary": "Siska, 27, fühlt sich \"ostdeutsch\". Bewusst wird ihr dies aber erst als sie in Freiburg studiert. Eine Generation sucht ihre Wurzeln.",
    "link": "https://www.zdf.de/video/reportagen/37-grad-leben-102/being-ostdeutsch-102",
    "published": "2026-09-27T07:03:00+00:00",
    "first_seen": "2026-09-27T07:04:26.240137+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Bergdoktor-Star Hans Sigl geht unter die Video-Podcaster",
+   "summary": "Im ZDF-Klassiker \"Der Bergdoktor\" hilft Hans Sigl Menschen als Arzt Dr. Martin Gruber. Jetzt startet er einen Podcast. Die Idee: Er will Menschen bei Alltagssorgen unterstützen.",
+   "link": "https://www.zdfheute.de/panorama/prominente/bergdoktor-star-hans-sigl-podcaster-100.html",
+   "published": "2026-09-27T07:03:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Kältewende für Städte - die neue Ära des Hitzeschutz",
+   "summary": "Klimaanlagen sind keine Lösung - der beste Hitzeschutz beginnt, bevor es heiß wird. Wie Schatten, kluge Gebäudeplanung und moderne Energiesysteme Städte kühler machen.",
+   "link": "https://www.zdfheute.de/wissen/klimagerecht-bauen-terrax-nano-thomas-auer-kolumne-100.html",
+   "published": "2026-09-27T07:00:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
    "paywall": false
   },
   {
@@ -116,6 +224,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/pflegereform-cdu-spd-pflegeversicherung-defizit-eigenanteil",
    "published": "2026-09-27T05:11:49+00:00",
    "first_seen": "2026-09-27T06:05:18.484880+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Pflegereform: Pflegekassen warnen vor SPD-Blockade der Pflegereform",
+   "summary": "Während die Pflegekassen vor einem Milliardenloch warnen, fordert die SPD Änderungen an der Reform. Sie möchte unter anderem einen fairen Beitrag der Privatversicherten.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/pflegereform-cdu-spd-pflegeversicherung-defizit-eigenanteil-gxe",
+   "published": "2026-09-27T05:11:49+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
    "paywall": true
   },
   {
@@ -1088,6 +1205,15 @@
    "link": "https://www.zdfheute.de/sport/olympia/olympische-spiele-bekanntgabe-deutscher-bewerber-muenchen-100.html",
    "published": "2026-09-26T12:43:00+00:00",
    "first_seen": "2026-09-26T13:03:36.260841+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wolke Hegenbarth warnt vor Kinderfotos im Netz",
+   "summary": "Wolke Hegenbarth findet Kinderfotos im Netz total gefährlich, eine neue ZDF-Serie nimmt Spione aufs Korn und Lars Eidinger liebt seinen Beruf - die aktuellen Promi-News in Bildern.",
+   "link": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-september-2026-100.html",
+   "published": "2026-09-26T12:40:00+00:00",
+   "first_seen": "2026-09-27T08:04:05.349169+00:00",
    "paywall": false
   },
   {
@@ -13374,132 +13500,6 @@
    "published": "2026-09-23T10:44:21+00:00",
    "first_seen": "2026-09-23T11:03:55.917659+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "UN-Generalversammlung: Trump über den Iran: „Soll ich sie in die Hölle schicken?“",
-   "summary": "In seiner Rede vor den Vereinten Nationen hat der US-Präsident den Krieg gegen den Iran verteidigt. Das Regime in Teheran sei der „Hauptsponsor des Terrors weltweit” und eine Gefahr für alle in der Region, sagte Trump.",
-   "link": "https://www.handelsblatt.com/video/politik/un-generalversammlung-trump-ueber-den-iran-soll-ich-sie-in-die-hoelle-schicken/100256853.html",
-   "published": "2026-09-23T10:44:19+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Tarifrunde: IG Metall fordert Lohnplus und Gewinnbeteiligung",
-   "summary": "Die IG Metall fordert in der anstehenden Metall-Tarifrunde fünf Prozent mehr Geld und eine Gewinnbeteiligung in \"Boom-Unternehmen\". Die Arbeitgeber nennen das \"realitätsfern\".",
-   "link": "https://www.zdfheute.de/wirtschaft/ig-metall-beschaeftigte-metall-elektro-industrie-tarifrunde-100.html",
-   "published": "2026-09-23T10:43:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Klimawandel: Umweltminister fordert Aufnahme von  Klimaanpassung ins Grundgesetz",
-   "summary": "Seit vielen Jahren will die Politik das Klima schützen, jetzt legt Umweltminister Schneider den Fokus auf die Klimaanpassung. Auf einem Extremwetterkongress plädiert er für eine Grundgesetzänderung.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/klimawandel-umweltminister-fordert-aufnahme-von-klimaanpassung-ins-grundgesetz/100256870.html",
-   "published": "2026-09-23T10:37:21+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "KI im Job: Forscher warnen vor Technostress bei körperlicher Arbeit",
-   "summary": "Menschen ohne Bürojobs berichten bei zunehmender Digitalisierung von schlechterer Gesundheit, zeigt eine Studie. Forscher sprechen von möglichem »Technostress« – und zeigen Lösungen auf.",
-   "link": "https://www.spiegel.de/wirtschaft/ki-im-job-forscher-warnen-vor-technostress-bei-koerperlicher-arbeit-a-02d82c02-a29b-4ebd-91e6-e8af92fa4769#ref=rss",
-   "published": "2026-09-23T10:29:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Quecksilberverdacht: DHL-Paketzentrum in Leizen evakuiert",
-   "summary": "In Leizen in Mecklenburg-Vorpommern wurde ein DHL-Paketzentrum evakuiert. Eine Mitarbeiterin hatte über Symptome geklagt, die auf Kontakt mit Quecksilber hindeuten könnten.",
-   "link": "https://www.zdfheute.de/panorama/quecksilber-verdacht-dhl-paketzentrum-evakuiert-leizen-100.html",
-   "published": "2026-09-23T10:29:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Wahlrecht: Das verkannte Schweizer Erfolgsrezept",
-   "summary": "Eine Besonderheit im Wahlrecht der Eidgenossen fördert gute Alltagspolitik und begrenzt politische Extreme. Es wäre an der Zeit, dies auch in Deutschland auszuprobieren.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wahlrecht-das-verkannte-schweizer-erfolgsrezept-als-vorbild-fuer-deutschland-accg-201217375.html",
-   "published": "2026-09-23T10:28:45+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Timotheus Höttges: Timotheus Höttges: »KI hilft uns mit unserer Überforderung«",
-   "summary": "Schon in der Schule wollte er CEO werden. Nun leitet er die Deutschen Telekom. Im Gespräch mit Rainer Esser blickt er auf das, was er hinterlassen will.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/timotheus-hoettges-deutsche-telekom-ceo-ki",
-   "published": "2026-09-23T10:27:47+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Christian Sewing: Wie trifft man radikale Entscheidungen, Christian Sewing?",
-   "summary": "Er kam als Lehrling und führt heute die Deutsche Bank. Im Gespräch mit Rainer Esser erzählt der CEO von einsamen Momenten an der Spitze und dem Abstand zur eigenen Rolle.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/christian-sewing-deutsche-bank-ceo-verantwortung",
-   "published": "2026-09-23T10:27:26+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Innovationen: „Wir sind zu pessimistisch“",
-   "summary": "Rafael Laguna de la Vera investiert Steuergeld in Forschungsprojekte für die Technologien von morgen. Er glaubt fest an die deutsche Innovationskraft – wenn wir uns nur trauten, mehr zu scheitern.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/deutschland-innovation-forschung-bundesagentur-sprunginnovationen-li.3551861",
-   "published": "2026-09-23T10:27:21+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "HBO-Serie „Youth“: Beziehungen und Menopause",
-   "summary": "Alex ist längst sie selbst und schwankt trotzdem zwischen Selbstermächtigung und -sabotage, zwischen Alter und Jugend. Die Serie „Youth“ ist ein Segen. mehr...",
-   "link": "https://taz.de/HBO-Serie-Youth-Zwischen-Selbstermaechtigung-und--sabotage/!6215376/",
-   "published": "2026-09-23T10:27:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Patienten mit Skepsis: „Das kenne ich“ - Was Gruppentherapie entlastend macht",
-   "summary": "Sorgen, Ängste oder traumatische Erfahrungen: Details der eigenen Gefühlswelt mit einer Gruppe zu teilen, ist für viele zunächst unvorstellbar. Die Gruppentherapie hat aber hilfreiche Seiten.",
-   "link": "https://www.handelsblatt.com/technik/medizin/patienten-mit-skepsis-das-kenne-ich-was-gruppentherapie-entlastend-macht/100256871.html",
-   "published": "2026-09-23T10:26:08+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: Wie die USA Xi Jinping von einem Krieg im Pazifik abhalten wollen",
-   "summary": "Ein Treffen von Xi Jinping und Donald Trump in Washington soll Spannungen zwischen den USA und China reduzieren. Auf Hawaii wappnen sich die USA derweil für den Ernstfall. Ein Ortsbesuch.",
-   "link": "https://www.handelsblatt.com/politik/international/china-wie-die-usa-einen-krieg-mit-chinaproben-um-das-schlimmste-zu-verhindern-01/100251367.html",
-   "published": "2026-09-23T10:26:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Zwangsrekrutierungen für russische Armee: In Shorts und Badeschlappen entführt",
-   "summary": "Wegen hohen Verlusten braucht die russische Armee neues Kanonenfutter für die Front. Immer öfter werden auch kranke Menschen zwangsrekrutiert. mehr...",
-   "link": "https://taz.de/Zwangsrekrutierungen-fuer-russische-Armee/!6215357/",
-   "published": "2026-09-23T10:25:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Großer Felssturz an der Zugspitze: Was bekannt ist",
-   "summary": "Ein Felssturz an der Zugspitze hat Deutschlands höchsten Berg in eine große Staubwolke gehüllt. Gefahr für Wege besteht nicht - vorbei ist das Bröckeln aber offenbar nicht.",
-   "link": "https://www.zdfheute.de/wissen/zugspitze-felssturz-alpen-100.html",
-   "published": "2026-09-23T10:24:00+00:00",
-   "first_seen": "2026-09-23T11:03:55.917659+00:00",
-   "paywall": false
   }
  ]
 }
