@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-27T12:05:33.501877+00:00",
+ "updated": "2026-09-27T13:03:53.081236+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Neue Studie: Spionage steigerte Wirtschaftsleistung der DDR deutlich",
+   "summary": "Die Stasi verschaffte Unternehmen im Kalten Krieg wertvolle Informationen, die ihre Wertschöpfung um Milliarden steigerten. Die Studie hat dabei auch weitreichende aktuelle Bezüge.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ddr-studie-spionage-trug-zu-deutlich-hoeherer-wirtschaftsleistung-bei-accg-201266378.html",
+   "published": "2026-09-27T12:44:47+00:00",
+   "first_seen": "2026-09-27T13:03:53.081236+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Das endgültige Ende der Nullzins-Ära steht kurz bevor",
+   "summary": "Noch eine Notenbank weltweit hält den Leitzins bei null Prozent. Doch auch in diesem Währungsraum zieht die Inflation an. Ein globales geldpolitisches Experiment endet, meint Jakob Blume.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-das-endgueltige-ende-der-nullzins-aera-steht-kurz-bevor/100256081.html",
+   "published": "2026-09-27T12:36:46+00:00",
+   "first_seen": "2026-09-27T13:03:53.081236+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-09-23T15:55:00+00:00",
    "first_seen": "2026-09-23T16:04:21.482954+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Teure Tankregel, Knebelverträge und gute Wirtschafts-News",
-   "summary": "Der ADAC kritisiert die 12-Uhr-Regel, Deutschland kauft Kampfjets mit Einschränkungen und die OECD hebt ihre Wachstumsprognose an.",
-   "link": "https://www.zdfheute.de/briefing/adac-tanken-kampfjets-oecd-prognose-zdfheute-update-100.html",
-   "published": "2026-09-23T15:11:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Neue Prognosen: Deutsche Wirtschaft wächst viel stärker",
-   "summary": "Nach schwierigen Zeiten wird die Wirtschaftsleistung dieses Jahr um mehr als ein Prozent zunehmen, sagen Konjunkturforscher voraus. Das wäre das erste nennenswerte Wachstum seit Ausbruch des Ukraine-Kriegs. Der Energieschock fällt weniger…",
-   "link": "https://www.sueddeutsche.de/wirtschaft/deutschland-wirtschaftswachstum-oecd-prognose-inflation-li.3552608",
-   "published": "2026-09-23T14:44:35+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": true
   }
  ]
 }
