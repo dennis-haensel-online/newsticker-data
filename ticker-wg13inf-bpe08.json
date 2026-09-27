@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-27T03:04:15.713746+00:00",
+ "updated": "2026-09-27T04:04:07.271253+00:00",
  "items": [
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Open AI pausiert KI-Training nach neuem Zwischenfall",
+   "summary": "Die Berichte über eigenständige Hacking-Aktivitäten von KI-Agenten häufen sich. Bei Open AI zieht man nun erstmal die Reißleine, was das Training bestimmter Modelle betrifft.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chatgpt-openai-usa-technologie-li.3554508",
+   "published": "2026-09-27T03:20:15+00:00",
+   "first_seen": "2026-09-27T04:04:07.271253+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall",
@@ -891,15 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-bremst-robotik-ausbau-in-deutschland/100257177.html",
    "published": "2026-09-24T11:40:14+00:00",
    "first_seen": "2026-09-24T12:05:14.330788+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Automatisierung: Autoindustrie bremst Robotik-Ausbau in Deutschland",
-   "summary": "Deutschland ist bei der industriellen Automatisierung zwar Europas führende Volkswirtschaft. Doch im weltweiten Wettlauf droht der Standort, den Anschluss zu verlieren.",
-   "link": "https://www.wiwo.de/unternehmen/auto/autoindustrie-robotik-ausbau-in-deutschland-wird-gebremst/100257177.html",
-   "published": "2026-09-24T11:40:14+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
    "paywall": true
   }
  ]
