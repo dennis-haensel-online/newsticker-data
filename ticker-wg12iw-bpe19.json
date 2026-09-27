@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-27T14:03:49.869469+00:00",
+ "updated": "2026-09-27T15:04:02.106872+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Arbeitsmarkt: In diesen Branchen gibt es wieder mehr Chancen für Führungskräfte",
+   "summary": "Der Arbeitsmarkt für Manager erholt sich. Zumindest leicht. Exklusive Daten zeigen, wo aktuell wieder mehr Führungspositionen ausgeschrieben werden.",
+   "link": "https://www.wiwo.de/erfolg/beruf/stellenangebote-fuer-fuehrungskraefte-wo-steigen-die-chancen-fuer-manager/100255101.html",
+   "published": "2026-09-27T15:02:15+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
    "paywall": true
   },
   {
@@ -892,15 +901,6 @@
    "published": "2026-09-24T03:30:07+00:00",
    "first_seen": "2026-09-24T04:03:59.882005+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "UN-Hochseeschutzabkommen: Deutschland ist wichtigem Umweltabkommen beigetreten",
-   "summary": "Schutzgebiete, nachhaltige Nutzung, gerechte Verteilung der Ressourcen – das UN-Hochseeabkommen gilt als Meilenstein für den Schutz der Ozeane. mehr...",
-   "link": "https://taz.de/UN-Hochseeabkommen-Deutschland-tritt-wichtigem-Umweltabkommen-bei/!6215566/",
-   "published": "2026-09-23T15:55:00+00:00",
-   "first_seen": "2026-09-23T16:04:21.482954+00:00",
-   "paywall": false
   }
  ]
 }

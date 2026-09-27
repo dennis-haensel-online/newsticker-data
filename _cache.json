@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27T14:03:49.869469+00:00",
+ "updated": "2026-09-27T15:04:02.106872+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,114 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Arbeitsmarkt: In diesen Branchen gibt es wieder mehr Chancen für Führungskräfte",
+   "summary": "Der Arbeitsmarkt für Manager erholt sich. Zumindest leicht. Exklusive Daten zeigen, wo aktuell wieder mehr Führungspositionen ausgeschrieben werden.",
+   "link": "https://www.wiwo.de/erfolg/beruf/stellenangebote-fuer-fuehrungskraefte-wo-steigen-die-chancen-fuer-manager/100255101.html",
+   "published": "2026-09-27T15:02:15+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Landesbank Nord/LB: Wieso nur will Niedersachsen sich das antun?",
+   "summary": "Das Bundesland will seinen Anteil bei der umstrittenen Landesbank Nord/LB auf über 80 Prozent erhöhen. Was der Ausbau kostet und welche Risiken für das Land bleiben.",
+   "link": "https://www.wiwo.de/unternehmen/banken/landesbank-nord-lb-warum-nur-will-sich-rot-gruen-in-niedersachsen-eine-staatsbank-basteln/100257382.html",
+   "published": "2026-09-27T15:00:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Ausleihen statt kaufen, was man nur selten braucht",
+   "summary": "In der \"bib der dinge\" in Bochum kann man fast alles ausleihen: vom Akkubohrer bis zum Zelt. Gründerin Najine Ameli setzt auf Nachhaltigkeit und das Prinzip \"Teilen statt Kaufen\".",
+   "link": "https://www.zdfheute.de/panorama/bochum-bibliothek-bib-gegenstaende-ausleihen-100.html",
+   "published": "2026-09-27T14:44:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Malawi: Wenn Diesel zum Luxus wird",
+   "summary": "Malawi muss seinen Treibstoff importieren, hat aber kaum Devisen. Der Preisschock auf dem Weltmarkt verschärft die Probleme - mit massiven Folgen.",
+   "link": "https://www.zdfheute.de/politik/ausland/afrika-malawi-spritpreise-diesel-oel-nahostkonflikt-100.html",
+   "published": "2026-09-27T14:43:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Frankreich-Besuch: Papst verurteilt Gesetze zu Sterbehilfe",
+   "summary": "Bei seinem Besuch in Lourdes richtet Leo XIV. einen deutlichen Appell an die Ärzteschaft: „Was legal ist, ist nicht zwangsläufig auch sittlich erlaubt.“",
+   "link": "https://www.handelsblatt.com/politik/international/frankreich-besuch-papst-verurteilt-gesetze-zu-sterbehilfe/100257746.html",
+   "published": "2026-09-27T14:33:02+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Rhein: Müssen Wählern \"Brücken zurück in die Mitte bauen\"",
+   "summary": "Hessens Ministerpräsident Boris Rhein fordert Konsequenzen aus den Wahlniederlagen, warnt aber vor Personaldebatten. Stattdessen müsse die CDU ihre \"Politik verändern\", sagt er.",
+   "link": "https://www.zdfheute.de/politik/deutschland/boris-rhein-cdu-kanzler-merz-reformen-afd-100.html",
+   "published": "2026-09-27T14:27:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Verspätungen und Flugausfälle: 53.000 Klagen von Passieren gegen Fluglinien im Halbjahr",
+   "summary": "Die Zahl der Klagen von Fluggästen wegen Verspätungen ist deutlich gesunken. Zivilgerichte ächzen trotzdem unter der Last von jährlich rund 100.000 Klagen. KI ist nur eine kleine Hilfe.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fluggastklagen-53-000-klagen-gegen-airlines-im-halbjahr-accg-201266768.html",
+   "published": "2026-09-27T14:18:20+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Deutsch-russiches Treffen in New York: Nicht satisfaktionsfähig",
+   "summary": "Das Gespräch zwischen Wadephul und Lawrow zeigt Russlands Desinteresse an Verhandlungen. Die Demütigung hätte der Außenminister sich ersparen können. mehr...",
+   "link": "https://taz.de/Deutsch-russsiches-Treffen-in-New-York/!6216751/",
+   "published": "2026-09-27T14:18:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Israel vor der Parlamentswahl: Opposition sammelt sich gegen Netanjahu",
+   "summary": "Die jüdischen Oppositionsparteien wollen gegen Netanjahu zusammenarbeiten. Smotrich für Annexionen im Gazastreifen und Libanon und Krieg im Westjordanland. mehr...",
+   "link": "https://taz.de/Opposition-sammelt-sich-gegen-Netanjahu/!6216770/",
+   "published": "2026-09-27T14:03:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Demonstrationen: DGB-Chefin ruft Regierung nach Protesten zu Kurskorrektur auf",
+   "summary": "175.000 Menschen haben sich laut Gewerkschaftsbund bundesweit zu Protesten gegen Sozialkürzungen versammelt. DGB-Chefin Fahimi sieht nun die Bundesregierung gefordert.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-dgb-chefin-ruft-regierung-nach-protesten-zu-kurskorrektur-auf/100257742.html",
+   "published": "2026-09-27T14:02:11+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Gewalt in Bistum Osnabrück und Münster: Geistliche Gemeinschaften sind kein Safe Space",
+   "summary": "Eine neue Studie zeigt, welche besondere Form der Gewalt in Geistlichen Gemeinschaften droht. Der spirituelle Missbrauch wurde erstmals erforscht. mehr...",
+   "link": "https://taz.de/Gewalt-in-Bistum-Osnabrueck-und-Muenster/!6215348/",
+   "published": "2026-09-27T13:54:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftwaffenstützpunkt: Vorfall an Militärbasis: Fünf Männer unter Terrorverdacht",
+   "summary": "Alarm außerhalb eines britischen Luftwaffenstützpunkts: Fünf Männer stehen im Verdacht, einen Terroranschlag vorbereitet zu haben. Die Militärbasis wird von der US-Luftwaffe genutzt.",
+   "link": "https://www.handelsblatt.com/politik/international/luftwaffenstuetzpunkt-vorfall-an-militaerbasis-fuenf-maenner-unter-terrorverdacht/100257743.html",
+   "published": "2026-09-27T13:49:22+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
    "paywall": true
   },
   {
@@ -315,6 +423,15 @@
    "published": "2026-09-27T12:00:00+00:00",
    "first_seen": "2026-09-27T13:03:53.081236+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wolfsburg mit Kantersieg und Traumtoren weiter",
+   "summary": "Die Frauen vom VfL Wolfsburg lassen Zweitligst SC Sand nicht den Hauch einer Chance. In der ersten Runde des DFB-Pokals gewinnt der VfL haushoch mit 6:0.",
+   "link": "https://www.zdfheute.de/sport/fussball-dfb-pokal-frauen/video/sc-sand-vfl-wolfsburg-1-runde-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-09-27T12:00:00+00:00",
+   "first_seen": "2026-09-27T15:04:02.106872+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -13382,123 +13499,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-startet-mit-verlusten-warten-auf-xi-trump-treffen/100256895.html",
    "published": "2026-09-23T14:27:43+00:00",
    "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vereinte Nationen: Lawrow und Rubio treffen sich bei UN in New York",
-   "summary": "Am zweiten Tag der UN-Generaldebatte steht der Ukraine-Krieg im Fokus. Bevor der ukrainische Präsident vor der Vollversammlung spricht, kommen die Chefdiplomaten Russlands und der USA zusammen.",
-   "link": "https://www.handelsblatt.com/politik/international/vereinte-nationen-lawrow-und-rubio-treffen-sich-bei-un-in-new-york/100256919.html",
-   "published": "2026-09-23T14:26:42+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "AfD-Besuch in Österreich: Nachhilfe in Sachen Machtergreifung",
-   "summary": "Eine Delegation der AfD Sachsen-Anhalt trifft sich zum Meinungsaustausch mit Kollegen der rechtsextremen FPÖ. Deren Chef Herbert Kickl ist voller Lob. mehr...",
-   "link": "https://taz.de/AfD-Besuch-in-Oesterreich/!6215635/",
-   "published": "2026-09-23T14:26:00+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie: Der weltweit größte Autozulieferer Bosch wächst – allerdings nur noch durch Zukauf",
-   "summary": "Bosch legt erstmals Halbjahreszahlen vor. Gewachsen ist der Stiftungskonzern nur dank einer Übernahme im Heizungs- und Klimageschäft. Sorgen bereitet der Autobereich.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/bosch-der-groesste-autozulieferer-der-welt-waechst-nur-durch-zukauf/100256497.html",
-   "published": "2026-09-23T14:24:27+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "AfD: Ein Programm zur Zerstörung der Wirtschaft",
-   "summary": "Euro-Ausstieg, De-Industrialisierung, russisches Gas: Die Pläne der AfD hätten für das Land verheerende Folgen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/afd-wirtschaft-deutschland-energie-politik-folgen-li.3552083",
-   "published": "2026-09-23T14:21:19+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Donald Trumps UN-Rede: Der Hegemon tritt um sich",
-   "summary": "Der US-Präsident bleibt sich mit seiner Rede vor der UN-Generalversammlung selbst treu. Er lügt und droht in gewohnter Manier. mehr...",
-   "link": "https://taz.de/Donald-Trump-in-New-York/!6215640/",
-   "published": "2026-09-23T14:11:00+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Befragung von Linnemann und Pistorius",
-   "summary": "Befragung der Bundesregierunng im Bundestag - Diesmal stellen sich Gesundheitminister Carsten Linnemann (CDU) und Verteidigungsminister Boris Pistorius (SPD) den Fragen der Abgeordneten",
-   "link": "https://www.phoenix.de/die-woche-a-5234584.html",
-   "published": "2026-09-23T14:10:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Altersvorsorge: Vom Minister zum Investor: Christian Lindner steigt bei Fintech Ginmon ein",
-   "summary": "Sein Plan für ein Altersvorsorgedepot war noch am Aus der Ampelkoalition gescheitert. Nun will der ehemalige Finanzminister als Investor von der Reform der aktuellen Regierung profitieren.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/altersvorsorgedepot-christian-lindner-steigt-bei-fintech-ginmon-ein/100256120.html",
-   "published": "2026-09-23T14:00:00+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Physische KI – Wo die nächsten KI-Gewinner warten",
-   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-physische-ki-wo-die-naechsten-ki-gewinner-warten/100252788.html",
-   "published": "2026-09-23T13:59:49+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Experten erwarten Roboter-Rally an der Börse – Diese Aktien empfehlen Analysten schon jetzt",
-   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-analysten-erwarten-roboter-rally-diese-aktien-empfehlen-sie-jetzt/100252788.html",
-   "published": "2026-09-23T13:59:49+00:00",
-   "first_seen": "2026-09-23T15:03:40.861103+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Zinsen: Geldmarkt vs. Tagesgeld – was sich wirklich lohnt",
-   "summary": "Geldmarkt-ETFs bieten Anlegern die Möglichkeit, Cash kurzfristig verzinst zu parken. Die Produkte haben einige Vorteile gegenüber Tagesgeld.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/zinsen-geldmarkt-vs.-tagesgeld-was-sich-wirklich-lohnt/100256649.html",
-   "published": "2026-09-23T13:59:27+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Flixtrain bestellt neue Hochgeschwindigkeitszüge",
-   "summary": "ADAC fordert Abschaffung der Zwölf-Uhr-Regel an Tankstellen +++ Welche Manager zu Trumps Staatsbankett für Xi kommen +++ Trump will Begriff KI mit „Superintelligenz“ ersetzen +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-flixtrain-bestellt-neue-hochgeschwindigkeitszuege-faz-200452404.html",
-   "published": "2026-09-23T13:59:00+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Tom Cruise feiert \"Digger\" mit Royals",
-   "summary": "Tom Cruise feierte in Begleitung von Prinz William und Prinzessin Catherine seinen neuen Film. Eine elegante Geste sorgte für Aufmerksamkeit.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/tom-cruise-digger-royals-100.html",
-   "published": "2026-09-23T13:59:00+00:00",
-   "first_seen": "2026-09-24T07:04:59.934858+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Datenschutz: Warum schnüffelnde Mitarbeiter teuer werden können",
-   "summary": "Verstoßen Mitarbeiter aus persönlichen Motiven im Job gegen den Datenschutz, riskieren sie Strafen. Doch auch Unternehmen bringen sie damit in Schwierigkeiten.",
-   "link": "https://www.wiwo.de/erfolg/management/datenschutz-warum-schnueffelnde-mitarbeiter-teuer-werden-koennen/100254688.html",
-   "published": "2026-09-23T13:57:19+00:00",
-   "first_seen": "2026-09-23T14:04:42.420718+00:00",
    "paywall": true
   }
  ]
