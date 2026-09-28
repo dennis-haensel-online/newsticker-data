@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T13:05:51.143875+00:00",
+ "updated": "2026-09-28T14:07:12.252975+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Chipkonzern: Nvidia stockt Aktienrückkaufprogramm um 150 Milliarden US-Dollar auf",
+   "summary": "Der KI-Boom hat Nvidia zum wertvollsten Unternehmen der Welt gemacht. Nvidia-Chef Jensen Huang wettet mit dem Aktienrückkauf auf eine wachstumsträchtige Zukunft.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/us-chipkonzern-nvidia-stockt-aktienrueckkaufprogramm-deutlich-auf/100257960.html",
+   "published": "2026-09-28T13:52:42+00:00",
+   "first_seen": "2026-09-28T14:07:12.252975+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Institute sehen Lichtblicke am Arbeitsmarkt",
+   "summary": "Noch überwiegen in den meisten Wirtschaftsbranchen die Pläne, Jobs abzubauen. Doch es mehren sich positive Signale.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-institute-sehen-lichtblicke-am-arbeitsmarkt/100257932.html",
+   "published": "2026-09-28T13:02:05+00:00",
+   "first_seen": "2026-09-28T14:07:12.252975+00:00",
    "paywall": true
   },
   {
@@ -801,42 +819,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-liegt-trotz-starker-konjunkturaussichten-kaum-veraendert/100257045.html",
    "published": "2026-09-24T11:12:04+00:00",
    "first_seen": "2026-09-24T12:05:14.330788+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Wachstum auf Pump: Wirtschaft nimmt vorerst Fahrt auf",
-   "summary": "Die deutsche Wirtschaft befindet sich im Aufschwung: Die führenden Wirtschaftsinstitute heben ihre Prognosen deutlich an – doch die Experten warnen: Das Ganze steht auf wackligen Beinen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-wachstum-auf-pump-wirtschaft-nimmt-vorerst-fahrt-auf/100257105.html",
-   "published": "2026-09-24T11:00:30+00:00",
-   "first_seen": "2026-09-24T12:05:14.330788+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Institut für Arbeitsmarkt- und Berufsforschung: Institut erwartet Verlust von 350.000 Jobs bis Ende 2027",
-   "summary": "Das unerwartete Wirtschaftswachstum kommt laut einer Prognose des IAB nicht am Arbeitsmarkt an. Vor allem in der Industrie erwarten Ökonomen einen weiteren Stellenabbau.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/iab-prognose-erwerbstaetigkeit-deutschland-demografischer-wandel-arbeitsmarkt-gxe",
-   "published": "2026-09-24T10:36:22+00:00",
-   "first_seen": "2026-09-24T11:04:11.540074+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Finanzen: Finanzagentur rechnet für 2027 mit neuen Rekordschulden",
-   "summary": "Um das Wirtschaftswachstum zu stützen, dürfte der Bund auch 2027 Schulden in Rekordhöhe aufnehmen, sagt die Finanzagentur voraus. Das hat auch Folgen für Staatsanleihen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/finanzen-finanzagentur-rechnet-fuer-2027-mit-neuen-rekordschulden/100256292.html",
-   "published": "2026-09-24T10:30:59+00:00",
-   "first_seen": "2026-09-24T11:04:11.540074+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Trockenheit: El Niño bringt die Stabilität ganzer Nationen in Gefahr",
-   "summary": "Nach Trumps Zöllen und Irankrieg droht der wachstumsstärksten Region der Welt die nächste Gefahr: extreme Trockenheit, die Preise und Schulden steigen lässt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/el-nino-bringt-die-stabilitaet-ganzer-nationen-in-gefahr-accg-201255646.html",
-   "published": "2026-09-24T10:02:03+00:00",
-   "first_seen": "2026-09-24T11:04:11.540074+00:00",
    "paywall": true
   }
  ]
