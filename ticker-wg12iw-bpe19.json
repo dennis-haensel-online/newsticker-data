@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T06:05:37.271632+00:00",
+ "updated": "2026-09-28T07:07:05.897376+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Beschäftigungsbarometer: Arbeitsmarkt stabilisiert sich laut Ifo – „Echte Erholung noch nicht in Sicht“",
+   "summary": "Die Wirtschaft wächst wieder, doch der Arbeitsmarkt hinkt hinterher: Das Ifo-Institut erwartet zunächst weiter sinkende Erwerbstätigkeit.",
+   "link": "https://www.wiwo.de/politik/konjunktur/beschaeftigungsbarometer-arbeitsmarkt-stabilisiert-sich-laut-ifo-echte-erholung-noch-nicht-in-sicht/100257842.html",
+   "published": "2026-09-28T06:35:11+00:00",
+   "first_seen": "2026-09-28T07:07:05.897376+00:00",
    "paywall": true
   },
   {
@@ -81,6 +90,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257787.html",
    "published": "2026-09-28T01:50:05+00:00",
    "first_seen": "2026-09-28T02:04:10.119144+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
+   "summary": "SAP erwartet enormes Wachstumspotenzial mit eigenen KI‑Angeboten. Konzernchef Klein sieht einen „einzigartigen Vorteil“.",
+   "link": "https://www.wiwo.de/unternehmen/it/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257788.html",
+   "published": "2026-09-28T01:50:05+00:00",
+   "first_seen": "2026-09-28T07:07:05.897376+00:00",
    "paywall": true
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/deutschland-im-aufschwung-institute-heben-wachstumsprognose-accg-201258083.html",
    "published": "2026-09-24T08:00:01+00:00",
    "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sparen: Vier Prozent und mehr – wann beenden die Tagesgeld-Zinsen ihren Höhenflug?",
-   "summary": "Ein scharfer Wettbewerb und die Zinserhöhung der EZB treiben die Zinsen auf Tagesgeldkonten in die Höhe. Was Fachleute nun raten und wie hoch der Zins mindestens sein muss.",
-   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/zinsen-was-sparer-beim-tagesgeld-jetzt-beachten-sollten/100255706.html",
-   "published": "2026-09-24T07:48:00+00:00",
-   "first_seen": "2026-09-24T08:04:17.551928+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Europas ungenutzte Wachstumsreserve",
-   "summary": "Deutschland profitiert sehr vom EU‑Binnenmarkt. Daher sollte Berlin europäische Lösungen wie die Kapitalmarktaufsicht nicht hemmen, meint Andreas Pinkwart.",
-   "link": "https://www.handelsblatt.com/meinung/global-challenges/gastkommentar-europas-ungenutzte-wachstumsreserve/100256156.html",
-   "published": "2026-09-24T07:39:42+00:00",
-   "first_seen": "2026-09-24T08:04:17.551928+00:00",
    "paywall": true
   }
  ]
