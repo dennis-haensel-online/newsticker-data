@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-28T08:06:25.001911+00:00",
+ "updated": "2026-09-28T09:05:58.674983+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Inflation: Ökonomen erwarten für September höchsten Preisanstieg seit 2023",
+   "summary": "Zuletzt lagen die Ölpreise zeitweise deutlich über der Marke von 100 Dollar. Die entsprechend hohen Spritpreise dürften nun die Teuerungsrate über die Drei-Prozent-Hürde getrieben haben.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/inflation-oekonomen-erwarten-fuer-september-hoechsten-preisanstieg-seit-2023/100257882.html",
+   "published": "2026-09-28T08:27:47+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Inflation: Rekordhohe Spritpreise treiben Inflation auf höchsten Stand seit 2023",
+   "summary": "Die Inflation erreicht im September wohl den höchsten Stand seit 2023. Haupttreiber sind die Spritpreise.",
+   "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekordhohe-spritpreise-treiben-inflation-auf-hoechsten-stand-seit-2023/100257879.html",
+   "published": "2026-09-28T08:13:37+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Kommentar: BASF nutzt die große Schwäche von Evonik – und das ist gut so",
@@ -631,15 +649,6 @@
    "published": "2026-09-24T06:06:31+00:00",
    "first_seen": "2026-09-24T07:04:59.934858+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
-   "summary": "Der DAX dürfte heute zum Handelsbeginn sinken. Der kräftige Anstieg des Ölpreises schürt neue Inflations- und Zinssorgen. Im Fokus stehen zudem der Trump-Xi-Gipfel und die neue Konjunkturprognose.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
-   "published": "2026-09-24T05:26:00+00:00",
-   "first_seen": "2026-09-24T06:05:25.199286+00:00",
-   "paywall": false
   }
  ]
 }

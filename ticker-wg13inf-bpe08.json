@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-28T08:06:25.001911+00:00",
+ "updated": "2026-09-28T09:05:58.674983+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
+   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-technisch-ist-es-machbar-dass-unternehmen-komplett-automatisiert-laufen/100189694.html",
+   "published": "2026-09-28T08:25:00+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/berufe-in-diesen-branchen-auf-dem-arbeitsmarkt-sind-ki-kompetenzen-gefragt/100251207.html",
+   "published": "2026-09-28T08:24:00+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Chatbot: Diese KI-Kenntnisse retten Ihren Job",
+   "summary": "KI verändert die Arbeitswelt rasant. Und damit wächst der Druck auf Beschäftigte. Unser interaktives Tool zeigt, wo Sie stehen – und was Experten zur richtigen Weiterbildung raten.",
+   "link": "https://www.handelsblatt.com/karriere/technologie-testen-sie-mit-dem-chatbot-ihre-ki-kompetenz-im-beruf/100249593.html",
+   "published": "2026-09-28T08:23:00+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Zukunft der Arbeit: KI muss kein Jobkiller sein",
+   "summary": "Künstliche Intelligenz wird immer besser darin, menschliche Tätigkeiten zu übernehmen. Doch ob und welche sie Berufe verschwinden lässt, ist offen. Wie sich der Mensch auf diese Unwägbarkeiten vorbereiten sollte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-muss-kein-jobkiller-sein-201247842.html",
+   "published": "2026-09-28T08:18:11+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "15 Prozent Wachstum?: So rettet KI die deutsche Wirtschaft",
+   "summary": "Künstliche Intelligenz kann das Wachstum ankurbeln wie nie zuvor, glauben ihre Schöpfer. Ökonomen sind skeptisch. Wer recht behält, entscheidet sich nicht im Silicon Valley.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/so-rettet-ki-die-deutsche-wirtschaft-accg-201228102.html",
+   "published": "2026-09-28T08:17:48+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "KI-Boom und Rüstung bringen Rekord bei Milliarden-Start-ups",
@@ -72,6 +117,15 @@
    "link": "https://www.wiwo.de/technologie/ki-souveraenitaet-kann-europas-industrie-den-ki-rueckstand-zu-china-und-den-usa-aufholen/100255463.html",
    "published": "2026-09-28T05:40:00+00:00",
    "first_seen": "2026-09-28T06:05:37.271632+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Im KI-Wettlauf droht Europa der Rückstand",
+   "summary": "Experten fordern mehr KI-Souveränität für Europa, um ein Horrorszenario zu verhindern. Was ein Rückfallen im KI-Rennen bedeuten könnte – und wo Europas Stärken liegen.",
+   "link": "https://www.wiwo.de/technologie/ki-kann-europas-industrie-den-ki-rueckstand-zu-china-und-den-usa-aufholen/100255463.html",
+   "published": "2026-09-28T05:40:00+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
    "paywall": true
   },
   {
@@ -846,60 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
    "published": "2026-09-25T05:45:56+00:00",
    "first_seen": "2026-09-25T06:04:54.710079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI: Anthropic plant vor Börsengang wohl Stimmrechtsmehrheit für Gründer",
-   "summary": "Der Entwickler der Künstlichen Intelligenz Anthropic strebt an die Börse – mit einer Aktienstruktur nach Palantir-Vorbild und Kontrolle der Gründer.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
-   "published": "2026-09-25T05:45:56+00:00",
-   "first_seen": "2026-09-25T07:04:57.948401+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI wohl vor Präsentation von neuem Cybersicherheitsmodell",
-   "summary": "Der KI-Pionier plant offenbar ein neues Modell für Cybersicherheit und ein Sicherheitsprodukt für KI-Agenten. Warum OpenAI nun auf diese Sparte setzen will.",
-   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-openai-wohl-vor-praesentation-von-neuem-cybersicherheitsmodell/100257339.html",
-   "published": "2026-09-25T05:44:42+00:00",
-   "first_seen": "2026-09-25T06:04:54.710079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI wohl vor Präsentation von neuem Cybersicherheitsmodell",
-   "summary": "Der KI-Pionier plant offenbar ein neues Modell für Cybersicherheit und ein Sicherheitsprodukt für KI-Agenten. Warum OpenAI nun auf diese Sparte setzen will.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-openai-setzt-auf-cybersicherheitsmodell/100257339.html",
-   "published": "2026-09-25T05:44:42+00:00",
-   "first_seen": "2026-09-25T07:04:57.948401+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Experten erwarten Roboter-Rally an der Börse – Diese Aktien empfehlen Analysten schon jetzt",
-   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-roboter-rally-an-der-boerse-diese-aktien-empfehlen-analysten/100252788.html",
-   "published": "2026-09-25T05:26:00+00:00",
-   "first_seen": "2026-09-25T06:04:54.710079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Papst-Besuch in Frankreich: Heiliger Vater ante portas",
-   "summary": "Papst Leo XIV. kommt am Freitag für vier Tage nach Frankreich. Auch viele Nichtkatholiken wollen seine Botschaft zum Frieden und der KI-Debatte hören. mehr...",
-   "link": "https://taz.de/Papst-Besuch-in-Frankreich/!6216064/",
-   "published": "2026-09-25T05:17:00+00:00",
-   "first_seen": "2026-09-25T06:04:54.710079+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Disrupt: KI-Pionier Bengio über Experimente an der Menschheit und sichere KI",
-   "summary": "Seine Forschung hat die Revolution erst ermöglicht. Jetzt warnt Kanadas berühmtester KI-Forscher vor einem Kontrollverlust – und erklärt, wie er die Technologie sicher machen will.",
-   "link": "https://www.handelsblatt.com/audio/disrupt-podcast/disrupt-ki-pionier-bengio-ueber-experimente-an-der-menschheit-und-sichere-ki/100257320.html",
-   "published": "2026-09-25T04:52:32+00:00",
-   "first_seen": "2026-09-25T05:03:39.481463+00:00",
    "paywall": true
   }
  ]

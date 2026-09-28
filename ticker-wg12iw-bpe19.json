@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T08:06:25.001911+00:00",
+ "updated": "2026-09-28T09:05:58.674983+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,60 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Arbeitsmarkt: Einwanderer in vielen Berufen unverzichtbar",
+   "summary": "Mehr als ein Viertel aller Beschäftigten in Deutschland hat Wurzeln im Ausland. Besonders in Berufen, in denen händeringend Fachkräfte gesucht werden, würde ohne sie kaum etwas gehen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/einwanderer-berufe-unverzichtbar-fachkraefte-li.3555029",
+   "published": "2026-09-28T08:52:44+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
+   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
+   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-diese-wachstumsbranche-stellt-trotz-vieler-krisen-weiter-ein/100211178.html",
+   "published": "2026-09-28T08:29:00+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Inflation: Ökonomen erwarten für September höchsten Preisanstieg seit 2023",
+   "summary": "Zuletzt lagen die Ölpreise zeitweise deutlich über der Marke von 100 Dollar. Die entsprechend hohen Spritpreise dürften nun die Teuerungsrate über die Drei-Prozent-Hürde getrieben haben.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/inflation-oekonomen-erwarten-fuer-september-hoechsten-preisanstieg-seit-2023/100257882.html",
+   "published": "2026-09-28T08:27:47+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "15 Prozent Wachstum?: So rettet KI die deutsche Wirtschaft",
+   "summary": "Künstliche Intelligenz kann das Wachstum ankurbeln wie nie zuvor, glauben ihre Schöpfer. Ökonomen sind skeptisch. Wer recht behält, entscheidet sich nicht im Silicon Valley.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/so-rettet-ki-die-deutsche-wirtschaft-accg-201228102.html",
+   "published": "2026-09-28T08:17:48+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Export: Wie Polen Deutschlands Wirtschaft rettet",
+   "summary": "Ein unerwarteter Exportboom hat Deutschland den lang ersehnten Wachstumsschub gebracht. Dabei setzen Donald Trump und China der hiesigen Wirtschaft massiv zu. Was dahinter steckt – die Erklärung mit Grafiken.",
+   "link": "https://www.spiegel.de/wirtschaft/export-wie-polen-deutschlands-wirtschaft-rettet-a-07c5bce8-dec6-4a58-abf1-eea4d89c4632#ref=rss",
+   "published": "2026-09-28T08:16:00+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Inflation: Rekordhohe Spritpreise treiben Inflation auf höchsten Stand seit 2023",
+   "summary": "Die Inflation erreicht im September wohl den höchsten Stand seit 2023. Haupttreiber sind die Spritpreise.",
+   "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekordhohe-spritpreise-treiben-inflation-auf-hoechsten-stand-seit-2023/100257879.html",
+   "published": "2026-09-28T08:13:37+00:00",
+   "first_seen": "2026-09-28T09:05:58.674983+00:00",
    "paywall": true
   },
   {
@@ -845,60 +899,6 @@
    "summary": "Der Irankrieg belastet die deutsche Wirtschaft weniger stark als erwartet. Führende Wirtschaftsinstitute rechnen für 2026 mit einem Wachstum von 1,3 Prozent.",
    "link": "https://www.zeit.de/wirtschaft/2026-09/herbstprognose-wirtschaftsinstitute-2026-wirtschaftswachstum-1-3-prozent-gxe",
    "published": "2026-09-24T08:28:21+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studiengaenge-bieten-trotz-ki-boom-gute-perspektiven/100235558.html",
-   "published": "2026-09-24T08:26:00+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-mit-so-viel-vermoegen-gelten-sie-in-deutschland-als-reich/100149729.html",
-   "published": "2026-09-24T08:26:00+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Bundespolitik +++: Ökonomen kritisieren „unklare Wirtschaftspolitik“ der Bundesregierung",
-   "summary": "Kabinett beschließt Tankrabatt +++ Linnemann lehnt Bürgerversicherung ab +++ Unions-Wirtschaftsflügel fordert Umsetzung der Reformen bis Winter +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-oekonomen-kritisieren-unklare-wirtschaftspolitik/100137034.html",
-   "published": "2026-09-24T08:20:19+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Wirtschaftsinstitute verdoppeln Konjunkturprognose",
-   "summary": "Die deutsche Wirtschaft befindet sich im Aufschwung. Doch die Wirtschaftsinstitute warnen: Die Erholung steht auf wackligen Beinen.",
-   "link": "https://www.wiwo.de/politik/konjunktur/wirtschaftswachstum-wirtschaftsinstitute-verdoppeln-konjunkturprognose/100257104.html",
-   "published": "2026-09-24T08:13:06+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Wirtschaftsinstitute verdoppeln Konjunkturprognose",
-   "summary": "Die deutsche Wirtschaft befindet sich im Aufschwung. Doch die Wirtschaftsinstitute warnen: Die Erholung steht auf wackligen Beinen.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-wirtschaftsinstitute-verdoppeln-konjunkturprognose/100257104.html",
-   "published": "2026-09-24T08:13:06+00:00",
-   "first_seen": "2026-09-24T10:04:09.955690+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Unternehmen immer optimistischer: Ifo-Index steigt zum fünften Mal in Folge und übertrifft Erwartungen",
-   "summary": "Die deutschen Unternehmen melden bessere Geschäfte und blicken positiver in die Zukunft. Damit verfestigt sich der Eindruck, dass die deutsche Wirtschaft sich erholt.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-ifo-index-steigt-zum-fuenften-mal-in-folge-und-uebertrifft-erwartungen/100257109.html",
-   "published": "2026-09-24T08:13:02+00:00",
    "first_seen": "2026-09-24T09:04:15.470239+00:00",
    "paywall": true
   }
