@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T04:04:58.426460+00:00",
+ "updated": "2026-09-28T05:04:57.343885+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -19,6 +19,15 @@
    "published": "2026-09-28T04:00:07+00:00",
    "first_seen": "2026-09-28T04:04:58.426460+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Umfrage: Europas Unternehmer sehen Bürokratie als größtes Wachstumshemmnis in der EU",
+   "summary": "Kommissionschefin von der Leyen wollte Bürokratie in der EU abbauen und den Binnenmarkt erweitern. Doch Unternehmer sehen keinen Fortschritt. Vor allem ein Land sticht negativ hervor.",
+   "link": "https://www.handelsblatt.com/politik/international/umfrage-unternehmer-sehen-buerokratie-als-groesstes-wachstumshemmnis-in-eu/100257345.html",
+   "published": "2026-09-28T04:00:00+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -891,15 +900,6 @@
    "link": "https://www.spiegel.de/wirtschaft/konjunktur-wirtschaftsforscher-verdoppeln-wachstumsprognose-fuer-2026-a-624aa0cd-6947-4587-aa2f-4b2b16adf0b1#ref=rss",
    "published": "2026-09-24T07:04:00+00:00",
    "first_seen": "2026-09-24T08:04:17.551928+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Hitze schwächt Europas Wirtschaftsleistung",
-   "summary": "Extreme Hitze kostet die europäische Wirtschaft in diesem Jahr voraussichtlich 113 Milliarden Euro. Deutschland ist besonders stark betroffen. Die Allianz warnt vor weiter steigenden Schäden durch den Klimawandel.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/hitze-senkt-europas-wirtschaftsleistung-allianz-100.html",
-   "published": "2026-09-24T06:45:33+00:00",
-   "first_seen": "2026-09-24T07:04:59.934858+00:00",
    "paywall": false
   }
  ]

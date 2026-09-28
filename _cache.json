@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T04:04:58.426460+00:00",
+ "updated": "2026-09-28T05:04:57.343885+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -11,6 +11,78 @@
    "paywall": true
   },
   {
+   "label": "ZEIT",
+   "title": "Solarstrom: Solarstromproduktion übertrifft bereits jetzt Vorjahreswert",
+   "summary": "2026 wurde bereits mehr Solarstrom erzeugt als im gesamten vergangenen Jahr. Grund dafür sind unter anderem ungewöhnlich viele Sonnenstunden.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/solarstrom-deutschland-rekord-bsw-solarenergie",
+   "published": "2026-09-28T04:58:15+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vergleich: Wo sich ein Elektroauto lohnt – und wo nicht",
+   "summary": "Ob Elektroautos auch finanziell attraktiv sind, hängt neben den Strompreisen und der Förderpolitik von zahlreichen Faktoren ab. Deutschland schlägt sich im internationalen Vergleich gut.",
+   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/vergleich-wo-sich-ein-elektroauto-lohnt-und-wo-nicht/100257827.html",
+   "published": "2026-09-28T04:54:38+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Christian Klein: SAP-Chef setzt auf KI-Agenten und erwartet »weiteren wirklichen Schub«",
+   "summary": "SAP-Chef Christian Klein betrachtet die Entwicklung der KI mit großem Selbstbewusstsein. Und erklärt, welche Rolle der Mensch in Zukunft spielen wird.",
+   "link": "https://www.spiegel.de/wirtschaft/christian-klein-sap-chef-setzt-auf-ki-agenten-und-erwartet-weiteren-wirklichen-schub-a-1bcef515-ab1e-4de3-a0ea-b1ab6138925b#ref=rss",
+   "published": "2026-09-28T04:52:00+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Letzter gemeinsamer Nenner Karlsruhe?",
+   "summary": "Das Bundesverfassungsgericht feiert 75. Geburtstag. Die Distanz zum Berliner Regierungsviertel ist zum Symbol für seine Unabhängigkeit geworden.",
+   "link": "https://www.zdfheute.de/briefing/bundesverfassungsgericht-jubilaeum-kirsch-zdfheute-update-100.html",
+   "published": "2026-09-28T04:45:00+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Podcast: Wahlen: Linke Koalition in Berlin rückt näher / Mercedes: Werksverkauf an KNDS hakt",
+   "summary": "Das Letzte, was die Republik braucht: eine zweite Brandmauer. Vielleicht schafft die Mitte im Umgang mit der Linken, woran sie bisher bei der AfD scheiterte. Eine Hoffnung aber bleibt.",
+   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-wahlen-linke-koalition-in-berlin-rueckt-naeher---mercedes-werksverkauf-an-knds-hakt/100257823.html",
+   "published": "2026-09-28T04:20:13+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nach Gipfeltreffen: Entlastung von jeweils 30 Milliarden Dollar: USA und China nennen Details zum neuen Zolldeal",
+   "summary": "Bei den Verhandlungen zwischen Donald Trump und Xi Jinping haben beide Länder Zollsenkungen vereinbart. Nun legen die Länder eine Liste vor, welche Produkte entlastet werden.",
+   "link": "https://www.handelsblatt.com/politik/international/gipfeltreffen-usa-und-china-nennen-details-zum-neuen-zoll-deal/100257817.html",
+   "published": "2026-09-28T04:19:12+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Northern Star: Goldproduzent weist milliardenschweres Übernahmeangebot zurück",
+   "summary": "Konkurrent Gold Fields will den australischen Goldkonzern für umgerechnet rund 24 Milliarden Euro übernehmen. Doch aus Sicht von Northern Star reicht dieses Angebot nicht.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/northern-star-goldproduzent-weist-milliardenschweres-uebernahmeangebot-zurueck/100257818.html",
+   "published": "2026-09-28T04:04:53+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "So klappt's mit dem Hund im Büro",
+   "summary": "Hunde sind soziale Tiere, die am liebsten mit ihren Besitzern zusammen sind. Doch zur Arbeit dürfen sie meist nicht mitgenommen werden. Mit diesen Tipps könnte es doch klappen.",
+   "link": "https://www.zdfheute.de/ratgeber/hunde-buero-kollegen-arbeitsplatz-100.html",
+   "published": "2026-09-28T04:03:00+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": false
+  },
+  {
    "label": "tagesschau",
    "title": "Lebensmittelpreise: Droht die nächste Inflationswelle?",
    "summary": "An den Rohstoffbörsen steigen die Preise für Weizen, Mais und Zucker kräftig - im deutschen Supermarkt ist davon bislang kaum etwas angekommen. Doch Experten warnen: Das ist nur eine Frage der Zeit. Von Angela Göpfert.",
@@ -18,6 +90,15 @@
    "published": "2026-09-28T04:00:07+00:00",
    "first_seen": "2026-09-28T04:04:58.426460+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Umfrage: Europas Unternehmer sehen Bürokratie als größtes Wachstumshemmnis in der EU",
+   "summary": "Kommissionschefin von der Leyen wollte Bürokratie in der EU abbauen und den Binnenmarkt erweitern. Doch Unternehmer sehen keinen Fortschritt. Vor allem ein Land sticht negativ hervor.",
+   "link": "https://www.handelsblatt.com/politik/international/umfrage-unternehmer-sehen-buerokratie-als-groesstes-wachstumshemmnis-in-eu/100257345.html",
+   "published": "2026-09-28T04:00:00+00:00",
+   "first_seen": "2026-09-28T05:04:57.343885+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -13419,87 +13500,6 @@
    "published": "2026-09-23T17:50:31+00:00",
    "first_seen": "2026-09-23T19:03:39.173493+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "„Comeback“ auf der Schiene: Die neue Ära des Nachtzugs",
-   "summary": "Altertümliche und teure Schlaf- und Liegewagen? Auf der Innotrans gibt es mehrere Konzepte, die das nächtliche Reisen auf der Schiene attraktiv machen sollen. Eines startet sogar schon im März.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/nachtzug-auf-der-innotrans-die-neue-aera-des-reisens-201254601.html",
-   "published": "2026-09-23T17:45:42+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Schwuler Animationsfilm „Jim Queen“: Hetero – Gott bewahre!",
-   "summary": "Ein schwuler Influencer verliert seine Bauchmuskeln und fürchtet das Schlimmste: Heterosexualität. „Jim Queen“ ist eine lustvolle Satire schwuler Schönheitsideale. mehr...",
-   "link": "https://taz.de/Schwuler-Animationsfilm-Jim-Queen/!6215180/",
-   "published": "2026-09-23T17:38:00+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Antiquariat-Besitzerin: „Das war immer mein Traum“",
-   "summary": "Ilona Dahlmann betreibt im havelländischen Stölln ein Antiquariat. Bücher sind ihre Leidenschaft, mit den Geschichten, die zwischen den Seiten verborgen sind. mehr...",
-   "link": "https://taz.de/Antiquariat-Besitzerin/!6205684/",
-   "published": "2026-09-23T17:36:00+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Bundestag: Harte Angriffe gegen Linke, Gysi in der Defensive",
-   "summary": "Für die Linken wurde es in der Aktuellen Stunde im Bundestag ungemütlich. Die Vorwürfe: Antisemitismus, Nähe zu Clans und Islamisten. Für die Linke stieg Gregor Gysi in den Ring.",
-   "link": "https://www.zdfheute.de/politik/deutschland/linke-berlin-bundestag-gysi-aktuelle-stunde-antisemitismus-remmo-clan-100.html",
-   "published": "2026-09-23T17:36:00+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Ausgediente Windanlagen: Auf Rotorblättern surfen",
-   "summary": "Viele ältere Windräder werden in den nächsten Jahren abgebaut. Den Schrott illegal im Ausland zu entsorgen, ist keine Lösung. Es gibt bessere Ideen. mehr...",
-   "link": "https://taz.de/Ausgediente-Windraeder-Was-wird-aus-den-alten-Rotorblaettern/!6213390/",
-   "published": "2026-09-23T17:34:00+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Iran-Krieg +++: EU-Ratschef fordert von Iran Kooperation mit Atombehörde",
-   "summary": "Rubio: USA müssen atomwaffenfreien Iran sicherstellen +++ Emirate sanktionieren Irans größte staatliche Bank +++ Insider: Wadephul fordert iranischen Außenminister zu Verhandlungen auf +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-eu-ratschef-fordert-von-iran-kooperation-mit-atombehoerde/100136895.html",
-   "published": "2026-09-23T17:32:00+00:00",
-   "first_seen": "2026-09-24T02:03:59.366418+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Wahlen +++: SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein",
-   "summary": "Berliner Grüne stellen Bedingungen für Sondierungen +++ Thüringens SPD-Chef Maier will nicht mehr antreten +++ Schwesig will Sondierungsgespräche nächste Woche starten +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-spd-laedt-vier-parteien-zu-gespraechen-in-sachsen-anhalt-ein/100252039.html",
-   "published": "2026-09-23T17:31:14+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Neue Studie: Wie Europas Gasversorgung resilienter werden kann",
-   "summary": "Die Ökonomin Veronika Grimm sieht Europas Gasrisiken nur verlagert. Sie rät zu flexiblen Langfristverträgen und offenem Umgang mit blauem Wasserstoff.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/veronika-grimm-wie-europas-gasversorgung-resilienter-wird-201254589.html",
-   "published": "2026-09-23T17:31:12+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Sanktionen gegen Russland: Was für ein Armutszeugnis",
-   "summary": "Zwei russische Oligarchen werden von der EU-Sanktionsliste gestrichen. Dafür wird ein französischer Gefangener in Aserbaidschan begnadigt. mehr...",
-   "link": "https://taz.de/Sanktionen-gegen-Russland/!6215617/",
-   "published": "2026-09-23T17:31:00+00:00",
-   "first_seen": "2026-09-23T18:05:26.586555+00:00",
-   "paywall": false
   }
  ]
 }
