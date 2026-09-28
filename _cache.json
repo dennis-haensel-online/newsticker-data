@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T20:03:32.965851+00:00",
+ "updated": "2026-09-28T21:04:39.017699+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: AMD kauft World Labs für rund acht Milliarden Dollar",
+   "summary": "Der Chiphersteller expandiert mit dem Kauf eines Teams aus führenden KI-Forschern und deren Modellen. AMD nimmt damit auch künftige Hardware-Projekte in den Blick.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-amd-kauft-world-labs-fuer-rund-acht-milliarden-dollar/100258070.html",
+   "published": "2026-09-28T20:35:10+00:00",
+   "first_seen": "2026-09-28T21:04:39.017699+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Biowaffen-Gefahr durch KI? So schätzen Experten die Risiken ein",
+   "summary": "Experten warnen: KI könnte die Entwicklung von Biowaffen erleichtern, langfristig außer Kontrolle geraten und gegen menschliche Interessen handeln. Wie groß ist die Gefahr?",
+   "link": "https://www.zdfheute.de/panorama/kuenstliche-intelligenz-risiken-biowaffen-100.html",
+   "published": "2026-09-28T20:22:00+00:00",
+   "first_seen": "2026-09-28T21:04:39.017699+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Papst fordert breiten Dialog über KI",
+   "summary": "Auf dem Heimflug aus Frankreich redet Leo XIV. über ein Thema, das ihm am Herzen liegt. Bei allen Sorgen über Risiken von KI versichert er: „Ich schlafe nachts gut.“ Damit belässt er es aber nicht.",
+   "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-papst-fordert-breiten-dialog-ueber-ki/100258068.html",
+   "published": "2026-09-28T20:14:42+00:00",
+   "first_seen": "2026-09-28T21:04:39.017699+00:00",
    "paywall": true
   },
   {
@@ -279,6 +306,15 @@
    "published": "2026-09-28T17:25:00+00:00",
    "first_seen": "2026-09-28T18:05:19.555308+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt niedriger",
+   "summary": "Steigende Ölpreise sowie steigende Renditen von US-Staatsanleihen belasten weiterhin die Stimmung an der Wall Street. Anleger warten auf einige Termine im Laufe der Handelswoche.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-niedriger/100257988.html",
+   "published": "2026-09-28T17:23:11+00:00",
+   "first_seen": "2026-09-28T21:04:39.017699+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -13464,42 +13500,6 @@
    "published": "2026-09-24T15:06:28+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: ifo-Chef: Aufschwung auf wackeligen Beinen | Biontech-Gründer vor Neustart",
-   "summary": "Kurzfristig wächst die deutsche Wirtschaft wieder stärker. Ifo-Präsident Clemens Fuest ordnet die Entwicklung ein. Außerdem: Warum der Neustart der Biontech-Gründer Risiken hat.",
-   "link": "https://www.handelsblatt.com/audio/today/today-ifo-chef-aufschwung-auf-wackeligen-beinen-biontech-gruender-vor-neustart/100257238.html",
-   "published": "2026-09-24T15:05:31+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Vorverkauf startet: Große Konzerttour von Oasis wird zur Konjunktur-Rakete",
-   "summary": "Die Kultband verschickt die Zugangscodes für ihre Tour 2027. Unzählige Fans hoffen auf ihr Losglück. In vielen Branchen überflügelt der Konsum die Oasis-Nostalgie sogar.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/oasis-tournee-2027-konjunkturboost-durch-mega-konzerttour-201259734.html",
-   "published": "2026-09-24T15:03:48+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Exportstopp auf Diesel: Kein Diesel mehr aus den USA? So dramatisch wären die Folgen",
-   "summary": "Donald Trump droht mit einem Exportstopp für Diesel – und würde so die globalen Märkte erschüttern. Für Europa wird die Energieabhängigkeit von den USA immer riskanter.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/export-stopp-diesel-usa-donald-trump-knappheit-weltmarkt",
-   "published": "2026-09-24T15:03:18+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Schlappe für Trump, Herbstgutachten und Warnung von KI-Chefs",
-   "summary": "Trump muss CNN und Co. reinlassen, das Herbstgutachten der Wirtschaftsinstitute macht Mut und KI-Chefs warnen vor ihrer eigenen Technologie.",
-   "link": "https://www.zdfheute.de/briefing/trump-ki-warnung-herbstgutachten-zdfheute-update-100.html",
-   "published": "2026-09-24T15:03:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
   }
  ]
 }

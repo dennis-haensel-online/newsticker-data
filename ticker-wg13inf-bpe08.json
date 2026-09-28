@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-28T20:03:32.965851+00:00",
+ "updated": "2026-09-28T21:04:39.017699+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: AMD kauft World Labs für rund acht Milliarden Dollar",
+   "summary": "Der Chiphersteller expandiert mit dem Kauf eines Teams aus führenden KI-Forschern und deren Modellen. AMD nimmt damit auch künftige Hardware-Projekte in den Blick.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-amd-kauft-world-labs-fuer-rund-acht-milliarden-dollar/100258070.html",
+   "published": "2026-09-28T20:35:10+00:00",
+   "first_seen": "2026-09-28T21:04:39.017699+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Biowaffen-Gefahr durch KI? So schätzen Experten die Risiken ein",
+   "summary": "Experten warnen: KI könnte die Entwicklung von Biowaffen erleichtern, langfristig außer Kontrolle geraten und gegen menschliche Interessen handeln. Wie groß ist die Gefahr?",
+   "link": "https://www.zdfheute.de/panorama/kuenstliche-intelligenz-risiken-biowaffen-100.html",
+   "published": "2026-09-28T20:22:00+00:00",
+   "first_seen": "2026-09-28T21:04:39.017699+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Papst fordert breiten Dialog über KI",
+   "summary": "Auf dem Heimflug aus Frankreich redet Leo XIV. über ein Thema, das ihm am Herzen liegt. Bei allen Sorgen über Risiken von KI versichert er: „Ich schlafe nachts gut.“ Damit belässt er es aber nicht.",
+   "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-papst-fordert-breiten-dialog-ueber-ki/100258068.html",
+   "published": "2026-09-28T20:14:42+00:00",
+   "first_seen": "2026-09-28T21:04:39.017699+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Wie viel KI verträgt die Seelsorge?",
@@ -874,33 +901,6 @@
    "published": "2026-09-25T18:54:00+00:00",
    "first_seen": "2026-09-26T11:03:45.350394+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "WhatsApp-Nachricht: Bank-Manager fällt auf KI-Fake rein – Betrüger erbeuten 36 Millionen Euro von Intesa-Sanpaolo-Tochter",
-   "summary": "Der Ex-Verwaltungsratschef der italienischen Fideuram-Bank wurde Opfer eines KI-Betrugs. Er ließ 95 Millionen Euro aus dem Bankvermögen überweisen. Nur ein Teil konnte zurückgeholt werden.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/whatsapp-fake-betrueger-legen-bank-manager-rein-36-millionen-euro-schaden/100257520.html",
-   "published": "2026-09-25T18:29:13+00:00",
-   "first_seen": "2026-09-25T19:03:53.502840+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz: Bill Gates warnt vor einer Milliarde Todesfällen durch KI",
-   "summary": "Immer mehr Menschen aus der Technologiebranche warnen vor den existenziellen Gefahren durch künstliche Intelligenz. Nun hat sich auch Microsoft-Mitgründer Bill Gates zu Wort gemeldet.",
-   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-bill-gates-warnt-vor-einer-milliarde-todesfaellen-durch-ki-a-101d849b-8e97-4760-a807-fd2926f96178#ref=rss",
-   "published": "2026-09-25T17:35:00+00:00",
-   "first_seen": "2026-09-25T18:04:18.157587+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Landtagswahlen: Erfolgreich mit „Erlebnispopulismus“ – warum die AfD mehr Menschen erreicht als die CDU",
-   "summary": "Die AfD schafft es, Wähler zu mobilisieren, die andere Parteien längst verloren haben. Experten sehen dahinter eine Strategie, die weit über Social Media hinausgeht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/afd-erlebnispopulismus-was-andere-parteien-daraus-lernen-koennen/100255264.html",
-   "published": "2026-09-25T17:32:38+00:00",
-   "first_seen": "2026-09-25T18:04:18.157587+00:00",
-   "paywall": true
   }
  ]
 }
