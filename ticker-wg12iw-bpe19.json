@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T01:04:51.431838+00:00",
+ "updated": "2026-09-28T02:04:10.119144+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
+   "summary": "SAP erwartet enormes Wachstumspotenzial mit eigenen KI-Angeboten. Konzernchef Christian Klein sieht einen „einzigartigen Vorteil“. Das müsse man jetzt bei den Kunden unter Beweis stellen.",
+   "link": "https://www.handelsblatt.com/technik/ki/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257786.html",
+   "published": "2026-09-28T01:59:28+00:00",
+   "first_seen": "2026-09-28T02:04:10.119144+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Softwarekonzern: SAP-Chef sieht historische Wachstumschance durch KI-Produkte",
+   "summary": "SAP erwartet enormes Wachstumspotenzial mit eigenen KI-Angeboten. Konzernchef Christian Klein sieht einen „einzigartigen Vorteil“. Das müsse man jetzt bei den Kunden unter Beweis stellen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257787.html",
+   "published": "2026-09-28T01:50:05+00:00",
+   "first_seen": "2026-09-28T02:04:10.119144+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-09-24T05:26:00+00:00",
    "first_seen": "2026-09-24T06:05:25.199286+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ukraine: „Die Wirtschaft stürzt ab“: Putins Angriffe ruinieren die Ukraine",
-   "summary": "Russlands Luftkrieg gegen die ukrainische Wirtschaft zeigt Wirkung: Ökonomen revidieren ihre Wachstumsprognosen massiv nach unten. Im Staatshaushalt tun sich neue Löcher auf.",
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-die-wirtschaft-stuerzt-ab-putins-angriffe-ruinieren-die-ukraine/100256214.html",
-   "published": "2026-09-24T05:20:45+00:00",
-   "first_seen": "2026-09-24T06:05:25.199286+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Allianz-Studie: Hitze senkt Europas Wirtschaftsleistung",
-   "summary": "Die Hitze dieses Sommers hat Europas Wirtschaftsleistung laut Allianz um 113 Milliarden Euro gemindert. Deutschland trifft es besonders hart. 2027 droht mit El Niño der nächste Einbruch.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/hitzewelle-kostet-europa-113-milliarden-euro-accg-201257447.html",
-   "published": "2026-09-24T04:00:21+00:00",
-   "first_seen": "2026-09-24T05:03:41.554213+00:00",
-   "paywall": true
   }
  ]
 }
