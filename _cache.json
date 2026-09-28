@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T15:07:24.153728+00:00",
+ "updated": "2026-09-28T16:06:03.709184+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,285 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Entdecken Sie das ZDF-Nachrichtenstudio",
+   "summary": "Nach 12 Jahren erscheinen die ZDF-Nachrichten im neuen Look. Werfen Sie einen Blick hinter die Kulissen – und entdecken das neue Studio in unserer 3D-Story.",
+   "link": "https://3d.zdf.de/nachrichten-studio-design/",
+   "published": "2026-09-28T16:05:11+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Aktuelle Pressemitteilungen des ZDF",
+   "summary": "Aktuelle Pressemitteilungen des ZDF",
+   "link": "https://presseportal.zdf.de/pressemitteilungen/",
+   "published": "2026-09-28T16:05:11+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Militär: Bundeswehr vergibt IT-Aufträge in Rekordhöhe – und belebt damit einen kriselnden Markt",
+   "summary": "Die Bundeswehr investiert massiv in digitale Technologie. BWI, der IT-Dienstleister der Truppe, verdoppelt deswegen bis 2030 den Umsatz. Ein Ex-RWE-Vorstand bereitet die Firma darauf vor.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/militaer-bundeswehr-vergibt-it-auftraege-in-rekordhoehe/100256518.html",
+   "published": "2026-09-28T15:57:17+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Stichwahlen in Niedersachsen: In Minischritten zur feministischen Revolution",
+   "summary": "Jeder vierte der 36 Landratsposten Niedersachsens wird nach den Direktwahlen von einer Frau wahrgenommen werden. Bislang waren es nur rund 14 Prozent. mehr...",
+   "link": "https://taz.de/Stichwahlen-in-Niedersachsen/!6217061/",
+   "published": "2026-09-28T15:57:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Rente mit 63: Eine Frage der Gerechtigkeit",
+   "summary": "Die Rente nach 45 Beitragsjahren begünstigt gesunde, besserverdienende Männer. Sie ist keine soziale Errungenschaft, sondern befördert ein Privileg. mehr...",
+   "link": "https://taz.de/Rente-mit-63/!6216936/",
+   "published": "2026-09-28T15:56:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Grüner Stahl: Merz: Deutschland braucht eigene Stahlerzeugung",
+   "summary": "Der Kanzler zeigt sich als Mutmacher. Im Saarland sehe man, dass die Industrie auch künftig eine Chance habe.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/gruener-stahl-merz-deutschland-braucht-eigene-stahlerzeugung/100258040.html",
+   "published": "2026-09-28T15:51:02+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Vor Parlamentswahl in Serbien: Ein Rücktritt aus Kalkül",
+   "summary": "Vučić bleibt auch nach seinem Rücktritt als Staatspräsident der mächtigste Mann Serbiens. Für die anstehenden Wahlen geriert er sich als normaler Bürger. mehr...",
+   "link": "https://taz.de/Vor-Parlamentswahl-in-Serbien/!6216944/",
+   "published": "2026-09-28T15:51:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Hendrik Holt: „Früher galt Dubai als sicherer Rückzugsort – das ändert sich gerade“",
+   "summary": "Wie es weitergeht, wenn verurteilte Straftäter wie der Anlagebetrüger Hendrik Holt flüchten und in Dubai verhaftet werden – ein Strafverteidiger berichtet.",
+   "link": "https://www.wiwo.de/erfolg/management/hendrik-holt-droht-dem-betrueger-die-auslieferung-aus-dubai/100257129.html",
+   "published": "2026-09-28T15:45:42+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Europäische Verbraucherschützer mahnen Airlines ab",
+   "summary": "Wenn ein Flug annulliert wird, steht Kunden eine Erstattung des Ticketpreises zu. Doch manche Airlines machen es ihren Kunden dabei schwer, wenn über Vermittler gebucht wurde. Verbraucherschützer halten das für unzulässig.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/zev-abmahnung-airlines-100.html",
+   "published": "2026-09-28T15:45:38+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Die Nike-Aktie zeigt, wo Bewertungen an ihre Grenzen stoßen",
+   "summary": "Nicht nur der Aktienkurs des US-Konzerns ist gefallen, sondern auch seine Bewertung. Aber wer allein deshalb kauft, macht einen Fehler, sagt Handelsblatt-Redakteur Andreas Neuhaus.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-die-nike-aktie-zeigt-wo-bewertungen-an-ihre-grenzen-stossen/100256076.html",
+   "published": "2026-09-28T15:40:37+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Russland stellt deutschen Großhändler Metro unter Zwangsverwaltung",
+   "summary": "Metro blieb anders als viele andere internationale Konzerne auch nach dem russischen Überfall auf die Ukraine in Russland. Nun verliert das Unternehmen das Geschäft in dem Land.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/russland-stellt-deutschen-grosshaendler-metro-unter-zwangsverwaltung-a-f7cd037d-243c-4c78-83f6-d8d196bb280d#ref=rss",
+   "published": "2026-09-28T15:40:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Wüst auf Erdoğan-Besuch: NRW-Chef auf Kanzlerprobefahrt",
+   "summary": "Türkeireise mit Geschäftssinn: NRW-MP Wüst würdigt Beitrag türkischer Migranten in Deutschland bei Besuch des türkischen Präsidenten Erdoğan mehr...",
+   "link": "https://taz.de/Wuest-auf-Erdogan-Besuch/!6217080/",
+   "published": "2026-09-28T15:39:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Vor Haushaltsdebatte: Besorgnis um Frankreich wächst",
+   "summary": "Die französische Regierung will den Rotstift ansetzen. Doch schon jetzt formiert sich Widerstand. Auch auf europäischer Ebene nehmen die Sorgen zu.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-sebastien-lecornu-und-die-haushaltskrise-201268511.html",
+   "published": "2026-09-28T15:37:46+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Metro in Russland: Putin gibt Metro-Geschäft in Russland in Zwangsverwaltung",
+   "summary": "Gerade hat Kremlchef Putin die Konzerne Nestlé und Auchan unter Zwangsverwaltung stellen lassen. Nun ist das Russland-Geschäft der Metro an der Reihe.",
+   "link": "https://www.wiwo.de/politik/ausland/metro-in-russland-putin-gibt-metro-geschaeft-in-russland-in-zwangsverwaltung/100258038.html",
+   "published": "2026-09-28T15:32:37+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Chemiekonzerne: Evonik zeigt BASF laut Insidern die kalte Schulter – Offerte zu niedrig",
+   "summary": "BASF bietet 22,15 Euro je Evonik-Aktie – doch Evonik soll die Offerte abgelehnt haben. Nun rückt die RAG-Stiftung in den Fokus.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/evonik-zeigt-basf-die-kalte-schulter-offerte-zu-niedrig/100258036.html",
+   "published": "2026-09-28T15:30:58+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Humanitäre Krise in Ukraine: Kaum Essen, kein Entkommen in Oleschky",
+   "summary": "In der russisch besetzten Stadt Oleschky in der Südukraine sind die Menschen von Versorgung und Evakuierung abgeschnitten. Eine ukrainische Drohnenaktion bringt kurzfristig Hilfe. mehr...",
+   "link": "https://taz.de/Humanitaere-Krise-in-Ukraine/!6217026/",
+   "published": "2026-09-28T15:30:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "PDF: Handelsblatt vom 29. September 2026",
+   "summary": "",
+   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-29.-september-2026/100258003.html",
+   "published": "2026-09-28T15:29:35+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Start-up-Szene: Frisches Kapital für junge Waffenschmieden",
+   "summary": "In der Start-up-Welt dreht sich der Wind: Rüstungsfirmen sammeln enorme Geldmengen ein. Das Öko-Business schmiert ab. mehr...",
+   "link": "https://taz.de/Start-up-Szene/!6216948/",
+   "published": "2026-09-28T15:29:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "PDF: Handelsblatt vom 29. September 2026 - Beilage",
+   "summary": "",
+   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-29.-september-2026-beilage/100257999.html",
+   "published": "2026-09-28T15:26:57+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "China: Zollvorteil unter Vorbehalt: Findet die Schweiz eine Antwort auf den China-Schock?",
+   "summary": "Wie deutsche Maschinenbauer verlieren auch Schweizer Firmen Marktanteile in China. Das Land setzt auf ein ausgebautes Freihandelsabkommen – und könnte Unternehmen einen Vorteil verschaffen.",
+   "link": "https://www.handelsblatt.com/politik/international/china-zollvorteil-unter-vorbehalt-die-schweizer-antwort-auf-china/100256930.html",
+   "published": "2026-09-28T15:26:50+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Metro AG in Russland: Wladimir Putin stellt Russland-Geschäft unter Zwangsverwaltung",
+   "summary": "Als eines von wenigen deutschen Unternehmen blieb die Metro AG auch nach dem Überfall auf die Ukraine in Russland. Nun werden dort alle Vermögenswerte verstaatlicht.",
+   "link": "https://www.zeit.de/politik/ausland/2026-09/metro-ag-russland-zwangsverwaltung-wladimir-putin-ukraine-gxe",
+   "published": "2026-09-28T15:26:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "BASF-Offerte: Übernahmepoker um Evonik ist nicht vorbei – drei Szenarien sind möglich",
+   "summary": "Ein erstes Angebot von BASF lehnt Evonik ab. Doch entscheidend bleibt die Position der RAG‑Stiftung. Politik und Gewerkschaften mischen kräftig mit. Es lauern Interessenkonflikte.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/basf-evonik-uebernahme-poker-geht-weiter-drei-szenarien-sind-moeglich/100257846.html",
+   "published": "2026-09-28T15:19:35+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: KNDS: Scheitert Werks-Übernahme? | Der Tankrabatt und die Wirtschaft",
+   "summary": "Der Panzerbauer KNDS wartet auf einen Großauftrag – für die 1800 Beschäftigten in Brandenburg tickt die Uhr. Und: So stark sind deutsche Branchen von den hohen Dieselpreisen betroffen.",
+   "link": "https://www.handelsblatt.com/audio/today/today-knds-scheitert-werks-uebernahme-der-tankrabatt-und-die-wirtschaft/100258035.html",
+   "published": "2026-09-28T15:16:02+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ärmelkanal: Französische Polizei setzt Tränengas gegen Geflüchtete ein",
+   "summary": "Die Polizei in Frankreich hat am Montag eine Gruppe von Migranten vor der Überquerung des Ärmelkanals gestoppt. Bei einem anderen Versuch, mit einem Schlauchboot nach Großbritannien zu gelangen, seien drei Menschen gestorben, teilte die…",
+   "link": "https://www.handelsblatt.com/video/politik/aermelkanal-franzoesische-polizei-setzt-traenengas-gegen-gefluechtete-ein/100258029.html",
+   "published": "2026-09-28T15:14:47+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jemen: Mehrere Tote bei Angriff auf Huthi-Rebellen",
+   "summary": "Bei einem Luftangriff des Militärs auf die jemenitische Provinz Taʿizz sind nach Angaben der Huthi mehrere Menschen getötet worden. Die Regierung bestätigte Angriffe ihrer Streitkräfte auf Fahrzeuge und ein Militärlager der Miliz.",
+   "link": "https://www.handelsblatt.com/video/politik/jemen-mehrere-tote-bei-angriff-auf-huthi-rebellen/100258028.html",
+   "published": "2026-09-28T15:13:47+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Anzeige gegen Dobrindt, Streit um Pflegereform, DFB-Pleite",
+   "summary": "Elif Eralp zeigt Dobrindt an. Die Koalition ringt um die Pflegereform. Und nach der Niederlage gegen Griechenland verteidigt Klopp seine Spieler.",
+   "link": "https://www.zdfheute.de/briefing/dobrindt-eralp-pflegereform-nationalmannschaft-griechenland-zdfheute-update-100.html",
+   "published": "2026-09-28T15:12:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Zellfabrik in Spanien: VW weitet Kooperation mit Chinesen für Batteriezellen aus",
+   "summary": "Der chinesische Hightech-Spezialist Gotion steigt mit 1,1 Milliarden Euro bei der Zellfabrik in Spanien ein. Weitere Kooperationen seitens VW sind geplant – und sollen tief in die Wertschöpfungskette hineinreichen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-weitet-kooperation-mit-gotion-fuer-batteriezellen-aus-201269857.html",
+   "published": "2026-09-28T15:07:28+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Unterbewertete Aktien gesucht: US-Investor setzt auf zwei deutsche Titel – und einen aus der Schweiz",
+   "summary": "Der erfahrene US-Investor David Samra setzt auf Adidas, Brenntag und Samsung. Für den „Value“-Manager zählt aber nicht nur eine niedrige Bewertung. Das Management muss auch liefern können.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-us-investor-haelt-diese-zwei-deutschen-aktien-fuer-unterbewertet/100256585.html",
+   "published": "2026-09-28T15:06:21+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Raumfahrt: Riesen-Rakete Starship zu Erdumrundung aufgebrochen",
+   "summary": "In zehn Stunden mehrmals um die Erde? Das hatte sich SpaceX für den 14. Testflug seines Raketensystems Starship vorgenommen - änderte die Pläne aber nach dem Start.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-riesen-rakete-starship-zu-erdumrundung-aufgebrochen/100258007.html",
+   "published": "2026-09-28T15:02:57+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handel: Russland stellt Vermögenswerte Metros unter staatliche Verwaltung",
+   "summary": "Vor wenigen Tagen hat Kremlchef Putin die Konzerne Nestlé und Auchan unter Zwangsverwaltung stellen lassen. Nun ist das Russland-Geschäft der Metro AG an der Reihe.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handel-russland-stellt-vermoegenswerte-metros-unter-staatliche-verwaltung/100258027.html",
+   "published": "2026-09-28T15:02:53+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bald im Livestream: Der große Deutschland-Gipfel von Handelsblatt und WirtschaftsWoche",
+   "summary": "Beim Deutschland-Gipfel diskutieren Bundeskanzler und Dax-Chefs, Ökonominnen und Top-Investoren über Investitionen, Innovation und Transformation des Standorts Deutschland. Am 7. Oktober ab 9.30 Uhr.",
+   "link": "https://www.handelsblatt.com/journalismus_live/bald-im-livestream-der-grosse-deutschland-gipfel-von-handelsblatt-und-wirtschaftswoche/100256563.html",
+   "published": "2026-09-28T15:00:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
    "paywall": true
   },
   {
@@ -20,6 +299,15 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "Bischof Heiner Hilmer zur Agenda der Bischofskonferenz",
+   "summary": "Zum Auftakt der Vollversammlung der Deutschen Bischofskonferenz gibt Bischof Heiner Wilmer ein Statement.",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5236409",
+   "published": "2026-09-28T14:53:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "NRW-Regierungschef in Ankara: Überraschung bei Türkei-Reise: Erdogan empfängt Wüst",
    "summary": "Normalerweise empfängt der türkische Präsident in seinem Palast nur seinesgleichen - also Staatsoberhäupter, Premierminister oder auch Bundeskanzler. Jetzt macht er eine Ausnahme.",
@@ -27,6 +315,15 @@
    "published": "2026-09-28T14:50:12+00:00",
    "first_seen": "2026-09-28T15:07:24.153728+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Irische Fußball-Nationalmannschaft protestiert gegen Israel",
+   "summary": "Der Fußball war bei der Nations-League-Partie zwischen Irland und Israel Nebensache. Protestaktionen und politische Botschaften prägten die Partie.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league-irland-israel-protest-100.html",
+   "published": "2026-09-28T14:50:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -227,6 +524,15 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street notiert im Minus – Nvidia-Aktie legt zu",
+   "summary": "Steigende Ölpreise sowie steigende Renditen von US-Staatsanleihen belasten weiterhin die Stimmung an der Wall Street. Anleger warten auf einige Termine im Laufe der Handelswoche.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-im-minus-nvidia-aktie-legt-zu/100257988.html",
+   "published": "2026-09-28T14:14:33+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": true
+  },
+  {
    "label": "taz",
    "title": "Drama um Regierungsbildung in Schweden: Politpoker in Stockholm",
    "summary": "Sozialdemokratin Magdalena Andersson gibt erst mal auf und bricht den Versuch ab, eine Regierung zu bilden. Die Hängepartie in Schweden geht weiter. mehr...",
@@ -405,6 +711,15 @@
    "published": "2026-09-28T13:43:12+00:00",
    "first_seen": "2026-09-28T14:07:12.252975+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Schaden in Milliardenhöhe - Anlagebetrug mit gefälschten Nachrichtenseiten",
+   "summary": "Sie sehen aus wie Artikel der tagesschau, führen jedoch auf betrügerische Anlageplattformen. Schätzungen zufolge machen Verbrechernetzwerke mit dieser Masche jährlich Milliarden - und bringen Tausende Menschen um ihr Erspartes. Von Pascal…",
+   "link": "https://www.tagesschau.de/investigativ/faktenfinder/geldanlage-betrug-fake-nachrichtenseiten-100.html",
+   "published": "2026-09-28T13:43:05+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
+   "paywall": false
   },
   {
    "label": "SZ",
@@ -1259,6 +1574,15 @@
    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mode-nachwuchs-designer-paris-100.html",
    "published": "2026-09-28T11:08:12+00:00",
    "first_seen": "2026-09-28T12:05:10.274860+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Rheinpegel in Köln auf Rekordtief - Lkw-Fahrverbot bleibt ausgesetzt",
+   "summary": "Nur noch 40 Zentimeter - noch nie wurde in Köln ein derart niedriger Rheinpegel gemessen. Wegen des extremen Niedrigwassers soll das Sonntags-Fahrverbot für Lkw in Nordrhein-Westfalen ausgesetzt bleiben.",
+   "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinpegel-tiefststand-100.html",
+   "published": "2026-09-28T11:08:00+00:00",
+   "first_seen": "2026-09-28T16:06:03.709184+00:00",
    "paywall": false
   },
   {
@@ -13175,330 +13499,6 @@
    "link": "https://www.handelsblatt.com/karriere/pilot-gehalt-so-viel-verdienen-lufthansa-piloten-in-diesem-jahr/100037203.html",
    "published": "2026-09-24T13:19:00+00:00",
    "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "FIRE-Bewegung: Wer finanziell frei werden will, sollte auf diese sechs Punkte achten",
-   "summary": "Auf dem Weg zur finanziellen Unabhängigkeit kann viel schiefgehen. Ein Frührentner-Paar verrät, wie man die größten Fallstricke vermeidet – und sich den Traum der frühen Rente erfüllt.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fire-welche-fallstricke-es-auf-dem-weg-zur-finanziellen-freiheit-gibt/100164519.html",
-   "published": "2026-09-24T13:16:00+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Aktuelle Stunde: Deutscher Raketenstart Isar Aerospace",
-   "summary": "Aktuelle Stunde im Bundestag auf Verlangen der Koalitionsfraktionen zum erfolgreichen Raketenstart Isar Aerospace am 05. September",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235217",
-   "published": "2026-09-24T13:16:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
-   "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-anfaengern-rate-ich-erst-mal-nur-in-etfs-zu-investieren/100222130.html",
-   "published": "2026-09-24T13:14:00+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Bildung in Brasilien: Wie Bertelsmann eine neue Ertragsperle aufgebaut hat",
-   "summary": "Weitab vom Stammhaus in Gütersloh feiert der Medienkonzern Bertelsmann Erfolge: In Brasilien ist er nun Hauptaktionär am größten Bildungsanbieter.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bildung-in-brasilien-wie-bertelsmann-eine-neue-ertragsperle-aufgebaut-hat-201258126.html",
-   "published": "2026-09-24T13:11:30+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Immobilienbranche: Warum der Frauenanteil an der Immobilienspitze sogar sinkt",
-   "summary": "Die Spitze der Immobilienwirtschaft ist männlich dominiert. Eine Studie zeigt, wie viele Frauen in der Geschäftsführung führender Unternehmen sind. Woran liegt das?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/frauenanteil-in-immobilien-chefetagen-sinkt-201255223.html",
-   "published": "2026-09-24T13:11:25+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konzernumbau: Wettlauf um die Fabrik der Zukunft – So soll der Neustart von Siemens gelingen",
-   "summary": "Der Technologiekonzern setzt auf ein radikales Konzept und auf KI. Am 1. Oktober wird das Unternehmen zur „One Tech Company“. Ein Manager übernimmt dabei eine Schlüsselposition.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/siemens-so-will-der-konzern-die-fabrik-der-zukunft-erfinden/100253283.html",
-   "published": "2026-09-24T13:11:21+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geld: Der Millionenerbe, der die Millionen nicht will",
-   "summary": "Kai Viehof hat den Großteil seines Erbes ausgeschlagen, auch vom Rest will der Enkel des Allkauf-Gründers das meiste weggeben. Über einen Mann, dessen Beruf es ist, sinnvoll Geld loszuwerden.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/reichtum-der-millionenerbe-der-sein-vermoegen-nicht-will-01/100204748.html",
-   "published": "2026-09-24T13:11:00+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: „Ich sehe eine große Gefahr“: Institute sorgen sich um Staatsschulden in Deutschland",
-   "summary": "Deutschland erlebt einen wirtschaftlichen Aufschwung. Doch die führenden Institute sind alles andere als euphorisch – weil neue Berechnungen zu den Staatsschulden erhebliche Risiken zeigen.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-institute-sorgen-sich-um-staatsschulden-in-deutschland/100256891.html",
-   "published": "2026-09-24T13:10:32+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Sensationsfund in Maastrichter Kirche: Der Musketier vor dem Altar",
-   "summary": "Sind die Gebeine, die in einer Kirche gefunden wurden, wirklich vom großen d´Artagnan? Eine Seifenoper in sieben Akten über ein mysteriöses Skelett. mehr...",
-   "link": "https://taz.de/Sensationsfund-in-Maastrichter-Kirche/!6215914/",
-   "published": "2026-09-24T13:09:00+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Umstrittene Polizei-Software: Der „Einstieg in den Ausstieg“ von Palantir",
-   "summary": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel. Doch das Konkurrenzprogramm muss noch besser werden. mehr...",
-   "link": "https://taz.de/Umstrittene-Polizei-Software/!6215930/",
-   "published": "2026-09-24T13:06:00+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Umstrittene Polizei-Software: Der „Einstieg in den Ausstieg“ von Palantir",
-   "summary": "Hessens Innenminister Poseck (CDU) zeigt sich bereit zum Ausstieg aus der umstrittenen Software des US-Milliardärs Peter Thiel. mehr...",
-   "link": "https://taz.de/Der-Einstieg-in-den-Ausstieg-von-Palantir/!6215930/",
-   "published": "2026-09-24T13:06:00+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: Herbert Diess: „Das ist für die Volkswirtschaft ein Drama“",
-   "summary": "Der Ex-VW-Chef warnt im Handelsblatt-Interview vor einem „gravierenden industriepolitischen Fehler“. Grund dafür ist eine neue Regulierung für Autobatterien als Stromspeicher.",
-   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-herbert-diess-das-ist-fuer-die-volkswirtschaft-ein-drama/100255756.html",
-   "published": "2026-09-24T12:55:53+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Mercedes will offenbar 800 Millionen Euro an Arbeitskosten sparen",
-   "summary": "Mercedes muss radikal sparen, nun liegen nach einem Medienbericht konkrete Zahlen vor. Der Vorstand droht offenbar mit Werksschließungen, falls es keine Einigung gibt.",
-   "link": "https://www.spiegel.de/wirtschaft/mercedes-will-offenbar-800-millionen-euro-an-arbeitskosten-sparen-a-023dab55-6ddb-436a-8874-9acd83f51c55#ref=rss",
-   "published": "2026-09-24T12:55:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Einkommensteuer: Hier schaut das Finanzamt in der Steuererklärung für 2025 ganz genau hin",
-   "summary": "Viele Steuererklärungen werden automatisch bearbeitet. Doch in einigen Fällen ist das Finanzamt besonders kritisch. Wann Steuerzahler unangenehmen Nachfragen zuvorkommen sollten.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-in-diesen-faellen-schaut-das-finanzamt-besonders-kritisch-hin-01/100105886.html",
-   "published": "2026-09-24T12:54:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Jetzt wird die US-Wirtschaft zum Problem für den Anleihemarkt",
-   "summary": "Die Renditen von US-Staatsanleihen steigen wieder. Das liegt auch an der überraschend starken US-Konjunktur.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/boersentag-jetzt-wird-die-us-wirtschaft-zum-problem-fuer-den-anleihemarkt/100257114.html",
-   "published": "2026-09-24T12:53:14+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Jetzt wird die US-Wirtschaft zum Problem für den Anleihemarkt",
-   "summary": "Die Renditen von US-Staatsanleihen steigen wieder. Das liegt auch an der überraschend starken US-Konjunktur.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/boerse-us-wirtschaft-wird-zum-problem-fuer-den-anleihemarkt/100257114.html",
-   "published": "2026-09-24T12:53:14+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Finanzamt: Neue Kryptoregeln – Wer seine Steuernummer nicht angibt, riskiert 50.000 Euro Bußgeld",
-   "summary": "Ab 2026 müssen Kryptobörsen neue Transparenzvorschriften einhalten. Was das Finanzamt künftig über Kryptobesitzer weiß und wo noch anonyme Geschäfte möglich sind.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-das-muessen-kryptoanleger-seit-2026-dem-finanzamt-melden/100192876.html",
-   "published": "2026-09-24T12:50:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Grüne wollen Klima- und Naturschutz im Grundgesetz verankern",
-   "summary": "Bundestagsdebatte zum Klima- und Naturschutz",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235216",
-   "published": "2026-09-24T12:49:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cispa: Konsequenzen nach China-Affäre: Chef von Helmholtz-Zentrum geht",
-   "summary": "Nach massiven Sicherheitsmängeln zieht das Forschungszentrum Cispa Konsequenzen: Chef Michael Backes muss gehen. Zuvor hatten die Sonderprüfer schwere Vorwürfe erhoben.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/cispa-konsequenzen-nach-china-affaere-chef-von-helmholtz-zentrum-geht/100257197.html",
-   "published": "2026-09-24T12:47:41+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuererklärung 2025: 1230 Euro pauschal: Diese Werbungskosten senken die Steuerlast noch weiter",
-   "summary": "Ob Bücher oder Bahntickets – rund um den Job gibt es zahlreiche Möglichkeiten, Werbungskosten abzusetzen und so am Ende Steuern zu sparen. Ein Überblick.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuererklaerung-fuer-diese-werbungskosten-gibt-es-geld-zurueck/100105891.html",
-   "published": "2026-09-24T12:47:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Krankmeldung: Wie sich Arbeitgeber gegen Blaumacher wehren können",
-   "summary": "Aus dem Handelsblatt-Archiv: Ein Mitarbeiter meldet sich immer an Brückentagen und montags krank? Diese rechtlichen Möglichkeiten haben Firmen bei Verdacht auf Blaumachen.",
-   "link": "https://www.handelsblatt.com/karriere/krankmeldung-so-duerfen-firmen-rechtlich-gegen-blaumacher-vorgehen/100180160.html",
-   "published": "2026-09-24T12:45:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Kinderkrankengeld: Das Kinderkrankengeld soll gekürzt werden – na und?",
-   "summary": "Der Gesundheitsminister will die Zahl der Kinderkrankentage senken. Bevor der Aufschrei zu groß wird, hilft ein Blick auf die Daten – und auf die eigentlichen Probleme.",
-   "link": "https://www.wiwo.de/erfolg/trends/kinderkrankentage-kuerzen-warum-die-plaene-kaum-eltern-treffen/100257153.html",
-   "published": "2026-09-24T12:44:41+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Macht- und Gewinnstreben gefährden KI-Sicherheit",
-   "summary": "Seit Monaten warnen Experten: KI ohne Kontrolle schadet, könnte letztlich die Menschheit gefährden. Doch die Idee globaler Regeln für mehr Sicherheit droht an Macht- und Gewinnstreben zu scheitern. Von Heidi Radvilas.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-regulierung-100.html",
-   "published": "2026-09-24T12:42:56+00:00",
-   "first_seen": "2026-09-24T14:04:35.198815+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gehalt: Top-Verdiener in Deutschland: In diesen Berufen wird am besten bezahlt",
-   "summary": "Gehören Sie zu den absoluten Top-Verdienern in Deutschland? Eine exklusive Auswertung zeigt, welche Berufe an der Gehaltsspitze stehen.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-so-viel-gehalt-brauchen-sie-um-zu-den-spitzenverdienern-zu-zaehlen-01/100201057.html",
-   "published": "2026-09-24T12:40:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Mietrecht-Reform trifft Vermieter hart – Hunderte Euro weniger",
-   "summary": "Welche Einschränkungen die jetzt vorgestellten Reformpläne von Justizministerin Hubig für Eigentümer und Vermieter vorsehen – und wie sehr sie den Markt verändern werden.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/mietrechtsreform-diese-veraenderungen-betreffen-vermieter-und-eigentuemer/100199045.html",
-   "published": "2026-09-24T12:38:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Aktien, Anleihen, ETFs, Optionen: So klappt es mit dem Nebenverdienst ohne Arbeit",
-   "summary": "Nichts tun und das Geld fließt trotzdem: Damit die Verheißung vom passiven Einkommen wahr werden kann, gilt es, häufige Fehler zu vermeiden – und sich von einer Illusion zu verabschieden.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-bauen-sie-mit-ihrem-vermoegen-passives-einkommen-auf/100188789.html",
-   "published": "2026-09-24T12:36:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Kommen neue Organspende-Regeln?",
-   "summary": "Weil Spenderorgane in Deutschland fehlen, soll die Organspende neu geregelt werden. Die Einführung einer Widerspruchsregelung bleibt bei der Debatte im Bundestag umstritten.",
-   "link": "https://www.zdfheute.de/politik/deutschland/organspende-gesetzentwurf-debatte-bundestag-100.html",
-   "published": "2026-09-24T12:35:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Altersvorsorge: Wie sich der Riester-Nachfolger für Gutverdiener lohnen kann",
-   "summary": "In das Altersvorsorgedepot kann mehr eingezahlt werden, als für die Förderung notwendig ist. Im Ruhestand sind dann die Steuersätze niedrig – mitunter werden sie aber teuer bezahlt.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-diese-steuerlichen-vorteile-bietet-das-altersvorsorgedepot/100222434.html",
-   "published": "2026-09-24T12:35:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Die neue Firma der Biontech-Gründer ist eine gute Nachricht für den Standort D",
-   "summary": "Man stelle sich nur kurz vor, die Geschichte wäre andersherum erzählt worden. Özlem Türeci und Ugur Sahin nehmen ihre nächste Idee mit und ziehen dorthin, wo das Geld lockerer sitzt.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-neue-firma-der-biontech-gruender-ist-gut-fuer-den-standort-d/100257116.html",
-   "published": "2026-09-24T12:33:49+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Wann sich ein Ehevertrag lohnt – und was er kostet",
-   "summary": "Ein Ehevertrag gilt als unromantisch. Doch ohne Vertrag gelten starre Regeln. Für Unternehmer, Immobilienbesitzer und Paare mit Kindern kann das teuer werden.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/vermoegen-mit-diesen-kosten-muessen-paare-beim-ehevertrag-rechnen/100224359.html",
-   "published": "2026-09-24T12:33:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
-   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-sie-koennte-so-leistungsfaehig-werden-dass-sie-zur-bedrohung-wird/100189694.html",
-   "published": "2026-09-24T12:32:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Russlands Angriff: Wie die Wirtschaft in der Ukraine leidet",
-   "summary": "Russland beschießt immer wieder Gebäude, Stromleitungen oder Bahnstrecken in der Ukraine. Die Hälfte des wirtschaftlichen Schadens hat nur indirekt mit Drohnen und Raketen zu tun.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/wie-die-wirtschaft-in-der-ukraine-leidet-accg-201210605.html",
-   "published": "2026-09-24T12:29:06+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gehaltsreport 2026: 1,3 Millionen Gehaltsdaten im Vergleich: Gehören Sie zu den Besserverdienern in Deutschland?",
-   "summary": "Das Gehalt gehört nach wie vor zu den Tabuthemen in Deutschland. Finden Sie heraus, wie gut Sie im Vergleich in einzelnen Berufen, Branchen und Bundesländern verdienen.",
-   "link": "https://www.handelsblatt.com/karriere/geld-das-sind-deutschlands-bestbezahlte-berufe-2026-26/100179922.html",
-   "published": "2026-09-24T12:28:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Tarifrunde: Die Parallelwelt der IG Metall",
-   "summary": "In einer historischen Krise der Industrie verlangt die Gewerkschaft fünf Prozent mehr Lohn und tut so, als habe sie mit der ökonomischen Realität wenig zu tun. Dabei hat sie selbst zur Kostenmisere beigetragen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/tarifrunde-die-ig-metall-sollte-von-ihrer-kaempferischen-startaufstellung-abruecken-201255892.html",
-   "published": "2026-09-24T12:27:17+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Anleger trotz starker Konjunkturaussichten unbeeindruckt – Dax liegt im Minus",
-   "summary": "Hohe Ölpreise, steigende Anleiherenditen und geopolitische Unsicherheit bremsen die Märkte. Ein starker Ifo-Geschäftsklimaindex kann die Anleger nicht überzeugen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-liegt-trotz-starker-konjunkturaussichten-im-minus/100257045.html",
-   "published": "2026-09-24T12:24:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: „Auch eine Rentnerin kann 100 Prozent Aktien vertragen“",
-   "summary": "Martin Weber hat über Jahrzehnte das Verhalten von Anlegern erforscht. Im Gespräch erklärt er, worauf es beim Aufbau eines Depots ankommt und welchem Irrglauben Anleger nicht anhängen sollten.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/anlagestrategie-nicht-hektisch-werden-und-wertpapiere-verkaufen/100124450.html",
-   "published": "2026-09-24T12:24:00+00:00",
-   "first_seen": "2026-09-24T13:05:01.801047+00:00",
    "paywall": true
   }
  ]
