@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T11:04:58.663224+00:00",
+ "updated": "2026-09-28T12:05:10.274860+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-mit-so-viel-vermoegen-gelten-sie-in-deutschland-als-reich-01/100149729.html",
+   "published": "2026-09-28T11:44:00+00:00",
+   "first_seen": "2026-09-28T12:05:10.274860+00:00",
    "paywall": true
   },
   {
@@ -865,42 +874,6 @@
    "published": "2026-09-24T09:48:05+00:00",
    "first_seen": "2026-09-24T11:04:11.540074+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Ökonomen kritisieren „unklare Wirtschaftspolitik“ und den Tankrabatt",
-   "summary": "Kurzfristig wächst die deutsche Wirtschaft wieder stärker. Doch das politische Hin und Her bei geplanten Reformen bremse Ausgaben und Investitionen, warnen die Wissenschaftler.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-oekonomen-kritisieren-unklare-wirtschaftspolitik-der-regierung/100257117.html",
-   "published": "2026-09-24T09:00:38+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax dreht vor USA-China-Treffen ins Minus",
-   "summary": "Hohe Ölpreise, steigende Anleiherenditen und geopolitische Unsicherheit bremsen die Märkte. Ein starker Ifo-Geschäftsklimaindex kann die Anleger nicht überzeugen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-vor-usa-china-treffen-ins-minus/100257045.html",
-   "published": "2026-09-24T08:56:07+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Diese fünf Branchen sorgen für Aufschwung in der Wirtschaft",
-   "summary": "Mehr Staatsausgaben, überraschend starke Exporte und der weltweite KI-Boom: Was die deutsche Wirtschaft stützt - und wie dauerhaft die Impulse sein könnten.",
-   "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-diagnose-ki-ruestung-industrie-100.html",
-   "published": "2026-09-24T08:55:00+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Gemeinschaftsdiagnose zur Konjunktur: Wirtschaft läuft besser als erwartet",
-   "summary": "Die Wirtschaftsinstitute heben ihre Prognose für das Wirtschaftswachstum auf 1,3 Prozent an. Sogar die Exporte nahmen zu. mehr...",
-   "link": "https://taz.de/Gemeinschaftsdiagnose-zur-Konjunktur/!6215915/",
-   "published": "2026-09-24T08:53:00+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": false
   }
  ]
 }
