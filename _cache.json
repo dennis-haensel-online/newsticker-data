@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T18:05:19.555308+00:00",
+ "updated": "2026-09-28T19:05:40.237986+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,69 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Woher kommt der Hass?",
+   "summary": "Woher kommt Queerfeindlichkeit? Die Doku zeigt, wie Vorurteile, Religion und gesellschaftliche Konflikte queeres Leben prägen – und Menschen für Sichtbarkeit und Freiheit kämpfen.",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-feindbild-queer--100/zdfinfo-feindbild-queer-woher-kommt-der-hass-100",
+   "published": "2026-09-28T19:00:00+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Landesbank Nord/LB: Deutschlands zweitwichtigster Bankendeal ist (vorerst) geplatzt",
+   "summary": "Niedersachsen wollte seine Macht bei der umstrittenen Landesbank Nord/LB ausbauen. Jetzt haben die Sparkassen die Pläne gestoppt – aus Sorge vor neuen Risiken.",
+   "link": "https://www.wiwo.de/unternehmen/banken/nord-lb-sparkassen-stoppen-anteilsverkauf-an-niedersachsen/100258051.html",
+   "published": "2026-09-28T18:38:00+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Wirtschaft vor acht vom 28.09.2026",
+   "summary": "Wirtschaft vor acht vom 28.09.2026",
+   "link": "https://www.tagesschau.de/video/video-1657180.html",
+   "published": "2026-09-28T18:31:17+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Angriffe auf Kiew - Klitschko: \"Der Terror geht weiter\"",
+   "summary": "Russland greift die Ukraine weiter heftig an. In der Hauptstadt Kiew wurden die Akademie der Wissenschaften und eine Klinik getroffen. Bürgermeister Klitschko sieht \"puren Terror\".",
+   "link": "https://www.zdfheute.de/politik/ausland/angriff-kiew-ukraine-krieg-russland-akademie-klinik-selenskyj-100.html",
+   "published": "2026-09-28T18:22:00+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "In der Lausitz: 365 Meter: Höchstes Windrad der Welt erreicht seine Höhe",
+   "summary": "Das laut Unternehmen Gicon höchste Windrad der Welt steht nun in der Lausitz. Zu Wochenbeginn erreichte der Riese seine endgültige Höhe. Vorher gab es Verzögerungen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/in-der-lausitz-365-meter-hoechstes-windrad-der-welt-erreicht-seine-hoehe/100258057.html",
+   "published": "2026-09-28T18:15:16+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Kampf für die Vielfalt",
+   "summary": "Nach dem Attentat beim Berliner CSD demonstrieren in Hamburg 300.000 Menschen für Vielfalt. Die Doku zeigt queeres Leben zwischen Sichtbarkeit, Akzeptanz und Anfeindungen.",
+   "link": "https://www.zdf.de/video/dokus/zdfinfo-feindbild-queer--100/zdfinfo-feindbild-queer-kampf-fuer-die-vielfalt-100",
+   "published": "2026-09-28T18:15:00+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Erdogan befragt Wüst zu politischer Lage in Deutschland",
+   "summary": "Nordrhein-Westfalens Ministerpräsident reist in die Türkei - und bekommt überraschend einen Termin bei Präsident Erdogan. Der will wissen, wie die Lage in Deutschland gerade ist.",
+   "link": "https://www.zdfheute.de/politik/hendrik-wuest-erdogan-tuerkei-empfangen-100.html",
+   "published": "2026-09-28T18:10:00+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -45,6 +108,15 @@
    "published": "2026-09-28T17:57:00+00:00",
    "first_seen": "2026-09-28T18:05:19.555308+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Deep Read: Wie ein ganzes Kraftwerk von Deutschland in die Ukraine gebracht wird",
+   "summary": "Über Rüstungshilfen für die Ukraine wird viel gesprochen. Genauso wichtig ist die Hilfe für die Energieversorgung. Es geht um Zehntausende Bauteile – und ein gigantisches Unterfangen.",
+   "link": "https://www.handelsblatt.com/politik/international/energie-wie-ein-ganzes-kraftwerk-von-deutschland-in-die-ukraine-gebracht-wird/100253817.html",
+   "published": "2026-09-28T17:56:54+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
+   "paywall": true
   },
   {
    "label": "taz",
@@ -314,6 +386,15 @@
    "link": "https://taz.de/Erfolgreiche-erneuerbare-Energien/!6216949/",
    "published": "2026-09-28T16:13:00+00:00",
    "first_seen": "2026-09-28T17:05:27.620526+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Solarstromproduktion übertrifft Vorjahreswert",
+   "summary": "In diesem Jahr wurde bereits mehr Solarstrom erzeugt als im gesamten letzten Jahr. Laut Bundesverband Solarwirtschaft wurden bis zum 27. September 90,2 Terawattstunden Solarstrom produziert.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/solarstromproduktion-uebertrifft-vorjahreswert-video-100.html",
+   "published": "2026-09-28T16:13:00+00:00",
+   "first_seen": "2026-09-28T19:05:40.237986+00:00",
    "paywall": false
   },
   {
@@ -13419,87 +13500,6 @@
    "published": "2026-09-24T14:51:00+00:00",
    "first_seen": "2026-09-24T15:05:18.914842+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Logistik: Kühne+Nagel plant unabhängige Untersuchung zur NS-Zeit",
-   "summary": "Lange hat sich Klaus-Michael Kühne gegen eine Auseinandersetzung mit der Geschichte von Kühne+Nagel während des NS-Regimes gewehrt. Jetzt möchte der Verwaltungsrat das ändern.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/logistik-kuehnenagel-plant-unabhaengige-untersuchung-zur-ns-zeit/100257231.html",
-   "published": "2026-09-24T14:50:58+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IPO in Mumbai: Stresstest für Indiens Aktienmarkt: Weltgrößte Derivatebörse geht selbst an die Börse",
-   "summary": "Indiens größte Börse gehört nach ihrem Debüt zu den wertvollsten Handelsplätzen der Welt. Doch ihr lukratives Geschäft mit dem Spekulationsdrang der Kleinanleger gerät zunehmend unter Druck.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ipo-weltgroesste-derivateboerse-geht-selbst-an-die-boerse/100256487.html",
-   "published": "2026-09-24T14:48:46+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Sozialreformen: Mehr Sozialstaat führt nicht zu weniger AfD",
-   "summary": "Nach den AfD-Wahlerfolgen fordert die SPD einen »deutschen New Deal« statt Sozialabbau. Doch mit dieser Rhetorik riskiert sie, ihre eigene Reformarbeit abzuwerten.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/sozialreformer-koalition-sozialstaat-afd-wahl-ergebnisse",
-   "published": "2026-09-24T14:44:32+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Brandenburger Elchbulle Bert ist tot",
-   "summary": "Trauer um Elch Bert: Fast neun Jahre lang wurde das Tier per GPS überwacht. Nun ist Brandenburgs bekanntester Elch gestorben. Seine Todesursache wird nun untersucht.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/videos/elch-bert-brandenburg-100.html",
-   "published": "2026-09-24T14:44:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Debatte zur Wissenschaftsfreiheit",
-   "summary": "Bundestagsdebatte zur Änderung des Wirtschaftsfreiheitsgesetzes",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5235222",
-   "published": "2026-09-24T14:44:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Brandenburger Elchbulle Bert ist tot",
-   "summary": "Trauer um Elch Bert: Fast neun Jahre lang wurde das Tier per GPS überwacht. Nun ist Brandenburgs bekanntester Elch gestorben. Seine Todesursache wird nun untersucht.",
-   "link": "https://www.zdfheute.de/video/hallo-deutschland/elch-bert-brandenburg-100.html",
-   "published": "2026-09-24T14:44:00+00:00",
-   "first_seen": "2026-09-24T22:04:10.464457+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Wahlen +++: Krach und Caglar sollen Berliner SPD-Fraktion anführen",
-   "summary": "SPD lädt vier Parteien zu Gesprächen in Sachsen-Anhalt ein +++ Berliner Grüne stellen Bedingungen für Sondierungen +++ Thüringens SPD-Chef Maier will nicht mehr antreten +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wahlen-in-berlin-und-mv-krach-und-caglar-sollen-berliner-spd-fraktion-anfuehren/100252039.html",
-   "published": "2026-09-24T14:43:00+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Comedy-Serie „Brothers“ bei Apple TV: Sich halb feiern und sich halb aufs Korn nehmen",
-   "summary": "Matthew McConaughey und Woody Harrelson gehen in „Brothers“ dem Gerücht nach, dass sie in echt Brüder sind. Das Ergebnis: Comedy mit wohldosierten Dude-Vibes. mehr...",
-   "link": "https://taz.de/Serie-Brothers-mit-Matthew-McConaughey-und-Woody-Harrelson-Comedy-mit-wohldosierten-Dude-Vibes/!6215816/",
-   "published": "2026-09-24T14:35:00+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
-   "summary": "Der deutsche Bankenmarkt zeigt sich weitgehend krisenfest - das ist das Ergebnis des neuen Stresstests von Bundesbank und Finanzaufsicht. Dabei werden bestimmte Schocks und Verwerfungen simuliert. Von Ursula Mayer.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html",
-   "published": "2026-09-24T14:29:16+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
-   "paywall": false
   }
  ]
 }
