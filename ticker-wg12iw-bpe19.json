@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T02:04:10.119144+00:00",
+ "updated": "2026-09-28T03:04:55.799017+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: KI-Spitzenmodelle dürfen nicht zum politischen Druckmittel werden",
+   "summary": "Ohne die Top-KI-Modelle droht uns der wirtschaftliche Bedeutungsverlust. Wir müssen den Zugang sichern, meinen Monika Schnitzer, Chefin der Wirtschaftsweisen, und Philip Fox von Kira Center.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-ki-spitzenmodelle-duerfen-nicht-zum-politischen-druckmittel-werden/100256781.html",
+   "published": "2026-09-28T02:09:04+00:00",
+   "first_seen": "2026-09-28T03:04:55.799017+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "HRI-Konjunkturausblick: Die Wirtschaft wächst! Der Wohlstand auch?",
+   "summary": "Die Konjunktur nimmt ein wenig an Fahrt auf. Kommt der Aufschwung nun auch bei den Bürgern an? Das Handelsblatt Research Institute bleibt vorsichtig.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/hri-konjunkturausblick-die-wirtschaft-waechst-der-wohlstand-auch/100256652.html",
+   "published": "2026-09-28T02:05:06+00:00",
+   "first_seen": "2026-09-28T03:04:55.799017+00:00",
    "paywall": true
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.spiegel.de/wirtschaft/berechnung-der-allianz-hitze-daempfte-europas-wirtschaftsleistung-a-297d80d8-a8c2-4503-b05b-e6ab5b29b75e#ref=rss",
    "published": "2026-09-24T06:06:00+00:00",
    "first_seen": "2026-09-24T07:04:59.934858+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Hitze dämpfte laut Studie der Allianz Europas Wirtschaftsleistung",
-   "summary": "Die starke Hitze der vergangenen Monate hat vielen Menschen zugesetzt. Einer Studie der Allianz zufolge hatte das Wetter zudem erhebliche Auswirkungen auf die Wirtschaftskraft.",
-   "link": "https://www.spiegel.de/wirtschaft/hitze-daempfte-laut-studie-der-allianz-europas-wirtschaftsleistung-a-297d80d8-a8c2-4503-b05b-e6ab5b29b75e#ref=rss",
-   "published": "2026-09-24T06:06:00+00:00",
-   "first_seen": "2026-09-24T11:04:11.540074+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
-   "summary": "Der DAX dürfte heute zum Handelsbeginn sinken. Der kräftige Anstieg des Ölpreises schürt neue Inflations- und Zinssorgen. Im Fokus stehen zudem der Trump-Xi-Gipfel und die neue Konjunkturprognose.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
-   "published": "2026-09-24T05:26:00+00:00",
-   "first_seen": "2026-09-24T06:05:25.199286+00:00",
    "paywall": false
   }
  ]
