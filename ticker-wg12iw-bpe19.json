@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T10:05:59.747365+00:00",
+ "updated": "2026-09-28T11:04:58.663224+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,24 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Inflation: Rekordhohe Spritpreise treiben Inflation auf höchsten Stand seit 2023",
+   "summary": "Die Inflation erreicht im September wohl den höchsten Stand seit 2023. Haupttreiber sind die Spritpreise.",
+   "link": "https://www.wiwo.de/politik/konjunktur/wegen-rekordhoher-spritpreise-inflation-erreicht-hoechsten-stand-seit-2023/100257879.html",
+   "published": "2026-09-28T10:23:00+00:00",
+   "first_seen": "2026-09-28T11:04:58.663224+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: IAB-Arbeitsmarktbarometer: Beschäftigung schrumpft",
+   "summary": "Zunehmende Beschäftigung hat lange Zeit den Arbeitsmarkt in Deutschland getragen. Jetzt beginnt das einzutreten, was Forscher längst vorausgesagt haben: Die Beschäftigung leidet unter der Demografie.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-iab-arbeitsmarktbarometer-beschaeftigung-schrumpft/100257932.html",
+   "published": "2026-09-28T09:58:06+00:00",
+   "first_seen": "2026-09-28T11:04:58.663224+00:00",
    "paywall": true
   },
   {
@@ -881,24 +899,6 @@
    "summary": "Die Wirtschaftsinstitute heben ihre Prognose für das Wirtschaftswachstum auf 1,3 Prozent an. Sogar die Exporte nahmen zu. mehr...",
    "link": "https://taz.de/Gemeinschaftsdiagnose-zur-Konjunktur/!6215915/",
    "published": "2026-09-24T08:53:00+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Ifo-Index steigt zum fünften Mal in Folge",
-   "summary": "Die Stimmung in den deutschen Chefetagen wird erneut besser. Die Wirtschaft ist auf Erholungskurs, sagt Ifo-Chef Clemens Fuest.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-ifo-index-steigt-zum-fuenften-mal-in-folge/100257110.html",
-   "published": "2026-09-24T08:51:00+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Institute verdoppeln Prognose für Wirtschaftswachstum",
-   "summary": "Die Wirtschaft wächst deutlich stärker als zunächst angenommen: Die führenden deutschen Wirtschaftsforschungsinstitute erwarten 2026 ein Wachstum von 1,3 Prozent.",
-   "link": "https://www.zdfheute.de/wirtschaft/herbstprognose-wirtschaftsforschungsinstitute-wachstum-bip-100.html",
-   "published": "2026-09-24T08:50:00+00:00",
    "first_seen": "2026-09-24T09:04:15.470239+00:00",
    "paywall": false
   }
