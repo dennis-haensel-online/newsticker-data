@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T21:04:39.017699+00:00",
+ "updated": "2026-09-28T22:04:09.804275+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Erneuerbare Energien: Höchstes Windrad der Welt überragt fast den Berliner Fernsehturm",
+   "summary": "Zum Vergleich: Mit 368 Metern ist der Berliner Fernsehturm nur drei Meter höher. Die weltweit höchste Windenergieanlage und zugleich das zweithöchste Bauwerk Deutschlands thront jetzt in der Lausitz.",
+   "link": "https://www.spiegel.de/wirtschaft/erneuerbare-energien-hoechstes-windrad-der-welt-ueberragt-fast-den-berliner-fernsehturm-a-7bef3183-c302-40e4-a38c-1efea7807882#ref=rss",
+   "published": "2026-09-28T21:33:00+00:00",
+   "first_seen": "2026-09-28T22:04:09.804275+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Höhenwindturm: Weltweit größtes Windrad erreicht finale Höhe",
+   "summary": "Der Höhenwindturm in der Lausitz ist nun 365 Meter hoch. In Deutschland ist nur der Berliner Fernsehturm höher. Die Einweihung des Windrads ist für November geplant.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/hoehenwindturm-windrad-lausitz-schipkau-hoehe",
+   "published": "2026-09-28T21:07:02+00:00",
+   "first_seen": "2026-09-28T22:04:09.804275+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Die Höhle der Löwen: „Eine Doppelrolle als operative Gründerin und Investorin wäre ein Konflikt gewesen“",
+   "summary": "Vor vier Jahren war Influencerin Diana zur Löwen Investorin in der TV-Show, nun kehrt sie als Gründerin zurück. Was hat sie mit der Marke Artem vor?",
+   "link": "https://www.wiwo.de/erfolg/gruender/die-hoehle-der-loewen-diana-zur-loewen-stellt-eigenes-start-up-artem-oral-care-vor/100257455.html",
+   "published": "2026-09-28T21:00:00+00:00",
+   "first_seen": "2026-09-28T22:04:09.804275+00:00",
    "paywall": true
   },
   {
@@ -13473,33 +13500,6 @@
    "published": "2026-09-24T15:10:34+00:00",
    "first_seen": "2026-09-27T05:03:53.680060+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI-Modell hackt australisches Gesundheitsportal",
-   "summary": "Ein Bot des KI-Anbieters hat sich laut Australiens Premier Albanese Zugang zu einem staatlichen Internetportal verschafft. Das Modell sollte Daten über Gesundheitsausgaben sammeln und hat dabei Statistiken der staatlichen Krankenkasse…",
-   "link": "https://www.handelsblatt.com/video/politik/kuenstliche-intelligenz-openai-modell-hackt-australisches-gesundheitsportal/100257229.html",
-   "published": "2026-09-24T15:10:28+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Trotz Niederlage Trumps vor Gericht: Journalisten dürfen weiter nicht ins Weiße Haus",
-   "summary": "Der US-Präsident kassiert eine Klatsche: Er muss die Berichterstattung von CNN, MS NOW und Politico zulassen. Bisher wurde die Sperre jedoch nicht aufgehoben. mehr...",
-   "link": "https://taz.de/Trotz-Niederlage-Trumps-vor-Gericht/!6216008/",
-   "published": "2026-09-24T15:09:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Nicht die KI ist außer Kontrolle, ihre Erbauer sind es",
-   "summary": "Vor den UN warnen OpenAI-Chef Altman und Anthropic-Chef Amodei vor KI. Zeitgleich starten ihre Firmen neue Modelle – und verlieren die Kontrolle über die alten. Die KI-News der Woche.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-nicht-die-ki-ist-ausser-kontrolle-ihre-erbauer-sind-es/100256907.html",
-   "published": "2026-09-24T15:06:28+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
   }
  ]
 }
