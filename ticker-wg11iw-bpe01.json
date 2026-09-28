@@ -1,7 +1,16 @@
 {
  "id": "wg11iw-bpe01",
- "updated": "2026-09-28T17:05:27.620526+00:00",
+ "updated": "2026-09-28T18:05:19.555308+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Hitze und Dürre in Europa: EU geht von Milliardenschaden für Landwirte durch Hitzesommer aus",
+   "summary": "Hitze und Dürre haben zu schwachen Ernten in der EU geführt. EU-Agrarkommissar Christophe Hansen bezeichnet Landwirte als »die ersten Opfer des Klimawandels«.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/hitze-duerre-europa-landwirtschaft-klimawandel-eu-agrarpolitik",
+   "published": "2026-09-28T17:46:55+00:00",
+   "first_seen": "2026-09-28T18:05:19.555308+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Fahrradindustrie: Rückkehr des Gründers und WM-Erfolge: So arbeitet sich Fahrradhersteller Canyon aus der Krise",
@@ -99,15 +108,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/tsmc-co.-was-der-chip-streik-in-taiwan-fuer-ki-bedeutet/100256210.html",
    "published": "2026-09-25T07:56:28+00:00",
    "first_seen": "2026-09-25T08:04:13.622338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Foxconn plant Fabrik: Ein polnischer Milliardencoup nach dem Intel-Aus",
-   "summary": "Tech-Konzerne aus Taiwan wollen in Polen milliardenschwere Fabriken für KI- und Autotechnik aufbauen. Das dürfte auch die Lieferketten deutscher Konzerne stärken – und manche Standortwerber ärgern.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/foxconn-ein-polnischer-milliardencoup-nach-dem-intel-aus-201257610.html",
-   "published": "2026-09-24T13:59:37+00:00",
-   "first_seen": "2026-09-24T15:05:18.914842+00:00",
    "paywall": true
   }
  ]

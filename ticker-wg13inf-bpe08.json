@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-28T17:05:27.620526+00:00",
+ "updated": "2026-09-28T18:05:19.555308+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Wie viel KI verträgt die Seelsorge?",
+   "summary": "Predigten, Trauergespräche, Jugendarbeit: Künstliche Intelligenz hält Einzug in den kirchlichen Alltag. Bei der Bischofsvollversammlung in Fulda soll über KI diskutiert werden.",
+   "link": "https://www.zdfheute.de/panorama/bischofsvollversammlung-fulda-kuenstliche-intelligenz-100.html",
+   "published": "2026-09-28T17:59:00+00:00",
+   "first_seen": "2026-09-28T18:05:19.555308+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Künstliche Intelligenz: Nvidia will KI mit neuer Software im Zaum halten",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/afd-erlebnispopulismus-was-andere-parteien-daraus-lernen-koennen/100255264.html",
    "published": "2026-09-25T17:32:38+00:00",
    "first_seen": "2026-09-25T18:04:18.157587+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Gates: KI könnte Tod einer Milliarde Menschen verursachen",
-   "summary": "Nach eigenständigen Hacking-Attacken durch KI häufen sich Warnungen vor existenziellen Risiken der Technologie. Microsoft-Mitgründer Bill Gates sieht eine Milliarde Leben in Gefahr.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-gates-ki-koennte-tod-einer-milliarde-menschen-verursachen/100257512.html",
-   "published": "2026-09-25T16:39:52+00:00",
-   "first_seen": "2026-09-25T17:03:25.290796+00:00",
    "paywall": true
   }
  ]
