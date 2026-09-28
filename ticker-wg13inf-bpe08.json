@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-28T09:05:58.674983+00:00",
+ "updated": "2026-09-28T10:05:59.747365+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -36,6 +36,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-muss-kein-jobkiller-sein-201247842.html",
    "published": "2026-09-28T08:18:11+00:00",
    "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Zukunft der Arbeit: KI muss kein Jobkiller sein",
+   "summary": "Künstliche Intelligenz wird immer besser darin, menschliche Tätigkeiten zu übernehmen. Doch ob und welche sie Berufe verschwinden lässt, ist offen. Wie sich der Mensch auf diese Unwägbarkeiten vorbereiten sollte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-und-jobs-welche-berufe-verschwinden-koennten-und-welche-nicht-201247842.html",
+   "published": "2026-09-28T08:18:11+00:00",
+   "first_seen": "2026-09-28T10:05:59.747365+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/gewerkschaft-bankangestellte-fordern-bis-zu-drei-ki-entlastungstage-im-quartal/100257347.html",
    "published": "2026-09-25T06:07:06+00:00",
    "first_seen": "2026-09-25T07:04:57.948401+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Anthropic plant vor Börsengang wohl Stimmrechtsmehrheit für Gründer",
-   "summary": "Der KI-Entwickler Anthropic strebt an die Börse – mit einer Aktienstruktur nach Palantir-Vorbild und Kontrolle der Gründer.",
-   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
-   "published": "2026-09-25T05:45:56+00:00",
-   "first_seen": "2026-09-25T06:04:54.710079+00:00",
    "paywall": true
   }
  ]

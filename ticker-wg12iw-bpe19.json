@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T09:05:58.674983+00:00",
+ "updated": "2026-09-28T10:05:59.747365+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -12,12 +12,48 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Einwanderer füllen Lücken in vielen Engpassberufen",
+   "summary": "Branchen mit akutem Fachkräftemangel profitieren besonders von Zuwanderung auf dem Arbeitsmarkt. Der Integrationserfolg wird dabei vor allem von zwei Faktoren bestimmt.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-einwanderer-fuellen-luecken-in-vielen-engpassberufen/100257906.html",
+   "published": "2026-09-28T09:26:57+00:00",
+   "first_seen": "2026-09-28T10:05:59.747365+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gesundheit: Fitnessbranche sieht beim Wachstum „noch viel Luft nach oben“ – Weitere Konsolidierung erwartet",
+   "summary": "Mitgliederrekorde und noch weiteres Potenzial: Die Fitnessbranche in Deutschland ist aus mehreren Gründen optimistisch. Anbieter Lifefit peilt eine halbe Milliarde Euro Umsatz an.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/gesundheit-konsolidierung-in-fitnessbranche-haelt-an-viel-luft-nach-oben/100257038.html",
+   "published": "2026-09-28T09:04:05+00:00",
+   "first_seen": "2026-09-28T10:05:59.747365+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Ifo-Umfrage: Arbeitsmarkt stabilisiert sich",
+   "summary": "Noch überwiegen in den meisten Wirtschaftsbranchen die Pläne, Jobs abzubauen - ein Bereich sticht aber positiv hervor.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-ifo-umfrage-arbeitsmarkt-stabilisiert-sich/100257902.html",
+   "published": "2026-09-28T09:01:08+00:00",
+   "first_seen": "2026-09-28T10:05:59.747365+00:00",
+   "paywall": true
+  },
+  {
    "label": "SZ",
    "title": "Arbeitsmarkt: Einwanderer in vielen Berufen unverzichtbar",
    "summary": "Mehr als ein Viertel aller Beschäftigten in Deutschland hat Wurzeln im Ausland. Besonders in Berufen, in denen händeringend Fachkräfte gesucht werden, würde ohne sie kaum etwas gehen.",
    "link": "https://www.sueddeutsche.de/wirtschaft/einwanderer-berufe-unverzichtbar-fachkraefte-li.3555029",
    "published": "2026-09-28T08:52:44+00:00",
    "first_seen": "2026-09-28T09:05:58.674983+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Arbeitsmarkt: Einwanderer in vielen Berufen unverzichtbar",
+   "summary": "Mehr als ein Viertel aller Beschäftigten in Deutschland hat Wurzeln im Ausland. Besonders in Berufen, in denen händeringend Fachkräfte gesucht werden, würde ohne sie kaum etwas gehen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/einwanderer-berufe-fachkraefte-deutschland-li.3555029",
+   "published": "2026-09-28T08:52:44+00:00",
+   "first_seen": "2026-09-28T10:05:59.747365+00:00",
    "paywall": true
   },
   {
@@ -865,42 +901,6 @@
    "published": "2026-09-24T08:50:00+00:00",
    "first_seen": "2026-09-24T09:04:15.470239+00:00",
    "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen",
-   "summary": "Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Aber der Aufschwung habe ein \"schmales Fundament\".",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html",
-   "published": "2026-09-24T08:49:15+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Ifo-Geschäftsklima auf höchstem Stand seit über drei Jahren",
-   "summary": "Das Stimmungsbarometer steigt erneut und übertrifft die Erwartungen der Analysten. Doch nicht alle Branchen profitieren.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-ifo-geschaeftsklima-auf-hoechstem-stand-seit-ueber-drei-jahren/100257126.html",
-   "published": "2026-09-24T08:36:56+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Konjunktur: Wirtschaftsinstitute verdoppeln Wachstumsprognose",
-   "summary": "Die deutsche Wirtschaft befindet sich im Aufschwung: Die führenden Wirtschaftsinstitute heben ihre Prognosen deutlich an. Doch Experten warnen: Das Ganze steht auf wackligen Beinen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-wirtschaft-bip-wachstum-prognose-li.3553200",
-   "published": "2026-09-24T08:32:50+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Herbstprognose: Wirtschaftsinstitute erwarten doppelt so hohes Wirtschaftswachstum",
-   "summary": "Der Irankrieg belastet die deutsche Wirtschaft weniger stark als erwartet. Führende Wirtschaftsinstitute rechnen für 2026 mit einem Wachstum von 1,3 Prozent.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/herbstprognose-wirtschaftsinstitute-2026-wirtschaftswachstum-1-3-prozent-gxe",
-   "published": "2026-09-24T08:28:21+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
   }
  ]
 }
