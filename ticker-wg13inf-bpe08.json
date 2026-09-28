@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-28T14:07:12.252975+00:00",
+ "updated": "2026-09-28T15:07:24.153728+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Nvidia will KI mit neuer Software im Zaum halten",
+   "summary": "Vorstandschef Jensen Huang hat KI-Risiken zuletzt wiederholt heruntergespielt und als technisch lösbare Herausforderung beschrieben. Jetzt kündigt er eine neue Sicherheitsplattform für KI an.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-ki-sicherheitsplattform-jensen-huangs-neuer-plan-201269402.html",
+   "published": "2026-09-28T14:26:58+00:00",
+   "first_seen": "2026-09-28T15:07:24.153728+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Börsentag: Warum verkauft Tesla noch Fahrzeuge?",
+   "summary": "KI, autonomes Fahren, humanoide Roboter: Statt in Fahrzeuge investiert Tesla lieber in verschiedenste Zukunftstechnologien. Doch der Konzern hat gute Gründe, auch weiterhin Autos zu bauen.",
+   "link": "https://www.wiwo.de/finanzen/boerse/tesla-warum-verkauft-musks-unternehmen-noch-e-autos/100257908.html",
+   "published": "2026-09-28T14:25:20+00:00",
+   "first_seen": "2026-09-28T15:07:24.153728+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "US-Chipkonzern: Nvidia stockt Aktienrückkaufprogramm um 150 Milliarden US-Dollar auf",
@@ -9,6 +27,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/us-chipkonzern-nvidia-stockt-aktienrueckkaufprogramm-deutlich-auf/100257960.html",
    "published": "2026-09-28T13:52:42+00:00",
    "first_seen": "2026-09-28T14:07:12.252975+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Chipkonzern: Nvidia plant größten Aktienrückkauf der US-Geschichte",
+   "summary": "Der KI-Boom hat Nvidia zum wertvollsten Unternehmen der Welt gemacht. Nvidia-Chef Jensen Huang wettet mit dem Aktienrückkauf auf eine wachstumsträchtige Zukunft.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-chipkonzern-plant-groessten-aktienrueckkauf-der-us-geschichte/100257960.html",
+   "published": "2026-09-28T13:52:42+00:00",
+   "first_seen": "2026-09-28T15:07:24.153728+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-gates-ki-koennte-tod-einer-milliarde-menschen-verursachen/100257512.html",
    "published": "2026-09-25T16:39:52+00:00",
    "first_seen": "2026-09-25T17:03:25.290796+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Negativpreis: „BigBrotherAwards“ an Großnutzer von US-Technik vergeben",
-   "summary": "Optiker, Kirche und Politik im Fokus: Die umstrittenen „BigBrotherAwards“ gehen an Akteure, die laut Digitalcourage-Verein Datenschutz und Privatsphäre riskieren.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/negativpreis-bigbrotherawards-an-grossnutzer-von-us-technik-vergeben/100257505.html",
-   "published": "2026-09-25T16:00:07+00:00",
-   "first_seen": "2026-09-25T17:03:25.290796+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aktuelle Stunde im Bundestag: KI-Debatte im Bundestag: Mehr Kontrolle und Souveränität",
-   "summary": "Der Bundestag debattiert über Chancen und Risiken künstlicher Intelligenz. Haben Entwickler hierzulande genügend Beinfreiheit und was ist mit dem Schutzversprechen des Staates?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/aktuelle-stunde-im-bundestag-ki-debatte-im-bundestag-mehr-kontrolle-und-souveraenitaet/100257502.html",
-   "published": "2026-09-25T15:27:41+00:00",
-   "first_seen": "2026-09-25T16:04:46.445536+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Staat gibt Beteiligung an Condor ab",
-   "summary": "Chemiebranche vor Großübernahme +++ Starbucks schließt 250 Filialen in Nordamerika +++ KI-Modell mit mehr Sicherheit geplant +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-staat-zieht-sich-aus-fluggesellschaft-condor-zurueck-faz-200452404.html",
-   "published": "2026-09-25T14:49:00+00:00",
-   "first_seen": "2026-09-25T15:04:36.153236+00:00",
    "paywall": true
   }
  ]
