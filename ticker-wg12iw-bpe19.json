@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-28T07:07:05.897376+00:00",
+ "updated": "2026-09-28T08:06:25.001911+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Beyond the obvious: Roosevelt als Vorbild? Warum der SPD-„New Deal“ heute nicht funktioniert",
+   "summary": "Deutschlands Wirtschaft wächst stärker als erwartet. Doch der schuldenfinanzierte Aufschwung dürfte rasch verpuffen, wenn wir die bessere Konjunktur nicht nutzen. Ein Gastbeitrag.",
+   "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/beyond-the-obvious-warum-der-spd-new-deal-heute-nicht-funktioniert/100257362.html",
+   "published": "2026-09-28T08:00:00+00:00",
+   "first_seen": "2026-09-28T08:06:25.001911+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-bieten-trotz-ki-boom-gute-zukunftsperspektiven/100235558.html",
+   "published": "2026-09-28T07:28:00+00:00",
+   "first_seen": "2026-09-28T08:06:25.001911+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Beschäftigungsbarometer: Arbeitsmarkt stabilisiert sich laut Ifo – „Echte Erholung noch nicht in Sicht“",
+   "summary": "Die Wirtschaft wächst wieder, doch der Arbeitsmarkt hinkt hinterher: Das Ifo-Institut erwartet zunächst weiter sinkende Erwerbstätigkeit.",
+   "link": "https://www.wiwo.de/politik/konjunktur/ifo-arbeitsmarkt-stabilisiert-sich-echte-erholung-noch-nicht-in-sicht/100257842.html",
+   "published": "2026-09-28T07:19:00+00:00",
+   "first_seen": "2026-09-28T08:06:25.001911+00:00",
    "paywall": true
   },
   {
@@ -872,33 +899,6 @@
    "summary": "Die deutschen Unternehmen melden bessere Geschäfte und blicken positiver in die Zukunft. Damit verfestigt sich der Eindruck, dass die deutsche Wirtschaft sich erholt.",
    "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-ifo-index-steigt-zum-fuenften-mal-in-folge-und-uebertrifft-erwartungen/100257109.html",
    "published": "2026-09-24T08:13:02+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Wirtschaftsinstitute verdoppeln Konjunkturprognose",
-   "summary": "Die deutsche Wirtschaft befindet sich im Aufschwung: Die führenden Wirtschaftsinstitute heben ihre Prognosen deutlich an – doch die Experten warnen: Das Ganze steht auf wackligen Beinen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-wirtschaftsinstitute-verdoppeln-konjunkturprognose/100257105.html",
-   "published": "2026-09-24T08:01:56+00:00",
-   "first_seen": "2026-09-24T09:04:15.470239+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Wirtschaftsinstitute erwarten für 2026 Wachstum von 1,3 Prozent",
-   "summary": "",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/herbstprognose-wirtschaftsinstitute-2026-wirtschaftswachstum-1-3-prozent",
-   "published": "2026-09-24T08:00:09+00:00",
-   "first_seen": "2026-09-24T08:04:17.551928+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Deutsche Konjunktur: Wirtschaftsforscher verdoppeln ihre Wachstumsprognose für dieses Jahr",
-   "summary": "Die großen deutschen Wirtschaftsforschungsinstitute erwarten, dass das BIP in diesem Jahr um 1,3 Prozent zulegt. Sie fordern vom Staat, mehr zu sparen. Die Fiskalpolitik befinde sich auf Abwegen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/deutschland-im-aufschwung-institute-heben-wachstumsprognose-accg-201258083.html",
-   "published": "2026-09-24T08:00:01+00:00",
    "first_seen": "2026-09-24T09:04:15.470239+00:00",
    "paywall": true
   }

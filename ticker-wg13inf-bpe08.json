@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-28T07:07:05.897376+00:00",
+ "updated": "2026-09-28T08:06:25.001911+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "KI-Boom und Rüstung bringen Rekord bei Milliarden-Start-ups",
+   "summary": "Die deutsche Gründerbranche bringt immer mehr Milliarden-Start-ups hervor. Dazu gehören etwa Trade Republic und N26, aber auch die Softwarefirma Osapiens und die Rüstungsfirma Stark Defense.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-boom-gruendungen-ruestung-ki-100.html",
+   "published": "2026-09-28T08:01:42+00:00",
+   "first_seen": "2026-09-28T08:06:25.001911+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-bieten-trotz-ki-boom-gute-zukunftsperspektiven/100235558.html",
+   "published": "2026-09-28T07:28:00+00:00",
+   "first_seen": "2026-09-28T08:06:25.001911+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/karriere-so-veraendert-ki-den-bewerbungsprozess-fuer-jobsuchende/100248546.html",
+   "published": "2026-09-28T07:13:00+00:00",
+   "first_seen": "2026-09-28T08:06:25.001911+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung: „Das Schlimmste aus der Perspektive eines überklugen Typen wie Elon Musk ist ja das Sterben“",
+   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
+   "link": "https://www.handelsblatt.com/karriere/manuel-scheidegger-die-ki-ist-der-gipfelpunkt-der-bewegung-zur-ueberklugheit/100252820.html",
+   "published": "2026-09-28T07:12:00+00:00",
+   "first_seen": "2026-09-28T08:06:25.001911+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Zukunftsgestalter: Die Kundenversteher – Wie Fielmann mit digitalen Tools Kunden zurückgewinnen will",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/audio/disrupt-podcast/disrupt-ki-pionier-bengio-ueber-experimente-an-der-menschheit-und-sichere-ki/100257320.html",
    "published": "2026-09-25T04:52:32+00:00",
    "first_seen": "2026-09-25T05:03:39.481463+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
-   "summary": "Der KI die Hausaufgaben überlassen: Die Möglichkeiten künstlicher Intelligenz sind für Schüler verführerisch. Singapur hat deshalb eigene KI-Tools für den Unterricht entwickelt - von denen auch Lehrer profitieren. Von J. Johnston.",
-   "link": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html",
-   "published": "2026-09-25T03:22:44+00:00",
-   "first_seen": "2026-09-25T07:04:57.948401+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Mit Spacex: Google schickt testweise KI-Chips ins All",
-   "summary": "Tech-Milliardär Elon Musk spricht seit langem von Rechenzentren im All. Jetzt offenbart ein anderes Tech-Schwergewicht konkrete Test-Pläne – mit Hilfe einer der Raketen von Musks Firma SpaceX.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/google-ki-chips-im-all-erster-test-mit-spacex-rakete-accg-201261042.html",
-   "published": "2026-09-25T03:15:07+00:00",
-   "first_seen": "2026-09-25T04:04:11.598584+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Wer bezahlt die Aufpasser der KI?",
-   "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/ki-wer-bezahlt-die-aufpasser-der-ki/100256634.html",
-   "published": "2026-09-25T02:00:00+00:00",
-   "first_seen": "2026-09-25T03:04:14.353413+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
-   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-pionier-diese-kis-betruegen-obwohl-sie-es-nicht-duerfen/100256318.html",
-   "published": "2026-09-25T02:00:00+00:00",
-   "first_seen": "2026-09-25T03:04:14.353413+00:00",
    "paywall": true
   }
  ]
