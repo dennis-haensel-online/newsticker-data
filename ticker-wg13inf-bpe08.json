@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T02:03:56.553384+00:00",
+ "updated": "2026-09-29T03:04:39.091205+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Anthropics Börsenprospekt soll hohe Verluste ausweisen",
+   "summary": "Reuters erhielt Einblick in die vertraulichen Unterlagen für den Börsengang. Sie zeigen rasant steigende Umsätze, enorme Verpflichtungen und eine ungewöhnliche Machtstruktur.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-anthropics-boersenprospekt-soll-hohe-verluste-ausweisen/100258107.html",
+   "published": "2026-09-29T02:46:38+00:00",
+   "first_seen": "2026-09-29T03:04:39.091205+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: OpenAI streicht Veröffentlichung von neuem KI-Modell",
@@ -891,15 +900,6 @@
    "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257562.html",
    "published": "2026-09-26T02:55:54+00:00",
    "first_seen": "2026-09-26T09:03:50.392939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
-   "summary": "Erstmals sind bei einem Fehlverhalten von OpenAIs KI Nutzerdaten betroffen. Zudem griffen die Systeme laut einem Bericht auf öffentliche Daten von US-Behörden zu.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257541.html",
-   "published": "2026-09-26T01:56:07+00:00",
-   "first_seen": "2026-09-26T03:03:48.266833+00:00",
    "paywall": true
   }
  ]
