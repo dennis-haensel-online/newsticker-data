@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T19:05:43.895938+00:00",
+ "updated": "2026-09-29T20:05:13.481397+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -11,12 +11,84 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Nordafrika: In Marokko übernimmt erstmals eine Frau die Regierungsspitze",
+   "summary": "Fatima Ezzahra el-Mansouri wird neue Regierungschefin des nordafrikanischen Staates. Die 50-Jährige muss noch eine Koalition aushandeln. Ihr Land soll bald ein Weltereignis mitorganisieren.",
+   "link": "https://www.handelsblatt.com/politik/international/nordafrika-in-marokko-uebernimmt-erstmals-eine-frau-die-regierungsspitze/100258440.html",
+   "published": "2026-09-29T19:38:13+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: USA verhängen Sanktionen gegen Waffenbeschaffer für Iran",
+   "summary": "Iran droht mit Aus für alle Öl-Exporte aus der Region +++ Schiff in der Straße von Hormus offenbar unter Beschuss +++ Iran ruft Amerikaner zum Protest gegen Iran-Krieg auf +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-usa-verhaengen-sanktionen-gegen-waffenbeschaffer-fuer-iran/100136895.html",
+   "published": "2026-09-29T19:35:00+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI streicht neues Modell - und setzt auf KI-Agenten",
+   "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-neues-modell-und-setzt-auf-ki-agenten/100258087.html",
+   "published": "2026-09-29T19:15:49+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Energiekosten: EU rechnet mit »sehr hohen« Energiepreisen in diesem Winter",
+   "summary": "Die EU-Kommission und die Internationale Energieagentur warnen wegen steigender Energiekosten vor einem »sehr schwierigen Winter«. Die Versorgung sei aber gesichert.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/energiepreise-winter-iea-fatih-birol-tankrabatt-spritpreisdeckel",
+   "published": "2026-09-29T19:14:17+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
+   "paywall": true
+  },
+  {
    "label": "ZDF",
    "title": "Risiko Augen-OP | KI außer Kontrolle",
    "summary": "Mit den Themen: Risiko Augen-OP | KI außer Kontrolle | Frauen in der Teilzeitfalle | Verschleppte ukrainische Kinder",
    "link": "https://www.zdf.de/video/magazine/frontal-das-magazin-100/frontal-vom-29-september-2026-100",
    "published": "2026-09-29T19:00:00+00:00",
    "first_seen": "2026-09-29T19:05:43.895938+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Augen-OP: Profit auf Kosten der Patienten?",
+   "summary": "Augenoperationen für ein Leben ohne Brille: Was als medizinischer Fortschritt klingt, kann für Patienten mit Risiken und Komplikationen verbunden sein.",
+   "link": "https://www.zdfheute.de/video/frontal/risiko-augenoperation-augen-op-100.html",
+   "published": "2026-09-29T19:00:00+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "KI außer Kontrolle",
+   "summary": "KI-Systeme, die außer Kontrolle geraten: Immer wieder sorgen neue sicherheitsrelevante Vorfälle für Schlagzeilen. Wie gefährlich ist die Lage – und was kann auch Europa tun, um sich zu schützen?",
+   "link": "https://www.zdfheute.de/video/frontal/ki-ausser-kontrolle-102.html",
+   "published": "2026-09-29T19:00:00+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Frauen in der Teilzeitfalle",
+   "summary": "Die Deutschen sollen mehr arbeiten, fordert der Bundeskanzler. Doch tut seine Regierung genug gegen Fehlanreize, die es insbesondere für Frauen unattraktiv machen, ihre Arbeitszeit auszuweiten?",
+   "link": "https://www.zdfheute.de/video/frontal/frauen-in-der-teilzeitfalle-ehegattensplitting-100.html",
+   "published": "2026-09-29T19:00:00+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Verschleppte ukrainische Kinder",
+   "summary": "Tausende ukrainische Kinder werden seit Beginn des russischen Angriffskriegs vermisst. Datenanalysten suchen nach ihren Spuren – in Russland, den besetzten Gebieten der Ukraine und in der EU.",
+   "link": "https://www.zdfheute.de/video/frontal/verschleppte-ukrainische-kinder-spurensuche-in-russland-ukraine-europa-100.html",
+   "published": "2026-09-29T19:00:00+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
    "paywall": false
   },
   {
@@ -152,6 +224,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-openai-stellt-assistenten-dots-vor-und-ein-500-dollar-abo/100258113.html",
    "published": "2026-09-29T18:10:32+00:00",
    "first_seen": "2026-09-29T19:05:43.895938+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI stellt KI-Assistenten für den Alltag vor – „Dots“ soll auf Befehl Computer bedienen",
+   "summary": "Der ChatGPT-Entwickler tritt in den wachsenden Markt für digitale Assistenten ein. „Dots“ soll auf Befehl Computer bedienen. Zugleich soll es ein neues Abo geben – teurer als je zuvor.",
+   "link": "https://www.handelsblatt.com/technik/ki/openai-dots-sam-altman-stellt-ki-assistenten-fuer-den-alltag-vor/100258113.html",
+   "published": "2026-09-29T18:10:32+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
    "paywall": true
   },
   {
@@ -467,6 +548,15 @@
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-die-us-wirtschaft-wird-immer-abhaengiger-von-der-wall-street/100257472.html",
    "published": "2026-09-29T15:54:14+00:00",
    "first_seen": "2026-09-29T16:06:20.899589+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Wie die USA mit Geld aus dem Ausland ihren Konsum finanzieren",
+   "summary": "Vermögen, Konsum und Finanzierung des US-Außenhandelsdefizits hängen immer stärker vom Aktienmarkt ab. Ein Rücksetzer könnte die USA in mehrfacher Hinsicht treffen, meint Jakob Blume.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-wie-die-usa-mit-geld-aus-dem-ausland-ihren-konsum-finanzieren/100257472.html",
+   "published": "2026-09-29T15:54:14+00:00",
+   "first_seen": "2026-09-29T20:05:13.481397+00:00",
    "paywall": true
   },
   {
@@ -13409,96 +13499,6 @@
    "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-konjunktur-krise-konkurrenz-100.html",
    "published": "2026-09-26T05:16:00+00:00",
    "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Steuerliche Vorteile nutzen: Neues Urteil begünstigt den Hausverkauf innerhalb der Familie",
-   "summary": "Verkaufen Eltern eine Immobilie an ihre Kinder und räumen eine zinslose Ratenzahlung ein, entstehen keine steuerpflichtigen Kapitalerträge. Der BFH ändert seine Rechtsprechung.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-urteil-beguenstigt-den-immobilienverkauf-innerhalb-der-familie-01/100252833.html",
-   "published": "2026-09-26T05:16:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Frühdemenz: \"Ich werde meine Freunde und Kinder verlieren\"",
-   "summary": "Diagnose Frühdemenz mit 56: ein Schock für Britta und ihre Familie. Trotz Alzheimer feiert sie die guten Momente im Leben, wohlwissend: Ihr Weg ins Vergessen ist unaufhaltbar.",
-   "link": "https://www.zdfheute.de/panorama/fruehdemenz-demenz-alzheimer-diagnose-vergessen-100.html",
-   "published": "2026-09-26T05:09:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenWoche 578: Editorial: Wie kann das gutgehen?",
-   "summary": "Ölpreis, Anleiherenditen, Leitzinsen: Das Umfeld für Aktien war schonmal besser. Doch es gibt gute Gründe für steigende Kurse.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/steigende-zinsen-und-aktien-warum-die-kurse-trotzdem-klettern/100257162.html",
-   "published": "2026-09-26T04:51:00+00:00",
-   "first_seen": "2026-09-26T05:03:38.265358+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenWoche 578: Analyse: So wirkt sich die Abnehmpille aufs Depot aus",
-   "summary": "Der Markt für GLP-1-Medikamente wächst rasant. Das verändert auch die Essgewohnheiten und sorgt für Druck auf Lebensmittelhersteller. Doch einige reagieren längst.",
-   "link": "https://www.wiwo.de/finanzen/boerse/boom-der-abnehmpille-zwei-aktien-trotzen-dem-snack-druck/100256472.html",
-   "published": "2026-09-26T04:50:00+00:00",
-   "first_seen": "2026-09-26T05:03:38.265358+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "So wird Ihre Wohnung zu einem geborgenen Zuhause",
-   "summary": "Wann fühlt sich eine Wohnung nach zu Hause an? Muss es aufgeräumt sein oder geht es um etwas ganz anderes? Die Wohnpsychologie zeigt, warum Geborgenheit eine wichtige Rolle spielt.",
-   "link": "https://www.zdfheute.de/ratgeber/zuhause-wohnen-geborgenheit-wohnpsychologie-einrichtungstipps-100.html",
-   "published": "2026-09-26T04:05:00+00:00",
-   "first_seen": "2026-09-26T05:03:38.265358+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zugvögel: Nach Vogelgrippe: Tausende Kraniche füllen Rastplätze",
-   "summary": "Im vergangenen Herbst starben massenhaft Kraniche an der Vogelgrippe. Wieder sammeln sich tausende Zugvögel in Rastgebieten. Naturschützer hoffen auf eine gesunde Kranichsaison und auf viele Besucher.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/zugvoegel-nach-vogelgrippe-tausende-kraniche-fuellen-rastplaetze/100257570.html",
-   "published": "2026-09-26T04:00:16+00:00",
-   "first_seen": "2026-09-26T05:03:38.265358+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Wildling-Gründerin: Da wusste sie: Ich muss noch viel mehr Leute entlassen",
-   "summary": "Ihr Start-up für Barfußschuhe war für viele wie eine Familie. Dann musste Anna Yona mehr als die Hälfte ihrer Mitarbeiter rauswerfen. Jetzt reflektiert sie ihre Fehler.",
-   "link": "https://www.zeit.de/2026/41/wildling-anna-yona-unternehmen-entlassung-nachhaltigkeit-profitabilitaet",
-   "published": "2026-09-26T03:53:06+00:00",
-   "first_seen": "2026-09-26T04:04:04.669814+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Trumps Streit mit den Medien: CNN von Reise ausgeladen",
-   "summary": "Der US-Sender CNN darf die Trump-Reise in den Bundesstaat Tennessee ohne Angaben von Gründen nicht filmen. Der US-Präsident wagt damit auch die Machtprobe mit einem US-Richter.",
-   "link": "https://www.zdfheute.de/politik/ausland/usa-medien-trump-cnn-reise-verbot-100.html",
-   "published": "2026-09-26T03:52:00+00:00",
-   "first_seen": "2026-09-26T05:03:38.265358+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Bundespolitik +++: Digitalminister Wildberger fordert internationale KI-Kontrolle",
-   "summary": "Bundesrat stimmt Tankrabatt zu – Gilt ab 1. Oktober +++ Länder im Bundesrat gegen höhere Steuern +++ Söder fordert grundlegende Reform der Energiesteuern +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-digitalminister-wildberger-fordert-internationale-ki-kontrolle/100137034.html",
-   "published": "2026-09-26T03:36:00+00:00",
-   "first_seen": "2026-09-26T04:04:04.669814+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "OpenAI-KI platziert Nutzer-Bilder auf Online-Plattformen",
-   "summary": "Erstmals sind Daten von OpenAI-Nutzern von eigenständigen Hacking-Aktivitäten betroffen. Der ChatGPT-Entwickler deutet an, dass noch viele weitere Enthüllungen folgen könnten.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/kuenstliche-intelligenz-openai-hacking-nutzer-bilder-100.html",
-   "published": "2026-09-26T03:06:00+00:00",
-   "first_seen": "2026-09-26T04:04:04.669814+00:00",
    "paywall": false
   }
  ]
