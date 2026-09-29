@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T11:04:38.001499+00:00",
+ "updated": "2026-09-29T12:06:02.972558+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
+   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-koennte-ki-in-zukunft-die-rolle-von-ceos-uebernehmen/100189694.html",
+   "published": "2026-09-29T12:03:00+00:00",
+   "first_seen": "2026-09-29T12:06:02.972558+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "China: Angst vor KI-Jobverlust: Automatisierung wird zum Stresstest für Chinas Arbeitsmarkt",
+   "summary": "China rüstet seine Arbeitskräfte für die KI‑Ökonomie. Doch wer profitiert von der höheren Produktivität – Unternehmen und Staat oder auch die Beschäftigten mit mehr Geld und mehr Freizeit?",
+   "link": "https://www.handelsblatt.com/politik/international/china-automatisierung-wird-zum-stresstest-fuer-chinas-arbeitsmarkt/100255201.html",
+   "published": "2026-09-29T11:43:19+00:00",
+   "first_seen": "2026-09-29T12:06:02.972558+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Versicherer: Allianz-Manager warnt: „KI-Risiken nicht vollständig versicherbar“",
+   "summary": "Thomas Lillelund fordert eine Debatte über systemische Risiken durch Künstliche Intelligenz. Staat und Privatwirtschaft müssten zusammenarbeiten, um Unternehmen abzusichern.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-allianz-manager-warnt-ki-risiken-nicht-vollstaendig-versicherbar/100256086.html",
+   "published": "2026-09-29T11:18:23+00:00",
+   "first_seen": "2026-09-29T12:06:02.972558+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz in Unternehmen: KI wird vom Hype zum Wettbewerbsfaktor",
+   "summary": "Technisch ist heute vieles möglich, doch ist betriebswirtschaftlich längst nicht alles sinnvoll. Wer KI zum Vorteil machen will, muss technologische Möglichkeiten mit Wertschöpfung zusammenbringen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/ki-wird-vom-hype-zum-wettbewerbsfaktor-accg-201206830.html",
+   "published": "2026-09-29T11:15:13+00:00",
+   "first_seen": "2026-09-29T12:06:02.972558+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/karriere-wie-veraendert-ki-den-bewerbungsprozess-fuer-jobsuchende/100248546.html",
+   "published": "2026-09-29T11:07:00+00:00",
+   "first_seen": "2026-09-29T12:06:02.972558+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Handel: Gericht weist Klage gegen Lidl-App ab",
+   "summary": "Die Verbraucherzentrale hatte den Discounter Lidl wegen der Diskriminierung einiger Kunden verklagt. Das Oberlandesgericht aber wies die Klage ab – man sei dafür nicht zuständig.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/lidl-app-prozess-verbraucherschuetzer-li.3555667",
+   "published": "2026-09-29T11:03:12+00:00",
+   "first_seen": "2026-09-29T12:06:02.972558+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Technologie: OpenAI stoppt Veröffentlichung von neuem KI-Modell",
@@ -847,60 +901,6 @@
    "published": "2026-09-27T14:18:20+00:00",
    "first_seen": "2026-09-27T15:04:02.106872+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "China: Roboter unterhalten Freizeitpark-Gäste",
-   "summary": "Tanzen, den Weg zeigen, gegen Besucher in Spielen antreten: In einem neuen Freizeitpark im chinesischen Zhuhai unterhalten rund 300 KI-gesteuerte Roboter die Gäste.",
-   "link": "https://www.zdfheute.de/video/china-freizeitpark-ki-roboter--tourismus-video-100.html",
-   "published": "2026-09-27T13:53:00+00:00",
-   "first_seen": "2026-09-27T16:04:07.668064+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Wie Open AI mit seinen KI-Agenten ringt",
-   "summary": "Vor dem UN-Sicherheitsrat und im Weißen Haus präsentiert sich der Open-AI-Chef Sam Altman als Mahner. Zugleich häufen sich Fälle, in denen seine KI-Agenten Sicherheitsgrenzen missachten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/openai-ki-training-sicherheitsvorfaelle-usa-li.3554671",
-   "published": "2026-09-27T13:10:49+00:00",
-   "first_seen": "2026-09-27T14:03:49.869469+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "KI macht wieder Sachen: Ein „Ausbruch“ auf Bestellung",
-   "summary": "Kein Internetzugang? Von wegen. OpenAI hat neue Sicherheitsprobleme öffentlich gemacht. Aber wer ist eigentlich verantwortlich? mehr...",
-   "link": "https://taz.de/KI-macht-wieder-Sachen/!6216464/",
-   "published": "2026-09-27T12:24:00+00:00",
-   "first_seen": "2026-09-27T13:03:53.081236+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Muse Charm: Warum Mark Zuckerberg auf KI-Schlüsselanhänger setzt",
-   "summary": "Statt nur auf dem Handy zu laufen, soll Künstliche Intelligenz eine neue physische Form bekommen. Das neue Meta-Produkt erfüllt dabei einen wichtigen strategischen Zweck.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mark-zuckerberg-und-metas-kampf-um-eigene-hardware-accg-201261978.html",
-   "published": "2026-09-27T10:56:16+00:00",
-   "first_seen": "2026-09-27T12:05:33.501877+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Probleme bei Künstlicher Intelligenz: Neue Sicherheitsverstöße bei OpenAI",
-   "summary": "Nach Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell sorgt nun trotzdem für Probleme. mehr...",
-   "link": "https://taz.de/Probleme-bei-Kuenstlicher-Intelligenz/!6216454/",
-   "published": "2026-09-27T10:40:00+00:00",
-   "first_seen": "2026-09-27T11:04:03.099432+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI-Entwickler OpenAI pausiert Training nach Zwischenfall",
-   "summary": "Im Alltag ist KI für viele Menschen ein nützliches Werkzeug. Doch jenseits von Chatbots machen sich KI-Agenten immer wieder selbstständig und durchbrechen Grenzen. Bei OpenAI ist dies erneut passiert. Das Unternehmen pausiert deshalb die…",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-102.html",
-   "published": "2026-09-27T09:12:24+00:00",
-   "first_seen": "2026-09-27T10:04:05.447868+00:00",
-   "paywall": false
   }
  ]
 }
