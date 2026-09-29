@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T22:04:12.762127+00:00",
+ "updated": "2026-09-29T23:03:56.128850+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Großbritannien: Wie regieren mit leeren Staatskassen?",
+   "summary": "Seit zehn Wochen ist Andy Burnham jetzt britischer Premierminister. Nun muss er zum ersten Mal darlegen, was er vorhat. Versprochen hat er sehr viel. Kann er wirklich liefern?",
+   "link": "https://www.zdfheute.de/politik/ausland/grossbritannien-burnham-labour-parteitag-100.html",
+   "published": "2026-09-29T22:50:00+00:00",
+   "first_seen": "2026-09-29T23:03:56.128850+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Sam Altmans Antwort auf Metas Vorstoß: OpenAI stellt neuen KI-Assistenten für den Alltag vor",
+   "summary": "Der ChatGPT-Entwickler tritt in den wachsenden Markt für digitale Assistenten ein. „Dots“ soll auf Befehl Computer bedienen. Zugleich soll es ein neues Abo geben – teurer als je zuvor.",
+   "link": "https://www.handelsblatt.com/technik/ki/openai-konferenz-altman-stellt-ki-assistenten-fuer-den-alltag-vor-draussen-wird-protestiert/100258113.html",
+   "published": "2026-09-29T22:24:41+00:00",
+   "first_seen": "2026-09-29T23:03:56.128850+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Pflege-Streit: Langes Ringen um geplante Pflegereform",
+   "summary": "Bis zuletzt verhandelten Union und SPD noch über die geplante Pflegereform. Der Handlungsdruck ist groß. Drohende weitere Beitragserhöhungen will die Regierung verhindern.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/pflege-streit-langes-ringen-um-geplante-pflegereform/100258454.html",
+   "published": "2026-09-29T22:15:05+00:00",
+   "first_seen": "2026-09-29T23:03:56.128850+00:00",
    "paywall": true
   },
   {
@@ -13471,33 +13498,6 @@
    "summary": "Um die Managementtechniken des Konzerns ranken sich viele Legenden. Ehemalige Führungskräfte verraten exklusiv, wie sie funktionieren und wie sie sich auf andere Firmen übertragen lassen.",
    "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-was-ehemalige-top-manager-ueber-den-erfolg-von-amazon-verraten-01/100244278.html",
    "published": "2026-09-26T05:49:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Filiz Albrecht: „Ich halte nichts von Cowboy-Mentalität und autoritärer Führung“",
-   "summary": "Sie war die erste Vorständin bei Bosch. Seitdem weiß sie: Harte Entscheidungen können nötig sein, Härte gegenüber Menschen nicht. Heute zweifelt sie am Leistungsprinzip. Warum?",
-   "link": "https://www.handelsblatt.com/unternehmen/management/filiz-albrecht-ich-halte-nichts-von-cowboy-mentalitaet-und-autoritaerer-fuehrung-01/100232396.html",
-   "published": "2026-09-26T05:46:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Steffen Bilger: Interview mit dem Bundesverkehrsminister über Bahn, Autobahn und Raser",
-   "summary": "Kommt die Bahn bis zur nächsten Bundestagswahl wieder pünktlich? Der neue Verkehrsminister Steffen Bilger erklärt, welche ersten Maßnahmen er plant – und was er von Autobahn-Rasern hält.",
-   "link": "https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss",
-   "published": "2026-09-26T05:43:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
-   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
-   "link": "https://www.handelsblatt.com/technik/ki/yoshua-bengio-diese-kis-betruegen-obwohl-sie-es-nicht-duerfen-01/100256318.html",
-   "published": "2026-09-26T05:42:00+00:00",
    "first_seen": "2026-09-26T06:05:11.380885+00:00",
    "paywall": true
   }
