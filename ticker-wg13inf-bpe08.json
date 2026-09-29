@@ -1,7 +1,79 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T09:05:59.659532+00:00",
+ "updated": "2026-09-29T10:05:25.666423+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic plant Börsengang der Superlative – trotz Milliardenverlusten",
+   "summary": "Das KI-Unternehmen strebt dem unveröffentlichten Börsenprospekt zufolge eine Bewertung von mehr als zwei Billionen Dollar an. Operativ hat Anthropic 2025 jedoch 8,1 Milliarden Dollar Verlust gemacht.",
+   "link": "https://www.handelsblatt.com/video/finanzen/kuenstliche-intelligenz-anthropic-plant-boersengang-der-superlative-trotz-milliardenverlusten/100258257.html",
+   "published": "2026-09-29T09:51:06+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Gerichtsentscheidung: Klage gegen Lidl-App abgewiesen – Gericht nicht zuständig",
+   "summary": "Die Verbraucherzentrale sieht in der Rabatt-App von Lidl die Diskriminierung von Kunden und hat geklagt. Das Gericht sieht sich jedoch nicht zuständig.",
+   "link": "https://www.wiwo.de/unternehmen/handel/verbraucherzentrale-klage-gegen-lidl-app-abgewiesen-gericht-nicht-zustaendig/100258047.html",
+   "published": "2026-09-29T09:50:00+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI stoppt Veröffentlichung von neuem KI-Modell wegen Sicherheitsbedenken",
+   "summary": "Das KI-Unternehmen hat die für Oktober geplante Veröffentlichung eines neuen Modells gestoppt. GPT-6.1 Astra soll häufig aus eigenem Antrieb gehandelt haben, ohne die Erlaubnis des Nutzers einzuholen.",
+   "link": "https://www.handelsblatt.com/video/politik/kuenstliche-intelligenz-openai-stoppt-veroeffentlichung-von-neuem-ki-modell-wegen-sicherheitsbedenken/100258250.html",
+   "published": "2026-09-29T09:49:54+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-in-zeiten-von-ki-besonders-gefragt-sind/100235558.html",
+   "published": "2026-09-29T09:43:00+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Kann Anthropic zwei Billionen Dollar wert sein?",
+   "summary": "Anthropics Börsenprospekt offenbart große Risiken. Trotzdem soll der KI-Konzern mit zwei Billionen Dollar bewertet werden.",
+   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-ipo-kann-der-ki-konzern-zwei-billionen-dollar-wert-sein/100258200.html",
+   "published": "2026-09-29T09:39:27+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/berufe-in-welchen-branchen-sind-ki-kompetenzen-besonders-gefragt/100251207.html",
+   "published": "2026-09-29T09:24:00+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Kolumne „Hanks Welt“: Die Antiquiertheit des Menschen",
+   "summary": "Der „Perfektion der eigenen Produkte nicht gewachsen“: Was ein Philosoph schon 1956 über die Künstliche Intelligenz wusste – und was er Altman und Amodei heute sagen würde.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/guenther-anders-was-er-1956-ueber-ki-vorausahnte-accg-201256452.html",
+   "published": "2026-09-29T09:13:52+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "»Physical AI«: Warum ein Chinese ausgerechnet in Deutschland Roboter baut – und Erfolg hat",
+   "summary": "Zhaopeng Chen kam aus China nach München, baute hier seine erste Roboterhand. Deutsch spricht er auch nach fast 20 Jahren kaum, aber sein Unternehmen spielt an der Weltspitze mit. Was ist sein Geheimnis?",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/physical-ai-warum-ein-chinese-ausgerechnet-in-deutschland-roboter-baut-und-erfolg-hat-a-019e15ed-2098-4217-8c2b-9889deb97ed2#ref=rss",
+   "published": "2026-09-29T09:13:00+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: Wer wird der Gewinner des KI-Wettrüstens?",
@@ -9,6 +81,15 @@
    "link": "https://www.wiwo.de/finanzen/geldanlage/ki-infrastruktur-wer-verdient-wirklich-an-dem-boom/100257870.html",
    "published": "2026-09-29T09:04:27+00:00",
    "first_seen": "2026-09-29T09:05:59.659532+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einzelhandel: Klage gegen Lidl‑App abgewiesen – Gericht nicht zuständig",
+   "summary": "Die Verbraucherzentrale sieht in der Rabatt-App des Lebensmittelhändlers Lidl eine Diskriminierung einiger Kunden. Doch eine Klage des Verbands geht nun in Leere.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/lidl-klage-gegen-app-abgewiesen-gericht-nicht-zustaendig/100258237.html",
+   "published": "2026-09-29T09:04:25+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
    "paywall": true
   },
   {
@@ -820,87 +901,6 @@
    "published": "2026-09-27T03:20:15+00:00",
    "first_seen": "2026-09-27T04:04:07.271253+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall",
-   "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. Nun zieht OpenAI Konsequenzen, um an wichtigen Stellen bei der Sicherheit nachzubessern.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
-   "published": "2026-09-26T22:35:38+00:00",
-   "first_seen": "2026-09-26T23:03:55.429012+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI pausiert KI-Training nach neuem Zwischenfall",
-   "summary": "Nach Hacking-Attacken durch seine KI dichtete der ChatGPT-Entwickler OpenAI seine Testumgebungen ab. Ein neues KI-Modell schaffte es trotzdem, Antworten von einem externen Chatbot zu bekommen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-pausiert-ki-training-nach-neuem-zwischenfall/100257651.html",
-   "published": "2026-09-26T22:21:48+00:00",
-   "first_seen": "2026-09-26T23:03:55.429012+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Anschlusspapier: KI, Handel und Militär – China und USA wollen Dialog stärken",
-   "summary": "Trump und Xi wollen bei KI-Vorfällen besser kommunizieren. Mit Blick auf Handelsfragen soll das Board of Trade bald seine Arbeit aufnehmen.",
-   "link": "https://www.handelsblatt.com/politik/international/anschlusspapier-ki-handel-und-militaer-china-und-usa-wollen-dialog-staerken/100257630.html",
-   "published": "2026-09-26T17:34:00+00:00",
-   "first_seen": "2026-09-26T18:04:35.748345+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: KI von Open AI greift auf Daten der US-Regierung zu",
-   "summary": "Erst Australien, jetzt die USA: KI-Modelle haben sich Zugang zu Daten mehreren Behörden verschafft. Ein versuchter Hackingangriff schlug aber offenbar fehl.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-von-open-ai-greift-auf-daten-der-us-regierung-zu-accg-201265327.html",
-   "published": "2026-09-26T16:40:48+00:00",
-   "first_seen": "2026-09-26T17:03:44.327478+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hightech-Sex und KI-Kumpel: Chinas Aufbruch ins KI-Zeitalter",
-   "summary": "In China sind die Menschen besonders offen für neue Technologien. Was KI-Sommercamps und KI-Bars damit zu tun haben und wie KI den Markt für Sexspielzeug verändert.",
-   "link": "https://www.zdfheute.de/politik/ausland/ki-china-sexspielzeug-kuenstliche-intelligenz-chatbot-100.html",
-   "published": "2026-09-26T14:04:00+00:00",
-   "first_seen": "2026-09-26T15:04:25.058392+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Modelt bald nur noch die KI-Kopie?",
-   "summary": "Digitale Zwillinge sollen Models neue Einnahmen ermöglichen und Shootings erleichtern. Doch nicht alle sehen darin Fortschritt: Kritiker fürchten um Jobs und Kreativität.",
-   "link": "https://www.zdfheute.de/panorama/ki-modebranche-models-avatar-digitale-zwillinge-100.html",
-   "published": "2026-09-26T13:49:00+00:00",
-   "first_seen": "2026-09-26T14:04:08.772971+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Betrüger sollen mit KI-gefälschter Stimme 36 Millionen Euro erbeutet haben",
-   "summary": "Erst eine gefälschte WhatsApp, dann ein Anruf mit angeblich KI-generierter Stimme: Der Chef einer Privatbank ließ sich offenbar von Betrügern hereinlegen und veranlasste eine Überweisung in zweistelliger Millionenhöhe.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/betrueger-sollen-mit-ki-gefaelschter-stimme-36-millionen-euro-erbeutet-haben-a-09cf1bd6-babd-45aa-a1fd-6ed963f48bf7#ref=rss",
-   "published": "2026-09-26T13:35:00+00:00",
-   "first_seen": "2026-09-26T14:04:08.772971+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Staatsbesuch: China und USA richten KI-Kommunikationskanal ein",
-   "summary": "Nach dem Besuch des chinesischen Staatschefs in den USA planen die beiden Länder einen neuen Kommunikationskanal. Darin soll es um Vorteile und Risiken von KI gehen.",
-   "link": "https://www.handelsblatt.com/politik/international/staatsbesuch-china-und-usa-richten-ki-kommunikationskanal-ein/100257606.html",
-   "published": "2026-09-26T13:18:45+00:00",
-   "first_seen": "2026-09-26T14:04:08.772971+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "USA und China planen Hotline für KI-Zwischenfälle",
-   "summary": "Die USA und China wollen nach Angaben beider Seiten einen direkten Kanal für KI-Zwischenfälle einrichten - und einen Dialog über Chancen und Risiken starten.",
-   "link": "https://www.zdfheute.de/politik/ausland/usa-china-trump-ki-kanal-100.html",
-   "published": "2026-09-26T10:42:00+00:00",
-   "first_seen": "2026-09-26T11:03:45.350394+00:00",
-   "paywall": false
   }
  ]
 }

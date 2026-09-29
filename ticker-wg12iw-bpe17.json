@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-09-29T09:05:59.659532+00:00",
+ "updated": "2026-09-29T10:05:25.666423+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Vergleich: Wo sich ein Elektroauto lohnt – und wo nicht",
+   "summary": "Ob Elektroautos auch finanziell attraktiv sind, hängt neben den Strompreisen und der Förderpolitik von zahlreichen Faktoren ab. Deutschland schlägt sich im internationalen Vergleich gut.",
+   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/autos-in-welchen-laendern-sich-ein-elektroauto-lohnt/100257827.html",
+   "published": "2026-09-29T09:13:00+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Bosch: Automobilzulieferer streicht Hälfte der Stellen am Nürnberger Standort",
@@ -270,33 +279,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/konsumklima-deutschland-sparen-shoppen-krise-li.3553812",
    "published": "2026-09-25T09:16:16+00:00",
    "first_seen": "2026-09-25T10:04:11.680094+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Lieferkette: Was der Arbeitskampf in Taiwans Chipindustrie für die KI-Welt bedeutet",
-   "summary": "Taiwans Vorzeigebranche steht vor einem Verteilungskonflikt: Beschäftigte wollen stärker am KI-Boom beteiligt werden – mit globalen Folgen?",
-   "link": "https://www.wiwo.de/unternehmen/it/tsmc-co.-was-der-chip-streik-in-taiwan-fuer-ki-bedeutet/100256210.html",
-   "published": "2026-09-25T07:56:28+00:00",
-   "first_seen": "2026-09-25T08:04:13.622338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wirtschaftspolitik: Die Industrie wird grundsätzlich",
-   "summary": "Der BDI legt sein erstes Grundsatzpapier zur Wirtschafts- und Handelspolitik vor. Die Wettbewerbsfähigkeit des Standorts steht über allem.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/bdi-grundsatzpapier-tanja-goenner-fordert-reformen-accg-201258429.html",
-   "published": "2026-09-25T06:44:12+00:00",
-   "first_seen": "2026-09-25T07:04:57.948401+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Konsumklima in Deutschland: Verbraucher neigen laut Studie vermehrt zum Sparen",
-   "summary": "Marktforscher sehen ein abgeflautes Konsumklima in Deutschland. Die durchschnittliche Sparneigung sei auf den höchsten Stand seit der Finanzkrise gestiegen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/konsumklima-deutschland-nim-gfk-energiepreise-gxe",
-   "published": "2026-09-25T06:40:39+00:00",
-   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   }
  ]

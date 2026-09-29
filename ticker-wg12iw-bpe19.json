@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-29T09:05:59.659532+00:00",
+ "updated": "2026-09-29T10:05:25.666423+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Mehr Jobs für Menschen mit mittlerem und niedrigem Abschluss",
+   "summary": "Die Beschäftigungsquote von Menschen mit Ausbildung stieg binnen zehn Jahren von 80 auf 83 Prozent. Bei Akademikern blieb sie mit 88 Prozent stabil, und Geringqualifizierte kamen auf 63 Prozent.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-mehr-jobs-fuer-menschen-mit-mittlerem-und-niedrigem-abschluss/100258259.html",
+   "published": "2026-09-29T09:53:32+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-in-zeiten-von-ki-besonders-gefragt-sind/100235558.html",
+   "published": "2026-09-29T09:43:00+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax dreht ins Plus – Ölpreise steigen",
+   "summary": "Ölpreise, Inflationssorgen und Zinsen bestimmen das Geschehen am deutschen Aktienmarkt. Kurzfristig richten Anleger den Blick zunächst aber auf anstehende Konjunkturdaten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-plus-oelpreise-steigen/100258166.html",
+   "published": "2026-09-29T09:37:11+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start-ups: Zehn Einhörner 2026 – Deutschlands neue Wachstumshoffnung",
+   "summary": "Isar Aerospace, Helsing und Neura Robotics stehen für eine neue Generation deutscher Tech-Firmen. Eine Studie zeigt, was sich ändern muss, damit nicht nur einzelne Start-ups glänzen.",
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-diese-zehn-einhoerner-sollen-deutschlands-aufschwung-antreiben/100251819.html",
+   "published": "2026-09-29T09:16:00+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Frankreichs Schulden: Ein Risiko für Europa",
+   "summary": "Längst hat Frankreichs Schuldenmisere auch eine europäische Dimension. Und nicht nur im EZB-Tower ist jedem bewusst: Wankt Frankreich, wankt die Eurozone.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreichs-schuldenmisere-ist-ein-risiko-fuer-die-eurozone-201269141.html",
+   "published": "2026-09-29T09:14:42+00:00",
+   "first_seen": "2026-09-29T10:05:25.666423+00:00",
    "paywall": true
   },
   {
@@ -603,24 +648,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/bevoelkerung-in-deutschland-2026-die-groessten-bundeslaender/26635128.html",
    "published": "2026-09-25T09:14:00+00:00",
    "first_seen": "2026-09-25T10:04:11.680094+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Lieferkette: Was der Arbeitskampf in Taiwans Chipindustrie für die KI-Welt bedeutet",
-   "summary": "Taiwans Vorzeigebranche steht vor einem Verteilungskonflikt: Beschäftigte wollen stärker am KI-Boom beteiligt werden – mit globalen Folgen?",
-   "link": "https://www.wiwo.de/unternehmen/it/tsmc-co.-was-der-chip-streik-in-taiwan-fuer-ki-bedeutet/100256210.html",
-   "published": "2026-09-25T07:56:28+00:00",
-   "first_seen": "2026-09-25T08:04:13.622338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wirtschaftspolitik: Die Industrie wird grundsätzlich",
-   "summary": "Der BDI legt sein erstes Grundsatzpapier zur Wirtschafts- und Handelspolitik vor. Die Wettbewerbsfähigkeit des Standorts steht über allem.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/bdi-grundsatzpapier-tanja-goenner-fordert-reformen-accg-201258429.html",
-   "published": "2026-09-25T06:44:12+00:00",
-   "first_seen": "2026-09-25T07:04:57.948401+00:00",
    "paywall": true
   }
  ]
