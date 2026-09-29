@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-09-29T07:06:53.646254+00:00",
+ "updated": "2026-09-29T08:06:42.900863+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -27,6 +27,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei",
    "published": "2026-09-29T05:39:43+00:00",
    "first_seen": "2026-09-29T06:05:44.765836+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Börsengang von Anthropic: Anthropic warnt offenbar mögliche Investoren vor Risiken von KI",
+   "summary": "Künstliche Intelligenz könne »existenzielle Risiken für die Menschheit« bergen, warnt Anthropic Investoren laut einem Medienbericht. Das KI-Unternehmen will an die Börse.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei-gxe",
+   "published": "2026-09-29T05:39:43+00:00",
+   "first_seen": "2026-09-29T08:06:42.900863+00:00",
    "paywall": true
   },
   {
@@ -630,15 +639,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/ki-anthropic-plant-vor-boersengang-wohl-stimmrechtsmehrheit-fuer-gruender/100257340.html",
    "published": "2026-09-25T05:45:56+00:00",
    "first_seen": "2026-09-25T07:04:57.948401+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Übernahme durch UniCredit: Wieso bei der Commerzbank die nächste Eskalation drohen könnte",
-   "summary": "Die Commerzbank und UniCredit verhandeln über einen Zusammenschluss – bisher ohne Knatsch. Doch so harmonisch muss es nicht weitergehen.",
-   "link": "https://www.wiwo.de/unternehmen/banken/uebernahme-durch-unicredit-wieso-bei-der-commerzbank-die-naechste-eskalation-drohen-koennte/100257235.html",
-   "published": "2026-09-25T05:09:38+00:00",
-   "first_seen": "2026-09-25T06:04:54.710079+00:00",
    "paywall": true
   }
  ]

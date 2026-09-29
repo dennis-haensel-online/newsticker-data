@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T07:06:53.646254+00:00",
+ "updated": "2026-09-29T08:06:42.900863+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-kuenstliche-intelligenz-veraendert-die-anforderungen-an-fuehrung/100240522.html",
+   "published": "2026-09-29T07:27:00+00:00",
+   "first_seen": "2026-09-29T08:06:42.900863+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Datenschutz: Google klagt gegen EU-Auflagen für seine Suchmaschine und KI",
@@ -54,6 +63,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei",
    "published": "2026-09-29T05:39:43+00:00",
    "first_seen": "2026-09-29T06:05:44.765836+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Börsengang von Anthropic: Anthropic warnt offenbar mögliche Investoren vor Risiken von KI",
+   "summary": "Künstliche Intelligenz könne »existenzielle Risiken für die Menschheit« bergen, warnt Anthropic Investoren laut einem Medienbericht. Das KI-Unternehmen will an die Börse.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei-gxe",
+   "published": "2026-09-29T05:39:43+00:00",
+   "first_seen": "2026-09-29T08:06:42.900863+00:00",
    "paywall": true
   },
   {
@@ -881,24 +899,6 @@
    "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
    "link": "https://www.handelsblatt.com/technik/ki/ki-menschen-schaetzen-echte-menschliche-verbindung-noch-immer-sehr/100223312.html",
    "published": "2026-09-26T08:46:00+00:00",
-   "first_seen": "2026-09-26T09:03:50.392939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-diese-kompetenzen-suchen-headhunter-in-zeiten-von-ki/100240522.html",
-   "published": "2026-09-26T08:43:00+00:00",
-   "first_seen": "2026-09-26T09:03:50.392939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
-   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-technologie-warum-ki-eine-bedrohung-fuer-manager-werden-kann/100189694.html",
-   "published": "2026-09-26T08:32:00+00:00",
    "first_seen": "2026-09-26T09:03:50.392939+00:00",
    "paywall": true
   }
