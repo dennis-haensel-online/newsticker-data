@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T04:04:20.571981+00:00",
+ "updated": "2026-09-29T05:04:34.837847+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,105 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Mit Elan gegen den Endgegner",
+   "summary": "In München geht es beim Thema KI heute auch um die ganz großen Fragen: Überstehen wir das - und, falls ja: Sind USA und China längst enteilt?",
+   "link": "https://www.zdfheute.de/briefing/wildberger-ki-pontzen-zdfheute-update-100.html",
+   "published": "2026-09-29T04:57:00+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Niedrigwasser am Rhein: Düsseldorfer Rheinfähre meldet Kurzarbeit an",
+   "summary": "Der Hitzesommer ist vorüber, die Dürre nicht. Noch immer ist der Pegel des Rheins zu niedrig. Für Fährbetriebe wird das allmählich bedrohlich.",
+   "link": "https://www.spiegel.de/wirtschaft/niedrigwasser-am-rhein-duesseldorfer-rheinfaehre-meldet-kurzarbeit-an-a-74b5074e-5de9-4c2b-8e91-ad0bca77b979#ref=rss",
+   "published": "2026-09-29T04:54:00+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ US-Zollpolitik +++: Trump-Ultimatum läuft ab – Kommt das Einfuhrverbot für kanadische Waren?",
+   "summary": "China und USA einigen sich auf Zollsenkungen für Waren im Wert von 30 Milliarden US-Dollar +++ Schumer warnt Trump vor Lockerung von Chip-Exportkontrollen +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/us-zoelle-ultimatum-laeuft-ab-kommt-das-einfuhrverbot-fuer-kanadische-waren/30026990.html",
+   "published": "2026-09-29T04:52:44+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Haushalt: Sechs EU-Staaten drohen mit Veto gegen EU-Milliardenbudget",
+   "summary": "Deutschland und fünf weitere Nettozahler verlangen tiefgreifende Einschnitte im EU-Haushalt für die Jahre 2028 bis 2034. Der Streit gefährdet eine Einigung noch in diesem Jahr.",
+   "link": "https://www.handelsblatt.com/politik/international/haushalt-sechs-eu-staaten-drohen-mit-veto-gegen-eu-milliardenbudget/100258151.html",
+   "published": "2026-09-29T04:42:45+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI stoppt Veröffentlichung von KI-Modell",
+   "summary": "Das neue Modell von ChatGPT sollte in Kürze erscheinen. Doch Sicherheitstests des Entwicklers OpenAI zeigten: Die KI belog Nutzer und handelte auf eigene Faust.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/open-ai-stopp-ki-modell-sicherheit-100.html",
+   "published": "2026-09-29T04:17:00+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Boeing 737 Max 10: Softwarepanne verzögert Zulassung von neuem Boeing-Modell weiter",
+   "summary": "Der US-Konzern Boeing will das größte Flugzeug der Serie 737 Max endlich auf den Markt bringen. Doch die US-Flugaufsicht ist wegen eines Softwarefehlers alarmiert.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-09/boeing-737-max-10-software-fehler-faa-zulassung-airbus",
+   "published": "2026-09-29T04:15:38+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Podcast: Unternehmen: Die Bilanz des Bunds als Investor / KI: Nvidia mit Rekord-Aktienrückkäufen",
+   "summary": "Das Mainzer Unternehmen schließt drei Strandorte und baut 1800 Mitarbeitende ab. Besonders im Fokus: Das Tübinger Werk. Auch weil dort hunderte Millionen Steuergeld verbrannten.",
+   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-unternehmen-die-bilanz-des-bunds-als-investor---ki-nvidia-mit-rekord-aktienrueckkaeufen/100258149.html",
+   "published": "2026-09-29T04:15:09+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Kehrseiten des Immobilienbooms: Schöner bauen, das geht doch!",
+   "summary": "Mit guten Ideen und kleinen Maßnahmen, die viel bringen und relativ wenig kosten, lassen sich Wohnhäuser deutlich aufwerten. Dabei geht es um mehr als nur die Fassade.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/moderner-wohnungsbau-wie-fassaden-schoener-werden-accg-201213555.html",
+   "published": "2026-09-29T04:07:28+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Aktien: Sollte jeder Aktien besitzen?",
+   "summary": "Wer langfristig sein Geld vermehren will, sollte auch in Aktien investieren. Hier erklären wir, warum das so ist – und wie ihr damit anfangt.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/aktien-geldanlage-investment-boerse-anfaenger",
+   "published": "2026-09-29T04:05:07+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Biontech, Curevac – und die Bilanz des Staats als Unternehmer",
+   "summary": "Das Mainzer Unternehmen schließt drei Strandorte und baut 1800 Mitarbeitende ab. Besonders im Fokus. Das Tübinger Werk. Auch weil dort hunderte Millionen Steuergeld verbrannten.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-biontech-curevac-und-die-bilanz-des-staats-als-unternehmer/100258066.html",
+   "published": "2026-09-29T04:04:49+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Frankfurter Finanzszene: „Ich bin ehrlich, ich arbeite gegen Dich“",
+   "summary": "Ein Banker mobbt einen anderen, das Opfer verlangt die Versetzung des Täters. Jetzt muss ein Gericht über die Forderung urteilen.",
+   "link": "https://www.wiwo.de/unternehmen/banken/frankfurter-finanzszene-ich-bin-ehrlich-ich-arbeite-gegen-dich/100257958.html",
+   "published": "2026-09-29T04:00:00+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
    "paywall": true
   },
   {
@@ -35,6 +134,15 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/arzneimittel-betreibt-die-deutsche-pharmabranche-dumping-bei-medikamenten/100257866.html",
    "published": "2026-09-29T03:55:47+00:00",
    "first_seen": "2026-09-29T04:04:20.571981+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konflikte: Fast 50 Tote bei Luftangriff auf Markt in Myanmar",
+   "summary": "Immer wieder geraten zivile Ziele in Myanmar ins Visier des Militärs. Diesmal attackierten Kampfjets einen Markt und eine Brücke. Es gibt viele Tote.",
+   "link": "https://www.handelsblatt.com/politik/international/konflikte-fast-50-tote-bei-luftangriff-auf-markt-in-myanmar/100258147.html",
+   "published": "2026-09-29T03:55:24+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
    "paywall": true
   },
   {
@@ -210,6 +318,15 @@
   },
   {
    "label": "Handelsblatt",
+   "title": "Energie: Gaskraftwerk-Start-up sammelt 150 Millionen Euro ein – und kann sich vor Bestellungen kaum retten",
+   "summary": "Ein Jungunternehmen aus Bayern hat eine neue Technologie entwickelt, um effizienter Strom zu erzeugen – und stößt damit auf viel Interesse bei Käufern und Investoren.",
+   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-gaskraftwerk-start-up-sammelt-150-millionen-euro-ein/100256299.html",
+   "published": "2026-09-29T02:12:36+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
    "title": "NRW-Ministerpräsident: Zwischen Bosporus und Berlin – die Kanzlerfrage verfolgt Wüst in die Türkei",
    "summary": "Der NRW-Ministerpräsident ist auf einer dreitägigen Reise in Ankara und Istanbul. Demonstriert Wüst, dass er auch Außenkanzler kann? Die Frage scheint sich auch Erdogan zu stellen.",
    "link": "https://www.handelsblatt.com/politik/deutschland/nrw-ministerpraesident-zwischen-bosporus-und-berlin-die-kanzlerfrage-verfolgt-wuest-in-die-tuerkei/100257826.html",
@@ -224,6 +341,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/investition-bundesregierung-will-china-deal-am-hamburger-hafen-stoppen/100258018.html",
    "published": "2026-09-29T02:08:31+00:00",
    "first_seen": "2026-09-29T03:04:39.091205+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Logistik: Geheimpapier: Bund will chinesische Übernahme am Hamburger Hafen stoppen",
+   "summary": "Der chinesische Staatskonzern Cosco plant den Kauf des deutschen Logistikunternehmens Zippel. Laut Handelsblatt-Informationen will die Bundesregierung die Übernahme verhindern.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/logistik-bund-will-chinesische-uebernahme-am-hamburger-hafen-stoppen/100258018.html",
+   "published": "2026-09-29T02:08:31+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
    "paywall": true
   },
   {
@@ -13373,132 +13499,6 @@
    "link": "https://taz.de/Organisierte-Kriminalitaet-und-Politik-Wird-Ferat-Kocak-zum-Bauernopfer-im-Koalitionspoker/!6215882/",
    "published": "2026-09-24T18:26:00+00:00",
    "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Reiches Energiereformen: Ein Gesetz für den Stillstand",
-   "summary": "Die Wirtschaftsministerin legt Pläne zur Reform des Erneuerbare-Energien-Gesetzes vor. Mit ihnen sind die deutschen Klimaschutzziele nicht erreichbar. mehr...",
-   "link": "https://taz.de/Reiches-Energiereformen/!6211052/",
-   "published": "2026-09-24T18:25:00+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Neue Leiterin der bpb: Eine Schulleiterin an der Spitze der Bundeszentrale",
-   "summary": "Nina Hauer soll Chefin der Bundeszentrale für politische Bildung werden. Sie wäre die erste Frau in dieser Position. Und wo steht sie politisch? mehr...",
-   "link": "https://taz.de/Neue-Leiterin-der-bpb/!6216007/",
-   "published": "2026-09-24T18:24:00+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Trump, Döpfner und die Pressefreiheit: Einig für die Unfreiheit",
-   "summary": "US-Medien erringen einen Teilsieg für die Pressefreiheit gegen Trump. Derweil zeichnet der Springer-Verlag den Trump-Verbündeten Peter Thiel aus. mehr...",
-   "link": "https://taz.de/Trump-Doepfner-und-die-Pressefreiheit/!6215998/",
-   "published": "2026-09-24T18:23:00+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Waldbrände in Europa: Trockenfutter für das Feuer",
-   "summary": "Die Waldbrandsaison 2026 in Europa hat in Frankreich und Spanien schlimm gewütet. Doch auch in Belgien gab es traurige Rekorde. Eine Datenanalyse. mehr...",
-   "link": "https://taz.de/Waldbraende-in-Europa/!6215720/",
-   "published": "2026-09-24T18:19:00+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pressefreiheit in den USA: Trumps Krach mit Medien überschattet Xi-Besuch",
-   "summary": "Bei einem Staatsbesuch auf einem solch hohen Level senden TV-Sender in den USA sonst fast nonstop Szenen davon. Doch bei Trumps Treffen mit Xi ist das dieses Mal anders.",
-   "link": "https://www.handelsblatt.com/politik/international/pressefreiheit-in-den-usa-trumps-krach-mit-medien-ueberschattet-xi-besuch/100257056.html",
-   "published": "2026-09-24T18:18:22+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Punkbands Deutsche Laichen und Screamer: Sie haben Spaß, Wut und Hoffnung gegen Hass",
-   "summary": "Punk wird immer beben, auch wenn alles andere längst erstarrt ist: Das stellen zwei krasse Alben von Deutsche Laichen aus Göttingen und Screamer aus Hamburg klar. mehr...",
-   "link": "https://taz.de/Punkbands-Deutsche-Laichen-und-Screamer/!6215017/",
-   "published": "2026-09-24T18:18:00+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Wirtschaft vor acht vom 24.09.2026",
-   "summary": "Wirtschaft vor acht vom 24.09.2026",
-   "link": "https://www.tagesschau.de/video/video-1655056.html",
-   "published": "2026-09-24T18:04:49+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Made in China\" bedroht Europa - Brüssel sucht Lösungen",
-   "summary": "In der EU sprechen sie vom China-Schock: Peking überschwemmt den europäischen Markt, das Handelsdefizit wächst pro Tag um eine Milliarde. Brüssel will sich wehren.",
-   "link": "https://www.zdfheute.de/politik/ausland/china-europa-eu-handel-exporte-zoelle-100.html",
-   "published": "2026-09-24T17:56:00+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konsumgüter: Capri-Sun-Eigentümer Hans-Peter Wild steigt mit 85 wieder ins Geschäft ein",
-   "summary": "Der Milliardär mischt nach der Entlassung des Firmenchefs wieder im operativen Geschäft des Unternehmens aus Baden mit. Der Getränkehersteller steht vor einigen Herausforderungen.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/konsumgueter-capri-sun-eigentuemer-steigt-mit-85-wieder-ins-geschaeft-ein/100257254.html",
-   "published": "2026-09-24T17:54:24+00:00",
-   "first_seen": "2026-09-24T18:05:12.163553+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Zuschüsse sollen helfen: Lufthansa ruft nach Staatsgeld für Inlandsflüge",
-   "summary": "Der Inlandsflugverkehr hat sich gegenüber 2019 halbiert. Regionen fürchten um ihre Anbindung, Lufthansa erwägt wegen hoher Kosten „weitere Einschnitte“ – und regt als Gegenmittel Subventionen für Flüge an.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/lufthansa-fordert-subventionen-fuer-inlandsfluege-201258869.html",
-   "published": "2026-09-24T17:43:59+00:00",
-   "first_seen": "2026-09-24T18:05:12.163553+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Erfolgreiche App Muse: Warum Metas KI-Agent so erfolgreich ist",
-   "summary": "Der Tech-Konzern landet mit seinem neuen virtuellen Alltagshelfer Muse einen Überraschungserfolg und stellt ein eigens dafür konzipiertes Gerät vor. Doch der KI-Agent wirft einige Fragen auf.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/metas-ki-agent-muse-wird-zum-ueberraschungserfolg-fuer-mark-zuckerberg-201255847.html",
-   "published": "2026-09-24T17:38:09+00:00",
-   "first_seen": "2026-09-24T18:05:12.163553+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "App Muse: Warum Metas KI-Agent so erfolgreich ist",
-   "summary": "Der Tech-Konzern landet mit seinem neuen virtuellen Alltagshelfer Muse einen Überraschungserfolg und stellt ein eigens dafür konzipiertes Gerät vor. Doch der KI-Agent wirft einige Fragen auf.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agent-muse-warum-meta-damit-einen-ueberraschungserfolg-landet-201255847.html",
-   "published": "2026-09-24T17:38:09+00:00",
-   "first_seen": "2026-09-25T09:04:20.519616+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "App Muse: Warum Metas KI-Agent so erfolgreich ist",
-   "summary": "Der Tech-Konzern landet mit seinem neuen virtuellen Alltagshelfer Muse einen Überraschungserfolg und stellt ein eigens dafür konzipiertes Gerät vor. Doch der KI-Agent wirft einige Fragen auf.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/trotz-offenen-fragen-warum-metas-ki-agenten-muse-so-erfolgreich-ist-201255847.html",
-   "published": "2026-09-24T17:38:09+00:00",
-   "first_seen": "2026-09-28T08:06:25.001911+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Berlin: SPD und Grüne vor Sondierungsgesprächen mit Linke?",
-   "summary": "Nach der Wahl in Berlin stehen Grüne und SPD vor einer weiteren Wahl: Linke oder CDU. Mögliche Sondierungsgespräche mit der Linkspartei stehen vor der Tür. Doch es gibt Kritik.",
-   "link": "https://www.zdfheute.de/politik/deutschland/spd-aufstellung-koalitionsverhandlungen-berlin-linke-100.html",
-   "published": "2026-09-24T17:32:00+00:00",
-   "first_seen": "2026-09-24T20:04:37.639273+00:00",
    "paywall": false
   }
  ]

@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T04:04:20.571981+00:00",
+ "updated": "2026-09-29T05:04:34.837847+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Mit Elan gegen den Endgegner",
+   "summary": "In München geht es beim Thema KI heute auch um die ganz großen Fragen: Überstehen wir das - und, falls ja: Sind USA und China längst enteilt?",
+   "link": "https://www.zdfheute.de/briefing/wildberger-ki-pontzen-zdfheute-update-100.html",
+   "published": "2026-09-29T04:57:00+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "OpenAI stoppt Veröffentlichung von KI-Modell",
+   "summary": "Das neue Modell von ChatGPT sollte in Kürze erscheinen. Doch Sicherheitstests des Entwicklers OpenAI zeigten: Die KI belog Nutzer und handelte auf eigene Faust.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/open-ai-stopp-ki-modell-sicherheit-100.html",
+   "published": "2026-09-29T04:17:00+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Podcast: Unternehmen: Die Bilanz des Bunds als Investor / KI: Nvidia mit Rekord-Aktienrückkäufen",
+   "summary": "Das Mainzer Unternehmen schließt drei Strandorte und baut 1800 Mitarbeitende ab. Besonders im Fokus: Das Tübinger Werk. Auch weil dort hunderte Millionen Steuergeld verbrannten.",
+   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/morning-briefing-podcast-unternehmen-die-bilanz-des-bunds-als-investor---ki-nvidia-mit-rekord-aktienrueckkaeufen/100258149.html",
+   "published": "2026-09-29T04:15:09+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: Anthropics Börsenprospekt soll hohe Verluste ausweisen",
@@ -874,33 +901,6 @@
    "published": "2026-09-26T03:06:00+00:00",
    "first_seen": "2026-09-26T04:04:04.669814+00:00",
    "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Nach Datenleck: OpenAI prüft unerwünschtes Verhalten von KI-Agenten",
-   "summary": "Für das Training von Modellen greifen die KI-Programme von OpenAI auf anonymisierte Nutzerdaten zurück. Da ist nun offenbar etwas schief gelaufen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chatgpt-openai-li.3554221",
-   "published": "2026-09-26T02:56:50+00:00",
-   "first_seen": "2026-09-26T03:03:48.266833+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Nach Datenleck: Open AI prüft unerwünschtes Verhalten von KI-Agenten",
-   "summary": "Für das Training von Modellen greifen die KI-Programme von Open AI auf anonymisierte Nutzerdaten zurück. Da ist nun offenbar etwas schiefgelaufen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chat-gpt-open-ai-li.3554221",
-   "published": "2026-09-26T02:56:50+00:00",
-   "first_seen": "2026-09-26T05:03:38.265358+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI von OpenAI lud Nutzer-Bilder zu Online-Plattformen hoch",
-   "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257564.html",
-   "published": "2026-09-26T02:55:54+00:00",
-   "first_seen": "2026-09-26T04:04:04.669814+00:00",
-   "paywall": true
   }
  ]
 }

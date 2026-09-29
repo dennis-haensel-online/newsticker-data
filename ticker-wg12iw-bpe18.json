@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-29T04:04:20.571981+00:00",
+ "updated": "2026-09-29T05:04:34.837847+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -18,6 +18,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/investition-bundesregierung-will-china-deal-am-hamburger-hafen-stoppen/100258018.html",
    "published": "2026-09-29T02:08:31+00:00",
    "first_seen": "2026-09-29T03:04:39.091205+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Logistik: Geheimpapier: Bund will chinesische Übernahme am Hamburger Hafen stoppen",
+   "summary": "Der chinesische Staatskonzern Cosco plant den Kauf des deutschen Logistikunternehmens Zippel. Laut Handelsblatt-Informationen will die Bundesregierung die Übernahme verhindern.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/logistik-bund-will-chinesische-uebernahme-am-hamburger-hafen-stoppen/100258018.html",
+   "published": "2026-09-29T02:08:31+00:00",
+   "first_seen": "2026-09-29T05:04:34.837847+00:00",
    "paywall": true
   },
   {
@@ -540,15 +549,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-zinssorgen-und-steigender-oelpreis-bremsen-us-boersen/100257196.html",
    "published": "2026-09-24T18:49:00+00:00",
    "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Zuschüsse sollen helfen: Lufthansa ruft nach Staatsgeld für Inlandsflüge",
-   "summary": "Der Inlandsflugverkehr hat sich gegenüber 2019 halbiert. Regionen fürchten um ihre Anbindung, Lufthansa erwägt wegen hoher Kosten „weitere Einschnitte“ – und regt als Gegenmittel Subventionen für Flüge an.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/lufthansa-fordert-subventionen-fuer-inlandsfluege-201258869.html",
-   "published": "2026-09-24T17:43:59+00:00",
-   "first_seen": "2026-09-24T18:05:12.163553+00:00",
    "paywall": true
   }
  ]
