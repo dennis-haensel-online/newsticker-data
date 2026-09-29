@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T20:05:13.481397+00:00",
+ "updated": "2026-09-29T21:04:29.701739+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Und plötzlich kullern beim Kanzler die Tränen",
+   "summary": "Die Bertha-von-Suttner-Schule aus Mörfelden-Walldorf gewinnt den Deutschen Schulpreis. Bei der Verleihung fließen Tränen der Freude - selbst bei Bundeskanzler Friederich Merz.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/deutscher-schulpreis-merz-geruehrt-video-100.html",
+   "published": "2026-09-29T20:17:00+00:00",
+   "first_seen": "2026-09-29T21:04:29.701739+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Geheimsache Tierversuche",
+   "summary": "Ein Blick hinter die Türen deutscher Versuchslabore: Heimlich gedrehte Aufnahmen zeigen Tests an Hunden, Affen und Kaninchen. Sind Tierversuche heute noch vertretbar und notwendig?",
+   "link": "https://www.zdf.de/video/reportagen/37-grad-104/37-geheimsache-tierversuche-100",
+   "published": "2026-09-29T20:15:00+00:00",
+   "first_seen": "2026-09-29T21:04:29.701739+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Manchester City in Finanzaffäre schuldig gesprochen",
+   "summary": "Es ist einer der größten Skandale im englischen Fußball: Manchester City ist wegen schwerwiegender Verstöße gegen Finanzregeln für schuldig befunden worden.",
+   "link": "https://www.zdfheute.de/sport/fussball-manchester-city-premier-league-100.html",
+   "published": "2026-09-29T20:07:00+00:00",
+   "first_seen": "2026-09-29T21:04:29.701739+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Presse: \"Englischer Fußball ist irreparabel beschädigt\"",
+   "summary": "Manchester City ist von einer unabhängigen Kommission wegen Verstößen gegen die Finanzregeln der Premier League für schuldig befunden worden. Die internationalen Pressestimmen.",
+   "link": "https://www.zdfheute.de/sport/fussball-pressestimmen-manchester-city-schuldspruch-finanzskandal-100.html",
+   "published": "2026-09-29T20:07:00+00:00",
+   "first_seen": "2026-09-29T21:04:29.701739+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -90,6 +126,15 @@
    "published": "2026-09-29T19:00:00+00:00",
    "first_seen": "2026-09-29T20:05:13.481397+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt nach KI-Treffen leicht im Minus",
+   "summary": "Die Reparatur einer wichtigen Pipeline und mögliche Verhandlungen lassen den Ölpreis fallen. Doch die Stimmung bleibt gedrückt, während Trump und Tech-Chefs über KI-Risiken beraten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-nach-ki-treffen-leicht-im-minus/100258245.html",
+   "published": "2026-09-29T18:58:21+00:00",
+   "first_seen": "2026-09-29T21:04:29.701739+00:00",
+   "paywall": true
   },
   {
    "label": "ZDF",
@@ -13455,51 +13500,6 @@
    "published": "2026-09-26T05:27:00+00:00",
    "first_seen": "2026-09-26T06:05:11.380885+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tiersterben: Dutzende tote Jungwale an Argentiniens Küste gespült",
-   "summary": "Gestrandete Walkadaver an der Küste der argentinischen Halbinsel Valdés bieten einen traurigen Anblick. Wissenschaftler untersuchen die Ursache - und haben einen Verdacht.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/tiersterben-dutzende-tote-jungwale-an-argentiniens-kueste-gespuelt/100257576.html",
-   "published": "2026-09-26T05:26:42+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Wann ist es sinnvoll, die Grundschuld löschen zu lassen?",
-   "summary": "Wenn Immobilienkäufer die Eigentumswohnung abbezahlt haben, lassen sie in der Regel auch sofort die Grundschuld löschen. Doch es kann sinnvoll sein, mit diesem Schritt zu warten.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wann-ist-es-sinnvoll-die-grundschuld-loeschen-zu-lassen-01/100252489.html",
-   "published": "2026-09-26T05:22:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-mit-so-viel-vermoegen-gelten-sie-in-deutschland-als-reich-02/100149729.html",
-   "published": "2026-09-26T05:21:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konsumgüter: Capri-Sun-Eigentümer Hans-Peter Wild steigt mit 85 wieder ins Geschäft ein",
-   "summary": "Der Milliardär mischt nach der Entlassung des Firmenchefs wieder im operativen Geschäft des Unternehmens aus Baden mit. Der Getränkehersteller steht vor einigen Herausforderungen.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/unternehmen-capri-sun-eigentuemer-steigt-mit-85-wieder-ins-geschaeft-ein-01/100257254.html",
-   "published": "2026-09-26T05:19:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Deutschlands Wirtschaft wächst wieder: Ist die Krise vorbei?",
-   "summary": "Stellenabbau, teure Energie, Sorgen um die Wettbewerbsfähigkeit. Viel ist die Rede von Krise. Doch aktuelle Daten zeigen: Die Lage ist in Deutschland besser als gedacht.",
-   "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-konjunktur-krise-konkurrenz-100.html",
-   "published": "2026-09-26T05:16:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": false
   }
  ]
 }

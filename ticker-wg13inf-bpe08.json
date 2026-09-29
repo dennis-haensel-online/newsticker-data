@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T20:05:13.481397+00:00",
+ "updated": "2026-09-29T21:04:29.701739+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -28,6 +28,15 @@
    "published": "2026-09-29T19:00:00+00:00",
    "first_seen": "2026-09-29T20:05:13.481397+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt nach KI-Treffen leicht im Minus",
+   "summary": "Die Reparatur einer wichtigen Pipeline und mögliche Verhandlungen lassen den Ölpreis fallen. Doch die Stimmung bleibt gedrückt, während Trump und Tech-Chefs über KI-Risiken beraten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-nach-ki-treffen-leicht-im-minus/100258245.html",
+   "published": "2026-09-29T18:58:21+00:00",
+   "first_seen": "2026-09-29T21:04:29.701739+00:00",
+   "paywall": true
   },
   {
    "label": "FAZ",
@@ -890,15 +899,6 @@
    "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
    "link": "https://www.handelsblatt.com/technik/ki/ki-expertin-menschen-interagieren-mit-ki-nicht-wie-mit-anderen-menschen/100188740.html",
    "published": "2026-09-28T12:45:00+00:00",
-   "first_seen": "2026-09-28T13:05:51.143875+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Mistral steht kurz vor dem Start seines KI-Spitzenmodells",
-   "summary": "Mistral plant sein bisher leistungsstärkstes Modell Large 4 laut Firmenchef Arthur Mensch in wenigen Tagen vorzulegen. Ein zweites Großprojekt auf europäischer Ebene wackelt allerdings.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-mistral-steht-kurz-vor-dem-start-seines-ki-spitzenmodells/100257905.html",
-   "published": "2026-09-28T12:18:08+00:00",
    "first_seen": "2026-09-28T13:05:51.143875+00:00",
    "paywall": true
   }
