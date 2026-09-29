@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T01:06:07.991999+00:00",
+ "updated": "2026-09-29T02:03:56.553384+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Nvidia-Rivale AMD kauft Start-up von KI-Vorreiterin +++ Hackerangriff auf Lieferdienst Flink +++ Evonik weist BASF-Offerte als zu niedrig ab +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-streicht-veroeffentlichung-von-neuem-ki-modell-faz-200452404.html",
+   "published": "2026-09-29T01:46:00+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: FBI-Vize tritt zurück – Berichte über Spannungen mit Patel",
+   "summary": "Bill Gates befürwortet KI-Sicherheitsvorkehrungen +++ Dänische UN-Botschafterin lobt Grönland-Abkommen +++ Trump und Tech-Bosse suchen Balance bei KI-Regulierung +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-fbi-vize-tritt-zurueck-berichte-ueber-spannungen-mit-patel/29669594.html",
+   "published": "2026-09-29T01:32:00+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Nvidia-Rivale AMD kauft Start-up von KI-Vorreiterin",
+   "summary": "Das Geschäft mit Chips für Künstliche Intelligenz wird von Nvidia dominiert. Der Rivale AMD greift jetzt zu einem Milliarden-Zukauf in der Hoffnung, aufzuholen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nvidia-rivale-amd-kauft-start-up-von-ki-vorreiterin/100258103.html",
+   "published": "2026-09-29T01:15:32+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Samsung steckt eine Milliarde Dollar in KI-Infrastruktur",
+   "summary": "Sechs Unternehmen des südkoreanischen Konzerns beteiligen sich an Helix Digital Infrastructure. Zu den Partnern der US-Firma zählen KKR und Nvidia.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-samsung-steckt-eine-milliarde-dollar-in-ki-infrastruktur/100258101.html",
+   "published": "2026-09-29T01:10:51+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: OpenAI streicht Veröffentlichung von neuem KI-Modell",
@@ -9,6 +45,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
    "published": "2026-09-28T23:30:07+00:00",
    "first_seen": "2026-09-29T00:06:09.154934+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "ChatGPT-Entwickler: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Die Cybersicherheitsprobleme bei OpenAI halten an: Das neue Modell 6.1 Astra hätte eigentlich zeitnah herauskommen sollen. Die KI hat jedoch offenbar unerlaubt auf Eigeninitiative gehandelt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/chatgpt-entwickler-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
+   "published": "2026-09-28T23:30:07+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
    "paywall": true
   },
   {
@@ -855,51 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257541.html",
    "published": "2026-09-26T01:56:07+00:00",
    "first_seen": "2026-09-26T03:03:48.266833+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
-   "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Zudem heißt es nun, man habe „Dutzende“ Website-Betreiber über KI-Eskapaden unterrichtet.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-brachte-nutzer-bilder-zu-online-plattformen/100257537.html",
-   "published": "2026-09-25T23:18:18+00:00",
-   "first_seen": "2026-09-26T00:04:57.053612+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Open AI: Dutzende Organisationen von „Besuch“ durch KI-Agenten betroffen",
-   "summary": "Offenbar Webseiten von Regierungen und Universitäten durch KI-Agenten beeinträchtigt +++ Starbucks schließt 250 Filialen in Nordamerika +++ KI-Modell mit mehr Sicherheit geplant +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-dutzende-organisationen-von-besuch-durch-ki-agenten-betroffen-faz-200452404.html",
-   "published": "2026-09-25T22:06:28+00:00",
-   "first_seen": "2026-09-25T23:03:43.613530+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Open-AI-Agenten griffen in Webseiten von US-Behörden ein",
-   "summary": "KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen +++ Social-Media-Sucht: Tiktok wendet Prozess in USA durch 100-Millionen-Vergleich ab +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-agenten-griffen-in-webseiten-von-us-behoerden-ein-faz-200452404.html",
-   "published": "2026-09-25T22:06:28+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Ab jetzt mehr Überwachung an Bahnhöfen und Flughäfen möglich",
-   "summary": "Gesichtserkennung, Handy-Ortung und KI-Überwachung: Bundestag und Bundesrat haben die Reform des Bundespolizeigesetzes verabschiedet - nach fünf Jahren und einer Panne.",
-   "link": "https://www.zdfheute.de/politik/deutschland/bundespolizei-befugnisse-abschiebehaft-100.html",
-   "published": "2026-09-25T19:29:00+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Medizin, Essen, Haushalt: Kann die KI mehr als nur Kosten sparen?",
-   "summary": "Tech-Unternehmer betonen, dass KI trotz aller Gefahren lange undenkbare Innovationen hervorbringen kann. Diese Beispiele zeigen, wo das schon heute gelingt. Aber der Weg zum großen Fortschrittsversprechen ist lang.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-kann-ki-mehr-als-kosten-sparen-201251373.html",
-   "published": "2026-09-25T19:02:27+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
    "paywall": true
   }
  ]

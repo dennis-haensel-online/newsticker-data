@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T01:06:07.991999+00:00",
+ "updated": "2026-09-29T02:03:56.553384+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,78 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Medienbericht: John Waldron offenbar als Goldman-Sachs-Chef im Gespräch",
+   "summary": "Das „Wall Street Journal“ berichtet über die mögliche Nachfolge von Bankenchef David Solomon. Waldron ist bisher als COO ebi Goldman Sachs tätig.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/medienbericht-john-waldron-offenbar-als-goldman-sachs-chef-im-gespraech/100258100.html",
+   "published": "2026-09-29T01:49:58+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Nvidia-Rivale AMD kauft Start-up von KI-Vorreiterin +++ Hackerangriff auf Lieferdienst Flink +++ Evonik weist BASF-Offerte als zu niedrig ab +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-streicht-veroeffentlichung-von-neuem-ki-modell-faz-200452404.html",
+   "published": "2026-09-29T01:46:00+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: FBI-Vize tritt zurück – Berichte über Spannungen mit Patel",
+   "summary": "Bill Gates befürwortet KI-Sicherheitsvorkehrungen +++ Dänische UN-Botschafterin lobt Grönland-Abkommen +++ Trump und Tech-Bosse suchen Balance bei KI-Regulierung +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-fbi-vize-tritt-zurueck-berichte-ueber-spannungen-mit-patel/29669594.html",
+   "published": "2026-09-29T01:32:00+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ebola im Kongo: Mehr als 8.000 Ebola-Fälle im Kongo - bald 4.000 Tote",
+   "summary": "Die Zahl der bestätigten Ebola-Erkrankungen im Kongo steigt weiter, auch die Zahl der Todesfälle. Doch in einer besonders betroffenen Region gibt es eine hoffnungsvolle Entwicklung.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-mehr-als-8000-ebola-faelle-im-kongo-bald-4000-tote/100258110.html",
+   "published": "2026-09-29T01:30:10+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Raumfahrt: Krisengeplagter Starliner soll wieder ins All fliegen",
+   "summary": "Rund eine Woche sollten zwei US-Astronauten 2024 an Bord der ISS bleiben - daraus wurden wegen einer Panne des „Starliner“-Raumschiffs neun Monate. Doch die Nasa hält am „Starliner“ fest.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-krisengeplagter-starliner-soll-wieder-ins-all-fliegen/100258109.html",
+   "published": "2026-09-29T01:30:05+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Nvidia-Rivale AMD kauft Start-up von KI-Vorreiterin",
+   "summary": "Das Geschäft mit Chips für Künstliche Intelligenz wird von Nvidia dominiert. Der Rivale AMD greift jetzt zu einem Milliarden-Zukauf in der Hoffnung, aufzuholen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nvidia-rivale-amd-kauft-start-up-von-ki-vorreiterin/100258103.html",
+   "published": "2026-09-29T01:15:32+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Samsung steckt eine Milliarde Dollar in KI-Infrastruktur",
+   "summary": "Sechs Unternehmen des südkoreanischen Konzerns beteiligen sich an Helix Digital Infrastructure. Zu den Partnern der US-Firma zählen KKR und Nvidia.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-samsung-steckt-eine-milliarde-dollar-in-ki-infrastruktur/100258101.html",
+   "published": "2026-09-29T01:10:51+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Korea-Konflikt: Umfrage: Weniger Südkoreaner für Vereinigung mit Nordkorea",
+   "summary": "Nur 39 Prozent der Südkoreaner erachten eine Wiedervereinigung mit dem Norden einer neuen Befragung zufolge als notwendig. Zugleich unterstützt eine deutliche Mehrheit eine eigene Atomwaffe.",
+   "link": "https://www.handelsblatt.com/politik/international/korea-konflikt-umfrage-weniger-suedkoreaner-fuer-vereinigung-mit-nordkorea/100258102.html",
+   "published": "2026-09-29T01:08:08+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
    "paywall": true
   },
   {
@@ -26,6 +98,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
    "published": "2026-09-28T23:30:07+00:00",
    "first_seen": "2026-09-29T00:06:09.154934+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "ChatGPT-Entwickler: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Die Cybersicherheitsprobleme bei OpenAI halten an: Das neue Modell 6.1 Astra hätte eigentlich zeitnah herauskommen sollen. Die KI hat jedoch offenbar unerlaubt auf Eigeninitiative gehandelt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/chatgpt-entwickler-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
+   "published": "2026-09-28T23:30:07+00:00",
+   "first_seen": "2026-09-29T02:03:56.553384+00:00",
    "paywall": true
   },
   {
@@ -13417,87 +13498,6 @@
    "summary": "Der Ausschluss von Politico, CNN und MS NOW aus dem Weißen Haus ist vorerst gescheitert – zunächst für 14 Tage. Ein weiterer Tabubruch: die Einladung Putins zum G20-Gipfel in Miami.",
    "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-hausverbot-fuer-journalisten-und-einladung-an-putin-die-trump-news-der-woche/100257252.html",
    "published": "2026-09-24T15:39:14+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Isabel Schnabel: EZB-Direktorin tritt vorzeitig zurück und wechselt zum IWF",
-   "summary": "Gemeinsam mit Christine Lagarde ist Isabel Schneider die einzige Frau im Direktorium der Europäischen Zentralbank. Nun ist klar: Anfang Januar wird die Deutsche Frankfurt verlassen.",
-   "link": "https://www.spiegel.de/wirtschaft/isabel-schnabel-ezb-direktorin-tritt-vorzeitig-zurueck-und-wechselt-zum-iwf-a-d7dfee01-e432-4fa9-8800-a6dce7456157#ref=rss",
-   "published": "2026-09-24T15:33:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Isabel Schnabel: EZB-Direktorin tritt vorzeitig ab und wechselt zum IWF",
-   "summary": "Gemeinsam mit Christine Lagarde ist Isabel Schnabel die einzige Frau im Direktorium der Europäischen Zentralbank. Nun ist klar: Anfang Januar wird die Deutsche Frankfurt verlassen.",
-   "link": "https://www.spiegel.de/wirtschaft/isabel-schnabel-ezb-direktorin-tritt-vorzeitig-ab-und-wechselt-zum-iwf-a-d7dfee01-e432-4fa9-8800-a6dce7456157#ref=rss",
-   "published": "2026-09-24T15:33:00+00:00",
-   "first_seen": "2026-09-24T19:04:04.206492+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Notenbank: EZB-Direktorin Schnabel tritt Anfang Januar vorzeitig ab",
-   "summary": "Isabel Schnabel wechselt von der EZB zum Internationalen Währungsfonds. Ihr vorzeitiger Abgang bringt Bewegung in die anstehende Neuordnung der Notenbankspitze.",
-   "link": "https://www.wiwo.de/politik/europa/notenbank-ezb-direktorin-schnabel-tritt-anfang-januar-vorzeitig-ab/100257248.html",
-   "published": "2026-09-24T15:32:54+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
-   "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-wir-haben-unterschaetzt-wie-stark-deutschland-vom-ki-boom-profitiert-hat/100256792.html",
-   "published": "2026-09-24T15:31:22+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: „Wir haben unterschätzt, wie stark Deutschland vom KI-Boom profitiert hat“",
-   "summary": "Die deutsche Wirtschaft ist im Aufschwung. Vorerst. Allerdings braucht es dringend Reformen, mahnt Ifo-Ökonom Timo Wollmershäuser.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutschland-profitiert-vom-ki-boom/100256792.html",
-   "published": "2026-09-24T15:31:22+00:00",
-   "first_seen": "2026-09-25T07:04:57.948401+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Preiserhöhungen: EuGH stärkt Fernwärmekunden",
-   "summary": "Der Bundesgerichtshof hat die Rechte von Fernwärmekunden zu Unrecht beschnitten, rügt der Gerichtshof der EU. Für sie könnte es künftig leichter werden, gegen Preiserhöhungen vorzugehen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eugh-urteil-fernwaermekunden-koennen-leichter-klagen-201255824.html",
-   "published": "2026-09-24T15:31:08+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Mercedes-Benz: Mercedes-Mitarbeiter sollen wieder vier Tage im Büro arbeiten",
-   "summary": "Die Verhandlungen zum mobilen Arbeiten bei Mercedes sind auf der Zielgeraden. Das Homeoffice soll nur noch an einem Tag in der Woche möglich sein.",
-   "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-mercedes-mitarbeiter-sollen-wieder-vier-tage-im-buero-arbeiten/100257209.html",
-   "published": "2026-09-24T15:30:06+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "PDF: Handelsblatt vom 25. September 2026",
-   "summary": "",
-   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-25.-september-2026/100257249.html",
-   "published": "2026-09-24T15:28:27+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "PDF: Handelsblatt vom 25. September 2026 - Beilage",
-   "summary": "",
-   "link": "https://www.handelsblatt.com/epaper-pdf/pdf-handelsblatt-vom-25.-september-2026-beilage/100257077.html",
-   "published": "2026-09-24T15:28:13+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
    "paywall": true
   }
