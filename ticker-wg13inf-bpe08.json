@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T21:04:29.701739+00:00",
+ "updated": "2026-09-29T22:04:12.762127+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "\"In erster Linie ist der Staat gefragt\"",
+   "summary": "Die Forderungen der KI-Bosse nach Regulierung sei auch PR, so Matthias Spielkamp von Algorithm Watch. Auf die Eigeninitiative der Unternehmen solle man nicht setzen.",
+   "link": "https://www.zdfheute.de/video/heute-journal-update/sgs-goekdemir-spielkamp-100.html",
+   "published": "2026-09-29T22:00:00+00:00",
+   "first_seen": "2026-09-29T22:04:12.762127+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
+   "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Donald Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258448.html",
+   "published": "2026-09-29T20:50:24+00:00",
+   "first_seen": "2026-09-29T22:04:12.762127+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: OpenAI streicht neues Modell - und setzt auf KI-Agenten",
@@ -881,24 +899,6 @@
    "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
    "link": "https://www.handelsblatt.com/karriere/berufe-welche-jobs-in-der-it-branche-bleiben-trotz-ki-boom-zukunftssicher/100238210.html",
    "published": "2026-09-28T12:52:00+00:00",
-   "first_seen": "2026-09-28T13:05:51.143875+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Chipkonzern: Nvidia stockt Aktienrückkaufprogramm um 150 Milliarden US-Dollar auf",
-   "summary": "Der KI-Boom hat Nvidia zum wertvollsten Unternehmen der Welt gemacht. Nun stockt der Chipkonzern sein Aktienrückkaufprogramm um 150 Milliarden Dollar auf.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/us-chipkonzern-nvidia-stockt-aktienrueckkaufprogramm-um-150-milliarden-us-dollar-auf/100257960.html",
-   "published": "2026-09-28T12:49:57+00:00",
-   "first_seen": "2026-09-28T13:05:51.143875+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
-   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-expertin-menschen-interagieren-mit-ki-nicht-wie-mit-anderen-menschen/100188740.html",
-   "published": "2026-09-28T12:45:00+00:00",
    "first_seen": "2026-09-28T13:05:51.143875+00:00",
    "paywall": true
   }

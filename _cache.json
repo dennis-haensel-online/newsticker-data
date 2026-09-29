@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T21:04:29.701739+00:00",
+ "updated": "2026-09-29T22:04:12.762127+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,42 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Yamal mit Spanien in Torlaune gegen Kroatien",
+   "summary": "Spanien feiert im ersten Heimspiel nach dem WM-Gewinn einen souveränen Sieg in der Nations League. Gegen Kroatien zeigen sich Lamine Yamal und Co. in Torlaune.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/spanien-kroatien-highlights-maenner-zusammenfassung-100.html",
+   "published": "2026-09-29T22:01:00+00:00",
+   "first_seen": "2026-09-29T22:04:12.762127+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "\"In erster Linie ist der Staat gefragt\"",
+   "summary": "Die Forderungen der KI-Bosse nach Regulierung sei auch PR, so Matthias Spielkamp von Algorithm Watch. Auf die Eigeninitiative der Unternehmen solle man nicht setzen.",
+   "link": "https://www.zdfheute.de/video/heute-journal-update/sgs-goekdemir-spielkamp-100.html",
+   "published": "2026-09-29T22:00:00+00:00",
+   "first_seen": "2026-09-29T22:04:12.762127+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "England siegt souverän gegen Tschechien",
+   "summary": "Zwei Tore reichen England um sich in der Nations League gegen Tschechien durchzusetzen. Nach langer Überzahl erlöste Anthony Gordon die Three Lions, Harry Kane legte später nach.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/tschechien-england-highlights-maenner-zusammenfassung-100.html",
+   "published": "2026-09-29T22:00:00+00:00",
+   "first_seen": "2026-09-29T22:04:12.762127+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
+   "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Donald Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258448.html",
+   "published": "2026-09-29T20:50:24+00:00",
+   "first_seen": "2026-09-29T22:04:12.762127+00:00",
    "paywall": true
   },
   {
@@ -13462,42 +13498,6 @@
    "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
    "link": "https://www.handelsblatt.com/technik/ki/yoshua-bengio-diese-kis-betruegen-obwohl-sie-es-nicht-duerfen-01/100256318.html",
    "published": "2026-09-26T05:42:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Video-App: Tiktok begrenzt Nutzungszeit für Kinder in US-Bundesstaat",
-   "summary": "Erst erklärte sich der Facebook-Konzern Meta zu Einschränkungen für junge Nutzer seiner Dienste in den USA bereit. Jetzt folgt die Kurzvideo-Plattform TikTok - zunächst in einem Bundesstaat.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/video-app-tiktok-begrenzt-nutzungszeit-fuer-kinder-in-us-bundesstaat/100257577.html",
-   "published": "2026-09-26T05:39:06+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Die Kundenversteher – mit digitalen Tools gewinnt Fielmann abtrünnige Kunden zurück",
-   "summary": "Jedes Jahr verlor der Optiker 700.000 Kunden – durch zu lange Wartezeiten. Mithilfe von KI vereinfacht Fielmann nun Augencheck und Brillenkauf und hat so seinen Marktanteil erhöht.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/fielmann-mit-digitalen-tools-zu-mehr-kundenzufriedenheit-01/100243934.html",
-   "published": "2026-09-26T05:35:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Wer bezahlt die Aufpasser der KI?",
-   "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/deutschland-wer-bezahlt-die-aufpasser-der-ki-01/100256634.html",
-   "published": "2026-09-26T05:32:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Simson-Hype: Ein DDR-Kultmoped und sein AfD-Problem",
-   "summary": "AfD-Politiker vereinnahmen die Simson. Die Familie wehrt sich dagegen. Und der Thüringer Ersatzteilehersteller MZA? Will einfach Geld verdienen. Nur einfach ist das Simson-Geschäft nicht.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/simson-hype-wie-die-afd-im-osten-aus-einem-ddr-moped-ein-politikum-macht-01/100250116.html",
-   "published": "2026-09-26T05:27:00+00:00",
    "first_seen": "2026-09-26T06:05:11.380885+00:00",
    "paywall": true
   }
