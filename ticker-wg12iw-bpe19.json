@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-29T14:06:47.182797+00:00",
+ "updated": "2026-09-29T15:07:49.145681+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gesundheit: Fitnessbranche sieht beim Wachstum „noch viel Luft nach oben“ – Weitere Konsolidierung erwartet",
+   "summary": "Mitgliederrekorde und noch weiteres Potenzial: Die Fitnessbranche in Deutschland ist aus mehreren Gründen optimistisch. Anbieter Lifefit peilt eine halbe Milliarde Euro Umsatz an.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/unternehmen-der-fitnessmarkt-waechst-weiter-und-hat-noch-viel-luft-nach-oben-01/100257038.html",
+   "published": "2026-09-29T14:36:00+00:00",
+   "first_seen": "2026-09-29T15:07:49.145681+00:00",
    "paywall": true
   },
   {
@@ -586,24 +595,6 @@
    "published": "2026-09-25T17:04:00+00:00",
    "first_seen": "2026-09-25T18:04:18.157587+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt-Studie: Exklusive Ifo-Berechnung: Stellenabbau in Deutschland kommt zum Stillstand",
-   "summary": "Das Beschäftigungsbarometer des Ifo-Instituts für das Handelsblatt zeigt: Der Abwärtstrend am Arbeitsmarkt ist vorerst gestoppt. Für einen Aufbau neuer Jobs ist es allerdings noch zu früh.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-studie-stellenabbau-in-deutschland-kommt-zum-stillstand/100257183.html",
-   "published": "2026-09-25T15:17:03+00:00",
-   "first_seen": "2026-09-25T16:04:46.445536+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Nach Schnabels Rückzug: Im Rennen um die Lagarde-Nachfolge wird es ernst",
-   "summary": "EZB-Direktoriumsmitglied Isabel Schnabel scheidet vorzeitig aus dem Amt. Damit hat das Stühlerücken in der Notenbank begonnen. Nun könnte alles ganz schnell gehen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/im-rennen-um-die-lagarde-nachfolge-in-der-ezb-wird-es-ernst-201262077.html",
-   "published": "2026-09-25T14:58:04+00:00",
-   "first_seen": "2026-09-25T15:04:36.153236+00:00",
-   "paywall": true
   }
  ]
 }
