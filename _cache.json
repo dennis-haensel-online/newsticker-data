@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T17:04:58.155279+00:00",
+ "updated": "2026-09-29T18:06:52.862116+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,123 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Dots: OpenAI stellt KI-Agenten für den Alltag vor",
+   "summary": "Der Facebook-Konzern Meta kam mit einem KI-Assistenten für den Alltag dem Vorreiter OpenAI zuvor. Doch nur um wenige Wochen - jetzt kontern die ChatGPT-Macher mit einem eigenen Angebot.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-dots-openai-stellt-ki-agenten-fuer-den-alltag-vor/100258430.html",
+   "published": "2026-09-29T17:55:10+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Wir haben nicht verstanden, mit wem wir es zu tun haben\"",
+   "summary": "Die EU plant, bis 2030 verteidigungsfähig zu sein. Doch wie groß ist die Bedrohung wirklich? Wie reagiert Deutschland auf hybride Angriffe? Die Debatte im auslandsjournal-Podcast.",
+   "link": "https://www.zdfheute.de/politik/ausland/russland-hybrider-krieg-deutschland-nato-eu-100.html",
+   "published": "2026-09-29T17:55:00+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Fußball: Premier League spricht Man City in Finanz-Affäre schuldig",
+   "summary": "Es ist einer der größten Skandale in der Geschichte des englischen Fußballs. Manchester City wird wegen Verstößen gegen Finanzregeln schuldig gesprochen. Nun drohen dem Club harte Strafen.",
+   "link": "https://www.handelsblatt.com/politik/international/fussball-premier-league-spricht-man-city-in-finanz-affaere-schuldig/100258424.html",
+   "published": "2026-09-29T17:36:35+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Südlink-Bau gestoppt: Jetzt soll es über der Erde weitergehen",
+   "summary": "Statt unter Tage soll ein Teil der Stromautobahn jetzt oberirdisch verlegt werden. Vorausgesetzt, die Grundstückseigentümer spielen mit.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/suedlink-teilstueck-der-stromautobahn-soll-oberirdisch-weitergebaut-werden-201274003.html",
+   "published": "2026-09-29T17:32:09+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Warum Hamburgs Stromnetz an seine Grenzen gerät",
+   "summary": "Hamburgs Stromnetz stößt an Grenzen: Neue Großanschlüsse sind knapp. Politik und Netzbetreiber suchen Lösungen. Das Problem sind vor allem fehlende Transformatoren.",
+   "link": "https://www.zdfheute.de/politik/deutschland/hamburg-strom-stromnetz-energie-kapazitaeten-netzausbau-industrie-100.html",
+   "published": "2026-09-29T17:32:00+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Gerüchte über RWE und KKR: Gerangel um Gaskonzern Uniper",
+   "summary": "In der Energiekrise musste der Staat Uniper retten. Nun soll es mehrere Bieter geben – darunter RWE gemeinsam mit dem Investor KKR. Der Betriebsrat warnt und fürchtet die Zerschlagung.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geruechte-ueber-rwe-und-kkr-gerangel-um-verstaatlichten-gaskonzern-uniper-201272248.html",
+   "published": "2026-09-29T17:27:30+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Ministerpräsident von Sachsen-Anhalt: Siegmund rechnet mit Unbekannten",
+   "summary": "Die AfD in Sachsen-Anhalt hat ihre Meinung geändert. Auch ohne eigene Mehrheit will sich ihr Spitzenkandidat zur Wahl stellen. mehr...",
+   "link": "https://taz.de/Ministerpraesident-von-Sachsen-Anhalt/!6217269/",
+   "published": "2026-09-29T17:25:00+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Von Alkoholverbot bis Tankrabatt: Was sich im Oktober ändert",
+   "summary": "Die Sommerzeit endet, das Alkoholverbot an Bahnhöfen kommt - und das Tanken wird billiger. Was sich im Oktober ändert: ein Überblick in Bildern.",
+   "link": "https://www.zdfheute.de/politik/deutschland/tankrabatt-winterzeit-alkoholverbot-oktober-aenderungen-100.html",
+   "published": "2026-09-29T17:22:00+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Apple: John Ternus plant offenbar weitreichenden Konzernumbau",
+   "summary": "Knapp einem Monat nach seinem Antritt will der neue Apple-Chef scheinbar einiges ändern. Das Unternehmen soll demnach verschlankt werden.",
+   "link": "https://www.wiwo.de/unternehmen/it/apple-john-ternus-plant-offenbar-weitreichenden-konzernumbau/100258421.html",
+   "published": "2026-09-29T17:19:29+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Tech-Konzern: Neuer Apple-Chef plant offenbar weitreichenden Konzernumbau",
+   "summary": "Apple-CEO John Ternus plant einem Bericht zufolge großangelegte Umstrukturierungen. Demnach stehen das Management und die die KI-Einbindung im Fokus.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/apple-neuer-konzernchef-plant-offenbar-weitreichenden-umbau/100258423.html",
+   "published": "2026-09-29T17:19:08+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rhein-Niedrigwasser: Schiff steckt nicht mehr fest, aber Abfahrt verzögert sich",
+   "summary": "Mercedes hat in Düsseldorf ein Sprinter-Werk, ein Teil der Transporter wird über den Rhein verschifft. Doch die Trockenheit machte so einer Lieferung einen Strich durch die Rechnung - vorerst.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/rhein-niedrigwasser-schiff-steckt-nicht-mehr-fest-aber-abfahrt-verzoegert-sich/100258338.html",
+   "published": "2026-09-29T17:18:21+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Britische Regierung: Großbritannien in der Klemme",
+   "summary": "Während Premierminister Burnham von „Hoffnung“ spricht, kommen schlechte Nachrichten von der Schuldenfront. Wie prekär die Lage ist, haben viele in der Labourpartei wohl noch nicht begriffen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/grossbritannien-in-der-klemme-201273189.html",
+   "published": "2026-09-29T17:07:15+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Altersvorsorge: Sorge vor Fehlstart für Kapitalrente: „Als Politiker würde ich jeden Tag für eine Finanzkrise beten“",
+   "summary": "Experten stecken große Hoffnungen in das neue Altersvorsorgedepot – wäre da nicht die Furcht vor einer KI-Blase. Doch Befürworter entkräften das Albtraumszenario mit Schwedens Erfahrungen.",
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-als-politiker-wuerde-ich-jeden-tag-fuer-eine-finanzkrise-beten/100258418.html",
+   "published": "2026-09-29T16:59:59+00:00",
+   "first_seen": "2026-09-29T18:06:52.862116+00:00",
    "paywall": true
   },
   {
@@ -13382,123 +13499,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-dutzende-organisationen-von-besuch-durch-ki-agenten-betroffen-faz-200452404.html",
    "published": "2026-09-25T22:06:28+00:00",
    "first_seen": "2026-09-25T23:03:43.613530+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Open-AI-Agenten griffen in Webseiten von US-Behörden ein",
-   "summary": "KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen +++ Social-Media-Sucht: Tiktok wendet Prozess in USA durch 100-Millionen-Vergleich ab +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-agenten-griffen-in-webseiten-von-us-behoerden-ein-faz-200452404.html",
-   "published": "2026-09-25T22:06:28+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Reformdebatte: SPD will bei Pflegereform Leistungskürzung verhindern",
-   "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257533.html",
-   "published": "2026-09-25T22:02:04+00:00",
-   "first_seen": "2026-09-25T23:03:43.613530+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Reformdebatte: SPD will Leistungskürzung bei Pflegereform verhindern",
-   "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck.",
-   "link": "https://www.wiwo.de/politik/deutschland/reformdebatte-spd-will-bei-pflegereform-leistungskuerzung-verhindern/100257534.html",
-   "published": "2026-09-25T22:02:04+00:00",
-   "first_seen": "2026-09-26T09:03:50.392939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Frankreich siegt bei Zidanes Trainer-Einstand",
-   "summary": "Zinedine Zidane glückt der Einstand als Nationaltrainer Frankreichs. In der Türkei holen die Franzosen einen knappen Sieg - mit einem Wermutstropfen.",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/tuerkei-frankreich-highlights-maenner-zusammenfassung-100.html",
-   "published": "2026-09-25T22:00:00+00:00",
-   "first_seen": "2026-09-25T23:03:43.613530+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Pfiffe nach Italiens Auftritt gegen Belgien",
-   "summary": "Italien verpatzt den Neustart unter Trainer Roberto Mancini. Gegen Belgien zeigen die Azzurri eine mäßige Leistung und unterliegen dem Team um Kevin de Bruyne.",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/italien-belgien-highlights-2026-27-maenner-zusammenfassung-100.html",
-   "published": "2026-09-25T22:00:00+00:00",
-   "first_seen": "2026-09-25T23:03:43.613530+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Jemens Außenministerin: Iran verantwortlich für Kämpfe",
-   "summary": "Um den Konflikt im Jemen zu beenden, braucht es Druck auf Iran, sagt Afrah Al-Zouba, Außenministerin des Jemen. Rückendeckung bekommt sie dabei vom UN-Sicherheitsrat.",
-   "link": "https://www.zdfheute.de/politik/ausland/jemen-huthi-un-sicherheitsrat-afrah-al-zouba-100.html",
-   "published": "2026-09-25T21:20:00+00:00",
-   "first_seen": "2026-09-25T22:04:02.090405+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Nur ein T-Shirt stört den Minister",
-   "summary": "Auf dem Höhepunkt des Konflikts mit den USA nähert sich Kanada demonstrativ Deutschland an. In Ottawa feiern die Außenminister eine bemerkenswerte Party.",
-   "link": "https://www.zdfheute.de/politik/johann-wadephul-kanada-eu-ottawa-100.html",
-   "published": "2026-09-25T19:57:00+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Im Kampf für Europa - NATO-Manöver in Estland",
-   "summary": "Die französische Fremdenlegion trainiert in Estland an der NATO-Ostflanke als Angreifer. Wie gut arbeiten die internationalen Soldaten zusammen und wie gerüstet ist die NATO für den Ernstfall?",
-   "link": "https://www.zdf.de/video/dokus/fremdenlegion--100/zdfinfo-fremdenlegion-im-kampf-fuer-europa-nato-manoever-in-estland-100",
-   "published": "2026-09-25T19:45:00+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Cambridge Analytica: Drohende Milliardenstrafe für Meta nach verlorenem Prozess",
-   "summary": "In New Mexico verliert der Konzern Meta einen Prozess im Zusammenhang mit dem Cambridge-Analytica-Skandal. Nun droht dem Facebook-Mutterkonzern eine Strafe in Milliardenhöhe.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cambridge-analytica-skandal-drohende-milliardenstrafe-fuer-meta-nach-verlorenem-prozess-201264202.html",
-   "published": "2026-09-25T19:33:23+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Ab jetzt mehr Überwachung an Bahnhöfen und Flughäfen möglich",
-   "summary": "Gesichtserkennung, Handy-Ortung und KI-Überwachung: Bundestag und Bundesrat haben die Reform des Bundespolizeigesetzes verabschiedet - nach fünf Jahren und einer Panne.",
-   "link": "https://www.zdfheute.de/politik/deutschland/bundespolizei-befugnisse-abschiebehaft-100.html",
-   "published": "2026-09-25T19:29:00+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Linke stimmt für Sondierungen mit Grünen und SPD",
-   "summary": "Die Linke ist stärkste Kraft in Berlin und will mit Grünen und SPD verhandeln. Doch Antisemitismus-Vorwürfe und Clan-Nähe erschweren die Gespräche mit den möglichen Partnern.",
-   "link": "https://www.zdfheute.de/politik/deutschland/linke-berlin-sondierung-gruene-spd-100.html",
-   "published": "2026-09-25T19:22:00+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Reformdebatte: SPD-Generalsekretär: Keine Leistungskürzung in der Pflege",
-   "summary": "Die Pflegeversicherung ist in Finanznöten, CDU-Gesundheitsminister Linnemann will nächste Woche eine Reform auf den Weg bringen. Doch kurz vorher meldet sich der Koalitionspartner zu Wort.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/reformdebatte-spd-generalsekretaer-keine-leistungskuerzung-in-der-pflege/100257526.html",
-   "published": "2026-09-25T19:17:36+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Medizin, Essen, Haushalt: Kann die KI mehr als nur Kosten sparen?",
-   "summary": "Tech-Unternehmer betonen, dass KI trotz aller Gefahren lange undenkbare Innovationen hervorbringen kann. Diese Beispiele zeigen, wo das schon heute gelingt. Aber der Weg zum großen Fortschrittsversprechen ist lang.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-kann-ki-mehr-als-kosten-sparen-201251373.html",
-   "published": "2026-09-25T19:02:27+00:00",
-   "first_seen": "2026-09-25T20:03:44.580552+00:00",
    "paywall": true
   }
  ]
