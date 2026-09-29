@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-29T13:07:49.824621+00:00",
+ "updated": "2026-09-29T14:06:47.182797+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-noch-karrierechancen-bieten/100235558.html",
+   "published": "2026-09-29T13:53:00+00:00",
+   "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": true
   },
   {
@@ -594,33 +603,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/im-rennen-um-die-lagarde-nachfolge-in-der-ezb-wird-es-ernst-201262077.html",
    "published": "2026-09-25T14:58:04+00:00",
    "first_seen": "2026-09-25T15:04:36.153236+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Arbeitsmarkt: Flexible Personalplanung nimmt zu, Beschäftigte tragen die Last",
-   "summary": "Befristungen, Arbeitszeitkonten, Überstunden: Die deutsche Wirtschaft setzt zunehmend auf flexible Personalplanung. Beschäftigte zahlen den Preis.",
-   "link": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-flexible-personalplanung-nimmt-zu-beschaeftigte-tragen-die-last-a-31974355-8c00-4a5c-97ad-f406007c8f26#ref=rss",
-   "published": "2026-09-25T13:29:00+00:00",
-   "first_seen": "2026-09-25T14:04:55.208615+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Konjunktur: Eine schlechte gute Nachricht",
-   "summary": "Wirtschaftsministerin Katherina Reiche freut sich über die besseren Wachstumsprognosen – und hat doch eine Befürchtung: dass die leichte Erholung zu falschen Schlussfolgerungen führt.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-katherina-reiche-li.3553837",
-   "published": "2026-09-25T13:21:40+00:00",
-   "first_seen": "2026-09-25T14:04:55.208615+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Isabel Schnabel irrte, provozierte – und wird der EZB fehlen",
-   "summary": "Ein folgenreiches Eingeständnis hat die angesehene Deutsche zur überzeugten Hardlinerin geformt. Ihr vorzeitiger Abschied wird die Statik unter den Notenbankern verändern.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-isabel-schnabel-irrte-provozierte-und-wird-der-ezb-fehlen/100257353.html",
-   "published": "2026-09-25T12:51:51+00:00",
-   "first_seen": "2026-09-25T13:06:00.186622+00:00",
    "paywall": true
   }
  ]
