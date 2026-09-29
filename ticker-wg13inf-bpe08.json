@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T03:04:39.091205+00:00",
+ "updated": "2026-09-29T04:04:20.571981+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-anthropics-boersenprospekt-soll-hohe-verluste-ausweisen/100258107.html",
    "published": "2026-09-29T02:46:38+00:00",
    "first_seen": "2026-09-29T03:04:39.091205+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropics Börsenprospekt soll hohe Verluste ausweisen",
+   "summary": "Teile der bislang vertraulichen Unterlagen für den Börsengang sind am Montag bekannt geworden. Sie zeigen rasant steigende Umsätze, enorme Verpflichtungen und eine ungewöhnliche Machtstruktur.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-anthropics-boersenprospekt-soll-hohe-verluste-ausweisen/100258107.html",
+   "published": "2026-09-29T02:46:38+00:00",
+   "first_seen": "2026-09-29T04:04:20.571981+00:00",
    "paywall": true
   },
   {
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257564.html",
    "published": "2026-09-26T02:55:54+00:00",
    "first_seen": "2026-09-26T04:04:04.669814+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: KI von OpenAI lud Nutzer-Bilder zu Online-Plattformen hoch",
-   "summary": "Erstmals wird Fehlverhalten der KI von OpenAI bekannt, bei dem auch Daten von ChatGPT-Nutzern betroffen waren. Auch auf US-Regierungsdaten hat sich die KI Zugriff verschafft.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-ki-von-openai-lud-nutzer-bilder-zu-online-plattformen-hoch/100257562.html",
-   "published": "2026-09-26T02:55:54+00:00",
-   "first_seen": "2026-09-26T09:03:50.392939+00:00",
    "paywall": true
   }
  ]
