@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-29T10:05:25.666423+00:00",
+ "updated": "2026-09-29T11:04:38.001499+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: OpenAI stoppt Veröffentlichung von neuem KI-Modell",
+   "summary": "Die Cybersicherheitsprobleme beim KI-Entwickler OpenAI halten an: Das neue Modell 6.1 Astra hätte eigentlich zeitnah herauskommen sollen. Nun hat es unerlaubt auf Eigeninitiative gehandelt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-openai-stoppt-veroeffentlichung-von-neuem-ki-modell-01/100258090.html",
+   "published": "2026-09-29T10:55:00+00:00",
+   "first_seen": "2026-09-29T11:04:38.001499+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-kompetenz-wird-das-wettbewerbsmerkmal-der-zukunft-sein/100223312.html",
+   "published": "2026-09-29T10:32:00+00:00",
+   "first_seen": "2026-09-29T11:04:38.001499+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
+   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
+   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-warum-das-mittlere-management-unter-druck-geraet/100243656.html",
+   "published": "2026-09-29T10:31:00+00:00",
+   "first_seen": "2026-09-29T11:04:38.001499+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Cohere-Chef Gomez: Deutschlands KI-Hoffnung sitzt in Toronto",
+   "summary": "Der kanadische Unternehmer Aidan Gomez will Deutschland fit für die Künstliche Intelligenz machen. Da hat er sich viel vorgenommen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutschlands-ki-hoffnung-cohere-sitzt-in-toronto-accg-201253488.html",
+   "published": "2026-09-29T10:14:30+00:00",
+   "first_seen": "2026-09-29T11:04:38.001499+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Führung: „Das Schlimmste aus der Perspektive eines überklugen Typen wie Elon Musk ist ja das Sterben“",
+   "summary": "Der Philosoph Manuel Scheidegger sagt: Dummheit wird unterschätzt. Ein Gespräch über Hoffnungen in KI, falsch verstandenen Scheiterkult – und den Sinn von „Meinungsfasten“.",
+   "link": "https://www.handelsblatt.com/karriere/manuel-scheidegger-leute-muessen-wirklich-das-gefuehl-haben-sie-duerfen-bloed-sein/100252820.html",
+   "published": "2026-09-29T10:12:00+00:00",
+   "first_seen": "2026-09-29T11:04:38.001499+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Anthropic plant Börsengang der Superlative – trotz Milliardenverlusten",
@@ -856,51 +901,6 @@
    "published": "2026-09-27T09:12:24+00:00",
    "first_seen": "2026-09-27T10:04:05.447868+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "OpenAI pausiert KI-Training nach neuem Zwischenfall",
-   "summary": "OpenAI pausiert das KI-Training und verspricht Nachbesserungen. Erneute hatte eine KI Kontakt zu einem externen Chatbot aufgenommen, obwohl sie keinen Internetzugang haben sollte.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/openai-ki-training-zwischenfall-100.html",
-   "published": "2026-09-27T08:49:00+00:00",
-   "first_seen": "2026-09-27T10:04:05.447868+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Bundespolitik +++: „Gerne mal eine Lösung haben“ – Wüst fordert schnelleres Reformtempo",
-   "summary": "Thüringer Ex-BSW-Chefin Wolf offen für AfD-Verbotsverfahren +++ Dobrindt für Schnellabschiebungen +++ Digitalminister Wildberger fordert internationale KI-Kontrolle +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-wuest-fordert-schnelleres-reformtempo-bei-der-rente/100137034.html",
-   "published": "2026-09-27T08:31:00+00:00",
-   "first_seen": "2026-09-27T09:03:42.566502+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: OpenAI pausiert KI-Training nach neuem Zwischenfall – Altman und Amodei sollen vor Untersuchungsausschuss",
-   "summary": "Berichte über außer Kontrolle geratene KI-Modelle häufen sich. OpenAI will nun an wichtigen Stellen bei der Sicherheit nachbessern. Die Chefs von OpenAI und Amodei sollen sich in Australien erklären.",
-   "link": "https://www.handelsblatt.com/technik/ki/openai-pausiert-ki-training-nach-neuem-zwischenfall/100257653.html",
-   "published": "2026-09-27T05:44:34+00:00",
-   "first_seen": "2026-09-27T06:05:18.484880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: „Wenn wir jetzt nicht investieren, wird Europa Kollateralschaden im KI-Rennen“",
-   "summary": "Experten fordern mehr KI-Souveränität für Europa. Was ein Rückfallen im KI-Rennen bedeuten könnte – und wo Europas Stärken liegen.",
-   "link": "https://www.wiwo.de/technologie/ki-souveraenitaet-europas-chance-im-rennen-gegen-usa-und-china/100255463.html",
-   "published": "2026-09-27T04:39:00+00:00",
-   "first_seen": "2026-09-27T05:03:53.680060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Open AI pausiert KI-Training nach neuem Zwischenfall",
-   "summary": "Die Berichte über eigenständige Hacking-Aktivitäten von KI-Agenten häufen sich. Bei Open AI zieht man nun erstmal die Reißleine, was das Training bestimmter Modelle betrifft.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-kuenstliche-intelligenz-chatgpt-openai-usa-technologie-li.3554508",
-   "published": "2026-09-27T03:20:15+00:00",
-   "first_seen": "2026-09-27T04:04:07.271253+00:00",
-   "paywall": true
   }
  ]
 }

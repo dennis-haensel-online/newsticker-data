@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-29T10:05:25.666423+00:00",
+ "updated": "2026-09-29T11:04:38.001499+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Geschäftsklima im Euroraum trübt sich überraschend ein",
+   "summary": "Im September gibt die Wirtschaftsstimmung in der Eurozone nach vier Monaten mit steigenden Werten nach. Vor allem das Konsumklima belastet die Stimmung.",
+   "link": "https://www.wiwo.de/politik/konjunktur/weniger-konsum-geschaeftsklima-im-euroraum-truebt-sich-ueberraschend-ein/100258260.html",
+   "published": "2026-09-29T10:23:38+00:00",
+   "first_seen": "2026-09-29T11:04:38.001499+00:00",
    "paywall": true
   },
   {
@@ -638,15 +647,6 @@
    "summary": "Die führenden Ökonomen haben ihre Wachstumsprognose für Deutschland mehr als verdoppelt. Ifo-Chef Fuest warnt vor einem Strohfeuer – und kritisiert eine „Schnapsidee“ der Regierung.",
    "link": "https://www.handelsblatt.com/politik/deutschland/ifo-chef-clemens-fuest-das-ist-ein-teuer-erkaufter-aufschwung/100257240.html",
    "published": "2026-09-25T09:32:33+00:00",
-   "first_seen": "2026-09-25T10:04:11.680094+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bevölkerung in Deutschland: So viele Menschen leben in den 16 Bundesländern",
-   "summary": "Deutschland ist gemessen an der Bevölkerungszahl und dem BIP das größte Land in der EU. Doch wie viele Menschen leben in den 16 Bundesländern? Ein Überblick.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bevoelkerung-in-deutschland-2026-die-groessten-bundeslaender/26635128.html",
-   "published": "2026-09-25T09:14:00+00:00",
    "first_seen": "2026-09-25T10:04:11.680094+00:00",
    "paywall": true
   }
