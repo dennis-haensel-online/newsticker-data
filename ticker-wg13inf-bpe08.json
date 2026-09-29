@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-28T23:04:00.587481+00:00",
+ "updated": "2026-09-29T00:06:09.154934+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Das Modell 6.1 Astra hätte eigentlich in den nächsten Tagen oder Wochen herauskommen wollen. Allerdings hat das Modell offenbar zum Teil unerlaubt auf Eigeninitiative gehandelt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
+   "published": "2026-09-28T23:30:07+00:00",
+   "first_seen": "2026-09-29T00:06:09.154934+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258087.html",
+   "published": "2026-09-28T22:56:31+00:00",
+   "first_seen": "2026-09-29T00:06:09.154934+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: AMD kauft World Labs für rund acht Milliarden Dollar",
@@ -883,24 +901,6 @@
    "published": "2026-09-25T19:02:27+00:00",
    "first_seen": "2026-09-25T20:03:44.580552+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Fideuram in Italien: Betrüger legen Privatbank rein, erbeuten 36 Millionen Euro",
-   "summary": "Mit einer KI wird die Stimme eines bekannten Anwalts imitiert. Und dann überweist die Privatbank Fideuram Geld an Betrüger. Sehr viel Geld. Nur ein Teil kann zurückgeholt werden.",
-   "link": "https://www.spiegel.de/wirtschaft/fideuram-in-italien-betrueger-legen-privatbank-rein-erbeuten-36-millionen-euro-a-ad94fe43-ad7f-42d0-8f3f-968a4d83b6b5#ref=rss",
-   "published": "2026-09-25T18:54:00+00:00",
-   "first_seen": "2026-09-25T19:03:53.502840+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Fideuram in Italien: Betrüger legen Privatbank rein, erbeuten 36 Millionen Euro",
-   "summary": "Mit einer KI wird die Stimme eines bekannten Anwalts imitiert. Und dann überweist die Privatbank Fideuram Geld an Betrüger. Sehr viel Geld. Nur ein Teil kann zurückgeholt werden.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/fideuram-in-italien-betrueger-legen-privatbank-rein-erbeuten-36-millionen-euro-a-ad94fe43-ad7f-42d0-8f3f-968a4d83b6b5#ref=rss",
-   "published": "2026-09-25T18:54:00+00:00",
-   "first_seen": "2026-09-26T11:03:45.350394+00:00",
-   "paywall": false
   }
  ]
 }

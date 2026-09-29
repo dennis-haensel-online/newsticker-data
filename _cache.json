@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T23:04:00.587481+00:00",
+ "updated": "2026-09-29T00:06:09.154934+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,42 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Das Modell 6.1 Astra hätte eigentlich in den nächsten Tagen oder Wochen herauskommen wollen. Allerdings hat das Modell offenbar zum Teil unerlaubt auf Eigeninitiative gehandelt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
+   "published": "2026-09-28T23:30:07+00:00",
+   "first_seen": "2026-09-29T00:06:09.154934+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Flugzeugbauer: Software-Problem verzögert Zulassung neuer Boeing-Variante",
+   "summary": "Boeing machte sich Hoffnungen, bald die Zulassung für die größte Variante des wichtigen Modells 737 Max zu bekommen. Doch ein neuer Software-Fehler bringt den Zeitplan erneut durcheinander.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/us-flugzeugbauer-software-problem-verzoegert-zulassung-neuer-boeing-variante/100258091.html",
+   "published": "2026-09-28T23:30:04+00:00",
+   "first_seen": "2026-09-29T00:06:09.154934+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Iran-Krieg: Sanktionserleichterungen für Iran? Trump dementiert Bericht",
+   "summary": "Wie geht es weiter im US-Krieg gegen den Iran? Im Gespräch sollen Sanktionserleichterungen für Teheran sein. Der US-Präsident bestreitet das.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-sanktionserleichterungen-fuer-iran-trump-dementiert-bericht/100258088.html",
+   "published": "2026-09-28T23:21:13+00:00",
+   "first_seen": "2026-09-29T00:06:09.154934+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
+   "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258087.html",
+   "published": "2026-09-28T22:56:31+00:00",
+   "first_seen": "2026-09-29T00:06:09.154934+00:00",
    "paywall": true
   },
   {
@@ -13462,42 +13498,6 @@
    "summary": "In den Dax-Konzernen sinkt die Zahl der Beschäftigten in einem Jahr um 47.700. In den großen europäischen Nachbarländern läuft es besser. Doch auch in Deutschland gibt es Lichtblicke.",
    "link": "https://www.handelsblatt.com/unternehmen/management/stellenabbau-deutsche-unternehmen-bauen-die-meisten-arbeitsplaetze-ab/100254655.html",
    "published": "2026-09-24T15:26:09+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Gericht erlaubt Auslieferung von Nord-Stream-Verdächtigen",
-   "summary": "Ein Gericht in Kroatien hat die Auslieferung eines mutmaßlichen Nord-Stream-Saboteurs nach Deutschland erlaubt. Die Anwälte von Vladimir Zhuravlev wollen Berufung einlegen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/nord-stream-wolodymyr-schurawlew-auslieferung-kroatien-100.html",
-   "published": "2026-09-24T15:25:00+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Top-Ökonomin: EZB-Direktorin Isabel Schnabel wechselt zum IWF",
-   "summary": "Von der Europäischen Zentralbank zum Internationalen Währungsfonds: Die deutsche Top-Ökonomin zieht es für eine neue Rolle nach Washington. Das dürfte Folgen für die Neubesetzung der EZB-Spitze haben.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/top-oekonomin-ezb-direktorin-isabel-schnabel-wechselt-zum-iwf/100257250.html",
-   "published": "2026-09-24T15:24:50+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Gute Nachricht für Anleger: Die Nvidia-Aktie ist so billig wie seit mehr als zehn Jahren nicht mehr",
-   "summary": "In der gesunkenen Bewertung des US-Chipkonzerns zeigt sich die Skepsis von Investoren. Zwei Argumente sprechen nun für die Nvidia-Aktie, meint Andreas Neuhaus.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-nvidia-ist-so-billig-wie-seit-mehr-als-zehn-jahren-nicht-mehr/100256080.html",
-   "published": "2026-09-24T15:21:49+00:00",
-   "first_seen": "2026-09-24T16:04:24.963385+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Anleihemarkt – Steigende Renditen belasten US-Börsen",
-   "summary": "Der Ausverkauf bei US-Staatsanleihen belastet die Kurse von staatlichen Zinspapieren weltweit. Und: Chinas Staatschef Xi Jinping ist zu Besuch im Weißen Haus.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-anleihemarkt-steigende-renditen-belasten-us-boersen/100257226.html",
-   "published": "2026-09-24T15:21:07+00:00",
    "first_seen": "2026-09-24T16:04:24.963385+00:00",
    "paywall": true
   }
