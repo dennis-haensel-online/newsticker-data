@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T07:07:04.550956+00:00",
+ "updated": "2026-09-30T08:06:42.965691+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Partnerschaft: Deepseek erfindet Programmierwerkzeug für KI-Chips von Huawei",
+   "summary": "Deepseek und Huawei wollen Entwicklern den Zugang zu leistungsfähiger KI-Hardware erleichtern. Ihre neue Software soll eine Alternative zu Nvidias dominanter Programmierumgebung bieten.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/partnerschaft-deepseek-erfindet-programmierwerkzeug-fuer-ki-chips-von-huawei/100258573.html",
+   "published": "2026-09-30T08:00:40+00:00",
+   "first_seen": "2026-09-30T08:06:42.965691+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rüstung: Helsing-Drohnenjet schlägt im Simulator echte Piloten",
+   "summary": "Münchner Drohnenhersteller Helsing erzielt mit seinem unbemannten Kampfjet wohl Fortschritte. Es gibt aber auch Sicherheitsbedenken bezüglich des Einsatzes von KI im Verteidigungsrahmen.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-ki-drohnenjet-von-helsing-schlaegt-menschliche-piloten-im-simulator/100258351.html",
+   "published": "2026-09-30T07:53:00+00:00",
+   "first_seen": "2026-09-30T08:06:42.965691+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Bedrohung: Tech-Firmen sollen sich laut Trump gegenseitig kontrollieren",
+   "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. Der US-Präsident sagt nach einem Treffen mit KI-Unternehmern, die Firmen sollten sich untereinander beaufsichtigen.",
+   "link": "https://www.handelsblatt.com/politik/international/ki-bedrohung-tech-firmen-sollen-sich-laut-trump-gegenseitig-kontrollieren/100258558.html",
+   "published": "2026-09-30T07:30:16+00:00",
+   "first_seen": "2026-09-30T08:06:42.965691+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Neuer Apple-Chef plant offenbar weitreichenden Konzernumbau",
+   "summary": "Rheinfähre meldet Kurzarbeit wegen Niedrigwasser an +++ OpenAI entschuldigt sich +++ ChatGPT-Entwickler streicht Veröffentlichung eines neuen KI-Modells +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-neuer-apple-chef-plant-offenbar-weitreichenden-konzernumbau-faz-200452404.html",
+   "published": "2026-09-30T07:22:36+00:00",
+   "first_seen": "2026-09-30T08:06:42.965691+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: 97,5 Millionen Passagierdaten für zehn Millionen Dollar: KI-Unternehmen kaufen große Datenpakete insolventer Firmen auf",
+   "summary": "Google bietet Millionen für die Daten von Spirit Airlines, um damit die eigene KI zu trainieren. Zulieferer und Beschäftigte fürchten den Abfluss sensibler Informationen – und weitere Fälle.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/technologie-ki-unternehmen-kaufen-grosse-datenpakete-insolventer-firmen-auf/100256233.html",
+   "published": "2026-09-30T07:20:46+00:00",
+   "first_seen": "2026-09-30T08:06:42.965691+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
+   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-ki-pionier-bengio-die-entwicklung-der-technologie-kritisch-sieht/100256318.html",
+   "published": "2026-09-30T07:06:00+00:00",
+   "first_seen": "2026-09-30T08:06:42.965691+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Gastkommentar: Diese Idee soll Deutschlands Pisa-Schwäche beheben",
@@ -846,60 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-samsung-steckt-eine-milliarde-dollar-in-ki-infrastruktur/100258101.html",
    "published": "2026-09-29T01:10:51+00:00",
    "first_seen": "2026-09-29T02:03:56.553384+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: OpenAI streicht Veröffentlichung von neuem KI-Modell",
-   "summary": "Das Modell 6.1 Astra hätte eigentlich in den nächsten Tagen oder Wochen herauskommen wollen. Allerdings hat das Modell offenbar zum Teil unerlaubt auf Eigeninitiative gehandelt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
-   "published": "2026-09-28T23:30:07+00:00",
-   "first_seen": "2026-09-29T00:06:09.154934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "ChatGPT-Entwickler: OpenAI streicht Veröffentlichung von neuem KI-Modell",
-   "summary": "Die Cybersicherheitsprobleme bei OpenAI halten an: Das neue Modell 6.1 Astra hätte eigentlich zeitnah herauskommen sollen. Die KI hat jedoch offenbar unerlaubt auf Eigeninitiative gehandelt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/chatgpt-entwickler-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258090.html",
-   "published": "2026-09-28T23:30:07+00:00",
-   "first_seen": "2026-09-29T02:03:56.553384+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
-   "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258087.html",
-   "published": "2026-09-28T22:56:31+00:00",
-   "first_seen": "2026-09-29T00:06:09.154934+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: AMD kauft World Labs für rund acht Milliarden Dollar",
-   "summary": "Der Chiphersteller expandiert mit dem Kauf eines Teams aus führenden KI-Forschern und deren Modellen. AMD nimmt damit auch künftige Hardware-Projekte in den Blick.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-amd-kauft-world-labs-fuer-rund-acht-milliarden-dollar/100258070.html",
-   "published": "2026-09-28T20:35:10+00:00",
-   "first_seen": "2026-09-28T21:04:39.017699+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Biowaffen-Gefahr durch KI? So schätzen Experten die Risiken ein",
-   "summary": "Experten warnen: KI könnte die Entwicklung von Biowaffen erleichtern, langfristig außer Kontrolle geraten und gegen menschliche Interessen handeln. Wie groß ist die Gefahr?",
-   "link": "https://www.zdfheute.de/panorama/kuenstliche-intelligenz-risiken-biowaffen-100.html",
-   "published": "2026-09-28T20:22:00+00:00",
-   "first_seen": "2026-09-28T21:04:39.017699+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Papst fordert breiten Dialog über KI",
-   "summary": "Auf dem Heimflug aus Frankreich redet Leo XIV. über ein Thema, das ihm am Herzen liegt. Bei allen Sorgen über Risiken von KI versichert er: „Ich schlafe nachts gut.“ Damit belässt er es aber nicht.",
-   "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-papst-fordert-breiten-dialog-ueber-ki/100258068.html",
-   "published": "2026-09-28T20:14:42+00:00",
-   "first_seen": "2026-09-28T21:04:39.017699+00:00",
    "paywall": true
   }
  ]
