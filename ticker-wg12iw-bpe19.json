@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-30T18:06:31.332615+00:00",
+ "updated": "2026-09-30T19:06:47.482912+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Made for Germany: Friedrich Merz verspricht Investoren grundlegende Reformen",
+   "summary": "Gegenüber Wirtschaftsvertretern kündigt Merz an, Reformen weiter umzusetzen. Schon nächste Woche soll der Koalitionsausschuss über einen flexibleren Arbeitsmarkt beraten.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/friedrich-merz-strukturreformen-arbeitsmarkt-eu-binnenmarkt-rentenreform",
+   "published": "2026-09-30T18:57:28+00:00",
+   "first_seen": "2026-09-30T19:06:47.482912+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wirtschaftspolitik: Merz wirbt um Optimismus – und muss jetzt bei der Rente liefern",
+   "summary": "Bei der Initiative „Made for Germany“ blickt der Kanzler betont optimistisch auf die Wirtschaft, auch dank der Pflegereform. Doch Sekunden später geht es schon um die wohl noch größere Herausforderung.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundeskanzler-merz-nennt-deutschland-besten-investitionsstandort-der-welt/100258571.html",
+   "published": "2026-09-30T18:56:50+00:00",
+   "first_seen": "2026-09-30T19:06:47.482912+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Gemischte Kursentwicklungen an der Wall Street",
+   "summary": "Wichtige Konjunkturdaten verhelfen der US-Börse in Teilen zu einer Trendwende. Die Zinserwartungen bleiben dennoch konstant: Anleger rechnen mit einem weiteren Zinsschritt der Fed.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-gemischte-kursentwicklungen-an-der-wall-street/100258689.html",
+   "published": "2026-09-30T18:40:36+00:00",
+   "first_seen": "2026-09-30T19:06:47.482912+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: EZB-Präsidentin Lagarde: Könnte ein paar Monate früher abtreten",
+   "summary": "Nach Monaten der Spekulation wird es konkreter: Christine Lagarde erwägt einen vorzeitigen Rückzug als EZB‑Chefin. Eine Kandidatur bei der Präsidentschaftswahl in Frankreich schließt sie aus.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-ezb-praesidentin-lagarde-koennte-paar-monate-frueher-abtreten/100258774.html",
+   "published": "2026-09-30T18:22:54+00:00",
+   "first_seen": "2026-09-30T19:06:47.482912+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Europäische Zentralbank: EZB-Präsidentin Lagarde könnte ein paar Monate früher abtreten",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/konjunktur/inflation-oekonomen-erwarten-fuer-september-hoechsten-preisanstieg-seit-2023/100257882.html",
    "published": "2026-09-28T08:27:47+00:00",
    "first_seen": "2026-09-28T09:05:58.674983+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "15 Prozent Wachstum?: So rettet KI die deutsche Wirtschaft",
-   "summary": "Künstliche Intelligenz kann das Wachstum ankurbeln wie nie zuvor, glauben ihre Schöpfer. Ökonomen sind skeptisch. Wer recht behält, entscheidet sich nicht im Silicon Valley.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/so-rettet-ki-die-deutsche-wirtschaft-accg-201228102.html",
-   "published": "2026-09-28T08:17:48+00:00",
-   "first_seen": "2026-09-28T09:05:58.674983+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Export: Wie Polen Deutschlands Wirtschaft rettet",
-   "summary": "Ein unerwarteter Exportboom hat Deutschland den lang ersehnten Wachstumsschub gebracht. Dabei setzen Donald Trump und China der hiesigen Wirtschaft massiv zu. Was dahinter steckt – die Erklärung mit Grafiken.",
-   "link": "https://www.spiegel.de/wirtschaft/export-wie-polen-deutschlands-wirtschaft-rettet-a-07c5bce8-dec6-4a58-abf1-eea4d89c4632#ref=rss",
-   "published": "2026-09-28T08:16:00+00:00",
-   "first_seen": "2026-09-28T09:05:58.674983+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Inflation: Rekordhohe Spritpreise treiben Inflation auf höchsten Stand seit 2023",
-   "summary": "Die Inflation erreicht im September wohl den höchsten Stand seit 2023. Haupttreiber sind die Spritpreise.",
-   "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekordhohe-spritpreise-treiben-inflation-auf-hoechsten-stand-seit-2023/100257879.html",
-   "published": "2026-09-28T08:13:37+00:00",
-   "first_seen": "2026-09-28T09:05:58.674983+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Beyond the obvious: Roosevelt als Vorbild? Warum der SPD-„New Deal“ heute nicht funktioniert",
-   "summary": "Deutschlands Wirtschaft wächst stärker als erwartet. Doch der schuldenfinanzierte Aufschwung dürfte rasch verpuffen, wenn wir die bessere Konjunktur nicht nutzen. Ein Gastbeitrag.",
-   "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/beyond-the-obvious-warum-der-spd-new-deal-heute-nicht-funktioniert/100257362.html",
-   "published": "2026-09-28T08:00:00+00:00",
-   "first_seen": "2026-09-28T08:06:25.001911+00:00",
    "paywall": true
   }
  ]
