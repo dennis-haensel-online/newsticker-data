@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T01:06:32.753019+00:00",
+ "updated": "2026-09-30T02:04:53.382661+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,60 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: BIP-gewichtete ETFs versprechen mehr Streuung – bergen aber ein neues Risiko",
+   "summary": "Statt nach Marktkapitalisierung stellt ein neuer Welt-ETF Aktienmärkte nach Wirtschaftskraft zusammen. Das halbiert den US-Anteil, schafft aber neue Probleme.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-was-bringen-etfs-mit-bip-gewichtung/100256780.html",
+   "published": "2026-09-30T02:01:02+00:00",
+   "first_seen": "2026-09-30T02:04:53.382661+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energie: Reiche ordnet Gaseinspeicherung an – Staatsunternehmen soll Speicher füllen",
+   "summary": "Katherina Reiche weist nach Handelsblatt-Informationen das Staatsunternehmen Sefe an, vermehrt Erdgas einzuspeichern – und reagiert damit auf die niedrigen Füllstände in den Speichern.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/energie-wirtschaftsministerin-reiche-ordnet-gaseinspeicherung-an/100258436.html",
+   "published": "2026-09-30T02:00:40+00:00",
+   "first_seen": "2026-09-30T02:04:53.382661+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Industrie: Mercedes-Vorstand: „Gewinne der Verbrenner finanzieren Investitionen in Nachhaltigkeit“",
+   "summary": "Mit recyceltem Aluminium und Türgriffen aus alten Reifen will Mercedes seine Fahrzeuge dekarbonisieren. Vorstand Olaf Schick hat die Nachhaltigkeitsstrategie angepasst.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/mercedes-benz-verbrenner-gewinne-finanzieren-unsere-nachhaltigkeit/100252511.html",
+   "published": "2026-09-30T02:00:23+00:00",
+   "first_seen": "2026-09-30T02:04:53.382661+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "US-Justiz: Neuer Roundup-Prozess könnte für Bayer wegweisend sein",
+   "summary": "Zuletzt konnte die Bayer-Tochter Monsanto vor dem Obersten Gericht der USA einen juristischen Erfolg einfahren. Jetzt gibt es eine neue Klage.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/bayer-monsanto-krebs-glyphosat-us-justiz-unkrautvernichter-usa-supreme-court-li.3556119",
+   "published": "2026-09-30T01:47:35+00:00",
+   "first_seen": "2026-09-30T02:04:53.382661+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rüstung: Boeing erhält Milliardenauftrag für neuen Tarnkappen-Kampfjet",
+   "summary": "Das Programm könnte über die gesamte Laufzeit ein Volumen von mehreren hundert Milliarden Dollar erreichen. Die USA wollen der schnellen Modernisierung der chinesischen Luftwaffe begegnen.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-boeing-erhaelt-milliardenauftrag-fuer-neuen-tarnkappen-kampfjet/100258471.html",
+   "published": "2026-09-30T01:45:56+00:00",
+   "first_seen": "2026-09-30T02:04:53.382661+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autoindustrie: BMW streicht beim neuen 3er den Diesel",
+   "summary": "Mit den aktuellen Rekordpreisen für den Kraftstoff hat das nichts zu tun - vielmehr mit einer anderen Entwicklung.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/autoindustrie-bmw-streicht-beim-neuen-3er-den-diesel/100258472.html",
+   "published": "2026-09-30T01:45:04+00:00",
+   "first_seen": "2026-09-30T02:04:53.382661+00:00",
    "paywall": true
   },
   {
@@ -13444,60 +13498,6 @@
    "summary": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt.",
    "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-warum-jobverlust-fuer-viele-highperformer-zur-existenzfrage-wird/100228751.html",
    "published": "2026-09-26T06:19:00+00:00",
-   "first_seen": "2026-09-26T07:04:10.668194+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer",
-   "summary": "Weil hohe Spritpreise E-Autos attraktiver machen, werden auch Gebrauchtwagen teurer. Und auch ihr Anteil auf dem Gebrauchtmarkt steigt.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/gebrauchte-e-autos-restwerte-preise-benzin-diesel",
-   "published": "2026-09-26T06:17:04+00:00",
-   "first_seen": "2026-09-26T07:04:10.668194+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Gebrauchte E-Autos: Hohe Spritpreise machen gebrauchte Elektroautos teurer",
-   "summary": "Weil hohe Spritpreise E-Autos attraktiver machen, werden auch Gebrauchtwagen teurer. Und auch ihr Anteil auf dem Gebrauchtmarkt steigt.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/gebrauchte-e-autos-restwerte-preise-benzin-diesel-gxe",
-   "published": "2026-09-26T06:17:04+00:00",
-   "first_seen": "2026-09-26T08:05:20.632280+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Köln/Rhein-Ruhr oder München: Wer geht ins Rennen?",
-   "summary": "Nach dem Rückzug Berlins entscheidet es sich zwischen zwei Konzepten: München setzt auf Kompaktheit, Köln/Rhein-Ruhr auf eine ganze Region. Die Ideen der Bewerber im Überblick.",
-   "link": "https://www.zdfheute.de/sport/olympia/olympia-bewerbung-muenchen-koeln-rhein-ruhr-ueberblick-100.html",
-   "published": "2026-09-26T06:17:00+00:00",
-   "first_seen": "2026-09-26T07:04:10.668194+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Wirtschaft von oben #423 – Chinesische E-Autos: Hier kommt jetzt das nächste BYD aus China",
-   "summary": "Exklusive Satellitenbilder zeigen den rasanten Ausbau der Leapmotor-Fabriken. Wie Chinas neuer E-Auto-Riese mit Stellantis jetzt VW herausfordert.",
-   "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/leapmotor-greift-an-chinas-naechster-e-auto-riese-bedraengt-vw/100257247.html",
-   "published": "2026-09-26T06:17:00+00:00",
-   "first_seen": "2026-09-26T07:04:10.668194+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing Plus: Gegen das Gejammer und Gezeter",
-   "summary": "Deutschland brauche endlich eine positive Zukunftserzählung, heißt es allerorten. Mein Kollege hätte da eine. Was uns diese Woche sonst noch beschäftigt hat.",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-gegen-das-gejammer-und-gezeter-1/100257410.html",
-   "published": "2026-09-26T06:11:31+00:00",
-   "first_seen": "2026-09-26T07:04:10.668194+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jürgen Klopp: Sieben Leadership-Lehren, die sich Chefs von ihm abschauen können",
-   "summary": "Klopp wird neuer Bundestrainer. Der DFB gewinnt einen Motivator. Sein Führungsstil ist so gut, dass auch andere Chefs sich davon etwas abschauen können, sagt ein Forscher – und erklärt, wie.",
-   "link": "https://www.handelsblatt.com/karriere/fuehrungsstil-was-manager-vom-neuen-bundestrainer-klopp-lernen-koennen/100242667.html",
-   "published": "2026-09-26T06:11:00+00:00",
    "first_seen": "2026-09-26T07:04:10.668194+00:00",
    "paywall": true
   }
