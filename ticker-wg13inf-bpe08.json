@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T14:08:11.397767+00:00",
+ "updated": "2026-09-30T15:09:00.052849+00:00",
  "items": [
+  {
+   "label": "SZ",
+   "title": "Marketing: Wie Werbespots wie Spielfilme wirken",
+   "summary": "Auf Social Media tobt ein Kampf um Aufmerksamkeit. Für Marken ist es schwer, aus der Masse herauszustechen. Eine Möglichkeit: längere Werbeclips, die filmisch inszeniert sind. Oder sogenannte Micro-Dramen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/werbung-social-media-tiktok-li.3540150",
+   "published": "2026-09-30T14:55:54+00:00",
+   "first_seen": "2026-09-30T15:09:00.052849+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Alternativer Nobelpreis: Kämpferin für eine bessere Technologie",
+   "summary": "Künstliche Intelligenz muss nicht konzernorientiert sein, findet die Informatikerin Timnit Gebru. Die Preisträgerin will die Technologie alternativ denken. mehr...",
+   "link": "https://taz.de/Alternativer-Nobelpreis/!6217620/",
+   "published": "2026-09-30T14:19:00+00:00",
+   "first_seen": "2026-09-30T15:09:00.052849+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Fair-use-Doktrin: Thomson Reuters siegt in Urheberrechtsstreit",
+   "summary": "Im Streit um KI-Training mit urheberrechtlich geschützten Texten hat sich der Medienkonzern Thomson Reuters gegen ein KI-Start-up durchgesetzt. Mit dem Urteil gerät eine Verteidigungsstrategie unter Druck, auf die viele Start-ups setzen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/thomson-reuters-siegt-im-urheberrechtsstreit-gegen-ki-start-up-201276639.html",
+   "published": "2026-09-30T14:10:05+00:00",
+   "first_seen": "2026-09-30T15:09:00.052849+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Aktien: Billionen-Lücke: Basiert die KI-Rally auf unstimmigen Schätzungen von Analysten?",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/international/ki-papst-leo-kritisiert-nvidia-chef-wegen-ki-sicherheitsluecken/100258179.html",
    "published": "2026-09-29T08:04:46+00:00",
    "first_seen": "2026-09-29T09:05:59.659532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-kuenstliche-intelligenz-veraendert-die-anforderungen-an-fuehrung/100240522.html",
-   "published": "2026-09-29T07:27:00+00:00",
-   "first_seen": "2026-09-29T08:06:42.900863+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Datenschutz: Google klagt gegen EU-Auflagen für seine Suchmaschine und KI",
-   "summary": "Der US-Konzern soll Konkurrenten seine Daten zu Internetanfragen anonymisiert zur Verfügung stellen. Doch das ist aus Google-Sicht datenschutzrechtlich bedenklich.",
-   "link": "https://www.handelsblatt.com/technik/datenschutz-google-klagt-gegen-eu-auflagen-fuer-seine-suchmaschine-und-ki/100258171.html",
-   "published": "2026-09-29T06:40:51+00:00",
-   "first_seen": "2026-09-29T07:06:53.646254+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Die Kundenversteher – Wie Fielmann mit digitalen Tools Kunden zurückgewinnen will",
-   "summary": "Jedes Jahr verlor der Optiker 700.000 Kunden – durch zu lange Wartezeiten. Mithilfe von KI vereinfacht Fielmann nun Augencheck und Brillenkauf und hat so seinen Marktanteil erhöht.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/fielmann-wie-der-optiker-dank-ki-mehr-kunden-bedient-und-personal-einspart/100243934.html",
-   "published": "2026-09-29T06:30:00+00:00",
-   "first_seen": "2026-09-29T07:06:53.646254+00:00",
    "paywall": true
   }
  ]
