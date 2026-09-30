@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T19:06:47.482912+00:00",
+ "updated": "2026-09-30T20:05:09.262952+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Warum Trump die KI-Risiken ignoriert",
+   "summary": "Die USA verzichten auf Vorgaben für Künstliche Intelligenz. Zu groß ist die Bedeutung für die US-Wirtschaft. Doch mit den Investitionen wachsen die Risiken.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-trump-die-ki-risiken-ignoriert-201275958.html",
+   "published": "2026-09-30T19:01:44+00:00",
+   "first_seen": "2026-09-30T20:05:09.262952+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: USA ermitteln wegen Cyberangriffen gegen KI-Entwickler",
@@ -890,15 +899,6 @@
    "summary": "Europas führendes KI-Start-up will in München Künstliche Intelligenz für Ingenieure und Industrie entwickeln. Es geht um nicht weniger als Europas Unabhängigkeit.",
    "link": "https://www.wiwo.de/technologie/digitale-welt/mistral-eroeffnet-buero-in-muenchen-ki-offensive-fuer-die-industrie/100257919.html",
    "published": "2026-09-29T08:28:35+00:00",
-   "first_seen": "2026-09-29T09:05:59.659532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Wer bezahlt die Aufpasser der KI?",
-   "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/technologie-wer-traegt-die-verantwortung-fuer-die-ki-regulierung/100256634.html",
-   "published": "2026-09-29T08:23:00+00:00",
    "first_seen": "2026-09-29T09:05:59.659532+00:00",
    "paywall": true
   }
