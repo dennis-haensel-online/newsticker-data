@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T00:05:56.175262+00:00",
+ "updated": "2026-09-30T01:06:32.753019+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -8,6 +8,33 @@
    "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
    "published": "2026-09-30T04:00:00+00:00",
    "first_seen": "2026-09-18T11:03:59.278781+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Korea-Konflikt: Nach Minenexplosion: Nordkorea streitet Verantwortung ab",
+   "summary": "Nach der Minenexplosion mit drei verletzten südkoreanischen Soldaten weist Nordkorea die Vorwürfe aus Seoul zurück. Die Schwester von Machthaber Kim spricht von einer „Verschwörungsfarce“.",
+   "link": "https://www.handelsblatt.com/politik/international/korea-konflikt-nach-minenexplosion-nordkorea-streitet-verantwortung-ab/100258465.html",
+   "published": "2026-09-30T00:23:32+00:00",
+   "first_seen": "2026-09-30T01:06:32.753019+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hubertus Heil über Bürgergeld: \"Da haben wir Fehler gemacht\"",
+   "summary": "Bei \"Markus Lanz\" gesteht Hubertus Heil (SPD) Fehler beim Bürgergeld ein. Journalist Marc Felix Serrao nennt die Reform den \"größten Rohrkrepierer\" der vergangenen 20 Jahre.",
+   "link": "https://www.zdfheute.de/politik/deutschland/lanz-heil-buergergeld-pflegereform-spd-100.html",
+   "published": "2026-09-30T00:22:00+00:00",
+   "first_seen": "2026-09-30T01:06:32.753019+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA und Nordkorea: Trump zu Nordkoreas Atomwaffen: Kim ist mein Freund",
+   "summary": "Der US-Präsident pocht immer wieder darauf, dass der Iran keine Atomwaffen haben darf. Bei einem anderen Land sieht Trump allerdings kein Problem – und nennt seine Gründe dafür.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-und-nordkorea-trump-zu-nordkoreas-atomwaffen-kim-ist-mein-freund/100258462.html",
+   "published": "2026-09-30T00:09:08+00:00",
+   "first_seen": "2026-09-30T01:06:32.753019+00:00",
    "paywall": true
   },
   {
@@ -13472,33 +13499,6 @@
    "link": "https://www.handelsblatt.com/karriere/fuehrungsstil-was-manager-vom-neuen-bundestrainer-klopp-lernen-koennen/100242667.html",
    "published": "2026-09-26T06:11:00+00:00",
    "first_seen": "2026-09-26T07:04:10.668194+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Fachkräfte wetteifern auf der Weltmeisterschaft der Berufe",
-   "summary": "In Shanghai laufen die Wettkämpfe der \"WorldSkills\". Die chinesische Metropole ist erstmals Austragungsort der der Weltmeisterschaft der Berufe, bei der auch deutsche Fachkräfte am Start sind. Von Christoph Kober.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/world-skills-shanghai-100.html",
-   "published": "2026-09-26T06:00:40+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aktie im Blick: Anleger misstrauen den Zukunftsplänen von Novo Nordisk",
-   "summary": "Der Hersteller von Abnehmspritzen und Weltmarktführer für Insulinprodukte blickt weit in die Zukunft. Doch das reicht Anlegern nicht. Ein großer Wettbewerber macht es besser.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-anleger-misstrauen-den-zukunftsplaenen-von-novo-nordisk-01/100256611.html",
-   "published": "2026-09-26T05:57:00+00:00",
-   "first_seen": "2026-09-26T07:04:10.668194+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Berechnen Sie, wie teuer Ihr letztes Meeting war",
-   "summary": "Corporate Deutschland sitzt und redet. Doch viele Meetings liefern wenig Output. Der Handelsblatt-Rechner hilft Ihnen, Kosten von Meetings besser zu schätzen – und diese effizienter zu führen.",
-   "link": "https://www.handelsblatt.com/karriere/arbeitszeit-teuer-und-ineffizient-so-viel-hat-ihr-letztes-meeting-gekostet-01/100245523.html",
-   "published": "2026-09-26T05:55:00+00:00",
-   "first_seen": "2026-09-26T06:05:11.380885+00:00",
    "paywall": true
   }
  ]
