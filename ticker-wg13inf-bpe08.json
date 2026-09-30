@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T16:07:21.496874+00:00",
+ "updated": "2026-09-30T17:05:31.978104+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: USA ermitteln wegen Cyberangriffen gegen KI-Entwickler",
+   "summary": "Tippfehler in Trumps Abkommen für „Superintelligenz“ sorgt für Spott +++ Mercedes-Benz reaktiviert Abfindungsprogramm in Deutschland +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-usa-ermitteln-wegen-cyberangriffen-gegen-ki-entwickler-faz-200452404.html",
+   "published": "2026-09-30T16:17:43+00:00",
+   "first_seen": "2026-09-30T17:05:31.978104+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Was kann OpenAIs KI-Assistent „Dots“? | BASF will Evonik haben",
+   "summary": "KI-Assistenten sind das neue Hype-Thema im Silicon Valley – trotz der aktuellen Sicherheitsdebatten. Und: Evonik hat die erste Offerte abgelehnt, doch BASF hält an seinem Übernahmeplan fest.",
+   "link": "https://www.handelsblatt.com/audio/today/today-was-kann-openais-ki-assistent-dots-basf-will-evonik-haben/100258738.html",
+   "published": "2026-09-30T16:11:23+00:00",
+   "first_seen": "2026-09-30T17:05:31.978104+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: USA ermitteln offenbar wegen Cyberangriffen gegen KI-Entwickler",
@@ -881,24 +899,6 @@
    "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
    "link": "https://www.handelsblatt.com/meinung/kolumnen/technologie-wer-traegt-die-verantwortung-fuer-die-ki-regulierung/100256634.html",
    "published": "2026-09-29T08:23:00+00:00",
-   "first_seen": "2026-09-29T09:05:59.659532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
-   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
-   "link": "https://www.handelsblatt.com/technik/ki/yoshua-bengio-wir-brauchen-kis-die-sich-an-unsere-verbote-halten/100256318.html",
-   "published": "2026-09-29T08:21:00+00:00",
-   "first_seen": "2026-09-29T09:05:59.659532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: RWE und KKR bieten offenbar für Uniper",
-   "summary": "Rheinfähre meldet Kurzarbeit wegen Niedrigwasser an +++ OpenAI entschuldigt sich +++ ChatGPT-Entwickler streicht Veröffentlichung eines neuen KI-Modells +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-rwe-und-kkr-bieten-offenbar-fuer-uniper-faz-200452404.html",
-   "published": "2026-09-29T08:09:04+00:00",
    "first_seen": "2026-09-29T09:05:59.659532+00:00",
    "paywall": true
   }
