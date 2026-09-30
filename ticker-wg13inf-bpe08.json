@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T06:05:32.112552+00:00",
+ "updated": "2026-09-30T07:07:04.550956+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Gastkommentar: Diese Idee soll Deutschlands Pisa-Schwäche beheben",
+   "summary": "Ein Vorschlag will Zugang zu KI-gestütztem Lernen verschaffen. Sein Vorbild kennt fast jeder aus der Kindheit, meint Daniela Gerd tom Markotten, Geschäftsführerin des Hasso-Plattner-Instituts.",
+   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-diese-idee-soll-deutschlands-pisa-schwaeche-beheben/100257201.html",
+   "published": "2026-09-30T06:38:36+00:00",
+   "first_seen": "2026-09-30T07:07:04.550956+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Trump setzt auf Selbstkontrolle der KI-Konzerne",
+   "summary": "US-Präsident Donald Trump lehnt staatliche KI-Regulierung ab: Nach einem Treffen mit Tech-Chefs wie Musk und Zuckerberg sollen US-Firmen sich künftig selbst kontrollieren.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258461.html",
+   "published": "2026-09-30T06:09:00+00:00",
+   "first_seen": "2026-09-30T07:07:04.550956+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Marktbericht: Künstliche Intelligenz bleibt Stütze",
@@ -64,6 +82,15 @@
    "published": "2026-09-29T23:37:08+00:00",
    "first_seen": "2026-09-30T00:05:56.175262+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+   "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+   "published": "2026-09-29T23:02:24+00:00",
+   "first_seen": "2026-09-30T07:07:04.550956+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/international/kuenstliche-intelligenz-papst-fordert-breiten-dialog-ueber-ki/100258068.html",
    "published": "2026-09-28T20:14:42+00:00",
    "first_seen": "2026-09-28T21:04:39.017699+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Roboter als Pfleger: Die filmische Interpretation",
-   "summary": "Ein Pflegeroboter betreut eine Frau - und sie töten, wenn es ihr schlechter geht. Der Film \"Frau Winkler verlässt das Haus\" von Doris Dörrie kommt am Donnerstag ins Kino.",
-   "link": "https://www.zdfheute.de/video/heute-journal/lange-roboter-pflege-100.html",
-   "published": "2026-09-28T19:45:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie viel KI verträgt die Seelsorge?",
-   "summary": "Predigten, Trauergespräche, Jugendarbeit: Künstliche Intelligenz hält Einzug in den kirchlichen Alltag. Bei der Bischofsvollversammlung in Fulda soll über KI diskutiert werden.",
-   "link": "https://www.zdfheute.de/panorama/bischofsvollversammlung-fulda-kuenstliche-intelligenz-100.html",
-   "published": "2026-09-28T17:59:00+00:00",
-   "first_seen": "2026-09-28T18:05:19.555308+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Nvidia will KI mit neuer Software im Zaum halten",
-   "summary": "Vorstandschef Jensen Huang hat KI-Risiken zuletzt wiederholt heruntergespielt und als technisch lösbare Herausforderung beschrieben. Jetzt kündigt er eine neue Sicherheitsplattform für KI an.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-ki-sicherheitsplattform-jensen-huangs-neuer-plan-201269402.html",
-   "published": "2026-09-28T14:26:58+00:00",
-   "first_seen": "2026-09-28T15:07:24.153728+00:00",
    "paywall": true
   }
  ]
