@@ -1,7 +1,61 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-30T11:05:30.713290+00:00",
+ "updated": "2026-09-30T12:06:27.823789+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Inflation: Teuerung in Deutschland steigt auf 3,3 Prozent",
+   "summary": "Die Inflation in Deutschland springt auf den höchsten Stand seit fast drei Jahren. Alarmierend für die EZB: Quer durch die Euro-Zone steigen die Verbraucherpreise schneller als erwartet.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-in-deutschland-steigt-auf-33-prozent/100254616.html",
+   "published": "2026-09-30T12:02:15+00:00",
+   "first_seen": "2026-09-30T12:06:27.823789+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Edeka und Tegut: Monopolkommission warnt vor Konzentration im Lebensmitteleinzelhandel",
+   "summary": "Das Bundeskartellamt hat der Übernahme von 178 Tegut-Märkten durch Edeka zwar zugestimmt. Die Monopolkommission sieht Folgen für den Wettbewerb im Handel.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/edeka-tegut-uebernahme-supermarkt-bundeskartellamt-monopolkommission",
+   "published": "2026-09-30T11:53:49+00:00",
+   "first_seen": "2026-09-30T12:06:27.823789+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Mercedes-Benz reaktiviert Abfindungsprogramm in Deutschland",
+   "summary": "Übernahme von Tegut-Filialen durch Edeka: Monopolkommission warnt vor Folgen für Wettbewerb +++ Kanzleiumsätze durchbrechen Schwelle von elf Milliarden Euro +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mercedes-benz-reaktiviert-abfindungsprogramm-in-deutschland-faz-200452404.html",
+   "published": "2026-09-30T11:45:35+00:00",
+   "first_seen": "2026-09-30T12:06:27.823789+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Lebensmittel: Monopolkommission warnt vor Übermacht von Edeka, Aldi und Co.",
+   "summary": "Das Bundeskartellamt erlaubt Edeka, fast 180 Märkte von Tegut zu übernehmen. Daran gibt es deutliche Kritik, die Lebensmittelpreise könnten nun weiter steigen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/edeka-aldi-lebensmittelmarkt-li.3556381",
+   "published": "2026-09-30T11:43:56+00:00",
+   "first_seen": "2026-09-30T12:06:27.823789+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
+   "summary": "Die Commerzbank-Aktie steht heute unter Druck: Anleger blicken auf die geplante Übernahme der Commerzbank durch die italienische UniCredit, die ihre Schatten voraus wirft. Auch ein Analystenkommentar belastet den Kurs.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html",
+   "published": "2026-09-30T11:38:08+00:00",
+   "first_seen": "2026-09-30T12:06:27.823789+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Lebensmitteleinzelhandel: Experten kritisieren Übernahme von Tegut-Märkten durch Edeka",
+   "summary": "Wo man einkauft, um den Kühlschrank voll zu bekommen? Auf diese Frage lauten die Antworten meistens: Edeka, Rewe, Aldi oder Lidl. Die Alternative Tegut fällt bald weg. Ach herrje, sagen Fachleute.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/lebensmitteleinzelhandel-experten-kritisieren-uebernahme-von-tegut-maerkten-durch-edeka/100258654.html",
+   "published": "2026-09-30T11:18:18+00:00",
+   "first_seen": "2026-09-30T12:06:27.823789+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Übernahme von Tegut-Filialen durch Edeka: Monopolkommission warnt vor Folgen für Wettbewerb",
