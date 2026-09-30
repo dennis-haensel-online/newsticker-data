@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-09-30T13:08:26.132655+00:00",
+ "updated": "2026-09-30T14:08:11.397767+00:00",
  "items": [
   {
    "label": "taz",
@@ -9,6 +9,15 @@
    "link": "https://taz.de/Finanzdoping-im-Fussball/!6217610/",
    "published": "2026-09-30T12:55:00+00:00",
    "first_seen": "2026-09-30T13:08:26.132655+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Inflationsrate steigt im September auf 3,3 Prozent",
+   "summary": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise. Lebensmittel verteuerten sich kaum.",
+   "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+   "published": "2026-09-30T12:52:15+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
    "paywall": false
   },
   {
@@ -30,6 +39,15 @@
    "paywall": true
   },
   {
+   "label": "ZEIT",
+   "title": "Edeka und Tegut: Monopolkommission warnt vor Konzentration im Lebensmitteleinzelhandel",
+   "summary": "Das Bundeskartellamt hat der Übernahme von 178 Tegut-Märkten durch Edeka zugestimmt. Die Monopolkommission sieht aber Folgen für den Wettbewerb im Handel.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/edeka-tegut-uebernahme-supermarkt-bundeskartellamt-monopolkommission-gxe",
+   "published": "2026-09-30T12:37:04+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": true
+  },
+  {
    "label": "WiWo",
    "title": "A350F: Dieser neue Frachtflieger trifft Boeings empfindlichste Stelle",
    "summary": "Zum ersten Mal hebt ein Airbus A350F ab. Der neue Frachtjet soll dem US-Rivalen Marktanteile abjagen – wenn auch verspätet.",
@@ -45,6 +63,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/inflationsrate-steigt-auf-hoechsten-wert-seit-knapp-drei-jahren",
    "published": "2026-09-30T12:04:22+00:00",
    "first_seen": "2026-09-30T13:08:26.132655+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Statistisches Bundesamt: Inflationsrate steigt auf höchsten Wert seit knapp drei Jahren",
+   "summary": "Die Inflation ist infolge der hohen Energiepreise im September auf 3,3 Prozent gestiegen. Es ist der höchste Wert seit Ende 2023.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/inflationsrate-steigt-auf-hoechsten-wert-seit-knapp-drei-jahren-gxe",
+   "published": "2026-09-30T12:04:22+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
    "paywall": true
   },
   {

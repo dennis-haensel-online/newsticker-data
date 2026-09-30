@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-09-30T13:08:26.132655+00:00",
+ "updated": "2026-09-30T14:08:11.397767+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
+   "summary": "Das Deutschlandticket wird erneut teurer. Es kostet ab Januar 66,80 Euro und damit 3,80 Euro mehr als bisher. An der neuen Preissteigerung gab es vorab schon deutliche Kritik von Fahrgast- und Umweltverbänden.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-preis-110.html",
+   "published": "2026-09-30T14:06:15+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Die Inflation steigt – was Sparer jetzt tun sollten",
+   "summary": "Die Inflation in Deutschland zieht an, die Bankzinsen halten nicht mit. Wer Cash parken will, sollte sich die hohen Anleiherenditen zunutze machen.",
+   "link": "https://www.wiwo.de/finanzen/boerse/inflation-steigt-wo-sparer-jetzt-noch-realrendite-erzielen/100258685.html",
+   "published": "2026-09-30T13:54:55+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bundesgerichtshof: Musterverfahren zu VW-Übernahme: BGH weist Beschwerden ab",
+   "summary": "Der Bundesgerichtshof hat den milliardenschweren Rechtsstreit um die Folgen der gescheiterten VW-Übernahme unter die Lupe genommen. Warum er die klagenden Anleger zurückweist.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundesgerichtshof-musterverfahren-zu-vw-uebernahme-bgh-weist-beschwerden-ab/100258710.html",
+   "published": "2026-09-30T13:26:59+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Lebensmitteleinzelhandel: Kritik an Übernahme von Tegut-Filialen – Edeka widerspricht",
+   "summary": "Viele Menschen erledigen ihre Lebensmitteleinkäufe bei Edeka, Rewe, Aldi oder Lidl. Die Alternative Tegut fällt bald weg. Experten fürchten deshalb negative Folgen für Kunden.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/lebensmitteleinzelhandel-kritik-an-uebernahme-von-tegut-filialen-edeka-widerspricht/100258654.html",
+   "published": "2026-09-30T13:10:28+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Finanzaffäre bei Manchester City: Der große Beschiss",
@@ -21,6 +57,15 @@
    "paywall": true
   },
   {
+   "label": "tagesschau",
+   "title": "Inflationsrate steigt im September auf 3,3 Prozent",
+   "summary": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise. Lebensmittel verteuerten sich kaum.",
+   "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+   "published": "2026-09-30T12:52:15+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Energie treibt Teuerung: Inflation steigt erstmals seit Ende 2023 über drei Prozent",
    "summary": "Der Iran-Krieg hat das Leben in Deutschland so stark verteuert wie seit fast drei Jahren nicht. Der neue Tankrabatt dürfte für etwas Entlastung sorgen - allerdings nur kurzfristig.",
@@ -36,6 +81,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/inflationssorge-in-deutschland-ist-die-kaufkraft-wirklich-bedroht-201275275.html",
    "published": "2026-09-30T12:40:28+00:00",
    "first_seen": "2026-09-30T13:08:26.132655+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Edeka und Tegut: Monopolkommission warnt vor Konzentration im Lebensmitteleinzelhandel",
+   "summary": "Das Bundeskartellamt hat der Übernahme von 178 Tegut-Märkten durch Edeka zugestimmt. Die Monopolkommission sieht aber Folgen für den Wettbewerb im Handel.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/edeka-tegut-uebernahme-supermarkt-bundeskartellamt-monopolkommission-gxe",
+   "published": "2026-09-30T12:37:04+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
    "paywall": true
   },
   {
@@ -66,6 +120,15 @@
    "paywall": true
   },
   {
+   "label": "SZ",
+   "title": "Preise: Inflation steigt erstmals seit Ende 2023 über drei Prozent",
+   "summary": "Die Verbraucherpreise lagen im September um 3,3 Prozent über dem Niveau des Vorjahresmonats – nach 2,9 Prozent Inflation im August, wie das Statistische Bundesamt auf Basis vorläufiger Zahlen mitteilte.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/inflation-deutschland-september-2026-anstieg-li.3556493",
+   "published": "2026-09-30T12:22:11+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": true
+  },
+  {
    "label": "SPIEGEL",
    "title": "Inflationsrate in Deutschland steigt unerwartet kräftig auf 3,3 Prozent",
    "summary": "Rekordhohe Spritpreise haben die Inflation ​im September auf ‌den höchsten Stand seit Ende 2023 getrieben: Die Verbraucherpreise verteuerten sich im Vergleich zum Vorjahresmonat um 3,3 ​Prozent.",
@@ -90,6 +153,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/inflationsrate-steigt-auf-hoechsten-wert-seit-knapp-drei-jahren",
    "published": "2026-09-30T12:04:22+00:00",
    "first_seen": "2026-09-30T13:08:26.132655+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Statistisches Bundesamt: Inflationsrate steigt auf höchsten Wert seit knapp drei Jahren",
+   "summary": "Die Inflation ist infolge der hohen Energiepreise im September auf 3,3 Prozent gestiegen. Es ist der höchste Wert seit Ende 2023.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/inflationsrate-steigt-auf-hoechsten-wert-seit-knapp-drei-jahren-gxe",
+   "published": "2026-09-30T12:04:22+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
    "paywall": true
   },
   {

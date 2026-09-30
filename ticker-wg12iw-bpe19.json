@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-09-30T13:08:26.132655+00:00",
+ "updated": "2026-09-30T14:08:11.397767+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Die Inflation steigt – was Sparer jetzt tun sollten",
+   "summary": "Die Inflation in Deutschland zieht an, die Bankzinsen halten nicht mit. Wer Cash parken will, sollte sich die hohen Anleiherenditen zunutze machen.",
+   "link": "https://www.wiwo.de/finanzen/boerse/inflation-steigt-wo-sparer-jetzt-noch-realrendite-erzielen/100258685.html",
+   "published": "2026-09-30T13:54:55+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "US-Konjunktur: Wichtiges US-Inflationsmaß verharrt bei 3,4 Prozent",
@@ -10,6 +19,15 @@
    "published": "2026-09-30T12:53:41+00:00",
    "first_seen": "2026-09-30T13:08:26.132655+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Inflationsrate steigt im September auf 3,3 Prozent",
+   "summary": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise. Lebensmittel verteuerten sich kaum.",
+   "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+   "published": "2026-09-30T12:52:15+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -48,6 +66,15 @@
    "paywall": true
   },
   {
+   "label": "SZ",
+   "title": "Preise: Inflation steigt erstmals seit Ende 2023 über drei Prozent",
+   "summary": "Die Verbraucherpreise lagen im September um 3,3 Prozent über dem Niveau des Vorjahresmonats – nach 2,9 Prozent Inflation im August, wie das Statistische Bundesamt auf Basis vorläufiger Zahlen mitteilte.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/inflation-deutschland-september-2026-anstieg-li.3556493",
+   "published": "2026-09-30T12:22:11+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
+   "paywall": true
+  },
+  {
    "label": "SPIEGEL",
    "title": "Inflationsrate in Deutschland steigt unerwartet kräftig auf 3,3 Prozent",
    "summary": "Rekordhohe Spritpreise haben die Inflation ​im September auf ‌den höchsten Stand seit Ende 2023 getrieben: Die Verbraucherpreise verteuerten sich im Vergleich zum Vorjahresmonat um 3,3 ​Prozent.",
@@ -72,6 +99,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-09/inflationsrate-steigt-auf-hoechsten-wert-seit-knapp-drei-jahren",
    "published": "2026-09-30T12:04:22+00:00",
    "first_seen": "2026-09-30T13:08:26.132655+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Statistisches Bundesamt: Inflationsrate steigt auf höchsten Wert seit knapp drei Jahren",
+   "summary": "Die Inflation ist infolge der hohen Energiepreise im September auf 3,3 Prozent gestiegen. Es ist der höchste Wert seit Ende 2023.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/inflationsrate-steigt-auf-hoechsten-wert-seit-knapp-drei-jahren-gxe",
+   "published": "2026-09-30T12:04:22+00:00",
+   "first_seen": "2026-09-30T14:08:11.397767+00:00",
    "paywall": true
   },
   {
@@ -864,24 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/softwarekonzern-sap-chef-sieht-historische-wachstumschance-durch-ki-produkte/100257788.html",
    "published": "2026-09-28T01:50:05+00:00",
    "first_seen": "2026-09-28T07:07:05.897376+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Start-ups: Zehn Einhörner 2026 – Deutschlands neue Wachstumshoffnung",
-   "summary": "Isar Aerospace, Helsing und Neura Robotics stehen für eine neue Generation deutscher Tech-Firmen. Eine Studie zeigt, was sich ändern muss, damit nicht nur einzelne Start-ups glänzen.",
-   "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-zehn-einhoerner-2026-deutschlands-neue-wachstumshoffnung/100251819.html",
-   "published": "2026-09-27T15:31:02+00:00",
-   "first_seen": "2026-09-27T16:04:07.668064+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarkt: In diesen Branchen gibt es wieder mehr Chancen für Führungskräfte",
-   "summary": "Der Arbeitsmarkt für Manager erholt sich. Zumindest leicht. Exklusive Daten zeigen, wo aktuell wieder mehr Führungspositionen ausgeschrieben werden.",
-   "link": "https://www.wiwo.de/erfolg/beruf/stellenangebote-fuer-fuehrungskraefte-wo-steigen-die-chancen-fuer-manager/100255101.html",
-   "published": "2026-09-27T15:02:15+00:00",
-   "first_seen": "2026-09-27T15:04:02.106872+00:00",
    "paywall": true
   }
  ]
