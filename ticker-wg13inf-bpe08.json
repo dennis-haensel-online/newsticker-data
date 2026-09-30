@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T02:04:53.382661+00:00",
+ "updated": "2026-09-30T03:04:37.166073+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Donald Trump: KI-Branche soll sich selbst kontrollieren",
+   "summary": "US-Präsident Trump lehnt staatliche Regulierung Künstlicher Intelligenz ab. Bei einem Treffen in Washington unterzeichneten die Chefs von KI-Firmen eine Selbstverpflichtung.",
+   "link": "https://www.zdfheute.de/politik/ausland/trump-kuenstliche-intelligenz-firmen-kontrolle-100.html",
+   "published": "2026-09-30T02:25:00+00:00",
+   "first_seen": "2026-09-30T03:04:37.166073+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsrecht: Unzulässig überwacht: Kann ich trotzdem gekündigt werden?",
+   "summary": "„Datenschutz ist kein Tatenschutz“: Unter welchen Bedingungen Gerichte unzulässig erlangte Erkenntnisse doch verwerten können.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsrecht-unzulaessig-ueberwacht-kann-ich-trotzdem-gekuendigt-werden/100258478.html",
+   "published": "2026-09-30T01:58:04+00:00",
+   "first_seen": "2026-09-30T03:04:37.166073+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
@@ -881,24 +899,6 @@
    "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
    "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-welche-kompetenzen-suchen-headhunter-in-zeiten-von-ki/100240522.html",
    "published": "2026-09-28T13:28:00+00:00",
-   "first_seen": "2026-09-28T14:07:12.252975+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-wir-priorisieren-oder-schaetzen-nicht-was-ein-mensch-leistet/100223312.html",
-   "published": "2026-09-28T13:28:00+00:00",
-   "first_seen": "2026-09-28T14:07:12.252975+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Chip-Spezialist Sima.ai erhält weitere 150 Millionen Dollar",
-   "summary": "Die Finanzierungsrunde führen Fidelity und Amplify an. Das Unternehmen erreicht damit eine Bewertung von fast 1,5 Milliarden Dollar. Nächstes Jahr will Sima.ai auf Autos setzen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-chip-spezialist-sima.ai-erhaelt-weitere-150-millionen-dollar/100257991.html",
-   "published": "2026-09-28T13:21:40+00:00",
    "first_seen": "2026-09-28T14:07:12.252975+00:00",
    "paywall": true
   }
