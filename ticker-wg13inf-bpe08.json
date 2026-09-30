@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T10:06:03.718939+00:00",
+ "updated": "2026-09-30T11:05:30.713290+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
+   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-expertin-menschen-interagieren-mit-ki-ganz-anders-als-mit-anderen-menschen/100188740.html",
+   "published": "2026-09-30T10:55:00+00:00",
+   "first_seen": "2026-09-30T11:05:30.713290+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
+   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-it-fachkraefte-trotz-ki-besonders-gefragt-sind/100238210.html",
+   "published": "2026-09-30T10:33:00+00:00",
+   "first_seen": "2026-09-30T11:05:30.713290+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Alternativer Nobelpreis 2026: Das sind die Preisträgerinnen",
+   "summary": "Sie brechen Machtstrukturen auf und kämpfen für Menschenrechte und faire KI-Entwicklung: Die Alternativen Nobelpreise gehen dieses Jahr an ganz besondere Frauen.",
+   "link": "https://www.zdfheute.de/panorama/alternativer-nobelpreis-frauen-preistraeger-100.html",
+   "published": "2026-09-30T10:32:00+00:00",
+   "first_seen": "2026-09-30T11:05:30.713290+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: Trump setzt bei KI-Unternehmen auf Selbstkontrolle",
+   "summary": "Der US-Präsident hat am Dienstag im Weißen Haus gemeinsam mit führenden Vertretern der Tech-Branche eine Vereinbarung zur Regulierung von Künstlicher Intelligenz unterzeichnet. Die Unternehmen würden sich „gegenseitig kontrollieren“,…",
+   "link": "https://www.handelsblatt.com/video/politik/usa-trump-setzt-bei-ki-unternehmen-auf-selbstkontrolle/100258621.html",
+   "published": "2026-09-30T10:25:46+00:00",
+   "first_seen": "2026-09-30T11:05:30.713290+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
+   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-wird-ki-eines-tages-die-rolle-von-ceos-ersetzen-koennen/100189694.html",
+   "published": "2026-09-30T10:21:00+00:00",
+   "first_seen": "2026-09-30T11:05:30.713290+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
@@ -856,51 +901,6 @@
    "published": "2026-09-29T05:45:00+00:00",
    "first_seen": "2026-09-29T06:05:44.765836+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Börsengang von Anthropic: Anthropic warnt offenbar mögliche Investoren vor Risiken von KI",
-   "summary": "Künstliche Intelligenz könne »existenzielle Risiken für die Menschheit« bergen, warnt Anthropic Investoren laut einem Medienbericht. Das KI-Unternehmen will an die Börse.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei",
-   "published": "2026-09-29T05:39:43+00:00",
-   "first_seen": "2026-09-29T06:05:44.765836+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Börsengang von Anthropic: Anthropic warnt offenbar mögliche Investoren vor Risiken von KI",
-   "summary": "Künstliche Intelligenz könne »existenzielle Risiken für die Menschheit« bergen, warnt Anthropic Investoren laut einem Medienbericht. Das KI-Unternehmen will an die Börse.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/anthropic-ipo-boersengang-ki-startup-dario-amodei-gxe",
-   "published": "2026-09-29T05:39:43+00:00",
-   "first_seen": "2026-09-29T08:06:42.900863+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: OpenAI streicht Veröffentlichung von neuem KI-Modell",
-   "summary": "Nach Hacking-Attacken durch seine KI prüft OpenAI seine Entwicklungsprozesse. Ein US-Bundesstaat klagt bereits wegen der Risiken von KI.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-streicht-veroeffentlichung-von-neuem-ki-modell/100258085.html",
-   "published": "2026-09-29T05:31:00+00:00",
-   "first_seen": "2026-09-29T06:05:44.765836+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Firma: Anthropic plant Billionen-Börsengang trotz hoher Verluste",
-   "summary": "Anthropic will trotz eines Milliardenverlusts mehr als zwei Billionen Dollar wert sein. Gleichzeitig warnt das Unternehmen selbst vor KI-Risiken.",
-   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ki-firma-plant-billionen-boersengang-trotz-hoher-verluste/100258158.html",
-   "published": "2026-09-29T05:29:10+00:00",
-   "first_seen": "2026-09-29T06:05:44.765836+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "OpenAI stoppt Veröffentlichung von neuem KI-Modell wegen Sicherheitsbedenken",
-   "summary": "Erneut hat ein KI-Modell des Unternehmens OpenAI in Tests zu eigenständig agiert - und wird daher aus Sicherheitsgründen vorerst nicht veröffentlicht. Auch in Tests anderer KI-Modelle hatte es bereits ähnliche Zwischenfälle gegeben.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/openai-ki-102.html",
-   "published": "2026-09-29T05:03:40+00:00",
-   "first_seen": "2026-09-29T06:05:44.765836+00:00",
-   "paywall": false
   }
  ]
 }
