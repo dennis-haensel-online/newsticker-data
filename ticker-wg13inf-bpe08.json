@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T04:05:18.176780+00:00",
+ "updated": "2026-09-30T05:05:31.744732+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Bekanntgabe in Stockholm: Alternativer Nobelpreis: Frauen gegen mächtige Systeme",
+   "summary": "Sie legen sich mit mächtigen KI-Konzernen und Regierungen an: Der Alternative Nobelpreis ehrt Frauen und von Frauen geführte Organisationen, die mutig für eine Umverteilung der Macht kämpfen.",
+   "link": "https://www.handelsblatt.com/politik/international/bekanntgabe-in-stockholm-alternativer-nobelpreis-frauen-gegen-maechtige-systeme/100258518.html",
+   "published": "2026-09-30T04:10:34+00:00",
+   "first_seen": "2026-09-30T05:05:31.744732+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Donald Trump: KI-Branche soll sich selbst kontrollieren",
@@ -36,6 +45,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/openai-konferenz-altman-stellt-ki-assistenten-fuer-den-alltag-vor-draussen-wird-protestiert/100258113.html",
    "published": "2026-09-29T22:24:41+00:00",
    "first_seen": "2026-09-29T23:03:56.128850+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "OpenAI-Konferenz: Sam Altmans Antwort auf Metas Vorstoß: OpenAI stellt neuen KI-Assistenten für den Alltag vor",
+   "summary": "Der ChatGPT-Entwickler tritt in den wachsenden Markt für digitale Assistenten ein. Doch die Sicherheitsdebatte und Proteste überschatten die Jahreskonferenz.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-open-ai-stellt-neuen-ki-assistenten-vor-draussen-wird-protestiert/100258113.html",
+   "published": "2026-09-29T22:24:41+00:00",
+   "first_seen": "2026-09-30T05:05:31.744732+00:00",
    "paywall": true
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-chipkonzern-plant-groessten-aktienrueckkauf-der-us-geschichte/100257960.html",
    "published": "2026-09-28T13:52:42+00:00",
    "first_seen": "2026-09-28T15:07:24.153728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
-   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-strukturwandel-kostendruck-und-ki-gefaehrden-das-mittlere-management/100243656.html",
-   "published": "2026-09-28T13:38:00+00:00",
-   "first_seen": "2026-09-28T14:07:12.252975+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-welche-kompetenzen-suchen-headhunter-in-zeiten-von-ki/100240522.html",
-   "published": "2026-09-28T13:28:00+00:00",
-   "first_seen": "2026-09-28T14:07:12.252975+00:00",
    "paywall": true
   }
  ]
