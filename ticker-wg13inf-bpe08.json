@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T05:05:31.744732+00:00",
+ "updated": "2026-09-30T06:05:32.112552+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Künstliche Intelligenz bleibt Stütze",
+   "summary": "Angesichts der ungeklärten Lage am Persischen Golf zeigt sich der Deutsche Aktienindex robust. Die Vorgaben aus den USA sind schwach. Doch das Thema KI sorgt weiter für Rückenwind.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
+   "published": "2026-09-30T05:52:28+00:00",
+   "first_seen": "2026-09-30T06:05:32.112552+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Altersvorsorge: Sorge vor Fehlstart für Kapitalrente: „Als Politiker würde ich jeden Tag für eine Finanzkrise beten“",
+   "summary": "Experten stecken große Hoffnungen in das neue Altersvorsorgedepot – wäre da nicht die Furcht vor einer KI-Blase. Doch Befürworter entkräften das Albtraumszenario mit Schwedens Erfahrungen.",
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-als-politiker-wuerde-ich-jeden-tag-fuer-eine-finanzkrise-beten-01/100258418.html",
+   "published": "2026-09-30T05:17:00+00:00",
+   "first_seen": "2026-09-30T06:05:32.112552+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Vergabe der Alternativen Nobelpreise: Menschen in der Krise eine Stimme geben",
+   "summary": "Den Alternativen Nobelpreis erhalten Initiativen in Georgien, Pakistan, USA und dem Süden Afrikas. Die Preisträger setzen sich auch gegen die Übermacht der KI-Konzerne ein. mehr...",
+   "link": "https://taz.de/Vergabe-der-Alternativen-Nobelpreise/!6217358/",
+   "published": "2026-09-30T05:15:00+00:00",
+   "first_seen": "2026-09-30T06:05:32.112552+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Bekanntgabe in Stockholm: Alternativer Nobelpreis: Frauen gegen mächtige Systeme",
@@ -872,33 +899,6 @@
    "summary": "Vorstandschef Jensen Huang hat KI-Risiken zuletzt wiederholt heruntergespielt und als technisch lösbare Herausforderung beschrieben. Jetzt kündigt er eine neue Sicherheitsplattform für KI an.",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-ki-sicherheitsplattform-jensen-huangs-neuer-plan-201269402.html",
    "published": "2026-09-28T14:26:58+00:00",
-   "first_seen": "2026-09-28T15:07:24.153728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Börsentag: Warum verkauft Tesla noch Fahrzeuge?",
-   "summary": "KI, autonomes Fahren, humanoide Roboter: Statt in Fahrzeuge investiert Tesla lieber in verschiedenste Zukunftstechnologien. Doch der Konzern hat gute Gründe, auch weiterhin Autos zu bauen.",
-   "link": "https://www.wiwo.de/finanzen/boerse/tesla-warum-verkauft-musks-unternehmen-noch-e-autos/100257908.html",
-   "published": "2026-09-28T14:25:20+00:00",
-   "first_seen": "2026-09-28T15:07:24.153728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Chipkonzern: Nvidia stockt Aktienrückkaufprogramm um 150 Milliarden US-Dollar auf",
-   "summary": "Der KI-Boom hat Nvidia zum wertvollsten Unternehmen der Welt gemacht. Nvidia-Chef Jensen Huang wettet mit dem Aktienrückkauf auf eine wachstumsträchtige Zukunft.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/us-chipkonzern-nvidia-stockt-aktienrueckkaufprogramm-deutlich-auf/100257960.html",
-   "published": "2026-09-28T13:52:42+00:00",
-   "first_seen": "2026-09-28T14:07:12.252975+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Chipkonzern: Nvidia plant größten Aktienrückkauf der US-Geschichte",
-   "summary": "Der KI-Boom hat Nvidia zum wertvollsten Unternehmen der Welt gemacht. Nvidia-Chef Jensen Huang wettet mit dem Aktienrückkauf auf eine wachstumsträchtige Zukunft.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-chipkonzern-plant-groessten-aktienrueckkauf-der-us-geschichte/100257960.html",
-   "published": "2026-09-28T13:52:42+00:00",
    "first_seen": "2026-09-28T15:07:24.153728+00:00",
    "paywall": true
   }
