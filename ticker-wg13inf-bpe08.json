@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-09-30T15:09:00.052849+00:00",
+ "updated": "2026-09-30T16:07:21.496874+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: USA ermitteln offenbar wegen Cyberangriffen gegen KI-Entwickler",
+   "summary": "KI-Programme verselbstständigen sich inzwischen immer häufiger und greifen Plattformen an. Das US-Kartellamt zieht jetzt offenbar Konsequenzen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-usa-ermitteln-offenbar-wegen-cyberangriffen-gegen-ki-entwickler/100258744.html",
+   "published": "2026-09-30T15:42:45+00:00",
+   "first_seen": "2026-09-30T16:07:21.496874+00:00",
+   "paywall": true
+  },
   {
    "label": "SZ",
    "title": "Marketing: Wie Werbespots wie Spielfilme wirken",
@@ -890,15 +899,6 @@
    "summary": "Rheinfähre meldet Kurzarbeit wegen Niedrigwasser an +++ OpenAI entschuldigt sich +++ ChatGPT-Entwickler streicht Veröffentlichung eines neuen KI-Modells +++ Neuigkeiten im Unternehmen-Liveblog",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-rwe-und-kkr-bieten-offenbar-fuer-uniper-faz-200452404.html",
    "published": "2026-09-29T08:09:04+00:00",
-   "first_seen": "2026-09-29T09:05:59.659532+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Papst Leo kritisiert Nvidia-Chef wegen KI-Sicherheitslücken",
-   "summary": "Das Oberhaupt der katholischen Kirche äußert nicht zum ersten Mal Bedenken über Sicherheitsrisiken von KI. Seine jüngste Kritik ist trotzdem ungewöhnlich – und trifft nicht nur den Nvidia-Chef.",
-   "link": "https://www.handelsblatt.com/politik/international/ki-papst-leo-kritisiert-nvidia-chef-wegen-ki-sicherheitsluecken/100258179.html",
-   "published": "2026-09-29T08:04:46+00:00",
    "first_seen": "2026-09-29T09:05:59.659532+00:00",
    "paywall": true
   }
