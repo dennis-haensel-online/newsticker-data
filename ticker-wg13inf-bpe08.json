@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T18:07:36.707822+00:00",
+ "updated": "2026-10-01T19:05:05.208085+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Regulierung muss her: Vorstände sollten für KI-Katastrophen haften",
+   "summary": "Wenn selbst KI-Forscher vor existenziellen Risiken warnen, reicht Selbstkontrolle nicht. Die Branche braucht schärfere Haftung.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-regulierung-warum-schaerfere-haftung-jetzt-noetig-ist-201280393.html",
+   "published": "2026-10-01T18:08:26+00:00",
+   "first_seen": "2026-10-01T19:05:05.208085+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Debatte um Sicherheit: Die KI-Angriffswelle rollt",
+   "summary": "Ob absichtlich oder nicht: Künstliche Intelligenz bedroht global zunehmend wichtige IT-Systeme. Aber es gibt technische Schutzmöglichkeiten – und selbst in den USA politischen Widerstand.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-vorfaellen-mit-open-ai-und-anthropic-die-ki-angriffswelle-rollt-201279763.html",
+   "published": "2026-10-01T18:08:10+00:00",
+   "first_seen": "2026-10-01T19:05:05.208085+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Wettkampf mit china: VW setzt für Roboterautos auf Partner aus Großbritannien",
@@ -881,24 +899,6 @@
    "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
    "link": "https://www.handelsblatt.com/meinung/kolumnen/technologie-wer-traegt-die-verantwortung-fuer-die-ki-regulierung-01/100256634.html",
    "published": "2026-09-29T13:15:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Verteidigungsindustrie: Wenn der Drohnenbauer in den Darkroom lädt",
-   "summary": "Digitalminister Karsten Wildberger schaut mal kurz am Münchner Ostbahnhof vorbei, um sich über die KI-Waffen des Start-ups Helsing zu informieren. Über eine Lehrstunde der besonderen Art.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/digitalminister-drohnenfirma-helsing-ai-li.3553986",
-   "published": "2026-09-29T13:14:23+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
-   "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-stellen-junge-anleger-ihr-portfolio-fuer-die-zukunft-auf/100222130.html",
-   "published": "2026-09-29T13:09:00+00:00",
    "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": true
   }
