@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T16:05:26.808504+00:00",
+ "updated": "2026-10-01T17:07:03.650040+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Wettkampf mit china: VW setzt für Roboterautos auf Partner aus Großbritannien",
+   "summary": "China und Amerika sind im autonomen Fahren enteilt. Nun will Volkswagen einen Pakt schließen, der auch der Souveränität Europas dienen soll – mit einem Start-up aus London.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-und-wayve-vw-setzt-auf-londoner-start-up-201280260.html",
+   "published": "2026-10-01T16:52:53+00:00",
+   "first_seen": "2026-10-01T17:07:03.650040+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Wenn Angst vor Künstlicher Intelligenz zum Geschäftsmodell wird",
+   "summary": "Wird uns die KI alle vernichten? Blödsinn, meint Nvidia-Chef Jensen Huang. Er sieht die Debatte vor allem als Möglichkeit, die Dominanz des Chipherstellers auszubauen, meint Michael Maisch.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wenn-angst-vor-kuenstlicher-intelligenz-zum-geschaeftsmodell-wird/100257475.html",
+   "published": "2026-10-01T16:40:46+00:00",
+   "first_seen": "2026-10-01T17:07:03.650040+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Wall Street: Künstliche Intelligenz bleibt Kurstreiber - aber heute nicht für Micron",
@@ -883,24 +901,6 @@
    "published": "2026-09-29T13:09:00+00:00",
    "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Finanzmärkte: „Es ist wie bei Goethes Zauberlehrling: Man wird den KI-Geist nicht mehr los“",
-   "summary": "Künstliche Intelligenz wird auch an der Börse immer wichtiger, gleichzeitig wachsen die Gefahren. Princeton-Ökonom Markus Brunnermeier erklärt, wie KI-Agenten die Kurse manipulieren könnten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-finanzmaerkte-risiken-manipulation-kontrolle-li.3551602",
-   "published": "2026-09-29T12:53:33+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI außer Kontrolle: Wer haftet in so einem Fall eigentlich?",
-   "summary": "Mehrere KI-Modelle haben zuletzt ungewolltes und nicht vorhergesehenes Verhalten gezeigt. Doch wer zahlt die Schäden, wenn KI-Agenten in fremde IT eindringen? Teilweise ist das juristisches Neuland.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html",
-   "published": "2026-09-29T12:44:40+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
-   "paywall": false
   }
  ]
 }
