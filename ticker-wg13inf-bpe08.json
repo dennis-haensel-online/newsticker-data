@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T19:05:05.208085+00:00",
+ "updated": "2026-10-01T20:04:35.707251+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Analyst: \"Roboter spielen nicht unwesentliche Rolle\"",
+   "summary": "Die Ukraine setzt Drohnen und Roboter im Zusammenspiel gezielter ein. Mit Sprengstoff könnten die Roboter Gegner angreifen oder ablenken, so Militäranalyst Gressel bei ZDFheute live.",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/gressel-ukraine-operation-vivaldi-roboter-video-100.html",
+   "published": "2026-10-01T18:57:00+00:00",
+   "first_seen": "2026-10-01T20:04:35.707251+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Regulierung muss her: Vorstände sollten für KI-Katastrophen haften",
@@ -892,15 +901,6 @@
    "published": "2026-09-29T13:15:00+00:00",
    "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Wer bezahlt die Aufpasser der KI?",
-   "summary": "Mit den exponentiell wachsenden Fähigkeiten künstlicher Intelligenz wachsen die Zweifel an ihrer Beherrschbarkeit. Jetzt formiert sich in Deutschland eine Szene, die KI-Safety finanziert.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/technologie-wer-traegt-die-verantwortung-fuer-die-ki-regulierung-01/100256634.html",
-   "published": "2026-09-29T13:15:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
   }
  ]
 }
