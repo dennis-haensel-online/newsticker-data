@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T05:05:25.403120+00:00",
+ "updated": "2026-10-01T06:08:12.796424+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Diese Berliner Firma baut günstigere und schnellere Modelle als OpenAI",
+   "summary": "Deepslate entwickelt eigene KI-Modelle, die Stimmen in Echtzeit erzeugen und damit OpenAI und Elevenlabs Konkurrenz machen. Für seinen Ansatz hat das Start-up jetzt Millionen eingesammelt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-diese-berliner-firma-baut-guenstigere-und-schnellere-modelle-als-openai/100255441.html",
+   "published": "2026-10-01T06:01:02+00:00",
+   "first_seen": "2026-10-01T06:08:12.796424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Studie: Großflächiger KI-Einsatz hakt trotz messbarer Vorteile",
+   "summary": "Nur 13 Prozent der Unternehmen liegen mit ihren KI-Initiativen im Plan. Als größte Hürden gelten Regulierung und die Integration in bestehende IT-Systeme.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/studie-grossflaechiger-ki-einsatz-hakt-trotz-messbarer-vorteile/100258868.html",
+   "published": "2026-10-01T05:38:18+00:00",
+   "first_seen": "2026-10-01T06:08:12.796424+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Regeln für Hochschulprüfungen: Die künstliche Intelligenz schreibt sowieso mit",
@@ -45,6 +63,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/neobroker-im-schlaf-handeln-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein/100258763.html",
    "published": "2026-09-30T22:46:51+00:00",
    "first_seen": "2026-09-30T23:03:32.783376+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
+   "summary": "Was passiert, wenn KI-Agenten nonstop eigenständig handeln? In den USA können Anleger diese nun beim Neobroker Robinhood nutzen – auf eigene Gefahr.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/broker-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein/100258763.html",
+   "published": "2026-09-30T22:46:51+00:00",
+   "first_seen": "2026-10-01T06:08:12.796424+00:00",
    "paywall": true
   },
   {
@@ -872,33 +899,6 @@
    "summary": "Das KI-Unternehmen hat die für Oktober geplante Veröffentlichung eines neuen Modells gestoppt. GPT-6.1 Astra soll häufig aus eigenem Antrieb gehandelt haben, ohne die Erlaubnis des Nutzers einzuholen.",
    "link": "https://www.handelsblatt.com/video/politik/kuenstliche-intelligenz-openai-stoppt-veroeffentlichung-von-neuem-ki-modell-wegen-sicherheitsbedenken/100258250.html",
    "published": "2026-09-29T09:49:54+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-in-zeiten-von-ki-besonders-gefragt-sind/100235558.html",
-   "published": "2026-09-29T09:43:00+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Kann Anthropic zwei Billionen Dollar wert sein?",
-   "summary": "Anthropics Börsenprospekt offenbart große Risiken. Trotzdem soll der KI-Konzern mit zwei Billionen Dollar bewertet werden.",
-   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-ipo-kann-der-ki-konzern-zwei-billionen-dollar-wert-sein/100258200.html",
-   "published": "2026-09-29T09:39:27+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/berufe-in-welchen-branchen-sind-ki-kompetenzen-besonders-gefragt/100251207.html",
-   "published": "2026-09-29T09:24:00+00:00",
    "first_seen": "2026-09-29T10:05:25.666423+00:00",
    "paywall": true
   }
