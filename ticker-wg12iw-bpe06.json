@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-01T12:08:04.646897+00:00",
+ "updated": "2026-10-01T13:07:59.962935+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Softwarehersteller: Sicherheit bis Ende 2028: SAP verlängert Beschäftigungssicherung",
+   "summary": "Bei SAP kursieren Gerüchte über einen Stellenabbau. In Deutschland dürften die Jobs jedoch vorerst sicher sein. Teile des Betriebsrats äußern dennoch Kritik.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/softwarehersteller-sap-verlaengert-beschaeftigungssicherung/100258736.html",
+   "published": "2026-10-01T12:46:15+00:00",
+   "first_seen": "2026-10-01T13:07:59.962935+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Rüstungskonzern KNDS bekräftigt Börsenpläne",
+   "summary": "Als KNDS den für Juli geplanten Börsengang kurzfristig abgesagt hat, war die Enttäuschung groß. Jetzt hat KNDS-Chef Alary in einem Interview klargemacht: Man will an die Börse. Vielleicht noch dieses Jahr.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-boersengaenge-100.html",
+   "published": "2026-10-01T12:32:53+00:00",
+   "first_seen": "2026-10-01T13:07:59.962935+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Diese Berliner Firma baut günstigere und schnellere Modelle als OpenAI",
+   "summary": "Deepslate entwickelt eigene KI-Modelle, die Stimmen in Echtzeit erzeugen und damit OpenAI und Elevenlabs Konkurrenz machen. Für seinen Ansatz hat das Start-up jetzt Millionen eingesammelt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-diese-berliner-firma-baut-guenstigere-und-schnellere-modelle-als-openai-01/100255441.html",
+   "published": "2026-10-01T12:28:00+00:00",
+   "first_seen": "2026-10-01T13:07:59.962935+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Teile des Batterieherstellers Varta gehen ins Insolvenzverfahren",
@@ -36,6 +63,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/unicredit-vorstandschef-commerzbank-diederich-li.3556846",
    "published": "2026-10-01T07:38:08+00:00",
    "first_seen": "2026-10-01T08:06:32.803095+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Übernahme durch Unicredit: Ex-HVB-Chef Michael Diederich für Commerzbank-Spitze im Gespräch",
+   "summary": "Die italienische Großbank wartet noch auf Genehmigungen für die Kontrolle über die Commerzbank. Nach SZ-Informationen soll Unicredit-Chef Andrea Orcel aber bereits einen Wunschkandidaten für die Spitze haben.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/unicredit-vorstandschef-commerzbank-diederich-orcel-li.3556846",
+   "published": "2026-10-01T07:38:08+00:00",
+   "first_seen": "2026-10-01T13:07:59.962935+00:00",
    "paywall": true
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/evonik-schlaegt-basf-uebernahmeangebot-aus-a-66aedbfa-6b81-472b-80a1-63cb73348f85#ref=rss",
    "published": "2026-09-28T16:23:00+00:00",
    "first_seen": "2026-09-28T17:05:27.620526+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Start-up-Szene: Frisches Kapital für junge Waffenschmieden",
-   "summary": "In der Start-up-Welt dreht sich der Wind: Rüstungsfirmen sammeln enorme Geldmengen ein. Das Öko-Business schmiert ab. mehr...",
-   "link": "https://taz.de/Start-up-Szene/!6216948/",
-   "published": "2026-09-28T15:29:00+00:00",
-   "first_seen": "2026-09-28T16:06:03.709184+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "BASF-Offerte: Übernahmepoker um Evonik ist nicht vorbei – drei Szenarien sind möglich",
-   "summary": "Ein erstes Angebot von BASF lehnt Evonik ab. Doch entscheidend bleibt die Position der RAG‑Stiftung. Politik und Gewerkschaften mischen kräftig mit. Es lauern Interessenkonflikte.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/basf-evonik-uebernahme-poker-geht-weiter-drei-szenarien-sind-moeglich/100257846.html",
-   "published": "2026-09-28T15:19:35+00:00",
-   "first_seen": "2026-09-28T16:06:03.709184+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: KNDS: Scheitert Werks-Übernahme? | Der Tankrabatt und die Wirtschaft",
-   "summary": "Der Panzerbauer KNDS wartet auf einen Großauftrag – für die 1800 Beschäftigten in Brandenburg tickt die Uhr. Und: So stark sind deutsche Branchen von den hohen Dieselpreisen betroffen.",
-   "link": "https://www.handelsblatt.com/audio/today/today-knds-scheitert-werks-uebernahme-der-tankrabatt-und-die-wirtschaft/100258035.html",
-   "published": "2026-09-28T15:16:02+00:00",
-   "first_seen": "2026-09-28T16:06:03.709184+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Anzeige gegen Dobrindt, Streit um Pflegereform, DFB-Pleite",
-   "summary": "Elif Eralp zeigt Dobrindt an. Die Koalition ringt um die Pflegereform. Und nach der Niederlage gegen Griechenland verteidigt Klopp seine Spieler.",
-   "link": "https://www.zdfheute.de/briefing/dobrindt-eralp-pflegereform-nationalmannschaft-griechenland-zdfheute-update-100.html",
-   "published": "2026-09-28T15:12:00+00:00",
-   "first_seen": "2026-09-28T16:06:03.709184+00:00",
    "paywall": false
   }
  ]

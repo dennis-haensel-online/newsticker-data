@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T12:08:04.646897+00:00",
+ "updated": "2026-10-01T13:07:59.962935+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Diese Berliner Firma baut günstigere und schnellere Modelle als OpenAI",
+   "summary": "Deepslate entwickelt eigene KI-Modelle, die Stimmen in Echtzeit erzeugen und damit OpenAI und Elevenlabs Konkurrenz machen. Für seinen Ansatz hat das Start-up jetzt Millionen eingesammelt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-diese-berliner-firma-baut-guenstigere-und-schnellere-modelle-als-openai-01/100255441.html",
+   "published": "2026-10-01T12:28:00+00:00",
+   "first_seen": "2026-10-01T13:07:59.962935+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "WirtschaftsWoche Club: Der Arbeitsmarkt der Zukunft – Gesellschaft, KI und Future Work",
+   "summary": "Zum 100. Jubiläum der WirtschaftsWoche bringen wir Studierende, Wissenschaft, Wirtschaft und Redaktion zusammen – mit einem klaren Fokus.",
+   "link": "https://www.wiwo.de/club/wirtschaftswoche-club-der-arbeitsmarkt-der-zukunft-gesellschaft-ki-und-future-work/100259001.html",
+   "published": "2026-10-01T12:01:55+00:00",
+   "first_seen": "2026-10-01T13:07:59.962935+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Social Media: Bundestag ist jetzt auch bei TikTok aktiv",
@@ -881,24 +899,6 @@
    "summary": "Thomas Lillelund fordert eine Debatte über systemische Risiken durch Künstliche Intelligenz. Staat und Privatwirtschaft müssten zusammenarbeiten, um Unternehmen abzusichern.",
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-allianz-manager-warnt-ki-risiken-nicht-vollstaendig-versicherbar/100256086.html",
    "published": "2026-09-29T11:18:23+00:00",
-   "first_seen": "2026-09-29T12:06:02.972558+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz in Unternehmen: KI wird vom Hype zum Wettbewerbsfaktor",
-   "summary": "Technisch ist heute vieles möglich, doch ist betriebswirtschaftlich längst nicht alles sinnvoll. Wer KI zum Vorteil machen will, muss technologische Möglichkeiten mit Wertschöpfung zusammenbringen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/ki-wird-vom-hype-zum-wettbewerbsfaktor-accg-201206830.html",
-   "published": "2026-09-29T11:15:13+00:00",
-   "first_seen": "2026-09-29T12:06:02.972558+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/karriere-wie-veraendert-ki-den-bewerbungsprozess-fuer-jobsuchende/100248546.html",
-   "published": "2026-09-29T11:07:00+00:00",
    "first_seen": "2026-09-29T12:06:02.972558+00:00",
    "paywall": true
   }
