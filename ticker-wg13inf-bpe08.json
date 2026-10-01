@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T20:04:35.707251+00:00",
+ "updated": "2026-10-01T21:04:12.110671+00:00",
  "items": [
   {
    "label": "ZDF",
@@ -28,6 +28,15 @@
    "published": "2026-10-01T18:08:10+00:00",
    "first_seen": "2026-10-01T19:05:05.208085+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "„Super-KI“: Wie behalten wir die Kontrolle?",
+   "summary": "„Super-KI“: Wie behalten wir die Kontrolle?",
+   "link": "https://www.zdfheute.de/video/heute-journal/heute-journal-podcast-folge-87-kuenstliche-intelligenz-gefahr-100.html",
+   "published": "2026-10-01T17:00:00+00:00",
+   "first_seen": "2026-10-01T21:04:12.110671+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -890,15 +899,6 @@
    "summary": "Der KI-Boom an den Börsen hat das weltweite Geldvermögen im vergangenen Jahr auf einen Rekordwert getrieben. Die privaten Haushalte besaßen zum Jahresende ein Vermögen von 268,4 Billionen Euro.",
    "link": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
    "published": "2026-09-29T13:17:47+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Desinformationskampagne\": FIFA schießt gegen UEFA",
-   "summary": "Der Kampf um die Macht bei der FIFA hat eine neue Eskalationsstufe erreicht. Der Weltverband schießt gegen die UEFA, um eine Herausgabe von Beweismitteln zu verhindern.",
-   "link": "https://www.zdfheute.de/sport/fussball-machtkampf-fifa-uefa-beweismittel-eskalation-100.html",
-   "published": "2026-09-29T13:15:00+00:00",
    "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": false
   }
