@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T13:07:59.962935+00:00",
+ "updated": "2026-10-01T14:07:25.649465+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Muse und Dots im Vergleich: Was können die KI-Agenten von Meta und OpenAI?",
+   "summary": "Die KI‑Assistenten arbeiten rund um die Uhr und kennen ihre Nutzer besonders gut. In der EU sind sie eingeschränkt verfügbar. Das Handelsblatt hat mit ersten Testern gesprochen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-was-die-agenten-von-meta-und-openai-koennen-ein-vergleich/100258741.html",
+   "published": "2026-10-01T13:09:19+00:00",
+   "first_seen": "2026-10-01T14:07:25.649465+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Ex-Google-Chef Eric Schmidt: „Russland wird irgendwann ein Nato-Land ins Visier nehmen“",
+   "summary": "Eric Schmidt hat eine Vermutung, welches Land Russland als erstes angreifen könnte. Neue Technologien spielen dabei aus seiner Sicht eine entscheidende Rolle – nicht nur im Krieg.",
+   "link": "https://www.handelsblatt.com/politik/international/ki-ex-google-chef-warnt-vor-russischem-angriff-auf-ein-nato-land/100258924.html",
+   "published": "2026-10-01T13:04:15+00:00",
+   "first_seen": "2026-10-01T14:07:25.649465+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Diese Berliner Firma baut günstigere und schnellere Modelle als OpenAI",
@@ -881,24 +899,6 @@
    "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
    "link": "https://www.handelsblatt.com/technik/ki/technologie-koennte-ki-in-zukunft-die-rolle-von-ceos-uebernehmen/100189694.html",
    "published": "2026-09-29T12:03:00+00:00",
-   "first_seen": "2026-09-29T12:06:02.972558+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "China: Angst vor KI-Jobverlust: Automatisierung wird zum Stresstest für Chinas Arbeitsmarkt",
-   "summary": "China rüstet seine Arbeitskräfte für die KI‑Ökonomie. Doch wer profitiert von der höheren Produktivität – Unternehmen und Staat oder auch die Beschäftigten mit mehr Geld und mehr Freizeit?",
-   "link": "https://www.handelsblatt.com/politik/international/china-automatisierung-wird-zum-stresstest-fuer-chinas-arbeitsmarkt/100255201.html",
-   "published": "2026-09-29T11:43:19+00:00",
-   "first_seen": "2026-09-29T12:06:02.972558+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Versicherer: Allianz-Manager warnt: „KI-Risiken nicht vollständig versicherbar“",
-   "summary": "Thomas Lillelund fordert eine Debatte über systemische Risiken durch Künstliche Intelligenz. Staat und Privatwirtschaft müssten zusammenarbeiten, um Unternehmen abzusichern.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-allianz-manager-warnt-ki-risiken-nicht-vollstaendig-versicherbar/100256086.html",
-   "published": "2026-09-29T11:18:23+00:00",
    "first_seen": "2026-09-29T12:06:02.972558+00:00",
    "paywall": true
   }
