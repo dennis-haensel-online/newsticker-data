@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T04:05:58.934124+00:00",
+ "updated": "2026-10-01T05:05:25.403120+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Regeln für Hochschulprüfungen: Die künstliche Intelligenz schreibt sowieso mit",
+   "summary": "Nur wenige Unis haben klare Regeln für den Umgang mit Sprachmodellen. In zwei Fällen musste schon ein Gericht ran. mehr...",
+   "link": "https://taz.de/Regeln-fuer-Hochschulpruefungen/!6217261/",
+   "published": "2026-10-01T05:00:00+00:00",
+   "first_seen": "2026-10-01T05:05:25.403120+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "HP-Studie: Deutschland bei KI-Agenten weltweit in der Spitzengruppe",
@@ -890,15 +899,6 @@
    "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
    "link": "https://www.handelsblatt.com/technik/ki/berufe-in-welchen-branchen-sind-ki-kompetenzen-besonders-gefragt/100251207.html",
    "published": "2026-09-29T09:24:00+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Kolumne „Hanks Welt“: Die Antiquiertheit des Menschen",
-   "summary": "Der „Perfektion der eigenen Produkte nicht gewachsen“: Was ein Philosoph schon 1956 über die Künstliche Intelligenz wusste – und was er Altman und Amodei heute sagen würde.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/hanks-welt/guenther-anders-was-er-1956-ueber-ki-vorausahnte-accg-201256452.html",
-   "published": "2026-09-29T09:13:52+00:00",
    "first_seen": "2026-09-29T10:05:25.666423+00:00",
    "paywall": true
   }
