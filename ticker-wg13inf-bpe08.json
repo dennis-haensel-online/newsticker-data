@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T15:05:47.576182+00:00",
+ "updated": "2026-10-01T16:05:26.808504+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Künstliche Intelligenz bleibt Kurstreiber - aber heute nicht für Micron",
+   "summary": "Wall Street mit Markus Koch vom 01.10.2026",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-kuenstliche-intelligenz-bleibt-kurstreiber-aber-heute-nicht-fuer-micron/100259063.html",
+   "published": "2026-10-01T15:46:53+00:00",
+   "first_seen": "2026-10-01T16:05:26.808504+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: Wall Street wird immer abhängiger von KI-Aktien",
+   "summary": "Im dritten Quartal haben allein die Aktien von Nvidia, Microsoft, Meta und Apple den Großteil des Anstiegs im S P 500 ausgemacht. Falls der KI-Sektor in Probleme geraten sollte, sähe es auch für den Leitindex schlecht aus, warnt Markus…",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-wall-street-wird-immer-abhaengiger-von-ki-aktien/100259081.html",
+   "published": "2026-10-01T15:33:10+00:00",
+   "first_seen": "2026-10-01T16:05:26.808504+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Eleven Labs: Rekordbewertung für KI-Stimmen-Entwickler",
+   "summary": "Eleven Labs ragt in der boomenden Voice-AI-Szene heraus. Nun haben Investoren die Bewertung für das erst vier Jahre alte Start-up noch mal verdoppelt – auf stolze 22 Milliarden Dollar.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eleven-labs-ki-stimmen-start-up-mit-22-milliarden-dollar-bewertet-201280108.html",
+   "published": "2026-10-01T15:29:33+00:00",
+   "first_seen": "2026-10-01T16:05:26.808504+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Der KI-Schattenboxer, ein Memecoin und die Betrugsfrage",
+   "summary": "Mit absurden Schattenbox-Einlagen ist Jean Phil zur Internet-Sensation geworden. Während die Videos der KI-Figur viral gehen, wird der Hype monetarisiert - und Vorwürfe laut.",
+   "link": "https://www.zdfheute.de/wirtschaft/jean-phil-ki-influencer-memecoin-100.html",
+   "published": "2026-10-01T15:05:00+00:00",
+   "first_seen": "2026-10-01T16:05:26.808504+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Briefing: Eigenständige KI-Assistenten in Plüschoptik",
@@ -865,42 +901,6 @@
    "published": "2026-09-29T12:44:40+00:00",
    "first_seen": "2026-09-29T13:07:49.824621+00:00",
    "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: KI-Firmen warnen immer lauter vor der eigenen Technologie",
-   "summary": "Anthropic und OpenAI überbieten sich derzeit mit Weltuntergangsszenarien. Hintergrund sind die geplanten Börsengänge. Es geht um Milliarden Dollar und die Frage, wer mitverdienen darf.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ki-mistral-mensch-openai-anthropic-boersengang-li.3555500",
-   "published": "2026-09-29T12:41:26+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Experten erwarten Roboter-Rally an der Börse – Diese Aktien empfehlen Analysten schon jetzt",
-   "summary": "KI verlässt die Rechenzentren und kommt in die reale Welt. Roboter lernen, sehen und handeln – doch die Gewinner am Aktienmarkt sitzen womöglich ganz woanders.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/physische-ki-mit-diesen-aktien-koennen-anleger-profitieren/100252788.html",
-   "published": "2026-09-29T12:37:00+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschlands jüngste KI-Professorin räumt mit den größten Mythen auf",
-   "summary": "Mit gerade mal 30 Jahren hat Alicia von Schenk den Lehrstuhl für „Economics of AI“ an der Uni Würzburg gegründet. Sie rät hinter den aktuellen Hype um die Technologie zu schauen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-wie-deutschlands-juengste-ki-professorin-unsere-zukunft-einschaetzt/100188740.html",
-   "published": "2026-09-29T12:35:00+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
-   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-auf-diese-it-kompetenzen-kommt-es-im-ki-zeitalter-an/100238210.html",
-   "published": "2026-09-29T12:33:00+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
-   "paywall": true
   }
  ]
 }
