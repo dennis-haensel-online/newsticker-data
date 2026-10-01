@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T09:06:01.121855+00:00",
+ "updated": "2026-10-01T10:06:55.149688+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
+   "summary": "Was passiert, wenn KI-Agenten nonstop eigenständig handeln? In den USA können Anleger diese nun beim Neobroker Robinhood nutzen – auf eigene Gefahr.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/broker-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein-01/100258763.html",
+   "published": "2026-10-01T09:14:00+00:00",
+   "first_seen": "2026-10-01T10:06:55.149688+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "US-Kriegsminister Hegseth: Musk soll „Zukunft der Kriegsführung“ miterforschen",
@@ -891,15 +900,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/lidl-app-prozess-verbraucherschuetzer-li.3555667",
    "published": "2026-09-29T11:03:12+00:00",
    "first_seen": "2026-09-29T12:06:02.972558+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: OpenAI stoppt Veröffentlichung von neuem KI-Modell",
-   "summary": "Die Cybersicherheitsprobleme beim KI-Entwickler OpenAI halten an: Das neue Modell 6.1 Astra hätte eigentlich zeitnah herauskommen sollen. Nun hat es unerlaubt auf Eigeninitiative gehandelt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-openai-stoppt-veroeffentlichung-von-neuem-ki-modell-01/100258090.html",
-   "published": "2026-09-29T10:55:00+00:00",
-   "first_seen": "2026-09-29T11:04:38.001499+00:00",
    "paywall": true
   }
  ]

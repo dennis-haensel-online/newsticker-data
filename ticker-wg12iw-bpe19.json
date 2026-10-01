@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-01T09:06:01.121855+00:00",
+ "updated": "2026-10-01T10:06:55.149688+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Industriestimmung in der Eurozone steigt auf besten Wert seit über vier Jahren",
+   "summary": "In der gesamten Eurozone hat sich das Wachstum weiter verbessert. Unter den vier größten Volkswirtschaften hat Deutschland mit Abstand die beste Stimmung.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/eurozone-industriestimmung-steigt-auf-besten-wert-seit-2022/100258923.html",
+   "published": "2026-10-01T09:28:52+00:00",
+   "first_seen": "2026-10-01T10:06:55.149688+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: BIP-gewichtete ETFs versprechen mehr Streuung – bergen aber ein neues Risiko",
+   "summary": "Ein Amundi-Fonds halbiert den US‑Anteil. Statt nach Marktkapitalisierung stellt das Produkt Aktienmärkte nach Wirtschaftskraft zusammen. Das schafft aber neue Probleme.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-neuer-etf-mit-bip-gewichtung-was-das-anlegern-bringt/100256780.html",
+   "published": "2026-10-01T09:15:00+00:00",
+   "first_seen": "2026-10-01T10:06:55.149688+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Ifo-Insititut: Stimmung in Elektroindustrie steigt deutlich",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-diese-zehn-einhoerner-sind-2026-deutschlands-neue-wachstumshoffnung-01/100251819.html",
    "published": "2026-09-28T14:15:00+00:00",
    "first_seen": "2026-09-28T15:07:24.153728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Geschäftszahlen +++: Shein mit Gewinneinbruch und mauem Wachstum",
-   "summary": "Südzucker steigert Gewinn und präzisiert Jahresprognose +++ Hellofresh kappt Gewinnziel +++ H M übertrifft Gewinnerwartungen +++ Verbio enttäuscht mit Gewinnprognose +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-shein-mit-gewinneinbruch-und-mauem-wachstum/24098412.html",
-   "published": "2026-09-28T14:08:00+00:00",
-   "first_seen": "2026-09-28T15:07:24.153728+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Chipkonzern: Nvidia stockt Aktienrückkaufprogramm um 150 Milliarden US-Dollar auf",
-   "summary": "Der KI-Boom hat Nvidia zum wertvollsten Unternehmen der Welt gemacht. Nvidia-Chef Jensen Huang wettet mit dem Aktienrückkauf auf eine wachstumsträchtige Zukunft.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/us-chipkonzern-nvidia-stockt-aktienrueckkaufprogramm-deutlich-auf/100257960.html",
-   "published": "2026-09-28T13:52:42+00:00",
-   "first_seen": "2026-09-28T14:07:12.252975+00:00",
    "paywall": true
   }
  ]
