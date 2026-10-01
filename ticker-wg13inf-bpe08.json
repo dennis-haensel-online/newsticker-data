@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-01T08:06:32.803095+00:00",
+ "updated": "2026-10-01T09:06:01.121855+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "US-Kriegsminister Hegseth: Musk soll „Zukunft der Kriegsführung“ miterforschen",
+   "summary": "Laut US-Kriegsminister Pete Hegseth soll der Tech-Milliardär Elon Musk mit seinen Firmen KI und Roboter für das Militär entwickeln. mehr...",
+   "link": "https://taz.de/USA/!6217961/",
+   "published": "2026-10-01T08:57:00+00:00",
+   "first_seen": "2026-10-01T09:06:01.121855+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Speicherchip-Branche: Micron mit erneutem Rekordquartal und optimistischem Ausblick",
+   "summary": "Micron profitiert vom KI-Boom und meldet Rekordzahlen. Der Speicherchip-Hersteller erwartet noch bessere Geschäfte und will Milliarden in neue Kapazitäten investieren.",
+   "link": "https://www.wiwo.de/unternehmen/it/speicherchips-micron-mit-rekordquartal-und-optimistischem-ausblick/100258870.html",
+   "published": "2026-10-01T08:47:00+00:00",
+   "first_seen": "2026-10-01T09:06:01.121855+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Studie: Nur 17 Prozent der Ostdeutschen behielten nach der Wende ihren Beruf",
+   "summary": "USA ermitteln wegen Cyberangriffen gegen KI-Entwickler +++ VW will bei Cariad 1000 Stellen abbauen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-studie-nur-17-prozent-der-ostdeutschen-behielten-nach-der-wende-ihren-beruf-faz-200452404.html",
+   "published": "2026-10-01T08:06:35+00:00",
+   "first_seen": "2026-10-01T09:06:01.121855+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: VW will bei Cariad 1000 Stellen abbauen",
@@ -872,33 +899,6 @@
    "summary": "Die Cybersicherheitsprobleme beim KI-Entwickler OpenAI halten an: Das neue Modell 6.1 Astra hätte eigentlich zeitnah herauskommen sollen. Nun hat es unerlaubt auf Eigeninitiative gehandelt.",
    "link": "https://www.handelsblatt.com/technik/it-internet/technologie-openai-stoppt-veroeffentlichung-von-neuem-ki-modell-01/100258090.html",
    "published": "2026-09-29T10:55:00+00:00",
-   "first_seen": "2026-09-29T11:04:38.001499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-kompetenz-wird-das-wettbewerbsmerkmal-der-zukunft-sein/100223312.html",
-   "published": "2026-09-29T10:32:00+00:00",
-   "first_seen": "2026-09-29T11:04:38.001499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
-   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-warum-das-mittlere-management-unter-druck-geraet/100243656.html",
-   "published": "2026-09-29T10:31:00+00:00",
-   "first_seen": "2026-09-29T11:04:38.001499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Cohere-Chef Gomez: Deutschlands KI-Hoffnung sitzt in Toronto",
-   "summary": "Der kanadische Unternehmer Aidan Gomez will Deutschland fit für die Künstliche Intelligenz machen. Da hat er sich viel vorgenommen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutschlands-ki-hoffnung-cohere-sitzt-in-toronto-accg-201253488.html",
-   "published": "2026-09-29T10:14:30+00:00",
    "first_seen": "2026-09-29T11:04:38.001499+00:00",
    "paywall": true
   }
