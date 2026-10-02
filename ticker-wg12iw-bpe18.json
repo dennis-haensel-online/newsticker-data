@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-10-02T11:04:42.001577+00:00",
+ "updated": "2026-10-02T12:05:56.208665+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Drei-Jahres-Hoch: Inflation im Euroraum steigt auf 3,8 Prozent",
+   "summary": "Alles wird teurer – das spüren immer mehr Menschen. Nun lässt sich das erneut in Zahlen belegen: Die Inflation im Euroraum steigt um 3,8 Prozent. Schuld ist vor allem Donald Trump.",
+   "link": "https://www.spiegel.de/wirtschaft/drei-jahres-hoch-inflation-im-euroraum-steigt-auf-3-8-prozent-a-373ee80b-13af-4eea-9a4f-9c5261c79341#ref=rss",
+   "published": "2026-10-02T11:15:00+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Privatunis: Business-Schools werben mit Beziehungsarbeit um Studentinnen und Studenten",
+   "summary": "Studierende erwarten von Business-Schools außer einer guten Ausbildung auch den Zugang zu begehrten Jobs und karrierefördernden Kontakten. Die Alumni-Netzwerke werden zum Wettbewerbsfaktor.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/privatunis-business-schools-werben-mit-beziehungsarbeit-um-studierende/100257270.html",
+   "published": "2026-10-02T11:05:19+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent",
+   "summary": "Die Inflationsrate in der Eurozone ist im September auf 3,8 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Der Grund sind die hohen Energiepreise.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-anstieg-102.html",
+   "published": "2026-10-02T10:52:03+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "„EZB wird Zinsen anheben“: Iran-Krieg treibt Inflation im Euroraum auf Drei-Jahres-Hoch",
@@ -27,6 +54,15 @@
    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euroraum-springt-auf-drei-jahres-hoch/100254617.html",
    "published": "2026-10-02T09:37:57+00:00",
    "first_seen": "2026-10-02T10:04:22.553519+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Euro-Zone: Inflation auf Drei-Jahres-Hoch, Frankreich unter großem Druck: Für die EZB wird es brenzlig",
+   "summary": "Unerwartet schnell steigende Verbraucherpreise und eine Zuspitzung der Lage in Frankreich: Die EZB ist zwischen Problemen bei der Inflation und an den Anleihemärkten eingekeilt.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euroraum-springt-auf-dreijahreshoch/100254617.html",
+   "published": "2026-10-02T09:37:57+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
    "paywall": true
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-helaba-plant-offenbar-ikb-uebernahmeangebot/100258396.html",
    "published": "2026-09-29T15:36:30+00:00",
    "first_seen": "2026-09-29T17:04:58.155279+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Übernahmeringen: Kreise: Bund will schnelle Zusagen von Orcel bei Commerzbank",
-   "summary": "Unicredit-Chef Orcel will die Commerzbank nach einem Medienbericht möglichst schon Anfang 2027 übernehmen und Vorstandschefin Bettina Orlopp absetzen. Die Reaktion des Bundes fällt deutlich aus.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/uebernahmeringen-kreise-bund-will-schnelle-zusagen-von-orcel-bei-commerzbank/100258397.html",
-   "published": "2026-09-29T15:16:04+00:00",
-   "first_seen": "2026-09-29T16:06:20.899589+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "BASF greift nach Evonik: Profit, Politik und Pumpen",
-   "summary": "Ob die Übernahme zustande kommt, entscheidet alleine die RAG-Stiftung – und damit die Politik.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-greift-nach-evonik-profit-politik-und-pumpen-201273293.html",
-   "published": "2026-09-29T14:53:08+00:00",
-   "first_seen": "2026-09-29T16:06:20.899589+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie: BASF treibt Evonik-Übernahme weiter und hat noch einen Trumpf",
-   "summary": "Der Chemiekonzern steckt nach der ersten Absage aus Essen nicht zurück. BASF folgt einem Zeitplan bis 2028 und knüpft eine höhere Offerte an Bedingungen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-basf-treibt-evonik-uebernahme-weiter-und-hat-noch-einen-trumpf/100257955.html",
-   "published": "2026-09-29T13:43:28+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Biotech-Konzern: Biontech schließt drei deutsche Standorte – „Das ganze Staatsgeld liegt nun auf der Müllhalde“",
-   "summary": "Der Impfstoffhersteller findet keine Käufer für die Werke Idar-Oberstein, Marburg und Tübingen. 1800 Beschäftigte verlieren ihre Jobs. Ein früherer Wettbewerber schimpft – auch auf sich selbst.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/biontech-drei-deutsche-standorte-schliessen-ihre-werke-01/100257969.html",
-   "published": "2026-09-29T12:56:00+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
    "paywall": true
   }
  ]

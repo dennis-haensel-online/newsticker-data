@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-02T11:04:42.001577+00:00",
+ "updated": "2026-10-02T12:05:56.208665+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Altkanzler Schröder wird Aufsichtsrat bei russischer Globus",
+   "summary": "Bauhaus darf acht Standorte der insolventen Hellweg-Gruppe übernehmen +++ Bundesregierung hebt wohl Wachstumsprognosen kräftig an +++ Geht Anthropic schon Mitte November an die Börse? +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-altkanzler-schroeder-wird-aufsichtsrat-bei-russischer-globus-faz-200452404.html",
+   "published": "2026-10-02T11:26:11+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Drei-Jahres-Hoch: Inflation im Euroraum steigt auf 3,8 Prozent",
+   "summary": "Alles wird teurer – das spüren immer mehr Menschen. Nun lässt sich das erneut in Zahlen belegen: Die Inflation im Euroraum steigt um 3,8 Prozent. Schuld ist vor allem Donald Trump.",
+   "link": "https://www.spiegel.de/wirtschaft/drei-jahres-hoch-inflation-im-euroraum-steigt-auf-3-8-prozent-a-373ee80b-13af-4eea-9a4f-9c5261c79341#ref=rss",
+   "published": "2026-10-02T11:15:00+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Konjunktur: „Deutschland macht einen Schritt aus der Stagnation“",
@@ -10,6 +28,15 @@
    "published": "2026-10-02T10:56:00+00:00",
    "first_seen": "2026-10-02T11:04:42.001577+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent",
+   "summary": "Die Inflationsrate in der Eurozone ist im September auf 3,8 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Der Grund sind die hohen Energiepreise.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-anstieg-102.html",
+   "published": "2026-10-02T10:52:03+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -36,6 +63,15 @@
    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euroraum-springt-auf-drei-jahres-hoch/100254617.html",
    "published": "2026-10-02T09:37:57+00:00",
    "first_seen": "2026-10-02T10:04:22.553519+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Euro-Zone: Inflation auf Drei-Jahres-Hoch, Frankreich unter großem Druck: Für die EZB wird es brenzlig",
+   "summary": "Unerwartet schnell steigende Verbraucherpreise und eine Zuspitzung der Lage in Frankreich: Die EZB ist zwischen Problemen bei der Inflation und an den Anleihemärkten eingekeilt.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-teuerung-im-euroraum-springt-auf-dreijahreshoch/100254617.html",
+   "published": "2026-10-02T09:37:57+00:00",
+   "first_seen": "2026-10-02T12:05:56.208665+00:00",
    "paywall": true
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-japan-experte-die-usa-brauchen-geld-aus-japan/100258429.html",
    "published": "2026-09-30T03:10:00+00:00",
    "first_seen": "2026-09-30T04:05:18.176780+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Invest: Japan-Experte: „Die USA brauchen Geld aus Japan“",
-   "summary": "Japan ist für die Anleihemärkte enorm wichtig. Sönke Siemßen vom Vermögensverwalter Nomura kennt die Gründe und erklärt, warum die Geldpolitik der USA für die Bondmärkte gefährlich ist.",
-   "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-japan-experte-die-usa-brauchen-geld-aus-japan/100258258.html",
-   "published": "2026-09-30T03:05:00+00:00",
-   "first_seen": "2026-09-30T04:05:18.176780+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: BIP-gewichtete ETFs versprechen mehr Streuung – bergen aber ein neues Risiko",
-   "summary": "Statt nach Marktkapitalisierung stellt ein neuer Welt-ETF Aktienmärkte nach Wirtschaftskraft zusammen. Das halbiert den US-Anteil, schafft aber neue Probleme.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-was-bringen-etfs-mit-bip-gewichtung/100256780.html",
-   "published": "2026-09-30T02:01:02+00:00",
-   "first_seen": "2026-09-30T02:04:53.382661+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Inflation: Rekord-Spritpreise könnten Inflation über 3 Prozent treiben",
-   "summary": "Der anhaltende Iran-Krieg sorgt für hohe Spritpreise. Das treibt die Inflation, die Verbraucher auch an der Supermarktkasse immer stärker zu spüren bekommen. Wird der Tankrabatt helfen?",
-   "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekord-spritpreise-koennten-inflation-ueber-3-prozent-treiben/100258413.html",
-   "published": "2026-09-29T16:30:37+00:00",
-   "first_seen": "2026-09-29T17:04:58.155279+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "US-Konjunktur: US-Verbrauchervertrauen sinkt auf tiefsten Stand seit 2014",
-   "summary": "Kurz vor den Zwischenwahlen verschlechtert sich das Verbrauchervertrauen in den USA deutlich. Grund dafür sind steigende Preise und der Iran-Krieg.",
-   "link": "https://www.wiwo.de/politik/konjunktur/us-konjunktur-us-verbrauchervertrauen-sinkt-auf-tiefsten-stand-seit-2014/100258410.html",
-   "published": "2026-09-29T16:13:27+00:00",
-   "first_seen": "2026-09-29T17:04:58.155279+00:00",
    "paywall": true
   }
  ]
