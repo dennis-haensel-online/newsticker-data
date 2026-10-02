@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-02T00:05:45.400056+00:00",
+ "updated": "2026-10-02T01:06:18.916943+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Nike verschärft Sparprogramm",
+   "summary": "Französischer Supercomputer-Bauer verdoppelt Produktion für europäische KI-Projekte +++ Universal Music: Mehr Verantwortung für Frank Briegmann +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-studie-nike-verschaerft-sparprogramm-faz-200452404.html",
+   "published": "2026-10-02T00:33:00+00:00",
+   "first_seen": "2026-10-02T01:06:18.916943+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Französischer Supercomputer-Bauer verdoppelt Produktion",
@@ -890,15 +899,6 @@
    "summary": "KI verändert die Arbeitswelt rasant. Und damit wächst der Druck auf Beschäftigte. Unser interaktives Tool zeigt, wo Sie stehen – und was Experten zur richtigen Weiterbildung raten.",
    "link": "https://www.handelsblatt.com/karriere/technologie-so-testen-sie-mit-dem-chatbot-ihre-ki-kompetenz-im-beruf-01/100249593.html",
    "published": "2026-09-29T13:34:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
-   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
-   "link": "https://www.handelsblatt.com/technik/ki/yoshua-bengio-wir-brauchen-kis-die-sich-an-unsere-verbote-halten-01/100256318.html",
-   "published": "2026-09-29T13:22:00+00:00",
    "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": true
   }
