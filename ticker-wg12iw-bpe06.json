@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-02T07:06:49.414322+00:00",
+ "updated": "2026-10-02T08:06:04.680867+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Weltraum: Isar Aerospace: Der 100-Milliarden-Plan der Raketenfirma",
+   "summary": "Abwerbungsversuch von Musk, Motorentests auf dem Bauernhof, Fabrik in Kanada: Die kuriose Geschichte eines Münchener Start-ups, das Chancen hat, einer der größten Konzerne Deutschlands zu werden.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/weltraum-isar-aerospace-der-100-milliarden-plan-der-raketenfirma/100254628.html",
+   "published": "2026-10-02T07:46:00+00:00",
+   "first_seen": "2026-10-02T08:06:04.680867+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Commerzbank: Braucht Deutschland schärferes Übernahmerecht?",
+   "summary": "Die Fälle Commerzbank, Hugo Boss, ProSiebenSat.1 zeigen, wie leicht Investoren in Deutschland ihre Kontrolle ausbauen können. Andere Länder setzen beim Aktionärsschutz strengere Grenzen. Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html",
+   "published": "2026-10-02T07:16:35+00:00",
+   "first_seen": "2026-10-02T08:06:04.680867+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Rüstung: Warburg Pincus verhandelt wohl über Einstieg bei Panzerbauer KNDS",
@@ -792,24 +810,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-norwegens-staatsfonds-warnt-vor-einschraenkung-von-aktionaersrechten/100258262.html",
    "published": "2026-09-29T10:14:42+00:00",
    "first_seen": "2026-09-29T11:04:38.001499+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Banken: Unicredit will bei Commerzbank schnellstmöglich durchregieren und Vorstandschefin Orlopp loswerden",
-   "summary": "Das Mailänder Institut möchte möglichst bald auf einer außerordentlichen Hauptversammlung den Aufsichtsrat und anschließend die Führung austauschen – und ignoriert damit eine Forderung des Bundes.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-unicredit-will-commerzbank-chefin-orlopp-schnell-loswerden/100258153.html",
-   "published": "2026-09-29T09:53:46+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Anthropic plant Börsengang der Superlative – trotz Milliardenverlusten",
-   "summary": "Das KI-Unternehmen strebt dem unveröffentlichten Börsenprospekt zufolge eine Bewertung von mehr als zwei Billionen Dollar an. Operativ hat Anthropic 2025 jedoch 8,1 Milliarden Dollar Verlust gemacht.",
-   "link": "https://www.handelsblatt.com/video/finanzen/kuenstliche-intelligenz-anthropic-plant-boersengang-der-superlative-trotz-milliardenverlusten/100258257.html",
-   "published": "2026-09-29T09:51:06+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
    "paywall": true
   }
  ]
