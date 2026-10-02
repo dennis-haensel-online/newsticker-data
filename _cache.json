@@ -1,6 +1,249 @@
 {
- "updated": "2026-10-02T14:06:18.589447+00:00",
+ "updated": "2026-10-02T15:06:13.203645+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Ausgezeichnete Exzellenzuniversitäten: Geld für die Unis in Freiburg, Jena und Köln",
+   "summary": "Drei weitere Hochschulen und zwei Hochschulverbünde erhalten den Titel „Exzellenzuniversität“. Sie dürfen sich auf eine Millionenförderung freuen. mehr...",
+   "link": "https://taz.de/Ausgezeichnete-Exzellenzuniversitaeten/!6218525/",
+   "published": "2026-10-02T15:03:00+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Rally nach US-Jobdaten treibt Nvidia und Nasdaq auf Rekordhoch",
+   "summary": "Die Anleger verdrängen am Freitag die zuletzt aufgekommenen Zins- und Inflationssorgen. Stattdessen befinden sich einige US-Indizes in Rekordnähe.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-notiert-nach-us-arbeitsmarktdaten-im-plus/100259355.html",
+   "published": "2026-10-02T15:00:30+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "EUGH-Gutachter empfiehlt: Keine Haftung für Kartellbuße",
+   "summary": "Der Generalanwalt in Luxemburg stellt sich gegen einen Innenregress für Geldbußen nach Kartellverstößen. Ein Rückgriff auf frühere Geschäftsführer mindere die Abschreckung der Sanktion durch eine Behörde.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eugh-zum-edelstahlkartell-darf-die-geldbusse-weitergegeben-werden-201283825.html",
+   "published": "2026-10-02T14:56:56+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Energiekrise: G7 wollen bis zu 100 Millionen Barrel Diesel und Rohöl freigeben",
+   "summary": "Um die hohen Energiepreise zu senken, haben die G7 beschlossen, strategische Reserven freizugeben. Außerdem sollen Produktionsbedingungen flexibler werden.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/g7-wollen-bis-zu-100-millionen-barrel-diesel-und-rohoel-freigeben",
+   "published": "2026-10-02T14:47:38+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Sefe: Bund leitet laut Medienbericht Reprivatisierung von Gaskonzern ein",
+   "summary": "Wegen ausbleibender Gaslieferungen aus Russland stand Sefe, damals noch Gazprom Germania, einst vor der Pleite. Der Konzern wurde verstaatlicht. Nun soll der Prozess womöglich wieder umgekehrt werden.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/sefe-bund-leitet-laut-medienbericht-reprivatisierung-von-gaskonzern-ein-a-d6ab9724-53f1-4814-bef1-6977ca7e7a3a#ref=rss",
+   "published": "2026-10-02T14:47:00+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Lohnender Einsatz: Pflege zu Hause: Wann dafür Rentenbeiträge gezahlt werden",
+   "summary": "Viele Menschen werden zu Hause von Angehörigen gepflegt. Nicht selten treten diese dafür im Job kürzer. Unter bestimmten Voraussetzungen kann aber die Pflege etwas für die Rente bringen.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/lohnender-einsatz-pflege-zu-hause-wann-dafuer-rentenbeitraege-gezahlt-werden/100259391.html",
+   "published": "2026-10-02T14:42:10+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "E-Autohersteller: Tesla verkauft mehr Autos als erwartet – Aktie steigt",
+   "summary": "Wegen steigender Nachfrage in Europa hat Elon Musks Unternehmen mehr Autos verkauft. Hinter dem Jahresziel liegt Tesla trotzdem.",
+   "link": "https://www.wiwo.de/unternehmen/auto/e-autohersteller-tesla-verkauft-mehr-autos-als-erwartet-aktie-steigt/100259384.html",
+   "published": "2026-10-02T14:41:36+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Westjordanland: Israelische Siedler und Soldaten feuern auf Palästinenser bei Olivenernte",
+   "summary": "Im palästinensischen Westjordanland haben israelische Einsatzkräfte und Siedler einheimische Bauern beschossen und vertrieben. Während der Olivenernte kommt es im Westjordanland immer wieder zu Gewalt.",
+   "link": "https://www.handelsblatt.com/video/politik/westjordanland-israelische-siedler-und-soldaten-feuern-auf-palaestinenser-bei-olivenernte/100259388.html",
+   "published": "2026-10-02T14:36:08+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Aktien vs. Anleihen: „Acht Prozent Dividendenrendite sind kein Kaufargument“",
+   "summary": "Dividendenaktien bleiben trotz hoher Anleiherenditen attraktiv, sagt Fondsmanager Stuart Rhodes von M G. Welche Titel er jetzt interessant findet – und welche problematisch.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/dividendenaktien-vs.-anleihen-worauf-anleger-jetzt-achten/100258583.html",
+   "published": "2026-10-02T14:35:52+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Diesel und Rohöl: G7 geben »bis zu 100 Millionen Barrel« frei",
+   "summary": "Donald Trump hat Europa zur Freigabe strategischer Dieselreserven gedrängt, um die Spritpreise zu senken. Nun sagen die G7 tatsächlich bis zu 100 Millionen Barrel Diesel und Rohöl zu.",
+   "link": "https://www.spiegel.de/wirtschaft/diesel-und-rohoel-g7-geben-bis-zu-100-millionen-barrel-frei-a-c0ef3afe-2923-476c-9732-87300e24ae4b#ref=rss",
+   "published": "2026-10-02T14:31:00+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "G7 geben bis zu 15,9 Milliarden Liter Diesel und Rohöl frei",
+   "summary": "Die G7-Länder geben bis zu 100 Millionen Barrel Diesel und Rohöl-Reserven frei. Dies passiere in den kommenden vier Monaten, sagte Frankreichs Präsident Macron.",
+   "link": "https://www.zdfheute.de/politik/diesel-reserve-g7-freigabe-100.html",
+   "published": "2026-10-02T14:30:23+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "VW-Tochter: Skoda ruft mehr als eine Million Fahrzeuge zurück",
+   "summary": "Vor wenigen Tagen wurde bekannt, dass eine fehlerhafte Schraube bei mehreren Modellen aus dem VW-Konzern zum Ausfall der Lenkung führen kann. Nun folgt eine weitere VW-Tochter mit einem Rückruf.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/skoda-rueckruf-volkswagen-lenkung-schraube-li.3557721",
+   "published": "2026-10-02T14:28:37+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "DHB-Kapitän Golla will zurück nach Flensburg",
+   "summary": "Johannes Golla will wieder nach Flensburg. Der Handball-Nationalmannschaftskapitän war erst im Sommer nach Flensburg gewechselt und hatte dort einen XXL-Vertrag unterschrieben.",
+   "link": "https://www.zdfheute.de/sport/handball-johannes-golla-wechsel-melsungen-flensburg-100.html",
+   "published": "2026-10-02T14:28:00+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Mit wem sollen wir zusammenhalten?: Tag der deutschen Spaltung",
+   "summary": "Der gesellschaftliche Zusammenhalt hat sich verbessert – wie blöd. Am Tag der Deutschen Einheit sollten wir uns auf unsere Unterschiede besinnen. mehr...",
+   "link": "https://taz.de/Mit-wem-sollen-wir-zusammenhalten/!6217252/",
+   "published": "2026-10-02T14:27:00+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ebola im Kongo: Mehr als 4.000 Ebola-Tote im Kongo",
+   "summary": "Kein vorangegangener Ebola-Ausbruch in Afrika wuchs so schnell wie der aktuelle im Kongo. Nun sind schon mehr als 4.000 Menschen an dem gefährlichen Fieber gestorben. Besonders gefährdet sind Kinder.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-mehr-als-4000-ebola-tote-im-kongo/100259389.html",
+   "published": "2026-10-02T14:26:43+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "US-Wirtschaft: US-Haushalte müssen wohl Tausende Dollar mehr für Energie zahlen – wegen Trumps Politik",
+   "summary": "Im Wahlkampf versprach Trump noch, die Preise zu senken. Seine Politik bewirkt laut den Berechnungen einer Denkfabrik jedoch das Gegenteil.",
+   "link": "https://www.wiwo.de/politik/ausland/us-wirtschaft-us-haushalte-muessen-wohl-tausende-dollar-mehr-fuer-energie-zahlen-wegen-trumps-politik/100259371.html",
+   "published": "2026-10-02T14:26:00+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Immobilien: Warum jeder fünfte Luxuskäufer Vermögen in ein Familienanwesen steckt",
+   "summary": "Der Familiensitz erlebt eine Renaissance: Viele Vermögende suchen nach Anwesen, die mehreren Generationen Platz bieten. Worauf es ankommt, damit eine solche Immobilie wertstabil bleibt.",
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-warum-jeder-fuenfte-luxuskaeufer-vermoegen-in-ein-familienanwesen-steckt/100257925.html",
+   "published": "2026-10-02T14:20:58+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gericht: Kein Schadenersatz: Unfall mit Balance Board: Messebesucher geht leer aus",
+   "summary": "Wer auf Messen Sportgeräte ausprobiert, tut das auf eigenes Risiko. Geht etwas schief, können Messebesucher den jeweiligen Aussteller laut Gerichtsentscheid nicht per se zur Rechenschaft ziehen.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/gericht-kein-schadenersatz-unfall-mit-balance-board-messebesucher-geht-leer-aus/100259382.html",
+   "published": "2026-10-02T14:19:52+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Immobilien: Trotz Wohnungsmangel: „Genehmigungsverfahren bleiben viel zu langsam“„Genehmigungsverfahren bleiben viel zu langsam“",
+   "summary": "Catella-Investment-Chef Michael Fink erklärt, warum das Bauen mit vorgefertigten Bauteilen ein Wachstumsmarkt ist – und was Kasernen damit zu tun haben.",
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-genehmigungsverfahren-bleiben-viel-zu-langsam/100253564.html",
+   "published": "2026-10-02T14:18:19+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hollywood-Megadeal: Dachkonzern von Paramount und Warner wird Skydance heißen",
+   "summary": "Seit Monaten wurde in Hollywood gerätselt, wie nach dem Kauf von Warner Bros. durch Paramount der neue Konzern heißen wird. Der neue Boss David Ellison greift zum Namen seiner alten Produktionsfirma.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/hollywood-megadeal-dachkonzern-von-paramount-und-warner-wird-skydance-heissen/100259381.html",
+   "published": "2026-10-02T14:18:08+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Regierungskrise: Spaniens Regierung schlittert wegen Wohnungsnot in die Krise",
+   "summary": "Nach dem Scheitern ihrer Maßnahmen zum Mieterschutz im Parlament steht Spaniens Regierung unter Druck. Was das für die Wohnungsnot und mögliche Neuwahlen bedeutet.",
+   "link": "https://www.handelsblatt.com/politik/international/regierungskrise-spaniens-regierung-schlittert-wegen-wohnungsnot-in-die-krise/100259325.html",
+   "published": "2026-10-02T14:13:24+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elektroautos: Tesla übertrifft Erwartungen mit Auslieferungen",
+   "summary": "Vor einem Jahr trieb das Auslaufen der US-Elektroautoprämie die Tesla-Auslieferungen nach oben. Das jüngste Quartal übertrifft zwar die Erwartungen, kann aber trotzdem nicht mithalten.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/elektroautos-tesla-uebertrifft-erwartungen-mit-auslieferungen/100259373.html",
+   "published": "2026-10-02T14:13:09+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Investitionen: Warum der schnellere Mittelabfluss beim Sondervermögen zum Problem wird",
+   "summary": "Das Sondervermögen Infrastruktur kommt ins Rollen. Allerdings könnte das zu höheren Baupreisen führen und Mittel verpuffen, so eine Studie. Klingbeils Berater fordern derweil mehr Transparenz.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/sondervermoegen-warum-der-schnellere-mittelabfluss-zum-problem-wird/100259226.html",
+   "published": "2026-10-02T14:09:52+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hochschulen: Millionenförderung für neue Exzellenz-Unis",
+   "summary": "Es geht um Prestige und viel Geld: Insgesamt acht weitere deutsche Hochschulen rücken in die Riege der sogenannten Exzellenzuniversitäten auf.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/hochschulen-millionenfoerderung-fuer-neue-exzellenz-unis/100259378.html",
+   "published": "2026-10-02T14:07:12+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wohnungspolitik: Spaniens Regierung schlittert wegen Wohnungsnot in die Krise",
+   "summary": "Nach dem Scheitern ihrer Maßnahmen zum Mieterschutz im Parlament steht Spaniens Regierung unter Druck. Was das für die Wohnungsnot und mögliche Neuwahlen bedeutet.",
+   "link": "https://www.handelsblatt.com/politik/international/wohnungspolitik-spaniens-regierung-schlittert-wegen-wohnungsnot-in-die-krise/100259376.html",
+   "published": "2026-10-02T14:02:26+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einzelhandel: Warenhauskette Galeria stellt abermals Insolvenzantrag",
+   "summary": "Die bislang letzte Insolvenz liegt erst gut zweieinhalb Jahre zurück. Nun ist Galeria wieder in finanzielle Not geraten. Ob die Beschäftigten Insolvenzgeld erhalten, ist unklar.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/einzelhandel-warenhauskette-galeria-stellt-abermals-insolvenzantrag/100259252.html",
+   "published": "2026-10-02T14:01:14+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nach der Wahl in Berlin: Landeswahlleiter: Weniger Sitze im Berliner Parlament",
+   "summary": "In Berlin Berlin-Spandau wird ein Wahlergebnis neu ausgezählt. Das hat nicht nur für die Kandidaten dort Folgen. Der Landeswahlleiter sieht auch Auswirkungen auf die Zahl der Sitze im Landesparlament.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-wahl-in-berlin-landeswahlleiter-weniger-sitze-im-berliner-parlament/100259291.html",
+   "published": "2026-10-02T13:57:11+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Wohnungsmarkt: Was ist dran am Mieterparadies Wien?",
@@ -80,6 +323,15 @@
    "link": "https://www.handelsblatt.com/politik/international/energiekrise-erwogener-us-diesel-exportstopp-stoesst-in-eu-auf-ablehnung/100259363.html",
    "published": "2026-10-02T13:43:52+00:00",
    "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energiekrise: Industrieländer wollen Dieselreserven freigeben – Preis fällt stark",
+   "summary": "Die G7-Staaten geben Dieselreserven frei. Nach massivem Druck aus Washington erklärt sich auch die EU dazu bereit, strategische Dieselbestände bereitzustellen.",
+   "link": "https://www.handelsblatt.com/politik/international/energiekrise-industrielaender-wollen-dieselreserven-freigeben-preis-faellt-stark/100259363.html",
+   "published": "2026-10-02T13:43:52+00:00",
+   "first_seen": "2026-10-02T15:06:13.203645+00:00",
    "paywall": true
   },
   {
@@ -13247,258 +13499,6 @@
    "link": "https://www.handelsblatt.com/politik/international/labour-tagt-in-liverpool-labour-parteitag-britischer-premier-liefert-emotionale-rede/100258116.html",
    "published": "2026-09-29T14:38:23+00:00",
    "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Bürgerkrieg in Myanmar: Luftangriff auf einen Markt tötet rund 50 Menschen",
-   "summary": "In Myanmar versucht die Militärregierung mit einer Offensive, die stärkste Rebellenorganisation zurückzudrängen. Getötet werden vor allem Zivilisten. mehr...",
-   "link": "https://taz.de/Buergerkrieg-in-Myanmar/!6217256/",
-   "published": "2026-09-29T14:38:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "KI-Konzerne: Ablenken von der eigenen Verantwortung",
-   "summary": "Nach Sicherheitsvorfällen kündigt OpenAI an, ein neues ChatGPT-Modell doch nicht veröffentlichen zu wollen. Dabei geht es nicht nur um KI, sondern vor allem um Verantwortung.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/openai-ki-modell-chatgpt-analyse-100.html",
-   "published": "2026-09-29T14:38:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Korrekturen und Richtigstellungen",
-   "summary": "Hier stellen wir Fehler in der ZDF-Berichterstattung richtig.",
-   "link": "https://www.zdfheute.de/in-eigener-sache/korrekturen-104.html",
-   "published": "2026-09-29T14:37:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Film „Digger“ mit Tom Cruise: Eine Satire über die Grenzen der Satire",
-   "summary": "Tom Cruise spielt im Film „Digger einen Ölmagnaten, der eine Katastrophe auslöst. Regisseur Alejandro González Iñárritu macht daraus eine Satire der besonderen Art. mehr...",
-   "link": "https://taz.de/Film-Digger-mit-Tom-Cruise-Satire-ueber-die-Grenzen-der-Satire/!6216987/",
-   "published": "2026-09-29T14:36:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gesundheit: Fitnessbranche sieht beim Wachstum „noch viel Luft nach oben“ – Weitere Konsolidierung erwartet",
-   "summary": "Mitgliederrekorde und noch weiteres Potenzial: Die Fitnessbranche in Deutschland ist aus mehreren Gründen optimistisch. Anbieter Lifefit peilt eine halbe Milliarde Euro Umsatz an.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/unternehmen-der-fitnessmarkt-waechst-weiter-und-hat-noch-viel-luft-nach-oben-01/100257038.html",
-   "published": "2026-09-29T14:36:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Verteidigung: Milliarden für Bremerhaven – Bundesland wird zur Nato-Drehscheibe",
-   "summary": "1,35 Milliarden Euro bekommt das kleinste Bundesland. Warum der Bund die Rekordsumme ausgibt und in welche Maßnahmen das Geld fließen soll.",
-   "link": "https://www.wiwo.de/politik/deutschland/verteidigung-milliarden-fuer-bremerhaven-bundesland-wird-zur-nato-drehscheibe/100258360.html",
-   "published": "2026-09-29T14:30:52+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bahn-Generalsanierung: Bald 14 Monate Bahn-Sperrung zwischen Hannover und Berlin",
-   "summary": "Ab Freitag brauchen Fernzüge zwischen Berlin und Hannover rund 80 Minuten länger. Die Strecke wird umfassend saniert. Für Fahrgäste bedeutet das für mehr als ein Jahr erhebliche Einschränkungen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bahn-generalsanierung-bald-14-monate-bahn-sperrung-zwischen-hannover-und-berlin/100258366.html",
-   "published": "2026-09-29T14:29:42+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Discounter: Aldi plant 40 neue Filialen in Großbritannien",
-   "summary": "Der deutsche Discounter will in Großbritannien expandieren und dafür zahlreiche Filialen eröffnen. Das erhöht den Druck im ohnehin schon umkämpften britischen Lebensmittelmarkt.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/lebensmittel-aldi-will-40-neue-filialen-in-grossbritannien-eroeffnen-01/100257924.html",
-   "published": "2026-09-29T14:29:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "AfD in Sachsen-Anhalt: Der China-Schock erreicht die politische Mitte Deutschlands",
-   "summary": "Deutschlands Industriekrise spielt der AfD in die Hände. In den Regionen mit besonders viel Frust über Chinas Konkurrenz wächst der Zuspruch für die Partei.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/afd-sachsen-anhalt-china-politische-mitte-wirtschaft-industrie",
-   "published": "2026-09-29T14:25:01+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Anthropic-Prospekt: Die Billionenwette des Dario Amodei",
-   "summary": "Anthropic strebt den größten Börsengang aller Zeiten an, warnt aber eindringlich vor Risiken. Die liegen für Investoren nicht nur in der potentiellen Auslöschung der Menschheit, sondern auch im Geschäftsmodell.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-boersengang-die-billionenwette-des-dario-amodei-201272559.html",
-   "published": "2026-09-29T14:21:13+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilität: Strom statt Benzin – wie viel spart ein E-Auto beim Tanken ein?",
-   "summary": "Durch den Iran-Krieg sind die Spritpreise nach wie vor auf Höchstniveau. Wie viel lässt sich durch Laden statt Tanken einsparen? Der Handelsblatt-Rechner zeigt es.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/e-auto-so-viel-sparen-autofahrer-beim-laden-im-vergleich-zum-tanken-01/100251862.html",
-   "published": "2026-09-29T14:21:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Arbeitsbedingungen: Mercedes will nur noch einen Tag Home-Office pro Woche zulassen",
-   "summary": "Gerade laufen Verhandlungen zwischen Unternehmensspitze und Betriebsrat. Vorstandschef Ola Källenius will auch noch andere Sparpläne durchsetzen, etwa bei Arbeitszeit und Sonderzahlungen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/home-office-mercedes-ola-kaellenius-li.3555847",
-   "published": "2026-09-29T14:18:47+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vergleich: Wo sich ein Elektroauto lohnt – und wo nicht",
-   "summary": "Ob Elektroautos auch finanziell attraktiv sind, hängt neben den Strompreisen und der Förderpolitik von zahlreichen Faktoren ab. Deutschland schlägt sich im internationalen Vergleich gut.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/autos-in-welchen-laendern-sich-ein-elektroauto-lohnt-01/100257827.html",
-   "published": "2026-09-29T14:16:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sachsen-Anhalt: Siegmund will im Dezember erster AfD-Ministerpräsident sein",
-   "summary": "Nach dem Wahlsieg möchte die AfD so wenig wie möglich dem Zufall überlassen. An einer Regierung arbeitet sie, schweigt aber zu den Details. Der mögliche Ministerpräsident bringt sich in Stellung.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-siegmund-will-im-dezember-erster-afd-ministerpraesident-sein/100258337.html",
-   "published": "2026-09-29T14:14:37+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "A350F: Ein Jungfernflug, der Boeing ärgert",
-   "summary": "Zum ersten Mal hebt ein Airbus A350F ab. Der neue Frachtjet soll dem US-Rivalen Marktanteile abjagen – wenn auch verspätet.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/airbus-a350f-startet-der-neue-frachtjet-fordert-boeing-heraus/100258354.html",
-   "published": "2026-09-29T14:14:30+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Finanzausgleich: „Sanktionspopulismus“: SPD weist Unions-Forderung nach Geldentzug zurück",
-   "summary": "Zwischen SPD und Union gibt es nach den Landtagswahlen Streit um den Länderfinanzausgleich. Während die Union Bundesländern wie Berlin mit Finanzstrafen droht, hält die SPD davon nichts.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/finanzausgleich-spd-weist-unions-forderung-nach-geldentzug-zurueck/100258330.html",
-   "published": "2026-09-29T14:12:32+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gehaltsrechner: Wie viel verdienen Sie im Vergleich zu anderen Führungskräften?",
-   "summary": "Branche, Unternehmensgröße und Standort beeinflussen maßgeblich die Gehälter – das gilt auch für Chefs. Mit unserem interaktiven Rechner sehen Sie, wo Sie im Verhältnis zu anderen stehen.",
-   "link": "https://www.handelsblatt.com/karriere/gehalt-wo-verdienen-fuehrungskraefte-das-meiste-geld/100248227.html",
-   "published": "2026-09-29T14:07:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aufrüstung: Bremerhaven wird Nato-Drehscheibe – Milliardensumme fließt",
-   "summary": "Lange wurde gerungen, nun ist der Vertrag unterzeichnet: Warum der Bund eine Rekordsumme in das kleinste Bundesland steckt und in welche Maßnahmen das Geld fließen soll.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/aufruestung-bremerhaven-wird-nato-drehscheibe-milliardensumme-fliesst/100258358.html",
-   "published": "2026-09-29T14:05:22+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Reform der Pflegeversicherung: Menschen aus dem Blick geraten",
-   "summary": "Die Debatte um die Pflegereform dreht sich vor allem ums Geld. Was es bräuchte, wäre ein Paradigmenwechsel. Ein Blick ins Nachbarland Dänemark lohnt. mehr...",
-   "link": "https://taz.de/Reform-der-Pflegeversicherung/!6217266/",
-   "published": "2026-09-29T14:02:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Europäischer Gerichtshof: EuGH lehnt Antrag auf Aussetzung des Mercosur-Abkommens ab",
-   "summary": "Das Handelsabkommmen zwischen der EU und den Mercosur-Staaten kann vorläufig in Kraft treten. Bedenken Polens wies der Europäische Gerichtshof zurück.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/eugh-mercosur-abkommen-polen-brazilien-argentinien",
-   "published": "2026-09-29T14:00:03+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Europäischer Gerichtshof: EuGH lehnt Antrag auf Aussetzung des Mercosur-Abkommens ab",
-   "summary": "Das Handelsabkommen zwischen der EU und den Mercosur-Staaten bleibt vorläufig in Kraft. Bedenken Polens wies der Europäische Gerichtshof zurück.",
-   "link": "https://www.zeit.de/wirtschaft/2026-09/eugh-mercosur-abkommen-polen-brazilien-argentinien-gxe",
-   "published": "2026-09-29T14:00:03+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Luxushotel: Insolvenzverwalter: „Die Zukunft des Hotels liegt in den Händen der Behörden“",
-   "summary": "Das ehemalige Hilton Frankfurt Gravenbruch ist insolvent, der Eigentümer wegen Iran-Verbindungen von der EU und den USA sanktioniert. Was wird aus dem Luxushotel? Die Uhr tickt.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/luxushotel-die-zukunft-des-hotels-liegt-in-den-haenden-der-behoerden/100257449.html",
-   "published": "2026-09-29T13:59:34+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Plötzlich schraubte Hilton die Schilder ab: Warum ein beliebtes Frankfurter Luxushotel jetzt pleite ist",
-   "summary": "Das ehemalige Hilton Frankfurt Gravenbruch ist insolvent, der Eigentümer wegen Iran-Verbindungen von der EU und den USA sanktioniert. Was wird aus dem Luxushotel? Die Uhr tickt.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-ploetzlich-schraubte-hilton-die-schilder-ab-luxushotel-ist-pleite/100257449.html",
-   "published": "2026-09-29T13:59:34+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Epileptischer Anfall: Arbeitsunfall? Nach dem Ausstempeln für die Firma unterwegs",
-   "summary": "Ein Mitarbeiter im Kundendienst hat im Auto einen epileptischen Anfall und kommt von der Fahrbahn ab. Später gibt er an, für die Firma unterwegs gewesen zu sein - aber er war schon ausgestempelt.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/epileptischer-anfall-arbeitsunfall-nach-dem-ausstempeln-fuer-die-firma-unterwegs/100258362.html",
-   "published": "2026-09-29T13:56:57+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Pläne der Grünen für Superreiche: Grüne wollen Millardäre ein bisschen zur Kasse bitten",
-   "summary": "Die Partei möchte Kapital ab 500 Millionen Euro mit einer Zusatzabgabe von 2 bis 4 Prozent belegen. Doch für die Union dürfte selbst das schwierig werden. mehr...",
-   "link": "https://taz.de/Plaene-der-Gruenen-fuer-Superreiche/!6217325/",
-   "published": "2026-09-29T13:54:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Pläne für Superreiche: Grüne wollen Millardäre ein bisschen zur Kasse bitten",
-   "summary": "Die Partei möchte Kapital ab 500 Millionen Euro mit einer Zusatzabgabe von 2 bis 4 Prozent belegen. Doch für die Union dürfte selbst das schwierig werden. mehr...",
-   "link": "https://taz.de/Zusatzabgabe-Gruene-wollen-Millardaere-ein-bisschen-zur-Kasse-bitten/!6217325/",
-   "published": "2026-09-29T13:54:00+00:00",
-   "first_seen": "2026-09-29T17:04:58.155279+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Weltweite Stromherstellung: Sonnenenergie überholt erstmals Atomkraft",
-   "summary": "Weltweit sinkt der Anteil der Atomkraft am Strommix. Entgegen des globalen Trends setzt China weiter auf neue Reaktoren. mehr...",
-   "link": "https://taz.de/Weltweite-Stromherstellung/!6217328/",
-   "published": "2026-09-29T13:53:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-noch-karrierechancen-bieten/100235558.html",
-   "published": "2026-09-29T13:53:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": true
   }
  ]
