@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-02T09:06:09.376126+00:00",
+ "updated": "2026-10-02T10:04:22.553519+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Amazon investiert mehr als der deutsche Staat – wer kann diese Macht begrenzen?",
+   "summary": "Die Bilanzen der großen US-Tech-Konzerne übertreffen inzwischen die von Staaten. Eine Handelsblatt-Analyse zeigt die tiefe Machtverschiebung – und wirft eine entscheidende Frage auf.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-wenn-unternehmen-maechtiger-werden-als-staaten-01/100257965.html",
+   "published": "2026-10-02T09:08:00+00:00",
+   "first_seen": "2026-10-02T10:04:22.553519+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Geht Anthropic schon Mitte November an die Börse?",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/openai-dots-sam-altman-stellt-ki-assistenten-fuer-den-alltag-vor/100258113.html",
    "published": "2026-09-29T18:10:32+00:00",
    "first_seen": "2026-09-29T20:05:13.481397+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Dots: OpenAI stellt KI-Agenten für den Alltag vor",
-   "summary": "Der Facebook-Konzern Meta kam mit einem KI-Assistenten für den Alltag dem Vorreiter OpenAI zuvor. Doch nur um wenige Wochen - jetzt kontern die ChatGPT-Macher mit einem eigenen Angebot.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-dots-openai-stellt-ki-agenten-fuer-den-alltag-vor/100258430.html",
-   "published": "2026-09-29T17:55:10+00:00",
-   "first_seen": "2026-09-29T18:06:52.862116+00:00",
    "paywall": true
   }
  ]
