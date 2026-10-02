@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-02T06:05:40.013776+00:00",
+ "updated": "2026-10-02T07:06:49.414322+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Disrupt: Ikeas Chief Digital Officer: Wo Indien uns in Europa bei KI voraus ist",
+   "summary": "Parag Parekh steuert für Ikea die Digitalisierung in 30 Ländern. Er spricht über Indiens Aufstieg, lokale Experimente und globale Roll-Outs – und den Einfluss von KI auf seine Rolle.",
+   "link": "https://www.handelsblatt.com/audio/disrupt-podcast/disrupt-ikeas-chief-digital-officer-wo-indien-uns-in-europa-bei-ki-voraus-ist/100259172.html",
+   "published": "2026-10-02T07:03:53+00:00",
+   "first_seen": "2026-10-02T07:06:49.414322+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Tarifverhandlungen: Banker fordern Anspruch auf den Kauf zusätzlicher Urlaubstage",
+   "summary": "In den anstehenden Tarifverhandlungen fordern die Bankangestellten nicht nur KI‑Ausgleichstage. Auch bis zu zehn zusätzliche Urlaubstage sollen bei Gehaltsverzicht möglich sein.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/tarifverhandlungen-banker-fordern-anspruch-auf-den-kauf-zusaetzlicher-urlaubstage/100259206.html",
+   "published": "2026-10-02T06:09:02+00:00",
+   "first_seen": "2026-10-02T07:06:49.414322+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "OpenAI feuert nach KI-Enthüllungen mehrere Mitarbeiter",
@@ -136,6 +154,15 @@
    "published": "2026-10-01T16:40:46+00:00",
    "first_seen": "2026-10-01T17:07:03.650040+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
+   "summary": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David…",
+   "link": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
+   "published": "2026-10-01T16:17:17+00:00",
+   "first_seen": "2026-10-02T07:06:49.414322+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -874,33 +901,6 @@
    "published": "2026-09-29T16:59:59+00:00",
    "first_seen": "2026-09-29T18:06:52.862116+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Internet-Sprache: Trump sorgt für Boom bei slowenischen .si-Domains",
-   "summary": "Trumps Namens-Idee für KI löst einen Ansturm auf slowenische Domains aus. Warum plötzlich mehr als 200.000 Adressen gefragt sind – und was das für Marken bedeutet.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/internet-sprache-trump-sorgt-fuer-boom-bei-slowenischen-si-domains/100258415.html",
-   "published": "2026-09-29T16:13:36+00:00",
-   "first_seen": "2026-09-29T17:04:58.155279+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "„Propadanga“-Theater in Hannover: Trügerisch unterhaltsamer Generationenzwist",
-   "summary": "Nils Zapfes „Propadanga“ spielt dem Publikum nicht nur etwas über die Mechanismen von Desinformation und Demagogie vor – es erfährt sie am eigenen Leib. mehr...",
-   "link": "https://taz.de/Propadanga-Theater-in-Hannover/!6213827/",
-   "published": "2026-09-29T15:23:00+00:00",
-   "first_seen": "2026-09-29T16:06:20.899589+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "KI-Konzerne: Ablenken von der eigenen Verantwortung",
-   "summary": "Nach Sicherheitsvorfällen kündigt OpenAI an, ein neues ChatGPT-Modell doch nicht veröffentlichen zu wollen. Dabei geht es nicht nur um KI, sondern vor allem um Verantwortung.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/openai-ki-modell-chatgpt-analyse-100.html",
-   "published": "2026-09-29T14:38:00+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": false
   }
  ]
 }
