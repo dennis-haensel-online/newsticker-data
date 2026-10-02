@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-02T05:04:53.035502+00:00",
+ "updated": "2026-10-02T06:05:40.013776+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Ifo-Studie: Stimmung in Chemieindustrie steigt erneut – „Kunden stocken Lager auf“",
+   "summary": "Angesichts der weltweiten Unsicherheiten füllen viele Kunden der Chemieindustrie ihre Lager. Das sorgt für neue Aufträge und eine positive Grundstimmung in der Branche.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/chemieindustrie-stimmung-steigt-erneut-kunden-stocken-lager-auf/100259203.html",
+   "published": "2026-10-02T05:55:57+00:00",
+   "first_seen": "2026-10-02T06:05:40.013776+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Schafft der DAX die 25.000-Punkte-Marke?",
+   "summary": "Zum Wochenschluss nimmt der deutsche Leitindex wieder die Marke von 25.000 Punkten ins Visier. Der Verlauf des Handelstages dürfte dabei auch von wichtige Konjunkturdaten bestimmt werden.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
+   "published": "2026-10-02T05:10:48+00:00",
+   "first_seen": "2026-10-02T06:05:40.013776+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Börse am 2. Oktober: Sechs Punkte, die für Anleger heute wichtig sind",
@@ -881,24 +899,6 @@
    "summary": "Ölpreise, Inflationssorgen und Zinsen bestimmen das Geschehen am deutschen Aktienmarkt. Kurzfristig richten Anleger den Blick zunächst aber auf anstehende Konjunkturdaten.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-dreht-ins-plus-oelpreise-steigen/100258166.html",
    "published": "2026-09-29T09:37:11+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Start-ups: Zehn Einhörner 2026 – Deutschlands neue Wachstumshoffnung",
-   "summary": "Isar Aerospace, Helsing und Neura Robotics stehen für eine neue Generation deutscher Tech-Firmen. Eine Studie zeigt, was sich ändern muss, damit nicht nur einzelne Start-ups glänzen.",
-   "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-diese-zehn-einhoerner-sollen-deutschlands-aufschwung-antreiben/100251819.html",
-   "published": "2026-09-29T09:16:00+00:00",
-   "first_seen": "2026-09-29T10:05:25.666423+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Frankreichs Schulden: Ein Risiko für Europa",
-   "summary": "Längst hat Frankreichs Schuldenmisere auch eine europäische Dimension. Und nicht nur im EZB-Tower ist jedem bewusst: Wankt Frankreich, wankt die Eurozone.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreichs-schuldenmisere-ist-ein-risiko-fuer-die-eurozone-201269141.html",
-   "published": "2026-09-29T09:14:42+00:00",
    "first_seen": "2026-09-29T10:05:25.666423+00:00",
    "paywall": true
   }
