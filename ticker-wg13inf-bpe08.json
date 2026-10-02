@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-02T02:05:31.181671+00:00",
+ "updated": "2026-10-02T03:05:28.424267+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: Google fordert Nvidia mit eigenen Chips heraus",
+   "summary": "Der Suchkonzern verkauft seine KI-Halbleiter erstmals an externe Kunden. Anthropic und andere Firmen bestellen für Milliarden. Doch eine hohe Hürde bleibt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-google-fordert-nvidia-mit-eigenen-chips-heraus/100257134.html",
+   "published": "2026-10-02T02:08:15+00:00",
+   "first_seen": "2026-10-02T03:05:28.424267+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Amazon investiert mehr als der deutsche Staat – wer kann diese Macht begrenzen?",
@@ -890,15 +899,6 @@
    "summary": "Münchner Drohnenhersteller Helsing erzielt mit seinem unbemannten Kampfjet wohl Fortschritte. Es gibt aber auch Sicherheitsbedenken bezüglich des Einsatzes von KI im Verteidigungsrahmen.",
    "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-helsing-drohnenjet-schlaegt-im-simulator-echte-piloten/100258351.html",
    "published": "2026-09-29T13:39:12+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Siemens: Der Ex-Schwimmer, der Siemens zur Nummer zwei im KI-Simulationsmarkt machte",
-   "summary": "Cedrik Neike dreht Siemens auf links, um den Markt für physische Künstliche Intelligenz zu erobern. Der Plan geht auf – nur nicht in Deutschland.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/zehn-plus-fuenf-milliarden-dollar-siemens-teure-wette-auf-physische-ki/100257885.html",
-   "published": "2026-09-29T13:35:51+00:00",
    "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": true
   }
