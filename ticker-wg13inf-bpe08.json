@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-02T16:04:58.844266+00:00",
+ "updated": "2026-10-02T17:04:39.808349+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "\"Super-KI\": Die Frage ist nicht, ob, sondern wann sie kommt",
+   "summary": "Löscht uns eine Super-KI irgendwann aus? Fachleute sind sich uneins, doch dass die ungebremste Entwicklung von KI Risiken birgt, ist unumstritten, sagen Experten.",
+   "link": "https://www.zdfheute.de/wissen/super-ki-gefahr-risiko-ausloeschen-menschheit-100.html",
+   "published": "2026-10-02T16:43:00+00:00",
+   "first_seen": "2026-10-02T17:04:39.808349+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Today: Euro-Inflation auf Drei-Jahres-Hoch | Physische KI: Potenzielle Gewinner-Aktien",
@@ -9,6 +18,15 @@
    "link": "https://www.handelsblatt.com/audio/today/today-euro-inflation-auf-drei-jahres-hoch-physische-ki-potenzielle-gewinner-aktien/100259394.html",
    "published": "2026-10-02T15:51:05+00:00",
    "first_seen": "2026-10-02T16:04:58.844266+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Euro-Inflation auf Drei-Jahres-Hoch – Physische KI: Potenzielle Gewinner-Aktien",
+   "summary": "Die Inflation im Euro-Raum ist auf ihr höchstes Niveau seit drei Jahren gesprungen. Was heißt das für Zinsen und Anleiherenditen – und wie können Anlegerinnen und Anleger profitieren?",
+   "link": "https://www.handelsblatt.com/audio/today/today-euro-inflation-auf-drei-jahres-hoch/100259394.html",
+   "published": "2026-10-02T15:51:05+00:00",
+   "first_seen": "2026-10-02T17:04:39.808349+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-09-29T19:00:00+00:00",
    "first_seen": "2026-09-29T19:05:43.895938+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "KI außer Kontrolle",
-   "summary": "KI-Systeme, die außer Kontrolle geraten: Immer wieder sorgen neue sicherheitsrelevante Vorfälle für Schlagzeilen. Wie gefährlich ist die Lage – und was kann auch Europa tun, um sich zu schützen?",
-   "link": "https://www.zdfheute.de/video/frontal/ki-ausser-kontrolle-102.html",
-   "published": "2026-09-29T19:00:00+00:00",
-   "first_seen": "2026-09-29T20:05:13.481397+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt nach KI-Treffen leicht im Minus",
-   "summary": "Die Reparatur einer wichtigen Pipeline und mögliche Verhandlungen lassen den Ölpreis fallen. Doch die Stimmung bleibt gedrückt, während Trump und Tech-Chefs über KI-Risiken beraten.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-nach-ki-treffen-leicht-im-minus/100258245.html",
-   "published": "2026-09-29T18:58:21+00:00",
-   "first_seen": "2026-09-29T21:04:29.701739+00:00",
-   "paywall": true
   }
  ]
 }
