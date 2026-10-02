@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-10-02T10:04:22.553519+00:00",
+ "updated": "2026-10-02T11:04:42.001577+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -37,6 +37,15 @@
    "published": "2026-10-02T09:27:42+00:00",
    "first_seen": "2026-10-02T10:04:22.553519+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden",
+   "summary": "Der Bundesgerichtshof hatte eine Preiserhöhung von Amazon Prime für rechtswidrig erklärt. Der Konzern hat nun reagiert: Für langjährige Prime-Kunden gilt vorübergehend wieder der alte Preis. Betroffene können zudem Geld zurückfordern.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html",
+   "published": "2026-10-02T09:08:12+00:00",
+   "first_seen": "2026-10-02T11:04:42.001577+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -890,15 +899,6 @@
    "summary": "Der Impfstoffhersteller findet keine Käufer für die Werke Idar-Oberstein, Marburg und Tübingen. 1800 Beschäftigte verlieren ihre Jobs. Ein früherer Wettbewerber schimpft – auch auf sich selbst.",
    "link": "https://www.handelsblatt.com/unternehmen/industrie/biontech-drei-deutsche-standorte-schliessen-ihre-werke-01/100257969.html",
    "published": "2026-09-29T12:56:00+00:00",
-   "first_seen": "2026-09-29T13:07:49.824621+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Übernahmepoker: Wie es um Evonik steht",
-   "summary": "Der Vorstand weist die erste Offerte von BASF zurück. Eine gewichtige Rolle im Übernahmepoker spielt die RAG-Stiftung – was die wechselhafte Historie des Spezialchemiekonzerns unterstreicht.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/evonik-und-basf-was-hinter-dem-uebernahmepoker-steckt-201269012.html",
-   "published": "2026-09-29T12:47:39+00:00",
    "first_seen": "2026-09-29T13:07:49.824621+00:00",
    "paywall": true
   }
