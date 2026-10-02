@@ -1,6 +1,222 @@
 {
- "updated": "2026-10-02T13:06:59.258754+00:00",
+ "updated": "2026-10-02T14:06:18.589447+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Wohnungsmarkt: Was ist dran am Mieterparadies Wien?",
+   "summary": "Wien gilt als Paradies für Mieter und Vorbild für Metropolen von Berlin bis New York. Mittlerweile stößt das Erfolgskonzept aber auch an seine Grenzen.",
+   "link": "https://www.wiwo.de/finanzen/immobilien/mieten-was-kann-berlin-vom-mieterparadies-wien-lernen/100258920.html",
+   "published": "2026-10-02T13:57:08+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Tag der Deutschen Einheit: Mit Placebos gegen die fortgesetzte Teilung",
+   "summary": "Zum Einheitsfeiertag liefert die Ostbeauftragte Elisabeth Kaiser jede Menge Empathie und Statistiken. Das ist verdienstvoll, auch wenn Lücken bleiben. mehr...",
+   "link": "https://taz.de/Tag-der-Deutschen-Einheit/!6218470/",
+   "published": "2026-10-02T13:57:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Rückruf bei Skoda: Škoda ruft mehr als eine Million Fahrzeuge zurück",
+   "summary": "Wie zuvor bereits Volkswagen, Audi und Seat muss Škoda in großem Umfang Autos zurückrufen. Die Verschraubung der Lenkung muss ersetzt werden.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/skoda-rueckruf-lenkung-vw-audi-seat-kba",
+   "published": "2026-10-02T13:53:37+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Vor Burnham Antrittsbesuch: Exit vom Brexit? Bundesregierung offen für britische Überlegungen",
+   "summary": "Der britische Premierminister hatte zuletzt Andeutungen hinsichtlich eines Wiedereintritts in die EU gemacht. Die Bundesregierung gibt sich offen dafür.",
+   "link": "https://www.wiwo.de/politik/europa/vor-burnham-antrittsbesuch-exit-vom-brexit-bundesregierung-offen-fuer-britische-ueberlegungen/100259360.html",
+   "published": "2026-10-02T13:52:37+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Schwacher US-Arbeitsmarkt: Nur 29.000 neue Stellen im September",
+   "summary": "Altkanzler Schröder wird Aufsichtsrat bei russischer Globus +++ Bauhaus darf acht Standorte der insolventen Hellweg-Gruppe übernehmen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-schwacher-us-arbeitsmarkt-nur-29-000-neue-stellen-im-september-faz-200452404.html",
+   "published": "2026-10-02T13:48:59+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elektroautos: Tesla übertrifft Erwartungen mit Auslieferungen",
+   "summary": "Vor einem Jahr trieb die Torschlusspanik vor dem Auslaufen der US-Elektroautoprämie die Tesla-Auslieferungen nach oben. Das jüngste Quartal kann damit nicht mithalten - lief aber besser als erwartet.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/elektroautos-tesla-uebertrifft-erwartungen-mit-auslieferungen/100259367.html",
+   "published": "2026-10-02T13:46:06+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bert Rürup: Der Markt ist stärker als ein politisch verordneter Tankrabatt",
+   "summary": "Der Tankrabatt ist ein leeres politisches Versprechen: Für kurze Zeit gehen Benzinpreise an den Zapfsäulen zurück – doch die gesamtwirtschaftlichen Kosten sind hoch.",
+   "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/bert-ruerup-der-markt-ist-staerker-als-ein-politisch-verordneter-tankrabatt01/100258033.html",
+   "published": "2026-10-02T13:46:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Flug von Flydubai: Pilot äußert sich aus dem Krankenhaus",
+   "summary": "Er war verletzt und schaffte es doch, das Cockpit zu öffnen – und rettete so das Leben der Passagiere. Nun äußert sich der Pilot Machchhar zum Angriff. mehr...",
+   "link": "https://taz.de/Flug-von-Flydubai/!6218511/",
+   "published": "2026-10-02T13:45:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energiekrise: Erwogener US-Diesel-Exportstopp stößt in EU auf Ablehnung",
+   "summary": "Die USA sprechen wegen steigender Preise vor allem für Diesel über Maßnahmen, die Europa aufhorchen lassen. Aus der EU-Kommission in Brüssel gibt es klare Worte.",
+   "link": "https://www.handelsblatt.com/politik/international/energiekrise-erwogener-us-diesel-exportstopp-stoesst-in-eu-auf-ablehnung/100259363.html",
+   "published": "2026-10-02T13:43:52+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KBA-Infos: VW-Tochter Skoda ruft mehr als eine Million Fahrzeuge zurück",
+   "summary": "Vor wenigen Tagen wurde bekannt, dass eine fehlerhafte Schraube bei mehreren Modellen aus dem VW-Konzern zum Ausfall der Lenkung führen kann. Jetzt zieht eine weitere Tochter bei den Rückrufen nach.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/kba-infos-vw-tochter-skoda-ruft-mehr-als-eine-million-fahrzeuge-zurueck/100259366.html",
+   "published": "2026-10-02T13:38:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Brasilien: Knappes Rennen bei Präsidentschaftswahl erwartet",
+   "summary": "Am Sonntag finden in Brasilien Präsidentenwahlen statt. Zwischen Präsident Lula und dem Sohn des ehemaligen Präsidenten Bolsonaro wird es vermutlich zu einer Stichwahl kommen. In den Umfragen liegt Lula bisher knapp vor seinem…",
+   "link": "https://www.handelsblatt.com/video/politik/brasilien-knappes-rennen-bei-praesidentschaftswahl-erwartet/100259359.html",
+   "published": "2026-10-02T13:37:05+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Frankreich: 400 Schulen geschlossen: Zahlreiche Festnahmen bei gewalttätigen Schülerprotesten",
+   "summary": "Der französische Justizminister Gérald Darmanin sagte am Freitag, die Proteste hätten sich zu einem Problem für die öffentliche Ordnung entwickelt. Seit Tagen gehen landesweit Schüler wegen des Lehrermangels und maroder Schulgebäude auf…",
+   "link": "https://www.handelsblatt.com/video/politik/frankreich-400-schulen-geschlossen-zahlreiche-festnahmen-bei-gewalttaetigen-schuelerprotesten/100259358.html",
+   "published": "2026-10-02T13:36:54+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energiekrise: Erwogener US-Diesel-Exportstopp stößt in EU auf Ablehnung",
+   "summary": "Die USA sprechen wegen steigender Preise vor allem für Diesel über Maßnahmen, die Europa aufhorchen lassen. Aus der EU-Kommission in Brüssel gibt es klare Worte.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/energiekrise-erwogener-us-diesel-exportstopp-stoesst-in-eu-auf-ablehnung/100259365.html",
+   "published": "2026-10-02T13:36:50+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "USA fordern Freigabe von Dieselreserven, G7 beraten",
+   "summary": "Die USA drohen angesichts anhaltend hoher Preise mit einem Diesel-Exportstopp und fordern die Freigabe europäischer Reserven. Am Freitag beraten die G7-Spitzen über die Situation.",
+   "link": "https://www.zdfheute.de/politik/diesel-reserven-europa-freigabe-g7-beratungen-100.html",
+   "published": "2026-10-02T13:33:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Naomi Klein und Astra Taylor: »Aus der Apokalypse wird für einige wenige ein Paradies erschaffen«",
+   "summary": "Naomi Klein und Astra Taylor warnen in ihrem neuen Buch vor einem Endzeitfaschismus. Fanatiker, Nationalisten und Techmilliardäre eine der Glaube an ihre Überlegenheit.",
+   "link": "https://www.zeit.de/wirtschaft/2026-09/naomi-klein-astra-taylor-globalisierung-weltuntergang-endzeitfaschismus",
+   "published": "2026-10-02T13:32:02+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energie: Insolvente Solarparkentwickler Enerparc peilt Teilverkauf bis Dezember an",
+   "summary": "Der insolvente Solarparkentwickler Enerparc ist vorerst stabilisiert. Eine erste Verkaufslösung soll bis Weihnachten stehen – doch Entwarnung für die Gruppe gibt es noch nicht.",
+   "link": "https://www.handelsblatt.com/unternehmen/energie/energie-insolvente-enerparc-ag-teilverkauf-bis-dezember-angepeilt/100259243.html",
+   "published": "2026-10-02T13:31:29+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Evonik: Fusion mit BASF? Belegschaft fürchtet um bis zu 4000 Stellen",
+   "summary": "Arbeitnehmervertreter rechnen mit Einschnitten vor allem an Evonik-Standorten in NRW. In der Chemiegewerkschaft rumort es heftig wegen der Übernahmepläne von BASF – der Vorstoß wird zum Wahlkampfthema.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/evonik-fusion-mit-basf-belegschaft-fuerchtet-um-bis-zu-4000-stellen/100259084.html",
+   "published": "2026-10-02T13:29:51+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Scheinwerfer an: Mit Hauswand-Trick alle Auto-Lichter selbst checken",
+   "summary": "Autoscheinwerfer sorgen in der dunklen Jahreszeit für Durchblick und Sichtbarkeit. Während die Einstellung Werkstattsache ist, kann man selbst simpel überprüfen, ob alle Lampen funktionieren.",
+   "link": "https://www.handelsblatt.com/mobilitaet/motor/scheinwerfer-an-mit-hauswand-trick-alle-auto-lichter-selbst-checken/100259361.html",
+   "published": "2026-10-02T13:29:22+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "US-Konjunktur: US-Jobmarkt schwächelt – nur 29.000 neue Stellen im September",
+   "summary": "Der US-Arbeitsmarkt gerät zunehmend unter Druck. Die Arbeitslosenquote stieg im September auf 4,2 Prozent.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-der-jobmarkt-in-den-usa-schwaechelt/100259348.html",
+   "published": "2026-10-02T13:23:58+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Linke Wirtschaftspolitik: Isabella Weber fordert Staat im Dienst der Bürger",
+   "summary": "Die in den USA lehrende deutsche Ökonomin Isabella Weber glaubt zu wissen, wie man Rechtspopulisten aufhält. Sie will den Staat rigoros um die Bedürfnisse der Menschen herum organisieren.",
+   "link": "https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss",
+   "published": "2026-10-02T13:23:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsagenturen: Bundesagentur für Arbeit meldet technische Störung",
+   "summary": "Die Bundesagentur wickelt einen großen Teil ihrer Kommunikation mit ihren Kunden online ab. Ein technisches Problem stört aber gerade die Online-Dienste.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsagenturen-bundesagentur-fuer-arbeit-meldet-technische-stoerung/100259354.html",
+   "published": "2026-10-02T13:11:39+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Dieselreserven: Trump droht, die EU reagiert – dabei gibt es keinen Engpass",
+   "summary": "Die amerikanische Regierung verlangt von Deutschland und Frankreich, die Dieselreserven freizugeben und droht mit einem Exportstopp. Hinter den Kulissen gibt es jetzt Bewegung.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-dieselreserven-wie-europa-auf-trumps-drohung-reagiert-201282945.html",
+   "published": "2026-10-02T13:03:18+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Demonstrationen: Wieso Frankreichs Schulproteste eskalieren",
+   "summary": "Herbstzeit ist in Frankreich oft Protestzeit. Doch die aktuellen Demonstrationen an den Gymnasien sind besonders heftig, es kommt zu Gewalt und Festnahmen. Was bewegt Schüler und Studierende so?",
+   "link": "https://www.handelsblatt.com/politik/international/demonstrationen-wieso-frankreichs-schulproteste-eskalieren/100259349.html",
+   "published": "2026-10-02T13:03:01+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Drohnenshow für 25 Jahre \"König der Löwen\"",
+   "summary": "Mit einer Lichtshow aus 750 Drohnen feierte Disneys Musical \"Der König der Löwen\" sein 25-jähriges Bestehen in Hamburg. Bekannte Motive erstrahlten am Nachthimmel über dem Wasser.",
+   "link": "https://www.zdfheute.de/video/hallo-deutschland/drohnenshow-hamburg-musical-100.html",
+   "published": "2026-10-02T13:02:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": false
+  },
   {
    "label": "taz",
    "title": "Regierungskrise wegen Zucker: Es geht nicht wirklich um Gesundheit",
@@ -107,6 +323,15 @@
    "link": "https://taz.de/Brennende-Barrikaden-in-Frankreich/!6218479/",
    "published": "2026-10-02T12:40:00+00:00",
    "first_seen": "2026-10-02T13:06:59.258754+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "DGB nennt Beitragserhöhung für Kinderlose diskriminierend",
+   "summary": "Kinderlose sollen nach dem Willen der Bundesregierung künftig mehr zahlen für die Pflegeversicherung. Der Deutsche Gewerkschaftsbund kritisiert die Pläne als diskriminierend.",
+   "link": "https://www.zdfheute.de/politik/pflege-pflegereform-dgb-kritik-linnemann-kinderlose-100.html",
+   "published": "2026-10-02T12:39:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
    "paywall": false
   },
   {
@@ -1757,6 +1982,15 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "ISS-Crew erreicht Raumstation in Rekordzeit",
+   "summary": "Die neue Crew hat die ISS-Raumstation nach sieben Stunden und 55 Minuten Flug erreicht – ein Rekord. Möglich wurde das durch eine günstige Position der Station.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/iss-raumstation-flug-rekordzeit-video-100.html",
+   "published": "2026-10-02T06:00:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": false
+  },
+  {
    "label": "SPIEGEL",
    "title": "OpenAI feuert nach KI-Enthüllungen mehrere Mitarbeiter",
    "summary": "Die möglichen Gefahren durch KI sind riesig. Nun hat der ChatGPT-Anbieter OpenAI drei Mitarbeiter entlassen. Ihnen wird vorgeworfen, Interna geteilt zu haben.",
@@ -1799,6 +2033,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-studie-polen-fuehrt-uebergewinnsteuer-fuer-mineraloelkonzerne-ein-faz-200452404.html",
    "published": "2026-10-02T05:51:36+00:00",
    "first_seen": "2026-10-02T06:05:40.013776+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Exportstopp angedroht: USA fordern Deutschland zur Freigabe von Dieselreserven auf",
+   "summary": "US-Präsident Trump will die hohen Preise für Kraftstoffe vor den Zwischenwahlen senken. Die EU-Kommission ist alarmiert – und will am Freitag über die Lage beraten.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/usa-drohen-deutschland-mit-exportstopp-zur-freigabe-von-dieselreserven-201281232.html",
+   "published": "2026-10-02T05:42:17+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
    "paywall": true
   },
   {
@@ -6182,6 +6425,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/revolut-stellt-die-am-schnellsten-wachsende-deutsche-bank-in-den-schatten-201276135.html",
    "published": "2026-10-01T05:40:34+00:00",
    "first_seen": "2026-10-01T06:08:12.796424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Großer Wettbewerb: Revolut stellt die am schnellsten wachsende deutsche Bank in den Schatten",
+   "summary": "Mit Revolut ist die am schnellsten wachsende Bank Europas nun auch in Deutschland immer aktiver. Für Kunden könnte es kaum besser laufen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-revolut-deutsche-banken-in-den-schatten-stellt-201276135.html",
+   "published": "2026-10-01T05:40:34+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
    "paywall": true
   },
   {
@@ -13246,258 +13498,6 @@
    "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
    "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-noch-karrierechancen-bieten/100235558.html",
    "published": "2026-09-29T13:53:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als durchaus hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/karriere-wie-veraendert-ki-den-bewerbungsprozess-fuer-jobsuchende-01/100248546.html",
-   "published": "2026-09-29T13:52:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Manipulationsskandal in der Türkei: Wenn die Börse zur Parteikasse wird",
-   "summary": "Ein Fondsskandal erschüttert die Türkei. Kleinanleger bangen um ihr Geld, während im AKP-Umfeld hohe Gewinne gemacht werden. Wer steckt mit drin? mehr...",
-   "link": "https://taz.de/Manipulationsskandal-in-der-Tuerkei/!6217387/",
-   "published": "2026-09-29T13:51:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuern: Wie Sie Ihre Erbschaft anzeigen müssen und wann Strafen drohen",
-   "summary": "Schon um die Frage, wann man eine Erbschaftsteuererklärung erstellen muss, gibt es viel Unsicherheit. Komplex kann es mit Immobilien werden. Diese zehn Fehler sollten Sie vermeiden.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/finanzamt-welche-regeln-sollten-sie-bei-der-erbschaftsteuererklaerung-beachten-01/100233322.html",
-   "published": "2026-09-29T13:51:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street vor Jobdaten und KI-Treffen kaum verändert",
-   "summary": "Die Reparatur einer wichtigen Pipeline und mögliche Verhandlungen lassen den Ölpreis fallen. Die Aktienkurse dagegen stagnieren nahezu, während Trump und Tech-Chefs über KI-Risiken beraten.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-vor-jobdaten-und-ki-treffen-kaum-veraendert/100258245.html",
-   "published": "2026-09-29T13:50:58+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "EU-Außengrenzen: Brunner will Außengrenzen schärfer kontrollieren",
-   "summary": "EU-Migrationskommissar Brunner stellte einen neuen Plan für die EU-Außengrenzen vor. Vor allem die EU-Grenzschutzagentur Frontex soll wohl aufgerüstet werden.",
-   "link": "https://www.handelsblatt.com/politik/international/eu-aussengrenzen-brunner-will-aussengrenzen-schaerfer-kontrollieren/100258357.html",
-   "published": "2026-09-29T13:50:34+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: So bleiben Familienheim und Gartengrundstück von der Erbschaftsteuer verschont",
-   "summary": "Aus dem Handelsblatt-Archiv: Wer ins geerbte Familienheim einzieht, zahlt keine Erbschaftsteuer. Diese Begünstigung legt der BFH großzügig aus und bezieht auch einen weitläufigen Garten mit ein – unter einer Bedingung.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/immobilien-wie-bleibt-der-garten-zum-haus-von-der-erbschaftsteuer-verschont-01/100247122.html",
-   "published": "2026-09-29T13:50:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Depot vererben – so machen Sie es Ihren Kindern einfach",
-   "summary": "Wer ein Depot vererben möchte, sollte einige Vorkehrungen treffen. Ansonsten kann es für die Erben nicht nur mühsam, sondern auch teuer werden.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-so-vererben-sie-ihr-depot-unkompliziert-an-ihre-kinder/100252853.html",
-   "published": "2026-09-29T13:49:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuern: Steuerfalle Wiesn – Chef-Runden im Bierzelt können teuer werden",
-   "summary": "Wenn Mitarbeiter auf Firmenkosten feiern, zählt das als geldwerter Vorteil. Der Fiskus gewährt hier einen Rabatt. Der gilt seit 2026 aber nicht mehr, wenn Führungskräfte allein feiern.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-der-oktoberfestbesuch-auf-firmenkosten-kann-teuer-werden-01/100253561.html",
-   "published": "2026-09-29T13:48:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mieten: Spaniens Kabinett verbietet Fonds bis 2028 den Immobilienkauf",
-   "summary": "Die Regierung reagiert auf die landesweiten Proteste gegen die Zwangsräumung der Wohnung einer 87‑Jährigen. Der Fall zeigt, wie angespannt die Lage auf dem spanischen Immobilienmarkt ist.",
-   "link": "https://www.handelsblatt.com/politik/international/mieten-spaniens-kabinett-verbietet-fonds-bis-2028-den-immobilienkauf/100257964.html",
-   "published": "2026-09-29T13:47:02+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "\"Rente mit 63\": Warum die Frührente bei allen so beliebt ist und bei Experten verhasst",
-   "summary": "Früher in Rente, und zwar ohne Abschläge: Kaum eine Regelung ist so beliebt wie die sogenannte Rente mit 63. Doch Ökonomen halten sie für teuer und ungerecht. Mit diesen Grafiken können Sie sich ein eigenes Bild machen.",
-   "link": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehrente-bei-allen-so-beliebt-ist-und-bei-experten-verhasst-a-c0e2a17e-ce20-454f-8435-cd89706611ca#ref=rss",
-   "published": "2026-09-29T13:47:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Branchenumfrage: Was passiert, sollte die Regierung Minijobs abschaffen?",
-   "summary": "Reinigungsfirmen beschäftigen viele Menschen im Minijob. Fiele diese Erwerbsform weg, wie es die Koalition erwägt, träfe es deren Branche besonders stark. Näheres zeigt eine Erhebung ihres Branchenverbands.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/was-passiert-sollte-die-regierung-minijobs-abschaffen-201272623.html",
-   "published": "2026-09-29T13:46:17+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Mehrjähriger Finanzrahmen der EU: Die Nettozahler verlangen Kürzungen des EU-Budgets",
-   "summary": "Die sogenannten „sparsamen“ Länder Europas warnen in einem Brief vor der Überforderung der Zahlungsbereitschaft – und verlangen neue Prioritäten für den EU-Haushalt.",
-   "link": "https://www.wiwo.de/politik/europa/eu-haushalt-wieso-die-nettozahler-kuerzungen-des-eu-budgets-verlangen/100258346.html",
-   "published": "2026-09-29T13:45:29+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Krankenversicherung: Die beste private Krankenversicherung für Beamte",
-   "summary": "Der Staat übernimmt für Beamte einen Großteil der Krankheitskosten. Für den Rest schließen sie in der Regel eine private Krankenversicherung ab. Die WiWo kürt die besten Policen.",
-   "link": "https://www.wiwo.de/finanzen/vorsorge/krankenversicherung-die-beste-private-krankenversicherung-fuer-beamte/100257984.html",
-   "published": "2026-09-29T13:45:14+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Krankenversicherung: Die beste private Krankenversicherung für Beamte",
-   "summary": "Der Staat übernimmt für Beamte einen Großteil der Krankheitskosten. Für den Rest schließen sie in der Regel eine private Krankenversicherung ab. Die WiWo kürt die besten Policen.",
-   "link": "https://www.wiwo.de/finanzen/vorsorge/ranking-2026-das-ist-die-beste-private-krankenversicherung-fuer-beamte/100257984.html",
-   "published": "2026-09-29T13:45:14+00:00",
-   "first_seen": "2026-09-29T15:07:49.145681+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuer: Finanzamt fordert Steuer – obwohl der Erbe leer ausgeht",
-   "summary": "Selbst wenn ein Erbe erst spät von seinem Anspruch erfährt und leer ausgeht, fällt Erbschaftsteuer an. Der Bundesfinanzhof klärte, wieso das so ist – und welche Ausnahmen es gibt.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/finanzamt-in-welchen-faellen-erbschaftsteuer-anfaellt-obwohl-erben-leer-ausgehen-01/100246436.html",
-   "published": "2026-09-29T13:45:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "MG4 Urban im Test: Was der chinesische Golf-Gegner zum Kampfpreis kann – und was nicht",
-   "summary": "Mit dem MG4 Urban tritt die chinesische Marke gegen den VW Golf an. Das Modell hat nicht nur überraschend viel Platz, sondern auch einen Preis, der manchen in Wolfsburg schockieren dürfte.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mg4-urban-wie-schlaegt-sich-der-vw-golf-konkurrent-im-test-01/100253119.html",
-   "published": "2026-09-29T13:44:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie: BASF treibt Evonik-Übernahme weiter und hat noch einen Trumpf",
-   "summary": "Der Chemiekonzern steckt nach der ersten Absage aus Essen nicht zurück. BASF folgt einem Zeitplan bis 2028 und knüpft eine höhere Offerte an Bedingungen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-basf-treibt-evonik-uebernahme-weiter-und-hat-noch-einen-trumpf/100257955.html",
-   "published": "2026-09-29T13:43:28+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Oldtimer: Diese fünf Klassiker gelten als Spritwunder",
-   "summary": "Um an der Tankstelle Geld zu sparen, braucht man nicht unbedingt einen Neuwagen. Es gibt auch coole Old- und Youngtimer, die sparsam sind. Wir stellen sechs Kandidaten vor.",
-   "link": "https://www.handelsblatt.com/mobilitaet/oldtimer/autos-mit-diesen-sechs-klassikern-sparen-sie-an-der-zapfsaeule-01/100256762.html",
-   "published": "2026-09-29T13:41:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/berufe-in-welchen-branchen-sind-ki-kompetenzen-besonders-gefragt-01/100251207.html",
-   "published": "2026-09-29T13:41:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rüstung: Helsing-Drohnenjet schlägt im Simulator echte Piloten",
-   "summary": "Münchner Drohnenhersteller Helsing erzielt mit seinem unbemannten Kampfjet wohl Fortschritte. Es gibt aber auch Sicherheitsbedenken bezüglich des Einsatzes von KI im Verteidigungsrahmen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-helsing-drohnenjet-schlaegt-im-simulator-echte-piloten/100258351.html",
-   "published": "2026-09-29T13:39:12+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Balea: Von der belächelten Eigenmarke zur Benchmark für die Branche",
-   "summary": "Einst als Billigprodukt verschrien, wächst Balea schneller als viele Herstellermarken. Wie hat die Drogeriekette dm das geschafft? Die Erfolgsfaktoren – und die Gefahren.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/dm-wie-viel-einfluss-hat-die-haendlermacht-auf-baleas-erfolg-01/100247806.html",
-   "published": "2026-09-29T13:39:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aussteiger: „Nackt kündigen“: Junge Chinesen entfliehen dem hohen Druck im Job",
-   "summary": "Chinas Aufstiegsversprechen bröckelt. Vor allem in der jungen Generation schwindet die Bereitschaft, sich aufzureiben. Das Handelsblatt hat junge Aussteiger besucht. Ihre Motive überraschen.",
-   "link": "https://www.handelsblatt.com/politik/international/arbeitsmarkt-warum-macht-das-aufstiegsversprechen-junge-chinesen-misstrauisch-01/100240142.html",
-   "published": "2026-09-29T13:38:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kündigung: „Ich langweile mich zu Tode in meinem Job“ – Die Gefahr der inneren Kündigung",
-   "summary": "Aus Angst, nichts Neues zu finden, verharren viele bei ihrem Arbeitgeber, obwohl sie unzufrieden sind. Im schlimmsten Fall kündigen sie innerlich. Experten zeigen Auswege auf.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-was-haelt-mitarbeiter-trotz-unzufriedenheit-vom-jobwechsel-ab-01/100244699.html",
-   "published": "2026-09-29T13:37:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Siemens: Der Ex-Schwimmer, der Siemens zur Nummer zwei im KI-Simulationsmarkt machte",
-   "summary": "Cedrik Neike dreht Siemens auf links, um den Markt für physische Künstliche Intelligenz zu erobern. Der Plan geht auf – nur nicht in Deutschland.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/zehn-plus-fuenf-milliarden-dollar-siemens-teure-wette-auf-physische-ki/100257885.html",
-   "published": "2026-09-29T13:35:51+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "EU-Asylrecht: Wie die EU Asylverfahren im Krisenfall aussetzen könnte",
-   "summary": "Nach den Vorfällen in Ceuta planen EU-Innenminister eine Notfall-Verordnung für Migrationskrisen. Vorbild ist Polen, das Asylverfahren für Menschen aus Belarus bereits ausgesetzt hat.",
-   "link": "https://www.handelsblatt.com/politik/international/eu-asylrecht-wie-die-eu-asylverfahren-im-krisenfall-aussetzen-koennte/100258273.html",
-   "published": "2026-09-29T13:34:47+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chatbot: Diese KI-Kenntnisse retten Ihren Job",
-   "summary": "KI verändert die Arbeitswelt rasant. Und damit wächst der Druck auf Beschäftigte. Unser interaktives Tool zeigt, wo Sie stehen – und was Experten zur richtigen Weiterbildung raten.",
-   "link": "https://www.handelsblatt.com/karriere/technologie-so-testen-sie-mit-dem-chatbot-ihre-ki-kompetenz-im-beruf-01/100249593.html",
-   "published": "2026-09-29T13:34:00+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Fall Maricarmen: Nach Seniorin-Rauswurf: Maßnahmen gegen Wohnkrise in Spanien",
-   "summary": "Nach der Zwangsräumung einer 87-Jährigen geht eine Welle der Empörung und des Protests durch Spanien. Madrid reagiert schnell. Es gibt auch eine gute Nachricht für die rausgeworfene Rentnerin.",
-   "link": "https://www.handelsblatt.com/politik/international/fall-maricarmen-nach-seniorin-rauswurf-massnahmen-gegen-wohnkrise-in-spanien/100258136.html",
-   "published": "2026-09-29T13:32:23+00:00",
-   "first_seen": "2026-09-29T14:06:47.182797+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Teurer Nahost-Konflikt: Premiumkunden lindern die Nöte der Lufthansa",
-   "summary": "Die Treibstoffrechnung der Lufthansa steigt noch höher als ohnehin befürchtet. An seinen Zielen ändert der Konzern dennoch nichts. Denn es gibt eine Entwicklung, die ihm hilft.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/teurer-nahost-konflikt-premiumkunden-lindern-die-noete-der-lufthansa-201271654.html",
-   "published": "2026-09-29T13:31:06+00:00",
    "first_seen": "2026-09-29T14:06:47.182797+00:00",
    "paywall": true
   }

@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-10-02T13:06:59.258754+00:00",
+ "updated": "2026-10-02T14:06:18.589447+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Evonik: Fusion mit BASF? Belegschaft fürchtet um bis zu 4000 Stellen",
+   "summary": "Arbeitnehmervertreter rechnen mit Einschnitten vor allem an Evonik-Standorten in NRW. In der Chemiegewerkschaft rumort es heftig wegen der Übernahmepläne von BASF – der Vorstoß wird zum Wahlkampfthema.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/evonik-fusion-mit-basf-belegschaft-fuerchtet-um-bis-zu-4000-stellen/100259084.html",
+   "published": "2026-10-02T13:29:51+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Übernahme: JD.com kann auf grünes Licht der EU für Ceconomy setzen",
@@ -360,6 +369,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/revolut-stellt-die-am-schnellsten-wachsende-deutsche-bank-in-den-schatten-201276135.html",
    "published": "2026-10-01T05:40:34+00:00",
    "first_seen": "2026-10-01T06:08:12.796424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Großer Wettbewerb: Revolut stellt die am schnellsten wachsende deutsche Bank in den Schatten",
+   "summary": "Mit Revolut ist die am schnellsten wachsende Bank Europas nun auch in Deutschland immer aktiver. Für Kunden könnte es kaum besser laufen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-revolut-deutsche-banken-in-den-schatten-stellt-201276135.html",
+   "published": "2026-10-01T05:40:34+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
    "paywall": true
   },
   {
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-inflations-und-kriegssorgen-belasten-anleihemaerkte/100258509.html",
    "published": "2026-09-30T03:18:58+00:00",
    "first_seen": "2026-09-30T04:05:18.176780+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Keine allzu hoffnungsvollen Lösungen für Großstädte\"",
-   "summary": "Nicht nur in Spanien ist Wohnen ein Problem. Auch hierzulande sind Mieter verzweifelt. Mietendeckel, Enteignung, Airbnb-Verbot - was hilft gegen hohe Mieten und zu wenig Wohnraum?",
-   "link": "https://www.zdfheute.de/politik/deutschland/wohnen-enteignung-wohnungsnot-deutschland-spanien-massnahme-experte-100.html",
-   "published": "2026-09-29T18:44:00+00:00",
-   "first_seen": "2026-09-29T19:05:43.895938+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Inflation: Rekord-Spritpreise könnten Inflation über 3 Prozent treiben",
-   "summary": "Der anhaltende Iran-Krieg sorgt für hohe Spritpreise. Das treibt die Inflation, die Verbraucher auch an der Supermarktkasse immer stärker zu spüren bekommen. Wird der Tankrabatt helfen?",
-   "link": "https://www.wiwo.de/politik/konjunktur/inflation-rekord-spritpreise-koennten-inflation-ueber-3-prozent-treiben/100258413.html",
-   "published": "2026-09-29T16:30:37+00:00",
-   "first_seen": "2026-09-29T17:04:58.155279+00:00",
    "paywall": true
   }
  ]

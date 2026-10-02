@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-02T13:06:59.258754+00:00",
+ "updated": "2026-10-02T14:06:18.589447+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Schwacher US-Arbeitsmarkt: Nur 29.000 neue Stellen im September",
+   "summary": "Altkanzler Schröder wird Aufsichtsrat bei russischer Globus +++ Bauhaus darf acht Standorte der insolventen Hellweg-Gruppe übernehmen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-schwacher-us-arbeitsmarkt-nur-29-000-neue-stellen-im-september-faz-200452404.html",
+   "published": "2026-10-02T13:48:59+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "US-Konjunktur: US-Jobmarkt schwächelt – nur 29.000 neue Stellen im September",
+   "summary": "Der US-Arbeitsmarkt gerät zunehmend unter Druck. Die Arbeitslosenquote stieg im September auf 4,2 Prozent.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-der-jobmarkt-in-den-usa-schwaechelt/100259348.html",
+   "published": "2026-10-02T13:23:58+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Linke Wirtschaftspolitik: Isabella Weber fordert Staat im Dienst der Bürger",
+   "summary": "Die in den USA lehrende deutsche Ökonomin Isabella Weber glaubt zu wissen, wie man Rechtspopulisten aufhält. Sie will den Staat rigoros um die Bedürfnisse der Menschen herum organisieren.",
+   "link": "https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss",
+   "published": "2026-10-02T13:23:00+00:00",
+   "first_seen": "2026-10-02T14:06:18.589447+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Konjunktur: US-Arbeitsmarkt schwächt sich im September überraschend stark ab – weniger als 30.000 neue Stellen",
@@ -874,33 +901,6 @@
    "published": "2026-09-30T04:49:22+00:00",
    "first_seen": "2026-09-30T05:05:31.744732+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Außenhandel: China droht EU mit Gegenmaßnahmen im Handelsstreit",
-   "summary": "Peking und Brüssel streiten sich schon länger über das beiderseitige Handelsverhältnis. Gerüchte über neue EU-Maßnahmen veranlassen China nun, die EU vor weiteren Schritten zu warnen.",
-   "link": "https://www.handelsblatt.com/politik/international/handelsstreit-china-droht-eu-mit-gegenmassnahmen/100258522.html",
-   "published": "2026-09-30T04:43:56+00:00",
-   "first_seen": "2026-09-30T05:05:31.744732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bald im Livestream: Haben wir Deutschlands Krise falsch erklärt?",
-   "summary": "Über diese Frage streiten Chefredakteur Sebastian Matthes und Wirtschaftsweise Monika Schnitzer am 30. September ab 17.30 Uhr im Livestream. Stellen Sie den beiden Ihre Fragen.",
-   "link": "https://www.handelsblatt.com/journalismus_live/sebastian-matthes-und-monika-schnitzer-live-haben-wir-die-krise-falsch-erklaert/100253855.html",
-   "published": "2026-09-30T04:00:00+00:00",
-   "first_seen": "2026-09-18T11:03:59.278781+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "US-Verbrauchervertrauen sinkt auf tiefsten Stand seit 2014",
-   "summary": "Kurz vor den Zwischenwahlen in den USA sinkt das Vertrauen der Verbraucher deutlich - auf den tiefsten Stand seit 2014. Gründe für die schlechte Stimmung sind steigende Preise und die Lage auf dem Arbeitsmarkt. Von A. Schneider.",
-   "link": "https://www.tagesschau.de/wirtschaft/usa-verbrauchervertrauen-einbruch-100.html",
-   "published": "2026-09-30T03:35:20+00:00",
-   "first_seen": "2026-09-30T04:05:18.176780+00:00",
-   "paywall": false
   }
  ]
 }
