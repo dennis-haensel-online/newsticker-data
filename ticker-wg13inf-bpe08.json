@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-03T08:04:31.788907+00:00",
+ "updated": "2026-10-03T09:06:35.814981+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -768,6 +768,15 @@
    "paywall": true
   },
   {
+   "label": "tagesschau",
+   "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+   "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
+   "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+   "published": "2026-09-30T07:59:56+00:00",
+   "first_seen": "2026-10-03T09:06:35.814981+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Rüstung: Helsing-Drohnenjet schlägt im Simulator echte Piloten",
    "summary": "Münchner Drohnenhersteller Helsing erzielt mit seinem unbemannten Kampfjet wohl Fortschritte. Es gibt aber auch Sicherheitsbedenken bezüglich des Einsatzes von KI im Verteidigungsrahmen.",
@@ -874,15 +883,6 @@
    "published": "2026-09-30T02:25:00+00:00",
    "first_seen": "2026-09-30T03:04:37.166073+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsrecht: Unzulässig überwacht: Kann ich trotzdem gekündigt werden?",
-   "summary": "„Datenschutz ist kein Tatenschutz“: Unter welchen Bedingungen Gerichte unzulässig erlangte Erkenntnisse doch verwerten können.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsrecht-unzulaessig-ueberwacht-kann-ich-trotzdem-gekuendigt-werden/100258478.html",
-   "published": "2026-09-30T01:58:04+00:00",
-   "first_seen": "2026-09-30T03:04:37.166073+00:00",
-   "paywall": true
   }
  ]
 }
