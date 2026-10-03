@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-03T07:10:36.577357+00:00",
+ "updated": "2026-10-03T08:04:31.788907+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Aleph Alpha: „Souveräne KI made in Germany“",
+   "summary": "Die deutsche KI-Firma Aleph Alpha präsentiert ein Sprachmodell für Verwaltung und Industrie. Und will zeigen: In Deutschland gibt es Expertise für KI-Modelle.",
+   "link": "https://www.wiwo.de/unternehmen/it/aleph-alpha-kolibri-neues-ki-sprachmodell-fuer-verwaltung/100259469.html",
+   "published": "2026-10-03T07:42:34+00:00",
+   "first_seen": "2026-10-03T08:04:31.788907+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "xAI von Elon Musk: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot",
+   "summary": "xAI klagt gegen Minnesotas Verbot von KI-Nacktbildern und bekommt vorläufig Recht. Der Streit berührt die Meinungsfreiheit.",
+   "link": "https://www.wiwo.de/politik/ausland/xai-von-elon-musk-us-gericht-stoppt-vorlaeufig-ki-nacktbild-verbot/100259466.html",
+   "published": "2026-10-03T07:21:54+00:00",
+   "first_seen": "2026-10-03T08:04:31.788907+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Historiker übers Bahnfahren: „Am liebsten spricht man über das, was einen stört“",
@@ -864,42 +882,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsrecht-unzulaessig-ueberwacht-kann-ich-trotzdem-gekuendigt-werden/100258478.html",
    "published": "2026-09-30T01:58:04+00:00",
    "first_seen": "2026-09-30T03:04:37.166073+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
-   "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258460.html",
-   "published": "2026-09-29T23:37:08+00:00",
-   "first_seen": "2026-09-30T00:05:56.175262+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-   "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
-   "published": "2026-09-29T23:02:24+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Sam Altmans Antwort auf Metas Vorstoß: OpenAI stellt neuen KI-Assistenten für den Alltag vor",
-   "summary": "Der ChatGPT-Entwickler tritt in den wachsenden Markt für digitale Assistenten ein. „Dots“ soll auf Befehl Computer bedienen. Zugleich soll es ein neues Abo geben – teurer als je zuvor.",
-   "link": "https://www.handelsblatt.com/technik/ki/openai-konferenz-altman-stellt-ki-assistenten-fuer-den-alltag-vor-draussen-wird-protestiert/100258113.html",
-   "published": "2026-09-29T22:24:41+00:00",
-   "first_seen": "2026-09-29T23:03:56.128850+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "OpenAI-Konferenz: Sam Altmans Antwort auf Metas Vorstoß: OpenAI stellt neuen KI-Assistenten für den Alltag vor",
-   "summary": "Der ChatGPT-Entwickler tritt in den wachsenden Markt für digitale Assistenten ein. Doch die Sicherheitsdebatte und Proteste überschatten die Jahreskonferenz.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-open-ai-stellt-neuen-ki-assistenten-vor-draussen-wird-protestiert/100258113.html",
-   "published": "2026-09-29T22:24:41+00:00",
-   "first_seen": "2026-09-30T05:05:31.744732+00:00",
    "paywall": true
   }
  ]
