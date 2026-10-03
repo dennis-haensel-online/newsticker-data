@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-03T06:11:03.427283+00:00",
+ "updated": "2026-10-03T07:10:36.577357+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Historiker übers Bahnfahren: „Am liebsten spricht man über das, was einen stört“",
+   "summary": "Vom Zugfahren als Zumutung erzählen die Leute nicht erst seit Social Media, sagt Niklas Weber: Fantasien kitzelte die Begegnung der Klassen von Anfang an. mehr...",
+   "link": "https://taz.de/Historiker-uebers-Bahnfahren/!6213744/",
+   "published": "2026-10-03T07:00:00+00:00",
+   "first_seen": "2026-10-03T07:10:36.577357+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche 579: Editorial: Deshalb wackelt es am IPO-Markt",
+   "summary": "Zuletzt häuften sich Rückzieher bei geplanten Börsengängen. Kritiker sehen darin erste Zeichen für eine bröckelnde KI-Euphorie. Haben Sie Recht?",
+   "link": "https://www.wiwo.de/finanzen/boerse/ipo-markt-geraet-ins-stocken-warum-boersengaenge-verschoben-werden/100259025.html",
+   "published": "2026-10-03T06:47:43+00:00",
+   "first_seen": "2026-10-03T07:10:36.577357+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Chickeletta\" oder von der Leyen legt ein Ei",
+   "summary": "Von der Leyens Huhn sorgt für Gesprächsstoff - das hat auch mit Trumps Politik zu tun. Diese Woche geht es um die Midterms, steigende Preise und (keine) Regeln für KI.",
+   "link": "https://www.zdfheute.de/briefing/trump-effekt/midterms-ki-europa-eu-100.html",
+   "published": "2026-10-03T06:40:00+00:00",
+   "first_seen": "2026-10-03T07:10:36.577357+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot von Musks xAI",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-open-ai-stellt-neuen-ki-assistenten-vor-draussen-wird-protestiert/100258113.html",
    "published": "2026-09-29T22:24:41+00:00",
    "first_seen": "2026-09-30T05:05:31.744732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"In erster Linie ist der Staat gefragt\"",
-   "summary": "Die Forderungen der KI-Bosse nach Regulierung sei auch PR, so Matthias Spielkamp von Algorithm Watch. Auf die Eigeninitiative der Unternehmen solle man nicht setzen.",
-   "link": "https://www.zdfheute.de/video/heute-journal-update/sgs-goekdemir-spielkamp-100.html",
-   "published": "2026-09-29T22:00:00+00:00",
-   "first_seen": "2026-09-29T22:04:12.762127+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Trump: KI-Firmen sollen sich selbst beaufsichtigen",
-   "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. US-Präsident Donald Trump sagt nach einem Treffen mit KI-Bossen, dass die Unternehmen sich gegenseitig kontrollieren sollen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-ki-firmen-sollen-sich-selbst-beaufsichtigen/100258448.html",
-   "published": "2026-09-29T20:50:24+00:00",
-   "first_seen": "2026-09-29T22:04:12.762127+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI streicht neues Modell - und setzt auf KI-Agenten",
-   "summary": "Nach Hacking-Attacken durch seine KI stellte der ChatGPT-Entwickler OpenAI die Entwicklungsprozesse auf den Prüfstand. Ein geplantes neues KI-Modell kommt jetzt wegen Bedenken gar nicht heraus.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-streicht-neues-modell-und-setzt-auf-ki-agenten/100258087.html",
-   "published": "2026-09-29T19:15:49+00:00",
-   "first_seen": "2026-09-29T20:05:13.481397+00:00",
    "paywall": true
   }
  ]
