@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-02T23:03:15.404686+00:00",
+ "updated": "2026-10-03T00:05:46.800567+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot von Musks xAI",
+   "summary": "Ein US-Berufungsgericht hat ein Gesetz in Minnesota gegen KI-generierte Nacktbilder vorerst ausgesetzt. Musks KI-Unternehmen xAI hatte dagegen mit Verweis auf die Meinungsfreiheit geklagt.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-us-gericht-stoppt-vorlaeufig-ki-nacktbild-verbot-von-musks-xai/100259427.html",
+   "published": "2026-10-02T23:40:26+00:00",
+   "first_seen": "2026-10-03T00:05:46.800567+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "\"Super-KI\": Die Frage ist nicht, ob, sondern wann sie kommt",
@@ -892,15 +901,6 @@
    "published": "2026-09-29T19:15:49+00:00",
    "first_seen": "2026-09-29T20:05:13.481397+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Risiko Augen-OP | KI außer Kontrolle",
-   "summary": "Mit den Themen: Risiko Augen-OP | KI außer Kontrolle | Frauen in der Teilzeitfalle | Verschleppte ukrainische Kinder",
-   "link": "https://www.zdf.de/video/magazine/frontal-das-magazin-100/frontal-vom-29-september-2026-100",
-   "published": "2026-09-29T19:00:00+00:00",
-   "first_seen": "2026-09-29T19:05:43.895938+00:00",
-   "paywall": false
   }
  ]
 }
