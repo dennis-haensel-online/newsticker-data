@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-03T18:49:46.011205+00:00",
+ "updated": "2026-10-04T02:24:49.386565+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Unterwegs aufladen: Elektroautos: Immer mehr öffentliche Ladepunkte",
+   "summary": "Wo in Deutschland stehen die meisten Ladesäulen? Und wo muss man unter Umständen länger fahren, bis man frischen Strom tanken kann? Die Auswertung einer Energiefirma gibt Aufschluss.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/unterwegs-aufladen-elektroautos-immer-mehr-oeffentliche-ladepunkte/100259522.html",
+   "published": "2026-10-04T02:00:15+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Deutsche Bahn will Familienticket dauerhaft anbieten",
+   "summary": "Das Angebot war zunächst nur auf den Sommer begrenzt - jetzt soll es dauerhaft eingeführt werden: das Familienticket der Deutschen Bahn. Denn laut Bahn-Chefin Palla war der Pauschalpreis ein Erfolg.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
+   "published": "2026-10-04T00:51:20+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Heftige Unwetter auf griechischer Urlaubsinsel Kreta",
+   "summary": "Ein Sturm und starke Regenfälle halten Kreta und zahlreiche Inseln der Ägäis in Atem. Die Bewohner kämpfen mit Überschwemmungen und Schäden. Einige Touristen werden evakuiert.",
+   "link": "https://www.zdfheute.de/panorama/unwetter-griechenland-urlaubsinsel-kreta-touristen-evakuiert-100.html",
+   "published": "2026-10-03T23:41:00+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Spaniens Yamal mit Traumtor gegen Tschechien",
+   "summary": "Jungstar Lamine Yamal bringt den Weltmeister mit einem sensationellen Treffer auf die Siegerstraße. Nach der Pause kommt Tschechien noch einmal auf, ehe Spaniens Edeljoker alles klar macht.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/spanien-tschechien-highlights-maenner-zusammenfassung-100.html",
+   "published": "2026-10-03T22:00:00+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "England bereitet Kroatien historisches Debakel",
+   "summary": "Die Three Lions von Trainer Thomas Tuchel überrollen Kroatien auswärts mit 7:0. Die Gastgeber um Luka Modric präsentieren sich desolat und kassieren die höchste Pleite ihrer Geschichte.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/kroatien-england-highlights-maenner-zusammenfassung-100.html",
+   "published": "2026-10-03T22:00:00+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Mit Manipulation und Tricks in die US-Midterms",
+   "summary": "Wie frei und fair sind Wahlen in den USA? Im Großen und Ganzen gilt das US-Wahlsystem als gut geschützt. Doch es gibt einige Wahlregeln, die Luft für Manipulation lassen.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-midterms-2026-briefwahl-trump-streit-manipulation-100.html",
+   "published": "2026-10-03T20:55:00+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Eklat vor Israel-Spiel: Irlands Pressekonferenz abgebrochen",
+   "summary": "Schon das erste Spiel zwischen Irland und Israel war ein Politikum. Nun wurde die irische PK vor der zweiten Partie vorzeitig abgebrochen.",
+   "link": "https://www.zdfheute.de/sport/fussball-nations-league/fussball-nations-league-irland-israel-eklat-pressekonferenz-100.html",
+   "published": "2026-10-03T19:16:00+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": false
+  },
   {
    "label": "taz",
    "title": "Drohnen, KI und Militär: Die Zukunft der Technologie",
@@ -548,6 +611,15 @@
    "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-waehrung-faellt-auf-historisches-tief/100136895.html",
    "published": "2026-10-03T10:38:00+00:00",
    "first_seen": "2026-10-03T11:59:03.671592+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Huthis haben nach eigenen Angaben Aramco-Anlage in Riad angegriffen",
+   "summary": "Irans Währung fällt auf historisches Tief +++ Flydubai-Copilot galt offenbar zuvor als Sicherheitsrisiko +++ Öltanker vor Küste des Oman getroffen +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-huthis-haben-nach-eigenen-angaben-aramco-anlage-in-riad-angegriffen/100136895.html",
+   "published": "2026-10-03T10:38:00+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
    "paywall": true
   },
   {
@@ -2925,6 +2997,15 @@
    "published": "2026-10-02T11:00:00+00:00",
    "first_seen": "2026-10-02T11:04:42.001577+00:00",
    "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Wirtschaft in Griechenland: Nachhilfe aus Athen",
+   "summary": "Vor zehn Jahren verlangten die Deutschen von den Griechen harte Reformen. Jetzt wächst die Wirtschaft dort schneller als hier. Sie wollen ja keine Ratschläge geben, aber…",
+   "link": "https://www.zeit.de/2026/42/griechenland-wirtschaft-aufstieg-krise-tourismus-kyriakos-mitsotakis",
+   "published": "2026-10-02T10:58:34+00:00",
+   "first_seen": "2026-10-04T02:24:49.386565+00:00",
+   "paywall": true
   },
   {
    "label": "ZDF",
@@ -13417,87 +13498,6 @@
    "summary": "Um die Managementtechniken des Konzerns ranken sich viele Legenden. Ehemalige Führungskräfte verraten, wie sie funktionieren und wie sie sich auf andere Firmen übertragen lassen.",
    "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-was-fruehere-top-manager-ueber-amazons-erfolg-berichten/100244278.html",
    "published": "2026-09-30T06:43:00+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autohersteller: Neues Margenziel bis 2028: So will BMW aus der Krise kommen",
-   "summary": "Laut einem Analystenbericht setzt der neue BMW-Chef Nedeljkovic auf eine stärkere Lokalisierung und weniger Modelle. Bei der Rendite setzt sich der Konzern ein neues Zwischenziel.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autohersteller-neues-margenziel-bis-2028-so-will-bmw-aus-der-krise-kommen/100258539.html",
-   "published": "2026-09-30T06:40:28+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BASF und Evonik: Diese Folgen hätte die Evonik-Übernahme für Jobs und Standorte",
-   "summary": "BASF greift nach Evonik, Deutschlands zweitgrößtem Chemiekonzern. Schon jetzt ist absehbar: Das würde noch einmal Tausende Jobs kosten, vor allem an zwei Standorten in NRW.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/basf-und-evonik-diese-folgen-haette-die-evonik-uebernahme-fuer-jobs-und-standorte/100258232.html",
-   "published": "2026-09-30T06:39:00+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Diese Idee soll Deutschlands Pisa-Schwäche beheben",
-   "summary": "Ein Vorschlag will Zugang zu KI-gestütztem Lernen verschaffen. Sein Vorbild kennt fast jeder aus der Kindheit, meint Daniela Gerd tom Markotten, Geschäftsführerin des Hasso-Plattner-Instituts.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-diese-idee-soll-deutschlands-pisa-schwaeche-beheben/100257201.html",
-   "published": "2026-09-30T06:38:36+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Erbschaftsteuer: Ostbeauftragte Elisabeth Kaiser fordert Ausgleich",
-   "summary": "Große Vermögen werden vor allem in Westdeutschland vererbt. Die Ostbeauftragte Elisabeth Kaiser verlangt nun, dass die Bundesländer gleichmäßiger von der Erbschaftsteuer profitieren sollen.",
-   "link": "https://www.spiegel.de/wirtschaft/soziales/erbschaftsteuer-ostbeauftragte-elisabeth-kaiser-fordert-ausgleich-a-ea94f768-3967-46a5-a2fb-85595423d787#ref=rss",
-   "published": "2026-09-30T06:37:00+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "100 Jahre WirtschaftsWoche: Der Ökonom, der Schumpeter druckte und am Ende fliehen musste",
-   "summary": "Standhaft für liberales Denken: Der „Deutsche Volkswirt“, der Vorläufer der WirtschaftsWoche, prägte in der Weimarer Republik die ökonomische Debatte. Ein Gastbeitrag.",
-   "link": "https://www.wiwo.de/politik/konjunktur/100-jahre-wirtschaftswoche-der-oekonom-der-schumpeter-druckte-und-am-ende-fliehen-musste/100249128.html",
-   "published": "2026-09-30T06:35:00+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Trockenheit mit Folgen: Bodensee-Pegelstand droht unter 2,50 Meter zu sinken",
-   "summary": "Wegen anhaltender Trockenheit könnte der Bodensee-Pegelstand bald unter 2,50 Meter sinken. Wird damit der Allzeitrekord gebrochen?",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/trockenheit-mit-folgen-bodensee-pegelstand-droht-unter-250-meter-zu-sinken/100258544.html",
-   "published": "2026-09-30T06:34:40+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Wann ist es sinnvoll, die Grundschuld löschen zu lassen?",
-   "summary": "Wenn Immobilienkäufer die Eigentumswohnung abbezahlt haben, lassen sie in der Regel auch sofort die Grundschuld löschen. Doch es kann sinnvoll sein, mit diesem Schritt zu warten.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wann-das-loeschen-der-grundschuld-fuer-eigentuemer-nicht-noetig-ist/100252489.html",
-   "published": "2026-09-30T06:32:00+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Steuern: Steuerfalle Wiesn – Chef-Runden im Bierzelt können teuer werden",
-   "summary": "Wenn Mitarbeiter auf Firmenkosten feiern, zählt das als geldwerter Vorteil. Der Fiskus gewährt hier einen Rabatt. Der gilt seit 2026 aber nicht mehr, wenn Führungskräfte allein feiern.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-wann-der-oktoberfestbesuch-auf-firmenkosten-teuer-werden-kann/100253561.html",
-   "published": "2026-09-30T06:30:00+00:00",
-   "first_seen": "2026-09-30T07:07:04.550956+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Erbschaften: 95 Prozent des vererbten Vermögens entfällt auf Westdeutschland",
-   "summary": "Die Vermögensunterschiede zwischen Ost- und Westdeutschland sind auch Jahrzehnte nach der Wiedervereinigung noch groß. Das zeigt auch die offizielle Erbschaftsstatistik.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/vermoegen-95-prozent-der-erbschaften-entfallen-auf-westdeutschland/100258177.html",
-   "published": "2026-09-30T06:29:00+00:00",
    "first_seen": "2026-09-30T07:07:04.550956+00:00",
    "paywall": true
   }
