@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-04T04:33:58.274272+00:00",
+ "updated": "2026-10-04T10:58:02.273871+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Videoüberwachung mit KI: „Sie da im grünen Pullover: Bitte unterlassen Sie dieses Verhalten“",
+   "summary": "Künstliche Intelligenz eröffnet in der Videoüberwachung öffentlicher Plätze ganz neue Möglichkeiten. Doch ein Blick ins Ausland zeigt: Der Grat zwischen Überwachungsstaat und mehr Sicherheit ist schmal.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-videoueberwachung-mehr-sicherheit-oder-ueberwachungsstaat-accg-201183304.html",
+   "published": "2026-10-04T09:16:05+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Deutsche Telekom: Wie CEO Höttges die Telekom zum KI-Konzern machen will",
+   "summary": "Der Telekom-Chef lädt zum AI-Investor-Day nach Bonn. Das Ziel: Unterstützung für eine Neuausrichtung des Konzerns sammeln. Aber Analysten sehen zwei andere Probleme.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/deutsche-telekom-wie-ceo-hoettges-die-telekom-zum-ki-konzern-machen-will/100258239.html",
+   "published": "2026-10-04T08:23:42+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
+   "summary": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
+   "published": "2026-10-04T08:13:01+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Full Disk Access: Apple plant Datenwarnung bei KI-Agenten auf Mac-Computern",
+   "summary": "KI-Agenten sind auf weitreichenden Zugang zu Nutzerdaten angewiesen. Apples Mac-Computer bieten diese Möglichkeit – anders als andere Geräte der Firma. Jetzt sollen Nutzer gewarnt werden.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-apple-plant-datenwarnung-bei-ki-agenten-auf-mac-computern/100259548.html",
+   "published": "2026-10-04T06:12:17+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Frisst\" KI Einstiegsjobs?",
+   "summary": "Die Arbeitslosigkeit von Akademikerinnen und Akademikern hat einen neuen Höchststand erreicht: Sie ist stärker gestiegen als die allgemeine. Welche Rolle spielt KI dabei?",
+   "link": "https://www.zdfheute.de/wirtschaft/ki-berufseinsteiger-arbeitsmarkt-jobsuche-100.html",
+   "published": "2026-10-04T05:56:00+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Trump ernennt offenbar Geheimdienstchef Jay Clayton zum KI-Beauftragten",
+   "summary": "Trump-Regierung verzichtet auf weitere Ermittlungen gegen Ex-Fed-Chef Powell +++ Diesel-Exportverbot stand laut Trump nie wirklich zur Debatte +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-ernennt-offenbar-geheimdienstchef-zum-ki-beauftragten/29669594.html",
+   "published": "2026-10-04T05:54:00+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Auf Mac-PCs: Apple plant Datenwarnung bei KI-Agenten",
+   "summary": "KI-Agenten brauchen oft weitreichenden Zugang zu Nutzerdaten. Apples Mac-Computer bieten diese Möglichkeit. Nutzer sollen deshalb vorab gewarnt werden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/apple-warnt-mac-nutzer-vor-ki-agenten-und-datenzugang-accg-201286182.html",
+   "published": "2026-10-04T05:42:44+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "New York: Das Geschäft mit dem 60-Dollar-Brot",
@@ -819,69 +882,6 @@
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/blackstone-wir-setzen-auf-eine-steigende-nachfrage-nach-ki-infrastruktur/100256551.html",
    "published": "2026-09-30T08:50:44+00:00",
    "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chatbot: Diese KI-Kenntnisse retten Ihren Job",
-   "summary": "KI verändert die Arbeitswelt rasant. Und damit wächst der Druck auf Beschäftigte. Unser interaktives Tool zeigt, wo Sie stehen – und was Experten zur richtigen Weiterbildung raten.",
-   "link": "https://www.handelsblatt.com/karriere/technologie-wie-fit-sind-sie-im-umgang-mit-ki-im-beruf/100249593.html",
-   "published": "2026-09-30T08:28:00+00:00",
-   "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Partnerschaft: Deepseek erfindet Programmierwerkzeug für KI-Chips von Huawei",
-   "summary": "Deepseek und Huawei wollen Entwicklern den Zugang zu leistungsfähiger KI-Hardware erleichtern. Ihre neue Software soll eine Alternative zu Nvidias dominanter Programmierumgebung bieten.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/partnerschaft-deepseek-erfindet-programmierwerkzeug-fuer-ki-chips-von-huawei/100258573.html",
-   "published": "2026-09-30T08:00:40+00:00",
-   "first_seen": "2026-09-30T08:06:42.965691+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-   "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
-   "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
-   "published": "2026-09-30T07:59:56+00:00",
-   "first_seen": "2026-10-03T09:06:35.814981+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rüstung: Helsing-Drohnenjet schlägt im Simulator echte Piloten",
-   "summary": "Münchner Drohnenhersteller Helsing erzielt mit seinem unbemannten Kampfjet wohl Fortschritte. Es gibt aber auch Sicherheitsbedenken bezüglich des Einsatzes von KI im Verteidigungsrahmen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-ki-drohnenjet-von-helsing-schlaegt-menschliche-piloten-im-simulator/100258351.html",
-   "published": "2026-09-30T07:53:00+00:00",
-   "first_seen": "2026-09-30T08:06:42.965691+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Bedrohung: Tech-Firmen sollen sich laut Trump gegenseitig kontrollieren",
-   "summary": "Seit Wochen wird weltweit über Risiken Künstlicher Intelligenz diskutiert. Der US-Präsident sagt nach einem Treffen mit KI-Unternehmern, die Firmen sollten sich untereinander beaufsichtigen.",
-   "link": "https://www.handelsblatt.com/politik/international/ki-bedrohung-tech-firmen-sollen-sich-laut-trump-gegenseitig-kontrollieren/100258558.html",
-   "published": "2026-09-30T07:30:16+00:00",
-   "first_seen": "2026-09-30T08:06:42.965691+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Neuer Apple-Chef plant offenbar weitreichenden Konzernumbau",
-   "summary": "Rheinfähre meldet Kurzarbeit wegen Niedrigwasser an +++ OpenAI entschuldigt sich +++ ChatGPT-Entwickler streicht Veröffentlichung eines neuen KI-Modells +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-neuer-apple-chef-plant-offenbar-weitreichenden-konzernumbau-faz-200452404.html",
-   "published": "2026-09-30T07:22:36+00:00",
-   "first_seen": "2026-09-30T08:06:42.965691+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: 97,5 Millionen Passagierdaten für zehn Millionen Dollar: KI-Unternehmen kaufen große Datenpakete insolventer Firmen auf",
-   "summary": "Google bietet Millionen für die Daten von Spirit Airlines, um damit die eigene KI zu trainieren. Zulieferer und Beschäftigte fürchten den Abfluss sensibler Informationen – und weitere Fälle.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/technologie-ki-unternehmen-kaufen-grosse-datenpakete-insolventer-firmen-auf/100256233.html",
-   "published": "2026-09-30T07:20:46+00:00",
-   "first_seen": "2026-09-30T08:06:42.965691+00:00",
    "paywall": true
   }
  ]

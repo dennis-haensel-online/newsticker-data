@@ -1,7 +1,52 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-04T04:33:58.274272+00:00",
+ "updated": "2026-10-04T10:58:02.273871+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Der Zins, der die Finanzwelt neu sortiert",
+   "summary": "Noch richten die steigenden Anleiherenditen nur begrenzten Schaden an. Aber die Dynamik kann sich schnell ändern. Ein Sektor kann vom Wachstumstreiber zum Großrisiko werden.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-zins-der-die-finanzwelt-neu-sortiert/100259070.html",
+   "published": "2026-10-04T09:46:14+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Depressionen und Ängste: Aktuelle Studie zeigt Verschlechterung der psychischen Gesundheit",
+   "summary": "Pandemie, Kriege, Inflation: Die Krisen der vergangenen Jahre hinterlassen Spuren in der Psyche vieler Menschen. Besonders belastet fühlen sich Jüngere.",
+   "link": "https://www.wiwo.de/politik/deutschland/depressionen-und-aengste-aktuelle-studie-zeigt-verschlechterung-der-psychischen-gesundheit/100259563.html",
+   "published": "2026-10-04T09:43:00+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
+   "summary": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
+   "published": "2026-10-04T08:13:01+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahlen in Brasilien: „Wenn Lula gewinnt, wandere ich aus“ – Warum Unternehmer den Präsidenten unbedingt loswerden wollen",
+   "summary": "Ob Wachstum, Inflation oder Arbeitslosigkeit: Brasiliens Wirtschaftsdaten sind gut. Trotzdem fürchten Unternehmer eine zweite Amtszeit von Präsident Lula. Am Sonntag könnten sie ihn abwählen.",
+   "link": "https://www.handelsblatt.com/politik/international/wahlen-warum-brasilianische-unternehmer-praesident-lula-loswerden-wollen/100254745.html",
+   "published": "2026-10-04T06:51:28+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Frisst\" KI Einstiegsjobs?",
+   "summary": "Die Arbeitslosigkeit von Akademikerinnen und Akademikern hat einen neuen Höchststand erreicht: Sie ist stärker gestiegen als die allgemeine. Welche Rolle spielt KI dabei?",
+   "link": "https://www.zdfheute.de/wirtschaft/ki-berufseinsteiger-arbeitsmarkt-jobsuche-100.html",
+   "published": "2026-10-04T05:56:00+00:00",
+   "first_seen": "2026-10-04T10:58:02.273871+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Geldanlage: Wo soll ich jetzt 10.000 Euro anlegen?",
@@ -846,60 +891,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-bewegt-sich-vor-inflationsdaten-kaum/100258541.html",
    "published": "2026-09-30T08:48:48+00:00",
    "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Arbeitslosenzahl sinkt leicht unter Marke von drei Millionen",
-   "summary": "Mit dem Ende der Sommerpause gibt es meist Bewegung auf dem Arbeitsmarkt. Im September ging die Zahl der Menschen ohne Job aber nur leicht zurück. Unternehmen suchen weiterhin kaum nach neuem Personal.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html",
-   "published": "2026-09-30T08:42:03+00:00",
-   "first_seen": "2026-09-30T11:05:30.713290+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Geschäftszahlen +++: Gerresheimer-Geschäft erholt sich im zweiten Quartal",
-   "summary": "Lindt kürzt die Umsatzprognose +++ Hornbach profitiert von hoher Nachfrage nach Klimageräten +++ Shein mit Gewinneinbruch und mauem Wachstum +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-gerresheimer-geschaeft-erholt-sich-im-zweiten-quartal/24098412.html",
-   "published": "2026-09-30T08:32:00+00:00",
-   "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt unter drei Millionen",
-   "summary": "Saisonal bedingt geht die Arbeitslosigkeit im September zurück. Dennoch fällt die Herbstbelebung in diesem Jahr schwach aus.",
-   "link": "https://www.wiwo.de/politik/konjunktur/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-unter-drei-millionen/100258579.html",
-   "published": "2026-09-30T08:17:00+00:00",
-   "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "September: Zahl der Arbeitslosen sinkt unter drei Millionen",
-   "summary": "Saisonal bedingt geht die Arbeitslosigkeit im September zurück. Dennoch fällt die Herbstbelebung in diesem Jahr schwach aus.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/zahl-der-arbeitslosen-sinkt-unter-drei-millionen-accg-201275537.html",
-   "published": "2026-09-30T08:12:18+00:00",
-   "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: ﻿Zahl der Arbeitslosen sinkt unter Drei-Millionen-Marke",
-   "summary": "Die Zahl der Arbeitslosen hatte im Juli erstmals seit April wieder die Marke übersprungen. Mit dem Ende der Sommerpause setzt meist eine Herbstbelebung ein – die fällt allerdings mau aus.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-unter-drei-millionen-marke/100258529.html",
-   "published": "2026-09-30T08:00:31+00:00",
-   "first_seen": "2026-09-30T08:06:42.965691+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Deutsche Arbeitslosenzahl sinkt auf 2,99 Millionen",
-   "summary": "Der Arbeitsmarkt hat sich im August wie erwartet belebt. Doch in Schwung kommt er nicht, warnt BA-Chefin Andrea Nahles. Das zeigt vor allem der Vergleich zum Vorjahr.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/arbeitsmarkt-deutsche-arbeitslosenzahl-sinkt-auf-299-millionen/100258576.html",
-   "published": "2026-09-30T07:59:57+00:00",
-   "first_seen": "2026-09-30T08:06:42.965691+00:00",
    "paywall": true
   }
  ]
