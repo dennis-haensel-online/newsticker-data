@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-04T10:58:02.273871+00:00",
+ "updated": "2026-10-04T17:35:46.049380+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Deep Read: Wie SAP trotz KI-Rückstand wieder gewinnen will",
+   "summary": "Viel Pilot, wenig Alltag: SAP setzt auf Künstliche Intelligenz – doch die Umsetzung stockt. Konzernchef Christian Klein erhöht nun das Tempo.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/software-wie-sap-trotz-ki-rueckstand-wieder-gewinnen-will/100258469.html",
+   "published": "2026-10-04T16:39:36+00:00",
+   "first_seen": "2026-10-04T17:35:46.049380+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Kann KI zur Gefahr werden?",
+   "summary": "KI-Unternehmenschefs warnen vor Risiken der Technologie für die Menschheit. Was steckt hinter den Warnungen - wie real ist die Gefahr?",
+   "link": "https://www.zdfheute.de/wirtschaft/ki-agent-chatbot-gefahr-warnungen-100.html",
+   "published": "2026-10-04T15:42:00+00:00",
+   "first_seen": "2026-10-04T17:35:46.049380+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: US-Geheimdienstkoordinator Clayton bekommt KI-Rolle",
+   "summary": "US-Präsident Donald Trump will allen Warnungen zum Trotz ein hohes Tempo bei der Entwicklung Künstlicher Intelligenz. Er fand in der Geheimdienstwelt den Mann, der das sicherstellen soll.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-us-geheimdienstkoordinator-clayton-bekommt-ki-rolle/100259587.html",
+   "published": "2026-10-04T13:41:25+00:00",
+   "first_seen": "2026-10-04T17:35:46.049380+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: „Es gibt kein Doom-Szenario“",
+   "summary": "Arthur Mensch führt mit Mistral das einzige KI-Flaggschiff Europas. Die drastischen Warnungen seiner US-Konkurrenten hält er für einen Trick. Europa könne es sich nicht leisten, beim Rennen um die KI-Herrschaft nicht dabei zu sein.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-arthur-mensch-kuenstliche-intelligenz-interview-europa-li.3556602",
+   "published": "2026-10-04T12:11:42+00:00",
+   "first_seen": "2026-10-04T17:35:46.049380+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Digitalisierung: Auf Platz 1: Etteln. Auf Platz 2: Hongkong. Wie kann das sein?",
+   "summary": "Etteln und Ahaus: Zwei ländliche Orte in Nordrhein-Westfalen haben sich erfolgreich modernisiert. Einer ist sogar Weltspitze.",
+   "link": "https://www.wiwo.de/politik/deutschland/wieso-das-dorf-etteln-als-beste-smart-city-der-welt-gilt-noch-vor-hongkong/100256509.html",
+   "published": "2026-10-04T11:22:00+00:00",
+   "first_seen": "2026-10-04T17:35:46.049380+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Videoüberwachung mit KI: „Sie da im grünen Pullover: Bitte unterlassen Sie dieses Verhalten“",
@@ -784,105 +829,6 @@
    "published": "2026-09-30T10:32:00+00:00",
    "first_seen": "2026-09-30T11:05:30.713290+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: Trump setzt bei KI-Unternehmen auf Selbstkontrolle",
-   "summary": "Der US-Präsident hat am Dienstag im Weißen Haus gemeinsam mit führenden Vertretern der Tech-Branche eine Vereinbarung zur Regulierung von Künstlicher Intelligenz unterzeichnet. Die Unternehmen würden sich „gegenseitig kontrollieren“,…",
-   "link": "https://www.handelsblatt.com/video/politik/usa-trump-setzt-bei-ki-unternehmen-auf-selbstkontrolle/100258621.html",
-   "published": "2026-09-30T10:25:46+00:00",
-   "first_seen": "2026-09-30T11:05:30.713290+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Mit 75 Prozent Wahrscheinlichkeit passiert genau das: Die Blase platzt“",
-   "summary": "Stuart Russell hat das einflussreichste KI-Lehrbuch geschrieben. Er erklärt, warum die Technologie bald auch Top-Manager ersetzen könnte – und wann sie zu einer existenziellen Bedrohung wird.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-wird-ki-eines-tages-die-rolle-von-ceos-ersetzen-koennen/100189694.html",
-   "published": "2026-09-30T10:21:00+00:00",
-   "first_seen": "2026-09-30T11:05:30.713290+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-ki-kompetenzen-verschaffen-fuehrungskraeften-einen-vorsprung/100240522.html",
-   "published": "2026-09-30T09:53:00+00:00",
-   "first_seen": "2026-09-30T10:06:03.718939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Künstliche Intelligenz: Trump vereinbart mit KI-Firmen Selbstkontrolle",
-   "summary": "Weltweit wird über Gefahren durch KI diskutiert. Trump sagt nach einem Treffen mit Branchen-Chefs, dass die Unternehmen sich gegenseitig kontrollieren sollen. mehr...",
-   "link": "https://taz.de/Kuenstliche-Intelligenz/!6217625/",
-   "published": "2026-09-30T09:38:00+00:00",
-   "first_seen": "2026-09-30T10:06:03.718939+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Fondsmanager – „Für die Garantie zahlen Sie einen hohen Preis“",
-   "summary": "Jan Viebig war Chefanlagestratege bei mehreren Privatbanken. Er erklärt, warum junge Anleger voll auf Aktien setzen sollten – und wieso die KI-Rally noch lange nicht vorbei ist.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/aktien-wie-junge-anleger-die-richtige-anlagestrategie-finden/100222130.html",
-   "published": "2026-09-30T09:32:00+00:00",
-   "first_seen": "2026-09-30T10:06:03.718939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-so-sieht-soziologin-pugh-die-gesellschaftlichen-folgen-der-technologie/100223312.html",
-   "published": "2026-09-30T09:21:00+00:00",
-   "first_seen": "2026-09-30T10:06:03.718939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führung und KI: „So einen Abbau hat es in der deutschen Wirtschaft noch nie gegeben“: Das Ende des Managers als Massenberuf",
-   "summary": "Überall im Land bauen Unternehmen historisch gewachsene Strukturen ab. Das trifft zunehmend gut bezahlte Führungskräfte. Experten warnen: „Das eigentliche Erdbeben kommt erst.“",
-   "link": "https://www.handelsblatt.com/unternehmen/management/berufe-durch-ki-koennen-aus-zehn-managementebenen-vier-werden/100243656.html",
-   "published": "2026-09-30T09:20:00+00:00",
-   "first_seen": "2026-09-30T10:06:03.718939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Tech-Gipfel: So wenig steckt hinter Donald Trumps neuer „KI-Verfassung“",
-   "summary": "Kurz vor den Midterms stellt Trump Regeln für Künstliche Intelligenz vor. Nimmt er die Warnungen plötzlich ernst? Sicher nicht.",
-   "link": "https://www.wiwo.de/politik/ausland/ki-gipfel-bei-trump-was-hinter-der-neuen-vereinbarung-steckt/100258534.html",
-   "published": "2026-09-30T09:10:13+00:00",
-   "first_seen": "2026-09-30T10:06:03.718939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Mitbestimmung: Wenn die Betriebsverfassung zum Cyberrisiko wird",
-   "summary": "Die Mitbestimmung bei digitaler Technik schützt Beschäftigte, aber sie droht sicherheitsrelevante Anpassungen auszubremsen. Schlimmstenfalls leidet der Schutz vor Cyberangriffen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wenn-die-betriebsverfassung-zum-cyberrisiko-wird-accg-201257749.html",
-   "published": "2026-09-30T09:09:14+00:00",
-   "first_seen": "2026-09-30T10:06:03.718939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-studiengaenge-fuehren-trotz-ki-zu-gefragten-jobs/100235558.html",
-   "published": "2026-09-30T08:58:00+00:00",
-   "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: Private-Equity-Chef von Blackstone: „Wir setzen auf eine massiv steigende Nachfrage nach KI-Infrastruktur“",
-   "summary": "Martin Brand vom weltgrößten Private-Equity-Haus Blackstone spricht über die Hauptprobleme der Branche – und erklärt die Deutschland-Pläne des Investors. Dabei spielt KI eine besondere Rolle.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/blackstone-wir-setzen-auf-eine-steigende-nachfrage-nach-ki-infrastruktur/100256551.html",
-   "published": "2026-09-30T08:50:44+00:00",
-   "first_seen": "2026-09-30T09:05:00.063319+00:00",
-   "paywall": true
   }
  ]
 }
