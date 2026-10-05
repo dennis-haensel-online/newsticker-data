@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-10-05T16:05:45.688413+00:00",
+ "updated": "2026-10-05T17:04:56.501381+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Energiepreise: Preise für Benzin und Diesel steigen wieder leicht",
+   "summary": "Der \"Tankrabatt\" soll Verbrauchern Entlastung bringen. Kurz nach dem Start steigen die Kraftstoffpreise aber wieder leicht an. Laut ADAC ist das \"nur schwer nachvollziehbar\".",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
+   "published": "2026-10-05T16:42:44+00:00",
+   "first_seen": "2026-10-05T17:04:56.501381+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "„Kolibri“: Aleph Alpha veröffentlicht neues KI-Modell",
+   "summary": "Aleph Alpha war mal die deutsche KI-Hoffnung, konnte aber technisch mit der Konkurrenz nicht mithalten. Jetzt meldet sich das Start-up mit einem neuen Sprachmodell zurück – und setzt dabei auf deutsche Trainingsdaten.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-veroeffentlicht-neues-ki-modell-201290838.html",
+   "published": "2026-10-05T16:05:17+00:00",
+   "first_seen": "2026-10-05T17:04:56.501381+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
@@ -432,15 +450,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-evn-steckt-milliarden-in-energiewende-und-peilt-gewinnsprung-an/24098412.html",
    "published": "2026-10-01T08:12:00+00:00",
    "first_seen": "2026-10-01T09:06:01.121855+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Von Rostock nach Kalifornien: So will Karls Erdbeerhof die USA erobern",
-   "summary": "Aus einem Erdbeerhof hat Robert Dahl das Freizeitimperium Karls gemacht. Jetzt expandiert er nach Kalifornien, wo die Konkurrenz riesig ist. Ist das mutig oder vermessen?",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/karls-erdbeerhof-in-den-usa-robert-dahls-riskante-expansion/100256521.html",
-   "published": "2026-10-01T06:46:56+00:00",
-   "first_seen": "2026-10-01T07:07:15.697726+00:00",
    "paywall": true
   }
  ]
