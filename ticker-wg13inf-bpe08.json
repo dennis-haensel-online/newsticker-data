@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-05T08:06:46.176015+00:00",
+ "updated": "2026-10-05T09:07:08.253309+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Russland: BND warnt vor „gewaltsamem Konflikt mit Russland“",
+   "summary": "Desinformation, Anschlagsversuche, Kriegsgefahr: Deutschlands Nachrichtendienste zeichnen ein düsteres Bild der russischen Bedrohung. Dabei lässt eine Warnung besonders aufhorchen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wir-werden-jetzt-angegriffen-deutsche-geheimdienste-warnen-vor-russland/100257696.html",
+   "published": "2026-10-05T08:30:00+00:00",
+   "first_seen": "2026-10-05T09:07:08.253309+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Telekommunikation: Deutsche Telekom will durch KI-Einsatz Milliarden sparen",
+   "summary": "Mit KI und Automatisierung will die Telekom bis 2030 jährlich 2,5 Milliarden Euro Kosten reduzieren. Was das für Service und neue Angebote bedeutet.",
+   "link": "https://www.wiwo.de/unternehmen/it/deutsche-telekom-dax-konzern-will-durch-ki-einsatz-milliarden-sparen/100259721.html",
+   "published": "2026-10-05T08:21:00+00:00",
+   "first_seen": "2026-10-05T09:07:08.253309+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Musk-Firma: Nach Trump-Vorstoß – SpaceXAI soll künftig SpaceXSI heißen",
@@ -800,24 +818,6 @@
    "summary": "Auf Social Media tobt ein Kampf um Aufmerksamkeit. Für Marken ist es schwer, aus der Masse herauszustechen. Eine Möglichkeit: längere Werbeclips, die filmisch inszeniert sind. Oder sogenannte Micro-Dramen.",
    "link": "https://www.sueddeutsche.de/wirtschaft/werbung-social-media-tiktok-li.3540150",
    "published": "2026-09-30T14:55:54+00:00",
-   "first_seen": "2026-09-30T15:09:00.052849+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Alternativer Nobelpreis: Kämpferin für eine bessere Technologie",
-   "summary": "Künstliche Intelligenz muss nicht konzernorientiert sein, findet die Informatikerin Timnit Gebru. Die Preisträgerin will die Technologie alternativ denken. mehr...",
-   "link": "https://taz.de/Alternativer-Nobelpreis/!6217620/",
-   "published": "2026-09-30T14:19:00+00:00",
-   "first_seen": "2026-09-30T15:09:00.052849+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Fair-use-Doktrin: Thomson Reuters siegt in Urheberrechtsstreit",
-   "summary": "Im Streit um KI-Training mit urheberrechtlich geschützten Texten hat sich der Medienkonzern Thomson Reuters gegen ein KI-Start-up durchgesetzt. Mit dem Urteil gerät eine Verteidigungsstrategie unter Druck, auf die viele Start-ups setzen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/thomson-reuters-siegt-im-urheberrechtsstreit-gegen-ki-start-up-201276639.html",
-   "published": "2026-09-30T14:10:05+00:00",
    "first_seen": "2026-09-30T15:09:00.052849+00:00",
    "paywall": true
   }
