@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-05T09:07:08.253309+00:00",
+ "updated": "2026-10-05T10:07:34.455691+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Kaffeehersteller: Melitta erholt sich vom Koffeinschock",
+   "summary": "Ausgerechnet der weltweite Kaffeeboom hat Melitta in eine schwere Krise gestürzt. Jetzt probiert man es in Minden mit kühnen Wachstumsplänen.",
+   "link": "https://www.wiwo.de/unternehmen/handel/kaffeeboom-melitta-erholt-sich-vom-koffeinschock/100235506.html",
+   "published": "2026-10-05T09:55:00+00:00",
+   "first_seen": "2026-10-05T10:07:34.455691+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Ifo: Stimmung in der Autoindustrie sackt ab",
+   "summary": "Die Exporterwartungen, die zuletzt noch zu Hoffnung Anlass gegeben hatten, geben jetzt drastisch nach.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-ifo-stimmung-in-der-autoindustrie-sackt-ab/100259772.html",
+   "published": "2026-10-05T09:40:41+00:00",
+   "first_seen": "2026-10-05T10:07:34.455691+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Märkte Asien: Hoffnung auf Zinspause beflügelte asiatische Börsen",
@@ -774,51 +792,6 @@
    "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-pce-inflation-loest-rally-aus-micron-meldet-heute-abend/100258727.html",
    "published": "2026-09-30T16:09:18+00:00",
    "first_seen": "2026-09-30T17:05:31.978104+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dow Jones, S&P 500, Nasdaq: Wall Street liegt weiterhin leicht im Plus",
-   "summary": "Wichtige Konjunkturdaten verhelfen den US-Börsen zu einer positiven Trendwende. Die Zinserwartungen bleiben dennoch konstant: Anleger rechnen mit einem weiteren Zinsschritt der Fed.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-liegt-weiterhin-leicht-im-plus/100258689.html",
-   "published": "2026-09-30T15:38:53+00:00",
-   "first_seen": "2026-09-30T16:07:21.496874+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte: Konjunkturdaten bringen positive Trendwende",
-   "summary": "Der Preisindex für den persönlichen Konsum im August war besser als erwartet. Nach einem schwachen Wochenstart gab es für die Wall Street Rückenwind. Markus Koch warnt jedoch, dass es schlechter um die Börse stünde, als die Indizes…",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-konjunkturdaten-bringen-positive-trendwende/100258746.html",
-   "published": "2026-09-30T15:38:44+00:00",
-   "first_seen": "2026-09-30T16:07:21.496874+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Pflegereform kommt, Inflation steigt, Ost-West-Debatte bleibt",
-   "summary": "Das Kabinett bringt die Pflegereform auf den Weg, die Spritpreise treiben die Inflation und zwischen Osten und Westen bleiben Unterschiede.",
-   "link": "https://www.zdfheute.de/briefing/pflegereform-kabinett-inflation-ost-west-unterschiede-zdfheute-update-100.html",
-   "published": "2026-09-30T15:15:00+00:00",
-   "first_seen": "2026-09-30T16:07:21.496874+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Forvia-Chef: „Hella muss sich ein Wachstum im Lichtmarkt erst wieder erarbeiten“",
-   "summary": "Weniger Modellvariation bei VW? Wunderbar, findet der Chef des Autozulieferers Forvia. Wie der Konzern von China lernen will und wo Stellenstreichungen unvermeidbar sind.",
-   "link": "https://www.wiwo.de/unternehmen/auto/forvia-wie-der-autozulieferer-vom-chinesischen-markt-lernen-will/100255564.html",
-   "published": "2026-09-30T15:12:49+00:00",
-   "first_seen": "2026-09-30T16:07:21.496874+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Neue Arbeitsmarktdaten: „Da ist eine Kleinigkeit dazwischengekommen, nennt sich Irankrieg“",
-   "summary": "Noch vor einem Jahr waren die Erwartungen an den Herbst 2026 groß. Nun ist klar: Am Arbeitsmarkt zeigt sich vieles, aber kein Umschwung.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/arbeitsmarktdaten-da-ist-eine-kleinigkeit-dazwischengekommen-nennt-sich-irankrieg-201275794.html",
-   "published": "2026-09-30T14:47:18+00:00",
-   "first_seen": "2026-09-30T15:09:00.052849+00:00",
    "paywall": true
   }
  ]
