@@ -1,6 +1,6 @@
 {
  "id": "wg11iw-bpe01",
- "updated": "2026-10-05T15:07:55.601462+00:00",
+ "updated": "2026-10-05T16:05:45.688413+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -93,6 +93,15 @@
    "paywall": false
   },
   {
+   "label": "FAZ",
+   "title": "Schneller Schlau: Die harte Realität der Weinwelt",
+   "summary": "Die Menschen trinken weniger Wein. Auch Klimawandel und steigende Kosten machen den Winzern zu schaffen. Doch längst nicht allen geht es schlecht.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/alkoholkonsum-und-klimawandel-harte-realitaet-der-weinwelt-201263185.html",
+   "published": "2026-10-01T15:03:37+00:00",
+   "first_seen": "2026-10-05T16:05:45.688413+00:00",
+   "paywall": true
+  },
+  {
    "label": "taz",
    "title": "Wie Menschen unter Klimawandel leiden: Städter fühlen Hitzestress ab 25 Grad",
    "summary": "Sie sind erschöpft, schlafen schlecht, fühlen sich von den Blicken anderer belästigt: Eine Studie zeigt, wie Menschen den Klimawandel erleben. mehr...",
@@ -109,15 +118,6 @@
    "published": "2026-10-01T13:11:00+00:00",
    "first_seen": "2026-10-01T14:07:25.649465+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie: Mercedes-Vorstand: „Gewinne der Verbrenner finanzieren Investitionen in Nachhaltigkeit“",
-   "summary": "Mit recyceltem Aluminium und Türgriffen aus alten Reifen will Mercedes seine Fahrzeuge dekarbonisieren. Vorstand Olaf Schick hat die Nachhaltigkeitsstrategie angepasst.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/mercedes-benz-verbrenner-gewinne-finanzieren-unsere-nachhaltigkeit-01/100252511.html",
-   "published": "2026-10-01T06:02:00+00:00",
-   "first_seen": "2026-10-01T06:08:12.796424+00:00",
-   "paywall": true
   }
  ]
 }
