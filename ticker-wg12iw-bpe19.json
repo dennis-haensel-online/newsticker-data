@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-05T06:09:39.845788+00:00",
+ "updated": "2026-10-05T07:10:56.874942+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Melderegister in Dänemark mit Daten von 8,8 Millionen Menschen gehackt",
+   "summary": "Ifo: „Die Automobilindustrie steckt ‌weiterhin in der Krise“ +++ 100.000 Anträge für E-Auto-Prämie gestellt +++ Handelsexperte: Galeria könnte mit wenigen Häusern weitermachen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-melderegister-in-daenemark-mit-daten-von-8-8-millionen-menschen-gehackt-faz-200452404.html",
+   "published": "2026-10-05T07:09:14+00:00",
+   "first_seen": "2026-10-05T07:10:56.874942+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Ifo-Geschäftsklimaindex: Stimmung in der deutschen Autoindustrie weiter verschlechtert",
+   "summary": "Das Geschäftsklima der Autoindustrie hat sich im September verschlechtert. »Die Automobilindustrie steckt weiterhin in der Krise«, sagt eine Expertin des ifo Instituts.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/ifo-geschaeftsklima-autoindustrie-krise-auftragslage-exporte",
+   "published": "2026-10-05T06:46:59+00:00",
+   "first_seen": "2026-10-05T07:10:56.874942+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Marktbericht: DAX-Anleger starten Woche mit gemischten Gefühlen",
@@ -775,15 +793,6 @@
    "published": "2026-09-30T13:54:55+00:00",
    "first_seen": "2026-09-30T14:08:11.397767+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Weniger als drei Millionen Arbeitslose",
-   "summary": "Die Zahl der Arbeitslosen ist im September leicht auf knapp unter drei Millionen gesunken. Laut Bundesagentur für Arbeit ging die Quote leicht zurück, bleibt aber höher als im Vorjahr.",
-   "link": "https://www.zdfheute.de/video/zdfheute-xpress/arbeitslosigkeit-arbeitsmarkt-september-video-100.html",
-   "published": "2026-09-30T13:00:00+00:00",
-   "first_seen": "2026-09-30T18:06:31.332615+00:00",
-   "paywall": false
   }
  ]
 }
