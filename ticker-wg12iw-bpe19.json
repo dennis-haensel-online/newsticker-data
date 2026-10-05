@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-05T05:18:06.903010+00:00",
+ "updated": "2026-10-05T06:09:39.845788+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: DAX-Anleger starten Woche mit gemischten Gefühlen",
+   "summary": "Es bleibt auch in der neuen Woche herausfordernd für den deutschen Leitindex. Zwar hat bereits am Freitag der US-Arbeitsmarktbericht die Zinssorgen gebremst. Trotzdem belasten die hohen Ölpreise.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+   "published": "2026-10-05T05:39:12+00:00",
+   "first_seen": "2026-10-05T06:09:39.845788+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Der Zins, der die Finanzwelt neu sortiert",
+   "summary": "Noch richten die steigenden Anleiherenditen nur begrenzten Schaden an. Aber die Dynamik kann sich schnell ändern. Ein Sektor kann vom Wachstumstreiber zum Großrisiko werden.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-zins-der-die-finanzwelt-neu-sortiert-01/100259070.html",
+   "published": "2026-10-05T05:21:00+00:00",
+   "first_seen": "2026-10-05T06:09:39.845788+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gen Z: „Die Demut kehrt zurück – aber nicht bei allen“",
+   "summary": "Vier-Tage-Woche, Homeoffice – lange bestimmte die Generation Z die Bedingungen am Arbeitsmarkt. Jetzt schrumpft das Jobangebot für Einsteiger massiv. Wie forsch können sie noch auftreten?",
+   "link": "https://www.handelsblatt.com/karriere/gen-z-die-demut-kehrt-zurueck-aber-nicht-bei-allen-02/100256476.html",
+   "published": "2026-10-05T05:20:00+00:00",
+   "first_seen": "2026-10-05T06:09:39.845788+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Reformstau: Mehr als 200 Milliarden Euro – und noch immer keine Arbeitsmarktreform",
@@ -757,51 +784,6 @@
    "published": "2026-09-30T13:00:00+00:00",
    "first_seen": "2026-09-30T18:06:31.332615+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Konjunktur: Wichtiges US-Inflationsmaß verharrt bei 3,4 Prozent",
-   "summary": "Das für die US-Notenbank ausschlaggebende Inflationsmaß ist im August unverändert geblieben. An den Terminmärkten wird dennoch auf eine weitere Zinserhöhung in diesem Jahr spekuliert.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-konjunktur-wichtiges-us-inflationsmass-verharrt-bei-34-prozent/100258543.html",
-   "published": "2026-09-30T12:53:41+00:00",
-   "first_seen": "2026-09-30T13:08:26.132655+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Inflationsrate steigt im September auf 3,3 Prozent",
-   "summary": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise. Lebensmittel verteuerten sich kaum.",
-   "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
-   "published": "2026-09-30T12:52:15+00:00",
-   "first_seen": "2026-09-30T14:08:11.397767+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Energie treibt Teuerung: Inflation steigt erstmals seit Ende 2023 über drei Prozent",
-   "summary": "Der Iran-Krieg hat das Leben in Deutschland so stark verteuert wie seit fast drei Jahren nicht. Der neue Tankrabatt dürfte für etwas Entlastung sorgen - allerdings nur kurzfristig.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/energie-treibt-teuerung-inflation-steigt-erstmals-seit-ende-2023-ueber-drei-prozent/100258678.html",
-   "published": "2026-09-30T12:44:31+00:00",
-   "first_seen": "2026-09-30T13:08:26.132655+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Inflationssorgen: Der Kaufkraft-Irrtum",
-   "summary": "Tanken ist teuer, die Inflation steigt. Es stimmt aber nicht, dass der Alltag für Normalverdiener unbezahlbar wird. Die Bundesregierung tut sich keinen Gefallen, wenn sie dieses Narrativ übernimmt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/inflationssorge-in-deutschland-ist-die-kaufkraft-wirklich-bedroht-201275275.html",
-   "published": "2026-09-30T12:40:28+00:00",
-   "first_seen": "2026-09-30T13:08:26.132655+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Inflation steigt erstmals seit Ende 2023 über drei Prozent",
-   "summary": "Der Iran-Krieg hat das Leben in Deutschland so stark verteuert wie seit fast drei Jahren nicht. Der neue Tankrabatt dürfte für etwas Entlastung sorgen – allerdings nur kurzfristig.",
-   "link": "https://www.wiwo.de/politik/konjunktur/inflation-in-deutschland-steigt-erstmals-seit-ende-2023-ueber-drei-prozent/100258681.html",
-   "published": "2026-09-30T12:24:54+00:00",
-   "first_seen": "2026-09-30T13:08:26.132655+00:00",
-   "paywall": true
   }
  ]
 }
