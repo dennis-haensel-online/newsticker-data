@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-05T12:06:50.474033+00:00",
+ "updated": "2026-10-05T13:09:46.826787+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Telekommunikation: Telekom-Chef verspricht Investoren Milliarden-Effekt durch KI",
+   "summary": "Künstliche Intelligenz soll die Netze der Telekom besser machen, den Kundenservice schneller und neues Geschäft erschließen. An einem Punkt haken die Investoren aber kritisch nach.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/telekom-hoettges-verspricht-investoren-milliarden-effekt-durch-ki/100259677.html",
+   "published": "2026-10-05T12:55:59+00:00",
+   "first_seen": "2026-10-05T13:09:46.826787+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Massiver Datendiebstahl: Hackerangriff auf zentrales Melderegister in Dänemark",
+   "summary": "Dänemark meldet eine Attacke auf ein Datensystem, in dem Informationen von Bürgerinnen und Bürgern registriert sind. Fast neun Millionen Daten wurden entwendet. mehr...",
+   "link": "https://taz.de/Massiver-Datendiebstahl/!6218828/",
+   "published": "2026-10-05T12:27:00+00:00",
+   "first_seen": "2026-10-05T13:09:46.826787+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Schneider Electric: Siemens-Rivale nutzt KI-Boom zu einem Größensprung",
@@ -801,42 +819,6 @@
    "link": "https://www.handelsblatt.com/politik/konjunktur/asien-suedkorea-erzielt-dank-ki-nachfrage-historischen-exportrekord/100258819.html",
    "published": "2026-10-01T01:43:59+00:00",
    "first_seen": "2026-10-01T02:05:13.486732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
-   "summary": "Was passiert, wenn KI-Agenten nonstop eigenständig handeln? In den USA können Anleger diese nun beim Neobroker Robinhood nutzen – auf eigene Gefahr.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/neobroker-im-schlaf-handeln-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein/100258763.html",
-   "published": "2026-09-30T22:46:51+00:00",
-   "first_seen": "2026-09-30T23:03:32.783376+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Neobroker: Im Schlaf handeln: Robinhood führt Handel mit KI-Finanzagenten ein",
-   "summary": "Was passiert, wenn KI-Agenten nonstop eigenständig handeln? In den USA können Anleger diese nun beim Neobroker Robinhood nutzen – auf eigene Gefahr.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/broker-robinhood-fuehrt-handel-mit-ki-finanzagenten-ein/100258763.html",
-   "published": "2026-09-30T22:46:51+00:00",
-   "first_seen": "2026-10-01T06:08:12.796424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: Micron mit erneutem Rekordquartal und optimistischem Ausblick",
-   "summary": "Dank des anhaltenden KI-Booms verfünffacht der US-Halbleiterhersteller seinen Umsatz. Auch der Gewinn liegt deutlich über den Markterwartungen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-micron-mit-erneutem-rekordquartal-und-optimistischem-ausblick/100258789.html",
-   "published": "2026-09-30T21:05:06+00:00",
-   "first_seen": "2026-09-30T22:04:45.054454+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Warum Trump die KI-Risiken ignoriert",
-   "summary": "Die USA verzichten auf Vorgaben für Künstliche Intelligenz. Zu groß ist die Bedeutung für die US-Wirtschaft. Doch mit den Investitionen wachsen die Risiken.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-trump-die-ki-risiken-ignoriert-201275958.html",
-   "published": "2026-09-30T19:01:44+00:00",
-   "first_seen": "2026-09-30T20:05:09.262952+00:00",
    "paywall": true
   }
  ]
