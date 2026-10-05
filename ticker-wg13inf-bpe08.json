@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-05T14:09:07.850181+00:00",
+ "updated": "2026-10-05T15:07:55.601462+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Start-up: KI-Roboterbauer RobCo steigt zum Einhorn auf",
+   "summary": "Der Münchner Roboterbauer RobCo ist zum Einhorn aufgestiegen. 2027 will das Start-up einen autonom agierenden Roboter für den industriellen Einsatz vorstellen.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/robco-ki-roboterbauer-steigt-zum-einhorn-auf/100259874.html",
+   "published": "2026-10-05T15:00:33+00:00",
+   "first_seen": "2026-10-05T15:07:55.601462+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-so-verschaffen-sich-fuehrungskraefte-mit-ki-kompetenzen-einen-vorsprung-01/100240522.html",
+   "published": "2026-10-05T14:15:00+00:00",
+   "first_seen": "2026-10-05T15:07:55.601462+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start-Ups: KI-Roboterbauer RobCo steigt zum Einhorn auf",
+   "summary": "RobCo knackt die Milliardenbewertung: Der Münchner Roboterbauer steigt nach einer Finanzierungsaufstockung zum Einhorn auf. Nun will das Start-up eine stärkere Präsenz in den USA zeigen.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/start-ups-ki-roboterbauer-robco-steigt-zum-einhorn-auf/100259866.html",
+   "published": "2026-10-05T14:13:23+00:00",
+   "first_seen": "2026-10-05T15:07:55.601462+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "KI-News aktuell: US-Präsident Donald Trump setzt auf mehr KI und Selbstregulierung",
@@ -811,15 +838,6 @@
    "published": "2026-10-01T05:38:18+00:00",
    "first_seen": "2026-10-01T06:08:12.796424+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Regeln für Hochschulprüfungen: Die künstliche Intelligenz schreibt sowieso mit",
-   "summary": "Nur wenige Unis haben klare Regeln für den Umgang mit Sprachmodellen. In zwei Fällen musste schon ein Gericht ran. mehr...",
-   "link": "https://taz.de/Regeln-fuer-Hochschulpruefungen/!6217261/",
-   "published": "2026-10-01T05:00:00+00:00",
-   "first_seen": "2026-10-01T05:05:25.403120+00:00",
-   "paywall": false
   }
  ]
 }
