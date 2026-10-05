@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-05T10:07:34.455691+00:00",
+ "updated": "2026-10-05T11:06:04.305965+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Luxusmarketing: Das Geschäft mit dem 60-Dollar-Brot",
+   "summary": "In New York ist ein Hype um österreichisches Roggensauerteigbrot entstanden. Er zeigt, wie sich die Sehnsucht nach Herkunft und Handwerk mit Luxusmarketing und Social Media verbinden lässt.",
+   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/new-york-der-social-media-hype-um-das-60-dollar-brot/100259525.html",
+   "published": "2026-10-05T10:50:00+00:00",
+   "first_seen": "2026-10-05T11:06:04.305965+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Casten Schneider: Betreiber von KI-Rechenzentren sollen mehr für Wasser zahlen",
@@ -801,24 +810,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-trump-die-ki-risiken-ignoriert-201275958.html",
    "published": "2026-09-30T19:01:44+00:00",
    "first_seen": "2026-09-30T20:05:09.262952+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: USA ermitteln wegen Cyberangriffen gegen KI-Entwickler",
-   "summary": "Tippfehler in Trumps Abkommen für „Superintelligenz“ sorgt für Spott +++ Mercedes-Benz reaktiviert Abfindungsprogramm in Deutschland +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-usa-ermitteln-wegen-cyberangriffen-gegen-ki-entwickler-faz-200452404.html",
-   "published": "2026-09-30T16:17:43+00:00",
-   "first_seen": "2026-09-30T17:05:31.978104+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Was kann OpenAIs KI-Assistent „Dots“? | BASF will Evonik haben",
-   "summary": "KI-Assistenten sind das neue Hype-Thema im Silicon Valley – trotz der aktuellen Sicherheitsdebatten. Und: Evonik hat die erste Offerte abgelehnt, doch BASF hält an seinem Übernahmeplan fest.",
-   "link": "https://www.handelsblatt.com/audio/today/today-was-kann-openais-ki-assistent-dots-basf-will-evonik-haben/100258738.html",
-   "published": "2026-09-30T16:11:23+00:00",
-   "first_seen": "2026-09-30T17:05:31.978104+00:00",
    "paywall": true
   }
  ]
