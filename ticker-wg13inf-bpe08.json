@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-06T10:05:55.425867+00:00",
+ "updated": "2026-10-06T11:05:52.821317+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Buchmesse: Buchbranche warnt vor Folgen der Leseschwäche unter Jungen",
+   "summary": "Unter Jugendlichen ist der Buchmarkt 2025 um über 30 Prozent geschrumpft. Der Buchhandel warnt vor Folgen für die Meinungsbildung – und einer Kompensation durch KI.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/buchmesse-buchbranche-warnt-vor-folgen-der-leseschwaeche-unter-jungen/100260100.html",
+   "published": "2026-10-06T10:47:52+00:00",
+   "first_seen": "2026-10-06T11:05:52.821317+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Künstliche Intelligenz und Naturbilder: Irgendwas stimmt mit diesen Tälern nicht",
@@ -820,15 +829,6 @@
    "published": "2026-10-01T15:05:00+00:00",
    "first_seen": "2026-10-01T16:05:26.808504+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Eigenständige KI-Assistenten in Plüschoptik",
-   "summary": "Meta und OpenAI wollen, dass KI unseren kompletten Alltag steuert. Dafür sollen wir ihnen Einkaufslisten und Terminpläne anvertrauen. Das ist problematisch. Die wichtigsten KI-News der Woche.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-eigenstaendige-ki-assistenten-in-plueschoptik/100258594.html",
-   "published": "2026-10-01T14:33:24+00:00",
-   "first_seen": "2026-10-01T15:05:47.576182+00:00",
-   "paywall": true
   }
  ]
 }
