@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-06T17:05:21.234192+00:00",
+ "updated": "2026-10-06T18:04:57.190925+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Wer bremst, verliert? Woran mehr KI-Regeln derzeit scheitern",
+   "summary": "Verkehrte Welt im Silicon Valley: Während KI-Firmen für Pausen in der Entwicklung werben, drückt die US-Regierung aufs Tempo. Woran liegt es, dass bisher nicht mehr reguliert wird?",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/anthropic-ki-regulierung-trump-sicherheit-100.html",
+   "published": "2026-10-06T16:58:00+00:00",
+   "first_seen": "2026-10-06T18:04:57.190925+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Interview: Zalando-Mitgründer: „Wir brauchen einen europäischen Traum“",
@@ -846,24 +855,6 @@
    "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-openai-feuert-drei-mitarbeiter-nach-ki-enthuellungen/100259192.html",
    "published": "2026-10-02T05:38:00+00:00",
    "first_seen": "2026-10-02T06:05:40.013776+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Sicherheit: OpenAI entlässt drei Mitarbeiter nach KI-Enthüllungen",
-   "summary": "Eskapaden der KI des ChatGPT-Entwicklers OpenAI schürten zuletzt die Angst vor der Technologie. Die Firma hat nun drei Mitarbeitern gekündigt, weil sie regelwidrig Informationen geteilt hätten.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-sicherheit-openai-entlaesst-drei-mitarbeiter-nach-ki-enthuellungen/100259194.html",
-   "published": "2026-10-02T05:05:55+00:00",
-   "first_seen": "2026-10-02T06:05:40.013776+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: OpenAI feuert drei Mitarbeiter nach KI-Enthüllungen",
-   "summary": "Eskapaden von KI des ChatGPT-Entwicklers OpenAI schürten zuletzt die Angst vor der Technologie. Die Firma hat nun drei Mitarbeiter gefeuert, weil sie regelwidrig Informationen geteilt hätten.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-openai-feuert-drei-mitarbeiter-nach-ki-enthuellungen/100259190.html",
-   "published": "2026-10-02T04:52:16+00:00",
-   "first_seen": "2026-10-02T05:04:53.035502+00:00",
    "paywall": true
   }
  ]
