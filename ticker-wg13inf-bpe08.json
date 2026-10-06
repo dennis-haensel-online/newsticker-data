@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-06T06:06:25.626817+00:00",
+ "updated": "2026-10-06T07:07:11.128907+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deepseek sammelt Milliarden ein – Tencent beteiligt sich",
+   "summary": "Das chinesische KI-Unternehmen übertrifft mit seiner Finanzierungsrunde das eigene Ziel deutlich. Die Kapitalaufnahme gilt als wichtiger Schritt auf dem Weg zu einem möglichen Börsengang Anfang 2027.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-deepseek-sammelt-milliarden-ein-tencent-beteiligt-sich/100259986.html",
+   "published": "2026-10-06T06:30:14+00:00",
+   "first_seen": "2026-10-06T07:07:11.128907+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Kosten Für KI: Schon bei der Abrechnung fängt das Problem an",
+   "summary": "Deutsche Unternehmen geben Milliarden für Künstliche Intelligenz aus – Tendenz stark steigend. Eine F.A.Z.-Umfrage zeigt: Zum Eindämmen der Kosten verfolgen sie unterschiedliche Strategien.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
+   "published": "2026-10-06T06:18:49+00:00",
+   "first_seen": "2026-10-06T07:07:11.128907+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Reflection AI stellt offenes KI-Modell vor",
@@ -18,6 +36,15 @@
    "link": "https://www.zdfheute.de/panorama/buchmesse-frankfurt-2026-besucher-programm-autoren-tipps-100.html",
    "published": "2026-10-06T04:43:00+00:00",
    "first_seen": "2026-10-06T05:05:30.099955+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
+   "summary": "Die Leselust sinkt, Läden schließen, die Politik macht Druck. Wird die Krise der deutschen Buchbranche existenziell? Das ist ein bestimmendes Thema, das den Start der 78. Frankfurter Buchmesse überschattet. Von Sonja Fouraté.",
+   "link": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
+   "published": "2026-10-06T04:22:55+00:00",
+   "first_seen": "2026-10-06T07:07:11.128907+00:00",
    "paywall": false
   },
   {
