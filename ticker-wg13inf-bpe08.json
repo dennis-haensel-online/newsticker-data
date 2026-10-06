@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-06T12:07:17.419773+00:00",
+ "updated": "2026-10-06T13:07:15.540001+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Softwarehersteller: SAP will KI-Spezialisten Techwolf übernehmen",
+   "summary": "Mit der „Context Graph for Work“-Technologie will SAP sein Angebot an Personalsoftware ausbauen. Für das KI-Start-up Techwolf gibt es trotzdem Pläne.",
+   "link": "https://www.handelsblatt.com/technik/ki/sap-softwarehersteller-will-ki-spezialisten-techwolf-uebernehmen/100260140.html",
+   "published": "2026-10-06T13:01:26+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Europäischer Befreiungsschlag? Mistral veröffentlicht neues KI-Spitzenmodell Large 4",
+   "summary": "Das Modell der französischen KI-Firma soll mit den leistungsfähigsten offenen Modellen der Welt mithalten. Für Europas KI-Hoffnungsträger Mistral ist das strategisch wichtig.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-befreiungsschlag-mistral-veroeffentlicht-neues-spitzenmodell/100260044.html",
+   "published": "2026-10-06T13:00:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Paramount schließt Warner-Übernahme ab",
+   "summary": "Unzureichend geschützte KI-Agenten brechen bei Wikipedia ein +++ Mutmaßlicher Hackerangriff auf Online-Händler Asos +++ Flugticketpreise von Deutschland aus seit 2010 etwa verdoppelt +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-paramount-schliesst-warner-uebernahme-ab-faz-200452404.html",
+   "published": "2026-10-06T12:56:05+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Social Media: Britische Behörde ermittelt wegen Instagram-Funktion gegen Meta",
+   "summary": "Bei „Instagram Instants“ verschwinden Bilder nach dem ersten Ansehen – die britische Kommunikationsaufsicht bezweifelt, dass Meta die Risiken vorab ausreichend geprüft hat.",
+   "link": "https://www.handelsblatt.com/politik/international/social-media-britische-behoerde-ermittelt-wegen-instagram-funktion-gegen-meta/100260094.html",
+   "published": "2026-10-06T12:29:47+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Wolfgang Ischinger: „Der deutsche Normalbürger hat noch gar nicht verstanden, vor welchen radikalen Veränderungen wir stehen“",
+   "summary": "Der Vorsitzende der Münchner Sicherheitskonferenz erklärt, wie Superintelligenz die Weltpolitik verändert, was Trumps KI-Ideen bedeuten und was das alles mit Atomwaffen zu tun hat.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/wolfgang-ischinger-kuenstliche-intelligenz-ki-interview-muenchner-sicherheitskonferenz-li.3557000",
+   "published": "2026-10-06T12:26:56+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "KI und Datenschutz: Chat-GPT, gibst du meine Daten weiter?",
+   "summary": "Viele Menschen stellen Sprachmodellen private Fragen. Offenbar lauschen bei vielen Anbietern Dritte mit – und die bekommen sehr detaillierte Daten.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/chatgpt-datenschutz-sprachmodelle-ki-drittanbieter-li.3559080",
+   "published": "2026-10-06T12:07:13+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Spionageverdacht: BND-Affären: Maulwürfe, Überwachung und Sicherheitslücken",
@@ -792,60 +846,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-vorfaellen-mit-open-ai-und-anthropic-die-ki-angriffswelle-rollt-201279763.html",
    "published": "2026-10-01T18:08:10+00:00",
    "first_seen": "2026-10-01T19:05:05.208085+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "„Super-KI“: Wie behalten wir die Kontrolle?",
-   "summary": "„Super-KI“: Wie behalten wir die Kontrolle?",
-   "link": "https://www.zdfheute.de/video/heute-journal/heute-journal-podcast-folge-87-kuenstliche-intelligenz-gefahr-100.html",
-   "published": "2026-10-01T17:00:00+00:00",
-   "first_seen": "2026-10-01T21:04:12.110671+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Wettkampf mit china: VW setzt für Roboterautos auf Partner aus Großbritannien",
-   "summary": "China und Amerika sind im autonomen Fahren enteilt. Nun will Volkswagen einen Pakt schließen, der auch der Souveränität Europas dienen soll – mit einem Start-up aus London.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-und-wayve-vw-setzt-auf-londoner-start-up-201280260.html",
-   "published": "2026-10-01T16:52:53+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Wenn Angst vor Künstlicher Intelligenz zum Geschäftsmodell wird",
-   "summary": "Wird uns die KI alle vernichten? Blödsinn, meint Nvidia-Chef Jensen Huang. Er sieht die Debatte vor allem als Möglichkeit, die Dominanz des Chipherstellers auszubauen, meint Michael Maisch.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wenn-angst-vor-kuenstlicher-intelligenz-zum-geschaeftsmodell-wird/100257475.html",
-   "published": "2026-10-01T16:40:46+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
-   "summary": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David…",
-   "link": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
-   "published": "2026-10-01T16:17:17+00:00",
-   "first_seen": "2026-10-02T07:06:49.414322+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Künstliche Intelligenz bleibt Kurstreiber - aber heute nicht für Micron",
-   "summary": "Wall Street mit Markus Koch vom 01.10.2026",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-kuenstliche-intelligenz-bleibt-kurstreiber-aber-heute-nicht-fuer-micron/100259063.html",
-   "published": "2026-10-01T15:46:53+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: Wall Street wird immer abhängiger von KI-Aktien",
-   "summary": "Im dritten Quartal haben allein die Aktien von Nvidia, Microsoft, Meta und Apple den Großteil des Anstiegs im S P 500 ausgemacht. Falls der KI-Sektor in Probleme geraten sollte, sähe es auch für den Leitindex schlecht aus, warnt Markus…",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-wall-street-wird-immer-abhaengiger-von-ki-aktien/100259081.html",
-   "published": "2026-10-01T15:33:10+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
    "paywall": true
   }
  ]

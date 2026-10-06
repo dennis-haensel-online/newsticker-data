@@ -1,6 +1,357 @@
 {
- "updated": "2026-10-06T12:07:17.419773+00:00",
+ "updated": "2026-10-06T13:07:15.540001+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Entdecken Sie das ZDF-Nachrichtenstudio",
+   "summary": "Nach 12 Jahren erscheinen die ZDF-Nachrichten im neuen Look. Werfen Sie einen Blick hinter die Kulissen – und entdecken das neue Studio in unserer 3D-Story.",
+   "link": "https://3d.zdf.de/nachrichten-studio-design/",
+   "published": "2026-10-06T13:06:57+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Aktuelle Pressemitteilungen des ZDF",
+   "summary": "Aktuelle Pressemitteilungen des ZDF",
+   "link": "https://presseportal.zdf.de/pressemitteilungen/",
+   "published": "2026-10-06T13:06:57+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Kinder fragen, die taz antwortet: Wenn der Tag 24 Stunden hat, wo ist dann die Nacht?",
+   "summary": "Wir wollen von Kindern wissen, welche Fragen sie beschäftigen. Jede Woche beantworten wir eine. Diese Frage kommt von Johannes, 7 Jahre alt. mehr...",
+   "link": "https://taz.de/Kinder-fragen-die-taz-antwortet/!6214504/",
+   "published": "2026-10-06T13:05:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bildung: Schülerproteste in Frankreich erreichen neuen Höhepunkt",
+   "summary": "Schüler, Studenten, Eltern und Gewerkschaften – die Proteste für bessere Schulen weiten sich aus. Warum der Innenminister den Einsatz von Granaten und Gummigeschossen verteidigt.",
+   "link": "https://www.handelsblatt.com/politik/international/bildung-schuelerproteste-in-frankreich-erreichen-neuen-hoehepunkt/100259690.html",
+   "published": "2026-10-06T13:04:22+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte: „Tickende Zeitbombe“ – Große Tech-Börsengänge bergen ein verstecktes Risiko",
+   "summary": "Viele Start-ups setzen vor dem IPO auf spezielle Aktienpakete für Mitarbeiter. Ein legaler Rechnungslegungstrick verschleiert die Kosten bis nach dem IPO – mit Folgen für den Kurs.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/markt-tickende-zeitbombe-verstecktes-risiko-bei-grossen-tech-ipos/100258445.html",
+   "published": "2026-10-06T13:02:58+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Softwarehersteller: SAP will KI-Spezialisten Techwolf übernehmen",
+   "summary": "Mit der „Context Graph for Work“-Technologie will SAP sein Angebot an Personalsoftware ausbauen. Für das KI-Start-up Techwolf gibt es trotzdem Pläne.",
+   "link": "https://www.handelsblatt.com/technik/ki/sap-softwarehersteller-will-ki-spezialisten-techwolf-uebernehmen/100260140.html",
+   "published": "2026-10-06T13:01:26+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Spionage-Verdacht: Ex-BND-Chef festgenommen",
+   "summary": "Ex-BND-Chef August Hanning wurde festgenommen. Er soll geheime Informationen des BND an einen fremden Geheimdienst weitergegeben haben. Was zu den Vorwürfen bekannt ist – ZDFheute live.",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/august-hanning-bnd-festnahme-video-100.html",
+   "published": "2026-10-06T13:00:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Europäischer Befreiungsschlag? Mistral veröffentlicht neues KI-Spitzenmodell Large 4",
+   "summary": "Das Modell der französischen KI-Firma soll mit den leistungsfähigsten offenen Modellen der Welt mithalten. Für Europas KI-Hoffnungsträger Mistral ist das strategisch wichtig.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-befreiungsschlag-mistral-veroeffentlicht-neues-spitzenmodell/100260044.html",
+   "published": "2026-10-06T13:00:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Paramount schließt Warner-Übernahme ab",
+   "summary": "Unzureichend geschützte KI-Agenten brechen bei Wikipedia ein +++ Mutmaßlicher Hackerangriff auf Online-Händler Asos +++ Flugticketpreise von Deutschland aus seit 2010 etwa verdoppelt +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-paramount-schliesst-warner-uebernahme-ab-faz-200452404.html",
+   "published": "2026-10-06T12:56:05+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Studie zu Netzwerken: Irans linksextreme Bündnispartner in Deutschland",
+   "summary": "Das Islamische Zentrum Hamburg ist verboten, doch iranische Netzwerke bestehen fort, zeigt eine neue Studie. Sie finden auch Anschluss an Teile der politischen Linken. mehr...",
+   "link": "https://taz.de/Studie-zu-Iran-treuen-Netzwerken/!6219284/",
+   "published": "2026-10-06T12:52:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hochfunktionale Depression: Nach außen leistungsfähig, doch „innerlich wie abgestorben“",
+   "summary": "Wer eine Depression hat, ist antriebslos und igelt sich ein? Falsch, sagt der Psychiater Ulrich Hegerl. Viele Erkrankte bringen weiter Höchstleistung im Job. Was können Chefs tun?",
+   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-warum-depression-bei-leistungstraegern-oft-unsichtbar-bleibt/100250351.html",
+   "published": "2026-10-06T12:51:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Harvard-Professorin: „Führungskräfte reden im Schnitt zu viel“",
+   "summary": "Die Harvard-Professorin Alison Wood Brooks erforscht, was gute Gespräche ausmacht. Im Interview erklärt sie, warum schon 30 Sekunden Vorbereitung ein Gespräch verbessern und man häufiger „Was“ fragen sollte.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-man-kann-lernen-gute-gespraeche-zu-fuehren/100233453.html",
+   "published": "2026-10-06T12:51:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hollywood-Megadeal: Paramount schließt Warner-Übernahme ab",
+   "summary": "",
+   "link": "https://www.handelsblatt.com/technik/it-internet/hollywood-megadeal-paramount-schliesst-warner-uebernahme-ab/100260142.html",
+   "published": "2026-10-06T12:50:40+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landwirtschaft: Sieben Jahre Arbeit, kein einziges Gehalt – „Mein Job ist ein teures Hobby“",
+   "summary": "Schweinepest in Spanien, Lieferstopp nach China, ein Kilopreis von nur 1,45 Euro – immer mehr Schweinehalter geben auf. Annika Thier will den Hof ihres Vaters trotzdem übernehmen. Warum?",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/landwirtschaft-warum-verliert-deutschland-seine-schweinebauern/100248383.html",
+   "published": "2026-10-06T12:50:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dax aktuell: Dax notiert im Plus – Rally an der Wall Street gibt Aufwind",
+   "summary": "Positive Signale aus den USA hellen die Stimmung der Anleger auf. Das Duell zwischen den stark gestiegenen Anleiherenditen und der Rally bei Technologieaktien bestimmt den heutigen Handel.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-rally-an-der-wall-street-gibt-aufwind/100259982.html",
+   "published": "2026-10-06T12:44:03+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Industrie: „Keiner weiß, wann der Absturz aufhört“ – Verluste in China gefährden Gesamtbilanzen der Autokonzerne",
+   "summary": "Für VW, BMW und Mercedes hat der Absatzeinbruch in China eine neue Dimension erreicht. Ein Ende ist nicht in Sicht. Nun sind die Gewinnziele der Konzerne in Gefahr.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/autokonzerne-verluste-in-china-gefaehrden-gesamtbilanzen/100256500.html",
+   "published": "2026-10-06T12:44:02+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Studie der Umwelthilfe: In Großstädten fahren überwiegend noch Verbrennerbusse",
+   "summary": "In den meisten großen Städten fahren vorwiegend Busse mit Dieselmotor. Welche Kommunen schon weiter sind und auf batteriebetriebene Elektrobusse setzen. mehr...",
+   "link": "https://taz.de/Studie-der-Umwelthilfe/!6219379/",
+   "published": "2026-10-06T12:43:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Insolvenzantrag: Verdi: Galeria-Beschäftigte brauchen schnell Klarheit",
+   "summary": "Noch ist unklar, ob die Beschäftigten von Galeria Insolvenzgeld erhalten. Die Gewerkschaft Verdi drückt aufs Tempo.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/insolvenzantrag-verdi-galeria-beschaeftigte-brauchen-schnell-klarheit/100260134.html",
+   "published": "2026-10-06T12:34:21+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Neumann: \"Diesen Gefallen sollte man Putin nicht tun\"",
+   "summary": "Ist Deutschland in Gefahr, in einen Krieg mit Russland zu geraten? Sicherheitsexperte Peter R. Neumann sieht bereits einen \"psychologischen Krieg\". Er warnt vor einer \"Illusion\".",
+   "link": "https://www.zdfheute.de/politik/deutschland/russland-bedrohung-angriff-bnd-neumann-100.html",
+   "published": "2026-10-06T12:33:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landesweiter Aktionstag: Schülerproteste in Frankreich erreichen neuen Höhepunkt",
+   "summary": "Schüler, Studenten, Eltern und Gewerkschaften – die Proteste für bessere Schulen weiten sich aus. Warum der Innenminister den Einsatz von Granaten und Gummigeschossen verteidigt.",
+   "link": "https://www.handelsblatt.com/politik/international/landesweiter-aktionstag-schuelerproteste-in-frankreich-erreichen-neuen-hoehepunkt/100259925.html",
+   "published": "2026-10-06T12:32:25+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sachsen-Anhalt: Vier Stimmen Plus - AfD stellt erstmals Landtagspräsidenten",
+   "summary": "Tobias Rausch ist der erste AfD-Landtagspräsident in Deutschland. Er erhält vier Stimmen mehr als AfD und BSW zusammen haben. Was bedeutet das für die Ministerpräsidentenwahl in Sachsen-Anhalt?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/sachsen-anhalt-vier-stimmen-plus-afd-stellt-erstmals-landtagspraesidenten/100259943.html",
+   "published": "2026-10-06T12:31:24+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Social Media: Britische Behörde ermittelt wegen Instagram-Funktion gegen Meta",
+   "summary": "Bei „Instagram Instants“ verschwinden Bilder nach dem ersten Ansehen – die britische Kommunikationsaufsicht bezweifelt, dass Meta die Risiken vorab ausreichend geprüft hat.",
+   "link": "https://www.handelsblatt.com/politik/international/social-media-britische-behoerde-ermittelt-wegen-instagram-funktion-gegen-meta/100260094.html",
+   "published": "2026-10-06T12:29:47+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Wolfgang Ischinger: „Der deutsche Normalbürger hat noch gar nicht verstanden, vor welchen radikalen Veränderungen wir stehen“",
+   "summary": "Der Vorsitzende der Münchner Sicherheitskonferenz erklärt, wie Superintelligenz die Weltpolitik verändert, was Trumps KI-Ideen bedeuten und was das alles mit Atomwaffen zu tun hat.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/wolfgang-ischinger-kuenstliche-intelligenz-ki-interview-muenchner-sicherheitskonferenz-li.3557000",
+   "published": "2026-10-06T12:26:56+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Quantum-Chef: „Wir sind in der Lage, solche Geran-Drohnen abzuwehren“",
+   "summary": "Quantum Systems baut mehrere Zehntausend Abfangdrohnen für die Ukraine. Damit auch Deutschland besser geschützt wird, hat Unternehmenschef Seibel eine klare Forderung an die Politik.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-wie-quantum-systems-geran-drohnen-in-der-ukraine-abwehren-will-1/100259097.html",
+   "published": "2026-10-06T12:26:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Die Wahl von Magdeburg ist mehr als ein Stresstest für die Demokratie",
+   "summary": "Das Amt des Landtagspräsidenten in Sachsen-Anhalt liegt nun in den Händen einer Partei, die diesen Staat verachtet. Aber es ist vor allem eine Zeitenwende, die eine Antwort braucht.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-wahl-von-magdeburg-ist-mehr-als-ein-stresstest-fuer-die-demokratie/100260061.html",
+   "published": "2026-10-06T12:21:38+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energie: Auch Günther kritisiert die Wirtschaftsministerin: Reiche gerät bei EEG-Reform und Netzpaket unter Druck",
+   "summary": "Es ist längst nicht nur die Opposition, die Kritik an den Reformplänen der Wirtschaftsministerin äußert. Skeptische Stimmen kommen auch vom Koalitionspartner – und aus der CDU.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/energie-netzpaket-und-eeg-reformplaene-von-reiche-stossen-auf-kritik/100259880.html",
+   "published": "2026-10-06T12:19:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zeekr 9X: Zeekr bringt sein Luxus-SUV 9X nach Deutschland",
+   "summary": "Mit dem Zeekr 9X wollen die Chinesen gegen Bentley und Rolls-Royce antreten. Dafür bieten sie viel Komfort. Doch reicht ein günstiger Preis für die anspruchsvolle Kundschaft?",
+   "link": "https://www.handelsblatt.com/mobilitaet/motor/geely-zeekr-bringt-sein-luxus-suv-9x-nach-deutschland/100259672.html",
+   "published": "2026-10-06T12:18:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: New York meldet mehr als 100 Masernfälle seit Jahresbeginn – und meldet Notstand",
+   "summary": "Vermehrte Impfungen und Tests sollen den Ausbruch kontrollieren. Allerdings steigt die Anzahl der Maserninfektionen nicht nur in dem Bundesstaat.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-usbundesstaat-new-york-ruft-notstand-wegen-masernfaellen-aus/100260082.html",
+   "published": "2026-10-06T12:15:43+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Spionage: Spionageverdacht: Ex-BND-Präsident Hanning festgenommen",
+   "summary": "Einen derart prominenten Fall von Verdacht auf Landesverrat gab es beim Bundesnachrichtendienst wohl noch nie. Für den neuen BND-Präsidenten Jäger dürfte die Aufarbeitung eine Nagelprobe werden.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/spionage-spionageverdacht-ex-bnd-praesident-hanning-festgenommen/100260035.html",
+   "published": "2026-10-06T12:15:23+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Immobilien vor Gericht: Maklerprovision wird fällig, auch wenn der Verkäufer nicht zahlt",
+   "summary": "Ein Makler vermittelt einen Hauskauf. Doch der Verkäufer widerruft den Maklervertrag. Muss der Käufer trotzdem Provision zahlen?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hauskauf-maklerprovision-wird-trotz-widerruf-faellig-accg-201183116.html",
+   "published": "2026-10-06T12:14:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Australien und Japan \"echte Härtetests\"",
+   "summary": "Das Frauen-DFB-Team startet in das Jahr vor der WM in Brasilien. In zwei Testspielen soll die Mannschaft ihre Abläufe verfestigen. Das muss jedoch ohne Kapitänin Giulia Gwinn passieren.",
+   "link": "https://www.zdfheute.de/video/zdf-mittagsmagazin/dfb-team-frauen-laenderspiele-gwinn-100.html",
+   "published": "2026-10-06T12:11:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start-ups: Wie Robco zum deutschen Robotik-Einhorn aufsteigt",
+   "summary": "Das Start-up wird nun mit mehr als einer Milliarde Dollar bewertet. Firmenchef Roman Hölzl geht davon aus, dass sich der Umsatz in diesem Jahr verdreifacht – erneut.",
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-wie-robco-zum-deutschen-robotik-einhorn-aufsteigt/100259745.html",
+   "published": "2026-10-06T12:11:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Rheinmetall erschließt sich das Weltall",
+   "summary": "Rheinmetall hat die Serienproduktion von Satelliten aufgenommen. Damit erweitert der Rüstungskonzern sein breites Produktportfolio weiter. Die Rheinmetall-Aktie war zuletzt aber kaum gefragt.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-weltall-100.html",
+   "published": "2026-10-06T12:09:30+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Arbeitnehmerrechte: Rettet die Mitbestimmung!",
+   "summary": "Die Regierungskoalition muss die Mitsprache der Beschäftigten in Großunternehmen stärken. Das ist wichtig für den wirtschaftlichen Erfolg – und es geht um noch viel mehr.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/arbeitnehmer-mitbestimmung-aufsichtsraete-li.3559036",
+   "published": "2026-10-06T12:09:07+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "KI und Datenschutz: Chat-GPT, gibst du meine Daten weiter?",
+   "summary": "Viele Menschen stellen Sprachmodellen private Fragen. Offenbar lauschen bei vielen Anbietern Dritte mit – und die bekommen sehr detaillierte Daten.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/chatgpt-datenschutz-sprachmodelle-ki-drittanbieter-li.3559080",
+   "published": "2026-10-06T12:07:13+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Erbe: Was steckt hinter diesen zehn Mythen um die Testamentsvollstreckung?",
+   "summary": "Um die Vollstreckung eines Testaments ranken sich viele Mythen. Doch manchmal ist der Einsatz eines Profis sinnvoll, der flexibel zur Tat schreitet, Streit verhindert – und nicht teuer sein muss.",
+   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/erbe-was-steckt-hinter-diesen-zehn-mythen-um-die-testamentsvollstreckung/100254611.html",
+   "published": "2026-10-06T12:06:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Handelskonflikt: Deutsche Firmen in China fürchten die Eskalation",
+   "summary": "80 Prozent der Unternehmen rechnen mit Einbußen, sollte der Handelsstreit zwischen der EU und China eskalieren. Gleichzeitig wächst in Deutschland die Bereitschaft, Brüssel härter gegen Peking vorgehen zu lassen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/handelskonflikt-china-eu-deutsche-unternehmen-peking-li.3559275",
+   "published": "2026-10-06T12:04:40+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Klimaschutz: EU will die Methanverordnung verschieben",
+   "summary": "Erdgas ist teuer und knapp. Die Europäische Union will deshalb eine Klimaschutzverordnung verschieben, die eigentlich mitten im Winter in Kraft träte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eu-will-die-methanverordnung-verschieben-accg-201292376.html",
+   "published": "2026-10-06T12:04:35+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mögliche Heimkehr aus Exil: Haftbefehl aufgehoben: Puigdemont vor Rückkehr in die Heimat",
+   "summary": "Neun Jahre nach dem Unabhängigkeitsreferendum in Katalonien ist der Haftbefehl gegen den damaligen Separatistenführer aufgehoben worden. Der Weg für eine Rückkehr in die Heimat ist damit frei.",
+   "link": "https://www.handelsblatt.com/politik/international/moegliche-heimkehr-aus-exil-haftbefehl-aufgehoben-puigdemont-vor-rueckkehr-in-die-heimat/100260101.html",
+   "published": "2026-10-06T11:57:07+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Lungenpest-Verdacht in Russland: Intransparenz der Behörden nährt Spekulationen",
@@ -72,6 +423,15 @@
    "published": "2026-10-06T11:43:00+00:00",
    "first_seen": "2026-10-06T12:07:17.419773+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Sachsen-Anhalt: Konstituierende Sitzung des Landtags",
+   "summary": "Konstituierende Sitzung des Landtags von Sachsen-Anhalt mit Wahl des Landtagspräsidenten",
+   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5238440",
+   "published": "2026-10-06T11:43:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -3035,6 +3395,15 @@
    "paywall": true
   },
   {
+   "label": "SZ",
+   "title": "SZ-Depotcheck: Wie gehe ich mit einer Abfindung um?",
+   "summary": "Frank bekommt eine ordentliche Summe, und die Rente naht. Ein Experte rät im „SZ-Depotcheck“, was er in dieser Situation konkret tun könnte.",
+   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/abfindung-investieren-etf-anlegen-rente-altersvorsorge-depot-e534293/",
+   "published": "2026-10-05T13:44:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
    "label": "Handelsblatt",
    "title": "Interview: Investor Zennström: „Jede neue Erfolgsgeschichte setzt die Messlatte für die nächste Generation höher“",
    "summary": "Der Skype-Gründer glaubt an Europas Chance auf ein Billionen-Euro-Unternehmen. Noch fehlen dafür dem Chef des Risikokapitalgebers Atomico zufolge aber Wachstumskapital und größere europäische Fonds.",
@@ -3185,6 +3554,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenz-2026-beetz-kommentar-li.3558545",
    "published": "2026-10-05T13:08:18+00:00",
    "first_seen": "2026-10-05T14:09:07.850181+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Galeria-Insolvenz: Leere Versprechungen und ein überholtes Geschäftsmodell",
+   "summary": "Die Lehren aus der Galeria-Insolvenz sind schmerzlich – nicht zuletzt für deutsche Innenstädte. Denn auch dort fehlt es an Ideen und Strategien.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/galeria-kaufhof-insolvenz-2026-eigentuemer-beetz-kommentar-li.3558545",
+   "published": "2026-10-05T13:08:18+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
    "paywall": true
   },
   {
@@ -13122,384 +13500,6 @@
    "published": "2026-10-01T17:23:00+00:00",
    "first_seen": "2026-10-01T18:07:36.707822+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Reform: Zuckersteuer und Peitsche: Wie ein Gesetzentwurf die Koalition ins Chaos stürzt – eine Chronologie",
-   "summary": "Kaum verschickt Finanzminister Klingbeil seinen Gesetzentwurf für die Zuckersteuer, lässt ihn Kanzler Merz stoppen. Die Abläufe legen den schlechten Zustand der Koalition offen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/zuckersteuer-wie-ein-gesetzentwurf-die-koalition-ins-chaos-stuerzt/100258963.html",
-   "published": "2026-10-01T17:14:19+00:00",
-   "first_seen": "2026-10-01T18:07:36.707822+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sonnenstrom: Solarspezialist Energiekonzepte Deutschland meldet Insolvenz an",
-   "summary": "Mehr als 45.000 Solaranlagen für Privathaushalte hat Energiekonzepte Deutschland installiert. Nun ist das Unternehmen aus Leipzig pleite. Wie es langfristig weitergeht, ist unklar.",
-   "link": "https://www.handelsblatt.com/unternehmen/energie/solarenergie-solarspezialist-energiekonzepte-deutschland-meldet-insolvenz-an/100258988.html",
-   "published": "2026-10-01T17:11:43+00:00",
-   "first_seen": "2026-10-01T18:07:36.707822+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Konsequenzen für Koçak: Noch kein Schlussstrich",
-   "summary": "Ferat Koçak räumt Fehler im Umgang mit den Remmos ein. Nicht alle sind glücklich darüber, dass die Parteiführung über seinen Fall schweigt. mehr...",
-   "link": "https://taz.de/Konsequenzen-fuer-Kocak/!6218425/",
-   "published": "2026-10-01T17:05:00+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Russland: Merz warnt vor dem „bislang schwersten“ Kriegswinter in der Ukraine",
-   "summary": "Massenmigration, Destabilisierung, Unsicherheit: Ein russischer Sieg über die Ukraine wäre katastrophal, betont der Kanzler. Seine Botschaft richtet sich nicht nur an Moskau, sondern auch an die AfD.",
-   "link": "https://www.handelsblatt.com/politik/international/russland-merz-warnt-vor-bislang-schwerstem-kriegswinter-in-der-ukraine/100258890.html",
-   "published": "2026-10-01T17:03:38+00:00",
-   "first_seen": "2026-10-01T18:07:36.707822+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Ausuferndes Defizit: Frankreich versucht den Kurswechsel",
-   "summary": "Frankreichs Regierung will unter anderem bei Rentnern sparen und beteuert, dass Defizitabbau möglich ist. Die Märkte sind sich da nicht mehr sicher.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/frankreich-defizitabbau-trotz-skepsis-der-maerkte-201279413.html",
-   "published": "2026-10-01T17:03:11+00:00",
-   "first_seen": "2026-10-01T18:07:36.707822+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Charité behandelt Patienten erfolgreich mit Genschere",
-   "summary": "Mohammad braucht nun keine Bluttransfusionen mehr - dank der Behandlung mit der Genscheren-Technologie in der Berliner Charité. Es ist die erste reguläre Behandlung in Deutschland.",
-   "link": "https://www.zdfheute.de/panorama/medizin-behandlung-genschere-berlin-charite-100.html",
-   "published": "2026-10-01T17:01:00+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Merz warnt vor russischem Angriff auf Deutschland und Nato",
-   "summary": "Die Nato hat den Westfälischen Friedenspreis in Münster erhalten. Bei der Laudatio warnt Kanzler Friedrich Merz eindringlich vor nachlassender Unterstützung für die Ukraine.",
-   "link": "https://www.zdfheute.de/politik/merz-westfaelischer-friedenspreis-ukraine-russland-afd-100.html",
-   "published": "2026-10-01T17:00:00+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "„Super-KI“: Wie behalten wir die Kontrolle?",
-   "summary": "„Super-KI“: Wie behalten wir die Kontrolle?",
-   "link": "https://www.zdfheute.de/video/heute-journal/heute-journal-podcast-folge-87-kuenstliche-intelligenz-gefahr-100.html",
-   "published": "2026-10-01T17:00:00+00:00",
-   "first_seen": "2026-10-01T21:04:12.110671+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Medienberichte über die Linkspartei: Tagesspiegel scheitert an Selbstreflektion",
-   "summary": "Leitende Redakteure des Tagesspiegels kündigen an, ihre Berichterstattung über die Linke zu überdenken. Was folgt, ist Mitte-Extremismus in Reinform. mehr...",
-   "link": "https://taz.de/Berichterstattung-ueber-die-Linkspartei/!6218077/",
-   "published": "2026-10-01T17:00:00+00:00",
-   "first_seen": "2026-10-02T07:06:49.414322+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Gipfel gegen soziale Ungleichheit: „Billiger kann ich gar nicht leben“",
-   "summary": "Auf dem Armutsgipfel kommen Betroffene und Verbände zusammen. Viele Probleme seien für Menschen aus der Mittelschicht gar nicht nachvollziehbar, heißt es. mehr...",
-   "link": "https://taz.de/Gipfel-gegen-soziale-Ungleichheit/!6218064/",
-   "published": "2026-10-01T16:57:00+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Wettkampf mit china: VW setzt für Roboterautos auf Partner aus Großbritannien",
-   "summary": "China und Amerika sind im autonomen Fahren enteilt. Nun will Volkswagen einen Pakt schließen, der auch der Souveränität Europas dienen soll – mit einem Start-up aus London.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-und-wayve-vw-setzt-auf-londoner-start-up-201280260.html",
-   "published": "2026-10-01T16:52:53+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Gadget gegen Handysucht: Das Anti-Zeitfresser-Ding",
-   "summary": "Die Zenbox ist ein kleines, rundes Gerät gegen die allgegenwärtige Handysucht. Erfunden hat sie ein Tüftler aus Stuttgart, sie wird auch dort produziert und sammelt keine Daten. Ob das funktioniert?",
-   "link": "https://www.sueddeutsche.de/wirtschaft/zenbox-handysucht-nfc-technik-soziale-medien-stuttgart-li.3555160",
-   "published": "2026-10-01T16:47:15+00:00",
-   "first_seen": "2026-10-02T12:05:56.208665+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Wenn Angst vor Künstlicher Intelligenz zum Geschäftsmodell wird",
-   "summary": "Wird uns die KI alle vernichten? Blödsinn, meint Nvidia-Chef Jensen Huang. Er sieht die Debatte vor allem als Möglichkeit, die Dominanz des Chipherstellers auszubauen, meint Michael Maisch.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wenn-angst-vor-kuenstlicher-intelligenz-zum-geschaeftsmodell-wird/100257475.html",
-   "published": "2026-10-01T16:40:46+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Raumfahrt: Vier Astronauten zur ISS gestartet",
-   "summary": "Seit Februar sind zwei US-Amerikaner, ein Russe und eine Französin im All. Jetzt ist ihre Ablösung unterwegs.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-vier-astronauten-zur-iss-gestartet/100259102.html",
-   "published": "2026-10-01T16:38:20+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Musterdepot – Zukunft: Investoren unterschätzen Coinbase",
-   "summary": "Der Kryptomarkt hat sich von seinem Jahrestief erholt. Coinbase hat davon zwar kaum profitiert. Vieles spricht aber dafür, dass auch der Kurs des Kryptounternehmens bald steigen wird.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/bitcoin-investoren-unterschaetzen-coinbase/100258011.html",
-   "published": "2026-10-01T16:36:47+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Sichtbarkeit von jüdischem Leben: Chanukka in Neukölln",
-   "summary": "Der Verein Hillel wehrt sich gegen eine Darstellung, dass sie ihren Chanukka-Leuchter aufgrund der Wahlergebnisse aus dem Rathaus Neukölln abholen wollen. mehr...",
-   "link": "https://taz.de/Sichtbarkeit-von-juedischem-Leben/!6218015/",
-   "published": "2026-10-01T16:30:00+00:00",
-   "first_seen": "2026-10-01T18:07:36.707822+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geopolitik: Merz warnt: „Dann wird sich die russische Kriegsmaschinerie früher oder später gegen uns richten“",
-   "summary": "Massenmigration, Destabilisierung, Unsicherheit: Ein russischer Sieg über die Ukraine wäre katastrophal, betont der Kanzler. Seine Botschaft richtet sich nicht nur an Moskau, sondern auch an die AfD.",
-   "link": "https://www.handelsblatt.com/politik/international/geopolitik-merz-warnt-vor-bislang-schwerstem-kriegswinter-in-der-ukraine/100258890.html",
-   "published": "2026-10-01T16:28:55+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Trump Watch: Musk im Pentagon, das US-Diesel-Dilemma, Trumps Medienfirma fusioniert: die Trump-News der Woche",
-   "summary": "Tesla- und SpaceX-Chef Elon Musk soll bis Ende Januar eine Strategie zur Zukunft der US-Kriegsführung ausarbeiten. Diese und weitere Trump-News analysieren die Hosts in dieser Folge.",
-   "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-musk-im-pentagon-das-diesel-dilemma-die-trump-news-der-woche/100259094.html",
-   "published": "2026-10-01T16:28:04+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Massentötungen erschüttern Südafrika: Was dahinter steckt",
-   "summary": "Zwei Massenschießereien innerhalb weniger Stunden, Dutzende Tote: Südafrika erlebt eine Serie schwerer Gewalttaten. Experten warnen vor einem Staat, der die Kontrolle verliert.",
-   "link": "https://www.zdfheute.de/politik/ausland/suedafrika-kapstadt-township-johannesburg-bar-schiesserei-korruption-100.html",
-   "published": "2026-10-01T16:26:00+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Bundesregierung hebt Wachstumsprognosen kräftig an",
-   "summary": "Die Herbstprojektion soll nächste Woche von der Bundeswirtschaftsministerin Katherina Reiche vorgestellt werden. Deutschlands Prognose fällt überraschend positiv aus.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-bundesregierung-hebt-wachstumsprognosen-kraeftig-an/100259096.html",
-   "published": "2026-10-01T16:20:02+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Google schickt testweise KI-Chips ins All - Rechenzentren im All",
-   "summary": "Unendliche Weite und extrem niedrige Temperaturen: Das Weltall könnte Potenzial für Rechenzentren bergen, die auf der Erde Ressourcen verbrauchen. Google wagt nun einen ersten Schritt in diese Richtung - trotz technischer Hürden. Von David…",
-   "link": "https://www.tagesschau.de/wissen/weltraum/ki-chips-im-all-100.html",
-   "published": "2026-10-01T16:17:17+00:00",
-   "first_seen": "2026-10-02T07:06:49.414322+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Ukraine-Krieg: Verhandeln mit Moskau? Ein Scheitern in fünf Akten",
-   "summary": "Mehr als vier Jahre Krieg und Diplomatie-Versuche. Friedensgipfel. Von Istanbul bis Anchorage. Wurde wirklich zu wenig gesprochen mit Moskau? Eine Chronologie.",
-   "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-und-verhandlungen-eine-chronologie-diplomatischer-versuche/100258308.html",
-   "published": "2026-10-01T16:15:31+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Die Linke könnte regieren - aber keiner zieht mit?",
-   "summary": "Enteignungspläne und Antisemitismusvorwürfe: Die Linke steht trotz ihres Wahlsiegs in Berlin in der Kritik wie nie. Wie das die Regierungsbildung erschweren dürfte.",
-   "link": "https://www.zdfheute.de/video/linke-berlin-drotschmann-vorwuerfe-xplained-100.html",
-   "published": "2026-10-01T16:13:00+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Bundeswehreinsatz im Irak: Klangloses Ende für den zweitgrößten Auslandseinsatz",
-   "summary": "Die deutsche Armee hat ihren Einsatz in Irak nach eigenen Angaben „erfüllt“. Offen ist, wie es ohne sie in der kurdischen Autonomieregion weitergeht. mehr...",
-   "link": "https://taz.de/Bundeswehreinsatz-im-Irak/!6217820/",
-   "published": "2026-10-01T15:58:00+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Protest gegen AfD-Büros in Berlin-Mitte: Gegen die schleichende Normalisierung",
-   "summary": "Nach ihrem Rauswurf der Geschäftsstelle in Wittenau hat die AfD neue Büros in Mitte angemietet. Der Kiez leistet jedoch Widerstand. mehr...",
-   "link": "https://taz.de/Protest-gegen-AfD-Bueros-in-Berlin-Mitte/!6217965/",
-   "published": "2026-10-01T15:55:00+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Linke, Grüne und SPD: Erste Gespräche zu schweren Brocken",
-   "summary": "In Berlin sind Linke, Grüne und SPD in eine Vorstufe von Koalitionsgesprächen gestartet. Ziel: Streitthemen im Voraus abräumen. Der Termin blieb ohne Ergebnis. Wie geht es weiter?",
-   "link": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-gespraech-koalition-wahl-sondierung-100.html",
-   "published": "2026-10-01T15:54:00+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax schließt deutlich im Minus – Ölpreis wieder über 100 Dollar",
-   "summary": "Anleger zeigen sich am Donnerstag wenig optimistisch, der Dax fällt unter die 25.000 Punkte. Auf die Aktienkurse drücken hohe Ölpreise und steigende Anleiherenditen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-deutlich-im-minus-oelpreis-wieder-ueber-100-dollar/100258866.html",
-   "published": "2026-10-01T15:53:17+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rüstung: Pistorius lässt Drohnenregiment aufstellen",
-   "summary": "Kommt die Bundeswehr bei der Einführung von Drohnen schnell genug voran? Der Verteidigungsminister lässt jetzt im Heer einen Verband für unbemannte Systeme aufbauen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/ruestung-pistorius-laesst-drohnenregiment-aufstellen/100259088.html",
-   "published": "2026-10-01T15:51:52+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Deutsche Bahn: Gericht hält geplante Schienenmaut für 2027 für rechtens",
-   "summary": "Die Bahn kann laut Gerichtsbeschluss 2027 höhere Gebühren verlangen. Das hat Folgen für die Unternehmen – und möglicherweise auch für die Fahrgäste.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/deutsche-bahn-gericht-haelt-geplante-schienenmaut-fuer-2027-fuer-rechtens/100259078.html",
-   "published": "2026-10-01T15:50:30+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "BGH kippt Preiserhöhung bei Amazon Prime",
-   "summary": "Eine Preiserhöhung von Amazon Prime vor vier Jahren ist laut BGH-Urteil unwirksam. Bestimmte Kundinnen und Kunden können jetzt Geld zurückverlangen. Verbraucherschützer raten zur Sammelklage. Von Klaus Hempel.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html",
-   "published": "2026-10-01T15:47:54+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Verbraucherschutz: BGH kippt Preiserhöhung bei Amazon-Prime",
-   "summary": "Der Bundesgerichtshof hat geprüft, ob Amazon die Prime-Preise ohne explizite Zustimmung der Kunden erhöhen durfte. Betroffen sind Millionen Verbraucherinnen und Verbraucher.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/amazon-prime-bgh-preiserhoehung-verbraucherschutz-2022-li.3557258",
-   "published": "2026-10-01T15:47:10+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Künstliche Intelligenz bleibt Kurstreiber - aber heute nicht für Micron",
-   "summary": "Wall Street mit Markus Koch vom 01.10.2026",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-kuenstliche-intelligenz-bleibt-kurstreiber-aber-heute-nicht-fuer-micron/100259063.html",
-   "published": "2026-10-01T15:46:53+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Neuübersetzung von Karel Čapek: Nach uns die Molche!",
-   "summary": "In den 1930ern las man Karel Čapeks' „Der Krieg mit den Molchen“ als Kapitalismus- und Faschismuskritik. Heute weckt er noch ganz andere Assoziationen. mehr...",
-   "link": "https://taz.de/Neuuebersetzung-von-Karel-Capek/!6217121/",
-   "published": "2026-10-01T15:46:00+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rede bei Friedenspreis: Merz: Wenn Deutschland wankt, dann wankt die Ukraine",
-   "summary": "Deutschland ist der wichtigste Unterstützer der Ukraine. Die Akzeptanz der Milliardenhilfen nimmt aber ab. Der Kanzler setzt dazu in einer Grundsatzrede ein Zeichen. Es geht darin auch um die AfD.",
-   "link": "https://www.handelsblatt.com/politik/international/rede-bei-friedenspreis-merz-wenn-deutschland-wankt-dann-wankt-die-ukraine/100259085.html",
-   "published": "2026-10-01T15:45:41+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: VW: Mit Mehrarbeit aus der Krise? – Wirtschaftsweise Monika Schnitzer zur Pflege- und Rentenreform",
-   "summary": "Volkswagen kündigt Tarifverträge und setzt auf längere Arbeitszeiten, auch BMW und Mercedes erhöhen den Druck auf Beschäftigte. Kann das die Autobauer retten?",
-   "link": "https://www.handelsblatt.com/audio/today/today-kommt-vw-mit-mehrarbeit-aus-der-krise/100259075.html",
-   "published": "2026-10-01T15:41:47+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Illegale Wahlkampffinanzierung: Muss die Wahl in Sachsen-Anhalt wiederholt werden?",
-   "summary": "Parteienrechtlerin Sophie Schönberger hält die Landtagswahl für anfechtbar: Die AfD-Landtagsfraktion bezahlte zentrale Wahlkampfveranstaltungen. mehr...",
-   "link": "https://taz.de/Illegale-Wahlkampffinanzierung/!6218421/",
-   "published": "2026-10-01T15:41:00+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nach der Berlin-Wahl: Bei Dreiergesprächen noch keine Einigung über Antisemitismus",
-   "summary": "In Berlin will die Linke mit Grünen und SPD koalieren. Im vertraulichen Vorgespräch ringen die drei Parteien um gemeinsame Positionen zu Antisemitismus und organisierter Kriminalität.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-berlin-wahl-bei-dreiergespraechen-noch-keine-einigung-ueber-antisemitismus/100259072.html",
-   "published": "2026-10-01T15:40:11+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Verteidigung: Unbemannte Waffensysteme: Bundeswehr bekommt Drohnenregiment",
-   "summary": "Kommt die Bundeswehr bei der Einführung von Drohnen schnell genug voran? Der Verteidigungsminister lässt jetzt im Heer einen Verband für unbemannte Systeme aufbauen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-unbemannte-waffensysteme-bundeswehr-bekommt-drohnenregiment/100259091.html",
-   "published": "2026-10-01T15:39:35+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geopolitik: Merz: „Die Nato dient dem Frieden Europas“",
-   "summary": "Der Kanzler lobte bei der Verleihung des Westfälischen Friedenspreises die Nato. Sie sei die tragende Säule der „euroatlantischen“ Friedensordnung. Er warb zudem für weitere Ukraine-Hilfen.",
-   "link": "https://www.handelsblatt.com/politik/international/geopolitik-merz-die-nato-dient-dem-frieden-europas/100258890.html",
-   "published": "2026-10-01T15:37:12+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Die verzettelte Kunst von Anna Oppermann: Im Rabbithole der Gedanken",
-   "summary": "Fantastisch verzettelt ist die Installationskunst von Anna Oppermann. Im Frankfurter sas­fee*­pa­vil­lon ist zu sehen, wie sich die 1993 verstorbene Künstlerin einen Begriff von den Dingen machte. mehr...",
-   "link": "https://taz.de/Die-verzettelte-Kunst-von-Anna-Oppermann/!6215745/",
-   "published": "2026-10-01T15:36:00+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: Wall Street wird immer abhängiger von KI-Aktien",
-   "summary": "Im dritten Quartal haben allein die Aktien von Nvidia, Microsoft, Meta und Apple den Großteil des Anstiegs im S P 500 ausgemacht. Falls der KI-Sektor in Probleme geraten sollte, sähe es auch für den Leitindex schlecht aus, warnt Markus…",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-wall-street-wird-immer-abhaengiger-von-ki-aktien/100259081.html",
-   "published": "2026-10-01T15:33:10+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Österreich: So erfolgreich ist die Einführung der FlexCo-Rechtsform bisher",
-   "summary": "Die junge Rechtsform soll das Gründen von Firmen vereinfachen. Der österreichische Wirtschaftsminister Hattmannsdorfer hat nun eine Anfrage zum Fortschritt der Reform beantwortet. Doch der Markt stockt.",
-   "link": "https://www.handelsblatt.com/politik/international/oesterreich-so-erfolgreich-ist-die-einfuehrung-der-flexco-rechtsform-bisher/100258971.html",
-   "published": "2026-10-01T15:32:02+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
   }
  ]
 }

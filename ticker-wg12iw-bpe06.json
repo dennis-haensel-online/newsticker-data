@@ -1,7 +1,70 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-06T12:07:17.419773+00:00",
+ "updated": "2026-10-06T13:07:15.540001+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte: „Tickende Zeitbombe“ – Große Tech-Börsengänge bergen ein verstecktes Risiko",
+   "summary": "Viele Start-ups setzen vor dem IPO auf spezielle Aktienpakete für Mitarbeiter. Ein legaler Rechnungslegungstrick verschleiert die Kosten bis nach dem IPO – mit Folgen für den Kurs.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/markt-tickende-zeitbombe-verstecktes-risiko-bei-grossen-tech-ipos/100258445.html",
+   "published": "2026-10-06T13:02:58+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Softwarehersteller: SAP will KI-Spezialisten Techwolf übernehmen",
+   "summary": "Mit der „Context Graph for Work“-Technologie will SAP sein Angebot an Personalsoftware ausbauen. Für das KI-Start-up Techwolf gibt es trotzdem Pläne.",
+   "link": "https://www.handelsblatt.com/technik/ki/sap-softwarehersteller-will-ki-spezialisten-techwolf-uebernehmen/100260140.html",
+   "published": "2026-10-06T13:01:26+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Paramount schließt Warner-Übernahme ab",
+   "summary": "Unzureichend geschützte KI-Agenten brechen bei Wikipedia ein +++ Mutmaßlicher Hackerangriff auf Online-Händler Asos +++ Flugticketpreise von Deutschland aus seit 2010 etwa verdoppelt +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-paramount-schliesst-warner-uebernahme-ab-faz-200452404.html",
+   "published": "2026-10-06T12:56:05+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hollywood-Megadeal: Paramount schließt Warner-Übernahme ab",
+   "summary": "",
+   "link": "https://www.handelsblatt.com/technik/it-internet/hollywood-megadeal-paramount-schliesst-warner-uebernahme-ab/100260142.html",
+   "published": "2026-10-06T12:50:40+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Insolvenzantrag: Verdi: Galeria-Beschäftigte brauchen schnell Klarheit",
+   "summary": "Noch ist unklar, ob die Beschäftigten von Galeria Insolvenzgeld erhalten. Die Gewerkschaft Verdi drückt aufs Tempo.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/insolvenzantrag-verdi-galeria-beschaeftigte-brauchen-schnell-klarheit/100260134.html",
+   "published": "2026-10-06T12:34:21+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start-ups: Wie Robco zum deutschen Robotik-Einhorn aufsteigt",
+   "summary": "Das Start-up wird nun mit mehr als einer Milliarde Dollar bewertet. Firmenchef Roman Hölzl geht davon aus, dass sich der Umsatz in diesem Jahr verdreifacht – erneut.",
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/start-ups-wie-robco-zum-deutschen-robotik-einhorn-aufsteigt/100259745.html",
+   "published": "2026-10-06T12:11:00+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Arbeitnehmerrechte: Rettet die Mitbestimmung!",
+   "summary": "Die Regierungskoalition muss die Mitsprache der Beschäftigten in Großunternehmen stärken. Das ist wichtig für den wirtschaftlichen Erfolg – und es geht um noch viel mehr.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/arbeitnehmer-mitbestimmung-aufsichtsraete-li.3559036",
+   "published": "2026-10-06T12:09:07+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "HR: Personaldienstleister Personio übernimmt Spesen-Spezialisten Circula",
@@ -207,6 +270,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenz-2026-beetz-kommentar-li.3558545",
    "published": "2026-10-05T13:08:18+00:00",
    "first_seen": "2026-10-05T14:09:07.850181+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Galeria-Insolvenz: Leere Versprechungen und ein überholtes Geschäftsmodell",
+   "summary": "Die Lehren aus der Galeria-Insolvenz sind schmerzlich – nicht zuletzt für deutsche Innenstädte. Denn auch dort fehlt es an Ideen und Strategien.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/galeria-kaufhof-insolvenz-2026-eigentuemer-beetz-kommentar-li.3558545",
+   "published": "2026-10-05T13:08:18+00:00",
+   "first_seen": "2026-10-06T13:07:15.540001+00:00",
    "paywall": true
   },
   {
@@ -819,42 +891,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-regulierung-warum-schaerfere-haftung-jetzt-noetig-ist-201280393.html",
    "published": "2026-10-01T18:08:26+00:00",
    "first_seen": "2026-10-01T19:05:05.208085+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sonnenstrom: Solarspezialist Energiekonzepte Deutschland meldet Insolvenz an",
-   "summary": "Mehr als 45.000 Solaranlagen für Privathaushalte hat Energiekonzepte Deutschland installiert. Nun ist das Unternehmen aus Leipzig pleite. Wie es langfristig weitergeht, ist unklar.",
-   "link": "https://www.handelsblatt.com/unternehmen/energie/solarenergie-solarspezialist-energiekonzepte-deutschland-meldet-insolvenz-an/100258988.html",
-   "published": "2026-10-01T17:11:43+00:00",
-   "first_seen": "2026-10-01T18:07:36.707822+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wettkampf mit china: VW setzt für Roboterautos auf Partner aus Großbritannien",
-   "summary": "China und Amerika sind im autonomen Fahren enteilt. Nun will Volkswagen einen Pakt schließen, der auch der Souveränität Europas dienen soll – mit einem Start-up aus London.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-und-wayve-vw-setzt-auf-londoner-start-up-201280260.html",
-   "published": "2026-10-01T16:52:53+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Trump Watch: Musk im Pentagon, das US-Diesel-Dilemma, Trumps Medienfirma fusioniert: die Trump-News der Woche",
-   "summary": "Tesla- und SpaceX-Chef Elon Musk soll bis Ende Januar eine Strategie zur Zukunft der US-Kriegsführung ausarbeiten. Diese und weitere Trump-News analysieren die Hosts in dieser Folge.",
-   "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-musk-im-pentagon-das-diesel-dilemma-die-trump-news-der-woche/100259094.html",
-   "published": "2026-10-01T16:28:04+00:00",
-   "first_seen": "2026-10-01T17:07:03.650040+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Österreich: So erfolgreich ist die Einführung der FlexCo-Rechtsform bisher",
-   "summary": "Die junge Rechtsform soll das Gründen von Firmen vereinfachen. Der österreichische Wirtschaftsminister Hattmannsdorfer hat nun eine Anfrage zum Fortschritt der Reform beantwortet. Doch der Markt stockt.",
-   "link": "https://www.handelsblatt.com/politik/international/oesterreich-so-erfolgreich-ist-die-einfuehrung-der-flexco-rechtsform-bisher/100258971.html",
-   "published": "2026-10-01T15:32:02+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
    "paywall": true
   }
  ]
