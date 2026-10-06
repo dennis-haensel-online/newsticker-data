@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-10-06T07:07:11.128907+00:00",
+ "updated": "2026-10-06T08:06:54.827220+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Green & Energy: Droht im Winter die nächste Gaskrise?",
+   "summary": "Niedrige Füllstände, hohe Gaspreise: Wie die Gasspeicher in Deutschland schnell befüllt werden können – und was Verbraucher angesichts der Preissteigerungen machen können.",
+   "link": "https://www.handelsblatt.com/audio/green/green-energy-droht-im-winter-die-naechste-gaskrise/100259955.html",
+   "published": "2026-10-06T07:28:34+00:00",
+   "first_seen": "2026-10-06T08:06:54.827220+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Geldanlage: Wo soll ich jetzt 10.000 Euro anlegen?",
@@ -117,6 +126,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/personio-kauft-circula-li.3556838",
    "published": "2026-10-05T13:03:34+00:00",
    "first_seen": "2026-10-06T05:05:30.099955+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Münchner Unternehmen: Was Personio mit der Übernahme eines anderen Start-ups plant",
+   "summary": "Die Münchner Firma ist eines der wertvollsten deutschen Start-ups. Jetzt hat das Unternehmen, das sich auf Personalverwaltung spezialisiert hat, ein Fintech gekauft.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/start-up-uebernahme-personio-kauf-circula-muenchen-li.3556838",
+   "published": "2026-10-05T13:03:34+00:00",
+   "first_seen": "2026-10-06T08:06:54.827220+00:00",
    "paywall": true
   },
   {
@@ -648,24 +666,6 @@
    "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-deutsche-metropolen-weniger-kaufinteresse-mietpreise-steigen/100258173.html",
    "published": "2026-10-01T12:39:27+00:00",
    "first_seen": "2026-10-01T13:07:59.962935+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax notiert unverändert – Ölpreis steigt",
-   "summary": "Anleger blicken unter anderem auf neue Inflations- und Konjunkturdaten, während die Ölpreise nach anfänglichen Verlusten wieder steigen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-unveraendert-oelpreis-steigt/100258866.html",
-   "published": "2026-10-01T12:12:10+00:00",
-   "first_seen": "2026-10-01T13:07:59.962935+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax notiert im Minus – Ölpreis steigt",
-   "summary": "Anleger blicken unter anderem auf neue Inflations- und Konjunkturdaten, während die Ölpreise nach anfänglichen Verlusten wieder steigen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-steigt/100258866.html",
-   "published": "2026-10-01T11:38:35+00:00",
-   "first_seen": "2026-10-01T12:08:04.646897+00:00",
    "paywall": true
   }
  ]
