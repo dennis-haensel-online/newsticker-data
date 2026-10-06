@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-10-06T11:05:52.821317+00:00",
+ "updated": "2026-10-06T12:07:17.419773+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -243,6 +243,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/dieselpreis-steigt-schnell-und-faellt-langsam-wie-oelkonzerne-die-kunden-ausnehmen-accg-201284516.html",
    "published": "2026-10-04T18:49:32+00:00",
    "first_seen": "2026-10-05T09:07:08.253309+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "An der Zapfsäule: Die hohen Spritpreise sind ein Fall für die Wettbewerbspolitik",
+   "summary": "Jenseits des Tankrabatts wird der Kraftstoff an der Tanksäule schnell teurer, aber nur sehr langsam billiger – zulasten der Kunden. Deutschland steht dabei in Europa besonders schlecht da.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/wie-oelkonzerne-ihre-kunden-ausnehmen-vor-allem-in-deutschland-accg-201284516.html",
+   "published": "2026-10-04T18:49:32+00:00",
+   "first_seen": "2026-10-06T12:07:17.419773+00:00",
    "paywall": true
   },
   {
@@ -611,15 +620,6 @@
    "summary": "Der Bundesgerichtshof hat geprüft, ob Amazon die Prime-Preise ohne explizite Zustimmung der Kunden erhöhen durfte. Betroffen sind Millionen Verbraucherinnen und Verbraucher.",
    "link": "https://www.sueddeutsche.de/wirtschaft/amazon-prime-bgh-preiserhoehung-verbraucherschutz-2022-li.3557258",
    "published": "2026-10-01T15:47:10+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Anstehende Preiserhöhung: Sinkt jetzt die Nachfrage nach dem Deutschlandticket?",
-   "summary": "Die ÖPNV-Fahrkarte wird 2027 schon wieder teurer, diesmal um sechs Prozent. Springen jetzt die Kunden ab?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutschlandticket-2027-sinkt-die-nachfrage-nach-der-preiserhoehung-201280338.html",
-   "published": "2026-10-01T15:05:57+00:00",
    "first_seen": "2026-10-01T16:05:26.808504+00:00",
    "paywall": true
   }

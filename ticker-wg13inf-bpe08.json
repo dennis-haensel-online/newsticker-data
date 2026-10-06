@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-06T11:05:52.821317+00:00",
+ "updated": "2026-10-06T12:07:17.419773+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Spionageverdacht: BND-Affären: Maulwürfe, Überwachung und Sicherheitslücken",
+   "summary": "Geheime Missionen, die auffliegen: Vom Maulwurf im eigenen Haus bis zu verschwundenen Bauplänen – der BND kann auf zahlreiche Fehltritte zurückblicken.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/spionageverdacht-bnd-affaeren-maulwuerfe-ueberwachung-und-sicherheitsluecken/100260121.html",
+   "published": "2026-10-06T11:40:33+00:00",
+   "first_seen": "2026-10-06T12:07:17.419773+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Onlinehandel: Mutmaßlicher Hackerangriff auf Modehändler Asos – Aktie bricht ein",
+   "summary": "Eine mysteriöse Push-Nachricht deutet auf einen Cyberangriff beim Onlineversand mit mehr als 17 Millionen registrierten Kunden hin. Details sind noch unklar.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/onlinehandel-mutmasslicher-hackerangriff-auf-modehaendler-asos/100260115.html",
+   "published": "2026-10-06T11:34:01+00:00",
+   "first_seen": "2026-10-06T12:07:17.419773+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Unzureichend geschützte KI-Agenten brechen bei Wikipedia ein",
+   "summary": "Flugticketpreise von Deutschland aus seit 2010 etwa verdoppelt +++ Verdi will sechs Prozent mehr Geld für Beschäftigte privater Banken +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unzureichend-geschuetzte-ki-agenten-brechen-bei-wikipedia-ein-faz-200452404.html",
+   "published": "2026-10-06T11:32:54+00:00",
+   "first_seen": "2026-10-06T12:07:17.419773+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Buchmesse: Buchbranche warnt vor Folgen der Leseschwäche unter Jungen",
@@ -9,6 +36,15 @@
    "link": "https://www.handelsblatt.com/unternehmen/dienstleister/buchmesse-buchbranche-warnt-vor-folgen-der-leseschwaeche-unter-jungen/100260100.html",
    "published": "2026-10-06T10:47:52+00:00",
    "first_seen": "2026-10-06T11:05:52.821317+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Buchmesse: Buchbranche warnt vor Folgen der Leseschwäche unter jungen Menschen",
+   "summary": "Unter Jugendlichen ist der Buchmarkt 2025 um über 30 Prozent geschrumpft. Der Buchhandel warnt vor Folgen für die Meinungsbildung – und einer Kompensation durch KI.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/buchmesse-branche-warnt-vor-folgen-der-leseschwaeche-unter-jungen-menschen/100260100.html",
+   "published": "2026-10-06T10:47:52+00:00",
+   "first_seen": "2026-10-06T12:07:17.419773+00:00",
    "paywall": true
   },
   {
@@ -811,24 +847,6 @@
    "published": "2026-10-01T15:33:10+00:00",
    "first_seen": "2026-10-01T16:05:26.808504+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Eleven Labs: Rekordbewertung für KI-Stimmen-Entwickler",
-   "summary": "Eleven Labs ragt in der boomenden Voice-AI-Szene heraus. Nun haben Investoren die Bewertung für das erst vier Jahre alte Start-up noch mal verdoppelt – auf stolze 22 Milliarden Dollar.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eleven-labs-ki-stimmen-start-up-mit-22-milliarden-dollar-bewertet-201280108.html",
-   "published": "2026-10-01T15:29:33+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Der KI-Schattenboxer, ein Memecoin und die Betrugsfrage",
-   "summary": "Mit absurden Schattenbox-Einlagen ist Jean Phil zur Internet-Sensation geworden. Während die Videos der KI-Figur viral gehen, wird der Hype monetarisiert - und Vorwürfe laut.",
-   "link": "https://www.zdfheute.de/wirtschaft/jean-phil-ki-influencer-memecoin-100.html",
-   "published": "2026-10-01T15:05:00+00:00",
-   "first_seen": "2026-10-01T16:05:26.808504+00:00",
-   "paywall": false
   }
  ]
 }
