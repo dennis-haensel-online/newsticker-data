@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-06T13:07:15.540001+00:00",
+ "updated": "2026-10-06T14:08:02.769838+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-zu-gefragten-jobs-fuehren/100235558.html",
+   "published": "2026-10-06T14:02:00+00:00",
+   "first_seen": "2026-10-06T14:08:02.769838+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: VAE-Fonds und Blackrock – OpenAI wohl in Gesprächen für 30-Milliarden-Finanzierungsrunde",
+   "summary": "OpenAI will vor seinem Börsengang neue Gelder einsammeln. Unter den Gesprächspartnern sind namhafte Geldgeber. Ungewöhnlich ist, dass OpenAI den Preis bereits jetzt festlegt.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-wohl-in-gespraechen-fuer-30-milliarden-finanzierungsrunde/100260133.html",
+   "published": "2026-10-06T13:52:13+00:00",
+   "first_seen": "2026-10-06T14:08:02.769838+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Buchmesse: Der Schock-Moment der Buchbranche",
+   "summary": "Der nachlässige Umgang der Digitalkonzerne mit Urheberrechten erinnert an die Musikpiraterie der Napster-Ära – nur dreister.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/open-ai-und-ki-training-buecher-als-rohstoff-ohne-urheberrecht-201269994.html",
+   "published": "2026-10-06T13:30:56+00:00",
+   "first_seen": "2026-10-06T14:08:02.769838+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Modehändler: Mutmaßlicher Hackerangriff auf Online-Händler Asos",
+   "summary": "Weltweit bestellen Millionen Kundinnen und Kunden beim britischen Online-Händler Asos. Nun gab es einen Zwischenfall in der App.",
+   "link": "https://www.wiwo.de/unternehmen/handel/modehaendler-mutmasslicher-hackerangriff-auf-online-haendler-asos/100260129.html",
+   "published": "2026-10-06T13:22:42+00:00",
+   "first_seen": "2026-10-06T14:08:02.769838+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Softwarehersteller: SAP will KI-Spezialisten Techwolf übernehmen",
@@ -819,33 +855,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-franzoesischer-supercomputer-bauer-verdoppelt-produktion/100259140.html",
    "published": "2026-10-01T23:12:20+00:00",
    "first_seen": "2026-10-02T00:05:45.400056+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Analyst: \"Roboter spielen nicht unwesentliche Rolle\"",
-   "summary": "Die Ukraine setzt Drohnen und Roboter im Zusammenspiel gezielter ein. Mit Sprengstoff könnten die Roboter Gegner angreifen oder ablenken, so Militäranalyst Gressel bei ZDFheute live.",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/gressel-ukraine-operation-vivaldi-roboter-video-100.html",
-   "published": "2026-10-01T18:57:00+00:00",
-   "first_seen": "2026-10-01T20:04:35.707251+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Regulierung muss her: Vorstände sollten für KI-Katastrophen haften",
-   "summary": "Wenn selbst KI-Forscher vor existenziellen Risiken warnen, reicht Selbstkontrolle nicht. Die Branche braucht schärfere Haftung.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-regulierung-warum-schaerfere-haftung-jetzt-noetig-ist-201280393.html",
-   "published": "2026-10-01T18:08:26+00:00",
-   "first_seen": "2026-10-01T19:05:05.208085+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Debatte um Sicherheit: Die KI-Angriffswelle rollt",
-   "summary": "Ob absichtlich oder nicht: Künstliche Intelligenz bedroht global zunehmend wichtige IT-Systeme. Aber es gibt technische Schutzmöglichkeiten – und selbst in den USA politischen Widerstand.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-vorfaellen-mit-open-ai-und-anthropic-die-ki-angriffswelle-rollt-201279763.html",
-   "published": "2026-10-01T18:08:10+00:00",
-   "first_seen": "2026-10-01T19:05:05.208085+00:00",
    "paywall": true
   }
  ]
