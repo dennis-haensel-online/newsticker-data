@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-07T16:08:42.342834+00:00",
+ "updated": "2026-10-07T17:15:09.050948+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Machtverschiebung im Internet: Die Maschinen sind schon in der Mehrheit",
+   "summary": "Im Internet verdrängen KI-Agenten die Menschen. Dem Journalismus entgehen Leser und Einnahmen. Wer regiert die Technik?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/ki-agenten-die-maschinen-sind-schon-in-der-mehrheit-201289113.html",
+   "published": "2026-10-07T17:02:33+00:00",
+   "first_seen": "2026-10-07T17:15:09.050948+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Handelsblatt Live: US-Börsenexperte Koch: „Der Markt ist unfassbar schief“",
@@ -890,15 +899,6 @@
    "summary": "Arthur Mensch führt mit Mistral das einzige KI-Flaggschiff Europas. Die drastischen Warnungen seiner US-Konkurrenten hält er für einen Trick. Europa könne es sich nicht leisten, beim Rennen um die KI-Herrschaft nicht dabei zu sein.",
    "link": "https://www.sueddeutsche.de/wirtschaft/mistral-arthur-mensch-kuenstliche-intelligenz-interview-europa-li.3556602",
    "published": "2026-10-04T12:11:42+00:00",
-   "first_seen": "2026-10-04T17:35:46.049380+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Digitalisierung: Auf Platz 1: Etteln. Auf Platz 2: Hongkong. Wie kann das sein?",
-   "summary": "Etteln und Ahaus: Zwei ländliche Orte in Nordrhein-Westfalen haben sich erfolgreich modernisiert. Einer ist sogar Weltspitze.",
-   "link": "https://www.wiwo.de/politik/deutschland/wieso-das-dorf-etteln-als-beste-smart-city-der-welt-gilt-noch-vor-hongkong/100256509.html",
-   "published": "2026-10-04T11:22:00+00:00",
    "first_seen": "2026-10-04T17:35:46.049380+00:00",
    "paywall": true
   }
