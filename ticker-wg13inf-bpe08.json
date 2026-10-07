@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-07T12:07:47.084922+00:00",
+ "updated": "2026-10-07T13:10:27.900050+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
+   "summary": "Yoshua Bengio zählt zu den Vätern von KI. Jetzt warnt er vor der Erschaffung einer neuen Spezies und baut eine KI, die nichts will – aus Sorge vor der, die er selbst mit erschaffen hat.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-ki-pionier-bengio-warnt-vor-vermenschlichung-der-ki/100256318.html",
+   "published": "2026-10-07T12:09:00+00:00",
+   "first_seen": "2026-10-07T13:10:27.900050+00:00",
+   "paywall": true
+  },
   {
    "label": "SZ",
    "title": "Künstliche Intelligenz: Kann Europa vielleicht doch KI?",
@@ -891,15 +900,6 @@
    "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-musik-existenz-100.html",
    "published": "2026-10-03T15:11:44+00:00",
    "first_seen": "2026-10-03T18:49:46.011205+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Debatte um Thélyson Orélien: Um Integrität geht es nur am Rande",
-   "summary": "Die Rechte mischt mit: In der französischen Debatte um KI-Vorwürfe gegen den Schriftsteller Thélyson Orélien wird auch um die kulturelle Hegemonie gekämpft. mehr...",
-   "link": "https://taz.de/Debatte-um-Thelyson-Orelien/!6214568/",
-   "published": "2026-10-03T13:18:00+00:00",
-   "first_seen": "2026-10-03T14:57:08.973732+00:00",
    "paywall": false
   }
  ]
