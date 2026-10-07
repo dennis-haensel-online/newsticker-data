@@ -1,7 +1,79 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-07T14:06:08.890949+00:00",
+ "updated": "2026-10-07T16:08:42.342834+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: „Der Markt ist unfassbar schief“",
+   "summary": "Die vergangenen Wochen sind an der Wall Street laut Markus Koch eine „echte Herausforderung“. Der Markt werde „zunehmend durch extrem wenige Aktien“ getragen – selbst innerhalb des KI-Sektors stiegen längst nicht alle Aktien, sagt der…",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-der-markt-ist-unfassbar-schief/100260521.html",
+   "published": "2026-10-07T15:31:27+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: KI-Boom außer Kontrolle? 40 Milliarden für Nvidia-Chips",
+   "summary": "Elon Musks Raumfahrtunternehmen SpaceX will rund 40 Milliarden US-Dollar aufnehmen, um Nvidia-Chips zu kaufen. Währenddessen bleibt der Zinsdruck.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-ki-boom-ausser-kontrolle-40-milliarden-fuer-nvidia-chips/100260495.html",
+   "published": "2026-10-07T14:47:47+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Unternehmen: „Mit KI fängt man auf einem anderen Level an“",
+   "summary": "Deutsche Firmen zögern noch, künstliche Intelligenz zu verwenden. Zwei Beispiele, was die Technologie abseits aller Untergangsszenarien bringen kann.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/firmen-ki-einsatz-transformation-unternehmen-deutschland-li.3548526",
+   "published": "2026-10-07T14:43:20+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Drei Aktien, die von Bedenken bei der KI-Sicherheit profitieren",
+   "summary": "Autonome KI-Agenten schaffen neue Einfallstore für Cyberangriffe. IT-Sicherheitsspezialisten sind daher gefragt. Doch bei einigen Aktien steckt bereits viel Optimismus in den Kursen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-drei-aktien-die-von-bedenken-bei-der-ki-sicherheit-profitieren/100258228.html",
+   "published": "2026-10-07T14:40:34+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/karriere-in-welchen-branchen-koennen-sie-mit-ki-kompetenzen-besonders-punkten-01/100251207.html",
+   "published": "2026-10-07T14:33:00+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "IWF: KI als Rettung und Risiko",
+   "summary": "Die Weltwirtschaft wächst trotz hoher Energiepreise und Schulden. IWF-Chefin Georgiewa setzt auf Künstliche Intelligenz – und warnt zugleich vor neuen Risiken.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/iwf-ki-als-rettung-und-risiko-201296338.html",
+   "published": "2026-10-07T14:26:25+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI oder nicht KI?: SynthID: Google öffnet KI-Detektor für alle Nutzer",
+   "summary": "Das kann nicht echt sein, oder? Immer bessere KI-Modelle machen es schwierig, künstlich erstellte Inhalte aufzuspüren. Mit Googles SynthID-Detektor soll das leichter werden - mit Einschränkungen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-oder-nicht-ki-synthid-google-oeffnet-ki-detektor-fuer-alle-nutzer/100260491.html",
+   "published": "2026-10-07T14:00:06+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
+   "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen. Von M. Polansky.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
+   "published": "2026-10-07T13:55:15+00:00",
+   "first_seen": "2026-10-07T16:08:42.342834+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Deep Read: Fünf Grafiken zeigen, warum die Fachkräftekrise gerade erst beginnt",
@@ -828,78 +900,6 @@
    "link": "https://www.wiwo.de/politik/deutschland/wieso-das-dorf-etteln-als-beste-smart-city-der-welt-gilt-noch-vor-hongkong/100256509.html",
    "published": "2026-10-04T11:22:00+00:00",
    "first_seen": "2026-10-04T17:35:46.049380+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Videoüberwachung mit KI: „Sie da im grünen Pullover: Bitte unterlassen Sie dieses Verhalten“",
-   "summary": "Künstliche Intelligenz eröffnet in der Videoüberwachung öffentlicher Plätze ganz neue Möglichkeiten. Doch ein Blick ins Ausland zeigt: Der Grat zwischen Überwachungsstaat und mehr Sicherheit ist schmal.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-videoueberwachung-mehr-sicherheit-oder-ueberwachungsstaat-accg-201183304.html",
-   "published": "2026-10-04T09:16:05+00:00",
-   "first_seen": "2026-10-04T10:58:02.273871+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deutsche Telekom: Wie CEO Höttges die Telekom zum KI-Konzern machen will",
-   "summary": "Der Telekom-Chef lädt zum AI-Investor-Day nach Bonn. Das Ziel: Unterstützung für eine Neuausrichtung des Konzerns sammeln. Aber Analysten sehen zwei andere Probleme.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/deutsche-telekom-wie-ceo-hoettges-die-telekom-zum-ki-konzern-machen-will/100258239.html",
-   "published": "2026-10-04T08:23:42+00:00",
-   "first_seen": "2026-10-04T10:58:02.273871+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert",
-   "summary": "Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html",
-   "published": "2026-10-04T08:13:01+00:00",
-   "first_seen": "2026-10-04T10:58:02.273871+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Full Disk Access: Apple plant Datenwarnung bei KI-Agenten auf Mac-Computern",
-   "summary": "KI-Agenten sind auf weitreichenden Zugang zu Nutzerdaten angewiesen. Apples Mac-Computer bieten diese Möglichkeit – anders als andere Geräte der Firma. Jetzt sollen Nutzer gewarnt werden.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-apple-plant-datenwarnung-bei-ki-agenten-auf-mac-computern/100259548.html",
-   "published": "2026-10-04T06:12:17+00:00",
-   "first_seen": "2026-10-04T10:58:02.273871+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Frisst\" KI Einstiegsjobs?",
-   "summary": "Die Arbeitslosigkeit von Akademikerinnen und Akademikern hat einen neuen Höchststand erreicht: Sie ist stärker gestiegen als die allgemeine. Welche Rolle spielt KI dabei?",
-   "link": "https://www.zdfheute.de/wirtschaft/ki-berufseinsteiger-arbeitsmarkt-jobsuche-100.html",
-   "published": "2026-10-04T05:56:00+00:00",
-   "first_seen": "2026-10-04T10:58:02.273871+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: Trump ernennt offenbar Geheimdienstchef Jay Clayton zum KI-Beauftragten",
-   "summary": "Trump-Regierung verzichtet auf weitere Ermittlungen gegen Ex-Fed-Chef Powell +++ Diesel-Exportverbot stand laut Trump nie wirklich zur Debatte +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-ernennt-offenbar-geheimdienstchef-zum-ki-beauftragten/29669594.html",
-   "published": "2026-10-04T05:54:00+00:00",
-   "first_seen": "2026-10-04T10:58:02.273871+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Auf Mac-PCs: Apple plant Datenwarnung bei KI-Agenten",
-   "summary": "KI-Agenten brauchen oft weitreichenden Zugang zu Nutzerdaten. Apples Mac-Computer bieten diese Möglichkeit. Nutzer sollen deshalb vorab gewarnt werden.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/apple-warnt-mac-nutzer-vor-ki-agenten-und-datenzugang-accg-201286182.html",
-   "published": "2026-10-04T05:42:44+00:00",
-   "first_seen": "2026-10-04T10:58:02.273871+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "New York: Das Geschäft mit dem 60-Dollar-Brot",
-   "summary": "In SoHo wird österreichisches Roggensauerteigbrot zum Statussymbol. Der Hype zeigt, wie sich die Sehnsucht nach Herkunft und Handwerk mit Luxusmarketing und Social Media verbindet.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/new-york-das-geschaeft-mit-dem-60-dollar-brot/100259525.html",
-   "published": "2026-10-04T03:45:48+00:00",
-   "first_seen": "2026-10-04T04:33:58.274272+00:00",
    "paywall": true
   }
  ]
