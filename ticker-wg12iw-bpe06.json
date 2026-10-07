@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-07T06:05:34.774825+00:00",
+ "updated": "2026-10-07T07:07:55.449284+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Tech-Start-ups: So machten eine Milliardärin und ein Student München zur Hauptstadt der Gründer",
+   "summary": "BMW-Erbin Susanne Klatten und Helmut Schönenberger haben ein Ökosystem für Milliarden-Projekte geschaffen. Anfangs wurden sie ausgelacht. Und nun?",
+   "link": "https://www.wiwo.de/unternehmen/it/start-ups-in-muenchen-wieso-die-stadt-zur-hochburg-fuer-tech-gruender-wird/100256442.html",
+   "published": "2026-10-07T06:22:00+00:00",
+   "first_seen": "2026-10-07T07:07:55.449284+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Ifo: Ölkonzerne geben Tankrabatt bislang nur teilweise weiter",
+   "summary": "Paramount schließt Warner-Übernahme ab +++ SAP will KI-Spezialisten TechWolf übernehmen +++ Rheinmetall erschließt Weltall als Geschäftsfeld +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-oelkonzerne-geben-tankrabatt-laut-ifo-bislang-nur-teilweise-weiter-faz-200452404.html",
+   "published": "2026-10-07T06:09:36+00:00",
+   "first_seen": "2026-10-07T07:07:55.449284+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Insolvenzverfahren: Wanja Oberhof droht auch juristischer Ärger in Deutschland",
@@ -9,6 +27,15 @@
    "link": "https://www.handelsblatt.com/unternehmen/dienstleister/wanja-oberhof-jetzt-droht-ihm-auch-juristischer-aerger-in-deutschland/100260181.html",
    "published": "2026-10-07T05:44:19+00:00",
    "first_seen": "2026-10-07T06:05:34.774825+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Insolvenzverfahren: Wanja Oberhof droht auch in Deutschland juristischer Ärger",
+   "summary": "Unter Oberhofs Führung rutschte ein Sanitärausstatter in die Insolvenz. Ein Immobilienverkauf wirft Fragen auf. Für Oberhof geht es mal wieder um Millionen.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/wanja-oberhof-jetzt-droht-ihm-auch-in-deutschland-juristischer-aerger/100260181.html",
+   "published": "2026-10-07T05:44:19+00:00",
+   "first_seen": "2026-10-07T07:07:55.449284+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/politik/international/uebernahme-jd.com-kann-auf-gruenes-licht-der-eu-fuer-ceconomy-setzen/100259343.html",
    "published": "2026-10-02T12:48:17+00:00",
    "first_seen": "2026-10-02T13:06:59.258754+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Galeria-Insolvenz: Wickelt das Warenhaus ab!",
-   "summary": "Galeria ist insolvent. Klingt vertraut? Kein Wunder, das Geschäftsmodell hat sich schon lange überlebt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/galeria-insolvent-wickelt-das-warenhaus-ab-201282938.html",
-   "published": "2026-10-02T12:05:19+00:00",
-   "first_seen": "2026-10-02T13:06:59.258754+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Warenhauskette: Das sind die Gründe für Galerias neues Insolvenzverfahren",
-   "summary": "Die Warenhauskette beantragt das vierte Insolvenzverfahren in sechs Jahren. Es drohen mehr als 30 Schließungen. Die Ursachen liegen nicht allein im schwachen Konsum.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/galeria-benko-insolvenz-2026-warenhauskette-kaufhaeuser-konsum-berlin-muenchen-li.3557500",
-   "published": "2026-10-02T11:28:34+00:00",
-   "first_seen": "2026-10-02T12:05:56.208665+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Altkanzler Schröder wird Aufsichtsrat bei russischer Globus",
-   "summary": "Bauhaus darf acht Standorte der insolventen Hellweg-Gruppe übernehmen +++ Bundesregierung hebt wohl Wachstumsprognosen kräftig an +++ Geht Anthropic schon Mitte November an die Börse? +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-altkanzler-schroeder-wird-aufsichtsrat-bei-russischer-globus-faz-200452404.html",
-   "published": "2026-10-02T11:26:11+00:00",
-   "first_seen": "2026-10-02T12:05:56.208665+00:00",
    "paywall": true
   }
  ]
