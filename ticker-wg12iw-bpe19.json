@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-07T09:06:18.743044+00:00",
+ "updated": "2026-10-07T10:06:53.935436+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-so-reich-sind-sie-im-deutschland-vergleich/100149729.html",
+   "published": "2026-10-07T09:07:00+00:00",
+   "first_seen": "2026-10-07T10:06:53.935436+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Ifo-Institut: Tankrabatt wird nur teilweise weitergegeben",
+   "summary": "Der Tankrabatt kommt laut Ifo-Institut nicht immer vollständig bei den Autofahrern an. Besonders bei Super E10 schwankt, wie viel von der Steuersenkung weitergegeben wird.",
+   "link": "https://www.zdfheute.de/wirtschaft/ifo-institut-weitergabe-tankrabatt-100.html",
+   "published": "2026-10-07T09:05:00+00:00",
+   "first_seen": "2026-10-07T10:06:53.935436+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Euro-Krise: Frankreich soll Schuldenkrise ohne Hilfe der EZB lösen",
+   "summary": "Der Bank-Chef Emmanuel Moulin fordert von Frankreich eine eigenständige Lösung der Schuldenprobleme. Allerdings wächst, Angesichts der steigenden Zinskosten, der Druck auf Paris.",
+   "link": "https://www.handelsblatt.com/politik/international/euro-krise-frankreich-soll-schuldenkrise-ohne-hilfe-der-ezb-loesen/100260364.html",
+   "published": "2026-10-07T09:02:29+00:00",
+   "first_seen": "2026-10-07T10:06:53.935436+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Haushalt: Norwegische Regierung will mehr Geld aus Staatsfonds entnehmen",
@@ -162,6 +189,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-investitionen-steuern-li.3559074",
    "published": "2026-10-06T14:20:16+00:00",
    "first_seen": "2026-10-07T05:06:12.028090+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Konjunktur: Warum der Staat allein fürs Wirtschaftswachstum sorgt",
+   "summary": "Unternehmen und Haushalte haben seit 2020 unter dem Strich nichts zum Anstieg der Wirtschaftsleistung beigetragen. Hätte der Staat nicht so viel Geld ausgegeben, wäre das Bruttoinlandsprodukt sogar geschrumpft.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-investitionen-steuern-wachstum-li.3559074",
+   "published": "2026-10-06T14:20:16+00:00",
+   "first_seen": "2026-10-07T10:06:53.935436+00:00",
    "paywall": true
   },
   {
@@ -694,42 +730,6 @@
    "published": "2026-10-02T15:00:30+00:00",
    "first_seen": "2026-10-02T15:06:13.203645+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Trotz Wohnungsmangel: „Genehmigungsverfahren bleiben viel zu langsam“„Genehmigungsverfahren bleiben viel zu langsam“",
-   "summary": "Catella-Investment-Chef Michael Fink erklärt, warum das Bauen mit vorgefertigten Bauteilen ein Wachstumsmarkt ist – und was Kasernen damit zu tun haben.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-genehmigungsverfahren-bleiben-viel-zu-langsam/100253564.html",
-   "published": "2026-10-02T14:18:19+00:00",
-   "first_seen": "2026-10-02T15:06:13.203645+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Schwacher US-Arbeitsmarkt: Nur 29.000 neue Stellen im September",
-   "summary": "Altkanzler Schröder wird Aufsichtsrat bei russischer Globus +++ Bauhaus darf acht Standorte der insolventen Hellweg-Gruppe übernehmen +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-schwacher-us-arbeitsmarkt-nur-29-000-neue-stellen-im-september-faz-200452404.html",
-   "published": "2026-10-02T13:48:59+00:00",
-   "first_seen": "2026-10-02T14:06:18.589447+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "US-Konjunktur: US-Jobmarkt schwächelt – nur 29.000 neue Stellen im September",
-   "summary": "Der US-Arbeitsmarkt gerät zunehmend unter Druck. Die Arbeitslosenquote stieg im September auf 4,2 Prozent.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-der-jobmarkt-in-den-usa-schwaechelt/100259348.html",
-   "published": "2026-10-02T13:23:58+00:00",
-   "first_seen": "2026-10-02T14:06:18.589447+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Linke Wirtschaftspolitik: Isabella Weber fordert Staat im Dienst der Bürger",
-   "summary": "Die in den USA lehrende deutsche Ökonomin Isabella Weber glaubt zu wissen, wie man Rechtspopulisten aufhält. Sie will den Staat rigoros um die Bedürfnisse der Menschen herum organisieren.",
-   "link": "https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss",
-   "published": "2026-10-02T13:23:00+00:00",
-   "first_seen": "2026-10-02T14:06:18.589447+00:00",
-   "paywall": false
   }
  ]
 }
