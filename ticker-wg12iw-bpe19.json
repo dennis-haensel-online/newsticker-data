@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-07T08:07:01.201473+00:00",
+ "updated": "2026-10-07T09:06:18.743044+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -27,6 +27,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/tankrabatt-2026-ifo-institut-spritpreise-diesel-li.3559725",
    "published": "2026-10-07T06:38:46+00:00",
    "first_seen": "2026-10-07T07:07:55.449284+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Ifo-Institut: Tankrabatt bisher nur teilweise weitergegeben",
+   "summary": "Die Münchner Wirtschaftsforscher analysieren – wie schon im Frühjahr und Sommer – die Preise an den Zapfsäulen. In den ersten Tagen fehlt ein Stück zwischen Preisrückgang und Steuerrabatt.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/tankrabatt-ifo-institut-spritpreise-diesel-entwicklung-verbraucher-li.3559725",
+   "published": "2026-10-07T06:38:46+00:00",
+   "first_seen": "2026-10-07T09:06:18.743044+00:00",
    "paywall": true
   },
   {
@@ -721,33 +730,6 @@
    "published": "2026-10-02T13:23:00+00:00",
    "first_seen": "2026-10-02T14:06:18.589447+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: US-Arbeitsmarkt schwächt sich im September überraschend stark ab – weniger als 30.000 neue Stellen",
-   "summary": "Der Stellenaufbau in den USA verlangsamt sich stärker als von Ökonomen erwartet – auch mit Blick auf die Vormonate. Die jüngsten Daten richten den Fokus auf die weitere Zinspolitik der Fed.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/konjunktur-us-arbeitsmarkt-schwaecht-sich-im-september-ueberraschend-stark-ab/100259227.html",
-   "published": "2026-10-02T12:35:17+00:00",
-   "first_seen": "2026-10-02T13:06:59.258754+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: USA planen Stationierung von Raketensystem nahe Taiwan",
-   "summary": "Umfrage: Mehrheit unzufrieden mit Trumps Wirtschaftspolitik +++ Weißes Haus schließt CNN erneut von Reise aus +++ Trump: „Wird Wahlen geben“ in Venezuela – aber noch zu früh +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-usa-planen-stationierung-von-raketensystem-nahe-taiwan/29669594.html",
-   "published": "2026-10-02T12:05:00+00:00",
-   "first_seen": "2026-10-02T13:06:59.258754+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Altkanzler Schröder wird Aufsichtsrat bei russischer Globus",
-   "summary": "Bauhaus darf acht Standorte der insolventen Hellweg-Gruppe übernehmen +++ Bundesregierung hebt wohl Wachstumsprognosen kräftig an +++ Geht Anthropic schon Mitte November an die Börse? +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-altkanzler-schroeder-wird-aufsichtsrat-bei-russischer-globus-faz-200452404.html",
-   "published": "2026-10-02T11:26:11+00:00",
-   "first_seen": "2026-10-02T12:05:56.208665+00:00",
-   "paywall": true
   }
  ]
 }

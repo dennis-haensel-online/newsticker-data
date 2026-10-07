@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-07T08:07:01.201473+00:00",
+ "updated": "2026-10-07T09:06:18.743044+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "BSI: Nur jede zehnte Firma in Deutschland für KI-Angriffe gewappnet",
+   "summary": "Das Bundesamt für Sicherheit und Informationstechnik hat gemeinsam mit dem TÜV eine Studie veröffentlich, die deutsche Unternehmen auf KI-Abwehr untersuchte: Die Ergebnisse sind beunruhigend.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bsi-nur-jede-zehnte-firma-in-deutschland-fuer-ki-angriffe-gewappnet/100260360.html",
+   "published": "2026-10-07T08:43:38+00:00",
+   "first_seen": "2026-10-07T09:06:18.743044+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
@@ -873,15 +882,6 @@
    "link": "https://www.handelsblatt.com/audio/today/today-euro-inflation-auf-drei-jahres-hoch/100259394.html",
    "published": "2026-10-02T15:51:05+00:00",
    "first_seen": "2026-10-02T17:04:39.808349+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Riedls Dax-Radar: Warum Hightech-Aktien die letzte Chance für die Börsen werden können",
-   "summary": "Wegbrechende Bonds, steigende Renditen und düstere Szenarien für Rohöl drücken die Börsen. Entscheidend wird, ob Chip- und KI-Aktien stark genug sind, den großen Trend zu retten.",
-   "link": "https://www.wiwo.de/finanzen/boerse/dax-wackelt-warum-tech-aktien-jetzt-entscheidend-werden/100259282.html",
-   "published": "2026-10-02T12:08:54+00:00",
-   "first_seen": "2026-10-02T13:06:59.258754+00:00",
    "paywall": true
   }
  ]
