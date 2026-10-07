@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-07T13:10:27.900050+00:00",
+ "updated": "2026-10-07T14:06:08.890949+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Deep Read: Fünf Grafiken zeigen, warum die Fachkräftekrise gerade erst beginnt",
+   "summary": "KI-Angst bei Akademikern, Zulauf im Handwerk – die Debatte hat sich gedreht. Doch drei Entwicklungen sprechen dagegen, dass Deutschland sein Personalproblem los ist.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-warum-die-fachkraeftekrise-gerade-erst-beginnt/100249881.html",
+   "published": "2026-10-07T13:37:17+00:00",
+   "first_seen": "2026-10-07T14:06:08.890949+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: IWF rechnet mit anhaltend hohen Energiepreisen",
+   "summary": "Der Iran-Krieg und der KI-Boom sorgen für steigende Energiepreise. Die IWF-Chefin rät zum Kurswechsel bei der Geldpolitik.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-iwf-rechnet-mit-anhaltend-hohen-energiepreisen/100260308.html",
+   "published": "2026-10-07T12:21:51+00:00",
+   "first_seen": "2026-10-07T14:06:08.890949+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Pionier: „Diese KIs betrügen, obwohl sie es nicht dürfen“",
@@ -72,6 +90,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/adesso-gruender-volker-gruhn-ki-agenten-koennen-durchdrehen-accg-201292853.html",
    "published": "2026-10-07T10:07:50+00:00",
    "first_seen": "2026-10-07T11:06:20.240307+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Adesso-Gründer Gruhn: „KI-Agenten können durchdrehen“",
+   "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agenten-koennen-durchdrehen-adesso-gruender-gruhn-ueber-umgang-mit-ki-accg-201292853.html",
+   "published": "2026-10-07T10:07:50+00:00",
+   "first_seen": "2026-10-07T14:06:08.890949+00:00",
    "paywall": true
   },
   {
@@ -874,33 +901,6 @@
    "published": "2026-10-04T03:45:48+00:00",
    "first_seen": "2026-10-04T04:33:58.274272+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Apple plant Datenwarnung bei KI-Agenten auf Mac-Computern",
-   "summary": "Sogenannte KI-Agenten sind auf weitreichenden Zugang zu Nutzerdaten angewiesen. Apples Mac-Computer bieten diese Möglichkeit - anders als andere Geräte der Firma. Jetzt sollen Nutzer gewarnt werden.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-apple-plant-datenwarnung-bei-ki-agenten-auf-mac-computern/100259531.html",
-   "published": "2026-10-04T02:59:37+00:00",
-   "first_seen": "2026-10-04T04:33:58.274272+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Drohnen, KI und Militär: Die Zukunft der Technologie",
-   "summary": "In der Ukraine geht es nicht nur um Krieg, sondern auch um die Zukunft der Technologie. Ausgeklügelte Software geht eine Symbiose mit den Drohnen ein. mehr...",
-   "link": "https://taz.de/Drohnen-KI-und-Militaer/!6210140/",
-   "published": "2026-10-03T18:24:00+00:00",
-   "first_seen": "2026-10-03T18:49:46.011205+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Wer an KI-Songs verdient - und wer leer ausgeht",
-   "summary": "Immer mehr Songs auf Streamingplattformen werden nicht von Menschen erschaffen, sondern stammen aus der Maschine - und nicht immer ist das erkennbar. Viele Musikschaffende sehen dadurch ihre wirtschaftliche Existenz bedroht. Von N. Laryea.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-musik-existenz-100.html",
-   "published": "2026-10-03T15:11:44+00:00",
-   "first_seen": "2026-10-03T18:49:46.011205+00:00",
-   "paywall": false
   }
  ]
 }
