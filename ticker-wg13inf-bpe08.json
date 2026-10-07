@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-07T10:06:53.935436+00:00",
+ "updated": "2026-10-07T11:06:20.240307+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Zalando-Mitgründer: „Wir brauchen einen europäischen Traum“",
+   "summary": "Co-CEO Robert Gentz erklärt, woraus er seinen Optimismus für Europa schöpft, wie agentische KI den Online-Modehändler verändert, was er bereut – und wie er Anleger überzeugen will.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/zalando-coceo-gentz-abschottung-macht-niemanden-besser-wettbewerb-schon/100255118.html",
+   "published": "2026-10-07T10:32:00+00:00",
+   "first_seen": "2026-10-07T11:06:20.240307+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Buchmesse: Hat das Buch noch eine Zukunft, Herr Guggolz?",
+   "summary": "Die Zahl der Buchkäufer sinkt, ebenso die Zahl der Buchhandlungen. Der neue Vorsitzende des Börsenvereins glaubt zwar an das gedruckte Buch, macht sich aber Sorgen um die Jüngsten und den Vormarsch der KI.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/der-boom-eines-genres-ist-hoffnungsschimmer-fuer-die-buchbranche-accg-201158790.html",
+   "published": "2026-10-07T10:30:50+00:00",
+   "first_seen": "2026-10-07T11:06:20.240307+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Cybersicherheit: KI-Angriffe treffen jedes sechste Unternehmen",
+   "summary": "Cyberkriminelle nutzen KI längst für Phishing und automatisierte Angriffe. Eine neue Studie zeigt: Viele Betriebe sind darauf nicht vorbereitet.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/cyberangriffe-ki-kuenstliche-intelligenz-unternehmen-cybersicherheit-li.3559516",
+   "published": "2026-10-07T10:14:34+00:00",
+   "first_seen": "2026-10-07T11:06:20.240307+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Adesso-Gründer Gruhn: „KI-Agenten können durchdrehen“",
+   "summary": "Volker Gruhn ist Gründer des IT-Dienstleisters Adesso, der etwa 12.000 Mitarbeiter hat. Er spricht über KI-Agenten, die Software entwickeln, was Beschäftigte lernen sollten – und darüber, was KI niemals übernehmen sollte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/adesso-gruender-volker-gruhn-ki-agenten-koennen-durchdrehen-accg-201292853.html",
+   "published": "2026-10-07T10:07:50+00:00",
+   "first_seen": "2026-10-07T11:06:20.240307+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "McKinsey-Analyse: Gesundheitssystem soll durch Digitalisierung 80 Milliarden sparen können",
+   "summary": "Die Analyse der Beratungsgesellschaft McKinsey sieht die Möglichkeit, durch die elektronische Patientenakte und digitale Behandlung chronisch Kranker Geld zu sparen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mckinsey-gesundheitssystem-soll-durch-digitalisierung-80-milliarden-sparen-koennen-accg-201291236.html",
+   "published": "2026-10-07T10:03:47+00:00",
+   "first_seen": "2026-10-07T11:06:20.240307+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Technologie: Hersteller rationieren Chips – mehr als 52 Wochen Lieferzeit",
@@ -856,51 +901,6 @@
    "published": "2026-10-03T07:42:34+00:00",
    "first_seen": "2026-10-03T08:04:31.788907+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "xAI von Elon Musk: US-Gericht stoppt vorläufig KI-Nacktbild-Verbot",
-   "summary": "xAI klagt gegen Minnesotas Verbot von KI-Nacktbildern und bekommt vorläufig Recht. Der Streit berührt die Meinungsfreiheit.",
-   "link": "https://www.wiwo.de/politik/ausland/xai-von-elon-musk-us-gericht-stoppt-vorlaeufig-ki-nacktbild-verbot/100259466.html",
-   "published": "2026-10-03T07:21:54+00:00",
-   "first_seen": "2026-10-03T08:04:31.788907+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Historiker übers Bahnfahren: „Am liebsten spricht man über das, was einen stört“",
-   "summary": "Vom Zugfahren als Zumutung erzählen die Leute nicht erst seit Social Media, sagt Niklas Weber: Fantasien kitzelte die Begegnung der Klassen von Anfang an. mehr...",
-   "link": "https://taz.de/Historiker-uebers-Bahnfahren/!6213744/",
-   "published": "2026-10-03T07:00:00+00:00",
-   "first_seen": "2026-10-03T07:10:36.577357+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenWoche 579: Editorial: Deshalb wackelt es am IPO-Markt",
-   "summary": "Zuletzt häuften sich Rückzieher bei geplanten Börsengängen. Kritiker sehen darin erste Zeichen für eine bröckelnde KI-Euphorie. Haben Sie Recht?",
-   "link": "https://www.wiwo.de/finanzen/boerse/ipo-markt-geraet-ins-stocken-warum-boersengaenge-verschoben-werden/100259025.html",
-   "published": "2026-10-03T06:47:43+00:00",
-   "first_seen": "2026-10-03T07:10:36.577357+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Chickeletta\" oder von der Leyen legt ein Ei",
-   "summary": "Von der Leyens Huhn sorgt für Gesprächsstoff - das hat auch mit Trumps Politik zu tun. Diese Woche geht es um die Midterms, steigende Preise und (keine) Regeln für KI.",
-   "link": "https://www.zdfheute.de/briefing/trump-effekt/midterms-ki-europa-eu-100.html",
-   "published": "2026-10-03T06:40:00+00:00",
-   "first_seen": "2026-10-03T07:10:36.577357+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie KI den Berufseinstieg erschweren kann",
-   "summary": "Die Jobsuche gestaltet sich für Berufseinsteiger zunehmend schwieriger. Neben der wirtschaftlichen Entwicklung könnte auch künstliche Intelligenz eine Rolle spielen.",
-   "link": "https://www.zdfheute.de/video/ki-erschwert-berufseinstieg-reel-9x16-video-100.html",
-   "published": "2026-10-03T06:33:00+00:00",
-   "first_seen": "2026-10-03T11:59:03.671592+00:00",
-   "paywall": false
   }
  ]
 }
