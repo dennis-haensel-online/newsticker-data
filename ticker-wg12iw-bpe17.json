@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-10-07T07:07:55.449284+00:00",
+ "updated": "2026-10-07T08:07:01.201473+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -18,6 +18,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-10/tankrabatt-ifo-steuersenkung-autofahrer-diesel-benzin",
    "published": "2026-10-07T06:24:05+00:00",
    "first_seen": "2026-10-07T07:07:55.449284+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Energiepreise: Tankrabatt kommt laut Untersuchung nicht komplett bei Autofahrern an",
+   "summary": "Der Tankrabatt wird laut einer Untersuchung nur teilweise an Verbraucher weitergegeben. 17 Cent Steuersenkung hätten den Dieselpreis um durchschnittlich 15 Cent gesenkt.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/tankrabatt-ifo-steuersenkung-autofahrer-diesel-benzin-gxe",
+   "published": "2026-10-07T06:24:05+00:00",
+   "first_seen": "2026-10-07T08:07:01.201473+00:00",
    "paywall": true
   },
   {
@@ -451,24 +460,6 @@
    "published": "2026-10-02T12:42:09+00:00",
    "first_seen": "2026-10-02T13:06:59.258754+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Privatunis: Business-Schools werben mit Beziehungsarbeit um Studentinnen und Studenten",
-   "summary": "Studierende erwarten von Business-Schools außer einer guten Ausbildung auch den Zugang zu begehrten Jobs und karrierefördernden Kontakten. Die Alumni-Netzwerke werden zum Wettbewerbsfaktor.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/privatunis-business-schools-werben-mit-beziehungsarbeit-um-studierende/100257270.html",
-   "published": "2026-10-02T11:05:19+00:00",
-   "first_seen": "2026-10-02T12:05:56.208665+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent",
-   "summary": "Die Inflationsrate in der Eurozone ist im September auf 3,8 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Der Grund sind die hohen Energiepreise.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-anstieg-102.html",
-   "published": "2026-10-02T10:52:03+00:00",
-   "first_seen": "2026-10-02T12:05:56.208665+00:00",
-   "paywall": false
   }
  ]
 }
