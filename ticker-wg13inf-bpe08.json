@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-08T15:07:10.489552+00:00",
+ "updated": "2026-10-08T16:07:56.990613+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Datenschutzbeauftragter Hennemann: „Digitale Souveränität ist wichtig“",
+   "summary": "Seit Oktober ist Moritz Hennemann Bundesbeauftragter für Datenschutz und Informationsfreiheit (BfDI). Der Fall Hanning hat auch ihn „erschüttert“. mehr...",
+   "link": "https://taz.de/Datenschutzbeauftragter-Hennemann/!6220000/",
+   "published": "2026-10-08T15:56:00+00:00",
+   "first_seen": "2026-10-08T16:07:56.990613+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
+   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/familienunternehmen-ki-ist-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
+   "published": "2026-10-08T15:55:00+00:00",
+   "first_seen": "2026-10-08T16:07:56.990613+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Trump droht Iran, Ölpreise und Anleiherenditen ziehen wieder an",
+   "summary": "Steigende Energiepreise, Inflationsrisiken und hohe Finanzierungskosten belasten die US-Börsen. Gleichzeitig läuft der KI-Investitionsboom weiter.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-trump-droht-iran-oelpreise-und-anleiherenditen-ziehen-wieder-an/100260810.html",
+   "published": "2026-10-08T15:20:54+00:00",
+   "first_seen": "2026-10-08T16:07:56.990613+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Microsoft rüstet Windows für KI-Agenten auf",
+   "summary": "Der Softwarekonzern verbündet sich mit Nvidia und stellt einen neuen KI-Laptop vor. Er verbindet dies mit einer Kampfansage an Apple.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-surface-laptop-ultra-kampfansage-an-apple-201299628.html",
+   "published": "2026-10-08T15:01:07+00:00",
+   "first_seen": "2026-10-08T16:07:56.990613+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Ukraine-Krieg: Luftangriffe auf russisches KI‑Rechenzentrum",
@@ -865,42 +901,6 @@
    "published": "2026-10-06T04:43:00+00:00",
    "first_seen": "2026-10-06T05:05:30.099955+00:00",
    "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
-   "summary": "Die Leselust sinkt, Läden schließen, die Politik macht Druck. Wird die Krise der deutschen Buchbranche existenziell? Das ist ein bestimmendes Thema, das den Start der 78. Frankfurter Buchmesse überschattet. Von Sonja Fouraté.",
-   "link": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html",
-   "published": "2026-10-06T04:22:55+00:00",
-   "first_seen": "2026-10-06T07:07:11.128907+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Moonshot plant offenbar Börsengang für Anfang 2027",
-   "summary": "Der chinesische KI-Entwickler hat seine letzte private Finanzierungsrunde abgeschlossen. Mit dem geplanten Börsengang in Hongkong erwartet das Unternehmen Milliardeneinnahmen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-moonshot-plant-offenbar-boersengang-fuer-anfang-2027/100259970.html",
-   "published": "2026-10-06T04:20:07+00:00",
-   "first_seen": "2026-10-06T05:05:30.099955+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: „Cutting edge“",
-   "summary": "Telekom-Chef Tim Höttges sieht in KI größeres Einsparpotenzial als Umsatzchancen. Das dürfte zulasten der Mitarbeiter gehen.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/telekom-muessen-die-mitarbeiter-den-ki-agenten-weichen/100259826.html",
-   "published": "2026-10-06T03:55:05+00:00",
-   "first_seen": "2026-10-06T04:06:19.451594+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Web- und App-Tipp: „Kleinanzeigen.de“: Wussten Sie, dass KI Ihre Chats liest?",
-   "summary": "KI liest die Kommunikation auf „Kleinanzeigen.de“ mit, um passende Antworten zu liefern. Eine Einwilligungsabfrage gab es dafür nicht. Wer die Funktion nicht möchte, kann sie aber ausschalten.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/web-und-app-tipp-kleinanzeigende-wussten-sie-dass-ki-ihre-chats-liest/100259961.html",
-   "published": "2026-10-06T03:17:04+00:00",
-   "first_seen": "2026-10-06T04:06:19.451594+00:00",
-   "paywall": true
   }
  ]
 }

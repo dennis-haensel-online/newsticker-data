@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-10-08T15:07:10.489552+00:00",
+ "updated": "2026-10-08T16:07:56.990613+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Trump droht Iran, Ölpreise und Anleiherenditen ziehen wieder an",
+   "summary": "Steigende Energiepreise, Inflationsrisiken und hohe Finanzierungskosten belasten die US-Börsen. Gleichzeitig läuft der KI-Investitionsboom weiter.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-trump-droht-iran-oelpreise-und-anleiherenditen-ziehen-wieder-an/100260810.html",
+   "published": "2026-10-08T15:20:54+00:00",
+   "first_seen": "2026-10-08T16:07:56.990613+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Bahn muss Top-Strecken für Wettbewerber nicht freigeben",
@@ -514,15 +523,6 @@
    "published": "2026-10-05T13:06:00+00:00",
    "first_seen": "2026-10-05T13:09:46.826787+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Energiepreise: Spritpreis seit Start des Tankrabatts wieder gestiegen",
-   "summary": "Die Spritpreise in Deutschland liegen trotz Senkung der Energiesteuer höher als vor vier Tagen. Der ADAC spricht von einer teils wieder aufgezehrten Entlastungswirkung.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/tankrabatt-spritpreise-adac-super-e10-diesel-gxe",
-   "published": "2026-10-05T12:36:26+00:00",
-   "first_seen": "2026-10-05T13:09:46.826787+00:00",
-   "paywall": true
   }
  ]
 }

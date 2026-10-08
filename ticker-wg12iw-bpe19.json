@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-08T15:07:10.489552+00:00",
+ "updated": "2026-10-08T16:07:56.990613+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-10-09T04:20:00+00:00",
    "first_seen": "2026-10-08T05:06:07.276669+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Trump droht Iran, Ölpreise und Anleiherenditen ziehen wieder an",
+   "summary": "Steigende Energiepreise, Inflationsrisiken und hohe Finanzierungskosten belasten die US-Börsen. Gleichzeitig läuft der KI-Investitionsboom weiter.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-trump-droht-iran-oelpreise-und-anleiherenditen-ziehen-wieder-an/100260810.html",
+   "published": "2026-10-08T15:20:54+00:00",
+   "first_seen": "2026-10-08T16:07:56.990613+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Bundesregierung hebt Prognose an: Demokratiegefährdend pessimistisch",
+   "summary": "Die Konjunktur läuft dieses Jahr besser als gedacht. Trotzdem pocht die Wirtschaftslobby nach wie vor auf Reformen in ihrem Sinne. mehr...",
+   "link": "https://taz.de/Bundesregierung-hebt-Prognose-an/!6219915/",
+   "published": "2026-10-08T15:16:00+00:00",
+   "first_seen": "2026-10-08T16:07:56.990613+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -855,33 +873,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-deutsch-franzoesische-initiative-gegen-unfaire-handelspraktik/100259858.html",
    "published": "2026-10-05T13:22:56+00:00",
    "first_seen": "2026-10-05T14:09:07.850181+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Aufschwung: Griechenland erwartet robustes Wachstum",
-   "summary": "Schon das siebte Jahr hintereinander geht es mit der Wirtschaft stärker aufwärts als im Durchschnitt der anderen Euro-Länder. Die Schuldenquote wird bald niedriger sein als die von Italien.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/griechenland-wirtschaft-schulden-li.3558714",
-   "published": "2026-10-05T12:15:38+00:00",
-   "first_seen": "2026-10-05T13:09:46.826787+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gen Z: „Die Demut kehrt zurück – aber nicht bei allen“",
-   "summary": "Vier-Tage-Woche, Homeoffice – lange bestimmte die Generation Z die Bedingungen am Arbeitsmarkt. Jetzt schrumpft das Jobangebot für Einsteiger massiv. Wie forsch können sie noch auftreten?",
-   "link": "https://www.handelsblatt.com/karriere/gen-z-die-meisten-haben-eine-eingebaute-burn-out-sperre/100256476.html",
-   "published": "2026-10-05T12:11:00+00:00",
-   "first_seen": "2026-10-05T13:09:46.826787+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Notenbank: Merz trifft Kandidaten für Lagarde-Nachfolge bei der EZB",
-   "summary": "Der Bundeskanzler lotet die Chancen zweier Favoriten für die EZB-Spitze aus. Die Treffen legen nahe, dass der deutsche Bundesbankchef Joachim Nagel aus dem Rennen ist.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-merz-trifft-kandidaten-fuer-lagarde-nachfolge-bei-der-ezb/100259823.html",
-   "published": "2026-10-05T12:07:56+00:00",
-   "first_seen": "2026-10-05T13:09:46.826787+00:00",
    "paywall": true
   }
  ]
