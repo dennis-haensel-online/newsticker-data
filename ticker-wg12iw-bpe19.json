@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-08T11:06:13.098589+00:00",
+ "updated": "2026-10-08T12:07:23.802918+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-10-09T04:20:00+00:00",
    "first_seen": "2026-10-08T05:06:07.276669+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
+   "summary": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
+   "published": "2026-10-08T11:18:18+00:00",
+   "first_seen": "2026-10-08T12:07:23.802918+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Bundesregierung hebt Wachstumsprognose an",
+   "summary": "\"Die deutsche Wirtschaft befindet sich auf Wachstumskurs\": Das Wirtschaftsministerium von Katherina Reiche erwartet mehr Wachstum und korrigiert seine Prognosen nach oben.",
+   "link": "https://www.zdfheute.de/politik/deutschland/wirtschaft-prognose-bundesregierung-wachstum-100.html",
+   "published": "2026-10-08T10:57:00+00:00",
+   "first_seen": "2026-10-08T12:07:23.802918+00:00",
+   "paywall": false
   },
   {
    "label": "ZEIT",
@@ -801,24 +819,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-ifo-stimmung-in-der-autoindustrie-sackt-ab/100259772.html",
    "published": "2026-10-05T09:40:41+00:00",
    "first_seen": "2026-10-05T10:07:34.455691+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Asien: Hoffnung auf Zinspause beflügelte asiatische Börsen",
-   "summary": "Die japanischen Investoren schöpften Mut und hofften, dass die amerikanische Fed ihren Leitzins erst einmal nicht weiter antastet. In China waren die Börsen geschlossen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-hoffnung-auf-zinspause-befluegelte-asiatische-boersen/100259648.html",
-   "published": "2026-10-05T08:15:01+00:00",
-   "first_seen": "2026-10-05T09:07:08.253309+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Maschinenbau: Zu wenig Aufträge aus dem Inland",
-   "summary": "Im August fehlen in der deutschen Industrie Großaufträge. Was das für Produktion und Auslastung der Anlagen bedeutet – und wann wieder Wachstum erwartet wird.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/maschinenbau-in-deutschland-zu-wenig-auftraege-aus-dem-inland/100259710.html",
-   "published": "2026-10-05T08:01:00+00:00",
-   "first_seen": "2026-10-05T08:06:46.176015+00:00",
    "paywall": true
   }
  ]
