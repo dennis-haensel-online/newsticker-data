@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-08T17:06:44.248236+00:00",
+ "updated": "2026-10-08T18:06:00.696946+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "SpeicherChiphersteller: Wie der KI-Boom Samsungs Gewinn in die Höhe katapultiert",
+   "summary": "Der koreanische Chiphersteller Samsung meldet den höchsten Quartalsgewinn, den je ein Technologiekonzern erzielt hat. Doch an der Börse wachsen die Zweifel.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/samsung-electronics-rekordhoch-beim-quartalsgewinn-dank-ki-201299786.html",
+   "published": "2026-10-08T17:22:02+00:00",
+   "first_seen": "2026-10-08T18:06:00.696946+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Trump: Wer noch Künstliche Intelligenz sagt, ist ein Feind",
@@ -891,15 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
    "published": "2026-10-06T06:18:49+00:00",
    "first_seen": "2026-10-06T07:07:11.128907+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Reflection AI stellt offenes KI-Modell vor",
-   "summary": "Das US-Start-up will mit seinem Modell Beam gegen die großen KI-Entwickler antreten. Dabei bekommt das Unternehmen finanzielle Rückendeckung von einem Chipriesen.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-reflection-ai-stellt-offenes-ki-modell-vor/100259981.html",
-   "published": "2026-10-06T05:56:47+00:00",
-   "first_seen": "2026-10-06T06:06:25.626817+00:00",
    "paywall": true
   }
  ]
