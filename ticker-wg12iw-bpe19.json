@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-08T20:07:02.132808+00:00",
+ "updated": "2026-10-08T21:06:00.462028+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,33 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
    "published": "2026-10-09T04:20:00+00:00",
    "first_seen": "2026-10-08T05:06:07.276669+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Euro: Der Frankreich-Schock weckt düstere Erinnerungen",
+   "summary": "Investoren flüchten aus dem Euro – Pessimisten fürchten eine Wiederholung der Euro-Krise vor 15 Jahren. Andere setzen darauf, dass Investoren und EZB dazugelernt haben.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/euro-der-frankreich-schock-weckt-duestere-erinnerungen/100260419.html",
+   "published": "2026-10-08T21:01:00+00:00",
+   "first_seen": "2026-10-08T21:06:00.462028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Clemens Fuest: „Es droht eine fortgesetzte Erosion des Vertrauens“",
+   "summary": "Der Ifo-Chef warnt im Gespräch mit dem Handelsblatt vor einer Verschärfung der Anleihekrise und erwartet eine Rückkehr der Euro-Krise.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/clemens-fuest-es-droht-eine-fortgesetzte-erosion-des-vertrauens/100260414.html",
+   "published": "2026-10-08T21:00:00+00:00",
+   "first_seen": "2026-10-08T21:06:00.462028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Anleihen: Der Zins-Schock – und wie er die Märkte verändert",
+   "summary": "Wachsende Verschuldung, hartnäckige Inflation, verunsicherte Märkte – wie die neue Zinswelt sich in die Weltwirtschaft hineinfrisst und die Finanzstabilität gefährdet. Besonders betroffen einmal mehr: Europa.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/anleihen-der-zins-schock-und-wie-er-die-maerkte-veraendert/100259996.html",
+   "published": "2026-10-08T21:00:00+00:00",
+   "first_seen": "2026-10-08T21:06:00.462028+00:00",
    "paywall": true
   },
   {
@@ -874,15 +901,6 @@
    "published": "2026-10-05T18:31:00+00:00",
    "first_seen": "2026-10-05T22:05:27.511119+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Wirtschaftliche Lage: Frankreichs Jugend fehlt die Perspektive",
-   "summary": "Die wirtschaftlichen Aussichten trüben sich in Frankreich schon länger ein. Junge Menschen sind besonders betroffen. Und mit der KI wird es auf dem Arbeitsmarkt noch schwieriger.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/frankreichs-jugend-fehlt-die-perspektive-arbeitslosigkeit-und-ki-als-bedrohung-201289112.html",
-   "published": "2026-10-05T17:37:13+00:00",
-   "first_seen": "2026-10-05T18:07:30.500305+00:00",
-   "paywall": true
   }
  ]
 }

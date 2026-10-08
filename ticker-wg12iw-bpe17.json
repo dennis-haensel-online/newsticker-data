@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-10-08T20:07:02.132808+00:00",
+ "updated": "2026-10-08T21:06:00.462028+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-starke-verluste-bei-ki-werten-wegen-openai-umsatz/100260698.html",
    "published": "2026-10-08T19:53:10+00:00",
    "first_seen": "2026-10-08T20:07:02.132808+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Börsen: Wall Street schließt im Minus – Starke Verluste bei KI-Werten wegen OpenAI-Umsatz",
+   "summary": "Ein Bericht über niedrigere Umsätze bei OpenAI belastet die US-Börsen. Gleichzeitig bremst die starke Nachfrage den Anstieg der US-Anleiherenditen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-minus-starke-verluste-bei-ki-werten-wegen-openai-umsatz/100260698.html",
+   "published": "2026-10-08T19:53:10+00:00",
+   "first_seen": "2026-10-08T21:06:00.462028+00:00",
    "paywall": true
   },
   {
@@ -496,15 +505,6 @@
    "published": "2026-10-06T01:00:06+00:00",
    "first_seen": "2026-10-06T02:04:40.628363+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Energiepreise: Preise für Benzin und Diesel steigen wieder leicht",
-   "summary": "Der \"Tankrabatt\" soll Verbrauchern Entlastung bringen. Kurz nach dem Start steigen die Kraftstoffpreise aber wieder leicht an. Laut ADAC ist das \"nur schwer nachvollziehbar\".",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-120.html",
-   "published": "2026-10-05T16:42:44+00:00",
-   "first_seen": "2026-10-05T17:04:56.501381+00:00",
-   "paywall": false
   }
  ]
 }
