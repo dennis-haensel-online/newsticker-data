@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-08T14:08:01.443565+00:00",
+ "updated": "2026-10-08T15:07:10.489552+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Luftangriffe auf russisches KI‑Rechenzentrum",
+   "summary": "Die Ukraine hat Gebäude des russischen Tech-Konzerns Yandex angegriffen. Das Unternehmen erklärte am Donnerstag, dass eines seiner wichtigsten Rechenzentren für Künstliche Intelligenz in Sasowo Schäden erlitten habe.",
+   "link": "https://www.handelsblatt.com/video/politik/ukraine-krieg-luftangriffe-auf-russisches-kirechenzentrum/100260813.html",
+   "published": "2026-10-08T14:46:23+00:00",
+   "first_seen": "2026-10-08T15:07:10.489552+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Briefing: 222 Milliarden Dollar – Amazon investiert mehr als der deutsche Staat",
+   "summary": "Vier Kennzahlen zeigen, dass Tech-Konzerne so mächtig wie Staaten werden. Das hat eine unbequeme Konsequenz. Die KI-News der Woche.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-222-milliarden-dollar-amazon-investiert-mehr-als-der-deutsche-staat/100260493.html",
+   "published": "2026-10-08T14:42:47+00:00",
+   "first_seen": "2026-10-08T15:07:10.489552+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Software: „Weil jetzt die Spielregeln definiert werden“: SAP-Kunden fordern klare Regeln für KI",
+   "summary": "Die Anwenderorganisation DSAG tritt selbstbewusster auf als in den Vorjahren. Besonders bei den Spielregeln für KI formuliert der neue Vorsitzende klare Forderungen an SAP.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/software-sap-kunden-fordern-klare-regeln-fuer-kuenstliche-intelligenz/100259041.html",
+   "published": "2026-10-08T14:32:08+00:00",
+   "first_seen": "2026-10-08T15:07:10.489552+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Gesetzesvorhaben im Bundestag: KI soll indirekt in Asylverfahren mitentscheiden",
+   "summary": "Die Bundesregierung will KI im Asylsystem einsetzen. Ex­per­t*in­nen warnen: Auch wenn die Programme den Beamten nur zuarbeiten, drohen Fehlentscheidungen. mehr...",
+   "link": "https://taz.de/Gesetzesvorhaben-im-Bundestag/!6219760/",
+   "published": "2026-10-08T14:13:00+00:00",
+   "first_seen": "2026-10-08T15:07:10.489552+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Ukraine-Krieg: „Armee der Roboter“ – Was steckt hinter den Plänen von Fedorow und Palantir-Chef Karp?",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/web-und-app-tipp-kleinanzeigende-wussten-sie-dass-ki-ihre-chats-liest/100259961.html",
    "published": "2026-10-06T03:17:04+00:00",
    "first_seen": "2026-10-06T04:06:19.451594+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wirtschaftliche Lage: Frankreichs Jugend fehlt die Perspektive",
-   "summary": "Die wirtschaftlichen Aussichten trüben sich in Frankreich schon länger ein. Junge Menschen sind besonders betroffen. Und mit der KI wird es auf dem Arbeitsmarkt noch schwieriger.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/frankreichs-jugend-fehlt-die-perspektive-arbeitslosigkeit-und-ki-als-bedrohung-201289112.html",
-   "published": "2026-10-05T17:37:13+00:00",
-   "first_seen": "2026-10-05T18:07:30.500305+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "„Kolibri“: Aleph Alpha veröffentlicht neues KI-Modell",
-   "summary": "Aleph Alpha war mal die deutsche KI-Hoffnung, konnte aber technisch mit der Konkurrenz nicht mithalten. Jetzt meldet sich das Start-up mit einem neuen Sprachmodell zurück – und setzt dabei auf deutsche Trainingsdaten.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-veroeffentlicht-neues-ki-modell-201290838.html",
-   "published": "2026-10-05T16:05:17+00:00",
-   "first_seen": "2026-10-05T17:04:56.501381+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Start-up: KI-Roboterbauer RobCo steigt zum Einhorn auf",
-   "summary": "Der Münchner Roboterbauer RobCo ist zum Einhorn aufgestiegen. 2027 will das Start-up einen autonom agierenden Roboter für den industriellen Einsatz vorstellen.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/robco-ki-roboterbauer-steigt-zum-einhorn-auf/100259874.html",
-   "published": "2026-10-05T15:00:33+00:00",
-   "first_seen": "2026-10-05T15:07:55.601462+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-so-verschaffen-sich-fuehrungskraefte-mit-ki-kompetenzen-einen-vorsprung-01/100240522.html",
-   "published": "2026-10-05T14:15:00+00:00",
-   "first_seen": "2026-10-05T15:07:55.601462+00:00",
    "paywall": true
   }
  ]
