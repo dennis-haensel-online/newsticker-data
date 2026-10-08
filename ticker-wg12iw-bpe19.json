@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-08T18:06:00.696946+00:00",
+ "updated": "2026-10-08T18:25:45.936763+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,42 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
    "published": "2026-10-09T04:20:00+00:00",
    "first_seen": "2026-10-08T05:06:07.276669+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Wirtschaft - Warum rechnet die Bundesregierung mit mehr Wachstum und wo sind Gefahren?",
+   "summary": "Die Bundesregierung rechnet mit einem stärkeren Wirtschaftswachstum. Wie das Wirtschaftsministerium in Berlin mitteilte, wird das Bruttoinlandsprodukt in diesem Jahr voraussichtlich um 1,3 Prozent steigen. Zu den Gründen und zu weiteren…",
+   "link": "https://www.deutschlandfunk.de/warum-rechnet-die-bundesregierung-mit-mehr-wachstum-und-wo-sind-gefahren-100.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "first_seen": "2026-10-08T18:25:45.936763+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bruttoinlandsprodukt - Bundesregierung erhöht Konjunktur-Prognose: \"Wirtschaft widerstandsfähiger als erwartet\"",
+   "summary": "Die Bundesregierung rechnet mit einem stärkeren Wirtschaftswachstum. Wie das Wirtschaftsministerium in Berlin mitteilte, wird das Bruttoinlandsprodukt in diesem Jahr voraussichtlich um 1,3 Prozent steigen. Im April war die Regierung…",
+   "link": "https://www.deutschlandfunk.de/bundesregierung-erhoeht-konjunktur-prognose-wirtschaft-widerstandsfaehiger-als-erwartet-102.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "first_seen": "2026-10-08T18:25:45.936763+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Living Planet Index - WWF: Tierbestände weltweit gehen drastisch zurück - \"Trend lässt sich umkehren\"",
+   "summary": "Die Anzahl der Wildtiere weltweit hat nach Angaben der Umweltschutzorganisation WWF drastisch abgenommen. Demnach seien die erfassten Wildtierbestände zwischen 1970 und 2022 im Durchschnitt um fast drei Viertel geschrumpft. Eine Erholung…",
+   "link": "https://www.deutschlandfunk.de/wwf-tierbestaende-weltweit-gehen-drastisch-zurueck-trend-laesst-sich-umkehren-100.html",
+   "published": "2026-10-08T18:04:20+00:00",
+   "first_seen": "2026-10-08T18:25:45.936763+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Immobilienmesse: Norwegischer Staatsfonds will deutsche Bürogebäude kaufen",
+   "summary": "Die Immobilienwirtschaft wartet noch auf den nächsten Aufschwung. Nun plant ein internationaler Großanleger wieder Immobilienkäufe in Deutschland. Ist das ein Aufbruchsignal?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/norwegischer-staatsfonds-will-innenstadtbueros-in-deutschland-kaufen-201296106.html",
+   "published": "2026-10-08T17:58:04+00:00",
+   "first_seen": "2026-10-08T18:25:45.936763+00:00",
    "paywall": true
   },
   {
@@ -846,15 +882,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-unveraendert-euro-faellt-auf-17-monats-tief/100259668.html",
    "published": "2026-10-05T15:56:00+00:00",
    "first_seen": "2026-10-05T16:05:45.688413+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Flugticketpreise von Deutschland aus seit 2010 etwa verdoppelt",
-   "summary": "Verdi will sechs Prozent mehr Geld für Beschäftigte privater Banken +++ Melderegister in Dänemark mit Daten von 8,8 Millionen Menschen gehackt +++ Ifo: „Die Automobilindustrie steckt ‌weiterhin in der Krise“ +++ Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-flugticketpreise-von-deutschland-aus-seit-2010-etwa-verdoppelt-faz-200452404.html",
-   "published": "2026-10-05T15:03:11+00:00",
-   "first_seen": "2026-10-05T15:07:55.601462+00:00",
    "paywall": true
   }
  ]
