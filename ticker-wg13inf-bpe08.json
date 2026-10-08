@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-08T05:06:07.276669+00:00",
+ "updated": "2026-10-08T06:07:18.447243+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Technologiekonzern: Samsung stellt dank KI-Boom Rekordgewinn in Aussicht",
+   "summary": "Samsung erwartet den vierten Rekordgewinn in Folge. Der Boom bei KI-Speicherchips stärkt das Geschäft – und erhöht den Druck auf die Margen.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/samsung-technologiekonzern-stellt-dank-ki-boom-rekordgewinn-in-aussicht/100260616.html",
+   "published": "2026-10-08T05:53:59+00:00",
+   "first_seen": "2026-10-08T06:07:18.447243+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Burnham bei Merz: Deutschland und Großbritannien stärken Cyberabwehr",
+   "summary": "Zweieinhalb Monate nach seinem Amtsantritt besucht der britische Premierminister Andy Burnham Deutschland als erstes EU-Land. Es geht auch um die Bekämpfung von Cyberangriffen.",
+   "link": "https://www.wiwo.de/politik/europa/merz-und-burnham-pakt-fuer-cyberabwehr-tritt-in-kraft/100260615.html",
+   "published": "2026-10-08T05:36:57+00:00",
+   "first_seen": "2026-10-08T06:07:18.447243+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Nikkei: Asiens Börsen unter Druck – Tech-Konzerne konkurrieren mit Staaten um Kapital",
@@ -18,6 +36,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-chips-microsoft-fordert-mit-neuen-ki-laptops-fuer-ueber-5.200-euro-apple-heraus/100260096.html",
    "published": "2026-10-08T02:28:37+00:00",
    "first_seen": "2026-10-08T03:05:58.179241+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nvidia-Chips: „PC komplett neu erfunden“: Microsoft und Nvidia stellen Notebooks vor, die KI ohne Internet nutzbar machen",
+   "summary": "Der Tech-Riese stattet seine Surface-Laptops mit neuen Chips von Nvidia aus. Die Geräte sollen anspruchsvolle KI-Berechnungen lokal ausführen – und spielen auch preislich in der Oberklasse.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-microsoft-und-nvidia-wollen-ki-ohne-internet-nutzbar-machen/100260096.html",
+   "published": "2026-10-08T02:28:37+00:00",
+   "first_seen": "2026-10-08T06:07:18.447243+00:00",
    "paywall": true
   },
   {
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/musk-firma-nach-trump-vorstoss-spacexai-soll-kuenftig-spacexsi-heissen/100259688.html",
    "published": "2026-10-05T07:26:51+00:00",
    "first_seen": "2026-10-05T08:06:46.176015+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Telekommunikationskonzern: Deutsche Telekom will durch KI-Einsatz Milliarden sparen",
-   "summary": "Mit KI und Automatisierung will die Telekom bis 2030 jährlich 2,5 Milliarden Euro sparen. Was das für Service und neue Angebote bedeutet.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/telekommunikationskonzern-deutsche-telekom-will-durch-ki-einsatz-milliarden-sparen/100259694.html",
-   "published": "2026-10-05T06:58:03+00:00",
-   "first_seen": "2026-10-05T07:10:56.874942+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Nach Trump-Aufruf: Musk will KI-Firma umbenennen",
-   "summary": "Donald Trump will schon seit Wochen den Namen „Superintelligenz“ statt der gewohnten Bezeichnung Künstliche Intelligenz etablieren. Einer seiner alten Verbündeten folgt dem Ruf des US-Präsidenten.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nach-trump-aufruf-musk-will-ki-firma-umbenennen/100259692.html",
-   "published": "2026-10-05T06:56:55+00:00",
-   "first_seen": "2026-10-05T07:10:56.874942+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Telekommunikation: Deutsche Telekom erhofft sich Milliarden-Einsparungen durch KI",
-   "summary": "Mit Künstlicher Intelligenz will die Telekom nicht nur den Kundenservice neu aufstellen, sondern auch die Netze entlasten. Das soll sich in der Bilanz bemerkbar machen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/telekommunikation-deutsche-telekom-erhofft-sich-milliarden-einsparungen-durch-ki/100259677.html",
-   "published": "2026-10-05T06:13:01+00:00",
-   "first_seen": "2026-10-05T07:10:56.874942+00:00",
    "paywall": true
   }
  ]
