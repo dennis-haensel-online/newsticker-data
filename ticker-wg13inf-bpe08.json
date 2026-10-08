@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-08T03:05:58.179241+00:00",
+ "updated": "2026-10-08T04:06:27.081480+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei: Asiens Börsen unter Druck – Tech-Konzerne konkurrieren mit Staaten um Kapital",
+   "summary": "Der KI-Boom wird von den großen Tech-Firmen immer stärker über Schulden finanziert. Das macht die Anleger nervös. Der Nikkei gibt nach.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-asiens-boersen-unter-druck-tech-konzerne-konkurrieren-mit-staaten-um-kapital/100260586.html",
+   "published": "2026-10-08T03:23:17+00:00",
+   "first_seen": "2026-10-08T04:06:27.081480+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Nvidia-Chips: Microsoft fordert mit neuen KI-Laptops für über 5.200 Euro Apple heraus",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/telekommunikation-deutsche-telekom-erhofft-sich-milliarden-einsparungen-durch-ki/100259677.html",
    "published": "2026-10-05T06:13:01+00:00",
    "first_seen": "2026-10-05T07:10:56.874942+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Uber-Chef: „Wir werden mit Robotaxis in Deutschland viele Jobs schaffen“",
-   "summary": "Dara Khosrowshahi investiert Milliarden in die Infrastruktur für autonomes Fahren. Er kündigt den Start in München an – und will mit Robotaxis die Preise senken und neue Kunden gewinnen.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/uber-chef-wir-werden-mit-robotaxis-in-deutschland-viele-jobs-schaffen/100257956.html",
-   "published": "2026-10-05T02:05:11+00:00",
-   "first_seen": "2026-10-05T03:06:17.635233+00:00",
    "paywall": true
   }
  ]
