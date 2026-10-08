@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-10-08T19:07:43.207105+00:00",
+ "updated": "2026-10-08T20:07:02.132808+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "US-Börsen: KI-Werte drücken auf Wall Street – Starke Nachfrage bremst Anstieg der US-Anleiherenditen",
+   "summary": "Ein Bericht über niedrigere Umsätze bei OpenAI belastet die US-Börsen. Gleichzeitig bremst die starke Nachfrage den Anstieg der US-Anleiherenditen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-im-minus-starke-verluste-bei-ki-werten-wegen-openai-umsatz/100260698.html",
+   "published": "2026-10-08T19:53:10+00:00",
+   "first_seen": "2026-10-08T20:07:02.132808+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "US-Börsen: Hohe Ölpreise lasten auf Wall Street – Starke Nachfrage bremst Anstieg der US-Anleiherenditen",
@@ -496,15 +505,6 @@
    "published": "2026-10-05T16:42:44+00:00",
    "first_seen": "2026-10-05T17:04:56.501381+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "„Kolibri“: Aleph Alpha veröffentlicht neues KI-Modell",
-   "summary": "Aleph Alpha war mal die deutsche KI-Hoffnung, konnte aber technisch mit der Konkurrenz nicht mithalten. Jetzt meldet sich das Start-up mit einem neuen Sprachmodell zurück – und setzt dabei auf deutsche Trainingsdaten.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-veroeffentlicht-neues-ki-modell-201290838.html",
-   "published": "2026-10-05T16:05:17+00:00",
-   "first_seen": "2026-10-05T17:04:56.501381+00:00",
-   "paywall": true
   }
  ]
 }
