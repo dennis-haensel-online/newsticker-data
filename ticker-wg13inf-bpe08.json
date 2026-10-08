@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-08T02:05:39.869969+00:00",
+ "updated": "2026-10-08T03:05:58.179241+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Nvidia-Chips: Microsoft fordert mit neuen KI-Laptops für über 5.200 Euro Apple heraus",
+   "summary": "Der Tech-Riese stattet seine Surface-Laptops mit neuen Chips von Nvidia aus. Die Geräte sollen anspruchsvolle KI-Berechnungen lokal ausführen – und sind auch bei den aufgerufenen Preisen spitze.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-chips-microsoft-fordert-mit-neuen-ki-laptops-fuer-ueber-5.200-euro-apple-heraus/100260096.html",
+   "published": "2026-10-08T02:28:37+00:00",
+   "first_seen": "2026-10-08T03:05:58.179241+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Tech-Konzern: Samsung stellt dank KI-Boom Rekordgewinn in Aussicht",
@@ -891,15 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/dienstleister/uber-chef-wir-werden-mit-robotaxis-in-deutschland-viele-jobs-schaffen/100257956.html",
    "published": "2026-10-05T02:05:11+00:00",
    "first_seen": "2026-10-05T03:06:17.635233+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: Wie SAP trotz KI-Rückstand wieder gewinnen will",
-   "summary": "Viel Pilot, wenig Alltag: SAP setzt auf Künstliche Intelligenz – doch die Umsetzung stockt. Konzernchef Christian Klein erhöht nun das Tempo.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/software-wie-sap-trotz-ki-rueckstand-wieder-gewinnen-will/100258469.html",
-   "published": "2026-10-04T16:39:36+00:00",
-   "first_seen": "2026-10-04T17:35:46.049380+00:00",
    "paywall": true
   }
  ]
