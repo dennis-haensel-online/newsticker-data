@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-08T12:07:23.802918+00:00",
+ "updated": "2026-10-08T13:10:58.190947+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,42 @@
    "published": "2026-10-09T04:20:00+00:00",
    "first_seen": "2026-10-08T05:06:07.276669+00:00",
    "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Konjunktur: Reiche präsentiert: ein Aufschwüngchen",
+   "summary": "Erstmals seit Langem kann die Regierung eine recht positive Konjunkturprognose vorlegen. Ob das Wachstum nachhaltig sein wird, wagt aber nicht einmal die zuständige Ministerin zu sagen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-regierungsprognose-reiche-li.3560322",
+   "published": "2026-10-08T12:37:46+00:00",
+   "first_seen": "2026-10-08T13:10:58.190947+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Warum die deutsche Wirtschaft stärker wächst",
+   "summary": "Iran-Krieg, Donald Trumps Handelspolitik, harte Konkurrenz aus China: Auch Deutschlands Wirtschaft leidet unter solchen Turbulenzen. Nun schlägt sie sich besser als erwartet - doch ist das von Dauer?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-warum-die-deutsche-wirtschaft-staerker-waechst/100260728.html",
+   "published": "2026-10-08T12:35:37+00:00",
+   "first_seen": "2026-10-08T13:10:58.190947+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Euro-Krise? So setzen Frankreichs Schulden die Währungsunion unter Druck",
+   "summary": "Die Sorgen um Frankreichs Wirtschaft und die steigenden Anleiherenditen lassen auch den Euro abwerten. Was das für Anleger bedeutet und was die EZB dagegen tun könnte.",
+   "link": "https://www.wiwo.de/finanzen/boerse/droht-eine-neue-euro-krise-frankreichs-schulden-setzen-die-waehrungsunion-unter-druck/100260355.html",
+   "published": "2026-10-08T12:22:20+00:00",
+   "first_seen": "2026-10-08T13:10:58.190947+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Wirtschaft auf Wachstumskurs: Reiche hebt Konjunkturprognose an",
+   "summary": "Die Bundesregierung schaut zumindest konjunkturell optimistischer in die Zukunft. Trotzdem pocht die Wirtschaft auf Reformen in ihrem Sinne. mehr...",
+   "link": "https://taz.de/Wirtschaft-auf-Wachstumskurs/!6219924/",
+   "published": "2026-10-08T12:18:00+00:00",
+   "first_seen": "2026-10-08T13:10:58.190947+00:00",
+   "paywall": false
   },
   {
    "label": "tagesschau",
@@ -801,24 +837,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/flugtickets-preise-inflation-li.3558632",
    "published": "2026-10-05T10:30:33+00:00",
    "first_seen": "2026-10-05T11:06:04.305965+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Kaffeehersteller: Melitta erholt sich vom Koffeinschock",
-   "summary": "Ausgerechnet der weltweite Kaffeeboom hat Melitta in eine schwere Krise gestürzt. Jetzt probiert man es in Minden mit kühnen Wachstumsplänen.",
-   "link": "https://www.wiwo.de/unternehmen/handel/kaffeeboom-melitta-erholt-sich-vom-koffeinschock/100235506.html",
-   "published": "2026-10-05T09:55:00+00:00",
-   "first_seen": "2026-10-05T10:07:34.455691+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Ifo: Stimmung in der Autoindustrie sackt ab",
-   "summary": "Die Exporterwartungen, die zuletzt noch zu Hoffnung Anlass gegeben hatten, geben jetzt drastisch nach.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-ifo-stimmung-in-der-autoindustrie-sackt-ab/100259772.html",
-   "published": "2026-10-05T09:40:41+00:00",
-   "first_seen": "2026-10-05T10:07:34.455691+00:00",
    "paywall": true
   }
  ]
