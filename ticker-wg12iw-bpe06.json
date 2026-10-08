@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-08T07:09:19.677115+00:00",
+ "updated": "2026-10-08T08:06:56.939348+00:00",
  "items": [
   {
    "label": "SPIEGEL",
@@ -19,6 +19,15 @@
    "published": "2026-10-08T06:57:16+00:00",
    "first_seen": "2026-10-08T07:09:19.677115+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Tech-Konzern: Rekord dank KI-Boom: Samsung stellt zehnfachen Gewinn in Aussicht",
+   "summary": "Der koreanische Konzern profitiert massiv vom KI‑Boom. Beim Gewinn legt Samsung damit einen Branchenbestwert vor. Den Aktionären reicht das nicht.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/tech-konzern-samsung-stellt-zehnfachen-gewinn-in-aussicht/100260566.html",
+   "published": "2026-10-07T23:59:31+00:00",
+   "first_seen": "2026-10-08T08:06:56.939348+00:00",
+   "paywall": true
   },
   {
    "label": "ZEIT",
@@ -874,15 +883,6 @@
    "published": "2026-10-05T05:26:00+00:00",
    "first_seen": "2026-10-05T06:09:39.845788+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Einzelhandel: Miteigentümer Beetz kritisiert Galeria für Insolvenzantrag",
-   "summary": "Miteigentümer Beetz sieht die Insolvenz von Galeria kritisch und fordert mehr Tempo bei der Neuausrichtung. Welche Schritte er für die Zukunft des Warenhauses vorschlägt.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/einzelhandel-miteigentuemer-beetz-kritisiert-galeria-fuer-insolvenzantrag/100259621.html",
-   "published": "2026-10-04T22:15:04+00:00",
-   "first_seen": "2026-10-04T23:03:11.652804+00:00",
-   "paywall": true
   }
  ]
 }
