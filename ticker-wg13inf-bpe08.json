@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-09T09:07:17.295118+00:00",
+ "updated": "2026-10-09T10:06:48.547055+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Neue Wachstumsagenda: „Eine europäische KI wäre weltweit gefragt“",
+   "summary": "Nobelpreisträger Philippe Aghion hält trotz Schuldenkrise massive Staatsinvestitionen für nötig – und fordert eine europäische KI zum Schutz gegen die Willkür in den USA.",
+   "link": "https://www.wiwo.de/politik/europa/philippe-aghion-darum-waere-eine-europaeische-ki-weltweit-gefragt/100252156.html",
+   "published": "2026-10-09T09:34:58+00:00",
+   "first_seen": "2026-10-09T10:06:48.547055+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bewertungen: Börsengang von australischer KI-Firma Firmus abgesagt",
+   "summary": "Der Rechenzentrumsbetreiber Firmus zieht seinen geplanten Börsengang zurück. Investoren zweifeln angesichts hoher Bewertungen und steigender Finanzierungskosten an den Renditeaussichten im KI-Sektor.",
+   "link": "https://www.handelsblatt.com/finanzen/bewertungen-boersengang-von-australischer-ki-firma-firmus-abgesagt/100261001.html",
+   "published": "2026-10-09T09:33:55+00:00",
+   "first_seen": "2026-10-09T10:06:48.547055+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Finanzen: Deutsche Bank muss Systeme gegen Geldwäsche verbessern",
+   "summary": "Die Deutsche Bank muss weiter an Systemen zur Überwachung von Geldwäsche und Terrorfinanzierung arbeiten. Die Finanzaufsicht Bafin setzte dafür nun eine neue Frist.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bank-geldwaesche-bafin-terrorfinanzierung-finanzaufsicht-li.3560984",
+   "published": "2026-10-09T09:25:07+00:00",
+   "first_seen": "2026-10-09T10:06:48.547055+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Künstliche Intelligenz: OpenAI peilt 70-Milliarden-Dollar-Umsatz an",
@@ -45,6 +72,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/marcel-fratzscher-kuenstliche-intelligenz-gehoert-nicht-in-private-haende-accg-201263760.html",
    "published": "2026-10-09T06:21:58+00:00",
    "first_seen": "2026-10-09T07:09:05.313929+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Sicherheit: KI gehört nicht in private Hände",
+   "summary": "Die Instrumente der Ökonomik sind kontraproduktiv, um die existenziellen Risiken der Künstlichen Intelligenz anzugehen. Es braucht öffentliche Kontrolle über Unternehmen, die die leistungsfähigsten Modelle entwickeln.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/warum-ki-nicht-in-private-haende-gehoert-accg-201263760.html",
+   "published": "2026-10-09T06:21:58+00:00",
+   "first_seen": "2026-10-09T10:06:48.547055+00:00",
    "paywall": true
   },
   {
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/karriere/berufe-welche-studiengaenge-trotz-ki-zu-gefragten-jobs-fuehren/100235558.html",
    "published": "2026-10-06T14:02:00+00:00",
    "first_seen": "2026-10-06T14:08:02.769838+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: VAE-Fonds und Blackrock – OpenAI wohl in Gesprächen für 30-Milliarden-Finanzierungsrunde",
-   "summary": "OpenAI will vor seinem Börsengang neue Gelder einsammeln. Unter den Gesprächspartnern sind namhafte Geldgeber. Ungewöhnlich ist, dass OpenAI den Preis bereits jetzt festlegt.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-wohl-in-gespraechen-fuer-30-milliarden-finanzierungsrunde/100260133.html",
-   "published": "2026-10-06T13:52:13+00:00",
-   "first_seen": "2026-10-06T14:08:02.769838+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Buchmesse: Der Schock-Moment der Buchbranche",
-   "summary": "Der nachlässige Umgang der Digitalkonzerne mit Urheberrechten erinnert an die Musikpiraterie der Napster-Ära – nur dreister.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/open-ai-und-ki-training-buecher-als-rohstoff-ohne-urheberrecht-201269994.html",
-   "published": "2026-10-06T13:30:56+00:00",
-   "first_seen": "2026-10-06T14:08:02.769838+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Modehändler: Mutmaßlicher Hackerangriff auf Online-Händler Asos",
-   "summary": "Weltweit bestellen Millionen Kundinnen und Kunden beim britischen Online-Händler Asos. Nun gab es einen Zwischenfall in der App.",
-   "link": "https://www.wiwo.de/unternehmen/handel/modehaendler-mutmasslicher-hackerangriff-auf-online-haendler-asos/100260129.html",
-   "published": "2026-10-06T13:22:42+00:00",
-   "first_seen": "2026-10-06T14:08:02.769838+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Softwarehersteller: SAP will KI-Spezialisten Techwolf übernehmen",
-   "summary": "Mit der „Context Graph for Work“-Technologie will SAP sein Angebot an Personalsoftware ausbauen. Für das KI-Start-up Techwolf gibt es trotzdem Pläne.",
-   "link": "https://www.handelsblatt.com/technik/ki/sap-softwarehersteller-will-ki-spezialisten-techwolf-uebernehmen/100260140.html",
-   "published": "2026-10-06T13:01:26+00:00",
-   "first_seen": "2026-10-06T13:07:15.540001+00:00",
    "paywall": true
   }
  ]
