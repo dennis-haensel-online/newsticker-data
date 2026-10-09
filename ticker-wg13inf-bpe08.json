@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-09T08:06:55.175916+00:00",
+ "updated": "2026-10-09T09:07:17.295118+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,15 @@
    "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-openai-peilt-70-milliarden-dollar-umsatz-an/100260968.html",
    "published": "2026-10-09T07:48:41+00:00",
    "first_seen": "2026-10-09T08:06:55.175916+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI peilt 70-Milliarden-Dollar-Umsatz an",
+   "summary": "OpenAI plant, 30 Milliarden Dollar von Investoren einzusammeln und den Umsatz auf 70 Milliarden zu steigern. Doch die Bewertung ist umstritten.",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-wie-openai-bis-ende-2026-einen-umsatz-von-70-milliarden-dollar-anpeilt/100260968.html",
+   "published": "2026-10-09T07:48:41+00:00",
+   "first_seen": "2026-10-09T09:07:17.295118+00:00",
    "paywall": true
   },
   {
@@ -890,15 +899,6 @@
    "summary": "Mit der „Context Graph for Work“-Technologie will SAP sein Angebot an Personalsoftware ausbauen. Für das KI-Start-up Techwolf gibt es trotzdem Pläne.",
    "link": "https://www.handelsblatt.com/technik/ki/sap-softwarehersteller-will-ki-spezialisten-techwolf-uebernehmen/100260140.html",
    "published": "2026-10-06T13:01:26+00:00",
-   "first_seen": "2026-10-06T13:07:15.540001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Europäischer Befreiungsschlag? Mistral veröffentlicht neues KI-Spitzenmodell Large 4",
-   "summary": "Das Modell der französischen KI-Firma soll mit den leistungsfähigsten offenen Modellen der Welt mithalten. Für Europas KI-Hoffnungsträger Mistral ist das strategisch wichtig.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-befreiungsschlag-mistral-veroeffentlicht-neues-spitzenmodell/100260044.html",
-   "published": "2026-10-06T13:00:00+00:00",
    "first_seen": "2026-10-06T13:07:15.540001+00:00",
    "paywall": true
   }
