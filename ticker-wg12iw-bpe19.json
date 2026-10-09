@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-08T23:05:31.349041+00:00",
+ "updated": "2026-10-09T00:07:15.623777+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -10,6 +10,24 @@
    "published": "2026-10-09T04:20:00+00:00",
    "first_seen": "2026-10-08T05:06:07.276669+00:00",
    "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "ARD-Interview - Wirtschaftsweise Schnitzer fordert nachhaltige Investitionen zur Stabilisierung des Wachstums",
+   "summary": "Die Chefin der Wirtschaftsweisen, Schnitzer, hat die Bundesregierung zu mehr Nachhaltigkeit bei ihren Investitionen aufgerufen, um die positiveren Konjunkturaussichten zu stabilisieren.",
+   "link": "https://www.deutschlandfunk.de/wirtschaftsweise-schnitzer-fordert-nachhaltige-investitionen-zur-stabilisierung-des-wachstums-102.html",
+   "published": "2026-10-08T23:52:46+00:00",
+   "first_seen": "2026-10-09T00:07:15.623777+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Wirtschaft - Warum rechnet die Bundesregierung mit mehr Wachstum und wo sind Gefahren?",
+   "summary": "Die Bundesregierung rechnet mit einem stärkeren Wirtschaftswachstum. Wie das Wirtschaftsministerium in Berlin mitteilte, wird das Bruttoinlandsprodukt in diesem Jahr voraussichtlich um 1,3 Prozent steigen. Zu den Gründen und zu weiteren…",
+   "link": "https://www.deutschlandfunk.de/warum-rechnet-die-bundesregierung-mit-mehr-wachstum-und-wo-sind-gefahren-102.html",
+   "published": "2026-10-08T23:52:46+00:00",
+   "first_seen": "2026-10-09T00:07:15.623777+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -883,24 +901,6 @@
    "published": "2026-10-06T03:57:07+00:00",
    "first_seen": "2026-10-06T04:06:19.451594+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "3,7 Millionen Beschäftigte: Inflation und Autokrise: Metall-Tarifrunde wird kompliziert",
-   "summary": "In der deutschen Metall- und Elektroindustrie beginnt eine schwierige Tarifrunde. Während hunderttausende Industriearbeitsplätze verschwinden, muss die IG Metall Reallöhne und Jobs sichern.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/37-millionen-beschaeftigte-inflation-und-autokrise-metall-tarifrunde-wird-kompliziert/100259944.html",
-   "published": "2026-10-06T02:00:17+00:00",
-   "first_seen": "2026-10-06T03:05:07.766653+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Frankreich: Und dann tanzen Le Pen oder Mélenchon im Élysée-Palast den Finanzpogo",
-   "summary": "Wer immer Christine Lagarde als EZB-Präsident nachfolgt, muss sich mit Frankreichs wachsendem Schuldenberg herumschlagen. Das ist für den ganzen Euroraum ein massives Problem.",
-   "link": "https://www.spiegel.de/wirtschaft/schulden-in-frankreich-vergiftetes-antrittsgeschenk-fuer-nachfolger-von-christine-lagarde-a-33e22de8-9c86-41d5-88e0-76d72a83c4db#ref=rss",
-   "published": "2026-10-05T18:31:00+00:00",
-   "first_seen": "2026-10-05T22:05:27.511119+00:00",
-   "paywall": false
   }
  ]
 }
