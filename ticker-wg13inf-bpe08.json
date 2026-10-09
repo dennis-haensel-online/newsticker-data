@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-09T01:10:52.434645+00:00",
+ "updated": "2026-10-09T02:06:19.799572+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Tech-Szene: San Francisco wird im KI-Boom zum Sehnsuchtsort junger Deutscher",
+   "summary": "Nie floss mehr Kapital ins Silicon Valley. Mittendrin: junge Deutsche, die Doktortitel oder Konzernkarriere aufgeben, um im KI-Boom reich zu werden. Dabei würden sie es sich anders wünschen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/tech-szene-san-francisco-wird-im-ki-boom-zum-sehnsuchtsort-junger-deutscher/100260233.html",
+   "published": "2026-10-09T02:00:00+00:00",
+   "first_seen": "2026-10-09T02:06:19.799572+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: OpenAI-Umsatz liegt 20 Milliarden Dollar unter bisherigen Erwartungen",
@@ -892,15 +901,6 @@
    "published": "2026-10-06T10:47:52+00:00",
    "first_seen": "2026-10-06T12:07:17.419773+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Künstliche Intelligenz und Naturbilder: Irgendwas stimmt mit diesen Tälern nicht",
-   "summary": "Das Berliner Haus am Lützowplatz zeigt die Ausstellung „On Landscape“. Sie untersucht Naturbilder zwischen Romantik, Anthropozän und Künstlicher Intelligenz. mehr...",
-   "link": "https://taz.de/Kuenstliche-Intelligenz-und-Naturbilder/!6218794/",
-   "published": "2026-10-06T09:43:00+00:00",
-   "first_seen": "2026-10-06T10:05:55.425867+00:00",
-   "paywall": false
   }
  ]
 }
