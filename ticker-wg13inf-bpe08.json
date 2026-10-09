@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-09T07:09:05.313929+00:00",
+ "updated": "2026-10-09T08:06:55.175916+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: OpenAI peilt 70-Milliarden-Dollar-Umsatz an",
+   "summary": "OpenAI plant, 30 Milliarden Dollar von Investoren einzusammeln und den Umsatz auf 70 Milliarden zu steigern. Doch die Bewertung ist umstritten.",
+   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-openai-peilt-70-milliarden-dollar-umsatz-an/100260968.html",
+   "published": "2026-10-09T07:48:41+00:00",
+   "first_seen": "2026-10-09T08:06:55.175916+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei und Topix: Asien-Börsen erholen sich von anfänglichen Verlusten – und schließen unverändert",
+   "summary": "Auch in Asien macht sich die Unsicherheit rund um Künstliche Intelligenz erneut bemerkbar. Einige Einzelwerte verloren deutlich. Die wichtigen Indizes schließen jedoch nahezu unverändert.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-topix-asien-boersen-erholen-sich-von-anfaenglichen-verlusten/100260920.html",
+   "published": "2026-10-09T07:37:20+00:00",
+   "first_seen": "2026-10-09T08:06:55.175916+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: US-Haushaltsdefizit steigt auf fast zwei Billionen Dollar",
@@ -881,24 +899,6 @@
    "summary": "Das Modell der französischen KI-Firma soll mit den leistungsfähigsten offenen Modellen der Welt mithalten. Für Europas KI-Hoffnungsträger Mistral ist das strategisch wichtig.",
    "link": "https://www.handelsblatt.com/technik/ki/ki-befreiungsschlag-mistral-veroeffentlicht-neues-spitzenmodell/100260044.html",
    "published": "2026-10-06T13:00:00+00:00",
-   "first_seen": "2026-10-06T13:07:15.540001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Paramount schließt Warner-Übernahme ab",
-   "summary": "Unzureichend geschützte KI-Agenten brechen bei Wikipedia ein +++ Mutmaßlicher Hackerangriff auf Online-Händler Asos +++ Flugticketpreise von Deutschland aus seit 2010 etwa verdoppelt +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-paramount-schliesst-warner-uebernahme-ab-faz-200452404.html",
-   "published": "2026-10-06T12:56:05+00:00",
-   "first_seen": "2026-10-06T13:07:15.540001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Social Media: Britische Behörde ermittelt wegen Instagram-Funktion gegen Meta",
-   "summary": "Bei „Instagram Instants“ verschwinden Bilder nach dem ersten Ansehen – die britische Kommunikationsaufsicht bezweifelt, dass Meta die Risiken vorab ausreichend geprüft hat.",
-   "link": "https://www.handelsblatt.com/politik/international/social-media-britische-behoerde-ermittelt-wegen-instagram-funktion-gegen-meta/100260094.html",
-   "published": "2026-10-06T12:29:47+00:00",
    "first_seen": "2026-10-06T13:07:15.540001+00:00",
    "paywall": true
   }
