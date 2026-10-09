@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T00:07:15.623777+00:00",
+ "updated": "2026-10-09T01:10:52.434645+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "published": "2026-10-09T04:20:00+00:00",
    "first_seen": "2026-10-08T05:06:07.276669+00:00",
    "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Russischer Angriffskrieg - Ukraine-Delegation führt Gespräche mit Trump-Unterhändlern in den USA",
+   "summary": "Eine Delegation aus der Ukraine führt in den USA neue Gespräche über ein mögliches Ende des russischen Angriffskriegs.",
+   "link": "https://www.deutschlandfunk.de/ukraine-delegation-fuehrt-gespraeche-mit-trump-unterhaendlern-in-den-usa-100.html",
+   "published": "2026-10-09T01:07:06+00:00",
+   "first_seen": "2026-10-09T01:10:52.434645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Kriminalität - Zwei Behördenmitarbeiter bei Waffenkontrolle in der Oberpfalz erschossen",
+   "summary": "Bei einer Waffenkontrolle in der Oberpfalz sind zwei Bedienstete des Landratsamtes Neumarkt erschossen worden.",
+   "link": "https://www.deutschlandfunk.de/zwei-behoerdenmitarbeiter-bei-waffenkontrolle-in-der-oberpfalz-erschossen-102.html",
+   "published": "2026-10-09T01:07:06+00:00",
+   "first_seen": "2026-10-09T01:10:52.434645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geburtstagsfeier: „Schande“ : Massive Kritik am Putin-Besuch von Schröder",
+   "summary": "Auf seiner jüngsten Russland-Reise besuchte Alt-Kanzler Schröder seinen alten Freund Putin. Anlass: der 74. Geburtstag des Kreml-Chefs. Reaktionen aus der Heimat lassen nicht lange auf sich warten.",
+   "link": "https://www.handelsblatt.com/politik/international/geburtstagsfeier-schande-massive-kritik-am-putin-besuch-von-schroeder/100260891.html",
+   "published": "2026-10-09T00:53:45+00:00",
+   "first_seen": "2026-10-09T01:10:52.434645+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "US-Beamter: Hinrichtung soll live übertragen werden",
+   "summary": "Die US-Regierung will die Hinrichtung eines Amokläufers laut einem Pentagon-Mitarbeiter live übertragen. Erst vor Kurzem war in Tennessee ein Hinrichtungsversuch gescheitert.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-hinrichtung-militaer-oeffentlich-livestream-100.html",
+   "published": "2026-10-09T00:50:00+00:00",
+   "first_seen": "2026-10-09T01:10:52.434645+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Verhandlungsteam der Ukraine reist zu Gesprächen in die USA",
+   "summary": "Eine ukrainische Delegation will in den USA mit Trumps Unterhändlern über einen Vorschlag für ein Ende des Ukraine-Krieges beraten. Auch europäische Vertreter sollen teilnehmen.",
+   "link": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-usa-verhandlungen-frieden-sicherheitsgarantien-100.html",
+   "published": "2026-10-09T00:36:00+00:00",
+   "first_seen": "2026-10-09T01:10:52.434645+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13455,51 +13500,6 @@
    "published": "2026-10-05T23:20:16+00:00",
    "first_seen": "2026-10-06T00:06:18.279683+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Neuwahlen angekündigt: Zehntausende protestieren in Barcelona gegen Wohnungsnot",
-   "summary": "Die prekäre Lage auf dem Wohnungsmarkt ist ein riesiges Thema in Spanien, wo es bald Neuwahlen geben wird. Auch in Barcelona demonstrieren zahlreiche Menschen.",
-   "link": "https://www.handelsblatt.com/politik/international/neuwahlen-angekuendigt-zehntausende-protestieren-in-barcelona-gegen-wohnungsnot/100259927.html",
-   "published": "2026-10-05T23:12:00+00:00",
-   "first_seen": "2026-10-06T00:06:18.279683+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Wadephul: Moskau hat \"weitergehende Pläne\" als Ukraine",
-   "summary": "Bundesaußenminister Johann Wadephul warnt, dass Russland auch Ansprüche auf das Baltikum formulieren könnte. Als Alliierter wäre Deutschland mit betroffen.",
-   "link": "https://www.zdfheute.de/politik/ausland/wadephul-russland-warnung-ausweitung-gefahr-ukraine-krieg-100.html",
-   "published": "2026-10-05T23:07:00+00:00",
-   "first_seen": "2026-10-06T00:06:18.279683+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Landesweiter Protesttag: Frankreich erwartet neuen Höhepunkt der Schülerproteste",
-   "summary": "Schüler und Bildungsgewerkschaften rufen zu Protesten in etlichen französischen Städten auf. Eskaliert die Stimmung nach den schweren Verletzungen eines Gymnasiasten durch einen Polizeieinsatz weiter?",
-   "link": "https://www.handelsblatt.com/politik/international/landesweiter-protesttag-frankreich-erwartet-neuen-hoehepunkt-der-schuelerproteste/100259925.html",
-   "published": "2026-10-05T23:00:04+00:00",
-   "first_seen": "2026-10-06T00:06:18.279683+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Bundesregierung plant neue Plastiksteuer",
-   "summary": "Bis zu 1,5 Milliarden Euro könnte der Staat mit der neuen Steuer einnehmen. Die Abgabe soll Anreize schaffen, den Verbrauch von Kunststoffverpackungen zu verringern.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/plastiksteuer-bundesregierung-umweltministerium-100.html",
-   "published": "2026-10-05T22:36:00+00:00",
-   "first_seen": "2026-10-06T00:06:18.279683+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Italien bejubelt nächsten Sieg gegen Türkei",
-   "summary": "Die Squadra Azzurra sammelt ein weiteres Erfolgserlebnis. Gegen die Türkei gewinnen die Italiener auch die zweite Partie mit 3:1. Bedanken müssen sie sich aber bei Keeper Donnarumma.",
-   "link": "https://www.zdfheute.de/sport/fussball-nations-league/video/italien-tuerkei-highlights-maenner-zusammenfassung-100.html",
-   "published": "2026-10-05T22:00:00+00:00",
-   "first_seen": "2026-10-05T22:05:27.511119+00:00",
-   "paywall": false
   }
  ]
 }
