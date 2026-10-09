@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-09T06:07:42.034512+00:00",
+ "updated": "2026-10-09T07:09:05.313929+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: US-Haushaltsdefizit steigt auf fast zwei Billionen Dollar",
+   "summary": "Trump pocht auf „Superintelligenz“: Wer noch KI sagt, ist ein Feind +++ Audi will mit Betriebsrat über weitere Einsparungen verhandeln +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-us-haushaltsdefizit-steigt-auf-fast-zwei-billionen-dollar-faz-200452404.html",
+   "published": "2026-10-09T06:52:40+00:00",
+   "first_seen": "2026-10-09T07:09:05.313929+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Sicherheit: KI gehört nicht in private Hände",
+   "summary": "Die Instrumente der Ökonomik sind kontraproduktiv, um die existenziellen Risiken der Künstlichen Intelligenz anzugehen. Es braucht öffentliche Kontrolle über Unternehmen, die die leistungsfähigsten Modelle entwickeln.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/marcel-fratzscher-kuenstliche-intelligenz-gehoert-nicht-in-private-haende-accg-201263760.html",
+   "published": "2026-10-09T06:21:58+00:00",
+   "first_seen": "2026-10-09T07:09:05.313929+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Disrupt: Verschmelzung von Mensch und KI: „Unser Traum ist vielleicht sogar größer als der von Musk“",
@@ -881,24 +899,6 @@
    "summary": "Bei „Instagram Instants“ verschwinden Bilder nach dem ersten Ansehen – die britische Kommunikationsaufsicht bezweifelt, dass Meta die Risiken vorab ausreichend geprüft hat.",
    "link": "https://www.handelsblatt.com/politik/international/social-media-britische-behoerde-ermittelt-wegen-instagram-funktion-gegen-meta/100260094.html",
    "published": "2026-10-06T12:29:47+00:00",
-   "first_seen": "2026-10-06T13:07:15.540001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Wolfgang Ischinger: „Der deutsche Normalbürger hat noch gar nicht verstanden, vor welchen radikalen Veränderungen wir stehen“",
-   "summary": "Der Vorsitzende der Münchner Sicherheitskonferenz erklärt, wie Superintelligenz die Weltpolitik verändert, was Trumps KI-Ideen bedeuten und was das alles mit Atomwaffen zu tun hat.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/wolfgang-ischinger-kuenstliche-intelligenz-ki-interview-muenchner-sicherheitskonferenz-li.3557000",
-   "published": "2026-10-06T12:26:56+00:00",
-   "first_seen": "2026-10-06T13:07:15.540001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "KI und Datenschutz: Chat-GPT, gibst du meine Daten weiter?",
-   "summary": "Viele Menschen stellen Sprachmodellen private Fragen. Offenbar lauschen bei vielen Anbietern Dritte mit – und die bekommen sehr detaillierte Daten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/chatgpt-datenschutz-sprachmodelle-ki-drittanbieter-li.3559080",
-   "published": "2026-10-06T12:07:13+00:00",
    "first_seen": "2026-10-06T13:07:15.540001+00:00",
    "paywall": true
   }
