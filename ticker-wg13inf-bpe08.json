@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-09T16:07:03.622938+00:00",
+ "updated": "2026-10-09T17:06:19.847994+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: Erholung im KI-Sektor",
+   "summary": "Am Donnerstag hatten Meldungen über schwache Umsätze von OpenAI im September den Nasdaq abstürzen lassen. Wie Markus Koch berichtet, haben die starken Erwartungen des KI-Unternehmens bis Jahresende den Markt am Freitag jedoch wieder…",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-erholung-im-ki-sektor/100261125.html",
+   "published": "2026-10-09T16:07:41+00:00",
+   "first_seen": "2026-10-09T17:06:19.847994+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Fritz! gegen Telekom: Deutscher Routerhersteller Fritz! fordert Verbot chinesischer Geräte",
@@ -892,15 +901,6 @@
    "published": "2026-10-07T06:09:36+00:00",
    "first_seen": "2026-10-07T07:07:55.449284+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Bundeskabinett will Gesetz zu Deepfakes auf den Weg bringen",
-   "summary": "Justizministerin Hubig will stärker gegen bildbasierte sexualisierte Gewalt vorgehen. Ihr Gesetzentwurf gegen digitale Gewalt durchläuft heute das Bundeskabinett.",
-   "link": "https://www.zdfheute.de/politik/deutschland/bundesregierung-gesetz-gegen-digitale-gewalt-100.html",
-   "published": "2026-10-07T06:00:00+00:00",
-   "first_seen": "2026-10-07T06:05:34.774825+00:00",
-   "paywall": false
   }
  ]
 }
