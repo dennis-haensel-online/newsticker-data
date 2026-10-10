@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-10T08:13:02.947696+00:00",
+ "updated": "2026-10-10T14:54:49.417109+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Digitalisierung: Eine europäische Cloud für Deutschlands Mittelstand",
+   "summary": "Die Telekom-Austria-Gruppe baut ihr Deutschlandgeschäft mit eigener Cloud und Services aus. Die Stoßrichtung: Datensouveränität.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/a1-digital-elisabetta-castiglioni-und-die-cloud-fuer-den-mittelstand-accg-201283281.html",
+   "published": "2026-10-10T08:29:56+00:00",
+   "first_seen": "2026-10-10T14:54:49.417109+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Fritz! gegen Telekom: Deutscher Routerhersteller Fritz! fordert Verbot chinesischer Geräte",
@@ -91,15 +100,6 @@
    "published": "2026-10-07T13:55:15+00:00",
    "first_seen": "2026-10-07T16:08:42.342834+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wer hat Schutzmaßnahmen?: Firmen zumeist nicht speziell für KI-Angriffe gewappnet",
-   "summary": "Etwa jeder zweite Betrieb nutzt Künstliche Intelligenz. Spezielle Prozesse, um das eigene Unternehmen gegen KI-gestützte Cyberangriffe zu schützen, haben nur die wenigsten etabliert.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/wer-hat-schutzmassnahmen-firmen-zumeist-nicht-speziell-fuer-ki-angriffe-gewappnet/100260386.html",
-   "published": "2026-10-07T09:24:32+00:00",
-   "first_seen": "2026-10-07T10:06:53.935436+00:00",
-   "paywall": true
   }
  ]
 }
