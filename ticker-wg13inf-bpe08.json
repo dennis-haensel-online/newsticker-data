@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-11T02:57:46.199358+00:00",
+ "updated": "2026-10-11T09:40:01.283052+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI",
+   "summary": "Tesla benennt nach Kritik Assistenzsystem in Europa um +++ Bahn saniert bis 2031 deutlich weniger wichtige Strecken +++ Alle 19 Minuten geht eine Firma pleite +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bericht-nvidia-prueft-kauf-von-ki-startup-reflection-ai-faz-200452404.html",
+   "published": "2026-10-11T09:22:28+00:00",
+   "first_seen": "2026-10-11T09:40:01.283052+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Rettet KI die deutsche Industrie?",
+   "summary": "In mehr als der Hälfte der deutschen Unternehmen ist KI bereits im Einsatz. Die Industrie hofft auf mehr Wettbewerbsfähigkeit, macht sich aber auch Sorgen um digitale Souveränität.",
+   "link": "https://www.zdfheute.de/politik/deutschland/ki-deutschland-kuenstliche-intelligenz-deutsche-wirtschaft-industrie-100.html",
+   "published": "2026-10-11T03:30:00+00:00",
+   "first_seen": "2026-10-11T09:40:01.283052+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Hackerangriffe: Das Dilemma der Digitalisierung",
@@ -820,51 +838,6 @@
    "published": "2026-10-07T14:43:20+00:00",
    "first_seen": "2026-10-07T16:08:42.342834+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Drei Aktien, die von Bedenken bei der KI-Sicherheit profitieren",
-   "summary": "Autonome KI-Agenten schaffen neue Einfallstore für Cyberangriffe. IT-Sicherheitsspezialisten sind daher gefragt. Doch bei einigen Aktien steckt bereits viel Optimismus in den Kursen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-drei-aktien-die-von-bedenken-bei-der-ki-sicherheit-profitieren/100258228.html",
-   "published": "2026-10-07T14:40:34+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/karriere-in-welchen-branchen-koennen-sie-mit-ki-kompetenzen-besonders-punkten-01/100251207.html",
-   "published": "2026-10-07T14:33:00+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "IWF: KI als Rettung und Risiko",
-   "summary": "Die Weltwirtschaft wächst trotz hoher Energiepreise und Schulden. IWF-Chefin Georgiewa setzt auf Künstliche Intelligenz – und warnt zugleich vor neuen Risiken.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/iwf-ki-als-rettung-und-risiko-201296338.html",
-   "published": "2026-10-07T14:26:25+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI oder nicht KI?: SynthID: Google öffnet KI-Detektor für alle Nutzer",
-   "summary": "Das kann nicht echt sein, oder? Immer bessere KI-Modelle machen es schwierig, künstlich erstellte Inhalte aufzuspüren. Mit Googles SynthID-Detektor soll das leichter werden - mit Einschränkungen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-oder-nicht-ki-synthid-google-oeffnet-ki-detektor-fuer-alle-nutzer/100260491.html",
-   "published": "2026-10-07T14:00:06+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
-   "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen. Von M. Polansky.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
-   "published": "2026-10-07T13:55:15+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": false
   }
  ]
 }
