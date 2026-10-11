@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe12",
- "updated": "2026-10-11T09:40:01.283052+00:00",
+ "updated": "2026-10-11T16:03:41.846153+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Angriffe auf Rechenzentren: Ukraine zertrümmert Russlands KI-Hoffnungen",
+   "summary": "Die Drohnenangriffe auf Yandex-Rechenzentren stören Cloud-Dienste und legen die KI-Infrastruktur lahm. Zielen die Luftschläge nicht nur auf Russland?",
+   "link": "https://www.wiwo.de/politik/ausland/angriffe-auf-russlands-rechenzentren-ukraine-zertruemmert-russlands-ki-hoffnungen/100261305.html",
+   "published": "2026-10-11T15:34:00+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Machtkampf mit China: Drohnen, Chips, Lieferketten: Taiwan wird zum Partner von Amerikas Rüstungsindustrie",
+   "summary": "US-Präsident Trump lässt offen, ob Washington die Insel Taiwan im Kriegsfall verteidigen würde. Doch zugleich wird die Kooperation bei Drohnen, Kampfjets und Verteidigungslieferketten immer enger.",
+   "link": "https://www.handelsblatt.com/politik/international/china-taiwan-wird-zum-partner-von-amerikas-ruestungsindustrie/100260994.html",
+   "published": "2026-10-11T08:28:34+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Drohnenangriff legt \"Russlands Google\" lahm",
@@ -136,42 +154,6 @@
    "published": "2026-10-08T08:00:29+00:00",
    "first_seen": "2026-10-08T09:07:09.991660+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wahlkampagnen-Finanzierung: Werbung durch Steuergelder? Demokraten klagen gegen Trump",
-   "summary": "Wenige Wochen vor den Kongresswahlen inszenieren aktuell mehrere Videos US-Präsident Trump als antikommunistisches Bollwerk. Kritik daran gibt es schon länger - nun folgt eine Klage.",
-   "link": "https://www.handelsblatt.com/politik/international/wahlkampagnen-finanzierung-werbung-durch-steuergelder-demokraten-klagen-gegen-trump/100260558.html",
-   "published": "2026-10-07T21:38:17+00:00",
-   "first_seen": "2026-10-07T22:04:34.941034+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Ukraine-Unterstützung: Nicht alle glauben an den Drohnendurchbruch von Friedrich Merz",
-   "summary": "Im Zuge seines Kiew-Besuchs kündigte der Bundeskanzler die Finanzierung neuer Abwehrdrohnen für Kiew an. Sie sollen gegen Russlands Luftangriffe helfen. Aber manche zweifeln.",
-   "link": "https://www.wiwo.de/politik/ausland/ukraine-unterstuetzung-nicht-alle-glauben-an-den-drohnendurchbruch-von-friedrich-merz/100260080.html",
-   "published": "2026-10-07T18:00:52+00:00",
-   "first_seen": "2026-10-07T18:06:42.744005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: Demokraten verklagen Trump-Regierung wegen TV-Werbung",
-   "summary": "Trumps Kampf um Texas: „Es ist entscheidend“ +++ Rubio ruft Westen zur Rückbesinnung auf gemeinsame Werte auf +++ US-Hypothekenzinsen auf höchstem Stand seit fast drei Jahren +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-demokraten-verklagen-trump-regierung-wegen-tv-werbung/29669594.html",
-   "published": "2026-10-07T17:04:00+00:00",
-   "first_seen": "2026-10-08T02:05:39.869969+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Großangriff an Putins Geburtstag: Viele Tote in der Ukraine",
-   "summary": "Am 74. Geburtstag Putins hat Russland die Ukraine mit einem besonders schweren Raketen- und Drohnenangriff überzogen. Die Attacken trafen Kiew und zahlreiche weitere Regionen.",
-   "link": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-russland-tote-putin-geburtstag-100.html",
-   "published": "2026-10-07T14:55:00+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": false
   }
  ]
 }

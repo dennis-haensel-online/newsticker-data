@@ -1,7 +1,43 @@
 {
  "id": "ik",
- "updated": "2026-10-11T09:40:01.283052+00:00",
+ "updated": "2026-10-11T16:03:41.846153+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Neue ZDF-Serie: Das Geisterhaus im Schwarzwald",
+   "summary": "Die Serie „House of Yang“ erzählt nicht nur von einem Spukhaus im Schwarzwald. Es geht zudem um verdrängte Traumata, Rassismus und Homophobie. mehr...",
+   "link": "https://taz.de/Neue-ZDF-Serie/!6220693/",
+   "published": "2026-10-11T15:50:00+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Mindestens 139 Flüchtlinge vor der Küste Dschibutis ertrunken",
+   "summary": "Am Horn Afrikas ereignet sich ein Schiffsunglück: Ein Schiff mit 305 geflüchteten Menschen an Bord kentert, mehr als 100 von ihnen sterben.",
+   "link": "https://www.zdfheute.de/politik/ausland/kueste-dschibuti-mehr-als-100-fluechtlinge-ertrunken-100.html",
+   "published": "2026-10-11T14:19:00+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Flüchtlingskatastrophe am Roten Meer: Mehr als 100 Flüchtlinge vor Dschibuti ertrunken",
+   "summary": "Ein Boot mit Menschen aus Äthiopien kentert auf dem Weg nach Jemen. Die Kriege in beiden Ländern eskalieren gleichzeitig, mit dramatischen Folgen. mehr...",
+   "link": "https://taz.de/Fluechtlingskatastrophe-am-Roten-Meer/!6220669/",
+   "published": "2026-10-11T12:36:00+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Häfen der Emirate: Sie bauen die Umgehungsstraße von Hormus",
+   "summary": "Die Vereinigten Arabischen Emirate beweisen: Die Globalisierung lebt – trotz-Iran-Krieg und dank eines Bau-Turbos. Am Hafen von Fudschaira sieht man, was das bedeutet.",
+   "link": "https://www.zeit.de/2026/44/vae-haefen-fudschaira-chor-fakkan-golf-von-oman-strasse-von-hormus",
+   "published": "2026-10-11T11:36:02+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Debatte um Rot-Grün-Rot: Linke-Bundesvorstand wirbt für Sondierungen in Berlin",
@@ -271,33 +307,6 @@
    "published": "2026-10-08T07:30:51+00:00",
    "first_seen": "2026-10-08T08:06:56.939348+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nach der Wahl in Berlin: Parteien suchen Einigung zum Thema Antisemitismus in Berlin",
-   "summary": "Schon dreimal haben sich Linke, Grüne und SPD in Berlin getroffen, um über das Thema Antisemitismus zu sprechen. Ergebnisse wurden bisher nicht bekannt. Wie geht es weiter?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-wahl-in-berlin-parteien-suchen-einigung-zum-thema-antisemitismus-in-berlin/100260525.html",
-   "published": "2026-10-07T16:01:16+00:00",
-   "first_seen": "2026-10-07T17:15:09.050948+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nach der Wahl: Weiterhin keine Einigung zum Thema Antisemitismus in Berlin",
-   "summary": "Linke, Grüne und SPD in Berlin verkünden auch nach dem dritten Treffen zum Thema Antisemitismus kein Ergebnis. Die Parteien ringen weiter um eine gemeinsame Haltung.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-wahl-weiterhin-keine-einigung-zum-thema-antisemitismus-in-berlin/100260525.html",
-   "published": "2026-10-07T15:41:13+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Antisemitismus in der Linkspartei: Nahost spaltet Leipzig",
-   "summary": "Teile der Leipziger Linken wollen stärker mit Hamas-nahen Organisationen wie Handala zusammenarbeiten. Das zeigt sich auch diese Woche in Berlin. mehr...",
-   "link": "https://taz.de/Antisemitismus-in-der-Linkspartei/!6219513/",
-   "published": "2026-10-07T15:34:00+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": false
   }
  ]
 }

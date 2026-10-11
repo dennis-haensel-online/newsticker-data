@@ -1,7 +1,97 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-11T09:40:01.283052+00:00",
+ "updated": "2026-10-11T16:03:41.846153+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Angriffe auf Rechenzentren: Ukraine zertrümmert Russlands KI-Hoffnungen",
+   "summary": "Die Drohnenangriffe auf Yandex-Rechenzentren stören Cloud-Dienste und legen die KI-Infrastruktur lahm. Zielen die Luftschläge nicht nur auf Russland?",
+   "link": "https://www.wiwo.de/politik/ausland/angriffe-auf-russlands-rechenzentren-ukraine-zertruemmert-russlands-ki-hoffnungen/100261305.html",
+   "published": "2026-10-11T15:34:00+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Bücher: KI-Firmen kaufen deutsche Antiquariate leer",
+   "summary": "Sammler und Liebhaber finden in Antiquariaten jede Menge alter Bücher und Raritäten. In letzter Zeit gibt es allerdings eine signifikante Veränderung in der Kundschaft, wie der Verband Deutscher Antiquare feststellt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ki-firmen-kaufen-deutsche-antiquariate-leer-markus-brandis-accg-201307608.html",
+   "published": "2026-10-11T14:54:54+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Warnsystem gegen Deepfakes: Tom Cruise in der Teams-Schalte",
+   "summary": "Videokonferenzen sind in Unternehmen längst Alltag. Doch in Zeiten von KI und Deepfakes geraten sie zunehmend in den Fokus von Cyberkriminellen. Forschende haben nun ein Warnsystem entwickelt. Von Stefan Venator.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/fake-videokonferenzen-100.html",
+   "published": "2026-10-11T14:24:52+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Ausländerfeindliche Unruhen in Südafrika: Autos und Geschäfte angezündet",
+   "summary": "In Johannesburg und Durban kommt es zu Ausschreitungen bei Protesten gegen Zuwanderung. Fake News über ein Gerichtsurteil waren der Auslöser. mehr...",
+   "link": "https://taz.de/Auslaenderfeindliche-Unruhen-in-Suedafrika/!6220575/",
+   "published": "2026-10-11T14:06:00+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Warum Anleger das Risiko einer KI-Apokalypse ignorieren sollten",
+   "summary": "Der geplante Börsengang von Anthropic zeigt, dass die Revolution durch Künstliche Intelligenz nicht mit dem üblichen Instrumentarium der Börsen zu bewerten ist, meint Michael Maisch.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/geldanlage-warum-anleger-das-risiko-einer-ki-apokalypse-ignorieren-sollten/100260022.html",
+   "published": "2026-10-11T12:57:10+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Microsoft-Chef will „Notbremse“ bei Künstlicher Intelligenz",
+   "summary": "Nach Aufregung über Hacking-Attacken durch KI schlägt Microsoft-Chef Satya Nadella Regeln für die Technologie vor. Die Maßnahmen offenbaren, wie besorgt der Boss des Softwareriesen ist.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-microsoft-chef-will-notbremse-bei-kuenstlicher-intelligenz/100261340.html",
+   "published": "2026-10-11T11:32:07+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Microsoft-Chef will „Notbremse“ in Künstlicher Intelligenz",
+   "summary": "Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI +++ Tesla benennt nach Kritik Assistenzsystem in Europa um +++ Bahn saniert bis 2031 deutlich weniger wichtige Strecken +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-chef-will-notbremse-in-kuenstlicher-intelligenz-faz-200452404.html",
+   "published": "2026-10-11T11:24:07+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Sorgen: Microsoft-Chef will „Notbremse“ in Künstlicher Intelligenz",
+   "summary": "Nach Aufregung über Hacking-Attacken durch KI schlägt Microsoft-Chef Satya Nadella Regeln für die Technologie vor. Die Maßnahmen offenbaren, wie besorgt der Boss des Softwareriesen ist.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-sorgen-microsoft-chef-will-notbremse-in-kuenstlicher-intelligenz/100261338.html",
+   "published": "2026-10-11T11:04:30+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-Sorgen: Microsoft-Chef will „Notbremse“ in Künstlicher Intelligenz",
+   "summary": "Nach Aufregung über Hacking-Attacken durch KI schlägt Microsoft-Chef Satya Nadella Regeln für die Technologie vor. Die Maßnahmen offenbaren, wie besorgt der Boss des Softwareriesen ist.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/ki-sorgen-microsoft-chef-will-notbremse-in-kuenstlicher-intelligenz/100261339.html",
+   "published": "2026-10-11T11:04:30+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um",
+   "summary": "Tesla spricht in Europa künftig von „Tesla Assisted Driving“. Damit reagiert der Elektroauto-Hersteller auf den Vorwurf, der bisherige Name verspreche autonomes Fahren.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/tesla-fahrassistenzsystem-europa-fsd-assisted-driving-elon-musk-autonomes-fahren-li.3561790",
+   "published": "2026-10-11T10:22:49+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI",
@@ -9,6 +99,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bericht-nvidia-prueft-kauf-von-ki-startup-reflection-ai-faz-200452404.html",
    "published": "2026-10-11T09:22:28+00:00",
    "first_seen": "2026-10-11T09:40:01.283052+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Nvidia prüft offenbar Kauf von KI-Start-up Reflection AI",
+   "summary": "Reflection AI, Entwickler von KI-Werkzeugen fürs Programmieren, hat die Aufmerksamkeit von Nvidia auf sich gezogen. Das Unternehmen erwägt einen Kauf.",
+   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-nvidia-prueft-offenbar-kauf-von-ki-start-up-reflection-ai/100261300.html",
+   "published": "2026-10-11T07:53:54+00:00",
+   "first_seen": "2026-10-11T16:03:41.846153+00:00",
    "paywall": true
   },
   {
@@ -765,78 +864,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/technologie-microsoft-und-nvidia-wollen-ki-ohne-internet-nutzbar-machen/100260096.html",
    "published": "2026-10-08T02:28:37+00:00",
    "first_seen": "2026-10-08T06:07:18.447243+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tech-Konzern: Samsung stellt dank KI-Boom Rekordgewinn in Aussicht",
-   "summary": "Der operative Gewinn übertrifft die Analystenschätzung deutlich. Und der südkoreanische Tech-Konzern verbucht den vierten Rekord-Quartalsgewinn in Folge.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/tech-konzern-samsung-stellt-dank-ki-boom-rekordgewinn-in-aussicht/100260566.html",
-   "published": "2026-10-07T23:59:31+00:00",
-   "first_seen": "2026-10-08T01:08:57.278282+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tech-Konzern: Rekord dank KI-Boom: Samsung stellt zehnfachen Gewinn in Aussicht",
-   "summary": "Der koreanische Konzern profitiert massiv vom KI‑Boom. Beim Gewinn legt Samsung damit einen Branchenbestwert vor. Den Aktionären reicht das nicht.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/tech-konzern-samsung-stellt-zehnfachen-gewinn-in-aussicht/100260566.html",
-   "published": "2026-10-07T23:59:31+00:00",
-   "first_seen": "2026-10-08T08:06:56.939348+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Burnham bei Merz: Deutschland und Großbritannien stärken Cyberabwehr",
-   "summary": "Zweieinhalb Monate nach seinem Amtsantritt besucht der britische Premierminister Andy Burnham Deutschland als erstes EU-Land. In Berlin geht es auch um die Bekämpfung von Cyberangriffen.",
-   "link": "https://www.handelsblatt.com/politik/burnham-bei-merz-deutschland-und-grossbritannien-staerken-cyberabwehr/100260562.html",
-   "published": "2026-10-07T23:12:44+00:00",
-   "first_seen": "2026-10-08T00:05:39.972005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deutschland-Gipfel: Wildberger: „Wir haben ein Umsetzungsproblem, aber auch ein Erkenntnisproblem. Und das ist massiv.“",
-   "summary": "Der Digitalminister stellt sich beim Deutschland-Gipfel gegen ein verbreitetes Koalitionsnarrativ – und warnt, Europa könnte bei KI den Anschluss verlieren. Wo er noch Chancen sieht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/deutschland-gipfel-digitalminister-wildberger-wir-haben-ein-erkenntnisproblem1234/100260110.html",
-   "published": "2026-10-07T17:29:47+00:00",
-   "first_seen": "2026-10-07T18:06:42.744005+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Machtverschiebung im Internet: Die Maschinen sind schon in der Mehrheit",
-   "summary": "Im Internet verdrängen KI-Agenten die Menschen. Dem Journalismus entgehen Leser und Einnahmen. Wer regiert die Technik?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/ki-agenten-die-maschinen-sind-schon-in-der-mehrheit-201289113.html",
-   "published": "2026-10-07T17:02:33+00:00",
-   "first_seen": "2026-10-07T17:15:09.050948+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: „Der Markt ist unfassbar schief“",
-   "summary": "Die vergangenen Wochen sind an der Wall Street laut Markus Koch eine „echte Herausforderung“. Der Markt werde „zunehmend durch extrem wenige Aktien“ getragen – selbst innerhalb des KI-Sektors stiegen längst nicht alle Aktien, sagt der…",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-der-markt-ist-unfassbar-schief/100260521.html",
-   "published": "2026-10-07T15:31:27+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: KI-Boom außer Kontrolle? 40 Milliarden für Nvidia-Chips",
-   "summary": "Elon Musks Raumfahrtunternehmen SpaceX will rund 40 Milliarden US-Dollar aufnehmen, um Nvidia-Chips zu kaufen. Währenddessen bleibt der Zinsdruck.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-ki-boom-ausser-kontrolle-40-milliarden-fuer-nvidia-chips/100260495.html",
-   "published": "2026-10-07T14:47:47+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Unternehmen: „Mit KI fängt man auf einem anderen Level an“",
-   "summary": "Deutsche Firmen zögern noch, künstliche Intelligenz zu verwenden. Zwei Beispiele, was die Technologie abseits aller Untergangsszenarien bringen kann.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/firmen-ki-einsatz-transformation-unternehmen-deutschland-li.3548526",
-   "published": "2026-10-07T14:43:20+00:00",
-   "first_seen": "2026-10-07T16:08:42.342834+00:00",
    "paywall": true
   }
  ]
