@@ -1,7 +1,61 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-12T06:47:00.350993+00:00",
+ "updated": "2026-10-12T16:19:19.303037+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Wirtschaft - EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
+   "summary": "Nach der Einigung auf eine Drosselung chinesischer Exporte von Hybrid-Autos hat die EU Einzelheiten bekannt gegeben.",
+   "link": "https://www.deutschlandfunk.de/eu-begrenzt-chinesische-hybridauto-importe-auf-350-000-pro-jahr-100.html",
+   "published": "2026-10-12T16:11:37+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Hybridautos: EU halbiert Import aus China",
+   "summary": "Die EU begrenzt den Import von chinesischen Hybridautos drastisch. Trotz der Einigung mit Peking auf eine Obergrenze bereitet sich Brüssel auf eine Eskalation im Handelsstreit vor.",
+   "link": "https://www.zdfheute.de/wirtschaft/hybridauto-import-china-eu-100.html",
+   "published": "2026-10-12T13:29:00+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
+   "summary": "Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem trotzdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-china-hybridautos-102.html",
+   "published": "2026-10-12T11:38:03+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Plug-in-Hybrid: EU begrenzt Import chinesischer Hybridautos auf 350.000 pro Jahr",
+   "summary": "Die EU will den Import von Plug-in-Hybrid-Autos aus China um mehr als die Hälfte reduzieren. Die festgelegte Obergrenze soll jährlich um sechs Prozent steigen.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/chinesische-hybridautos-eu-import-begrenzung-china-gxe",
+   "published": "2026-10-12T10:24:03+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "E-Autos: EU-Kommission deckelt Hybrid-Importe aus China",
+   "summary": "Nach den EU-Zöllen auf Elektroautos stiegen die Hybridauto-Importe aus China. Nun vereinbart die EU-Kommission eine Obergrenze.",
+   "link": "https://www.wiwo.de/politik/europa/e-autos-eu-kommission-deckelt-hybrid-importe-aus-china/100261523.html",
+   "published": "2026-10-12T09:31:34+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Hybridautos: EU begrenzt Importe aus China auf 350.000",
+   "summary": "Dieser Deal soll auch den Druck auf Deutschlands Autobauer mindern: EU und China hatten sich jüngst auf einen Kompromiss für die Importe von Hybridautos verständigt. Nun präsentiert Brüssel konkrete Zahlen.",
+   "link": "https://www.spiegel.de/wirtschaft/hybridautos-eu-begrenzt-importe-aus-china-auf-350-000-a-29c4e6e9-5ca9-4892-a3fc-572170f6a156#ref=rss",
+   "published": "2026-10-12T08:39:00+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "China-Politik: Europa rüstet sich für den Handelskrieg",
@@ -369,60 +423,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/automarkt-das-koennten-zoelle-auf-chinesische-hybridautos-bewirken/100260911.html",
    "published": "2026-10-09T03:00:11+00:00",
    "first_seen": "2026-10-09T04:05:39.084660+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Welthandel: WTO korrigiert Wachstumsaussichten deutlich nach oben",
-   "summary": "2026 ist ein konflikreiches Jahr. Mit der Straße von Hormus war eine der Lebensadern des Welthandels zeitweise dicht. Doch am Ende fällt die Handels-Bilanz laut WTO überraschend positiv aus.",
-   "link": "https://www.handelsblatt.com/politik/international/welthandel-wto-korrigiert-wachstumsaussichten-deutlich-nach-oben/100260814.html",
-   "published": "2026-10-08T14:46:06+00:00",
-   "first_seen": "2026-10-08T15:07:10.489552+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Laser, Turbinen, Kühlsysteme: Warum die Exportwirtschaft plötzlich die Wirtschaft antreibt",
-   "summary": "Endlich wieder Wachstum. So verspricht es die neue Regierungsprognose. Wirtschaftsministerin Reiche ist dennoch nicht glücklich – und richtet eine Botschaft an Frankreich.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-warum-die-exportwirtschaft-wieder-die-wirtschaft-antreibt/100259724.html",
-   "published": "2026-10-08T13:46:38+00:00",
-   "first_seen": "2026-10-08T14:08:01.443565+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Welthandel wächst: WTO korrigiert Wachstumsaussichten deutlich nach oben",
-   "summary": "2026 ist das Jahr vieler Krisen und Konflikte. Mit der Straße von Hormus war eine der Lebensadern des Welthandels zeitweise dicht. Doch am Ende sieht die Handels-Bilanz laut WTO überraschend gut aus.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/welthandel-waechst-wto-korrigiert-wachstumsaussichten-deutlich-nach-oben/100260786.html",
-   "published": "2026-10-08T13:14:11+00:00",
-   "first_seen": "2026-10-08T14:08:01.443565+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Prognose der WTO: Globaler Warenhandel wächst doppelt so schnell wie erwartet",
-   "summary": "Der KI-Boom lässt den Welthandel florieren. Dank neuer Lieferanten und Routen schlägt der Nahostkonflikt nicht sonderlich stark ins Kontor.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wto-globaler-warenhandel-beschleunigt-sich-stark-201298557.html",
-   "published": "2026-10-08T13:02:31+00:00",
-   "first_seen": "2026-10-08T13:10:58.190947+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Perspektivwechsel: Seltener Einblick: So blickt China auf den Handelskonflikt mit der EU",
-   "summary": "China und die EU verhandeln in Peking über eine Lösung im Handelsstreit. Während die Europäer bereits mit neuen Maßnahmen drohen, sehen chinesische Experten noch Spielraum für Kompromisse.",
-   "link": "https://www.handelsblatt.com/politik/international/china-so-blickt-peking-auf-den-handelskonflikt-mit-der-eu/100260322.html",
-   "published": "2026-10-08T10:41:56+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zweiter Rückgang in Folge: Sommerflaute trifft deutschen Außenhandel",
-   "summary": "Exportflaute, wachsende Importe: Die Schere im Handel mit China öffnet sich weiter. Die leichte Belebung des deutschen Außenhandels scheint schon wieder vorbei zu sein.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/zweiter-rueckgang-in-folge-sommerflaute-trifft-deutschen-aussenhandel/100260631.html",
-   "published": "2026-10-08T09:58:05+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
    "paywall": true
   }
  ]

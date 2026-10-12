@@ -1,7 +1,43 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-12T06:47:00.350993+00:00",
+ "updated": "2026-10-12T16:19:19.303037+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen",
+   "summary": "Ein Cyberangriff hat in der vergangenen Nacht die Kühlanlagen in hunderten französischen Supermärkten auf eine Temperatur von 50 Grad gestellt.",
+   "link": "https://www.deutschlandfunk.de/nach-cyberattacke-hunderte-supermaerkte-muessen-gefrierware-entsorgen-102.html",
+   "published": "2026-10-12T16:11:37+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Lebensmittel: Cyberangriff stört Kühlanlagen französischer Handelsketten",
+   "summary": "Eine Cyberattacke störte die Funktion von Kühlschränken mehrerer französischer Handelsketten. Lebensmittel müssen weggeworfen werden - der Schaden könnte immens sein. Die Staatsanwaltschaft ermittelt.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/lebensmittel-cyberangriff-stoert-kuehlanlagen-franzoesischer-handelsketten/100261643.html",
+   "published": "2026-10-12T15:32:00+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Frankreich: Brände und verdorbene Lebensmittel – Cyberangriff auf französische Supermärkte",
+   "summary": "Bei einem Cyberangriff auf mehrere hundert französische Supermärkte sind Brände ausgebrochen und Lebensmittel zerstört worden. Die Staatsanwaltschaft ermittelt.",
+   "link": "https://www.wiwo.de/unternehmen/handel/frankreich-braende-und-verdorbene-lebensmittel-cyberangriff-auf-franzoesische-supermaerkte/100261651.html",
+   "published": "2026-10-12T15:18:20+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Datenschutzbeauftragter: Kriminelle erbeuten Buchungsdaten - Was Urlauber tun können",
+   "summary": "Nach Cyberangriffen auf Buchungsdienstleister sind Daten von Gästen abgeflossen. Kriminelle nutzen die Informationen für täuschend echte Phishing-Nachrichten. Wann ist Misstrauen angesagt?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/datenschutzbeauftragter-kriminelle-erbeuten-buchungsdaten-was-urlauber-tun-koennen/100261627.html",
+   "published": "2026-10-12T13:34:19+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Angriffe auf Rechenzentren: Ukraine zertrümmert Russlands KI-Hoffnungen",

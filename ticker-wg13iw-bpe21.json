@@ -1,7 +1,34 @@
 {
  "id": "wg13iw-bpe21",
- "updated": "2026-10-12T06:47:00.350993+00:00",
+ "updated": "2026-10-12T16:19:19.303037+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "CDU bespricht Wahlniederlagen: Alter Wein in neuen Schläuchen",
+   "summary": "Zwei Tage nahm sich das CDU-Präsidium, um Schlüsse aus den Wahlniederlagen zu ziehen. Neue Erkenntnisse? Kaum. Aber eine neue Steuersenkung mehr...",
+   "link": "https://taz.de/CDU-bespricht-Wahlniederlagen/!6220864/",
+   "published": "2026-10-12T15:56:00+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Ehrung: US-Forscher Robert E. Hall und Michael Woodford erhalten Wirtschaftsnobelpreis",
+   "summary": "Die beiden US-Ökonomen haben Modelle entwickelt, wie Zentralbanken und Regierungen eine Rezession abmildern oder der Überhitzung der Wirtschaft entgegenwirken können.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/wirtschaftsnobelpreis-2026-robert-e-hall-michael-woodford-usa-li.3557103",
+   "published": "2026-10-12T10:36:00+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Was hinter der aktuellen Euro-Schwäche steckt",
+   "summary": "Politische Unsicherheiten in Frankreich und Spanien bringen den Euro unter Druck. Dazu kommen Sorgen wegen der hohen Staatsschulden in Europa. Was bedeutet das für Europas Gemeinschaftswährung? Von Claudia Wehrle.",
+   "link": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
+   "published": "2026-10-12T08:17:50+00:00",
+   "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
@@ -280,141 +307,6 @@
    "published": "2026-10-08T16:41:00+00:00",
    "first_seen": "2026-10-08T17:06:44.248236+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Bahn muss Top-Strecken für Wettbewerber nicht freigeben",
-   "summary": "Fahrgäste sollten von mehr Wettbewerb im Fernverkehr der Bahn profitieren, etwa durch günstigere Tickets. Ein Gericht kippte nun die von der Bundesnetzagentur geforderte Klausel.",
-   "link": "https://www.zdfheute.de/wirtschaft/bahn-konkurrenz-fernverkehr-gericht-100.html",
-   "published": "2026-10-08T14:48:00+00:00",
-   "first_seen": "2026-10-08T15:07:10.489552+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Entlastungen: Der Bürokratieabbau kommt voran – aber langsam",
-   "summary": "Die Bundesregierung verkündet Milliardenentlastungen beim Abbau von Bürokratie, sogar der Normenkontrollrat ist „vorsichtig positiv“. Doch die Bilanz hat einen Haken.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/buerokratieabbau-deutschland-entlastungen-aktueller-stand-li.3560434",
-   "published": "2026-10-08T14:06:57+00:00",
-   "first_seen": "2026-10-08T15:07:10.489552+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Staatsverschuldung in Deutschland: Bund marschiert in Richtung Schuldenstaat",
-   "summary": "Der Bund verschuldet sich immer stärker. Bis 2030 soll mehr als ein Viertel des Haushalts kreditfinanziert sein. Zugleich droht eine deutlich höhere Last durch Zinszahlungen.",
-   "link": "https://www.spiegel.de/wirtschaft/staatsverschuldung-in-deutschland-bund-marschiert-in-richtung-schuldenstaat-a-85c3d413-137a-4862-aadc-9631d4dc7039#ref=rss",
-   "published": "2026-10-08T14:05:00+00:00",
-   "first_seen": "2026-10-08T15:07:10.489552+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunkturprognose: Der Aufschwung kehrt zurück, der Reformdruck bleibt",
-   "summary": "Wirtschaftsministerin Reiche sieht Deutschland trotz höherem Wachstum noch in der Krise. Damit der Standort wieder zum Kraftzentrum werde, müsse die Regierung liefern.",
-   "link": "https://www.wiwo.de/politik/deutschland/herbstprojektion-katherina-reiche-erhoeht-die-konjunkturprognose/100260647.html",
-   "published": "2026-10-08T13:13:41+00:00",
-   "first_seen": "2026-10-08T14:08:01.443565+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Konjunktur: Reiche präsentiert: ein Aufschwüngchen",
-   "summary": "Erstmals seit Langem kann die Regierung eine recht positive Konjunkturprognose vorlegen. Ob das Wachstum nachhaltig sein wird, wagt aber nicht einmal die zuständige Ministerin zu sagen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/konjunktur-deutschland-regierungsprognose-reiche-li.3560322",
-   "published": "2026-10-08T12:37:46+00:00",
-   "first_seen": "2026-10-08T13:10:58.190947+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Wirtschaft auf Wachstumskurs: Reiche hebt Konjunkturprognose an",
-   "summary": "Die Bundesregierung schaut zumindest konjunkturell optimistischer in die Zukunft. Trotzdem pocht die Wirtschaft auf Reformen in ihrem Sinne. mehr...",
-   "link": "https://taz.de/Wirtschaft-auf-Wachstumskurs/!6219924/",
-   "published": "2026-10-08T12:18:00+00:00",
-   "first_seen": "2026-10-08T13:10:58.190947+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Jahresbericht des Nationalen Normenkontrollrates zum Bürokratieabbau, u.a. mit Karsten Wildberger (CDU)",
-   "summary": "Jahresbericht des Nationalen Normenkontrollrates (NKR), mit Karsten Wildberger, CDU, Bundesminister für Digitalisierung und Staatsmodernisierung, Lutz Goebel, Vorsitzender, und Prof. Sabine Kuhlmann, Stellvertretende Vorsitzende des NKR",
-   "link": "https://www.phoenix.de/sendungen/ereignisse/phoenix-vor-ort/ua-bundestag-live-a-5230280.html",
-   "published": "2026-10-08T11:18:00+00:00",
-   "first_seen": "2026-10-08T12:07:23.802918+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Deutsche Bahn: Fernverkehrsbeschluss der Netzagentur rechtswidrig",
-   "summary": "Die Deutsche Bahn hat sich erfolgreich gegen einen Beschluss der Bundesnetzagentur gewehrt. Ein Gericht hat bestätigt, dass die Bahn nicht in der Pflicht steht, auch auf wichtigen Trassen mehr Platz für Wettbewerber zu lassen.",
-   "link": "https://www.spiegel.de/wirtschaft/deutsche-bahn-fernverkehrsbeschluss-der-netzagentur-rechtswidrig-a-58f883fc-f4ed-46f0-ba34-866c6292ded5#ref=rss",
-   "published": "2026-10-08T10:49:00+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Gericht: Weniger Konkurrenz für die Deutsche Bahn",
-   "summary": "Die Bundesnetzagentur wollte dafür sorgen, dass die Deutsche Bahn auf lukrativen Strecken mehr Platz für Wettbewerber machen muss. Jetzt hat ein Gericht diesen Vorstoß gestoppt.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-bundesnetzagentur-fernverkehr-wettbewerb-gericht-li.3560501",
-   "published": "2026-10-08T10:32:06+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunkturprognose: „Deutsche Wirtschaft ist auf Wachstumskurs“",
-   "summary": "Die deutsche Wirtschaft ist widerstandsfähiger als erwartet. Die Konjunkturprognose fällt höher aus. Doch Kriege belasten den Aufschwung.",
-   "link": "https://www.wiwo.de/politik/konjunktur/hoeheres-wachstum-bundesregierung-legt-neue-konjunkturprognose-vor-und-rechnet-mit-13-prozent-wachstum/100260611.html",
-   "published": "2026-10-08T10:24:00+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Konjunktur: Bundesregierung rechnet mit stärkerem Aufschwung",
-   "summary": "Erst haben die führenden Wirtschaftsinstitute die Konjunkturprognose für Deutschland angehoben, nun die Bundesregierung. Im laufenden Jahr rechnet Schwarz-Rot mit einem Wachstum von 1,3 Prozent.",
-   "link": "https://www.spiegel.de/wirtschaft/konjunktur-bundesregierung-rechnet-mit-staerkerem-aufschwung-a-ab38f8ae-0edf-448a-b914-4d5d2273bbc5#ref=rss",
-   "published": "2026-10-08T10:22:00+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Frankreichs hohe Staatsverschuldung: Ökonomen warnen vor neuer Schuldenkrise",
-   "summary": "Frankreichs hohe Staatsverschuldung beunruhigt Ökonomen und beschädigt das Vertrauen von Anlegern. Zentralbankchef Moulin will es ohne die Hilfe der EZB aus der Krise schaffen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/frankreichs-hohe-staatsverschuldung-oekonomen-warnen-vor-neuer-schuldenkrise-a-7f416b74-39d3-439d-82c4-47f7c4201191#ref=rss",
-   "published": "2026-10-08T10:18:00+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Beschluss rechtswidrig: Deutsche Bahn vor Gericht mit Erfolg gegen Herausforderer Italo",
-   "summary": "Die Bundesnetzagentur wollte dafür sorgen, dass die Deutsche Bahn auf lukrativen Strecken mehr Platz für Wettbewerber machen muss. Jetzt hat ein Gericht die Wettbewerbsklausel erstmal einkassiert.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/deutsche-bahn-vor-gericht-mit-erfolg-gegen-herausforderer-italo-accg-201299331.html",
-   "published": "2026-10-08T10:07:00+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wettbewerb auf der Schiene: Gericht: Fernverkehrsbeschluss der Netzagentur rechtswidrig",
-   "summary": "Die Bundesnetzagentur wollte dafür sorgen, dass die Deutsche Bahn auf lukrativen Strecken mehr Platz für Wettbewerber machen muss. Ein Gericht schiebt dem nun einen Riegel vor.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wettbewerb-auf-der-schiene-gericht-fernverkehrsbeschluss-der-netzagentur-rechtswidrig/100260717.html",
-   "published": "2026-10-08T10:00:58+00:00",
-   "first_seen": "2026-10-08T11:06:13.098589+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Zugverkehr: Gericht erklärt Fernverkehrsbeschluss der Netzagentur für rechtswidrig",
-   "summary": "Die Deutsche Bahn muss Wettbewerbern im Fernverkehr vorerst keine festen Kapazitäten auf hochbelasteten Strecken überlassen.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/zugverkehr-gericht-erklaert-fernverkehrsbeschluss-der-netzagentur-fuer-rechtswidrig/100260712.html",
-   "published": "2026-10-08T10:00:16+00:00",
-   "first_seen": "2026-10-08T10:07:21.628005+00:00",
-   "paywall": true
   }
  ]
 }
