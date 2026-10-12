@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-12T16:19:19.303037+00:00",
+ "updated": "2026-10-12T23:22:27.959055+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen",
+   "summary": "Ein Cyberangriff hat in der vergangenen Nacht die Kühlanlagen in hunderten französischen Supermärkten auf eine Temperatur von 50 Grad gestellt.",
+   "link": "https://www.deutschlandfunk.de/nach-cyberattacke-hunderte-supermaerkte-muessen-gefrierware-entsorgen-108.html",
+   "published": "2026-10-12T23:19:16+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Cyberangriff stört Kühlanlagen französischer Supermärkte",
+   "summary": "Microsoft-Präsident Smith: Milch wird strenger kontrolliert als KI +++ Absatzschwund bei Volkswagen beschleunigt sich +++ Der schwächste Markt war im dritten Quartal erneut China +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cyberangriff-stoert-kuehlanlagen-franzoesischer-handelsketten-faz-200452404.html",
+   "published": "2026-10-12T17:00:43+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen",
@@ -91,24 +109,6 @@
    "published": "2026-10-09T09:25:07+00:00",
    "first_seen": "2026-10-09T10:06:48.547055+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Datenschutzbeauftragter Hennemann: „Digitale Souveränität ist wichtig“",
-   "summary": "Seit Oktober ist Moritz Hennemann Bundesbeauftragter für Datenschutz und Informationsfreiheit (BfDI). Der Fall Hanning hat auch ihn „erschüttert“. mehr...",
-   "link": "https://taz.de/Datenschutzbeauftragter-Hennemann/!6220000/",
-   "published": "2026-10-08T15:56:00+00:00",
-   "first_seen": "2026-10-08T16:07:56.990613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "»Nius«: Wie Julian Reichelts Portal von einer Datenpanne ablenkt",
-   "summary": "Bei »Nius« ist nach eigenen Angaben ein umfangreicher Datensatz erbeutet worden. Wie es dazu kam, ist unklar. Chefredakteur Julian Reichelt greift aber schon mal das Recherchemedium »Correctiv« an.",
-   "link": "https://www.spiegel.de/wirtschaft/nius-wie-julian-reichelts-portal-von-einer-datenpanne-ablenkt-a-04014209-8e96-4411-84ec-534e7b772d1f#ref=rss",
-   "published": "2026-10-08T15:24:00+00:00",
-   "first_seen": "2026-10-08T16:07:56.990613+00:00",
-   "paywall": false
   }
  ]
 }

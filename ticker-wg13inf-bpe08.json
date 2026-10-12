@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-12T16:19:19.303037+00:00",
+ "updated": "2026-10-12T23:22:27.959055+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen",
+   "summary": "Ein Cyberangriff hat in der vergangenen Nacht die Kühlanlagen in hunderten französischen Supermärkten auf eine Temperatur von 50 Grad gestellt.",
+   "link": "https://www.deutschlandfunk.de/nach-cyberattacke-hunderte-supermaerkte-muessen-gefrierware-entsorgen-108.html",
+   "published": "2026-10-12T23:19:16+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Ranking 2026: Google holt OpenAI mit neuem KI-Modell „Argon“ ein",
+   "summary": "Der ChatGPT-Entwickler ringt üblicherweise mit Anthropic um den ersten Platz im KI-Rennen. Jetzt schließt Google mit der neusten Gemini-Version auf.",
+   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-die-besten-ki-modelle-im-aktuellen-ranking-2026/100222175.html",
+   "published": "2026-10-12T19:12:00+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bundeswehr: Pistorius sieht Fortschritte bei Digitalisierung des Heeres",
+   "summary": "Der neue Digitalfunk wird aktuell unter Gefechtsbedingungen getestet – mit überzeugenden Ergebnissen. Die Serienintegration der Funkgeräte liegt aber noch hinter dem Plan zurück.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-pistorius-sieht-fortschritte-bei-der-digitalisierung-des-heeres/100261617.html",
+   "published": "2026-10-12T18:39:32+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Cyberangriff stört Kühlanlagen französischer Supermärkte",
+   "summary": "Microsoft-Präsident Smith: Milch wird strenger kontrolliert als KI +++ Absatzschwund bei Volkswagen beschleunigt sich +++ Der schwächste Markt war im dritten Quartal erneut China +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cyberangriff-stoert-kuehlanlagen-franzoesischer-handelsketten-faz-200452404.html",
+   "published": "2026-10-12T17:00:43+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-Forschung: Läuft uns die künstliche Intelligenz davon?",
+   "summary": "Top-Forscher fürchten den Runaway: Die KI könnte sich rasend schnell selbst verbessern – ohne dass es jemand bemerkt.",
+   "link": "https://www.wiwo.de/technologie/forschung/intelligenzexplosion-warum-ki-forscher-einen-kontrollverlust-fuerchten/100258791.html",
+   "published": "2026-10-12T16:41:41+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "„Super Intelligenz“: Die Techelite unterwirft sich Trump",
+   "summary": "Der US-Präsident will den Begriff „Künstliche Intelligenz“ mit „Super Intelligenz“ ersetzen. Immer mehr Vertreter der Technologiebranche folgen seinem Wunsch.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/donald-trump-will-ki-in-super-intelligenz-umbenennen-201310393.html",
+   "published": "2026-10-12T16:40:39+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen",
@@ -18,6 +72,15 @@
    "link": "https://www.deutschlandfunk.de/sexuelle-belaestigung-polizei-ermittelt-in-koeln-nach-vorfall-mit-roboter-100.html",
    "published": "2026-10-12T16:11:37+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Köln: Roboter belästigt Mädchen",
+   "summary": "Ein Roboter hat ein 16-jähriges Mädchen sexuell belästigt. Die zwei jugendlichen Verdächtigen sollen die Tat gefilmt haben. Die Polizei ermittelt ob das Gerät gezielt gesteuert wurde.",
+   "link": "https://www.zdfheute.de/video/zdfheute-xpress/roboter-belaestigung-jugendliche-video-100.html",
+   "published": "2026-10-12T16:03:00+00:00",
+   "first_seen": "2026-10-12T23:22:27.959055+00:00",
    "paywall": false
   },
   {
@@ -774,51 +837,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-will-superintelligenz-als-namen-fuer-ki-durchsetzen-faz-200452404.html",
    "published": "2026-10-08T18:59:15+00:00",
    "first_seen": "2026-10-08T19:07:43.207105+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Zeitblindheit und fehlende Impulskontrolle - Kurzvideo-Algorithmen als digitale Falle für Menschen mit ADHS",
-   "summary": "Menschen mit ADHS fällt es einer Studie zufolge schwerer, mit dem Scrollen auf Videoplattformen wie TikTok oder Instagram aufzuhören - und auch die Folgen sind für sie gravierender. Das ist das Ergebnis einer Studie der TU Graz.",
-   "link": "https://www.deutschlandfunk.de/kurzvideo-algorithmen-als-digitale-falle-fuer-menschen-mit-adhs-102.html",
-   "published": "2026-10-08T18:04:20+00:00",
-   "first_seen": "2026-10-08T18:25:45.936763+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "SpeicherChiphersteller: Wie der KI-Boom Samsungs Gewinn in die Höhe katapultiert",
-   "summary": "Der koreanische Chiphersteller Samsung meldet den höchsten Quartalsgewinn, den je ein Technologiekonzern erzielt hat. Doch an der Börse wachsen die Zweifel.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/samsung-electronics-rekordhoch-beim-quartalsgewinn-dank-ki-201299786.html",
-   "published": "2026-10-08T17:22:02+00:00",
-   "first_seen": "2026-10-08T18:06:00.696946+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Trump: Wer noch Künstliche Intelligenz sagt, ist ein Feind",
-   "summary": "Donald Trump will schon seit Wochen den Namen „Superintelligenz“ statt der gewohnten Bezeichnung Künstliche Intelligenz durchboxen. Der Präsident scheint nun ungeduldig zu werden.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-trump-wer-noch-kuenstliche-intelligenz-sagt-ist-ein-feind/100260843.html",
-   "published": "2026-10-08T16:52:06+00:00",
-   "first_seen": "2026-10-08T17:06:44.248236+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Datenschutzbeauftragter Hennemann: „Digitale Souveränität ist wichtig“",
-   "summary": "Seit Oktober ist Moritz Hennemann Bundesbeauftragter für Datenschutz und Informationsfreiheit (BfDI). Der Fall Hanning hat auch ihn „erschüttert“. mehr...",
-   "link": "https://taz.de/Datenschutzbeauftragter-Hennemann/!6220000/",
-   "published": "2026-10-08T15:56:00+00:00",
-   "first_seen": "2026-10-08T16:07:56.990613+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/familienunternehmen-ki-ist-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
-   "published": "2026-10-08T15:55:00+00:00",
-   "first_seen": "2026-10-08T16:07:56.990613+00:00",
    "paywall": true
   }
  ]
