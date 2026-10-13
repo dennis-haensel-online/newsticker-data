@@ -1,7 +1,70 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-13T12:20:32.437389+00:00",
+ "updated": "2026-10-13T19:39:40.415076+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "BASF will Evonik: „Wir geben nicht Milliarden für ein Unternehmen aus, um wichtige Teile zu schlachten“",
+   "summary": "Der Evonik-Vorstand hatte das erste Angebot von BASF für eine Übernahme abgelehnt. Nun könnte Deutschlands größer Chemiekonzern sein Gebot erhöhen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-erhoeht-druck-auf-evonik-und-signalisiert-hoeheres-gebot-201313397.html",
+   "published": "2026-10-13T18:03:03+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Finanzdatenanbieter Octus",
+   "summary": "Die London Stock Exchange Group verhandelt über die Übernahme von Octus für 3,5 Milliarden Dollar. Anleger reagieren skeptisch, die Aktie fällt.",
+   "link": "https://www.wiwo.de/finanzen/boerse/lseg-verhandelt-ueber-octus-uebernahme/100262013.html",
+   "published": "2026-10-13T17:32:06+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Octus",
+   "summary": "Die London Stock Exchange Group will den US-Finanzdatenanbieter Octus für 3,5 Milliarden Dollar übernehmen. An der Börse kommen die Pläne schlecht an.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-lseg-verhandelt-ueber-milliarden-uebernahme-von-octus/100262001.html",
+   "published": "2026-10-13T16:56:39+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einzelhandel: Der Weg ins Desaster – so wurden die Marken Kaufhof und Karstadt systematisch zerstört",
+   "summary": "Die einstige Erfolgsgeschichte von Karstadt und Kaufhof mündet unter dem Namen Galeria in der mittlerweile vierten Insolvenz. Es ist auch eine Geschichte unternehmerischer Verfehlungen.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-so-wurden-die-marken-karstadt-und-kaufhof-systematisch-zerstoert/100261482.html",
+   "published": "2026-10-13T16:23:39+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Quantencomputer: Wie Google auf den Pfad eines Münchner Quanten-Start-ups einschwenkt",
+   "summary": "Planqc baut vor den Toren Münchens eine neue Generation von Computern. Dabei nutzt es die Forschung des dortigen Max-Planck-Instituts. Der Vorstandschef erklärt, was es damit auf sich hat.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantencomputer-wie-google-dem-muenchner-start-up-planqc-folgt-201293096.html",
+   "published": "2026-10-13T15:02:54+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
+   "summary": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter? Ein Überblick.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
+   "published": "2026-10-13T14:33:25+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Insolvenzgeld: Beschäftigte der Galeria-Warenhauskette erhalten Insolvenzgeld",
+   "summary": "Nach langem Ringen zahlt die Bundesagentur für Arbeit Insolvenzgeld für einen Teil der Beschäftigten von Galeria aus. Die Warenhauskette war erneut insolvent gegangen.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/insolvenzgeld-galeria-beschaeftigte-bundesagentur-fuer-arbeit",
+   "published": "2026-10-13T12:54:28+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": true
+  },
   {
    "label": "SZ",
    "title": "Insolvente Warenhauskette: Galeria-Beschäftigte erhalten Insolvenzgeld",
@@ -9,6 +72,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenzgeld-2026-bundesagentur-fuer-arbeit-li.3563064",
    "published": "2026-10-13T12:12:43+00:00",
    "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Insolvente Warenhauskette: Galeria-Beschäftigte erhalten Insolvenzgeld",
+   "summary": "Tagelang hatte die Bundesagentur für Arbeit um die Entscheidung gerungen. Nun hat sie das Insolvenzgeld für die Mitarbeiter der Warenhauskette bewilligt.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/galeria-kaufhof-mitarbeiter-insolvenzgeld-weihnachtsgeschaeft-li.3563064",
+   "published": "2026-10-13T12:12:43+00:00",
+   "first_seen": "2026-10-13T19:39:40.415076+00:00",
    "paywall": true
   },
   {
@@ -333,78 +405,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/uebernahmerecht-deutschland-unternehmen-firmenuebernahmen-commerzbank-li.3559410",
    "published": "2026-10-09T13:05:49+00:00",
    "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Ein geplatzter Börsengang in Australien zeigt Anlegern die Risiken des KI-Booms",
-   "summary": "Künstliche Intelligenz verschlingt Milliarden. Ein geplatzter Börsengang zeigt, wie nervös Anleger inzwischen sind – und wie stark die Branche verflochten ist.",
-   "link": "https://www.wiwo.de/finanzen/boerse/geplatzter-firmus-boersengang-geraet-der-ki-boom-ins-wanken/100261025.html",
-   "published": "2026-10-09T12:28:02+00:00",
-   "first_seen": "2026-10-09T13:09:43.088326+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Tech-Start-ups: So machten eine Milliardärin und ein Student München zur Hauptstadt der Gründer",
-   "summary": "BMW-Erbin Susanne Klatten und Helmut Schönenberger haben ein Ökosystem für Milliarden-Projekte geschaffen. Anfangs wurden sie ausgelacht. Und nun?",
-   "link": "https://www.wiwo.de/unternehmen/it/start-ups-in-muenchen-wieso-die-stadt-zur-hochburg-fuer-tech-gruender-wird/100256442.html",
-   "published": "2026-10-09T11:25:00+00:00",
-   "first_seen": "2026-10-10T01:59:32.386635+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Bahn saniert bis 2031 deutlich weniger wichtige Strecken",
-   "summary": "Alle 19 Minuten geht eine Firma pleite +++ US-Haushaltsdefizit erreicht fast zwei Billionen Dollar +++ SpaceX kauft US-Frequenzen für Mobilfunk-Angebot +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bahn-saniert-bis-2031-deutlich-weniger-wichtige-strecken-faz-200452404.html",
-   "published": "2026-10-09T10:57:32+00:00",
-   "first_seen": "2026-10-09T11:05:53.013140+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bewertungen: Börsengang von australischer KI-Firma Firmus abgesagt",
-   "summary": "Der Rechenzentrumsbetreiber Firmus zieht seinen geplanten Börsengang zurück. Investoren zweifeln angesichts hoher Bewertungen und steigender Finanzierungskosten an den Renditeaussichten im KI-Sektor.",
-   "link": "https://www.handelsblatt.com/finanzen/bewertungen-boersengang-von-australischer-ki-firma-firmus-abgesagt/100261001.html",
-   "published": "2026-10-09T09:33:55+00:00",
-   "first_seen": "2026-10-09T10:06:48.547055+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Chemieindustrie: Evonik-Übernahme durch BASF – Tag der Entscheidung?",
-   "summary": "BASF prüft ein freiwilliges Übernahmeangebot für Evonik. Nun beraten Aufsichtsrat und RAG-Stiftung, auch der politische Druck wächst.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/evonik-uebernahme-durch-basf-ist-heute-der-tag-der-entscheidung/100260982.html",
-   "published": "2026-10-09T09:13:00+00:00",
-   "first_seen": "2026-10-09T10:06:48.547055+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Insolvenzstatistik: So viele Unternehmenspleiten wie seit 13 Jahren nicht mehr",
-   "summary": "Vor allem kleinere Firmen rutschen in die Zahlungsunfähigkeit. Gläubiger verlieren zwar weniger Geld als im Vorjahr, doch manche Branchen kämpfen besonders.",
-   "link": "https://www.wiwo.de/unternehmen/hoechster-stand-seit-2013-welle-von-unternehmenspleiten-rollt-weiter/100260964.html",
-   "published": "2026-10-09T09:06:00+00:00",
-   "first_seen": "2026-10-09T09:07:17.295118+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BASF und Evonik: Diese Folgen hätte die Evonik-Übernahme für Jobs und Standorte",
-   "summary": "Die BASF will offensichtlich ihr Angebot für Evonik erhöhen. An diesem Freitag tagen sowohl der BASF-Aufsichtsrat als auch die RAG-Stiftung, der Großaktionär von Evonik.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/basf-und-evonik-diese-folgen-haette-die-uebernahme-fuer-jobs-und-standorte/100258232.html",
-   "published": "2026-10-09T08:53:00+00:00",
-   "first_seen": "2026-10-09T09:07:17.295118+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pleitewelle: Welle von Unternehmenspleiten rollt weiter",
-   "summary": "Vor allem kleinere Firmen rutschen in die Zahlungsunfähigkeit. Gläubiger verlieren zwar weniger Geld als im Vorjahr, doch manche Branchen kämpfen besonders.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/immer-mehr-unternehmen-melden-insolvenz-an/100260981.html",
-   "published": "2026-10-09T08:28:02+00:00",
-   "first_seen": "2026-10-09T09:07:17.295118+00:00",
    "paywall": true
   }
  ]
