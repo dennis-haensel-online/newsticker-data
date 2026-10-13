@@ -1,7 +1,88 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-13T04:35:47.969183+00:00",
+ "updated": "2026-10-13T12:20:32.437389+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Made in Berlin: Neuer Podcast: Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet",
+   "summary": "Ab dem 15. Oktober starten wir einen neuen Podcast – jeden Donnerstagmorgen direkt aus Berlin, von den Handelsblatt-Hauptstadtjournalisten Martin Greive und Josefine Fokuhl.",
+   "link": "https://www.handelsblatt.com/audio/made-in-berlin-podcast/made-in-berlin-neuer-podcast-made-in-berlin-wirtschaftspolitik-und-was-sie-fuer-euch-bedeutet/100261906.html",
+   "published": "2026-10-13T12:07:53+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "3,3 Prozent: Inflation im September auf Jahreshöchststand",
+   "summary": "Hohe Sprit- und Energiepreise haben erstmals seit drei Jahren die Inflation auf über 3 Prozent steigen lassen. Hauptursache dafür sei der Iran-Krieg, so das Statistische Bundesamt.",
+   "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-bip-arbeitslose-inflation-merz-100.html",
+   "published": "2026-10-13T10:53:00+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Erstmals seit Ende 2023: Teurer Sprit treibt Inflationsrate über Drei-Prozent-Marke",
+   "summary": "Das Leben in Deutschland hat sich im September so stark verteuert wie seit fast drei Jahren nicht. Grund sie die hohen Energiepreise. Experten erwarten eine weiter hohe Inflation - trotz Tankrabatt.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/erstmals-seit-ende-2023-teurer-sprit-treibt-inflationsrate-ueber-drei-prozent-marke/100261760.html",
+   "published": "2026-10-13T10:04:04+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "KI und Arbeitsmarkt: Institut sieht keinen Stellenabbau durch künstliche Intelligenz",
+   "summary": "Laut einer Studie entwickelt sich der Arbeitsmarkt in Jobs mit hohem Potenzial für KI-Einsatz überdurchschnittlich gut. Die schwache Konjunktur schade Jobsuchenden mehr.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/ki-arbeitsmarkt-beschaeftigung-stellenabbau-iab-studie-deutschland-gxe",
+   "published": "2026-10-13T09:30:02+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Staatsanleihen: Deutsche Anleihen legen zu – fallende Ölpreise dämpfen Inflationssorgen",
+   "summary": "Die deutschen Anleihen gewinnen wieder an Wert. Trumps Diesel-Deal senkt den Ölpreis und beruhigt die Inflationsangst.",
+   "link": "https://www.wiwo.de/finanzen/boerse/deutsche-anleihen-legen-zu-fallende-oelpreise-daempfen-inflationssorgen/100261819.html",
+   "published": "2026-10-13T09:07:30+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Woher kommen die Steuern, wenn KI uns die Arbeit abnimmt?",
+   "summary": "Künstliche Intelligenz wird den Arbeitsmarkt verändern – und damit auch die Finanzierung des öffentlichen Sektors. Wer zahlt in Zukunft Steuern?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/kuenstliche-intelligenz-wer-zahlt-kuenftig-steuern-accg-201279256.html",
+   "published": "2026-10-13T08:28:55+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Kaufkraft sinkt weiter: Teurer Sprit treibt Inflation über 3-Prozent-Marke",
+   "summary": "Die Geldentwertung in Deutschland ist auf dem höchsten Stand seit drei Jahren. Die Kraftstoffpreise legten im September um 37,1 ‌Prozent zu. mehr...",
+   "link": "https://taz.de/Kaufkraftverlust-steigt/!6221208/",
+   "published": "2026-10-13T07:59:00+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Inflationsrate in Deutschland: Inflation in Deutschland steigt erstmals seit 2023 über drei Prozent",
+   "summary": "Wegen der hohen Energiepreise ist die Inflationsrate in Deutschland im September auf 3,3 Prozent gestiegen. Das ist der höchste Stand seit Dezember 2023.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-september-statistisches-bundesamt-energiepreise-gxe",
+   "published": "2026-10-13T07:12:32+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Konjunktur läuft besser als erwartet: IWF blickt optimistischer auf die deutsche Wirtschaft",
+   "summary": "Der Internationale Währungsfonds hat seine Prognose für die deutsche Wirtschaft angehoben. Der Ölpreisschock würgt die globale Ökonomie nicht ab. mehr...",
+   "link": "https://taz.de/Konjunktur-laeuft-besser-als-erwartet/!6221194/",
+   "published": "2026-10-13T07:01:00+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Konjunktur - Auch IWF hebt Wirtschaftsprognose für Deutschland auf 1,3 Prozent an",
@@ -36,6 +117,15 @@
    "link": "https://www.zeit.de/wirtschaft/2026-10/iwf-prognose-deutschland-bip-wachstum-eurozone-weltwirtschaft-inflation",
    "published": "2026-10-13T03:11:17+00:00",
    "first_seen": "2026-10-13T04:35:47.969183+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "IWF-Prognose: Auch IWF geht von deutlich höherem Wachstum in Deutschland aus",
+   "summary": "Der Internationale Währungsfonds hat seine Wirtschaftsprognose für Deutschland fast verdoppelt. Allerdings sieht der IWF dabei nicht die Industrie als treibende Kraft.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/iwf-prognose-deutschland-bip-wachstum-eurozone-weltwirtschaft-inflation-gxe",
+   "published": "2026-10-13T03:11:17+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
    "paywall": true
   },
   {
@@ -433,114 +523,6 @@
    "published": "2026-10-09T08:26:23+00:00",
    "first_seen": "2026-10-09T09:07:17.295118+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Regulierung: Die neue Macht der Banken: Institute wie Unicredit drängen zunehmend ins Versicherungsgeschäft",
-   "summary": "Eine Sonderregel sollte Bancassurance-Gruppen nach der Finanzkrise stabilisieren. Heute nutzen sie Banken wie Unicredit als Wachstumshebel – zum Ärger von Versicherern.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/unicredit-banken-machen-versicherern-verstaerkt-konkurrenz/100247810.html",
-   "published": "2026-10-09T07:57:19+00:00",
-   "first_seen": "2026-10-09T08:06:55.175916+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "EZB: Euro-Staaten müssen bis Monatsende Schnabel-Nachfolge nominieren",
-   "summary": "Bis zum 28. Oktober sollen die Eurostaaten Kandidaten für die Nachfolge von EZB-Direktorin Isabel Schnabel vorschlagen. Sie wechselt Anfang 2027 zum IWF.",
-   "link": "https://www.handelsblatt.com/finanzen/ezb-euro-staaten-muessen-bis-monatsende-schnabel-nachfolge-nominieren/100260974.html",
-   "published": "2026-10-09T07:38:44+00:00",
-   "first_seen": "2026-10-09T08:06:55.175916+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Editorial: 29 Unternehmen treiben das Wachstum – das sind zu wenige",
-   "summary": "Manager fordern die 40-Stunden-Woche, der Digitalminister durchkämmt 4000 Gesetze. Vier Lehren aus dem Deutschland-Gipfel von Handelsblatt und „Wirtschaftswoche“.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/editorial-29-unternehmen-treiben-das-wachstum-das-sind-zu-wenige/100260649.html",
-   "published": "2026-10-09T07:13:08+00:00",
-   "first_seen": "2026-10-09T08:06:55.175916+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Bundesregierung: Was will die schwarz-rote Koalition wann beschließen?",
-   "summary": "Steuern, Rente, Pflege und Arbeitsmarkt: Die Regierung Merz hat viel vor. Welche Reformen wann beschlossen werden sollen und was sich noch verzögert.",
-   "link": "https://www.wiwo.de/politik/deutschland/steuern-rente-pflege-was-will-die-bundesregierung-wann-beschliessen/100260934.html",
-   "published": "2026-10-09T06:55:00+00:00",
-   "first_seen": "2026-10-09T07:09:05.313929+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Europäische Zentralbank: Euro-Finanzminister suchen Nachfolge für Schnabel bei EZB",
-   "summary": "Im Direktorium der EZB wird – früher als geplant – ein Platz frei: Die deutsche Top-Ökonomin Schnabel zieht es für eine neue Rolle nach Washington.",
-   "link": "https://www.wiwo.de/politik/europa/ezb-euro-finanzminister-suchen-nachfolge-fuer-isabel-schnabel/100260932.html",
-   "published": "2026-10-09T06:50:00+00:00",
-   "first_seen": "2026-10-09T07:09:05.313929+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Economic Challenges: Haushaltsdebatte ohne Substanz – warum Berlin das Alterungsproblem verschweigt",
-   "summary": "Nach der Bundestagsdebatte über den Haushalt analysieren Bert Rürup und Michael Hüther, warum Finanzminister Klingbeil die demografische Wachstumsbremse ausspart.",
-   "link": "https://www.handelsblatt.com/audio/economic-challenges-podcast/economic-challenges-haushaltsdebatte-ohne-substanz/100260913.html",
-   "published": "2026-10-09T05:52:25+00:00",
-   "first_seen": "2026-10-09T06:07:42.034512+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Bundesregierung: Was will die schwarz-rote Koalition wann beschließen?",
-   "summary": "Steuern, Rente, Pflege und Arbeitsmarkt: Die Regierung Merz hat viel vor. Welche Reformen wann beschlossen werden sollen und was sich noch verzögert.",
-   "link": "https://www.wiwo.de/politik/deutschland/bundesregierung-was-will-die-schwarz-rote-koalition-wann-beschliessen/100260934.html",
-   "published": "2026-10-09T05:25:15+00:00",
-   "first_seen": "2026-10-09T06:07:42.034512+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Europäische Zentralbank: Euro-Finanzminister suchen Nachfolge für Schnabel bei EZB",
-   "summary": "Im Direktorium der EZB wird – früher als geplant – ein Platz frei: Die deutsche Top-Ökonomin Schnabel zieht es für eine neue Rolle nach Washington.",
-   "link": "https://www.wiwo.de/politik/europa/europaeische-zentralbank-euro-finanzminister-suchen-nachfolge-fuer-schnabel-bei-ezb/100260932.html",
-   "published": "2026-10-09T05:06:56+00:00",
-   "first_seen": "2026-10-09T06:07:42.034512+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Börse am 8. Oktober: Sieben Punkte, die für Anleger heute wichtig sind",
-   "summary": "Nach drei Gewinntagen gerät der Dax unter Druck. Anleger blicken am Donnerstag nun auf Exportdaten, US-Arbeitsmarkt und Notenbanker-Aussagen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-   "published": "2026-10-09T04:20:00+00:00",
-   "first_seen": "2026-10-08T05:06:07.276669+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gesellschaft: Psychische Gesundheit: Wie sehr belastet uns die Dauerkrise?",
-   "summary": "Pandemie, Kriege, Inflation: Die Krisen der vergangenen Jahre hinterlassen Spuren in der Psyche vieler Menschen. Besonders belastet fühlen sich die Jüngeren. Was heißt das - auch für die Prävention?",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/gesellschaft-psychische-gesundheit-wie-sehr-belastet-uns-die-dauerkrise/100260895.html",
-   "published": "2026-10-09T02:00:12+00:00",
-   "first_seen": "2026-10-09T03:05:41.600943+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "ARD-Interview - Wirtschaftsweise Schnitzer fordert nachhaltige Investitionen zur Stabilisierung des Wachstums",
-   "summary": "Die Chefin der Wirtschaftsweisen, Schnitzer, hat die Bundesregierung zu mehr Nachhaltigkeit bei ihren Investitionen aufgerufen, um die positiveren Konjunkturaussichten zu stabilisieren.",
-   "link": "https://www.deutschlandfunk.de/wirtschaftsweise-schnitzer-fordert-nachhaltige-investitionen-zur-stabilisierung-des-wachstums-102.html",
-   "published": "2026-10-08T23:52:46+00:00",
-   "first_seen": "2026-10-09T00:07:15.623777+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - Warum rechnet die Bundesregierung mit mehr Wachstum und wo sind Gefahren?",
-   "summary": "Die Bundesregierung rechnet mit einem stärkeren Wirtschaftswachstum. Wie das Wirtschaftsministerium in Berlin mitteilte, wird das Bruttoinlandsprodukt in diesem Jahr voraussichtlich um 1,3 Prozent steigen. Zu den Gründen und zu weiteren…",
-   "link": "https://www.deutschlandfunk.de/warum-rechnet-die-bundesregierung-mit-mehr-wachstum-und-wo-sind-gefahren-102.html",
-   "published": "2026-10-08T23:52:46+00:00",
-   "first_seen": "2026-10-09T00:07:15.623777+00:00",
-   "paywall": false
   }
  ]
 }

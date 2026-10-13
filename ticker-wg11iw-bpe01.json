@@ -1,7 +1,16 @@
 {
  "id": "wg11iw-bpe01",
- "updated": "2026-10-13T04:35:47.969183+00:00",
+ "updated": "2026-10-13T12:20:32.437389+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Erbschaften und Schenkungen: So ungerecht vererbt Deutschland",
+   "summary": "Neue Daten zeigen, wie groß die Unterschiede beim Erben tatsächlich sind und welche Rolle Bildung spielt. Das aktuelle Steuersystem zementiert extreme Ungleichheiten.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/erbschaft-schenkung-westdeutschland-ostdeutschland-ungleichheit-statistik",
+   "published": "2026-10-13T05:37:25+00:00",
+   "first_seen": "2026-10-13T12:20:32.437389+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Klimawandel: Was die Klimakrise mit Kindern macht",
@@ -73,33 +82,6 @@
    "published": "2026-10-09T10:01:00+00:00",
    "first_seen": "2026-10-09T10:06:48.547055+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
-   "summary": "Betriebsrenten sind in anderen Ländern viel stärker verbreitet als in Deutschland. Für Arbeitgeber werden sie angesichts des Fachkräftemangels immer wichtiger, um Mitarbeiter zu gewinnen. Von Claudia Wehrle.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html",
-   "published": "2026-10-09T06:43:59+00:00",
-   "first_seen": "2026-10-09T07:09:05.313929+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Moral in der Wirtschaft: „Es wird viel verkündet, aber das ist oft Heuchelei“",
-   "summary": "Manager predigen Nachhaltigkeit, handeln aber kaum danach, sagt der Wirtschaftsethiker Alexander Brink – und benennt vier Faktoren, an denen sich echte Haltung erkennen lässt.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/moral-in-der-wirtschaft-das-ist-oft-heuchelei/100250114.html",
-   "published": "2026-10-09T02:00:00+00:00",
-   "first_seen": "2026-10-09T02:06:19.799572+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "ARD-Interview - Wirtschaftsweise Schnitzer fordert nachhaltige Investitionen zur Stabilisierung des Wachstums",
-   "summary": "Die Chefin der Wirtschaftsweisen, Schnitzer, hat die Bundesregierung zu mehr Nachhaltigkeit bei ihren Investitionen aufgerufen, um die positiveren Konjunkturaussichten zu stabilisieren.",
-   "link": "https://www.deutschlandfunk.de/wirtschaftsweise-schnitzer-fordert-nachhaltige-investitionen-zur-stabilisierung-des-wachstums-102.html",
-   "published": "2026-10-08T23:52:46+00:00",
-   "first_seen": "2026-10-09T00:07:15.623777+00:00",
-   "paywall": false
   }
  ]
 }
