@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-10-13T19:39:40.415076+00:00",
+ "updated": "2026-10-13T23:31:14.134026+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Konzern: FBI nimmt OpenAI-Mitarbeiter wegen versteckten Abhörgeräts fest",
+   "summary": "OpenAI habe mit Hilfe eigener KI-Modelle ermittelt, wo die Wanze herkam, teilt das Unternehmen mit. Hinweise auf Datendiebstahl gebe er bisher jedoch nicht.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-konzern-fbi-nimmt-openai-mitarbeiter-wegen-versteckten-abhoergeraets-fest/100262042.html",
+   "published": "2026-10-13T22:17:43+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "BASF will Evonik: „Wir geben nicht Milliarden für ein Unternehmen aus, um wichtige Teile zu schlachten“",
@@ -351,33 +360,6 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/basf-vor-evonik-uebernahme-konzern-will-offerte-aufstocken/100260982.html",
    "published": "2026-10-09T14:07:00+00:00",
    "first_seen": "2026-10-09T15:07:02.932308+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gehaltsrechner: Wie viel verdienen Sie im Vergleich zu anderen Führungskräften?",
-   "summary": "Branche, Unternehmensgröße und Standort beeinflussen maßgeblich die Gehälter – das gilt auch für Chefs. Mit unserem interaktiven Rechner sehen Sie, wo Sie im Verhältnis zu anderen stehen.",
-   "link": "https://www.handelsblatt.com/karriere/gehalt-wie-gut-verdienen-sie-als-fuehrungskraft-im-vergleich/100248227.html",
-   "published": "2026-10-09T13:33:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Übernahme: EU-Kommission will im November über Commerzbank-Übernahme entscheiden",
-   "summary": "Die EU-Kommission muss entscheiden, ob die geplante Übernahme der Commerzbank durch die italienische Großbank UniCredit Kartellrecht entspricht.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-eu-kommission-kuendigt-entscheidung-ueber-commerzbank-uebernahme-an/100261082.html",
-   "published": "2026-10-09T13:17:36+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Firmenübernahmen: Anschleichen, überraschen, zuschlagen",
-   "summary": "Hochtief, Commerzbank, Hugo Boss: Deutsche Unternehmen sind nicht nur interessante Übernahmeziele. Das Übernahmerecht ermöglicht es Bietern auch, sich günstig an Firmen heranzuarbeiten. Berlin will das nun ändern.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/uebernahmerecht-deutschland-unternehmen-firmenuebernahmen-commerzbank-li.3559410",
-   "published": "2026-10-09T13:05:49+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
    "paywall": true
   }
  ]

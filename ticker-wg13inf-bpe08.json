@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-13T19:39:40.415076+00:00",
+ "updated": "2026-10-13T23:31:14.134026+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Konzern: FBI nimmt OpenAI-Mitarbeiter wegen versteckten Abhörgeräts fest",
+   "summary": "OpenAI habe mit Hilfe eigener KI-Modelle ermittelt, wo die Wanze herkam, teilt das Unternehmen mit. Hinweise auf Datendiebstahl gebe er bisher jedoch nicht.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-konzern-fbi-nimmt-openai-mitarbeiter-wegen-versteckten-abhoergeraets-fest/100262042.html",
+   "published": "2026-10-13T22:17:43+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "wildberger-Vorstoss: Kommt jetzt auch noch eine neue KI-Steuer?",
+   "summary": "Künstliche Intelligenz könnte die Arbeit von Programmierern, Architekten, Steuerberatern und Journalisten übernehmen, die damit als Steuerzahler ausfallen. Sollte dann die KI besteuert werden?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-steuer-klingbeil-und-wildberger-pruefen-neue-abgaben-201313058.html",
+   "published": "2026-10-13T21:23:18+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie Deutschland bei humanoiden Robotern aufholen will",
+   "summary": "China dominiert den Markt für humanoide Roboter. Hoffnung kommt in Deutschland von Startups - und ausgerechnet von einer Firma, die vor zehn Jahren von Chinesen übernommen wurde.",
+   "link": "https://www.zdfheute.de/wirtschaft/humanoide-roboter-robotik-deutschland-china-100.html",
+   "published": "2026-10-13T19:40:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
   {
    "label": "ZEIT",
    "title": "Künstliche Intelligenz: Nvidia übernimmt Anteile von Ärzteplattform Doctolib",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-techwerte-erholen-sich-nach-neuer-ki-angst-oelpreise-geben-etwas-nach/100261037.html",
    "published": "2026-10-09T18:17:04+00:00",
    "first_seen": "2026-10-09T19:05:28.597392+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Spricht bald die KI? Der Streit um die Stimme der Zukunft",
-   "summary": "KI kann Hörbücher vorlesen, Filme synchronisieren und Geschichten in andere Sprachen übertragen. Auf der Frankfurter Buchmesse löst das Hoffnung und Sorgen zugleich aus.",
-   "link": "https://www.zdfheute.de/panorama/frankfurter-buchmesse-ki-buecher-audio-synchronsprecher-100.html",
-   "published": "2026-10-09T17:58:00+00:00",
-   "first_seen": "2026-10-09T19:05:28.597392+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Urheberrecht - Verband: KI-Firmen kaufen deutsche Antiquariate leer",
-   "summary": "Der Verband Deutscher Antiquare warnt vor einem massenhaften Bücherverkauf an KI-Firmen aus den USA.",
-   "link": "https://www.deutschlandfunk.de/verband-ki-firmen-kaufen-deutsche-antiquariate-leer-100.html",
-   "published": "2026-10-09T17:43:43+00:00",
-   "first_seen": "2026-10-09T18:05:54.581563+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: Erholung im KI-Sektor",
-   "summary": "Am Donnerstag hatten Meldungen über schwache Umsätze von OpenAI im September den Nasdaq abstürzen lassen. Wie Markus Koch berichtet, haben die starken Erwartungen des KI-Unternehmens bis Jahresende den Markt am Freitag jedoch wieder…",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-erholung-im-ki-sektor/100261125.html",
-   "published": "2026-10-09T16:07:41+00:00",
-   "first_seen": "2026-10-09T17:06:19.847994+00:00",
    "paywall": true
   }
  ]

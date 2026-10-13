@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:39:40.415076+00:00",
+ "updated": "2026-10-13T23:31:14.134026+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,411 @@
    "published": "2026-12-12T13:29:00+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ukraine-Krieg: Raketen treffen Kiew - Ukrainer beklagen fehlende Vorwarnung",
+   "summary": "Erneut schlagen russische Raketen in der ukrainischen Hauptstadt ein, auch diesmal soll es vorher keine Warnhinweise der USA gegeben haben. Bürgermeister Klitschko spricht von mehreren Todesopfern.",
+   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-raketen-treffen-kiew-ukrainer-beklagen-fehlende-vorwarnung/100262047.html",
+   "published": "2026-10-13T23:21:44+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "EU treibt Beitritt von Ukraine und Moldau voran",
+   "summary": "Die Europäische Union weitet die Beitrittsverhandlungen mit der Ukraine und Moldau aus. Bis zu einem EU-Beitritt der Ukraine dürfte es allerdings noch Jahre dauern.",
+   "link": "https://www.zdfheute.de/politik/ausland/eu-beitritt-ukraine-moldau-verhandlungen-100.html",
+   "published": "2026-10-13T23:09:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Steuern: Hessens Regierungschef: Zuckersteuer ist „Teuer-Steuer“",
+   "summary": "Die Bundesregierung hat ihren Streit um eine Zuckersteuer beigelegt, nun will das Kabinett die Pläne beschließen. CDU-Ministerpräsident Boris Rhein spricht von einem falschen Signal.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/steuern-hessens-regierungschef-zuckersteuer-ist-teuer-steuer/100262045.html",
+   "published": "2026-10-13T23:00:05+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Großbank: Über 1,2 Milliarden Dollar Strafe für Bank of Amerika",
+   "summary": "Der Bank of America steht eine Milliarden-Strafzahlung ins Haus. Der US-Regierung zufolge waren ihre Kontrollen unter anderem bei Geldwäsche nicht strikt genug.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/us-grossbank-ueber-12-milliarden-dollar-strafe-fuer-bank-of-amerika/100262043.html",
+   "published": "2026-10-13T22:58:42+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kerosin: Wie der Golfkrieg die Flugpreise verändert",
+   "summary": "Lange konnten Airlines ihre Preise kräftig erhöhen. Doch exklusive Daten zeigen: In Deutschland werden Tickets wieder billiger.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/flugpreise-warum-tickets-in-deutschland-wieder-billiger-werden/100261915.html",
+   "published": "2026-10-13T22:54:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Konzern: FBI nimmt OpenAI-Mitarbeiter wegen versteckten Abhörgeräts fest",
+   "summary": "OpenAI habe mit Hilfe eigener KI-Modelle ermittelt, wo die Wanze herkam, teilt das Unternehmen mit. Hinweise auf Datendiebstahl gebe er bisher jedoch nicht.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-konzern-fbi-nimmt-openai-mitarbeiter-wegen-versteckten-abhoergeraets-fest/100262042.html",
+   "published": "2026-10-13T22:17:43+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Regierungsbildung - Grüne und SPD in Berlin unterbrechen Sondierungen mit Linken",
+   "summary": "Grüne und SPD in Berlin haben die Sondierungsgespräche zur Regierungsbildung mit der Linkspartei unterbrochen. Zunächst müsse eine von allen Mitgliedern der Linken-Fraktion unterzeichnete Erklärung zum Umgang mit Antisemitismus bewertet…",
+   "link": "https://www.deutschlandfunk.de/gruene-und-spd-in-berlin-unterbrechen-sondierungen-mit-linken-112.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fragen und Antworten - CDU will Plenarsaal verlassen - das wären die Folgen für die Ministerpräsidentenwahl in Sachsen-Anhalt",
+   "summary": "Ulrich Siegmund will sich Mitte Dezember zum Ministerpräsidenten von Sachsen-Anhalt wählen lassen. Nach der Wahl von AfD-Politiker Tobias Rausch zum Landtagspräsidenten - womöglich auch mit Stimmen der CDU - haben die Christdemokraten…",
+   "link": "https://www.deutschlandfunk.de/cdu-will-plenarsaal-verlassen-das-waeren-die-folgen-fuer-die-ministerpraesidentenwahl-in-sachsen-anh-104.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Vatikan - Papst Leo hat Lungenkrebs - Teil des rechten Lungenflügels entfernt",
+   "summary": "Papst Leo ist an Lungenkrebs erkrankt.",
+   "link": "https://www.deutschlandfunk.de/papst-leo-hat-lungenkrebs-teil-des-rechten-lungenfluegels-entfernt-104.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bundestag - Merz gibt Regierungserklärung zu EU-Gipfel ab",
+   "summary": "Bundeskanzler Merz gibt heute eine Regierungserklärung zum bevorstehenden EU-Gipfel ab.",
+   "link": "https://www.deutschlandfunk.de/merz-gibt-regierungserklaerung-zu-eu-gipfel-ab-112.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Hamburg - Prozess um Anschläge auf Nord-Stream-Pipeline beginnt",
+   "summary": "Rund vier Jahre nach den Anschlägen auf die Nord-Stream-Pipelines beginnt heute der Prozess gegen einen der mutmaßlichen Täter.",
+   "link": "https://www.deutschlandfunk.de/prozess-um-anschlaege-auf-nord-stream-pipeline-beginnt-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Neue Fälle verdreifacht - WHO besorgt über Cholera-Fälle im Jemen",
+   "summary": "Die Weltgesundheitsorganisation hat sich besorgt über die Ausbreitung der Cholera im Jemen gezeigt.",
+   "link": "https://www.deutschlandfunk.de/who-besorgt-ueber-cholera-faelle-im-jemen-104.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "New York - Deutschland kehrt in den UNO-Menschenrechtsrat zurück",
+   "summary": "Deutschland gehört ab nächstem Jahr wieder dem UNO-Menschenrechtsrat an.",
+   "link": "https://www.deutschlandfunk.de/deutschland-kehrt-in-den-uno-menschenrechtsrat-zurueck-106.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Besuch in Exklave - König Felipe VI.: Ceuta und Melilla \"unveräußerlicher Teil\" Spaniens",
+   "summary": "Spaniens König Felipe hat die von Marokko beanspruchte Exklave Ceuta in Nordafrika besucht. Dabei bezeichnete er Ceuta sowie die andere spanische Exklave Melilla als unveräußerlichen Teil Spaniens.",
+   "link": "https://www.deutschlandfunk.de/koenig-felipe-vi-ceuta-und-melilla-unveraeusserlicher-teil-spaniens-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fußball - Leipzig siegt in der Champions League, Bayern spielen unentschieden",
+   "summary": "In der Fußball Champions League hat Bayern München beim norwegischen Meister Viking Stavanger 3:3 gespielt. Die Münchener liefen lange einem frühen Rückstand hinterher.",
+   "link": "https://www.deutschlandfunk.de/leipzig-siegt-in-der-champions-league-bayern-spielen-unentschieden-106.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Las Vegas - Drahtzieher der Todesschüsse auf Rapper Tupac muss für 40 Jahre in Haft",
+   "summary": "Knapp 30 Jahre nach dem Mord an dem US-Rapper Tupac Shakur ist der Angeklagte zu 40 Jahren Haft verurteilt worden. Ein Gericht in Las Vegas verkündete die Strafe für den 63-jährigen früheren Anführer einer Gang.",
+   "link": "https://www.deutschlandfunk.de/drahtzieher-der-todesschuesse-auf-rapper-tupac-muss-fuer-40-jahre-in-haft-106.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Italien - NATO beginnt Atomwaffen-Übung",
+   "summary": "Die NATO hat ihr jährliches Manöver zur Verteidigung mit Atomwaffen begonnen.",
+   "link": "https://www.deutschlandfunk.de/nato-beginnt-atomwaffen-uebung-106.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Berichte über Fehlverhalten - US-Botschafterin in Griechenland verliert ihr Amt",
+   "summary": "Die Botschafterin der USA in Griechenland, Guilfoyle, muss nach Medienberichten über persönliches Fehlverhalten ihren Posten räumen.",
+   "link": "https://www.deutschlandfunk.de/us-botschafterin-in-griechenland-verliert-ihr-amt-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Spionagevorwurf - Japanischer Journalist in Russland verhaftet",
+   "summary": "In Russland ist ein japanischer Journalist wegen Spionagevorwürfen festgenommen worden.",
+   "link": "https://www.deutschlandfunk.de/japanischer-journalist-in-russland-verhaftet-104.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fußball - Testspiel: DFB-Frauen besiegen Japan knapp",
+   "summary": "Die deutsche Frauen-Nationalmannschaft hat in Bremen einen weiteren Testspielerfolg gefeiert. Das Team von Bundestrainer Christian Wück, der auf viele Stammkräfte verzichten",
+   "link": "https://www.deutschlandfunk.de/testspiel-dfb-frauen-besiegen-japan-knapp-106.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Regierung - Zuckersteuer im Bundeskabinett",
+   "summary": "Die schwarz-rote Koalition hat ihren Streit über die Einführung einer Steuer auf zuckergesüßte Getränke beigelegt.",
+   "link": "https://www.deutschlandfunk.de/zuckersteuer-im-bundeskabinett-100.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Landesweiter Protestag - Zehntausende demonstrieren in Frankreich erneut für bessere Schulen",
+   "summary": "In Frankreich sind erneut zehntausende junge Menschen auf die Straße gegangen, um für bessere Lern- und Studienbedingungen zu demonstrieren.",
+   "link": "https://www.deutschlandfunk.de/zehntausende-demonstrieren-in-frankreich-erneut-fuer-bessere-schulen-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bundestag - Merz gibt Regierungserklärung zu EU-Gipfel ab",
+   "summary": "Bundeskanzler Merz gibt heute eine Regierungserklärung zum bevorstehenden EU-Gipfel ab.",
+   "link": "https://www.deutschlandfunk.de/merz-gibt-regierungserklaerung-zu-eu-gipfel-ab-110.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bericht zu sexueller Gewalt - Missbrauchsbeauftragte: \"Noch nie war das Risiko für Kinder so hoch\"",
+   "summary": "Die Bundesbeauftragte gegen sexuellen Missbrauch, Claus, mahnt einen besseren Schutz von Kindern und Jugendlichen vor sexualisierter Gewalt an. Claus stellte ihren ersten Bericht vor, nachdem ihr Amt vergangenes Jahr gesetzlich verankert…",
+   "link": "https://www.deutschlandfunk.de/missbrauchsbeauftragte-noch-nie-war-das-risiko-fuer-kinder-so-hoch-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Nach Bas-Rücktritt - Steinmeier ernennt Schweitzer zum neuen Arbeitsminister",
+   "summary": "Bundespräsident Steinmeier hat den SPD-Politiker Schweitzer zum Bundesarbeitsminister ernannt.",
+   "link": "https://www.deutschlandfunk.de/steinmeier-ernennt-schweitzer-zum-neuen-arbeitsminister-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "\"Habe nicht die Absicht, Liebling der Nation zu werden\" - Merz wirbt auf Arbeitgebertag für Reformen - vor allem bei jungen Leuten",
+   "summary": "Zum Auftakt des Arbeitgebertages in Berlin hat auch Bundeskanzler Merz gesprochen. In seiner Rede ging es um die anstehenden Reformen der Sozialversicherungssysteme und dabei insbesondere um die Zukunft der Rente. Der Kanzler äußerte sich…",
+   "link": "https://www.deutschlandfunk.de/merz-wirbt-auf-arbeitgebertag-fuer-reformen-vor-allem-bei-jungen-leuten-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bundesregierung - Neuer Arbeitsminister Schweitzer sieht noch offene Fragen bei der Rentenreform",
+   "summary": "​Der designierte Bundesarbeitsminister Schweitzer (SPD) macht die Vorlage eines Gesetzentwurfs zur Rentenreform ‌von einer ⁠vorherigen Einigung in der ⁠Regierungskoalition abhängig.",
+   "link": "https://www.deutschlandfunk.de/neuer-arbeitsminister-schweitzer-sieht-noch-offene-fragen-bei-der-rentenreform-106.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Nach Bas-Rücktritt - Pistorius will nicht als SPD-Chef antreten",
+   "summary": "Verteidigungsminister Pistorius hat eine Kandidatur für das Amt des SPD-Vorsitzenden beim anstehenden Parteitag ausgeschlossen.",
+   "link": "https://www.deutschlandfunk.de/pistorius-will-nicht-als-spd-chef-antreten-106.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fehlalarm - Großeinsatz am Flughafen Nürnberg offenbar durch defektes Funkgerät ausgelöst",
+   "summary": "Ein möglicherweise defektes Funkgerät in einem Flugzeug von Korfu auf dem Weg nach Nürnberg hat einen Großeinsatz von Polizei und Rettungskräften ausgelöst.",
+   "link": "https://www.deutschlandfunk.de/grosseinsatz-am-flughafen-nuernberg-offenbar-durch-defektes-funkgeraet-ausgeloest-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Energiesicherheit - Nationale Gasreserve soll aus Umlage finanziert werden",
+   "summary": "Das Bundeswirtschaftsministerium will die geplante nationale Gasreserve zur Krisenvorsorge per Umlage finanzieren.",
+   "link": "https://www.deutschlandfunk.de/nationale-gasreserve-soll-aus-umlage-finanziert-werden-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Irreführende Grafik in Sozialen Medien - Angriffe auf russische Rechenzentren: Keine Hinweise auf Zusammenhang mit AfD-Bots",
+   "summary": "Wurden durch ukrainische Luftangriffe auf Rechenzentren in Russland AfD-nahe Accounts geschwächt? Eine in den Sozialen Medien millionenfach aufgerufene Grafik legt das nahe. Experten sehen keine Belege.",
+   "link": "https://www.deutschlandfunk.de/angriffe-auf-russische-rechenzentren-keine-hinweise-auf-zusammenhang-mit-afd-bots-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Keine Stimmen für AfD - Sachsen-Anhalt: CDU-Fraktion will vor Ministerpräsidentenwahl Saal verlassen",
+   "summary": "Die CDU in Sachsen-Anhalt will dem Verdacht aus dem Weg gehen, aus ihren Reihen könnte es bei der Ministerpräsidentenwahl Stimmen für die AfD geben. Die Fraktion beschloss, vor der Abstimmung im Dezember geschlossen den Saal zu verlassen.",
+   "link": "https://www.deutschlandfunk.de/sachsen-anhalt-cdu-fraktion-will-vor-ministerpraesidentenwahl-saal-verlassen-102.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Wetter - Nach Nebelauflösung wolkig mit heiteren Abschnitten",
+   "summary": "Das Wetter: In der Nacht in der Südosthälfte stark bewölkt mit etwas Regen. In der Nordwesthälfte vermehrt Auflockerungen, örtlich Nebel. Tiefstwerte 12 bis 5 Grad. Am Tag nach Nebelauflösung wolkig mit heiteren Abschnitten. Südlich der…",
+   "link": "https://www.deutschlandfunk.de/nach-nebelaufloesung-wolkig-mit-heiteren-abschnitten-100.html",
+   "published": "2026-10-13T21:41:31+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "wildberger-Vorstoss: Kommt jetzt auch noch eine neue KI-Steuer?",
+   "summary": "Künstliche Intelligenz könnte die Arbeit von Programmierern, Architekten, Steuerberatern und Journalisten übernehmen, die damit als Steuerzahler ausfallen. Sollte dann die KI besteuert werden?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-steuer-klingbeil-und-wildberger-pruefen-neue-abgaben-201313058.html",
+   "published": "2026-10-13T21:23:18+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Leipzig holt ersten Sieg in der Königsklasse",
+   "summary": "Maarten Vandevoordt pariert einen Elfmeter, Brajan Gruda trifft aus der Distanz: Gegen die PSV Eindhoven sammelt RB Leipzig die ersten drei Zähler in der Champions League.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-rb-leipzig-psv-eindhoven-100.html",
+   "published": "2026-10-13T21:19:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Diagnose: Papst an Lungenkrebs erkrankt",
+   "summary": "Erst am Sonntag hatte Leo XIV. einen Knoten in der Lunge öffentlich gemacht. Nur zwei Tage später wird er operiert. Die Diagnose bestätigt die Befürchtungen: Der 71-Jährige hatte ein Karzinom.",
+   "link": "https://www.handelsblatt.com/politik/international/diagnose-papst-an-lungenkrebs-erkrankt/100262003.html",
+   "published": "2026-10-13T21:15:57+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Großbank: Über 1,2 Milliarden Dollar Strafe für Bank of Amerika",
+   "summary": "Der Bank of America steht eine Milliarden-Strafzahlung ins Haus. Der US-Regierung zufolge waren ihre Kontrollen unter anderem bei Geldwäsche nicht strikt genug.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/us-grossbank-ueber-12-milliarden-dollar-strafe-fuer-bank-of-amerika/100262037.html",
+   "published": "2026-10-13T21:02:07+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+   "summary": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Konflikt zwischen Iran und USA gibt es noch keine Lösung. Alle Entwicklungen im Liveblog.",
+   "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+   "published": "2026-10-13T20:48:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Katholische Kirche: Papst Leo XIV. an Lungenkrebs erkrankt",
+   "summary": "Der Pontifex hatte erst am Sonntag einen Knoten in der Lunge öffentlich gemacht, zwei Tage später wurde er operiert. Nach Angaben des Vatikans ist es Krebs.",
+   "link": "https://www.handelsblatt.com/politik/international/katholische-kirche-papst-leo-xiv.-an-lungenkrebs-erkrankt/100262035.html",
+   "published": "2026-10-13T20:44:37+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Medienbericht: Lufthansa gewinnt wohl Bieterrennen um portugiesische TAP",
+   "summary": "Laut einem Medienbericht bietet die Lufthansa den Kaufpreis für die portugiesische Airline vollständig in bar an. Das Angebot von Air-France KLM wäre so weniger attraktiv.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/medienbericht-lufthansa-gewinnt-wohl-bieterrennen-um-portugiesische-tap/100262033.html",
+   "published": "2026-10-13T20:28:04+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Geschwister: Zwischen Liebe und Rivalität",
+   "summary": "Liebe oder Konkurrenz: Die Geschwister Anna (CSU) und Sebastian (SPD) treten in Bamberg gegeneinander an. In Oberstdorf sind David und seine drei Brüder Rivalen auf der Schanze.",
+   "link": "https://www.zdf.de/video/reportagen/37-grad-104/37-geschwister-zwischen-liebe-und-rivalitaet-100",
+   "published": "2026-10-13T20:15:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Bayern patzen im norwegischen Stavanger",
+   "summary": "Eigentlich hatten die Bayern das Spiel in Stavanger schon gedreht. Doch nach dem Platzverweis gegen Olise schafften die Norweger noch den Ausgleich.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-ligaphase-viking-stavanger-fc-bayern-muenchen-tore-ergebnis-100.html",
+   "published": "2026-10-13T20:08:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Mord an Tupac Shakur: Mindestens 40 Jahre Haft für \"Keffe D\"",
+   "summary": "Duane Davis aka \"Keffe D\" wurde wegen des Mordes an Rapper Tupac Shakur verurteilt. Nun hat ein Gericht bekanntgegeben, dass er dafür mindestens 40 Jahre ins Gefängnis gehen soll.",
+   "link": "https://www.zdfheute.de/panorama/kriminalitaet/tupac-shakur-mord-rapper-haft-duane-davis-100.html",
+   "published": "2026-10-13T20:08:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Wirtschaft vor acht vom 13.10.2026",
+   "summary": "Wirtschaft vor acht vom 13.10.2026",
+   "link": "https://www.tagesschau.de/video/video-1665754.html",
+   "published": "2026-10-13T19:49:10+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie Deutschland bei humanoiden Robotern aufholen will",
+   "summary": "China dominiert den Markt für humanoide Roboter. Hoffnung kommt in Deutschland von Startups - und ausgerechnet von einer Firma, die vor zehn Jahren von Chinesen übernommen wurde.",
+   "link": "https://www.zdfheute.de/wirtschaft/humanoide-roboter-robotik-deutschland-china-100.html",
+   "published": "2026-10-13T19:40:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -300,6 +705,15 @@
   },
   {
    "label": "ZDF",
+   "title": "Sachsen-Anhalt nach der Wahl",
+   "summary": "Der 6. Oktober 2026 war historisch: AfD-Politiker Tobias Rausch wurde zum Landtagspräsidenten gewählt, als Vertreter ein Partei, die in Sachsen-Anhalt als gesichert rechtsextrem eingestuft ist.",
+   "link": "https://www.zdfheute.de/video/frontal/sachsen-anhalt-zwischen-afd-hoehenrausch-und-verunsicherung-100.html",
+   "published": "2026-10-13T19:00:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
    "title": "Zuckersteuer: Bundesregierung einigt sich",
    "summary": "Union und SPD haben sich auf die Einführung einer Steuer auf zuckerhaltige Getränke geeinigt. Eine Ausnahme könnte es für kleinere Hersteller geben.",
    "link": "https://www.zdfheute.de/politik/deutschland/zuckersteuer-einigung-bundesregierung-100.html",
@@ -359,6 +773,15 @@
    "link": "https://www.handelsblatt.com/politik/international/iran-krieg-netanjahu-warnt-palaestinenser-vor-angriffen-vor-der-wahl/100136895.html",
    "published": "2026-10-13T18:16:00+00:00",
    "first_seen": "2026-10-13T19:39:40.415076+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Angriff auf saudischen Ölkonzern Aramco löst Brand aus",
+   "summary": "Netanjahu warnt Palästinenser vor Angriffen vor der Wahl +++ US-Senatoren fordern von Trump Ende des Diesel-Abkommens mit Russland +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-angriff-auf-saudischen-oelkonzern-aramco-loest-brand-aus/100136895.html",
+   "published": "2026-10-13T18:16:00+00:00",
+   "first_seen": "2026-10-13T23:31:14.134026+00:00",
    "paywall": true
   },
   {
@@ -13076,429 +13499,6 @@
    "link": "https://www.handelsblatt.com/karriere/berufe-warum-mitarbeiter-bei-der-arbeitszeit-tricksen-und-was-sie-riskieren/100092335.html",
    "published": "2026-10-09T14:01:00+00:00",
    "first_seen": "2026-10-09T15:07:02.932308+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Autohandel: China verkündet Einigung mit EU bei Handel mit Hybridautos",
-   "summary": "Der Zwist um Hybridautos zwischen China und der Europäischen Union ist beigelegt. Doch nicht alle Punkte sind damit geklärt, über die beide Seiten beim Handel im Streit liegen.",
-   "link": "https://www.spiegel.de/wirtschaft/autohandel-china-verkuendet-einigung-mit-eu-bei-handel-mit-hybridautos-a-80648b16-6b6d-4682-9162-2384e95ead95#ref=rss",
-   "published": "2026-10-09T14:00:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Weinfest auf dem Montmartre",
-   "summary": "Das Weinfest auf dem Montmartre in Paris bringt jedes Jahr Nachbarn, Pariser und Touristen zusammen, um den besonderen Stadtwein zu probieren. Der Erlös fließt in soziale Projekte.",
-   "link": "https://www.zdfheute.de/video/heute-in-europa/weinfest-montmartre-paris-100.html",
-   "published": "2026-10-09T14:00:00+00:00",
-   "first_seen": "2026-10-09T20:04:08.164568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wasserpflanze sorgt in Gent für Probleme",
-   "summary": "In den Gewässern von Gent breitet sich die sogenannte Wasserlinse rasant aus und wird für Touristenboote zunehmend zum Problem. Die Ausbreitung ist Folge von Hitze und hohen Wassertemperaturen.",
-   "link": "https://www.zdfheute.de/video/heute-in-europa/wasserpflanze-in-gent-100.html",
-   "published": "2026-10-09T14:00:00+00:00",
-   "first_seen": "2026-10-09T20:04:08.164568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Nackte Trump-Statue im EU-Parlament",
-   "summary": "Im EU-Parlament in Straßburg sorgt eine nackte Trump-Statue für Aufsehen. Die Arbeit des dänischen Künstlers Jens Galschiot richtet sich gegen Trumps Klima- und Weltpolitik.",
-   "link": "https://www.zdfheute.de/video/heute-in-europa/nackte-trump-statue-im-eu-parlament-100.html",
-   "published": "2026-10-09T14:00:00+00:00",
-   "first_seen": "2026-10-09T20:04:08.164568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "137 Meter: Neuer Weltrekord im Apnoetauchen",
-   "summary": "Weltrekord: Der russische Apnoetaucher Alexej Moltschanow ist bei der Freitauch-WM vor Zypern 137 Meter tief getaucht – nur mit einer Monoflosse.",
-   "link": "https://www.zdfheute.de/video/heute-in-europa/neuer-weltrekord-apnoe-tauchen-100.html",
-   "published": "2026-10-09T14:00:00+00:00",
-   "first_seen": "2026-10-09T20:04:08.164568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Umstrittener Geburtstagsbesuch - Klingbeil bezeichnet Schröders Treffen mit Putin als \"völlig inakzeptabel\"",
-   "summary": "Nach dem Treffen von Altkanzler Schröder mit Kremlchef Putin an dessen Geburtstag kommt Kritik aus der SPD.",
-   "link": "https://www.deutschlandfunk.de/klingbeil-bezeichnet-schroeders-treffen-mit-putin-als-voellig-inakzeptabel-100.html",
-   "published": "2026-10-09T13:56:31+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Mecklenburg-Vorpommern - Rot-rot-grüne Koalitionsgespräche vereinbart",
-   "summary": "SPD, Linke und Grüne in Mecklenburg-Vorpommern wollen Koalitionsverhandlungen aufnehmen.",
-   "link": "https://www.deutschlandfunk.de/rot-rot-gruene-koalitionsgespraeche-vereinbart-100.html",
-   "published": "2026-10-09T13:56:31+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Sachsen-Anhalt - BMW verweigert neuen AfD-Landtagspräsidenten offenbar den Dienstwagen - Rausch schreibt an Autokonzern",
-   "summary": "Sachsen-Anhalts Landtagspräsident Rausch hat den Rückzug des Leasingangebots von BMW für seinen Dienstwagen kritisiert.",
-   "link": "https://www.deutschlandfunk.de/bmw-verweigert-neuen-afd-landtagspraesidenten-offenbar-den-dienstwagen-rausch-schreibt-an-autokonzer-100.html",
-   "published": "2026-10-09T13:56:31+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Marodes Schienennetz - Deutsche Bahn will vorerst weniger Hauptstrecken sanieren",
-   "summary": "Die Deutsche Bahn will in den kommenden fünf Jahren deutlich weniger hochbelastete Strecken sanieren als bislang geplant. Bis 2031 sollen nur noch 13 statt 21 Strecken umfassend erneuert werden, wie das Staatsunternehmen und das…",
-   "link": "https://www.deutschlandfunk.de/deutsche-bahn-will-vorerst-weniger-hauptstrecken-sanieren-100.html",
-   "published": "2026-10-09T13:56:31+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "El Nino - Region in Chile nach Überflutungen zu Katastrophengebiet erklärt",
-   "summary": "In Chile hat Präsident Kast einen Teil der Hauptstadtregion wegen massiver Überflutung zur Katastrophenzone erklärt.",
-   "link": "https://www.deutschlandfunk.de/region-in-chile-nach-ueberflutungen-zu-katastrophengebiet-erklaert-100.html",
-   "published": "2026-10-09T13:56:31+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Nach Wahl in Sachsen-Anhalt - Weiter Unklarheit über Stimmabgabe für AfD-Kandidaten Rausch - Anschuldigungen gegen die CDU",
-   "summary": "Der Bundestag hat in einer Aktuellen Stunde über die Folgen der Landtagswahl in Sachsen-Anhalt debattiert.",
-   "link": "https://www.deutschlandfunk.de/weiter-unklarheit-ueber-stimmabgabe-fuer-afd-kandidaten-rausch-anschuldigungen-gegen-die-cdu-100.html",
-   "published": "2026-10-09T13:56:31+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Technik: Warum geht denn das Internet schon wieder nicht?",
-   "summary": "Wlan ist super, wenn es denn funktioniert. Und wenn nicht? Dann lässt sich mit relativ wenig Geld Abhilfe schaffen. Ein Überblick über die wichtigsten Möglichkeiten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/wlan-funkloecher-repeater-mesh-powerline-li.3559843",
-   "published": "2026-10-09T13:55:36+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Stephen Kings „Carrie“ als Serie: Keine Remake-Sünde",
-   "summary": "Amazon Prime Video verfilmt den Horrorklassiker „Carrie“ neu. Im Zeitalter von Social Media ergibt das Sinn, auch wenn die Serie nicht ganz überzeugt. mehr...",
-   "link": "https://taz.de/Stephen-Kings-Horrorklassiker-Carrie-als-Serie-auf-Prime-Video-Keine-Remake-Suende/!6219414/",
-   "published": "2026-10-09T13:54:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Dacia-Chefin Adt: „Was braucht man wirklich in einem Auto?“",
-   "summary": "Früher entwickelte sie Fahrzeuge für Mercedes, jetzt für Leute mit kleinem Budget. Dacia-Chefin Katrin Adt über E-Mobilität und Konkurrenz.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/dacia-katrin-adt-e-mobilitaet-automobilindustrie-interview-li.3558574",
-   "published": "2026-10-09T13:51:52+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handel: China signalisiert Einigung mit EU im Streit um Exporte von Hybrid-Autos",
-   "summary": "Peking und Brüssel wollen eine Eskalation im Handelsstreit abwenden. Zu Hybrid- und E-Autos kündigten sie einen ersten Kompromiss an. Nun müssen die EU-Regierungschefs entscheiden.",
-   "link": "https://www.handelsblatt.com/politik/international/handel-eu-und-china-einigen-sich-im-streit-um-hybrid-exporte/100260389.html",
-   "published": "2026-10-09T13:50:33+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dow Jones, S&P 500, Nasdaq: Techwerte erholen sich nach neuer KI-Angst",
-   "summary": "Ein erneuter Angriff der USA auf den Iran ist nicht abzusehen, was für Beruhigung am Ölmarkt sorgt. Ein Medienbericht beschwichtigt Anleger, die eine KI-Blase fürchten.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-techwerte-erholen-sich-nach-neuer-ki-angst/100261037.html",
-   "published": "2026-10-09T13:50:10+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "85. Jahrestag des Massakers von Babyn Jar",
-   "summary": "Debatte im Bundestag zum 85. Jahrestag des Massakers von Babyn Jar",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5239221",
-   "published": "2026-10-09T13:50:00+00:00",
-   "first_seen": "2026-10-09T15:07:02.932308+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Serbien vor den Wahlen: Freundliche Hilfe vom großen Bruder",
-   "summary": "Eine neue russisch-serbische Partei tritt bei den Wahlen an. Die „Phantomliste“ könnte für Ex-Staatschef Vučić zum Zünglein an der Waage werden. mehr...",
-   "link": "https://taz.de/Serbien-vor-den-Wahlen/!6220292/",
-   "published": "2026-10-09T13:49:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Finanzmärkte: Bangen vor den Bonds",
-   "summary": "Frankreich zahlt höhere Zinsen für seine Anleihen als das einstige Krisenland Griechenland, die globalen Staatsschulden liegen auf Rekordniveau. Es droht ein Showdown zwischen Politik und Finanzmärkten – mit ungewissem Ausgang.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-staatsschulden-griechenland-anleihemarkt-finanzmaerkte-li.3558843",
-   "published": "2026-10-09T13:48:59+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI und Urheberrechte: „Vielleicht müssen wir wirklich an die Grenzen gehen“",
-   "summary": "Die Buchbranche will nicht kostenloser Rohstofflieferant für das Training von Künstlicher Intelligenz sein. Der Justiziar eines großen Verlagshauses denkt laut über strafrechtliche Schritte gegen KI-Manager nach.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rainer-dresen-fordert-strafrecht-gegen-ki-manager-201302444.html",
-   "published": "2026-10-09T13:48:47+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Volkswagen: Auto neu, Name alt – VW ID.4 soll künftig als ID.Tiguan durchstarten",
-   "summary": "Der VW Tiguan bekommt einen elektrischen Zwilling. Wenn der Hersteller zum Jahreswechsel den ID.4 neu auflegt, trägt das SUV wieder einen alten Namen. Das ist nicht das einzige Retro-Detail.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/update-aus-wolfsburg-auto-neu-name-alt-vw-id4-soll-als-idtiguan-durchstarten/100261021.html",
-   "published": "2026-10-09T13:46:26+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Gedenkveranstaltung in Halle: Tillschneider muss draußen bleiben",
-   "summary": "Beim Gedenken an den Anschlag in Halle vor sieben Jahren wollte auch der gewählte AfD-Landtagsvizepräsident teilnehmen. Die Veranstalter wehren sich. mehr...",
-   "link": "https://taz.de/Gedenkveranstaltung-in-Halle/!6220335/",
-   "published": "2026-10-09T13:46:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Anträge Die Linke zur Rente",
-   "summary": "Bundestagsdebatte zur Rentenpolitik",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5239214",
-   "published": "2026-10-09T13:46:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "BND-Affäre: Die schillernden Kunden der Firma von Ex-BND-Chef Hanning",
-   "summary": "Eine Firma um einen ­Ex-BND-Chef verspricht Superreichen wie der ­Familie Block unorthodoxe Problemlösungen. Erfolge aber sind selten.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/august-hanning-die-schillernden-kunden-der-firma-des-ex-bnd-chefs/100225669.html",
-   "published": "2026-10-09T13:44:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Verweigerter Leasingvertrag: Kein BMW-Dienstwagen mehr für AfD-Landtagspräsidenten",
-   "summary": "Der AfD-Landtagspräsident in Sachsen-Anhalt fährt demnächst keinen Dienstwagen mehr von BMW. Die Empörung in der Rechts-außen-Partei ist groß. Kommt jetzt Elon Musk zum Zug?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kein-bmw-fuer-die-afd-gift-fuer-den-wirtschaftsstandort-201303774.html",
-   "published": "2026-10-09T13:42:42+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nach der Wahl in Berlin: Linke-Politiker kritisieren Einigung zum Antisemitismus",
-   "summary": "Linke, Grüne und SPD in Berlin haben sich vor dem Beginn von Sondierungsgesprächen zum Vorgehen gegen Antisemitismus verständigt. Daran gibt es aus der Linke nun deutliche Kritik.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/nach-der-wahl-in-berlin-linke-politiker-kritisieren-einigung-zum-antisemitismus/100261053.html",
-   "published": "2026-10-09T13:40:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nobelpreis 2026: Südafrikanische Menschenrechtlerin Pillay erhält Friedensnobelpreis",
-   "summary": "Das norwegische Nobelkomitee hat der Juristin und ehemaligen UN-Menschrechtskommissarin am Freitag den Friedensnobelpreis verliehen. Das Komitee würdigte den jahrzehntelangen Einsatz der heute 85‑Jährigen „zur Förderung von Frieden und…",
-   "link": "https://www.handelsblatt.com/video/politik/nobelpreis-2026-suedafrikanische-menschenrechtlerin-pillay-erhaelt-friedensnobelpreis/100261096.html",
-   "published": "2026-10-09T13:33:02+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/karriere-in-diesen-branchen-sind-ihre-ki-kenntnisse-besonders-gefragt/100251207.html",
-   "published": "2026-10-09T13:33:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gehaltsrechner: Wie viel verdienen Sie im Vergleich zu anderen Führungskräften?",
-   "summary": "Branche, Unternehmensgröße und Standort beeinflussen maßgeblich die Gehälter – das gilt auch für Chefs. Mit unserem interaktiven Rechner sehen Sie, wo Sie im Verhältnis zu anderen stehen.",
-   "link": "https://www.handelsblatt.com/karriere/gehalt-wie-gut-verdienen-sie-als-fuehrungskraft-im-vergleich/100248227.html",
-   "published": "2026-10-09T13:33:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Teuer und ineffizient? So viel hat Ihr letztes Meeting gekostet",
-   "summary": "Corporate Deutschland sitzt und redet. Doch viele Meetings liefern wenig Output. Der Handelsblatt-Rechner hilft Ihnen, Kosten von Meetings besser zu schätzen – und diese effizienter zu führen.",
-   "link": "https://www.handelsblatt.com/karriere/kostenrechner-so-teuer-koennen-meetings-fuer-ihr-unternehmen-werden/100245523.html",
-   "published": "2026-10-09T13:32:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
-   "summary": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl.",
-   "link": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-im-ausland-welches-land-passt-am-besten-zu-ihrem-ruhestand/100168299.html",
-   "published": "2026-10-09T13:31:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Todesstrafe in den USA: Hegseth kündigt Militärhinrichtung als Livestream an",
-   "summary": "Der Amokläufer von 2009, Nidal Hasan, soll in den USA vor laufenden Kameras erschossen werden. Christa Pike, die in Tennessee eine Hinrichtung überlebte, kann indes wieder laufen. mehr...",
-   "link": "https://taz.de/Todesstrafe-in-den-USA/!6220293/",
-   "published": "2026-10-09T13:30:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Spritpreis-Entlastung: Was bringt der \"Tankrabatt\" den Autofahrern?",
-   "summary": "Seit einer Woche gibt es den neuen \"Tankrabatt\". Experten zufolge kommt die Entlastung zwar nicht vollständig bei Autofahrern an - aber größtenteils. Und doch hält sich die Begeisterung an den Zapfsäulen in Grenzen. Von T. Denzel.",
-   "link": "https://www.tagesschau.de/wirtschaft/energie/tankrabatt-spritpreise-entlastung-autofahrer-100.html",
-   "published": "2026-10-09T13:29:55+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nvidia-Chips: „PC komplett neu erfunden“: Microsoft und Nvidia stellen Notebooks vor, die KI ohne Internet nutzbar machen",
-   "summary": "Der Tech-Riese stattet seine Surface-Laptops mit neuen Chips von Nvidia aus. Die Geräte sollen anspruchsvolle KI-Berechnungen lokal ausführen – und spielen auch preislich in der Oberklasse.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-so-wollen-microsoft-und-nvidia-ki-ohne-internet-ermoeglichen/100260096.html",
-   "published": "2026-10-09T13:28:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Frankreich: Nach landesweiten Schülerprotesten: Bildungsminister reagiert auf Lehrermangel",
-   "summary": "Der französische Bildungsminister Edouard Geffray hat Sofortmaßnahmen gegen den Lehrermangel angekündigt. Kurzfristig sollen tausende neue Vertretungslehrer eingesetzt werden. Langfristig wolle man zusätzliche Mittel im Haushalt…",
-   "link": "https://www.handelsblatt.com/video/politik/frankreich-nach-landesweiten-schuelerprotesten-bildungsminister-reagiert-auf-lehrermangel/100261027.html",
-   "published": "2026-10-09T13:22:36+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: ICE-Beamte schießen auf Mann im Auto – auch Kind dabei",
-   "summary": "Die US-Einwanderungsbehörde hat am Donnerstag in der New Yorker Bronx auf einen Mann in seinem Auto geschossen und ihn verletzt. Im Fahrzeug befand sich auch ein Kind. Bürgermeister Mamdani bezeichnete den Vorfall als „ungeheuerlich und…",
-   "link": "https://www.handelsblatt.com/video/politik/usa-ice-beamte-schiessen-auf-mann-im-auto-auch-kind-dabei/100261018.html",
-   "published": "2026-10-09T13:22:26+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Übernahme: EU-Kommission will im November über Commerzbank-Übernahme entscheiden",
-   "summary": "Die EU-Kommission muss entscheiden, ob die geplante Übernahme der Commerzbank durch die italienische Großbank UniCredit Kartellrecht entspricht.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-eu-kommission-kuendigt-entscheidung-ueber-commerzbank-uebernahme-an/100261082.html",
-   "published": "2026-10-09T13:17:36+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Technologieunternehmen: Apple reduziert wohl Bestellungen für iPhone-Komponenten",
-   "summary": "Apple drosselt einem Medienbericht zufolge die Bestellungen für seine neuen iPhones. Höhere Preise und knappe Speicherchips belasten offenbar die Nachfrage.",
-   "link": "https://www.wiwo.de/unternehmen/it/schwache-nachfrage-apple-reduziert-wohl-bestellungen-fuer-iphone-komponenten/100261086.html",
-   "published": "2026-10-09T13:17:26+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bildung: 20-Jahres-Hoch bei Schulabgängern ohne Abschluss",
-   "summary": "Ohne Schulabschluss wird es auch mit der beruflichen Karriere schwer. Der Anteil der Jugendlichen, die ihre Schulzeit ohne Abschluss beenden, erreicht den höchsten Wert seit mehr als 20 Jahren.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bildung-20-jahres-hoch-bei-schulabgaengern-ohne-abschluss/100261091.html",
-   "published": "2026-10-09T13:14:45+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Welthandel: Erpressbar, aber nicht wehrlos: Europas Weg aus der geoökonomischen Falle",
-   "summary": "Die USA und China setzen ihre Wirtschaftsvormacht als Waffe ein, um politische Vorteile zu erzwingen. Was kann die EU dagegen tun?",
-   "link": "https://www.sueddeutsche.de/wirtschaft/weltwirtschaft-geooekonomie-europa-usa-china-handelskrieg-li.3551999",
-   "published": "2026-10-09T13:09:48+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Entdecken Sie das ZDF-Nachrichtenstudio",
-   "summary": "Nach 12 Jahren erscheinen die ZDF-Nachrichten im neuen Look. Werfen Sie einen Blick hinter die Kulissen – und entdecken das neue Studio in unserer 3D-Story.",
-   "link": "https://3d.zdf.de/nachrichten-studio-design/",
-   "published": "2026-10-09T13:09:40+00:00",
-   "first_seen": "2026-10-09T13:09:43.088326+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Aktuelle Pressemitteilungen des ZDF",
-   "summary": "Aktuelle Pressemitteilungen des ZDF",
-   "link": "https://presseportal.zdf.de/pressemitteilungen/",
-   "published": "2026-10-09T13:09:40+00:00",
-   "first_seen": "2026-10-09T13:09:43.088326+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI-Angriffe: Brüssel fordert Infos von OpenAI und Anthropic",
-   "summary": "Unkontrollierte Attacken von Künstlicher Intelligenz bereiten Experten Sorgen. Die Vorfälle könnten für manchen Tech-Riesen Konsequenzen haben. Die EU-Kommission warnt, mahnt und hat Fragen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-angriffe-bruessel-fordert-infos-von-openai-und-anthropic/100261090.html",
-   "published": "2026-10-09T13:09:38+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Debatte zur Stärkung der Zollverwaltung",
-   "summary": "Bundestagsdebatte zur Stärkung der Zollverwaltung",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5239194",
-   "published": "2026-10-09T13:06:00+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Firmenübernahmen: Anschleichen, überraschen, zuschlagen",
-   "summary": "Hochtief, Commerzbank, Hugo Boss: Deutsche Unternehmen sind nicht nur interessante Übernahmeziele. Das Übernahmerecht ermöglicht es Bietern auch, sich günstig an Firmen heranzuarbeiten. Berlin will das nun ändern.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/uebernahmerecht-deutschland-unternehmen-firmenuebernahmen-commerzbank-li.3559410",
-   "published": "2026-10-09T13:05:49+00:00",
-   "first_seen": "2026-10-09T14:07:55.198844+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Devisen: Der Yuan soll steigen – aber nicht auf Geheiß des Westens",
-   "summary": "Im Westen gilt der unterbewertete Yuan als Schlüsselfaktor für Chinas Exportüberschüsse. Peking weist das zurück – doch einflussreiche Stimmen diskutieren durchaus über einen stärkeren Yuan.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/geld-der-yuan-soll-steigen-aber-nicht-auf-geheiss-des-westens/100256759.html",
-   "published": "2026-10-09T13:05:38+00:00",
-   "first_seen": "2026-10-09T13:09:43.088326+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pannenhilfe: So viel Sparpotenzial können Kfz-Schutzbriefe haben",
-   "summary": "Schutzbrief oder Clubmitgliedschaft? Wer auf zusätzliche Services verzichten kann, kann im Vergleich günstigere Alternativen finden.",
-   "link": "https://www.handelsblatt.com/mobilitaet/motor/pannenhilfe-so-viel-sparpotenzial-koennen-kfz-schutzbriefe-haben/100261084.html",
-   "published": "2026-10-09T13:04:39+00:00",
-   "first_seen": "2026-10-09T13:09:43.088326+00:00",
    "paywall": true
   }
  ]
