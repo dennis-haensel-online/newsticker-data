@@ -1,6 +1,6 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-14T02:45:13.294338+00:00",
+ "updated": "2026-10-14T08:12:20.594657+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -19,6 +19,15 @@
    "published": "2026-10-13T22:17:43+00:00",
    "first_seen": "2026-10-14T02:45:13.294338+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Cyberattacken auf Hunderte französische Supermärkte",
+   "summary": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert.",
+   "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
+   "published": "2026-10-13T18:37:01+00:00",
+   "first_seen": "2026-10-14T08:12:20.594657+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -180,15 +189,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/a1-digital-elisabetta-castiglioni-und-die-cloud-fuer-den-mittelstand-accg-201283281.html",
    "published": "2026-10-10T08:29:56+00:00",
    "first_seen": "2026-10-10T14:54:49.417109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Fritz! gegen Telekom: Deutscher Routerhersteller Fritz! fordert Verbot chinesischer Geräte",
-   "summary": "Fritz! aus Berlin drängt auf eine harte Linie. Zu hoch sei die Gefahr durch Cyberangriffe. Die Deutsche Telekom zeigt sich skeptisch.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutscher-routerhersteller-fritz-fordert-verbot-chinesischer-geraete-201302438.html",
-   "published": "2026-10-09T15:30:42+00:00",
-   "first_seen": "2026-10-09T16:07:03.622938+00:00",
    "paywall": true
   }
  ]
