@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T19:03:54.265389+00:00",
+ "updated": "2026-10-14T22:51:34.954029+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -17,6 +17,447 @@
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/etfs-diese-robo-advisor-erzielten-2025-die-hoechsten-renditen/100224417.html",
    "published": "2026-10-15T13:00:00+00:00",
    "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Heftige Unwetter auf Rhodos",
+   "summary": "Auf der griechischen Insel Rhodos hat es bei heftigen Regenfällen und Sturm ein Todesopfer gegeben. Der Katastrophenschutz rief die Bewohner auf, ihre Häuser nicht zu verlassen.",
+   "link": "https://www.zdfheute.de/video/panorama-unwetter-rhodos-griechenland-video-100.html",
+   "published": "2026-10-14T22:21:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Real Madrid dreht verrücktes Spiel bei der AS Rom",
+   "summary": "Real Madrid lag mit 1:3 gegen die AS Rom zurück. Dann drehten die \"Königlichen\" das Spiel auch dank stark getretener Ecken von Arda Güler.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-as-rom-real-madrid-tore-ergebnis-100.html",
+   "published": "2026-10-14T22:19:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Kerosinversorgung: Lufthansa reagiert auf Kerosin-Mangel am Flughafen Frankfurt",
+   "summary": "Am größten deutschen Flughafen gibt es derzeit weniger Kerosin als üblich. Flugausfälle soll es aber nicht geben, die Lufthansa hat vorsorglich Maßnahmen ergriffen.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/kerosin-flughafen-frankfurt-lufthansa-tankering-pipeline",
+   "published": "2026-10-14T22:01:54+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Immobilien: Bis zu 6,7 Prozent mehr – In diesen Metropolen steigen die Mieten besonders stark",
+   "summary": "Ein neuer Index zeigt, wo die Angebotsmieten besonders kräftig zulegen – und wo Wohnungssuchende noch vergleichsweise günstig wohnen können.",
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-diesen-metropolen-steigen-die-mieten-besonders-stark/100262197.html",
+   "published": "2026-10-14T22:01:16+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Gesundheitspolitik - Bundestag entscheidet über Reform von Notfallversorgung",
+   "summary": "Die Bundestag stimmt heute abschließend über die geplante Reform der Notfallversorgung ab.",
+   "link": "https://www.deutschlandfunk.de/bundestag-entscheidet-ueber-reform-von-notfallversorgung-100.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bundeswehr - Regiment in Weißenfels: Pistorius verspricht Aufklärung nach Berichten über sexuelles Fehlverhalten",
+   "summary": "Verteidigungsminister Pistorius hat nach Berichten über sexuelles Fehlverhalten und Drogenmissbrauch beim Sanitätsregiment in Weißenfels in Sachsen-Anhalt Aufklärung versprochen.",
+   "link": "https://www.deutschlandfunk.de/regiment-in-weissenfels-pistorius-verspricht-aufklaerung-nach-berichten-ueber-sexuelles-fehlverhalte-100.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Geopolitik - Grönland und Dänemark widersprechen Trump: Keine massiven Öl-Erkundungen",
+   "summary": "Dänemark und Grönland haben Aussagen von US-Präsident Trump zu bevorstehenden Erkundungen von Ölvorkommen auf der Arktisinsel zurückgewiesen.",
+   "link": "https://www.deutschlandfunk.de/groenland-und-daenemark-widersprechen-trump-keine-massiven-oel-erkundungen-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Berlin - Linke, Grüne und SPD sondieren weiter",
+   "summary": "In Berlin sollen die Sondierungen von Linken, Grünen und SPD fortgesetzt werden. Der SPD-Landesvorsitzende Krach sagte im RBB-Fernsehen, die drei Parteien hätten sich bei einem Treffen am Abend darüber verständigt, dass die gemeinsame…",
+   "link": "https://www.deutschlandfunk.de/linke-gruene-und-spd-sondieren-weiter-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fußball Champions League - Borussia Dortmund verliert gegen FK Bodø/Glimt",
+   "summary": "In der Fußball Champions League gab es folgende Ergebnisse mit deutscher Beteiligung:",
+   "link": "https://www.deutschlandfunk.de/borussia-dortmund-verliert-gegen-fk-bod-glimt-106.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Brüssel - EU-Staats- und Regierungschefs verhandeln über nächsten EU-Haushalt",
+   "summary": "Die Staats- und Regierungschefs der EU kommen heute zu einem zweitägigen Gipfel in Brüssel zusammen.",
+   "link": "https://www.deutschlandfunk.de/eu-staats-und-regierungschefs-verhandeln-ueber-naechsten-eu-haushalt-100.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Sicherheit und Sozialpolitik - Regierungserklärung von Merz: Kein Euro, der in die Ukraine fließe, fehle bei den Sozial- oder den Bildungsausgaben",
+   "summary": "In einer Regierungserklärung hat Bundeskanzler Merz davor gewarnt, das Thema Gerechtigkeit gegen Sicherheit auszuspielen. Kein Euro, der in die Ukraine fließe, fehle bei den Sozialausgaben oder den Bildungsausgaben, sagte Merz im Bundestag.",
+   "link": "https://www.deutschlandfunk.de/regierungserklaerung-von-merz-kein-euro-der-in-die-ukraine-fliesse-fehle-bei-den-sozial-oder-den-bil-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Krieg gegen die Ukraine - Präsident Selenskyj enttäuscht von mangelnder US-Unterstützung",
+   "summary": "Der ukrainische Präsident hat sich enttäuscht über die nach seiner Einschätzung mangelnde Unterstützung durch die Vereinigten Staaten geäußert. In einem in Großbritannien geführten Interview sagte Selenskyi, es sei bedauerlich, wenn…",
+   "link": "https://www.deutschlandfunk.de/praesident-selenskyj-enttaeuscht-von-mangelnder-us-unterstuetzung-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Ab Donnerstag - Bundesweites Alkoholverbot an Bahnhöfen",
+   "summary": "An sämtlichen Bahnhöfen der Deutschen Bahn gilt ab heute ein Alkoholverbot.",
+   "link": "https://www.deutschlandfunk.de/bundesweites-alkoholverbot-an-bahnhoefen-106.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Nach Rücktritt von Bas - SPD Baden-Württemberg fordert Neustart an Bundesspitze: Neue Führung darf nicht Teil der Bundesregierung sein",
+   "summary": "Die SPD in Baden-Württemberg hat sich dafür ausgesprochen, dass die künftigen Vorsitzenden der Bundespartei nicht zugleich ein Ministeramt bekleiden.",
+   "link": "https://www.deutschlandfunk.de/spd-baden-wuerttemberg-fordert-neustart-an-bundesspitze-neue-fuehrung-darf-nicht-teil-der-bundesregi-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Gesundheitspolitik - Schätzerkreis: Zusatzbeitrag für Krankenkassen 2027 unverändert",
+   "summary": "Der durchschnittliche Zusatzbeitragssatz für gesetzliche Krankenversicherte soll im kommenden Jahr unverändert bei 2,9 Prozent liegen.",
+   "link": "https://www.deutschlandfunk.de/schaetzerkreis-zusatzbeitrag-fuer-krankenkassen-2027-unveraendert-104.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Dänemark - Grenzkontrollen an deutscher Grenze bis Mai 2027 verlängert",
+   "summary": "Dänemark verlängert die Kontrollen an der Grenze zu Deutschland um weitere sechs Monate bis Mitte Mai kommenden Jahres.",
+   "link": "https://www.deutschlandfunk.de/grenzkontrollen-an-deutscher-grenze-bis-mai-2027-verlaengert-104.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Mehreinnahmen - Schwarz-rote Koalition einigt sich auf Zuckersteuer",
+   "summary": "Union und SPD haben sich auf eine neue Zuckersteuer geeinigt. Das Bundeskabinett billigte die überarbeiteten Pläne von Finanzminister Klingbeil. Nach der Vorlage soll ab Mitte kommenden Jahres ein Steuersatz von 26 Cent auf gesüßte…",
+   "link": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-116.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Erklärung - EU kritisiert Aufschub von Wahlen in den Palästinensergebieten",
+   "summary": "Die Europäische Union kritisiert die erneute Verschiebung von Wahlen in den Palästinensergebieten.",
+   "link": "https://www.deutschlandfunk.de/eu-kritisiert-aufschub-von-wahlen-in-den-palaestinensergebieten-104.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Tausende Menschen auf der Flucht - Hilfsorganisationen: Kämpfe im Jemen verschärfen humanitäre Lage",
+   "summary": "Im Jemen hat sich die humanitäre Lage aufgrund der anhaltenden Kämpfe weiter verschlechtert.",
+   "link": "https://www.deutschlandfunk.de/hilfsorganisationen-kaempfe-im-jemen-verschaerfen-humanitaere-lage-104.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Infektionen - Zweiter Ebola-Fall in Kenia",
+   "summary": "Das ostafrikanische Kenia hat einen zweiten Ebola-Fall gemeldet.",
+   "link": "https://www.deutschlandfunk.de/zweiter-ebola-fall-in-kenia-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Iran-Krieg - Frachtschiff in der Straße von Hormus nach Minentreffer gesunken",
+   "summary": "In der Straße von Hormus ist ein Containerschiff gesunken.",
+   "link": "https://www.deutschlandfunk.de/frachtschiff-in-der-strasse-von-hormus-nach-minentreffer-gesunken-104.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Appell an Industriestaaten - Internationaler Währungsfonds warnt vor steigenden Staatsschulden",
+   "summary": "Der Internationale Währungsfonds hat die Industrieländer aufgefordert, ihre Haushaltsdefizite zu verringern.",
+   "link": "https://www.deutschlandfunk.de/internationaler-waehrungsfonds-warnt-vor-steigenden-staatsschulden-106.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Vor EU-Asyl-Gipfel - 38 Organisationen warnen vor Aussetzung des Asylrechts",
+   "summary": "Vor dem morgigen EU-Gipfel in Brüssel haben fast 40 Organisationen davor gewarnt, das Recht auf Asyl in bestimmten Situationen auszusetzen.",
+   "link": "https://www.deutschlandfunk.de/38-organisationen-warnen-vor-aussetzung-des-asylrechts-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Begegnung mit Schulklassen - Ehemalige Bundeskanzlerin Merkel fordert mehr Einsatz für die Demokratie",
+   "summary": "Die ehemalige Bundeskanzlerin Merkel hat zu mehr Einsatz für die Demokratie in Deutschland aufgerufen. In einer von Deutschlandfunk Kultur ausgerichteten Begegnung mit Schulklassen sagte Merkel, es müsse besser erklärt werden, was…",
+   "link": "https://www.deutschlandfunk.de/ehemalige-bundeskanzlerin-merkel-fordert-mehr-einsatz-fuer-die-demokratie-102.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bundestag - Alexander Schweitzer als neuer Arbeitsminister vereidigt",
+   "summary": "Der neue Bundesarbeitsminister Schweitzer ist im Parlament vereidigt worden.",
+   "link": "https://www.deutschlandfunk.de/alexander-schweitzer-als-neuer-arbeitsminister-vereidigt-106.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Wetter - In der Nacht meist gering bewölkt oder klar",
+   "summary": "Das Wetter: In der Nacht vielfach gering bewölkt oder klar. Bevorzugt über der Mitte und dem Süden Ausbildung von Nebelfeldern. Tiefstwerte 10 bis 0 Grad. Morgen nach zäher Nebelauflösung heiter, teils auch wolkig. Temperaturen 14 bis 21…",
+   "link": "https://www.deutschlandfunk.de/in-der-nacht-meist-gering-bewoelkt-oder-klar-120.html",
+   "published": "2026-10-14T21:44:01+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "EU-Gipfeltreffen: Le Pen will Entscheidung über EU-Haushalt bremsen",
+   "summary": "Beim Treffen in Brüssel ist die französische Präsidentschaftskandidatin nicht dabei. Die EU-Budget-Verhandlungen will sie dennoch beeinflussen.",
+   "link": "https://www.handelsblatt.com/politik/international/eu-gipfeltreffen-le-pen-will-entscheidung-ueber-eu-haushalt-bremsen/100262335.html",
+   "published": "2026-10-14T21:18:38+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Undav meldet sich zurück: Stuttgart souverän bei Bratislava",
+   "summary": "Deniz Undavs erstes Saisontor bringt den VfB Stuttgart gegen Slovan Bratislava auf die Siegerstraße. Die Schwaben gewinnen auswärts mit 3:0.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-slovan-bratislava-vfb-stuttgart-100.html",
+   "published": "2026-10-14T21:09:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Zuckersteuer \"führt gar nicht unbedingt zu höheren Preisen\"",
+   "summary": "Die Zuckersteuer führt aus Sicht der Organisation Foodwatch nicht zwingend zu höheren Preisen für Verbraucher. Sie erwartet eher, dass die Hersteller ihre Rezepturen anpassen.",
+   "link": "https://www.zdfheute.de/politik/deutschland/zuckersteuer-getraenke-foodwatch-interview-100.html",
+   "published": "2026-10-14T21:04:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "FC Bayern strauchelt bei Viking Stavanger",
+   "summary": "Ungemütliche Dienstreise für die Bayern nach Norwegen: Auf Kunstrasen liegen die Gäste früh zurück, geraten später in Unterzahl und müssen sich am Ende mit einem Remis begnügen.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/viking-stavanger-bayern-muenchen-2-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-14T21:01:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Borussia Dortmund in Bodö kalt erwischt",
+   "summary": "Wie der FC Bayern hat auch Borussia Dortmund in Norwegen große Probleme. Bei Bodö/Glimt wacht der BVB viel zu spät auf und kassiert eine 0:1-Niederlage.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/fk-bodoe-glimt-borussia-dortmund-2-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-14T21:00:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Stuttgart jubelt in Bratislava",
+   "summary": "Zweites Spiel, zweiter Dreier für den VfB Stuttgart: Treffer von Undav und Demirovic sowie ein Egentor bescheren dem VfB ein 3:0 bei Slovan Bratislava.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/slovan-bratislava-vfb-stuttgart-2-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-14T21:00:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "PSG mit Machtdemonstration bei City",
+   "summary": "Der Titelverteidiger aus Paris führt Manchester City im Top-Duell eine Halbzeit beinahe vor. Nach der Pause werden die Skyblues stärker, das Aufbäumen ist aber vergebens.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/manchester-city-paris-saint-germain-2-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-14T21:00:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Gruda schießt Leipzig zum Sieg gegen Eindhoven",
+   "summary": "Erster Sieg für RB Leipzig, erstes Tor in der Königsklasse für Brajan Gruda. Der Mittelfeldspieler ist gegen Eindhoven der beste Mann und besorgt folgerichtig auch den Siegtreffer.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/rb-leipzig-psv-eindhoven-2-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-14T21:00:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Torflut bei Reds-Spiel - Irres Real Comeback",
+   "summary": "AS Rom - Real Madrid, Linzer ASK - FC Liverpool, Aston Villa - Fenerbahce, Betis - Porto, Feyenoord - Como, Donezk - AEK Athen.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/rom-real-linz-liverpool-aston-villa-fenerbahce-betis-porto-feyenoord-como-donezk-aek-2-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-14T21:00:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Barca nicht zu stoppen - Tresoldi schockt Inter",
+   "summary": "Atletico - Manchester United, Galatasaray - Barcelona, Arsenal - Lille, Inter - Brügge - Villarreal, Neapel, Lens - Sporting, Sabah - Slavia.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/atletico-manunited-galatasaray-barcelona-arsenal-lille-inter-bruegge-villarreal-neapel-lens-sporting-sabah-slavia-2-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-14T21:00:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Kerosin-Mangel am Flughafen Frankfurt – Lufthansa reagiert",
+   "summary": "Lufthansa gewinnt Bieterrennen um portugiesische Airline TAP +++ US-Inflation steigt auf 3,7 Prozent +++ Übernahme von 38 Tegut-Märkten durch Rewe genehmigt +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-kerosin-mangel-am-flughafen-frankfurt-lufthansa-reagiert-faz-200452404.html",
+   "published": "2026-10-14T20:55:47+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Auch Dortmund rutscht auf Norwegens Kunstrasen aus",
+   "summary": "Borussia Dortmund hat sein Auswärtsspiel bei Bodö/Glimt verloren. Gerade den Start in Halbzeit zwei verschlief die Elf von Trainer Niko Kovac.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-fk-bodoe-glimt-borussia-dortmund-tore-ergebnis-100.html",
+   "published": "2026-10-14T20:54:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftfahrt: Kerosin-Mangel am Flughafen Frankfurt – Lufthansa reagiert",
+   "summary": "Am Frankfurter Flughafen wird Kerosin knapp, Lufthansa-Flugzeuge tanken deshalb schon vor der Ankunft zusätzlich. Wie die Airline den Betrieb sichern will – und was das für Flüge bedeutet.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-kerosin-mangel-am-flughafen-frankfurt-lufthansa-reagiert/100262332.html",
+   "published": "2026-10-14T20:30:58+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Roboter belästigt Minderjährige - wer ist verantwortlich?",
+   "summary": "Der Roboter eines Streamers soll eine 16-Jährige sexuell belästigt haben, der Besitzer filmte und teilte den Vorfall offenbar. Die Polizei ermittelt. Wer trägt die Verantwortung?",
+   "link": "https://www.zdfheute.de/panorama/kriminalitaet/roboter-belaestigt-uebergriff-streamer-twitch-koeln-100.html",
+   "published": "2026-10-14T20:12:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Regierungsbildung in Berlin: Parteien sondieren wieder",
+   "summary": "Die Sondierungsgespräche in Berlin schienen in einer Sackgasse zu stecken. Kommen Linke, Grüne und SPD da wieder raus? Ein Gespräch hat offenbar geholfen. mehr...",
+   "link": "https://taz.de/Regierungsbildung-in-Berlin/!6221805/",
+   "published": "2026-10-14T19:58:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Drei Tore vor der Halbzeit: ManCity unterliegt PSG klar",
+   "summary": "Manchester City hat sich im zweiten Spiel der Champions-League-Gruppenphase eine deutliche Niederlage gefangen. Zur Pause stand es schon 0:3.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-manchester-city-paris-saint-germain-tore-ergebnis-100.html",
+   "published": "2026-10-14T19:47:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Film: Die \"Heimsuchung\" von Volker Schlöndorff",
+   "summary": "Mit dem Film \"Heimsuchung\" von Völker Schlöndorff werden Themen wie Nationalsozialismus, Vertreibung und Heimat thematisiert. Die Geschichte wird anhand eines Hauses erzählt.",
+   "link": "https://www.zdfheute.de/video/heute-journal/moritz-film-heimsuchung-100.html",
+   "published": "2026-10-14T19:45:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Landesregierung: Linke, Grüne und SPD sondieren in Berlin nach Verständigung weiter",
+   "summary": "Die Sondierungsgespräche in Berlin schienen in einer Sackgasse zu stecken. Ein Gespräch hat nun offenbar geholfen. Schon am Donnerstag soll es weitergehen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/berlin-linke-gruene-und-spd-sondieren-nach-verstaendigung-weiter/100262330.html",
+   "published": "2026-10-14T19:38:55+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Verständigung in Berlin: Parteien sondieren weiter",
+   "summary": "Linke, Grüne und SPD haben sich in Berlin darauf verständigt, dass die Erklärung der drei Parteien zum Vorgehen gegen Antisemitismus weiterhin gilt. Die Sondierungen gehen weiter.",
+   "link": "https://www.zdfheute.de/politik/deutschland/sondierungen-linke-gruene-spd-berlin-gehen-weiter-100.html",
+   "published": "2026-10-14T19:36:46+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Krankenversicherung: Krankenkassen-Beiträge sollen 2027 stabil bleiben",
+   "summary": "Gute Nachricht für Beitragszahlerinnen und Beitragszahler: Die Beiträge für die Krankenversicherung sollen 2027 stabil bleiben - jedenfalls die rechnerische Orientierungsmarke.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/krankenversicherung-krankenkassen-beitraege-sollen-2027-stabil-bleiben/100262323.html",
+   "published": "2026-10-14T19:30:54+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "finanzPrognose: Krankenkassenbeiträge können 2027 stabil bleiben",
+   "summary": "Gesundheitsminister Carsten Linnemann sieht den Zusatzbeitrag zur gesetzlichen Krankenkasse auch 2027 als stabil an. Die strukturellen Probleme bleiben dennoch, warnt er.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html",
+   "published": "2026-10-14T19:19:33+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Häftling in Arztpraxis zur Flucht verholfen",
+   "summary": "Die Polizei fahndet nach einem Häftling, der in Essen beim Besuch einer Arztpraxis flüchten konnte. Zwei Komplizen hatten seine Aufpasser überwältigt.",
+   "link": "https://www.zdfheute.de/panorama/kriminalitaet/essen-haeftling-flucht-arztpraxis-100.html",
+   "published": "2026-10-14T19:06:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sondierungen in Berlin: Verständigung in Berlin: Parteien sondieren weiter",
+   "summary": "Die Sondierungsgespräche in Berlin schienen in einer Sackgasse zu stecken. Wie kommen Linke, Grüne und SPD da wieder raus? Ein Gespräch zu dritt hat offenbar geholfen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/sondierungen-in-berlin-verstaendigung-in-berlin-parteien-sondieren-weiter/100262111.html",
+   "published": "2026-10-14T19:02:49+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
    "paywall": true
   },
   {
@@ -143,6 +584,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/krankenversicherung-zusatzbeitrag-fuer-gkv-duerfte-2027-stabil-bei-29-prozent-bleiben/100262322.html",
    "published": "2026-10-14T18:26:03+00:00",
    "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "GKV-Schätzerkreis: Krankenkassen-Beiträge sollen 2027 stabil bleiben",
+   "summary": "Gute Nachricht für Beitragszahlerinnen und Beitragszahler: Die Beiträge für die Krankenversicherung sollen 2027 stabil bleiben – jedenfalls die rechnerische Orientierungsmarke.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/krankenversicherung-krankenkassen-beitraege-sollen-2027-stabil-bleiben/100262322.html",
+   "published": "2026-10-14T18:26:03+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
    "paywall": true
   },
   {
@@ -720,6 +1170,15 @@
    "published": "2026-10-14T15:20:14+00:00",
    "first_seen": "2026-10-14T19:03:54.265389+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Illegaler Welpenhandel: Tierschutz greift ein",
+   "summary": "Welpen aus dem Ausland, Katzen aus fragwürdiger Zucht: Tierschutzorganisation Peta deckt in Berlin mutmaßliche Verstöße auf. Polizei und Veterinäramt greifen ein und retten zahlreiche Tiere.",
+   "link": "https://www.zdfheute.de/video/hallo-deutschland/tierschutz-welpenhandel-peta-100.html",
+   "published": "2026-10-14T15:10:00+00:00",
+   "first_seen": "2026-10-14T22:51:34.954029+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -13041,465 +13500,6 @@
    "published": "2026-10-11T10:31:16+00:00",
    "first_seen": "2026-10-11T16:03:41.846153+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Polen: Innenminister meldet Festnahme nach Anschlagsplänen auf Tusk",
-   "summary": "Premierminister Donald Tusk bedankte sich bei der polnischen Polizei für ihr „schnelles und entschlossenes Handeln“. Die Anschlagspläne waren am Sonntag bekannt geworden.",
-   "link": "https://www.handelsblatt.com/politik/international/polen-innenminister-meldet-festnahme-nach-anschlagsplaenen-auf-tusk/100261320.html",
-   "published": "2026-10-11T10:24:45+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um",
-   "summary": "Tesla spricht in Europa künftig von „Tesla Assisted Driving“. Damit reagiert der Elektroauto-Hersteller auf den Vorwurf, der bisherige Name verspreche autonomes Fahren.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/tesla-fahrassistenzsystem-europa-fsd-assisted-driving-elon-musk-autonomes-fahren-li.3561790",
-   "published": "2026-10-11T10:22:49+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Longevity: Das Geschäft mit der Langlebigkeit",
-   "summary": "Bluttests, Rotlicht und Kältekammern sollen Menschen helfen, länger gesund zu bleiben. Rund um das Thema Longevity entsteht ein neuer Markt. Doch wie viel davon ist wissenschaftlich belegt?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/longevity-wie-serioes-der-markt-fuer-langes-leben-ist-accg-201268797.html",
-   "published": "2026-10-11T10:17:47+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Landwirtschaft: Er hat leider schlechte Nachrichten: Die Pommes werden kürzer",
-   "summary": "Severin Brimmers hat sich Mühe gegeben, nur geholfen hat es nicht. Nach dem Hitzesommer ist die Kartoffelernte des rheinischen Bauern so schlecht wie noch nie. Und freilich ist er damit nicht allein.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/kartoffelernte-2026-landwirtschaft-hitze-trockenheit-li.3559563",
-   "published": "2026-10-11T10:10:31+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Banken: Deutsche-Bank-Chef Sewing fordert mehr Tempo bei Reformen",
-   "summary": "Christian Sewing mahnt schnellere und konsequentere Reformen an. AfD-Wahlerfolge und die Diskussion um Enteignung in Berlin seien alles andere als wirtschaftsförderlich.",
-   "link": "https://www.wiwo.de/politik/deutschland/banken-deutsche-bank-chef-sewing-fordert-mehr-tempo-bei-reformen/100261314.html",
-   "published": "2026-10-11T10:08:45+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Pressefreiheit in Deutschland: DJV verurteilt AfD-Drohung gegen ZDF-Reporter",
-   "summary": "AfD-Politiker Ulrich Siegmund drohte während eines Interviews dem „heute-show“-Reporter Fabian Köster. Der Journalistenverband spricht von „purer Einschüchterung“. mehr...",
-   "link": "https://taz.de/Pressefreiheit-in-Deutschland/!6220568/",
-   "published": "2026-10-11T10:06:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Drohen Erhöhungen der Krankenkassenbeiträge?",
-   "summary": "Verhindert das Milliarden-Sparpaket der Regierung künftige Beitragserhöhungen? Am kommenden Mittwoch legt ein Schätzerkreis die Finanzprognose für 2027 vor. Fragen und Antworten.",
-   "link": "https://www.zdfheute.de/panorama/krankenkassen-beitrage-erhoehungen-2027-wahrscheinlich-100.html",
-   "published": "2026-10-11T10:05:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rentenreform: Unionsfraktionsvize weist Mierschs Renten-Vorstoß zurück",
-   "summary": "Der SPD-Fraktionschef will, dass Länder und Fraktionen bei der Rentenreform einbezogen werden, bevor sie ins Kabinett geht. Die ohnehin schon ungeduldige Union hält dagegen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/rentenreform-unionsfraktionsvize-weist-mierschs-renten-vorstoss-zurueck/100261313.html",
-   "published": "2026-10-11T09:56:23+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Gerhard Schröder und die SPD: Partei fordert Rauswurf",
-   "summary": "Schröder beschädige die Glaubwürdigkeit der Sozialdemokraten, so der Vorwurf. Anlass ist unter anderem der Geburtstagsbesuch bei Kremlchef Putin. mehr...",
-   "link": "https://taz.de/Gerhard-Schroeder-und-die-SPD/!6220565/",
-   "published": "2026-10-11T09:52:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Cornelia Funke auf der Buchmesse: Warum wir an Feen glauben sollten",
-   "summary": "Cornelia Funke stellte auf der Frankfurter Buchmesse ihren neuen Roman vor. Ein Versuch, mit Emmas Abenteuern Kinder für die Natur zu begeistern. mehr...",
-   "link": "https://taz.de/Cornelia-Funke-auf-der-Buchmesse/!6220521/",
-   "published": "2026-10-11T09:47:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Diesel-Deal mit Putin: Das Vertrauen in die US-Außenpolitik schwindet in atemberaubender Geschwindigkeit",
-   "summary": "Der amerikanische Diesel-Deal mit Putin konterkariert die eigenen Sanktionen, stärkt das russische Kriegskalkül und stellt am Ende einen Verrat an der westlichen Wertegemeinschaft dar.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-trumps-diesel-pakt-mit-putin-verrat-an-der-ukraine-und-europa/100261250.html",
-   "published": "2026-10-11T09:46:28+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ringen um Reformen: Unionsfraktionsvize weist Mierschs Renten-Vorstoß zurück",
-   "summary": "Der SPD-Fraktionschef will bei der Rente eine Extrarunde drehen, bevor die Reform ins Kabinett geht. Länder und Fraktionen sollen einbezogen werden. Die ohnehin schon ungeduldige Union hält dagegen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/ringen-um-reformen-unionsfraktionsvize-weist-mierschs-renten-vorstoss-zurueck/100261311.html",
-   "published": "2026-10-11T09:43:05+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Anleihen: Bundesbanker Theurer sieht stark gestiegene Risiken für Schuldenkrise in Europa",
-   "summary": "Die Staatsverschuldung in Europa wird zunehmend zum Risiko für die Finanzmärkte. Bundesbank-Vorstand Michael Theurer fordert eine langfristige Strategie – und kein verfrühtes Eingreifen der EZB.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/anleihen-theurer-sieht-stark-gestiegene-risiken-fuer-schuldenkrise/100261304.html",
-   "published": "2026-10-11T09:39:33+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Koalition: Jetzt kommt der große Streit ums Erben",
-   "summary": "Wenn das Verfassungsgericht über die Erbschaftsteuer berät, droht der Regierung der nächste große Streit. Das Thema ist so emotional wie kaum ein anderes. Mit unerwarteten Fronten.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/erbschaftsteuer-spd-und-union-steuern-auf-koalitionsstreit-zu-accg-201301380.html",
-   "published": "2026-10-11T09:37:29+00:00",
-   "first_seen": "2026-10-14T19:03:54.265389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "PRÜF - Tausende bei Demos für AfD-Verbotsverfahren - Soziologe Knaus: \"Nur noch 3 Stimmen im Bundesrat fehlen\"",
-   "summary": "Unter anderem in Dresden haben Hunderte Menschen für die Prüfung eines AfD-Verbotsverfahrens demonstriert. Die Teilnehmer zogen durch die Altstadt, Start- und Endpunkt war der Theaterplatz.",
-   "link": "https://www.deutschlandfunk.de/tausende-bei-demos-fuer-afd-verbotsverfahren-soziologe-knaus-nur-noch-3-stimmen-im-bundesrat-fehlen-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Union - Seehofer attackiert Merz vor CDU-Führungsklausur: \"Diese pauschale Sprache geht völlig an der Realität vorbei\"",
-   "summary": "Der frühere CSU-Chef, bayerische Ministerpräsident und Bundesinnenminister Seehofer hat Bundeskanzler Merz vor der heutigen CDU‑ Führungsklausur schwere Vorwürfe wegen dessen Amtsführung gemacht. Dabei verurteilte er besonders Merz'…",
-   "link": "https://www.deutschlandfunk.de/seehofer-attackiert-merz-vor-cdu-fuehrungsklausur-diese-pauschale-sprache-geht-voellig-an-der-realit-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Sanktionen - BSW in Sachen-Anhalt will Diesel aus Russland importieren",
-   "summary": "Angesichts hoher Energiepreise hat sich das BSW in Sachsen-Anhalt erneut für Energie-Lieferungen aus Russland ausgesprochen.",
-   "link": "https://www.deutschlandfunk.de/bsw-in-sachen-anhalt-will-diesel-aus-russland-importieren-102.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Bundesregierung - SPD will Fraktionen und Länder vor Kabinettsbeschluss zur Rentenreform einbeziehen",
-   "summary": "Im Koalitionsstreit über die große Rentenreform will SPD-Fraktionschef Miersch vor einem Kabinettsbeschluss auch die Fraktionen und Ministerpräsidenten einbinden.",
-   "link": "https://www.deutschlandfunk.de/spd-will-fraktionen-und-laender-vor-kabinettsbeschluss-zur-rentenreform-einbeziehen-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Medienbericht - Deutsche-Bank-Chef Sewing lobt die Regierung für das Altersvorsorgedepot",
-   "summary": "Der Vorstandsvorsitzende der Deutschen Bank, Sewing, hat die Bundesregierung für die Einführung des Altersvorsorgedepots gelobt.",
-   "link": "https://www.deutschlandfunk.de/deutsche-bank-chef-sewing-lobt-die-regierung-fuer-das-altersvorsorgedepot-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Bevölkerung - Zu wenige Kinder in Sachsen-Anhalt: Kitas bauen Personal ab, Kündigungen drohen",
-   "summary": "Sinkende Kinderzahlen führen in Sachsen-Anhalt zu Personalabbau in Kitas.",
-   "link": "https://www.deutschlandfunk.de/zu-wenige-kinder-in-sachsen-anhalt-kitas-bauen-personal-ab-kuendigungen-drohen-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Ansprache zur Woche der Welthungerhilfe - Bundespräsident Steinmeier: Klimawandel setzt Gesellschaften unter Druck",
-   "summary": "Die Folgen des Klimawandels setzen nach den Worten von Bundespräsident Steinmeier Gesellschaften zunehmend unter Druck.",
-   "link": "https://www.deutschlandfunk.de/bundespraesident-steinmeier-klimawandel-setzt-gesellschaften-unter-druck-102.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "\"Kartellverdacht\" - Illegale Absprachen bei Berichterstattung über Trump? US-Regierung geht erneut gegen Medien vor",
-   "summary": "In den USA geht die Regierung einem Medienbericht zufolge erneut gegen Medien vor.",
-   "link": "https://www.deutschlandfunk.de/illegale-absprachen-bei-berichterstattung-ueber-trump-us-regierung-geht-erneut-gegen-medien-vor-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Indien - Gericht in Neu-Delhi ordnet Freilassung der Anführer der \"Kakerlaken\"-Bewegung an",
-   "summary": "Ein Gericht in Neu-Delhi hat die Freilassung der Anführer der indischen \"Kakerlaken\"-Bewegung angeordnet.",
-   "link": "https://www.deutschlandfunk.de/gericht-in-neu-delhi-ordnet-freilassung-der-anfuehrer-der-kakerlaken-bewegung-an-106.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Tennessee - Nach gescheiterter Hinrichtung: US-Todeskandidatin Christa Pike verlässt Krankenhaus",
-   "summary": "Im US-Bundesstaat Tennessee hat die verurteilte Mörderin Christa Pike rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen.",
-   "link": "https://www.deutschlandfunk.de/nach-gescheiterter-hinrichtung-us-todeskandidatin-christa-pike-verlaesst-krankenhaus-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Leitungsstörung - Großflächiger Stromausfall in Kuba",
-   "summary": "In Kuba ist erneut der Strom in weiten Teilen des Landes ausgefallen.",
-   "link": "https://www.deutschlandfunk.de/grossflaechiger-stromausfall-in-kuba-104.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Sachsen-Anhalt - CDU-Abgeordnete haben offenbar über ihre Landtagspräsidentenwahl gelogen",
-   "summary": "Mindestens drei CDU-Abgeordnete im Landtag von Sachsen-Anhalt haben einem Medienbericht zufolge die Unwahrheit über ihr Abstimmungsverhalten bei der Wahl von AfD-Landtagspräsident Rausch gesagt.",
-   "link": "https://www.deutschlandfunk.de/cdu-abgeordnete-haben-offenbar-ueber-ihre-landtagspraesidentenwahl-gelogen-110.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Revanchismus - Großdeutsche Fantasien eines AfD-Jugend-Vorstands lösen Besorgnis in Nachbarländern aus",
-   "summary": "Revanchistische Signale aus der AfD sorgen für Diskussionen in den Medien einiger unserer Nachbarländer.",
-   "link": "https://www.deutschlandfunk.de/grossdeutsche-fantasien-eines-afd-jugend-vorstands-loesen-besorgnis-in-nachbarlaendern-aus-112.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Golf von Oman - US-Militär attackiert Frachtschiff nach Verlassen eines iranischen Hafens - Tanker in Straße von Hormus attackiert",
-   "summary": "Das US-amerikanische Militär hat eigenen Angaben zufolge erneut ein ziviles Frachtschiff nach Verlassen eines iranischen Hafens angegriffen.",
-   "link": "https://www.deutschlandfunk.de/us-militaer-attackiert-frachtschiff-nach-verlassen-eines-iranischen-hafens-tanker-in-strasse-von-hor-100.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Nach Trump-Attacke - Ukrainische Regierung stützt Selenskyj",
-   "summary": "Die ukrainische Regierung hat die Forderung von US-Präsident Trump nach der Wahl eines neuen Präsidenten zurückgewiesen.",
-   "link": "https://www.deutschlandfunk.de/ukrainische-regierung-stuetzt-selenskyj-106.html",
-   "published": "2026-10-11T09:32:26+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Nach Verlusten: CDU-Führung sucht Ausweg aus der Krise",
-   "summary": "Die CDU steckt in einer der schwersten Krisen ihrer Geschichte. Nun sucht das Parteipräsidium in einer Klausurtagung nach Lösungen. Auch für den Bundeskanzler eine Herausforderung.",
-   "link": "https://www.zdfheute.de/politik/deutschland/cdu-fuehrung-konsequenzen-wahl-debakel-100.html",
-   "published": "2026-10-11T09:28:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Wirtschaftswissenschaften: Das sind die Favoriten für den Wirtschaftsnobelpreis der Ökonomen",
-   "summary": "Am Montag wird der Ökonomie-Nobelpreis verkündet. Die WirtschaftsWoche hat sich umgehört, wer die Auszeichnung verdient hätte – und ungewöhnliche Vorschläge erhalten.",
-   "link": "https://www.wiwo.de/politik/konjunktur/wirtschaftsnobelpreis-2026-das-sind-die-favoriten-fuer-den-wirtschaftsnobelpreis-der-oekonomen/100258186.html",
-   "published": "2026-10-11T09:25:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI",
-   "summary": "Tesla benennt nach Kritik Assistenzsystem in Europa um +++ Bahn saniert bis 2031 deutlich weniger wichtige Strecken +++ Alle 19 Minuten geht eine Firma pleite +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bericht-nvidia-prueft-kauf-von-ki-startup-reflection-ai-faz-200452404.html",
-   "published": "2026-10-11T09:22:28+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "US-Militär attackiert erneut Schiff nach Verlassen des Irans",
-   "summary": "Das US-Militär hat nach eigenen Angaben ein ziviles Frachtschiff nach Verlassen eines iranischen Hafens attackiert. Die Besatzung des Schiffs sei dabei nicht zu Schaden gekommen.",
-   "link": "https://www.zdfheute.de/politik/ausland/us-militaer-angriff-ziviles-frachtschiff-iran-100.html",
-   "published": "2026-10-11T09:22:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Zeichen setzen gegen die AfD: Protest von unten ist das Gebot der Stunde",
-   "summary": "Was macht man, wenn Höcke und Co. anreisen? Protest hat viele Facetten, vom Grundgesetz in der Hand als leiser Geste bis zur lautstarken Demo. mehr...",
-   "link": "https://taz.de/Zeichen-setzen-gegen-die-AfD/!6216566/",
-   "published": "2026-10-11T09:05:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Preis für Wirtschaftswissenschaften: So gewinnen Sie den Nobelpreis",
-   "summary": "Am Montag wird der Nobelgedächtnispreis für Wirtschaftswissenschaften verliehen. Die F.A.S.-Datenanalyse enthüllt, wie Sie Ihre Chancen maximieren.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/preis-fuer-wirtschaftswissenschaften-so-gewinnen-sie-den-nobelpreis-accg-201302204.html",
-   "published": "2026-10-11T08:59:01+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Chemiestandort Deutschland: Evoniks Kauf durch BASF kann eine Chance sein",
-   "summary": "Eine Übernahme von Evonik durch BASF würde Arbeitsplätze kosten. Sie kann aber auch den Chemiestandort Deutschland stärken. Wichtig ist, dass sich die Politik heraushält.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/basf-evonik-rag-stiftung-nrw-spd-li.3561070",
-   "published": "2026-10-11T08:57:06+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Frankreich: Superstars bringen super Einnahmen",
-   "summary": "Was haben Céline Dion und Papst Leo gemeinsam? Sie lassen die Kassen in Frankreich klingeln. Ein Segen für Kirche und Staat.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-celine-dion-papst-leo-xiv-wirtschaft-katholische-kirche-li.3559073",
-   "published": "2026-10-11T08:46:25+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Tischtenniselite im Reisefieber: Der Kalender ist voll",
-   "summary": "Am Sonntagmittag geht in Peking das China Smash zu Ende. Zeitgleich beginnt in Ljubljana die Europameisterschaft. mehr...",
-   "link": "https://taz.de/Tischtenniselite-im-Reisefieber/!6220523/",
-   "published": "2026-10-11T08:40:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Nachfolgersuche: Wie zwei Unternehmer Traditionsbetriebe neu beleben",
-   "summary": "Jan Heipcke und Philipp Schäfer übernehmen ­Manufakturen und Mittelständler, deren Inhaber ans Aufgeben denken. Und erwecken sie zu neuem Leben. Eine Erfolgsserie.",
-   "link": "https://www.wiwo.de/unternehmen/mittelstand/unternehmensnachfolge-im-mittelstand-wie-zwei-retter-firmen-sanieren/100256516.html",
-   "published": "2026-10-11T08:40:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Gesundheitskosten: Vorbeugen ist besser als behandeln",
-   "summary": "Fettleber, Reflux, Diabetes: Die Deutschen essen sich krank. Ein Hamburger Arzt, der alle zwei, drei Wochen Krebs findet, erklärt die einfachste Rechnung der Medizin – an die sich niemand hält.",
-   "link": "https://www.spiegel.de/wirtschaft/vorbeugen-ist-besser-als-behandeln-a-9303adbd-dca3-4c95-8950-a82314efd826#ref=rss",
-   "published": "2026-10-11T08:33:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Scientology - Macht, Missbrauch, Manipulation",
-   "summary": "Scientology verspricht eine bessere Welt. Doch Aussteiger berichten von Kontrolle, Zwang und Isolation. Die Doku zeigt die Strukturen hinter der umstrittenen Organisation.",
-   "link": "https://www.zdf.de/video/dokus/zdf-info-100/zdfinfo-scientology-macht-missbrauch-manipulation-100",
-   "published": "2026-10-11T08:30:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Machtkampf mit China: Drohnen, Chips, Lieferketten: Taiwan wird zum Partner von Amerikas Rüstungsindustrie",
-   "summary": "US-Präsident Trump lässt offen, ob Washington die Insel Taiwan im Kriegsfall verteidigen würde. Doch zugleich wird die Kooperation bei Drohnen, Kampfjets und Verteidigungslieferketten immer enger.",
-   "link": "https://www.handelsblatt.com/politik/international/china-taiwan-wird-zum-partner-von-amerikas-ruestungsindustrie/100260994.html",
-   "published": "2026-10-11T08:28:34+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Wohnen: Was Studierende vor dem Einzug in die erste WG wissen sollten",
-   "summary": "Für junge Menschen bedeutet der Beginn des Studiums oft einen Umzug in eine neue Stadt. Weil die Mieten hoch sind, entscheiden sich viele für eine Wohngemeinschaft. Worauf sollten sie achten?",
-   "link": "https://www.sueddeutsche.de/wirtschaft/studierende-wg-wohngemeinschaft-mietvertrag-wohnen-li.3557633",
-   "published": "2026-10-11T08:28:21+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "WiWo-History: Was wurde eigentlich aus...?: So will die Traditionsmarke Loewe wieder erfolgreich werden",
-   "summary": "Zwei Insolvenzen brachten Loewe an den Rand des Aus. Wie Investor Aslan Khabliev die fränkische TV-Kultmarke heute wieder auf Erfolgskurs bringen will.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/was-wurde-aus-loewe-wie-die-tv-marke-nach-zwei-pleiten-plant/100246487.html",
-   "published": "2026-10-11T08:26:08+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Neue Pressesprecherin des Weißen Hauses: Nachfolge in schwierigen Zeiten",
-   "summary": "Katie Zacharia hat Erfahrung bei den rechten Sendern Fox News und Newsmax. Jetzt soll sie direkt im Weißen Haus für die Trump-Regierung sprechen. mehr...",
-   "link": "https://taz.de/Neue-Pressesprecherin-des-Weissen-Hauses/!6220525/",
-   "published": "2026-10-11T08:13:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Drohnenangriff legt \"Russlands Google\" lahm",
-   "summary": "Ein Drohnenangriff legt \"Russlands Google\" lahm: Bei Moskau wurde ein Yandex-Rechenzentrum beschädigt. Suche, Taxis und Lieferdienste sind gestört.",
-   "link": "https://www.zdfheute.de/politik/ausland/drohnenangriff-yandex-ukraine-krieg-russland-100.html",
-   "published": "2026-10-11T08:01:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Diesel-Deal mit Putin: Trumps Wut auf Selenskyj trifft den Falschen",
-   "summary": "Der US-Präsident hat sich wieder einmal verzockt, erkennt erst zu spät, dass sein Abkommen mit Moskau kaum taugt, und schlägt dann um sich. mehr...",
-   "link": "https://taz.de/Diesel-Deal-mit-Putin/!6220524/",
-   "published": "2026-10-11T07:57:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Nvidia prüft offenbar Kauf von KI-Start-up Reflection AI",
-   "summary": "Reflection AI, Entwickler von KI-Werkzeugen fürs Programmieren, hat die Aufmerksamkeit von Nvidia auf sich gezogen. Das Unternehmen erwägt einen Kauf.",
-   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-nvidia-prueft-offenbar-kauf-von-ki-start-up-reflection-ai/100261300.html",
-   "published": "2026-10-11T07:53:54+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Ukraine-Krieg: Ukrainische Regierung stützt Selenskyj nach Trump-Attacke",
-   "summary": "Trump fordert die Ablösung von Selenskyj. Der ukrainische Außenminister weist das Ansinnen zurück. Derweil beschießt Russland die Ukraine unvermindert weiter.",
-   "link": "https://www.wiwo.de/politik/ausland/ukraine-krieg-trump-fordert-abloesung-des-ukrainischen-praesidenten/100261244.html",
-   "published": "2026-10-11T07:50:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "+++ Nachrichten im Nahostkrieg +++: Tote und Verletzte bei Angriff auf Flughafen in Riad",
-   "summary": "Die jemenitische Huthi-Miliz hatte den Airport der saudi-arabischen Hauptstadt ‌schon mehrmals attackiert. Bei einem Luftschlag am Sonntagmorgen sind mindestens zwölf Menschen gestorben. mehr...",
-   "link": "https://taz.de/-Nachrichten-im-Nahost-Krieg-/!6220528/",
-   "published": "2026-10-11T07:48:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Bayern stärken Manuel Neuer: \"Trotzdem unsere Nummer eins\"",
-   "summary": "Nach seinem groben Fehler beim 2:2 in Augsburg bemühen sie sich beim FC Bayern, Neuer zu stützen. Zugleich steht die Frage im Raum, ob Urbig früher Stammtorwart werden sollte.",
-   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-muenchen-manuel-neuer-diskussionen-fc-augsburg-100.html",
-   "published": "2026-10-11T07:41:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
   }
  ]
 }
