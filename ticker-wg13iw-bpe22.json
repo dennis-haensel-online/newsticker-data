@@ -1,7 +1,34 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-14T14:11:52.662397+00:00",
+ "updated": "2026-10-14T19:03:54.265389+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Autobauer: Neues Modell, neuer Chef: So versucht Volkswagen in den USA den Neustart",
+   "summary": "Im Werk in Chattanooga beschwört Produktionsvorstand Vollmer die Bedeutung des US-Markts. Doch Absatz, Image und Zölle setzen VW unter Druck. Wie kann der Neustart gelingen? Ein Ortsbesuch.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-so-versucht-volkswagen-in-den-usa-den-neustart/100258799.html",
+   "published": "2026-10-14T17:16:46+00:00",
+   "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Dänemark verlängert Kontrollen an Grenze zu Deutschland",
+   "summary": "Die Behörden gehen von einer anhaltenden und aktuell ernsthaften Bedrohung für Dänemark aus. Den Schritt begründen sie auch mit den Vorfällen im spanischen Ceuta vor wenigen Monaten.",
+   "link": "https://www.handelsblatt.com/politik/international/migration-daenemark-verlaengert-kontrollen-an-grenze-zu-deutschland/100262312.html",
+   "published": "2026-10-14T16:34:11+00:00",
+   "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
+   "summary": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
+   "published": "2026-10-14T14:31:12+00:00",
+   "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Exporte: China erreicht beim Handelsüberschuss bald die Billionen-Dollar-Marke",
@@ -397,24 +424,6 @@
    "published": "2026-10-11T08:28:34+00:00",
    "first_seen": "2026-10-11T16:03:41.846153+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Nordostpassage: Südkoreanischer Frachter kehrt via Arktis aus Europa zurück",
-   "summary": "Einmal Ostasien-Europa und zurück, ohne Südchinesisches Meer und Suezkanal – der Klimawandel macht es möglich. Nun hat auch Südkorea die für den Welthandel interessante Nordostpassage erkundet.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nordostpassage-frachter-aus-suedkorea-auf-arktisroute-accg-201306794.html",
-   "published": "2026-10-11T05:28:54+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Rettet KI die deutsche Industrie?",
-   "summary": "In mehr als der Hälfte der deutschen Unternehmen ist KI bereits im Einsatz. Die Industrie hofft auf mehr Wettbewerbsfähigkeit, macht sich aber auch Sorgen um digitale Souveränität.",
-   "link": "https://www.zdfheute.de/politik/deutschland/ki-deutschland-kuenstliche-intelligenz-deutsche-wirtschaft-industrie-100.html",
-   "published": "2026-10-11T03:30:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
   }
  ]
 }

@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-14T14:11:52.662397+00:00",
+ "updated": "2026-10-14T19:03:54.265389+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Bundesregierung plant Social-Media-Verbot bis 13 Jahre",
+   "summary": "Die Regierung hat Eckpunkte beschlossen, mit denen Kinder und Jugendliche im Netz besser geschützt werden sollen. Sie plant auch, den Zugang zu Social Media erst ab 13 zu erlauben.",
+   "link": "https://www.zdfheute.de/politik/deutschland/kinderschutz-online-ki-social-media-verbot-regierung-100.html",
+   "published": "2026-10-14T18:47:00+00:00",
+   "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Sebastian Kurz: „Europa ist in drei zentralen Fragen falsch abgebogen“",
+   "summary": "Der österreichische Ex-Kanzler warnt die CDU: „Die Mitte wird von den Rändern überholt.“ Er verteidigt die Zusammenarbeit mit Rechtspopulisten – und skizziert die Gefahren der KI-Disruption.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/sebastian-kurz-warnt-cdu-die-mitte-wird-von-den-raendern-ueberholt/100259337.html",
+   "published": "2026-10-14T16:30:00+00:00",
+   "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Foodwatch-Chef: „Die Zuckersteuer soll die Rezepturen verändern“",
+   "summary": "Die Zuckersteuer sei ein Fortschritt für die Gesundheit, sagt Foodwatch-Chef Chris Methmann. Manchen Gegnern wirft er Desinformation vor. mehr...",
+   "link": "https://taz.de/Foodwatch-Chef-zu-Abgabe-auf-Getraenke/!6220840/",
+   "published": "2026-10-14T14:14:00+00:00",
+   "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": false
+  },
   {
    "label": "tagesschau",
    "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
@@ -873,33 +900,6 @@
    "link": "https://www.handelsblatt.com/meinung/kolumnen/geldanlage-warum-anleger-das-risiko-einer-ki-apokalypse-ignorieren-sollten/100260022.html",
    "published": "2026-10-11T12:57:10+00:00",
    "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Microsoft-Chef will „Notbremse“ bei Künstlicher Intelligenz",
-   "summary": "Nach Aufregung über Hacking-Attacken durch KI schlägt Microsoft-Chef Satya Nadella Regeln für die Technologie vor. Die Maßnahmen offenbaren, wie besorgt der Boss des Softwareriesen ist.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-microsoft-chef-will-notbremse-bei-kuenstlicher-intelligenz/100261340.html",
-   "published": "2026-10-11T11:32:07+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Microsoft-Chef will „Notbremse“ in Künstlicher Intelligenz",
-   "summary": "Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI +++ Tesla benennt nach Kritik Assistenzsystem in Europa um +++ Bahn saniert bis 2031 deutlich weniger wichtige Strecken +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-chef-will-notbremse-in-kuenstlicher-intelligenz-faz-200452404.html",
-   "published": "2026-10-11T11:24:07+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Buchmesse schließt knapp unter Vorjahreswerten",
-   "summary": "236.000 Besucher haben in diesem Jahr die Buchmesse besucht +++ Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI +++ Tesla benennt nach Kritik Assistenzsystem in Europa um +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-buchmesse-schliesst-knapp-unter-vorjahreswerten-faz-200452404.html",
-   "published": "2026-10-11T11:24:07+00:00",
-   "first_seen": "2026-10-12T06:47:00.350993+00:00",
    "paywall": true
   }
  ]
