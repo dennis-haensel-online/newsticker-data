@@ -1,7 +1,79 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-14T08:12:20.594657+00:00",
+ "updated": "2026-10-14T14:11:52.662397+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
+   "summary": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz? Von Anna Knake.",
+   "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
+   "published": "2026-10-14T14:04:50+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Forschung in Garching: So will Deutschland in der KI-Entwicklung führend sein",
+   "summary": "Das Fraunhofer-Institut für Kognitive Systeme hat das neue Gebäude am Forschungscampus Garching eröffnet. In prominenter Nachbarschaft.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/fraunhofer-iks-deutschland-will-bei-der-ki-entwicklung-fuehrend-sein-201316813.html",
+   "published": "2026-10-14T13:56:50+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
+   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-ki-ist-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
+   "published": "2026-10-14T13:17:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/karriere-so-reagieren-jobsuchende-auf-bewerbungsgespraeche-mit-einer-ki/100248546.html",
+   "published": "2026-10-14T13:07:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Arbeitsmarkt: „Es ist gerade nicht einfach für Berufsanfänger“",
+   "summary": "KI zerstört die Jobchancen junger Menschen, so heißt es. Stimmt das wirklich? Eine neue IAB-Studie zeigt: Bei anderen Beschäftigten ist die Gefahr viel größer.",
+   "link": "https://www.wiwo.de/erfolg/beruf/arbeitsmarkt-2026-warum-die-wirtschaftliche-lage-berufseinsteiger-mehr-trifft-als-ki/100261854.html",
+   "published": "2026-10-14T12:28:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Ältere Arbeitnehmer: Wie die Generation 50+ auf dem Arbeitsmarkt besteht",
+   "summary": "Viele Firmen streichen derzeit Stellen – und setzen stattdessen auf Künstliche Intelligenz. Können sich Menschen über 50 womöglich mit ihrer Erfahrung dagegen behaupten?",
+   "link": "https://www.wiwo.de/erfolg/jobsuche/jobsuche-wie-die-generation-50-auf-dem-arbeitsmarkt-besteht/100261036.html",
+   "published": "2026-10-14T12:16:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-technologie-wir-priorisieren-oder-schaetzen-nicht-was-ein-mensch-leistet/100223312.html",
+   "published": "2026-10-14T12:07:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "KI-generierter „Dreamcore“: Ablenkung in Pastell",
+   "summary": "Social Media ist voll von flauschigen Wolken, die durch eine pinke KI-Traumwelt schweben. Stellen sich TechBros so die Zukunft vor? mehr...",
+   "link": "https://taz.de/KI-generierte-Traumwelt/!6216573/",
+   "published": "2026-10-14T08:54:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "OpenAI-Mitarbeiter wegen versteckter Wanze festgenommen",
@@ -828,78 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-buchmesse-schliesst-knapp-unter-vorjahreswerten-faz-200452404.html",
    "published": "2026-10-11T11:24:07+00:00",
    "first_seen": "2026-10-12T06:47:00.350993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Sorgen: Microsoft-Chef will „Notbremse“ in Künstlicher Intelligenz",
-   "summary": "Nach Aufregung über Hacking-Attacken durch KI schlägt Microsoft-Chef Satya Nadella Regeln für die Technologie vor. Die Maßnahmen offenbaren, wie besorgt der Boss des Softwareriesen ist.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-sorgen-microsoft-chef-will-notbremse-in-kuenstlicher-intelligenz/100261338.html",
-   "published": "2026-10-11T11:04:30+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Sorgen: Microsoft-Chef will „Notbremse“ in Künstlicher Intelligenz",
-   "summary": "Nach Aufregung über Hacking-Attacken durch KI schlägt Microsoft-Chef Satya Nadella Regeln für die Technologie vor. Die Maßnahmen offenbaren, wie besorgt der Boss des Softwareriesen ist.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/ki-sorgen-microsoft-chef-will-notbremse-in-kuenstlicher-intelligenz/100261339.html",
-   "published": "2026-10-11T11:04:30+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "„Assisted Driving“: Tesla benennt Assistenzsystem in Europa um",
-   "summary": "Tesla spricht in Europa künftig von „Tesla Assisted Driving“. Damit reagiert der Elektroauto-Hersteller auf den Vorwurf, der bisherige Name verspreche autonomes Fahren.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/tesla-fahrassistenzsystem-europa-fsd-assisted-driving-elon-musk-autonomes-fahren-li.3561790",
-   "published": "2026-10-11T10:22:49+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Bericht: Nvidia prüft Kauf von KI-Startup Reflection AI",
-   "summary": "Tesla benennt nach Kritik Assistenzsystem in Europa um +++ Bahn saniert bis 2031 deutlich weniger wichtige Strecken +++ Alle 19 Minuten geht eine Firma pleite +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bericht-nvidia-prueft-kauf-von-ki-startup-reflection-ai-faz-200452404.html",
-   "published": "2026-10-11T09:22:28+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Nvidia prüft offenbar Kauf von KI-Start-up Reflection AI",
-   "summary": "Reflection AI, Entwickler von KI-Werkzeugen fürs Programmieren, hat die Aufmerksamkeit von Nvidia auf sich gezogen. Das Unternehmen erwägt einen Kauf.",
-   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-nvidia-prueft-offenbar-kauf-von-ki-start-up-reflection-ai/100261300.html",
-   "published": "2026-10-11T07:53:54+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Rettet KI die deutsche Industrie?",
-   "summary": "In mehr als der Hälfte der deutschen Unternehmen ist KI bereits im Einsatz. Die Industrie hofft auf mehr Wettbewerbsfähigkeit, macht sich aber auch Sorgen um digitale Souveränität.",
-   "link": "https://www.zdfheute.de/politik/deutschland/ki-deutschland-kuenstliche-intelligenz-deutsche-wirtschaft-industrie-100.html",
-   "published": "2026-10-11T03:30:00+00:00",
-   "first_seen": "2026-10-11T09:40:01.283052+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Hackerangriffe: Das Dilemma der Digitalisierung",
-   "summary": "Die digitale Verwaltung soll dem Bürger das Leben leichter machen. Aber sie eröffnet Hackern auch die Chance, persönliche Informationen zu stehlen oder ganze Städte lahmzulegen. Das jüngste Beispiel: Dänemark.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hackerangriffe-auf-die-verwaltung-das-dilemma-mit-der-digitalisierung-201300619.html",
-   "published": "2026-10-10T17:23:03+00:00",
-   "first_seen": "2026-10-10T19:03:26.616882+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Google, Meta oder Tiktok: Wie Misstrauen die Sprache vergiftet",
-   "summary": "Ein Stolperstein in Kopenhagen führt zu Niels Bohr und einem verhängnisvollen Gespräch mit Werner Heisenberg. Es ist eine Warnung für unsere Gegenwart – und den Umgang mit Social Media.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/google-meta-oder-tiktok-wie-misstrauen-die-sprache-vergiftet-201296354.html",
-   "published": "2026-10-10T17:09:09+00:00",
-   "first_seen": "2026-10-10T19:03:26.616882+00:00",
    "paywall": true
   }
  ]

@@ -1,7 +1,43 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-10-14T08:12:20.594657+00:00",
+ "updated": "2026-10-14T14:11:52.662397+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen öffnen uneinheitlich – Inflation steigt stärker als erwartet",
+   "summary": "Ein durchwachsener Start der Bilanzsaison bewegt die Wall Street am Mittwoch. Derweil setzen die Iraner auf eine Taktikänderung in der Straße von Hormus, um den Ölpreis hoch zu halten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-oeffnen-uneinheitlich-inflation-steigt-staerker-als-erwartet/100262180.html",
+   "published": "2026-10-14T13:53:28+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Hoher Ölpreis: Der Energiekonzern BP will eine neue Strategie vorlegen",
+   "summary": "Der Öl- und Gaskonzern baut die Verschuldung schneller als geplant ab. Doch auf frühere „grüne“ Geschäfte gibt es weitere Milliardenabschreibungen. Die einst erhoffte Energiewende kommt teuer zu stehen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bp-legt-neue-strategie-vor-rekordgewinne-aber-milliarden-abschreibungen-201317335.html",
+   "published": "2026-10-14T13:44:10+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+   "summary": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
+   "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html",
+   "published": "2026-10-14T09:48:39+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Hausarrest statt Gefängnis für Unternehmer René Benko",
+   "summary": "René Benko darf das Gefängnis verlassen: Der Signa-Gründer kommt mit Fußfessel in den Hausarrest. Gegen den verurteilten Ex-Milliardär laufen weitere Betrugsverfahren.",
+   "link": "https://www.zdfheute.de/wirtschaft/rene-benko-fussfessel-statt-gefaengnis-signa-gruender-100.html",
+   "published": "2026-10-14T09:02:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
+   "paywall": false
+  },
   {
    "label": "SPIEGEL",
    "title": "René Benko darf mit Fußfessel nach Hause",
@@ -9,6 +45,15 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-darf-mit-fussfessel-nach-hause-a-8c42d937-fe94-4d78-8a8e-e19973dcf013#ref=rss",
    "published": "2026-10-14T08:05:00+00:00",
    "first_seen": "2026-10-14T08:12:20.594657+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "René Benko: Signa-Gründer darf mit Fußfessel nach Hause",
+   "summary": "Er ist wegen Betrugs verurteilt, einen großen Teil der Strafe hat er verbüßt: René Benko wechselt aus dem Gefängnis in den Hausarrest mit Fußfessel. Sein Verteidiger hatte den Antrag mit der Aussicht auf weitere Prozesse begründet.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/rene-benko-signa-gruender-darf-mit-fussfessel-nach-hause-a-8c42d937-fe94-4d78-8a8e-e19973dcf013#ref=rss",
+   "published": "2026-10-14T08:05:00+00:00",
+   "first_seen": "2026-10-14T14:11:52.662397+00:00",
    "paywall": false
   },
   {
@@ -216,24 +261,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/martin-blessing-als-cio-was-hat-er-fuer-deutschland-erreicht-201251249.html",
    "published": "2026-10-10T18:45:59+00:00",
    "first_seen": "2026-10-10T19:03:26.616882+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Die Trump-Bilanz: Hohe Kurse, hohe Preise",
-   "summary": "Zu Beginn seiner zweiten Amtszeit versprach Donald Trump den USA ein \"goldenes Zeitalter\". Die wirtschaftliche Bilanz kurz vor den Midterms: Was kostet uns der US-Präsident?",
-   "link": "https://www.zdfheute.de/wirtschaft/donald-trump-midterms-2026-usa-wirtschaft-bilanz-100.html",
-   "published": "2026-10-10T10:12:00+00:00",
-   "first_seen": "2026-10-10T14:54:49.417109+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Moritz Schularick: Drohen Insolvenzen großer Auto-Hersteller?",
-   "summary": "Der Ökonom Moritz Schularick warnt, der VW-Konzern könne binnen zwei Jahren pleitegehen. Chinesische Hersteller könnten in Wolfsburg produzieren – unter Bedingungen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/moritz-schularick-autobauer-china-deutschland-vw-wolfsburg",
-   "published": "2026-10-10T10:01:15+00:00",
-   "first_seen": "2026-10-10T14:54:49.417109+00:00",
    "paywall": true
   }
  ]
