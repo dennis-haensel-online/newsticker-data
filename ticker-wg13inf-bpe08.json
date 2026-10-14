@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-13T23:31:14.134026+00:00",
+ "updated": "2026-10-14T02:45:13.294338+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Asia Techonomics: Deepseek kann vieles – nur eine simple Frage übersteigt seine Fähigkeiten",
+   "summary": "Eine neue Studie zeigt, wie stark chinesische Modelle auf bestimmten KI-Plattformen genutzt werden. Die Zahlen machen aber auch sichtbar, wie neue Abhängigkeiten entstehen können.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/asia-techonomics-deepseek-kann-vieles-nur-eine-simple-frage-uebersteigt-seine-faehigkeiten/100261429.html",
+   "published": "2026-10-14T02:16:07+00:00",
+   "first_seen": "2026-10-14T02:45:13.294338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Künstliche Intelligenz verändert Bewerbungsverfahren im Job",
+   "summary": "Bewerber verfassen Bewerbungsunterlagen mit KI, Betriebe lassen die Maschine zumindest einen Teil der Vorauswahl machen. Das ändert die Kriterien.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-kuenstliche-intelligenz-veraendert-bewerbungsverfahren-im-job/100262062.html",
+   "published": "2026-10-14T02:00:31+00:00",
+   "first_seen": "2026-10-14T02:45:13.294338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Brisanter Fund: Wanze in OpenAI-Konferenzraum - Mitarbeiter festgenommen",
+   "summary": "In einem wichtigen Konferenzraum des ChatGPT-Entwicklers OpenAI wird ein Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/brisanter-fund-wanze-in-openai-konferenzraum-mitarbeiter-festgenommen/100262055.html",
+   "published": "2026-10-14T00:57:30+00:00",
+   "first_seen": "2026-10-14T02:45:13.294338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Spionagefall erschüttert OpenAI",
+   "summary": "Ein Mitarbeiter aus Saudi-Arabien soll eine Wanze in den Büros des ChatGPT-Entwicklers installiert und in Toilettenpapier versteckt haben. OpenAI hat ihn mithilfe von KI identifiziert – und das FBI hat ihn festgenommen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/spionagefall-bei-openai-fbi-nimmt-mitarbeiter-fest-201315487.html",
+   "published": "2026-10-13T23:38:44+00:00",
+   "first_seen": "2026-10-14T02:45:13.294338+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Konzern: FBI nimmt OpenAI-Mitarbeiter wegen versteckten Abhörgeräts fest",
@@ -9,6 +45,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-konzern-fbi-nimmt-openai-mitarbeiter-wegen-versteckten-abhoergeraets-fest/100262042.html",
    "published": "2026-10-13T22:17:43+00:00",
    "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Unternehmen: FBI nimmt OpenAI-Mitarbeiter wegen versteckten Abhörgeräts fest",
+   "summary": "Ein saudischer Staatsbürger soll eine Wanze angebracht haben. OpenAI habe mit Hilfe eigener KI-Modelle ermittelt, wo das Gerät herkam. Hinweise auf Datendiebstahl gebe es bisher jedoch nicht.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-unternehmen-fbi-nimmt-openai-mitarbeiter-wegen-versteckten-abhoergeraets-fest/100262042.html",
+   "published": "2026-10-13T22:17:43+00:00",
+   "first_seen": "2026-10-14T02:45:13.294338+00:00",
    "paywall": true
   },
   {
@@ -855,51 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/assisted-driving-tesla-benennt-nach-kritik-assistenzsystem-in-europa-um/100261197.html",
    "published": "2026-10-10T05:16:00+00:00",
    "first_seen": "2026-10-10T08:13:02.947696+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "„Assisted Driving“: Tesla benennt nach Kritik Assistenzsystem in Europa um",
-   "summary": "Der Name von Teslas neuem Assistenzsystem FSD wurde lange als irreführend kritisiert, weil er autonomes Fahren verspreche. Im Ringen um eine europaweite Zulassung lenkt Elon Musks Autobauer nun ein.",
-   "link": "https://www.wiwo.de/unternehmen/auto/assisted-driving-tesla-benennt-nach-kritik-assistenzsystem-in-europa-um/100261196.html",
-   "published": "2026-10-10T05:16:00+00:00",
-   "first_seen": "2026-10-10T08:13:02.947696+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein",
-   "summary": "Seit Wochen sorgen vor allem Eskapaden von KI des ChatGPT-Entwicklers OpenAI für Schlagzeilen. Doch auch Software des Rivalen Anthropic reichte echte Formulare auf Behörden-Websites ein.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-von-anthropic-reichte-fake-hinweis-auf-polizei-seite-ein/100261188.html",
-   "published": "2026-10-10T04:03:41+00:00",
-   "first_seen": "2026-10-10T08:13:02.947696+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: KI von Anthropic reichte Fake-Hinweis auf Polizei-Seite ein",
-   "summary": "Seit Wochen sorgen vor allem Eskapaden von KI des ChatGPT-Entwicklers OpenAI für Schlagzeilen. Doch auch Software des Rivalen Anthropic reichte echte Formulare auf Behörden-Websites ein.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-ki-von-anthropic-reichte-fake-hinweis-auf-polizei-seite-ein/100261190.html",
-   "published": "2026-10-10T04:03:41+00:00",
-   "first_seen": "2026-10-10T08:13:02.947696+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Börsen: Techwerte erholen sich nach neuer KI-Angst – Wall Street schließt im Plus",
-   "summary": "Ein erneuter Angriff der USA auf den Iran ist nicht abzusehen, was für Beruhigung am Ölmarkt sorgt. Ein Medienbericht beschwichtigt Anleger, die eine KI-Blase fürchten.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-techwerte-erholen-sich-nach-neuer-ki-angst-wall-street-schliesst-im-plus/100261037.html",
-   "published": "2026-10-09T20:11:45+00:00",
-   "first_seen": "2026-10-09T21:05:49.364602+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Börsen: Techwerte erholen sich nach neuer KI-Angst – Ölpreise geben etwas nach",
-   "summary": "Ein erneuter Angriff der USA auf den Iran ist nicht abzusehen, was für Beruhigung am Ölmarkt sorgt. Ein Medienbericht beschwichtigt Anleger, die eine KI-Blase fürchten.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-techwerte-erholen-sich-nach-neuer-ki-angst-oelpreise-geben-etwas-nach/100261037.html",
-   "published": "2026-10-09T18:17:04+00:00",
-   "first_seen": "2026-10-09T19:05:28.597392+00:00",
    "paywall": true
   }
  ]

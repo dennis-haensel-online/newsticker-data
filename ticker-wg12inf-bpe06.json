@@ -1,6 +1,6 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-13T23:31:14.134026+00:00",
+ "updated": "2026-10-14T02:45:13.294338+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-konzern-fbi-nimmt-openai-mitarbeiter-wegen-versteckten-abhoergeraets-fest/100262042.html",
    "published": "2026-10-13T22:17:43+00:00",
    "first_seen": "2026-10-13T23:31:14.134026+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Unternehmen: FBI nimmt OpenAI-Mitarbeiter wegen versteckten Abhörgeräts fest",
+   "summary": "Ein saudischer Staatsbürger soll eine Wanze angebracht haben. OpenAI habe mit Hilfe eigener KI-Modelle ermittelt, wo das Gerät herkam. Hinweise auf Datendiebstahl gebe es bisher jedoch nicht.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-unternehmen-fbi-nimmt-openai-mitarbeiter-wegen-versteckten-abhoergeraets-fest/100262042.html",
+   "published": "2026-10-13T22:17:43+00:00",
+   "first_seen": "2026-10-14T02:45:13.294338+00:00",
    "paywall": true
   },
   {
@@ -180,15 +189,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutscher-routerhersteller-fritz-fordert-verbot-chinesischer-geraete-201302438.html",
    "published": "2026-10-09T15:30:42+00:00",
    "first_seen": "2026-10-09T16:07:03.622938+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gigantisches Datenleck: Facebook-Mutter Meta muss je 100 Euro an zwei Nutzer zahlen",
-   "summary": "Der Facebook-Mutterkonzern Meta ist mit einer Vielzahl von Klagen konfrontiert. Drei Fälle hat das OLG München entschieden - finanziell Bagatellen, doch für den Konzern unerfreulich.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gigantisches-datenleck-facebook-mutter-meta-muss-je-100-euro-an-zwei-nutzer-zahlen/100261105.html",
-   "published": "2026-10-09T14:19:33+00:00",
-   "first_seen": "2026-10-09T15:07:02.932308+00:00",
    "paywall": true
   }
  ]
