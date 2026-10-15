@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-15T01:06:34.046544+00:00",
+ "updated": "2026-10-15T06:43:55.466725+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "KI-Chips: TSMC verzeichnet erneut einen deutlichen Gewinnsprung",
+   "summary": "Der taiwanesische Chipfertiger erzielt dank des KI-Booms den sechsten Rekordgewinn in Folge. Nun plant der TSMC weitere Milliardeninvestitionen.",
+   "link": "https://www.wiwo.de/unternehmen/it/tsmc-chiphersteller-erneut-mit-ueberraschend-deutlichem-gewinnsprung/100262413.html",
+   "published": "2026-10-15T06:28:17+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Chipindustrie: TSMC erneut mit überraschend deutlichem Gewinnsprung",
+   "summary": "Der taiwanesische Chiphersteller übertrifft mit seinem Ergebnis die Erwartungen. Das könnte auch ein Signal an die Börsen sein, an denen die Furcht vor einem Ende des KI-Booms wächst.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/chipindustrie-tsmc-erneut-mit-ueberraschend-deutlichem-gewinnsprung/100262091.html",
+   "published": "2026-10-15T06:04:46+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Börsen: Zukunftssorgen lassen Asiens Märkte absacken",
+   "summary": "Im Rennen um Innovationen und KI erleben Investoren in Asien schon länger ein Auf und Ab an den Märkten. Jüngst ließen Aussagen von Chefs großer Unternehmen wieder Sorgen aufkommen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/boersen-zukunftssorgen-lassen-asiens-maerkte-absacken/100262400.html",
+   "published": "2026-10-15T05:50:21+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Börsen zwischen KI-Euphorie und Inflationssorgen",
+   "summary": "Die Berichtssaison und neue Konjunkturdaten geben den Takt vor. Im Mittelpunkt steht die Chipbranche: Nach optimistischen Geschäftsaussichten von ASML richtet sich der Blick auf den taiwanischen Chipkonzern TSMC.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+   "published": "2026-10-15T05:45:57+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Arbeitsmarkt: „Es ist gerade nicht einfach für Berufsanfänger“",
+   "summary": "KI zerstört die Jobchancen junger Menschen, so heißt es. Stimmt das wirklich? Eine neue IAB-Studie zeigt: Bei anderen Beschäftigten ist die Gefahr viel größer.",
+   "link": "https://www.wiwo.de/erfolg/beruf/arbeitsmarkt-warum-die-wirtschaftliche-lage-berufseinsteiger-mehr-trifft-als-ki/100261854.html",
+   "published": "2026-10-15T05:26:00+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, Kospi, Topix: Sorge um KI und US-Inflation – Aktienkurse in Asien stürzen ab",
+   "summary": "Gute Bilanzergebnisse vertreiben die Sorgen der Anleger nicht mehr. Ein tiefer Vertrauensverlust treibt die Chipwerte in Südkorea und Japan weiter nach unten – und damit auch die Indizes.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/sorge-um-ki-und-us-inflationsdaten-asiens-aktienkurse-stuerzen-ab/100262358.html",
+   "published": "2026-10-15T03:34:52+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: USA erwägen Lockerung von Sanktionen gegen Schattenflotten-Tanker",
+   "summary": "Trump würde Informanten für Geheimnisverrat erschießen lassen +++ Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html",
+   "published": "2026-10-15T01:21:00+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Anthropic erzielt vor Börsengang 16,8 Milliarden Dollar Quartalsumsatz",
@@ -837,69 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/management/karriere-so-verschaffen-sich-fuehrungskraefte-mit-ki-kompetenzen-einen-vorsprung-01/100240522.html",
    "published": "2026-10-12T06:44:00+00:00",
    "first_seen": "2026-10-12T06:47:00.350993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Energiemanagement-System: Energie-Startup 1Komma5Grad steigert Bewertung auf 1,35 Mrd Dollar",
-   "summary": "70 Millionen Euro hat das Hamburger Start-up eingesammelt. 1Komma5Grad setzt auf KI-Steuerung und einen möglichen Markteintritt in den USA.",
-   "link": "https://www.wiwo.de/unternehmen/energie/energiemanagement-startup-1komma5grad-steigert-bewertung-auf-135-mrd-dollar/100261442.html",
-   "published": "2026-10-12T06:19:47+00:00",
-   "first_seen": "2026-10-12T06:47:00.350993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: BMW plant mit KI-basiertem Geschäftsmodell Milliardeneinsparungen",
-   "summary": "Der Münchener Autobauer will ab 2028 ein „KI-orchestriertes Unternehmen“ sein. Was das bedeutet, zeigt sich im Einkauf. Dort arbeiten künftig autonome Agenten.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-bmw-plant-mit-ki-basiertem-geschaeftsmodell-milliardeneinsparungen/100260010.html",
-   "published": "2026-10-12T05:21:00+00:00",
-   "first_seen": "2026-10-12T06:47:00.350993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "BDI fordert mehr Abwehrbereitschaft gegen russische Sabotage",
-   "summary": "Desinformation und Sabotage gehören zum versteckten Krieg Russlands gegen den Westen. Betroffen davon ist auch die Industrie. Der BDI fordert deshalb mehr Aufmerksamkeit.",
-   "link": "https://www.spiegel.de/wirtschaft/bdi-fordert-mehr-abwehrbereitschaft-gegen-russische-sabotage-a-68a8968c-3924-4375-8937-a8025e20fdf7#ref=rss",
-   "published": "2026-10-12T04:51:00+00:00",
-   "first_seen": "2026-10-12T06:47:00.350993+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Russland: BDI fordert mehr Abwehrbereitschaft gegen russische Sabotage",
-   "summary": "Desinformation und Sabotage gehören zum versteckten Krieg Russlands gegen den Westen. Betroffen davon ist auch die Industrie. Der BDI fordert deshalb mehr Aufmerksamkeit.",
-   "link": "https://www.spiegel.de/wirtschaft/russland-bdi-fordert-mehr-abwehrbereitschaft-gegen-russische-sabotage-a-68a8968c-3924-4375-8937-a8025e20fdf7#ref=rss",
-   "published": "2026-10-12T04:51:00+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: BMW plant mit KI-basiertem Geschäftsmodell Milliardeneinsparungen",
-   "summary": "Der Münchener Autobauer will ab 2028 ein „KI-orchestriertes Unternehmen“ sein. Was das bedeutet, zeigt sich im Einkauf. Dort arbeiten künftig autonome Agenten.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/kuenstliche-intelligenz-bmw-plant-mit-ki-basiertem-geschaeftsmodell-milliardeneinsparungen/100260010.html",
-   "published": "2026-10-11T16:00:06+00:00",
-   "first_seen": "2026-10-11T20:42:44.756810+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Angriffe auf Rechenzentren: Ukraine zertrümmert Russlands KI-Hoffnungen",
-   "summary": "Die Drohnenangriffe auf Yandex-Rechenzentren stören Cloud-Dienste und legen die KI-Infrastruktur lahm. Zielen die Luftschläge nicht nur auf Russland?",
-   "link": "https://www.wiwo.de/politik/ausland/angriffe-auf-russlands-rechenzentren-ukraine-zertruemmert-russlands-ki-hoffnungen/100261305.html",
-   "published": "2026-10-11T15:34:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Bücher: KI-Firmen kaufen deutsche Antiquariate leer",
-   "summary": "Sammler und Liebhaber finden in Antiquariaten jede Menge alter Bücher und Raritäten. In letzter Zeit gibt es allerdings eine signifikante Veränderung in der Kundschaft, wie der Verband Deutscher Antiquare feststellt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ki-firmen-kaufen-deutsche-antiquariate-leer-markus-brandis-accg-201307608.html",
-   "published": "2026-10-11T14:54:54+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
    "paywall": true
   }
  ]

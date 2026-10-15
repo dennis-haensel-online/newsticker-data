@@ -1,7 +1,16 @@
 {
  "id": "ik",
- "updated": "2026-10-15T01:06:34.046544+00:00",
+ "updated": "2026-10-15T06:43:55.466725+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
+   "link": "https://www.handelsblatt.com/politik/international/migration-warum-es-immer-mehr-deutsche-nach-polen-zieht/100249315.html",
+   "published": "2026-10-15T06:36:00+00:00",
+   "first_seen": "2026-10-15T06:43:55.466725+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Vor EU-Asyl-Gipfel - 38 Organisationen warnen vor Aussetzung des Asylrechts",
@@ -280,42 +289,6 @@
    "published": "2026-10-11T19:28:00+00:00",
    "first_seen": "2026-10-11T20:42:44.756810+00:00",
    "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Neue ZDF-Serie: Das Geisterhaus im Schwarzwald",
-   "summary": "Die Serie „House of Yang“ erzählt nicht nur von einem Spukhaus im Schwarzwald. Es geht zudem um verdrängte Traumata, Rassismus und Homophobie. mehr...",
-   "link": "https://taz.de/Neue-ZDF-Serie/!6220693/",
-   "published": "2026-10-11T15:50:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Mindestens 139 Flüchtlinge vor der Küste Dschibutis ertrunken",
-   "summary": "Am Horn Afrikas ereignet sich ein Schiffsunglück: Ein Schiff mit 305 geflüchteten Menschen an Bord kentert, mehr als 100 von ihnen sterben.",
-   "link": "https://www.zdfheute.de/politik/ausland/kueste-dschibuti-mehr-als-100-fluechtlinge-ertrunken-100.html",
-   "published": "2026-10-11T14:19:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Flüchtlingskatastrophe am Roten Meer: Mehr als 100 Flüchtlinge vor Dschibuti ertrunken",
-   "summary": "Ein Boot mit Menschen aus Äthiopien kentert auf dem Weg nach Jemen. Die Kriege in beiden Ländern eskalieren gleichzeitig, mit dramatischen Folgen. mehr...",
-   "link": "https://taz.de/Fluechtlingskatastrophe-am-Roten-Meer/!6220669/",
-   "published": "2026-10-11T12:36:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Häfen der Emirate: Sie bauen die Umgehungsstraße von Hormus",
-   "summary": "Die Vereinigten Arabischen Emirate beweisen: Die Globalisierung lebt – trotz-Iran-Krieg und dank eines Bau-Turbos. Am Hafen von Fudschaira sieht man, was das bedeutet.",
-   "link": "https://www.zeit.de/2026/44/vae-haefen-fudschaira-chor-fakkan-golf-von-oman-strasse-von-hormus",
-   "published": "2026-10-11T11:36:02+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": true
   }
  ]
 }
