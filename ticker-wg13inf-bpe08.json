@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-14T22:51:34.954029+00:00",
+ "updated": "2026-10-15T01:06:34.046544+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic erzielt vor Börsengang 16,8 Milliarden Dollar Quartalsumsatz",
+   "summary": "Medienberichten zufolge hat der Entwickler von Claude seinen Umsatz im dritten Quartal deutlich gesteigert und war bereinigt profitabel. Der IPO wird noch in diesem Jahr erwartet.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-anthropic-erzielt-vor-boersengang-168-milliarden-dollar-quartalsumsatz/100262343.html",
+   "published": "2026-10-15T00:02:14+00:00",
+   "first_seen": "2026-10-15T01:06:34.046544+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Roboter belästigt Minderjährige - wer ist verantwortlich?",
@@ -27,6 +36,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/sebastian-kurz-warnt-cdu-die-mitte-wird-von-den-raendern-ueberholt/100259337.html",
    "published": "2026-10-14T16:30:00+00:00",
    "first_seen": "2026-10-14T19:03:54.265389+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Trump würde Informanten für Geheimnisverrat erschießen lassen",
+   "summary": "Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl +++ Grönland widerspricht Trump: Keine massiven Öl-Erkundungen +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-wuerde-informanten-fuer-geheimnisverrat-erschiessen-lassen/29669594.html",
+   "published": "2026-10-14T15:30:00+00:00",
+   "first_seen": "2026-10-15T01:06:34.046544+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-10-11T14:54:54+00:00",
    "first_seen": "2026-10-11T16:03:41.846153+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Warnsystem gegen Deepfakes: Tom Cruise in der Teams-Schalte",
-   "summary": "Videokonferenzen sind in Unternehmen längst Alltag. Doch in Zeiten von KI und Deepfakes geraten sie zunehmend in den Fokus von Cyberkriminellen. Forschende haben nun ein Warnsystem entwickelt. Von Stefan Venator.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/fake-videokonferenzen-100.html",
-   "published": "2026-10-11T14:24:52+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Ausländerfeindliche Unruhen in Südafrika: Autos und Geschäfte angezündet",
-   "summary": "In Johannesburg und Durban kommt es zu Ausschreitungen bei Protesten gegen Zuwanderung. Fake News über ein Gerichtsurteil waren der Auslöser. mehr...",
-   "link": "https://taz.de/Auslaenderfeindliche-Unruhen-in-Suedafrika/!6220575/",
-   "published": "2026-10-11T14:06:00+00:00",
-   "first_seen": "2026-10-11T16:03:41.846153+00:00",
-   "paywall": false
   }
  ]
 }
