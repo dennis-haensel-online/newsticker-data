@@ -1,7 +1,88 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-15T06:43:55.466725+00:00",
+ "updated": "2026-10-15T12:18:06.388764+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Zeitung: OpenAI warnt Mitarbeiter vor Sexfallen",
+   "summary": "Sexfallen gehören zum traditionellen Arsenal von Geheimdiensten. Jetzt warnt die ChatGPT-Firma OpenAI ihre Beschäftigten, dass sie ins Visier geraten könnten.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-zeitung-openai-warnt-mitarbeiter-vor-sexfallen/100262542.html",
+   "published": "2026-10-15T11:13:49+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Ist das der Beginn der KI-Schuldenkrise?",
+   "summary": "Chipaktien brechen ein, derweil wachsen zudem am Anleihenmarkt die Zweifel am milliardenschweren KI‑Boom. Besonders ein Unternehmen gerät unter Druck.",
+   "link": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ist-das-der-beginn-der-ki-schuldenkrise/100262459.html",
+   "published": "2026-10-15T10:48:55+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Acht US-Bundesstaaten reichen Klage gegen OpenAI ein",
+   "summary": "Die Kläger verweisen unter anderem auf die Hacking-Attacke auf Hugging Face durch eine KI von OpenAI. Einige Bundesstaaten legen den Fokus auf den Jugendschutz.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-acht-us-bundesstaaten-reichen-klage-gegen-openai-ein/100262508.html",
+   "published": "2026-10-15T10:15:05+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: „Dann müssen wir die Show stoppen“: Microsoft-Präsident fordert Notbremse für die KI-Entwicklung",
+   "summary": "Die Macht der Modelle wächst schneller als menschliche Kontrolle, warnt Microsofts Vize-Verwaltungsratschef Smith. Im Interview erklärt er „das eigentliche Rennen“ für die deutsche Industrie.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-microsoft-praesident-fordert-notbremse-fuer-ki-entwicklung/100261081.html",
+   "published": "2026-10-15T10:00:59+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "In welchen Jobs Digitalisierung zu Stress führen kann",
+   "summary": "Zunehmende Digitalisierung kann die Gesundheit von Beschäftigten gefährden. Besonders stark von diesem Stress betroffen sind einer neuen Studie zufolge Menschen mit überwiegend körperlichen Tätigkeiten. Von Thomas Samboll.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
+   "published": "2026-10-15T09:47:14+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Anleihemarkt: Deutsche Anleihen steigen deutlich – Ausverkauf bei Tech-Werten stützt",
+   "summary": "Der Ausverkauf bei US-Technologiewerten stützt deutsche Staatsanleihen. Was US-Inflation, Zinsen und KI-Aktien damit zu tun haben.",
+   "link": "https://www.wiwo.de/finanzen/boerse/anleihemarkt-deutsche-anleihen-steigen-deutlich-ausverkauf-bei-tech-werten-stuetzt/100262483.html",
+   "published": "2026-10-15T09:36:03+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Börse: Sorge vor Ende des KI-Booms lässt Tech-Aktien fallen",
+   "summary": "In Asien brechen die Kurse ein, und auch in Deutschland stoßen Anleger Techaktien ab. Grund sind Sorgen vor höheren Zinsen, die wiederum den Boom in der KI-Branche bremsen könnten.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/boerse-sorge-vor-ende-des-ki-booms-laesst-tech-aktien-fallen-a-8a55358f-5fb2-4d4a-9eb4-35c66d843e82#ref=rss",
+   "published": "2026-10-15T08:27:00+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "KI-forscherin Zweig: „Platzt die Blase um die KI-Sprachmodelle, könnte ein neuer KI-Winter folgen“",
+   "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin. Im Interview spricht sie über tatsächliche Risiken der Künstlichen Intelligenz, die Verantwortung der Konzerne – und die Frage, wie wir über Sprachmodelle sprechen sollten.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/katharina-zweig-ueber-ki-open-ai-co-wir-lassen-eine-unsichere-software-auf-die-menschheit-los-accg-201317495.html",
+   "published": "2026-10-15T08:16:41+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Kontrollverlust: Die Deutschen fürchten KI-Waffen",
+   "summary": "Autonome Waffensysteme werden verstärkt in Kriegen eingesetzt. Wegen ihrer Risiken wünschen sich die Bundesbürger ein internationales Regelwerk.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-waffen-87-prozent-der-deutschen-fordern-internationalen-vertrag-accg-201317583.html",
+   "published": "2026-10-15T07:00:51+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "KI-Chips: TSMC verzeichnet erneut einen deutlichen Gewinnsprung",
@@ -252,6 +333,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lars-klingbeil-und-die-ki-steuer-warum-eine-ki-steuer-zur-k-o-steuer-mutieren-wuerde-201313625.html",
    "published": "2026-10-14T05:50:37+00:00",
    "first_seen": "2026-10-14T08:12:20.594657+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Wildberger-Vorstoß: Warum eine KI-Steuer zur K.-o.-Steuer mutieren würde",
+   "summary": "Neue Steuern auf Zucker, Plastik und Kryptopapiere sind schon geplant. Von einer Steuer auf Künstliche Intelligenz sollte die Regierung besser die Finger lassen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ki-steuer-in-deutschland-warum-experten-vor-einer-neuen-abgabe-warnen-201313625.html",
+   "published": "2026-10-14T05:50:37+00:00",
+   "first_seen": "2026-10-15T12:18:06.388764+00:00",
    "paywall": true
   },
   {
@@ -810,96 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/dsag-chef-henzler-was-sap-kunden-bei-ki-und-kosten-erwartet/100260771.html",
    "published": "2026-10-12T15:24:58+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Frankreich: Brände und verdorbene Lebensmittel – Cyberangriff auf französische Supermärkte",
-   "summary": "Bei einem Cyberangriff auf mehrere hundert französische Supermärkte sind Brände ausgebrochen und Lebensmittel zerstört worden. Die Staatsanwaltschaft ermittelt.",
-   "link": "https://www.wiwo.de/unternehmen/handel/frankreich-braende-und-verdorbene-lebensmittel-cyberangriff-auf-franzoesische-supermaerkte/100261651.html",
-   "published": "2026-10-12T15:18:20+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/karriere-wie-veraendert-ki-den-bewerbungsprozess-fuer-jobsuchende-01/100248546.html",
-   "published": "2026-10-12T14:51:00+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/ki-wenn-der-roboter-keinen-kopf-braucht-hat-er-keinen/100248242.html",
-   "published": "2026-10-12T14:45:00+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Diese Innovation bei BMW sollte sich die deutsche Wirtschaft abschauen",
-   "summary": "Ein KI-Agent soll schon im nächsten Jahr die Kosten um einen mittleren dreistelligen Millionenbetrag senken. Das ist erst der Anfang und könnte eine Blaupause für die gesamte Industrie sein.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-diese-innovation-bei-bmw-sollte-sich-die-deutsche-wirtschaft-abschauen/100261477.html",
-   "published": "2026-10-12T14:32:26+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-News aktuell: Experten warnen vor Kontrollverlust und fordern „KI-Notbremse“",
-   "summary": "Erneut warnen hochrangige KI-Experten vor den existenziellen Risiken der Technologie. Sie fordern mehr Regulierung und eine Notbremse für außer Kontrolle geratene Modelle.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-microsoft-chefs-fordern-eine-notbremse-fuer-ki-modelle/100245205.html",
-   "published": "2026-10-12T14:25:00+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Datenschutzbeauftragter: Kriminelle erbeuten Buchungsdaten - Was Urlauber tun können",
-   "summary": "Nach Cyberangriffen auf Buchungsdienstleister sind Daten von Gästen abgeflossen. Kriminelle nutzen die Informationen für täuschend echte Phishing-Nachrichten. Wann ist Misstrauen angesagt?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/datenschutzbeauftragter-kriminelle-erbeuten-buchungsdaten-was-urlauber-tun-koennen/100261627.html",
-   "published": "2026-10-12T13:34:19+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "IT-Ethik-Professorin über KI: „Was die Leute wollen, ist nicht das, was ihnen guttut“",
-   "summary": "Wie gefährlich ist künstliche Intelligenz wirklich? Und wie könnte sie sicherer werden? Die IT-Ethikprofessorin Judith Simon gibt Antworten. mehr...",
-   "link": "https://taz.de/Wie-gefaehrlich-ist-KI-wirklich-Laesst-sich-etwas-gegen-die-Gefahren-tun-Eine-Ethikprofessorin-gibt-Antworten/!6216522/",
-   "published": "2026-10-12T11:20:00+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Künstliche Intelligenz in der Wirtschaft: Kann KI uns wirklich fünf Prozent Wachstum bringen?",
-   "summary": "Oft heißt es, Deutschlands Industrie verfüge über einen einzigartigen Datenschatz, der die Wirtschaft dank KI beflügeln könnte. Aber viele Firmen sind zögerlich.",
-   "link": "https://www.zeit.de/2026-10/ki-wirtschaft-wachstum-deutschland-industrie-viacheslav-gromov-aitad",
-   "published": "2026-10-12T10:35:00+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Microsoft-Präsident Smith: Milch wird strenger kontrolliert als KI",
-   "summary": "Absatzschwund bei Volkswagen beschleunigt sich +++ Der schwächste Markt war im dritten Quartal erneut China +++ 236.000 Besucher haben in diesem Jahr die Buchmesse besucht +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-praesident-smith-milch-wird-strenger-kontrolliert-als-ki-faz-200452404.html",
-   "published": "2026-10-12T10:24:46+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-so-verschaffen-sich-fuehrungskraefte-mit-ki-kompetenzen-einen-vorsprung-01/100240522.html",
-   "published": "2026-10-12T06:44:00+00:00",
-   "first_seen": "2026-10-12T06:47:00.350993+00:00",
    "paywall": true
   }
  ]
