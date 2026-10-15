@@ -1,7 +1,205 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-15T12:18:06.388764+00:00",
+ "updated": "2026-10-15T17:30:08.855060+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
+   "summary": "Der Bundestag hat Neuerungen für Personalausweis und Pass auf den Weg gebracht.",
+   "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-100.html",
+   "published": "2026-10-15T17:27:50+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Wirtschaft - Bericht: Bundesregierung vor KI-Partnerschaft mit Nvidia",
+   "summary": "Die Bundesregierung will Medienberichten zufolge eine Partnerschaft mit ‌dem US-Chipkonzern Nvidia ⁠schließen, um ⁠den Einsatz von Künstlicher Intelligenz in der Industrie voranzutreiben.",
+   "link": "https://www.deutschlandfunk.de/bericht-bundesregierung-vor-ki-partnerschaft-mit-nvidia-100.html",
+   "published": "2026-10-15T17:27:50+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Technologie - KI-Assistenz soll Rettungsschwimmer dabei unterstützen, Ertrinkende zu erkennen",
+   "summary": "Künstliche Intelligenz soll Menschen vor dem Ertrinken retten - zumindest indirekt. Als Unterstützung für Rettungsschwimmer können Kameras ein Schwimmbecken überwachen und auffällige Bewegungsmuster erkennen. Also zum Beispiel, wenn jemand…",
+   "link": "https://www.deutschlandfunk.de/ki-assistenz-soll-rettungsschwimmer-dabei-unterstuetzen-ertrinkende-zu-erkennen-100.html",
+   "published": "2026-10-15T17:27:50+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Hoffnungsträger KI: KI kann armen Ländern helfen",
+   "summary": "Reiche Länder fürchten um Jobs und Steuereinnahmen wegen Künstlicher Intelligenz. Entwicklungsländer hingegen hoffen auf bessere Ernten, wirksamere Behörden und mehr Wohlstand.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/michael-kremer-wie-ki-entwicklungslaendern-helfen-kann-201339549.html",
+   "published": "2026-10-15T16:38:58+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: Nasdaq verliert durch Abverkauf von Chipwerten",
+   "summary": "Auch US-Anleger trauen den enormen Investitionen in KI nicht. Auf Konjunkturseite kommen gemischte Signale. Sicher scheint nun eines: ein weiterer Anstieg der Inflation.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-verliert-durch-abverkauf-von-chipwerten/100262544.html",
+   "published": "2026-10-15T16:36:24+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Chipkonzern: Bundesregierung plant offenbar KI-Partnerschaft mit Nvidia",
+   "summary": "Die Bundesregierung plant eine Partnerschaft mit Nvidia: Ein dreistelliger Millionenbetrag soll die Industrie-KI in Deutschland stärken.",
+   "link": "https://www.wiwo.de/politik/deutschland/bundesregierung-plant-ki-partnerschaft-mit-chipkonzern-nvidia/100262650.html",
+   "published": "2026-10-15T16:13:12+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: KI-Werte weiter unter Druck",
+   "summary": "Eine Verkaufswelle im KI-Sektor hat am Donnerstag Tech-Aktien einbrechen lassen. Der Cloud-Anbieter Coreweave etwa verlor sechs Prozent. Laut Markus Koch sorgen sich Anleger vor allem um schwache Umsätze im Verhältnis zu gigantischen…",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ki-werte-weiter-unter-druck/100262647.html",
+   "published": "2026-10-15T16:10:23+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Bund macht KI-Deal mit Nvidia | EU verspricht Ukraine mehr Unterstützung",
+   "summary": "EU-Korrespondent Jakob Hanke Vela berichtet vom Treffen der Staats- und Regierungschefs in Brüssel. Und: Worum es bei dem Millionen-Chipdeal zwischen Nvidia und der Bundesregierung geht.",
+   "link": "https://www.handelsblatt.com/audio/today/today-bund-macht-ki-deal-mit-nvidia-eu-verspricht-ukraine-mehr-unterstuetzung/100262644.html",
+   "published": "2026-10-15T15:43:56+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Verkaufswelle bei KI- und Chip-Aktien geht weiter",
+   "summary": "Die entscheidende Frage ist nicht mehr, ob die KI-Nachfrage stark ist, sondern ob der Kapitalmarkt bereit bleibt, den gewaltigen Ausbau weiter zu finanzieren.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-verkaufswelle-bei-ki-und-chip-aktien-geht-weiter/100262596.html",
+   "published": "2026-10-15T15:26:23+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Musterdepots – Dynamik-Depot: Geringe Marktbreite bietet Chancen bei einzelnen Aktien",
+   "summary": "Der Aktienmarkt wird nur noch von wenigen Schwergewichten getragen. Das ist aus Investorensicht interessant: Zahlreiche solide Geschäftsmodelle stehen derzeit im Schatten des KI-Booms.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepots-dynamik-depot-geringe-marktbreite-bietet-chancen-bei-einzelnen-aktien/100261073.html",
+   "published": "2026-10-15T15:21:52+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Mensch statt Roboter: Deutsche Bank wagt Neustart bei der digitalen Vermögensverwaltung",
+   "summary": "Das Institut setzt bei seinem neuen Angebot nicht auf den Algorithmus eines Robo-Advisors, sondern auf Anlagespezialisten. Was das für Kunden bedeutet.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geldanlage-deutsche-bank-wagt-neustart-bei-digitaler-vermoegensverwaltung/100262513.html",
+   "published": "2026-10-15T15:19:57+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Wir können die KI-Revolution nicht stoppen, aber wir können sie steuern",
+   "summary": "Politiker und Manager fordern einen Stopp für KI. Das Machtstreben und wirtschaftliche Interessen sprechen dagegen. Fortschritt und Sicherheit müssen jedoch kein Widerspruch sein.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-wir-koennen-die-ki-revolution-nicht-stoppen-aber-wir-koennen-sie-steuern/100261376.html",
+   "published": "2026-10-15T15:12:49+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deal soll erst nächste Woche öffentlich werden: Merz schließt KI-Kooperation mit Nvidia",
+   "summary": "Das Handelsblatt enthüllt eine Kooperation der Bundesregierung mit dem Chipkonzern Nvidia. Das Projekt soll KI in der Industrie fördern – und eine üppige staatliche Anschubfinanzierung erhalten.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-merz-schliesst-ki-pakt-mit-nvidia/100260948.html",
+   "published": "2026-10-15T14:38:05+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalisierung: Bundestag beschließt Neuerungen für Personalausweis und Pass",
+   "summary": "Ab Januar soll der Personalausweis auch auf dem Smartphone verfügbar sein. Zudem kommen bürokratische Erleichterungen für ältere Menschen und beim Wohnortwechsel.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/digitalisierung-bundestag-beschliesst-neuerungen-fuer-personalausweis-und-pass/100262593.html",
+   "published": "2026-10-15T14:22:53+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "GB: „Shaun das Schaf“ trifft auf KI",
+   "summary": "Die Aardman Studios feiern 50. Jubiläum. Ein neuer „Shaun das Schaf“-Film kommt ins Kino. Doch wie steht es im Zeitalter von KI um die Zukunft klassischer Animationstechniken?",
+   "link": "https://www.zdfheute.de/video/heute-in-europa/shaun-das-schaf-trifft-auf-ki-100.html",
+   "published": "2026-10-15T14:00:00+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Briefing: Was ist Software wert, wenn Kunden sie selbst schreiben?",
+   "summary": "Photoshop, Powerpoint und Xbox-Spiele: Kostenlose KI-Klone fordern etablierte Anbieter heraus. Der Markt ändert sich radikal. Microsoft hat darauf eine ungewöhnliche Antwort.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-was-ist-software-wert-wenn-kunden-sie-selbst-schreiben/100033813.html",
+   "published": "2026-10-15T14:00:00+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-fragen-zur-ki-kompetenz-entscheiden-ueber-top-positionen/100240522.html",
+   "published": "2026-10-15T13:59:00+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Aktien: Billionen-Konzerne verlieren mehr als 40 Prozent Kurswert: „KI-Korrektur“ erfasst Börsen weltweit",
+   "summary": "Eine neue Verkaufswelle lässt Tech-Aktien einbrechen. Die Umsätze mit KI liegen weit hinter den investierten Milliarden zurück. Zugleich streichen erste Unternehmen geplante Ausgaben.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/aktien-billionen-konzerne-verlieren-40-prozent-ki-korrektur-erfasst-boersen/100262410.html",
+   "published": "2026-10-15T13:49:45+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-kompetenz-wird-das-wettbewerbsmerkmal-der-zukunft-sein/100223312.html",
+   "published": "2026-10-15T13:37:00+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studiengaenge-trotz-ki-boom-gute-zukunftschancen-bieten/100235558.html",
+   "published": "2026-10-15T13:36:00+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Brad Smith zu KI-Sicherheit: »Im Zug kann man die Notbremse ziehen. Bei KI-Agenten am besten auch«",
+   "summary": "Microsoft-Vize Brad Smith plädiert dafür, dass Behörden KI-Modelle testen sollen, bevor sie überhaupt auf den Markt kommen. Kann er US-Präsident Trump davon überzeugen?",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/brad-smith-kuenstliche-intelligenz-sicherheit-regulierung-microsoft",
+   "published": "2026-10-15T12:58:25+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Recycling von Gerichtsshows mit KI: Frau Richterin, das war KI!",
+   "summary": "Was früher Wiederholung hieß, ist heute digitales Recycling. Privatsender wie RTL bauen nun alte Gerichtsshows mit KI neu zusammen – ist eben billiger. mehr...",
+   "link": "https://taz.de/Digitales-Recycling-Privatsender-wie-RTL-bauen-alte-Gerichtsshows-mit-KI-neu-zusammen/!6221514/",
+   "published": "2026-10-15T12:31:00+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Zeitung: OpenAI warnt Mitarbeiter vor Sexfallen",
@@ -18,6 +216,15 @@
    "link": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ist-das-der-beginn-der-ki-schuldenkrise/100262459.html",
    "published": "2026-10-15T10:48:55+00:00",
    "first_seen": "2026-10-15T12:18:06.388764+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Ist das der Beginn der KI-Schuldenkrise?",
+   "summary": "Chipaktien brechen ein, derweil wachsen zudem am Anleihenmarkt die Zweifel am milliardenschweren KI‑Boom. Besonders ein Unternehmen gerät unter Druck.",
+   "link": "https://www.wiwo.de/finanzen/boerse/chipaktien-brechen-ein-ist-das-der-beginn-der-ki-schuldenkrise/100262459.html",
+   "published": "2026-10-15T10:48:55+00:00",
+   "first_seen": "2026-10-15T17:30:08.855060+00:00",
    "paywall": true
   },
   {
@@ -693,213 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/industrie/ki-im-wissensmanagement-wie-ki-das-wissen-von-industrieunternehmen-sichert/100247981.html",
    "published": "2026-10-13T10:16:19+00:00",
    "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Qwen Glasses N1: Alibaba bringt neue KI-Brille für rund 400 Euro auf den Markt",
-   "summary": "Der chinesische Konzern stellt die neue Generation seiner Smartglasses vor. Die Brille zeigt, wie ambitioniert Alibaba mittlerweile ist, denn sie ist nicht günstiger als die Konkurrenz.",
-   "link": "https://www.handelsblatt.com/technik/ki/qwen-glasses-n1-alibaba-bringt-neue-ki-brille-fuer-rund-400-euro-auf-den-markt/100261853.html",
-   "published": "2026-10-13T09:54:29+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Kostenloser KI-Klon attackiert Photoshop",
-   "summary": "Obi-Chef wechselt an die Spitze von Kingfisher +++ Cyberangriff stört Kühlanlagen französischer Supermärkte +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-kostenloser-ki-klon-attackiert-photoshop-faz-200452404.html",
-   "published": "2026-10-13T09:50:00+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "KI und Arbeitsmarkt: Institut sieht keinen Stellenabbau durch künstliche Intelligenz",
-   "summary": "Laut einer Studie entwickelt sich der Arbeitsmarkt in Jobs mit hohem Potenzial für KI-Einsatz überdurchschnittlich gut. Die schwache Konjunktur schade Jobsuchenden mehr.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/ki-arbeitsmarkt-beschaeftigung-stellenabbau-iab-studie-deutschland-gxe",
-   "published": "2026-10-13T09:30:02+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Woher kommen die Steuern, wenn KI uns die Arbeit abnimmt?",
-   "summary": "Künstliche Intelligenz wird den Arbeitsmarkt verändern – und damit auch die Finanzierung des öffentlichen Sektors. Wer zahlt in Zukunft Steuern?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/kuenstliche-intelligenz-wer-zahlt-kuenftig-steuern-accg-201279256.html",
-   "published": "2026-10-13T08:28:55+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: Die nächste KI-Generation: Die Gefahr sind wir",
-   "summary": "Bill Gates warnt, der Missbrauch Künstlicher Intelligenz könne eine Milliarde Menschenleben fordern. Tatsächlich leisten KI-Agenten im Zusammenspiel Erstaunliches. Wir dürfen die Chancen nicht vergessen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/peter-buxmann-ueber-openai-anthropic-und-agenten-was-ki-teams-koennen-accg-201296697.html",
-   "published": "2026-10-13T08:15:02+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Frankreich: Hacker tauen Kühlschränke in Supermärkten ab",
-   "summary": "Der Schaden durch den Cyberangriff könnte Medienberichten zufolge mehrere Millionen Euro betragen. Viele Produkte mussten entsorgt werden. Nach Angaben der Staatsanwaltschaft sollen auch Brandausbrüche gemeldet worden sein.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/frankreich-cyberangriff-hacker-supermaerkte-kuehlschraenke-li.3562831",
-   "published": "2026-10-13T07:44:53+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Digitalminister: Wildberger will KI-Umsätze in Deutschland besteuern",
-   "summary": "Microsoft-Gründer Bill Gates fordert schon länger, Roboter und KI zu besteuern. Der deutsche Digitalminister hat ähnliche Vorstellungen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wildberger-will-ki-umsaetze-in-deutschland-besteuern-accg-201312507.html",
-   "published": "2026-10-13T06:07:04+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Künstliche Intelligenz: Karsten Wildberger will KI-Umsätze in Deutschland besteuern",
-   "summary": "Firmen verdienen mit künstlicher Intelligenz Milliarden. Bundesminister Karsten Wildberger fordert eine Abgabe auf die Wertschöpfung und hat auch eine Idee, wofür er das Geld ausgeben würde.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/digitalminister-karsten-wildberger-will-ki-umsaetze-in-deutschland-besteuern-a-a10bfd19-847f-4d49-b0ee-f32a5ea1a285#ref=rss",
-   "published": "2026-10-13T05:35:00+00:00",
-   "first_seen": "2026-10-13T12:20:32.437389+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "TikTok & Co.: Warum Medienkompetenz mehr bringt als Verbote",
-   "summary": "Zwischen Challenges, Likes und Algorithmen: Medienpädagogin Kristin Langer erklärt, warum Kompetenzen und klare Regeln für Kinder und Jugendliche wichtiger sein können als Verbote.",
-   "link": "https://www.zdfheute.de/ratgeber/tiktok-social-media-kinder-jugendliche-smartphone-medienkompetenz-100.html",
-   "published": "2026-10-13T04:11:00+00:00",
-   "first_seen": "2026-10-13T04:35:47.969183+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei und Kospi: Chip- und KI-Aktien in Asien verlieren deutlich – Anleger warten auf US-Bilanzen",
-   "summary": "In Asien fielen die Aktienmärkte in Japan und Südkorea am Dienstag stark. Auslöser waren Kursverluste von Halbleiteraktien in den USA und Sorgen über eine steigende US-Inflation.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/chip-und-ki-aktien-in-asien-stuerzen-ab-anleger-warten-auf-us-bilanzen/100261726.html",
-   "published": "2026-10-13T03:21:34+00:00",
-   "first_seen": "2026-10-13T04:35:47.969183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Anthropic dämmt heimliche KI-Kopien durch Konkurrenten ein",
-   "summary": "Anthropic hat den Zugriff auf geschützte Denkprozesse über Proxy-Netzwerke erschwert. Das Unternehmen hatte zuvor auch chinesische Start-ups des Abgreifens von Daten beschuldigt.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-daemmt-heimliche-ki-kopien-durch-konkurrenten-ein/100261710.html",
-   "published": "2026-10-13T02:06:11+00:00",
-   "first_seen": "2026-10-13T04:35:47.969183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IWF-Konjunkturprognose: Die Weltwirtschaft klafft auseinander – das sind die Gewinner und die Verlierer",
-   "summary": "Das globale Wirtschaftswachstum konzentriert sich auf immer weniger Länder. Das liegt vor allem am KI-Boom. Deutschland profitiert, Entwicklungsländer werden abgehängt.",
-   "link": "https://www.handelsblatt.com/politik/international/iwf-konjunkturprognose-die-weltwirtschaft-klafft-immer-weiter-auseinander/100261440.html",
-   "published": "2026-10-13T02:02:58+00:00",
-   "first_seen": "2026-10-13T04:35:47.969183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen",
-   "summary": "Ein Cyberangriff hat in der vergangenen Nacht die Kühlanlagen in hunderten französischen Supermärkten auf eine Temperatur von 50 Grad gestellt.",
-   "link": "https://www.deutschlandfunk.de/nach-cyberattacke-hunderte-supermaerkte-muessen-gefrierware-entsorgen-108.html",
-   "published": "2026-10-12T23:19:16+00:00",
-   "first_seen": "2026-10-12T23:22:27.959055+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Ranking 2026: Google holt OpenAI mit neuem KI-Modell „Argon“ ein",
-   "summary": "Der ChatGPT-Entwickler ringt üblicherweise mit Anthropic um den ersten Platz im KI-Rennen. Jetzt schließt Google mit der neusten Gemini-Version auf.",
-   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-die-besten-ki-modelle-im-aktuellen-ranking-2026/100222175.html",
-   "published": "2026-10-12T19:12:00+00:00",
-   "first_seen": "2026-10-12T23:22:27.959055+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bundeswehr: Pistorius sieht Fortschritte bei Digitalisierung des Heeres",
-   "summary": "Der neue Digitalfunk wird aktuell unter Gefechtsbedingungen getestet – mit überzeugenden Ergebnissen. Die Serienintegration der Funkgeräte liegt aber noch hinter dem Plan zurück.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundeswehr-pistorius-sieht-fortschritte-bei-der-digitalisierung-des-heeres/100261617.html",
-   "published": "2026-10-12T18:39:32+00:00",
-   "first_seen": "2026-10-12T23:22:27.959055+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Cyberangriff stört Kühlanlagen französischer Supermärkte",
-   "summary": "Microsoft-Präsident Smith: Milch wird strenger kontrolliert als KI +++ Absatzschwund bei Volkswagen beschleunigt sich +++ Der schwächste Markt war im dritten Quartal erneut China +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cyberangriff-stoert-kuehlanlagen-franzoesischer-handelsketten-faz-200452404.html",
-   "published": "2026-10-12T17:00:43+00:00",
-   "first_seen": "2026-10-12T23:22:27.959055+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Forschung: Läuft uns die künstliche Intelligenz davon?",
-   "summary": "Top-Forscher fürchten den Runaway: Die KI könnte sich rasend schnell selbst verbessern – ohne dass es jemand bemerkt.",
-   "link": "https://www.wiwo.de/technologie/forschung/intelligenzexplosion-warum-ki-forscher-einen-kontrollverlust-fuerchten/100258791.html",
-   "published": "2026-10-12T16:41:41+00:00",
-   "first_seen": "2026-10-12T23:22:27.959055+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "„Super Intelligenz“: Die Techelite unterwirft sich Trump",
-   "summary": "Der US-Präsident will den Begriff „Künstliche Intelligenz“ mit „Super Intelligenz“ ersetzen. Immer mehr Vertreter der Technologiebranche folgen seinem Wunsch.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/donald-trump-will-ki-in-super-intelligenz-umbenennen-201310393.html",
-   "published": "2026-10-12T16:40:39+00:00",
-   "first_seen": "2026-10-12T23:22:27.959055+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Frankreich - Nach Cyberattacke: Hunderte Supermärkte müssen Gefrierware entsorgen",
-   "summary": "Ein Cyberangriff hat in der vergangenen Nacht die Kühlanlagen in hunderten französischen Supermärkten auf eine Temperatur von 50 Grad gestellt.",
-   "link": "https://www.deutschlandfunk.de/nach-cyberattacke-hunderte-supermaerkte-muessen-gefrierware-entsorgen-102.html",
-   "published": "2026-10-12T16:11:37+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Köln - Sexuelle Belästigung? Polizei ermittelt in Köln nach Vorfall mit Roboter",
-   "summary": "In Köln ermittelt die Polizei nach einem Vorfall, bei dem eine 16-Jährige mit einem Roboter sexuell belästigt worden sein soll.",
-   "link": "https://www.deutschlandfunk.de/sexuelle-belaestigung-polizei-ermittelt-in-koeln-nach-vorfall-mit-roboter-100.html",
-   "published": "2026-10-12T16:11:37+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Köln: Roboter belästigt Mädchen",
-   "summary": "Ein Roboter hat ein 16-jähriges Mädchen sexuell belästigt. Die zwei jugendlichen Verdächtigen sollen die Tat gefilmt haben. Die Polizei ermittelt ob das Gerät gezielt gesteuert wurde.",
-   "link": "https://www.zdfheute.de/video/zdfheute-xpress/roboter-belaestigung-jugendliche-video-100.html",
-   "published": "2026-10-12T16:03:00+00:00",
-   "first_seen": "2026-10-12T23:22:27.959055+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Lebensmittel: Cyberangriff stört Kühlanlagen französischer Handelsketten",
-   "summary": "Eine Cyberattacke störte die Funktion von Kühlschränken mehrerer französischer Handelsketten. Lebensmittel müssen weggeworfen werden - der Schaden könnte immens sein. Die Staatsanwaltschaft ermittelt.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/lebensmittel-cyberangriff-stoert-kuehlanlagen-franzoesischer-handelsketten/100261643.html",
-   "published": "2026-10-12T15:32:00+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "DSAG-Chef Henzler: „Sobald die KI-Nutzung in die Breite geht, werden diese Fragen akut“",
-   "summary": "Thomas Henzler ist der neue Vorstandssprecher der Deutschsprachigen SAP‑Anwendergruppe. Im Interview spricht er über die Umstellung auf S/4Hana, KI für SAP-Kunden – und die KI-Kosten.",
-   "link": "https://www.wiwo.de/unternehmen/it/dsag-chef-henzler-was-sap-kunden-bei-ki-und-kosten-erwartet/100260771.html",
-   "published": "2026-10-12T15:24:58+00:00",
-   "first_seen": "2026-10-12T16:19:19.303037+00:00",
    "paywall": true
   }
  ]
