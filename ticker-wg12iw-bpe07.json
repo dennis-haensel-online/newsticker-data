@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-10-16T12:51:46.551109+00:00",
+ "updated": "2026-10-16T17:04:55.454318+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Menschenrechte in der Wirtschaft: Golfstaaten wollen Öko-Regeln verhindern",
+   "summary": "Nach einwöchigen Verhandlungen um ein globales Lieferkettengesetz bleiben Konflikte bestehen. Manchen Ländern geht es um Gerechtigkeit. Anderen um Öl. mehr...",
+   "link": "https://taz.de/Menschenrechte-in-der-Wirtschaft/!6221597/",
+   "published": "2026-10-16T16:19:00+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autobauer: Teils 650.000 Euro und vergünstigte Autos: Internes Dokument zeigt Details zum Abfindungspaket bei BMW",
+   "summary": "Der Autobauer will schnellstmöglich 8000 Beschäftigte loswerden und lockt mit „Turboprämie“ und „BMW-Rente“. Das Interesse ist groß. Der Konzern zahlt mitunter noch mehr als Mercedes und VW.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/bmw-internes-dokument-zeigt-details-zum-abfindungspaket/100262652.html",
+   "published": "2026-10-16T14:05:00+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Chemie: Übernahme von Evonik? Warum derzeit vieles gegen den BASF-Plan spricht",
+   "summary": "Das erste Angebot ist abgelehnt, der Zeitpunkt ungünstig, die Zugeständnisse teuer. BASF will wachsen, doch auf dem Weg zum europäischen Champion warten zahlreiche Hürden.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/evonik-uebernahme-warum-vieles-gegen-den-basf-plan-spricht/100262534.html",
+   "published": "2026-10-16T13:59:00+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+   "summary": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit Nvidia eingefädelt.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+   "published": "2026-10-16T13:13:40+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Holocaust-Gedenkstätte - Bundesländer wollen engere Zusammenarbeit mit Yad Vashem",
@@ -568,60 +604,6 @@
    "published": "2026-10-13T22:17:43+00:00",
    "first_seen": "2026-10-13T23:31:14.134026+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "BASF will Evonik: „Wir geben nicht Milliarden für ein Unternehmen aus, um wichtige Teile zu schlachten“",
-   "summary": "Der Evonik-Vorstand hatte das erste Angebot von BASF für eine Übernahme abgelehnt. Nun könnte Deutschlands größer Chemiekonzern sein Gebot erhöhen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-erhoeht-druck-auf-evonik-und-signalisiert-hoeheres-gebot-201313397.html",
-   "published": "2026-10-13T18:03:03+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Russland: Zwangsverwaltung westlicher Konzerne versetzt Manager in Sorge",
-   "summary": "Der Kreml nimmt immer mehr Firmen ins Visier: Nicht mal Metro war sicher, obwohl der Konzern Russland die Treue hielt. Manager haben Angst, von »Mafia-Methoden« ist die Rede. Wen trifft es als Nächstes?",
-   "link": "https://www.spiegel.de/wirtschaft/russland-zwangsverwaltung-westlicher-konzerne-versetzt-manager-in-sorge-a-0084ef27-c7b4-4614-bf02-0548203ee853#ref=rss",
-   "published": "2026-10-13T17:51:00+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Finanzdatenanbieter Octus",
-   "summary": "Die London Stock Exchange Group verhandelt über die Übernahme von Octus für 3,5 Milliarden Dollar. Anleger reagieren skeptisch, die Aktie fällt.",
-   "link": "https://www.wiwo.de/finanzen/boerse/lseg-verhandelt-ueber-octus-uebernahme/100262013.html",
-   "published": "2026-10-13T17:32:06+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Klon: Droht dem 25-Milliarden-Konzern Gefahr?",
-   "summary": "Künstliche Intelligenz kann nicht nur Bücher und Filme erstellen. Sie kann auch Software entwickeln – so gut, dass sie damit etablierte Anbieter wie Adobe heftig in die Bredouille bringt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-klon-von-adobe-photoshop-droht-dem-25-milliarden-konzern-gefahr-201313795.html",
-   "published": "2026-10-13T16:59:28+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Octus",
-   "summary": "Die London Stock Exchange Group will den US-Finanzdatenanbieter Octus für 3,5 Milliarden Dollar übernehmen. An der Börse kommen die Pläne schlecht an.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-lseg-verhandelt-ueber-milliarden-uebernahme-von-octus/100262001.html",
-   "published": "2026-10-13T16:56:39+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
-   "summary": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter? Ein Überblick.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
-   "published": "2026-10-13T14:33:25+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": false
   }
  ]
 }

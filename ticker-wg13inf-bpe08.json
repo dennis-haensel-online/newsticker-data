@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-16T12:51:46.551109+00:00",
+ "updated": "2026-10-16T17:04:55.454318+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen verlieren deutlich  – Ausverkauf bei KI-Aktien geht weiter",
+   "summary": "Am letzten Handelstag der Woche bewegt die US-Indizes eine Rede von Fed-Chef Warsh. An den Anleihemärkten gibt es Hinweise, dass der Ausverkauf von Staatsbonds vorerst vorbei sein könnte.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-verlieren-deutlich-ki-aktien-unter-druck/100262834.html",
+   "published": "2026-10-16T16:07:00+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Viele KI-Träume werden platzen – nur welche?",
+   "summary": "Die jüngste „Korrektur“ der KI-Aktien offenbart: KI schafft gigantische Werte. Doch die ökonomische Rechnung kann nicht für alle Beteiligten aufgehen.",
+   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ipo-platzt-der-traum-von-der-rekordbewertung-des-ki-konzerns/100262609.html",
+   "published": "2026-10-16T16:03:21+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: KI-Schwäche verbessert die Marktbreite",
+   "summary": "Tech-Aktien standen nach einer schwachen Woche auch am Freitag unter Druck. Der Dow Jones konnte hingegen leicht zulegen. Markus Koch erklärt, dass Anleger aufgrund der Schwäche im KI-Sektor wieder vermehrt auf die Standardwerte übergehen.",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ki-schwaeche-verbessert-die-marktbreite/100262885.html",
+   "published": "2026-10-16T15:47:41+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/ki-wie-viel-automatisierung-vertraegt-der-bewerbungsprozess/100248546.html",
+   "published": "2026-10-16T14:19:00+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+   "summary": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit Nvidia eingefädelt.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+   "published": "2026-10-16T13:13:40+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "KI-Wettrennen: China will Export von 23 KI-Technologien beschränken",
@@ -855,51 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lars-klingbeil-und-die-ki-steuer-warum-eine-ki-steuer-zur-k-o-steuer-mutieren-wuerde-201313625.html",
    "published": "2026-10-14T05:50:37+00:00",
    "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wildberger-Vorstoß: Warum eine KI-Steuer zur K.-o.-Steuer mutieren würde",
-   "summary": "Neue Steuern auf Zucker, Plastik und Kryptopapiere sind schon geplant. Von einer Steuer auf Künstliche Intelligenz sollte die Regierung besser die Finger lassen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ki-steuer-in-deutschland-warum-experten-vor-einer-neuen-abgabe-warnen-201313625.html",
-   "published": "2026-10-14T05:50:37+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Die Wahrheit: Nein, diese kleinen Schlingel!",
-   "summary": "Die künstliche Intelligenz ist in der Pubertät und zeigt „unerwartete Verhaltensweisen“. mehr...",
-   "link": "https://taz.de/Die-Wahrheit/!6221197/",
-   "published": "2026-10-14T05:17:00+00:00",
-   "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "ki richtig einsetzen: Digitale Transformation braucht eine stimmige Strategie",
-   "summary": "Deutsche Unternehmen investieren viel Geld in ihre Digitalisierung. Milliarden fließen in Künstliche Intelligenz. Strategiepapiere versprechen viel, aber dennoch bleibt der Erfolg oft aus. Oft liegt das am Management.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/digitale-transformation-warum-strategie-ueber-einzelprojekte-entscheidet-accg-201309985.html",
-   "published": "2026-10-14T04:50:00+00:00",
-   "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Asia Techonomics: Deepseek kann vieles – nur eine simple Frage übersteigt seine Fähigkeiten",
-   "summary": "Eine neue Studie zeigt, wie stark chinesische Modelle auf bestimmten KI-Plattformen genutzt werden. Die Zahlen machen aber auch sichtbar, wie neue Abhängigkeiten entstehen können.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/asia-techonomics-deepseek-kann-vieles-nur-eine-simple-frage-uebersteigt-seine-faehigkeiten/100261429.html",
-   "published": "2026-10-14T02:16:07+00:00",
-   "first_seen": "2026-10-14T02:45:13.294338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Künstliche Intelligenz verändert Bewerbungsverfahren im Job",
-   "summary": "Bewerber verfassen Bewerbungsunterlagen mit KI, Betriebe lassen die Maschine zumindest einen Teil der Vorauswahl machen. Das ändert die Kriterien.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-kuenstliche-intelligenz-veraendert-bewerbungsverfahren-im-job/100262062.html",
-   "published": "2026-10-14T02:00:31+00:00",
-   "first_seen": "2026-10-14T02:45:13.294338+00:00",
    "paywall": true
   }
  ]

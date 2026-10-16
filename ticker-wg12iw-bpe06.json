@@ -1,7 +1,52 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-16T12:51:46.551109+00:00",
+ "updated": "2026-10-16T17:04:55.454318+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Große Show bei Tesla | Anthropic-Investoren senken Bewertungsziele",
+   "summary": "Bei den Chipwerten bleibt die Unsicherheit an den Märkten hoch. Und Anthropic-Investoren zeigen sich mit Blick auf den geplanten Börsengang pessimistischer.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-grosse-show-bei-tesla-anthropic-investoren-senken-bewertungsziele/100262871.html",
+   "published": "2026-10-16T15:17:18+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nach Insolvenzantrag: Galeria startet Investorensuche",
+   "summary": "Erneut wird nach einem Käufer für Galeria Ausschau gehalten. Ein Handelsexperte sieht erheblichen Investitionsbedarf bei dem angeschlagenen Warenhausunternehmen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/nach-insolvenzantrag-galeria-startet-investorensuche/100262883.html",
+   "published": "2026-10-16T15:06:17+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Galeria-Insolvenz: Galeria startet Investorensuche",
+   "summary": "Galeria sucht erneut einen Käufer. Bei dem Warenhausunternehmen sieht ein Experte erheblichen Investitionsbedarf.",
+   "link": "https://www.wiwo.de/unternehmen/handel/nach-insolvenzantrag-galeria-startet-investorensuche/100262881.html",
+   "published": "2026-10-16T15:06:17+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start-ups: Die US-Dominanz brechen: Europa will 80 Milliarden Euro für seine Tech-Firmen mobilisieren",
+   "summary": "Zuletzt stammten 43 Prozent des Wagniskapitals für deutsche Start-ups aus den USA. Ein EU-Fonds soll gegensteuern – mit Geld von Bund, Europäischer Investitionsbank und privaten Instituten.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/start-ups-europa-will-80-milliarden-euro-fuer-tech-unternehmen-mobilisieren-01/100261480.html",
+   "published": "2026-10-16T14:54:00+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Chemie: Übernahme von Evonik? Warum derzeit vieles gegen den BASF-Plan spricht",
+   "summary": "Das erste Angebot ist abgelehnt, der Zeitpunkt ungünstig, die Zugeständnisse teuer. BASF will wachsen, doch auf dem Weg zum europäischen Champion warten zahlreiche Hürden.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/evonik-uebernahme-warum-vieles-gegen-den-basf-plan-spricht/100262534.html",
+   "published": "2026-10-16T13:59:00+00:00",
+   "first_seen": "2026-10-16T17:04:55.454318+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Bundesjustizministerium - Beschwerden über Insolvenzverwalter: Kein Klagerecht für Betroffene geplant",
@@ -405,60 +450,6 @@
    "link": "https://www.zdfheute.de/wirtschaft/humanoide-roboter-robotik-deutschland-china-100.html",
    "published": "2026-10-13T19:40:00+00:00",
    "first_seen": "2026-10-13T23:31:14.134026+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "BASF will Evonik: „Wir geben nicht Milliarden für ein Unternehmen aus, um wichtige Teile zu schlachten“",
-   "summary": "Der Evonik-Vorstand hatte das erste Angebot von BASF für eine Übernahme abgelehnt. Nun könnte Deutschlands größer Chemiekonzern sein Gebot erhöhen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-erhoeht-druck-auf-evonik-und-signalisiert-hoeheres-gebot-201313397.html",
-   "published": "2026-10-13T18:03:03+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Finanzdatenanbieter Octus",
-   "summary": "Die London Stock Exchange Group verhandelt über die Übernahme von Octus für 3,5 Milliarden Dollar. Anleger reagieren skeptisch, die Aktie fällt.",
-   "link": "https://www.wiwo.de/finanzen/boerse/lseg-verhandelt-ueber-octus-uebernahme/100262013.html",
-   "published": "2026-10-13T17:32:06+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Übernahme: LSEG verhandelt über Milliarden-Übernahme von Octus",
-   "summary": "Die London Stock Exchange Group will den US-Finanzdatenanbieter Octus für 3,5 Milliarden Dollar übernehmen. An der Börse kommen die Pläne schlecht an.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/uebernahme-lseg-verhandelt-ueber-milliarden-uebernahme-von-octus/100262001.html",
-   "published": "2026-10-13T16:56:39+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Einzelhandel: Der Weg ins Desaster – so wurden die Marken Kaufhof und Karstadt systematisch zerstört",
-   "summary": "Die einstige Erfolgsgeschichte von Karstadt und Kaufhof mündet unter dem Namen Galeria in der mittlerweile vierten Insolvenz. Es ist auch eine Geschichte unternehmerischer Verfehlungen.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-so-wurden-die-marken-karstadt-und-kaufhof-systematisch-zerstoert/100261482.html",
-   "published": "2026-10-13T16:23:39+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Quantencomputer: Wie Google auf den Pfad eines Münchner Quanten-Start-ups einschwenkt",
-   "summary": "Planqc baut vor den Toren Münchens eine neue Generation von Computern. Dabei nutzt es die Forschung des dortigen Max-Planck-Instituts. Der Vorstandschef erklärt, was es damit auf sich hat.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantencomputer-wie-google-dem-muenchner-start-up-planqc-folgt-201293096.html",
-   "published": "2026-10-13T15:02:54+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
-   "summary": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter? Ein Überblick.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
-   "published": "2026-10-13T14:33:25+00:00",
-   "first_seen": "2026-10-13T19:39:40.415076+00:00",
    "paywall": false
   }
  ]
