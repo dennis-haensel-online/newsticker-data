@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-17T11:51:21.625937+00:00",
+ "updated": "2026-10-17T14:40:05.220158+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Baden-Württemberg - Nach Cyberangriff auf Hochschulservicezentrum sind Noten- und Stundenpläne offline",
+   "summary": "Der Cyberangriff auf das Hochschulservicezentrum Baden-Württemberg, HSZ, hat erhebliche Auswirkungen für Studierende und Lehrkräfte.",
+   "link": "https://www.deutschlandfunk.de/nach-cyberangriff-auf-hochschulservicezentrum-sind-noten-und-stundenplaene-offline-100.html",
+   "published": "2026-10-17T14:31:14+00:00",
+   "first_seen": "2026-10-17T14:40:05.220158+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Essay: Die KI, die KI, die hat immer recht",
+   "summary": "Legal Tech verändert das Berufsbild des Anwalts. Die Sprachmaschinen steigern die Produktivität – und prämieren das Mittelmaß künstlicher Juristerei.",
+   "link": "https://www.wiwo.de/politik/deutschland/essay-die-ki-die-ki-die-hat-immer-recht/100262884.html",
+   "published": "2026-10-17T13:31:24+00:00",
+   "first_seen": "2026-10-17T14:40:05.220158+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Hype ums Hähnchen: Wer profitiert und wer die Folgen trägt",
@@ -874,33 +892,6 @@
    "published": "2026-10-14T08:54:00+00:00",
    "first_seen": "2026-10-14T14:11:52.662397+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "OpenAI-Mitarbeiter wegen versteckter Wanze festgenommen",
-   "summary": "Die US-Bundespolizei FBI hat nach Angaben des KI-Unternehmens OpenAI einen Mitarbeiter wegen eines versteckten Abhörgeräts in einem Büro festgenommen.",
-   "link": "https://www.zdfheute.de/wirtschaft/wanze-openai-konferenzraum-mitarbeiter-festnahme-100.html",
-   "published": "2026-10-14T07:25:00+00:00",
-   "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tech-Szene: 500.000 Dollar aufwärts im Jahr: Was junge Deutsche in San Francisco erwartet",
-   "summary": "Nie floss mehr Kapital ins Silicon Valley. Mittendrin: junge Deutsche, die Doktortitel oder Konzernkarriere aufgeben, um im KI-Boom reich zu werden. Dabei würden sie es sich anders wünschen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-darum-wird-san-francisco-zum-sehnsuchtsort-junger-deutscher-auswanderer/100260233.html",
-   "published": "2026-10-14T07:25:00+00:00",
-   "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Chipausrüster: ASML erhöht Kapazitätsprognose nach starkem dritten Quartal",
-   "summary": "Der KI-Boom beschert ASML höhere Umsätze und Gewinne. Der Chipausrüster prüft zusätzliche Kapazitäten für 2028.",
-   "link": "https://www.wiwo.de/unternehmen/it/asml-chipausruester-erhoeht-kapazitaetsprognose-nach-starkem-dritten-quartal/100262106.html",
-   "published": "2026-10-14T07:22:00+00:00",
-   "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": true
   }
  ]
 }
