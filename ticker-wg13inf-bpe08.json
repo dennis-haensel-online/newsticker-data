@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-17T07:19:23.960769+00:00",
+ "updated": "2026-10-17T11:51:21.625937+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Hype ums Hähnchen: Wer profitiert und wer die Folgen trägt",
+   "summary": "Chicken-Imbisse schießen aus dem Boden und werden auf Social Media gehypt. Der Geflügel-Konsum steigt stark an. Was das für Gastronomie, Verbraucher und Landwirtschaft bedeutet.",
+   "link": "https://www.zdfheute.de/wirtschaft/haehnchen-tiktok-chicken-imbiss-landwirtschaft-tierwohl-100.html",
+   "published": "2026-10-17T07:47:00+00:00",
+   "first_seen": "2026-10-17T11:51:21.625937+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Künstliche Intelligenz: Nobelpreisträger Daron Acemoglu warnt vor Gefahr für Demokratie",
+   "summary": "Lange war Deutschland immun gegen Jobabbau durch Automatisierung. Das ändere sich nun, warnt Wirtschaftsnobelpreisträger Daron Acemoğlu. Die Politik müsse mit Tabus brechen.",
+   "link": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-nobelpreistraeger-daron-acemoglu-warnt-vor-gefahr-fuer-demokratie-a-60b67427-f38e-42b4-90b2-b88583daa276#ref=rss",
+   "published": "2026-10-17T07:19:00+00:00",
+   "first_seen": "2026-10-17T11:51:21.625937+00:00",
+   "paywall": false
+  },
   {
    "label": "SZ",
    "title": "Daron Acemoğlu im Interview: „Trump ist der gefährlichste rechte Politiker von allen“",
@@ -881,24 +899,6 @@
    "summary": "Der KI-Boom beschert ASML höhere Umsätze und Gewinne. Der Chipausrüster prüft zusätzliche Kapazitäten für 2028.",
    "link": "https://www.wiwo.de/unternehmen/it/asml-chipausruester-erhoeht-kapazitaetsprognose-nach-starkem-dritten-quartal/100262106.html",
    "published": "2026-10-14T07:22:00+00:00",
-   "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: BMW plant mit KI-basiertem Geschäftsmodell Milliardeneinsparungen",
-   "summary": "Der Münchener Autobauer will ab 2028 ein „KI-orchestriertes Unternehmen“ sein. Was das bedeutet, zeigt sich im Einkauf. Dort arbeiten künftig autonome Agenten.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-bmw-will-mit-ki-basiertem-geschaeftsmodell-milliarden-einsparen-01/100260010.html",
-   "published": "2026-10-14T07:03:00+00:00",
-   "first_seen": "2026-10-14T08:12:20.594657+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Wanze in OpenAI-Konferenzraum – Mitarbeiter festgenommen",
-   "summary": "In einem wichtigen Konferenzraum des ChatGPT-Entwicklers OpenAI wird ein Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/brisanter-fund-wanze-in-openai-konferenzraum-mitarbeiter-festgenommen/100262056.html",
-   "published": "2026-10-14T06:42:00+00:00",
    "first_seen": "2026-10-14T08:12:20.594657+00:00",
    "paywall": true
   }
