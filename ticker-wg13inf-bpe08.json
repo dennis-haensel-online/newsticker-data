@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-18T07:33:26.653744+00:00",
+ "updated": "2026-10-18T12:17:16.654651+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Forschungsprojekt - Waldschäden sollen mit Hilfe von KI und Satellitenbildern besser erfasst werden",
+   "summary": "Waldschäden sollen durch Satellitenbilder und KI in Zukunft besser erfasst werden. Ein Forschungsteam erprobt dazu ein neues Verfahren in Hessen, das später auch bundesweit eingesetzt werden soll.",
+   "link": "https://www.deutschlandfunk.de/waldschaeden-sollen-mit-hilfe-von-ki-und-satellitenbildern-besser-erfasst-werden-100.html",
+   "published": "2026-10-18T12:03:03+00:00",
+   "first_seen": "2026-10-18T12:17:16.654651+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "China: Neue Meldepflichten für Technologietransfers bei KI und Solarzellen",
+   "summary": "KI-Agenten, Solarzellen, Gentherapien – die chinesische Führung will strengere Auflagen für den Export von 40 Schlüsseltechnologien. Das Handelsministerium verweist auf Sicherheitsrisiken.",
+   "link": "https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen-a-ae2f20b3-9c63-4fbd-88fe-0e1f33391c51#ref=rss",
+   "published": "2026-10-18T11:53:00+00:00",
+   "first_seen": "2026-10-18T12:17:16.654651+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Außenhandel: China plant neue Exportkontrollen für Schlüsseltechnologien",
+   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
+   "link": "https://www.wiwo.de/politik/ausland/aussenhandel-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien/100262841.html",
+   "published": "2026-10-18T10:01:00+00:00",
+   "first_seen": "2026-10-18T12:17:16.654651+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handel: China plant neue Exportkontrollen für Schlüsseltechnologien",
+   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
+   "link": "https://www.handelsblatt.com/politik/international/china-neue-exportkontrollen-fuer-schluesseltechnologien-geplant/100263058.html",
+   "published": "2026-10-18T09:23:51+00:00",
+   "first_seen": "2026-10-18T12:17:16.654651+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Außenhandel: China plant neue Exportkontrollen für Schlüsseltechnologien",
+   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien/100263059.html",
+   "published": "2026-10-18T08:39:16+00:00",
+   "first_seen": "2026-10-18T12:17:16.654651+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: China verdreifacht seine Dieselexporte",
@@ -828,42 +873,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/sebastian-kurz-warnt-cdu-die-mitte-wird-von-den-raendern-ueberholt/100259337.html",
    "published": "2026-10-14T16:30:00+00:00",
    "first_seen": "2026-10-14T19:03:54.265389+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: Trump würde Informanten für Geheimnisverrat erschießen lassen",
-   "summary": "Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl +++ Grönland widerspricht Trump: Keine massiven Öl-Erkundungen +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-trump-wuerde-informanten-fuer-geheimnisverrat-erschiessen-lassen/29669594.html",
-   "published": "2026-10-14T15:30:00+00:00",
-   "first_seen": "2026-10-15T01:06:34.046544+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Foodwatch-Chef: „Die Zuckersteuer soll die Rezepturen verändern“",
-   "summary": "Die Zuckersteuer sei ein Fortschritt für die Gesundheit, sagt Foodwatch-Chef Chris Methmann. Manchen Gegnern wirft er Desinformation vor. mehr...",
-   "link": "https://taz.de/Foodwatch-Chef-zu-Abgabe-auf-Getraenke/!6220840/",
-   "published": "2026-10-14T14:14:00+00:00",
-   "first_seen": "2026-10-14T19:03:54.265389+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
-   "summary": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz? Von Anna Knake.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
-   "published": "2026-10-14T14:04:50+00:00",
-   "first_seen": "2026-10-14T14:11:52.662397+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Forschung in Garching: So will Deutschland in der KI-Entwicklung führend sein",
-   "summary": "Das Fraunhofer-Institut für Kognitive Systeme hat das neue Gebäude am Forschungscampus Garching eröffnet. In prominenter Nachbarschaft.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/fraunhofer-iks-deutschland-will-bei-der-ki-entwicklung-fuehrend-sein-201316813.html",
-   "published": "2026-10-14T13:56:50+00:00",
-   "first_seen": "2026-10-14T14:11:52.662397+00:00",
    "paywall": true
   }
  ]
