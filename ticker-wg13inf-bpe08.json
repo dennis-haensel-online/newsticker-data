@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-18T02:10:34.117370+00:00",
+ "updated": "2026-10-18T07:33:26.653744+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: China verdreifacht seine Dieselexporte",
+   "summary": "Lagarde warnt vor höheren Anleiherenditen +++ Bundesregierung plant KI-Kooperation mit Nvidia +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-china-verdreifacht-seine-diesel-exporte-faz-200452404.html",
+   "published": "2026-10-18T07:21:27+00:00",
+   "first_seen": "2026-10-18T07:33:26.653744+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hackbacks im Cyberkrieg: Darf der Staat bald zurückhacken?",
+   "summary": "Der Angriff auf die Rechenzentren von Yandex zeigt, wie verwundbar digitale Infrastruktur ist. Könnten auch staatliche Cyberangriffe zur Waffe moderner Konflikte werden?",
+   "link": "https://www.zdfheute.de/wissen/cyberangriff-sicherheit-terrax-nano-dennis-kenji-kipker-kolumne-100.html",
+   "published": "2026-10-18T07:00:00+00:00",
+   "first_seen": "2026-10-18T07:33:26.653744+00:00",
+   "paywall": false
+  },
   {
    "label": "taz",
    "title": "KI im Alltag: Chatty, danke für die Hilfe, ab jetzt lieber ohne dich",
@@ -845,24 +863,6 @@
    "summary": "Das Fraunhofer-Institut für Kognitive Systeme hat das neue Gebäude am Forschungscampus Garching eröffnet. In prominenter Nachbarschaft.",
    "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/fraunhofer-iks-deutschland-will-bei-der-ki-entwicklung-fuehrend-sein-201316813.html",
    "published": "2026-10-14T13:56:50+00:00",
-   "first_seen": "2026-10-14T14:11:52.662397+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-ki-ist-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
-   "published": "2026-10-14T13:17:00+00:00",
-   "first_seen": "2026-10-14T14:11:52.662397+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/karriere-so-reagieren-jobsuchende-auf-bewerbungsgespraeche-mit-einer-ki/100248546.html",
-   "published": "2026-10-14T13:07:00+00:00",
    "first_seen": "2026-10-14T14:11:52.662397+00:00",
    "paywall": true
   }
