@@ -1,7 +1,97 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-19T05:29:44.513132+00:00",
+ "updated": "2026-10-19T11:35:33.559186+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-menschen-schaetzen-echte-menschliche-verbindung-noch-immer-sehr/100223312.html",
+   "published": "2026-10-19T11:05:00+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-wie-sie-im-ki-zeitalter-die-richtige-studienwahl-treffen/100235558.html",
+   "published": "2026-10-19T10:24:00+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Weniger Zeit am Smartphone: Grau in Grau: Dieser Digital-Detox-Trick überrascht",
+   "summary": "Social Media verschlingt kostbare Zeit nur so. Wären die Apps doch bloß nicht so attraktiv, mag sich da mancher denken. Ist da nichts zu machen - mehr als Mitteilungen und Bildschirmzeit einschränken?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/weniger-zeit-am-smartphone-grau-in-grau-dieser-digital-detox-trick-ueberrascht/100263258.html",
+   "published": "2026-10-19T10:14:40+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Forscher: „Selbst wenn Meta nachts Instagram abschaltet, soll niemand glauben, dass die Pisa-Leistungen explodieren“",
+   "summary": "Olaf Köller sieht starke Defizite im deutschen Bildungssystem. Als Hauptursache nennt er nicht Zuwanderung oder Social Media, sondern einen ganz anderen Punkt.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bildung-wir-brauchen-einen-unterricht-des-21.-jahrhunderts/100255718.html",
+   "published": "2026-10-19T09:54:00+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Roboterhersteller: Münchner Start-up Robco will in den USA wachsen",
+   "summary": "Robcos Geschäfte laufen hervorragend: In diesem Jahr wird sich der Umsatz verdreifachen. Das Unternehmen will zum führenden Anbieter von Robotern werden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/muenchner-start-up-robco-will-in-den-usa-wachsen-accg-201528680.html",
+   "published": "2026-10-19T09:52:02+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Start-ups: Vom Geldgeber zum Gründer: Warum Investoren die Seite wechseln",
+   "summary": "Immer mehr Risikokapitalgeber gründen selbst oder gehen zu Start-ups, berichten Branchenvertreter. Belastbare Zahlen dazu gibt es nicht. Aber Gründe, die auch mit KI zu tun haben.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/start-ups-warum-investoren-zunehmend-lieber-selbst-gruenden/100259008.html",
+   "published": "2026-10-19T09:47:34+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: Gesetze, Klagen, Steuervorteil – so streitet Amerika über Trinkgeld",
+   "summary": "Roboter-Barista erbitten Trinkgeld, New York zwingt Liefer-Apps zur Abfrage. Der freiwillige Dank wird in Amerika zur Machtfrage und beschäftigt Gerichte – mit Signalwirkung für Deutschland.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/trinkgeld-der-freiwillige-dank-wird-in-den-usa-zum-streitfall/100261411.html",
+   "published": "2026-10-19T09:15:00+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "IW-Studie: Fachkräftemangel bremst Infrastruktur-Projekte aus",
+   "summary": "Der Bund will massiv in Brücken, Netze und Digitalisierung investieren. Doch laut einer Studie des Instituts der deutschen Wirtschaft fehlen schon jetzt die Fachkräfte, um die Projekte umzusetzen.",
+   "link": "https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html",
+   "published": "2026-10-19T08:07:38+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Mein Wendepunkt: „Die Digitalisierung hatte Berlitz verschlafen. Die holen wir jetzt nach“",
+   "summary": "Als McKinsey-Partner war Till Großmaß für die Sanierung von Berlitz zuständig. Dann ­wechselte er die Seiten, wurde CEO – und brauchte plötzlich eine ganz neue Fähigkeit.",
+   "link": "https://www.wiwo.de/erfolg/management/mein-wendepunkt-vom-unternehmensberater-bei-mckinsey-zum-berlitz-chef/100262625.html",
+   "published": "2026-10-19T08:06:04+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Börsengang von Anthropic: Anthropic will fünf Prozent seiner Aktien in Gemeinwohlfonds stecken",
+   "summary": "Das KI-Unternehmen Anthropic plant derzeit einen der größten Börsengänge der Geschichte. Ein Teil der Anteile soll in einen Fonds für das Gemeinwohl gehen.",
+   "link": "https://www.zeit.de/digital/2026-10/anthropic-ki-public-benefit-fund-unternehmensanteile-gemeinwohl",
+   "published": "2026-10-19T05:59:38+00:00",
+   "first_seen": "2026-10-19T11:35:33.559186+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Börse am 19. Oktober: Fünf Punkte, die für Anleger heute wichtig sind",
@@ -757,123 +847,6 @@
    "published": "2026-10-15T12:31:00+00:00",
    "first_seen": "2026-10-15T17:30:08.855060+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Zeitung: OpenAI warnt Mitarbeiter vor Sexfallen",
-   "summary": "Sexfallen gehören zum traditionellen Arsenal von Geheimdiensten. Jetzt warnt die ChatGPT-Firma OpenAI ihre Beschäftigten, dass sie ins Visier geraten könnten.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-zeitung-openai-warnt-mitarbeiter-vor-sexfallen/100262542.html",
-   "published": "2026-10-15T11:13:49+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Ist das der Beginn der KI-Schuldenkrise?",
-   "summary": "Chipaktien brechen ein, derweil wachsen zudem am Anleihenmarkt die Zweifel am milliardenschweren KI‑Boom. Besonders ein Unternehmen gerät unter Druck.",
-   "link": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ist-das-der-beginn-der-ki-schuldenkrise/100262459.html",
-   "published": "2026-10-15T10:48:55+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Ist das der Beginn der KI-Schuldenkrise?",
-   "summary": "Chipaktien brechen ein, derweil wachsen zudem am Anleihenmarkt die Zweifel am milliardenschweren KI‑Boom. Besonders ein Unternehmen gerät unter Druck.",
-   "link": "https://www.wiwo.de/finanzen/boerse/chipaktien-brechen-ein-ist-das-der-beginn-der-ki-schuldenkrise/100262459.html",
-   "published": "2026-10-15T10:48:55+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Acht US-Bundesstaaten reichen Klage gegen OpenAI ein",
-   "summary": "Die Kläger verweisen unter anderem auf die Hacking-Attacke auf Hugging Face durch eine KI von OpenAI. Einige Bundesstaaten legen den Fokus auf den Jugendschutz.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-acht-us-bundesstaaten-reichen-klage-gegen-openai-ein/100262508.html",
-   "published": "2026-10-15T10:15:05+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: „Dann müssen wir die Show stoppen“: Microsoft-Präsident fordert Notbremse für die KI-Entwicklung",
-   "summary": "Die Macht der Modelle wächst schneller als menschliche Kontrolle, warnt Microsofts Vize-Verwaltungsratschef Smith. Im Interview erklärt er „das eigentliche Rennen“ für die deutsche Industrie.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-microsoft-praesident-fordert-notbremse-fuer-ki-entwicklung/100261081.html",
-   "published": "2026-10-15T10:00:59+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "In welchen Jobs Digitalisierung zu Stress führen kann",
-   "summary": "Zunehmende Digitalisierung kann die Gesundheit von Beschäftigten gefährden. Besonders stark von diesem Stress betroffen sind einer neuen Studie zufolge Menschen mit überwiegend körperlichen Tätigkeiten. Von Thomas Samboll.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/digitaler-stress-koerperliche-arbeit-100.html",
-   "published": "2026-10-15T09:47:14+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Anleihemarkt: Deutsche Anleihen steigen deutlich – Ausverkauf bei Tech-Werten stützt",
-   "summary": "Der Ausverkauf bei US-Technologiewerten stützt deutsche Staatsanleihen. Was US-Inflation, Zinsen und KI-Aktien damit zu tun haben.",
-   "link": "https://www.wiwo.de/finanzen/boerse/anleihemarkt-deutsche-anleihen-steigen-deutlich-ausverkauf-bei-tech-werten-stuetzt/100262483.html",
-   "published": "2026-10-15T09:36:03+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Börse: Sorge vor Ende des KI-Booms lässt Tech-Aktien fallen",
-   "summary": "In Asien brechen die Kurse ein, und auch in Deutschland stoßen Anleger Techaktien ab. Grund sind Sorgen vor höheren Zinsen, die wiederum den Boom in der KI-Branche bremsen könnten.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/boerse-sorge-vor-ende-des-ki-booms-laesst-tech-aktien-fallen-a-8a55358f-5fb2-4d4a-9eb4-35c66d843e82#ref=rss",
-   "published": "2026-10-15T08:27:00+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-forscherin Zweig: „Platzt die Blase um die KI-Sprachmodelle, könnte ein neuer KI-Winter folgen“",
-   "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin. Im Interview spricht sie über tatsächliche Risiken der Künstlichen Intelligenz, die Verantwortung der Konzerne – und die Frage, wie wir über Sprachmodelle sprechen sollten.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/katharina-zweig-ueber-ki-open-ai-co-wir-lassen-eine-unsichere-software-auf-die-menschheit-los-accg-201317495.html",
-   "published": "2026-10-15T08:16:41+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-forscherin Zweig: „Die Software ist nicht sicher, und das wissen die KI-Anbieter“",
-   "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin. Im Interview spricht sie über tatsächliche Risiken der Künstlichen Intelligenz, die Verantwortung der Konzerne – und die Frage, wie wir über Sprachmodelle sprechen sollten.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscherin-katharina-zweig-warnt-vor-risiken-von-chatgpt-und-co-accg-201317495.html",
-   "published": "2026-10-15T08:16:41+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Kontrollverlust: Die Deutschen fürchten KI-Waffen",
-   "summary": "Autonome Waffensysteme werden verstärkt in Kriegen eingesetzt. Wegen ihrer Risiken wünschen sich die Bundesbürger ein internationales Regelwerk.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-waffen-87-prozent-der-deutschen-fordern-internationalen-vertrag-accg-201317583.html",
-   "published": "2026-10-15T07:00:51+00:00",
-   "first_seen": "2026-10-15T12:18:06.388764+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Chips: TSMC verzeichnet erneut einen deutlichen Gewinnsprung",
-   "summary": "Der taiwanesische Chipfertiger erzielt dank des KI-Booms den sechsten Rekordgewinn in Folge. Nun plant der TSMC weitere Milliardeninvestitionen.",
-   "link": "https://www.wiwo.de/unternehmen/it/tsmc-chiphersteller-erneut-mit-ueberraschend-deutlichem-gewinnsprung/100262413.html",
-   "published": "2026-10-15T06:28:17+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chipindustrie: TSMC erneut mit überraschend deutlichem Gewinnsprung",
-   "summary": "Der taiwanesische Chiphersteller übertrifft mit seinem Ergebnis die Erwartungen. Das könnte auch ein Signal an die Börsen sein, an denen die Furcht vor einem Ende des KI-Booms wächst.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/chipindustrie-tsmc-erneut-mit-ueberraschend-deutlichem-gewinnsprung/100262091.html",
-   "published": "2026-10-15T06:04:46+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
   }
  ]
 }
