@@ -1,7 +1,142 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-19T11:35:33.559186+00:00",
+ "updated": "2026-10-19T17:58:19.296638+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Chipkonzern: Bund kooperiert mit Nvidia bei Entwicklung von KI-Robotik",
+   "summary": "Der Bund und Nvidia unterzeichnen eine Absichtserklärung zur industriellen KI. Medienberichten zufolge soll ein dreistelliger Millionenbetrag fließen.",
+   "link": "https://www.wiwo.de/politik/deutschland/nvidia-bund-kooperiert-mit-chipkonzern-bei-entwicklung-von-ki-robotik/100262650.html",
+   "published": "2026-10-19T17:41:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Öffentliche Ausschreibungen: Christian Lindner und sein Ex-Staatssekretär investieren in Berliner Start-up",
+   "summary": "Das Vergabewesen des Staates gilt als komplex, teuer, abschreckend – und ist Herzensthema des einstigen Bundesfinanzministers. Per KI-Investment will Christian Lindner Abhilfe schaffen.",
+   "link": "https://www.wiwo.de/politik/deutschland/oeffentliche-ausschreibungen-christian-lindner-investiert-in-berliner-start-up/100263193.html",
+   "published": "2026-10-19T17:37:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Hat Deutschland Chancen im KI-Wettbewerb?",
+   "summary": "Merz empfängt Nvidia-Chef Huang in Berlin. Es geht um viel Geld und wie sich Deutschland bei der KI aufstellt. Was die geplante Kooperation mit Nvidia bringen könnte - ZDFheute live.",
+   "link": "https://www.zdfheute.de/video/zdfheute-live/investitionsgipfel-merz-huang-ki-video-100.html",
+   "published": "2026-10-19T17:30:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Sind Anthropic und OpenAI wirklich geeignete Börsenkandidaten?",
+   "summary": "Die KI-Labore drängen mit Billionenbewertungen an die Börse. Unklar ist, wie Anleger mit Aktien von Firmen umgehen, deren Technologie die Menschheit auslöschen könnte, meint Astrid Dörner.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/ki-sind-anthropic-und-openai-wirklich-geeignete-boersenkandidaten/100263207.html",
+   "published": "2026-10-19T16:29:47+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Indizes liegen höher – Investoren greifen bei Tech-Werten wieder zu",
+   "summary": "US-Aktien erholen sich nach dem Chip-Ausverkauf der Vorwoche. Nun richten sich die Blicke auf die Quartalszahlen von Meta und Tesla. Sie sollen zeigen, wie tragfähig der KI-Boom ist.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-liegen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
+   "published": "2026-10-19T16:18:56+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte: Warum europäische Aktien von der KI-Korrektur profitieren können",
+   "summary": "Oliver Schmidt, Investmentchef der Privatbank Metzler, sieht europäische Werte im Vorteil. Auch andere Profi-Investoren drängen auf mehr Diversifizierung.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-warum-europaeische-aktien-von-der-ki-korrektur-profitieren-koennen/100261327.html",
+   "published": "2026-10-19T15:58:58+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Wie sollen Anleger mit der KI-Korrektur umgehen? | Proteste in Frankreich belasten Börsen",
+   "summary": "Aus KI-Angst wird eine KI‑Korrektur. Welche Schlüsse Anleger ziehen sollten, erklärt ein Chief Investment Officer der BNP Paribas. Und: Wie sich die Lage in Frankreich auf die Börsen auswirkt.",
+   "link": "https://www.handelsblatt.com/audio/today/today-wie-sollen-anleger-mit-der-ki-korrektur-umgehen/100263342.html",
+   "published": "2026-10-19T15:36:15+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Neue Exportregeln: China will das Ausland von neuer KI- und Solartechnik abschneiden",
+   "summary": "Biotech, KI, Solar, Drohnen und sogar Tunnelbohrmaschinen: Pekings Handelsministerium legt einen neuen Rundumschlag vor, um Chinas Technikvorsprung zu schützen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/china-beschraenkt-export-von-ki-solartechnik-und-drohnen-201602046.html",
+   "published": "2026-10-19T15:06:32+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Kampf um Technologieführerschaft: China kündigt Exportkontrollen für Schlüsseltechnologien an",
+   "summary": "Peking will die Ausfuhr von KI- und Solartechnik stärker überwachen. Die Regierung begründet das mit Sicherheitsinteressen. mehr...",
+   "link": "https://taz.de/Kampf-um-Technologiefuehrerschaft/!6222581/",
+   "published": "2026-10-19T14:42:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Personalberatung: Diese Headhunter sind die stillen Lenker der deutschen Wirtschaft",
+   "summary": "Krise und KI treffen die Branche der Headhunter hart. Doch diese sechs Personalberater platzieren weiter Vorstände und Aufsichtsräte. Wer sind sie, wie ticken sie, für wen arbeiten sie?",
+   "link": "https://www.handelsblatt.com/unternehmen/management/personalberatung-diese-sechs-headhunter-besetzen-deutschlands-spitzenposten-01/100256456.html",
+   "published": "2026-10-19T14:35:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Autonomes Fahren – Mercedes baut Kooperation mit Nvidia aus",
+   "summary": "Mercedes weitet die Zusammenarbeit mit dem Chipkonzern Nvidia beim automatisierten Fahren aus. Zugleich will der Autobauer mit einer KI-Plattform seine Entwicklungszeiten verkürzen.",
+   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/ki-autonomes-fahren-mercedes-baut-kooperation-mit-nvidia-aus/100263316.html",
+   "published": "2026-10-19T14:21:24+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Interview mit Charité-Chef: „Den Leuten zu sagen: ‚Trink keinen Alkohol und iss einen Apfel‘, das funktioniert nicht“",
+   "summary": "Nur mit mehr Digitalisierung und der richtigen Prävention lasse sich das Gesundheitssystem noch retten, sagt der Chef der Berliner Charité. Zugleich warnt Heyo Kroemer vor einer „Teslaisierung“ der Medizin und verrät seinen Tipp für gute…",
+   "link": "https://www.sueddeutsche.de/wirtschaft/charite-berlin-heyo-kroemer-gesundheit-zukunft-interview-li.3559435",
+   "published": "2026-10-19T14:16:40+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-News aktuell: Nordkorea testet KI-Torpedo – Anthropic warnt vor Replikatoren",
+   "summary": "Erneut warnen hochrangige KI-Experten vor den existenziellen Risiken der Technologie. Sie fordern mehr Regulierung und eine Notbremse für außer Kontrolle geratene Modelle.",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-nordkorea-testet-ki-torpedo-anthropic-warnt-vor-replikatoren/100245205.html",
+   "published": "2026-10-19T14:00:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/ki-wie-viel-automatisierung-kann-ein-bewerbungsprozess-vertragen/100248546.html",
+   "published": "2026-10-19T13:39:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Nvidia-Chef Jensen Huang: KI-Visionär in Lederjacke",
+   "summary": "Jensen Huang machte Nvidia zu einem führenden Chipkonzern. Nun trifft er Kanzler Merz beim Investitionsgipfel in Berlin. Wer ist der Unternehmer? Ein Porträt.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-jensen-huang-ki-visionaer-portraet-100.html",
+   "published": "2026-10-19T13:03:00+00:00",
+   "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
@@ -694,159 +829,6 @@
    "published": "2026-10-15T16:36:24+00:00",
    "first_seen": "2026-10-15T17:30:08.855060+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Chipkonzern: Bundesregierung plant offenbar KI-Partnerschaft mit Nvidia",
-   "summary": "Die Bundesregierung plant eine Partnerschaft mit Nvidia: Ein dreistelliger Millionenbetrag soll die Industrie-KI in Deutschland stärken.",
-   "link": "https://www.wiwo.de/politik/deutschland/bundesregierung-plant-ki-partnerschaft-mit-chipkonzern-nvidia/100262650.html",
-   "published": "2026-10-15T16:13:12+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: KI-Werte weiter unter Druck",
-   "summary": "Eine Verkaufswelle im KI-Sektor hat am Donnerstag Tech-Aktien einbrechen lassen. Der Cloud-Anbieter Coreweave etwa verlor sechs Prozent. Laut Markus Koch sorgen sich Anleger vor allem um schwache Umsätze im Verhältnis zu gigantischen…",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ki-werte-weiter-unter-druck/100262647.html",
-   "published": "2026-10-15T16:10:23+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Bund macht KI-Deal mit Nvidia | EU verspricht Ukraine mehr Unterstützung",
-   "summary": "EU-Korrespondent Jakob Hanke Vela berichtet vom Treffen der Staats- und Regierungschefs in Brüssel. Und: Worum es bei dem Millionen-Chipdeal zwischen Nvidia und der Bundesregierung geht.",
-   "link": "https://www.handelsblatt.com/audio/today/today-bund-macht-ki-deal-mit-nvidia-eu-verspricht-ukraine-mehr-unterstuetzung/100262644.html",
-   "published": "2026-10-15T15:43:56+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Verkaufswelle bei KI- und Chip-Aktien geht weiter",
-   "summary": "Die entscheidende Frage ist nicht mehr, ob die KI-Nachfrage stark ist, sondern ob der Kapitalmarkt bereit bleibt, den gewaltigen Ausbau weiter zu finanzieren.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-verkaufswelle-bei-ki-und-chip-aktien-geht-weiter/100262596.html",
-   "published": "2026-10-15T15:26:23+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Musterdepots – Dynamik-Depot: Geringe Marktbreite bietet Chancen bei einzelnen Aktien",
-   "summary": "Der Aktienmarkt wird nur noch von wenigen Schwergewichten getragen. Das ist aus Investorensicht interessant: Zahlreiche solide Geschäftsmodelle stehen derzeit im Schatten des KI-Booms.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepots-dynamik-depot-geringe-marktbreite-bietet-chancen-bei-einzelnen-aktien/100261073.html",
-   "published": "2026-10-15T15:21:52+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Mensch statt Roboter: Deutsche Bank wagt Neustart bei der digitalen Vermögensverwaltung",
-   "summary": "Das Institut setzt bei seinem neuen Angebot nicht auf den Algorithmus eines Robo-Advisors, sondern auf Anlagespezialisten. Was das für Kunden bedeutet.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geldanlage-deutsche-bank-wagt-neustart-bei-digitaler-vermoegensverwaltung/100262513.html",
-   "published": "2026-10-15T15:19:57+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Wir können die KI-Revolution nicht stoppen, aber wir können sie steuern",
-   "summary": "Politiker und Manager fordern einen Stopp für KI. Das Machtstreben und wirtschaftliche Interessen sprechen dagegen. Fortschritt und Sicherheit müssen jedoch kein Widerspruch sein.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-wir-koennen-die-ki-revolution-nicht-stoppen-aber-wir-koennen-sie-steuern/100261376.html",
-   "published": "2026-10-15T15:12:49+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deal soll erst nächste Woche öffentlich werden: Merz schließt KI-Kooperation mit Nvidia",
-   "summary": "Das Handelsblatt enthüllt eine Kooperation der Bundesregierung mit dem Chipkonzern Nvidia. Das Projekt soll KI in der Industrie fördern – und eine üppige staatliche Anschubfinanzierung erhalten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-merz-schliesst-ki-pakt-mit-nvidia/100260948.html",
-   "published": "2026-10-15T14:38:05+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitalisierung: Bundestag beschließt Neuerungen für Personalausweis und Pass",
-   "summary": "Ab Januar soll der Personalausweis auch auf dem Smartphone verfügbar sein. Zudem kommen bürokratische Erleichterungen für ältere Menschen und beim Wohnortwechsel.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/digitalisierung-bundestag-beschliesst-neuerungen-fuer-personalausweis-und-pass/100262593.html",
-   "published": "2026-10-15T14:22:53+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "GB: „Shaun das Schaf“ trifft auf KI",
-   "summary": "Die Aardman Studios feiern 50. Jubiläum. Ein neuer „Shaun das Schaf“-Film kommt ins Kino. Doch wie steht es im Zeitalter von KI um die Zukunft klassischer Animationstechniken?",
-   "link": "https://www.zdfheute.de/video/heute-in-europa/shaun-das-schaf-trifft-auf-ki-100.html",
-   "published": "2026-10-15T14:00:00+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Was ist Software wert, wenn Kunden sie selbst schreiben?",
-   "summary": "Photoshop, Powerpoint und Xbox-Spiele: Kostenlose KI-Klone fordern etablierte Anbieter heraus. Der Markt ändert sich radikal. Microsoft hat darauf eine ungewöhnliche Antwort.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-was-ist-software-wert-wenn-kunden-sie-selbst-schreiben/100033813.html",
-   "published": "2026-10-15T14:00:00+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-fragen-zur-ki-kompetenz-entscheiden-ueber-top-positionen/100240522.html",
-   "published": "2026-10-15T13:59:00+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aktien: Billionen-Konzerne verlieren mehr als 40 Prozent Kurswert: „KI-Korrektur“ erfasst Börsen weltweit",
-   "summary": "Eine neue Verkaufswelle lässt Tech-Aktien einbrechen. Die Umsätze mit KI liegen weit hinter den investierten Milliarden zurück. Zugleich streichen erste Unternehmen geplante Ausgaben.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/aktien-billionen-konzerne-verlieren-40-prozent-ki-korrektur-erfasst-boersen/100262410.html",
-   "published": "2026-10-15T13:49:45+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-kompetenz-wird-das-wettbewerbsmerkmal-der-zukunft-sein/100223312.html",
-   "published": "2026-10-15T13:37:00+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studiengaenge-trotz-ki-boom-gute-zukunftschancen-bieten/100235558.html",
-   "published": "2026-10-15T13:36:00+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Brad Smith zu KI-Sicherheit: »Im Zug kann man die Notbremse ziehen. Bei KI-Agenten am besten auch«",
-   "summary": "Microsoft-Vize Brad Smith plädiert dafür, dass Behörden KI-Modelle testen sollen, bevor sie überhaupt auf den Markt kommen. Kann er US-Präsident Trump davon überzeugen?",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/brad-smith-kuenstliche-intelligenz-sicherheit-regulierung-microsoft",
-   "published": "2026-10-15T12:58:25+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Recycling von Gerichtsshows mit KI: Frau Richterin, das war KI!",
-   "summary": "Was früher Wiederholung hieß, ist heute digitales Recycling. Privatsender wie RTL bauen nun alte Gerichtsshows mit KI neu zusammen – ist eben billiger. mehr...",
-   "link": "https://taz.de/Digitales-Recycling-Privatsender-wie-RTL-bauen-alte-Gerichtsshows-mit-KI-neu-zusammen/!6221514/",
-   "published": "2026-10-15T12:31:00+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": false
   }
  ]
 }
