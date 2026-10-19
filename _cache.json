@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:03:50.082170+00:00",
+ "updated": "2026-10-19T00:36:50.682193+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -8,6 +8,60 @@
    "link": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
    "published": "2026-12-12T13:29:00+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Ukraine - Selenskyj besorgt Washingtons Russland-Kurs, Trump: \"Will Russland am Verhandlungstisch halten\"",
+   "summary": "Der ukrainische Präsident Selenskyj hat Besorgnis über den Russland-Kurs von US-Präsident Trump geäußert.",
+   "link": "https://www.deutschlandfunk.de/selenskyj-besorgt-washingtons-russland-kurs-trump-will-russland-am-verhandlungstisch-halten-100.html",
+   "published": "2026-10-19T00:09:48+00:00",
+   "first_seen": "2026-10-19T00:36:50.682193+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Kanada - Vier Tote bei Brand auf Militärstützpunkt in Alberta - 39 Verletzte in Krankenhäusern",
+   "summary": "Der Großbrand mit Toten und Verletzten auf einem Militärstützpunkt im Westen Kanadas ist auf einen Buschbrand ‌zurückzuführen.",
+   "link": "https://www.deutschlandfunk.de/vier-tote-bei-brand-auf-militaerstuetzpunkt-in-alberta-39-verletzte-in-krankenhaeusern-108.html",
+   "published": "2026-10-19T00:09:48+00:00",
+   "first_seen": "2026-10-19T00:36:50.682193+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bulgarien - Nach Bombendrohung Notlandung einer Linienmaschine von Tel Aviv nach Wien in Sofia",
+   "summary": "Nach einer Bombendrohung ist ein Flugzeug von Austrian Airlines auf dem Weg vom israelischen Tel Aviv in die österreichische Hauptstadt Wien in Bulgarien notgelandet.",
+   "link": "https://www.deutschlandfunk.de/nach-bombendrohung-notlandung-einer-linienmaschine-von-tel-aviv-nach-wien-in-sofia-102.html",
+   "published": "2026-10-19T00:09:48+00:00",
+   "first_seen": "2026-10-19T00:36:50.682193+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Regierungsbildung in Berlin - Grüne und SPD stimmen über Koalitionsverhandlungen ab",
+   "summary": "In Berlin entscheiden Grüne und SPD heute über die Aufnahme von Koalitionsverhandlungen mit der Linken.",
+   "link": "https://www.deutschlandfunk.de/gruene-und-spd-stimmen-ueber-koalitionsverhandlungen-ab-100.html",
+   "published": "2026-10-19T00:09:48+00:00",
+   "first_seen": "2026-10-19T00:36:50.682193+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Sozialproteste - Weitere Kundgebungen und Ausschreitungen in europäischen Ländern",
+   "summary": "Außer in Frankreich ist es auch in anderen europäischen Ländern ist es bei Protesten gegen hohe Lebenshaltungskosten teilweise zu Ausschreitungen gekommen.",
+   "link": "https://www.deutschlandfunk.de/weitere-kundgebungen-und-ausschreitungen-in-europaeischen-laendern-100.html",
+   "published": "2026-10-19T00:09:48+00:00",
+   "first_seen": "2026-10-19T00:36:50.682193+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Unglück in Kanada: Feuerinferno auf Militärbasis: 19 Verletzte in Lebensgefahr",
+   "summary": "Auf einem Militärstützpunkt in der kanadischen Provinz Alberta kommt es zu einem tödlichen Zwischenfall. Ein Feuer im Grasland greift schnell um sich, vier Menschen sterben, Dutzende werden verletzt.",
+   "link": "https://www.handelsblatt.com/politik/international/unglueck-in-kanada-feuerinferno-auf-militaerbasis-19-verletzte-in-lebensgefahr/100263109.html",
+   "published": "2026-10-18T23:37:55+00:00",
+   "first_seen": "2026-10-19T00:36:50.682193+00:00",
    "paywall": true
   },
   {
@@ -13446,60 +13500,6 @@
    "published": "2026-10-15T03:30:00+00:00",
    "first_seen": "2026-10-15T12:18:06.388764+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Brexit: „Jetzt ist der Moment“: Wirtschaft setzt auf EU-Rückkehr Großbritanniens",
-   "summary": "Premier Burnham treibt den Neustart mit der EU voran, während britische und deutsche Unternehmen laut einer Umfrage Investitionen zurückhalten. Ein Plan der EU könnte für Streit sorgen.",
-   "link": "https://www.handelsblatt.com/politik/international/eu-jetzt-ist-der-moment-wirtschaft-setzt-auf-eu-rueckkehr-grossbritanniens/100261080.html",
-   "published": "2026-10-15T03:00:20+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dampfen statt qualmen: Gesundheitsrisiken: Ist Vapen das bessere Rauchen?",
-   "summary": "Sie liebäugeln mit E-Zigaretten, weil die als risikoärmere Kippen-Alternative gelten? Was Fachleute dazu wissen - und warum sie davor warnen, munter zwischen Dampfen und Rauchen zu wechseln.",
-   "link": "https://www.handelsblatt.com/technik/medizin/dampfen-statt-qualmen-gesundheitsrisiken-ist-vapen-das-bessere-rauchen/100262370.html",
-   "published": "2026-10-15T03:00:11+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mehr Gehalt gefordert: Trotz Ebola-Ausbruch: Gesundheitsarbeiter streiken im Kongo",
-   "summary": "Im Ostkongo breitet sich Ebola rasant aus, mehr als 4.400 Menschen sind bereits gestorben. Nun hat das Gesundheitspersonal einen Streik anberaumt – mit Folgen für Patienten.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/mehr-gehalt-gefordert-trotz-ebola-ausbruch-gesundheitsarbeiter-streiken-im-kongo/100262369.html",
-   "published": "2026-10-15T03:00:06+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bahn will mehr Sicherheit: Aus für das Bahnsteig-Bier: Was Reisende jetzt noch dürfen",
-   "summary": "Das Alkoholverbot auf Bahnhöfen ist da. Ein frisches Feierabend-Bier auf dem Bahnsteig könnte nun Konsequenzen haben. Aber was gilt für Gepäck - und im Bordbistro?",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/bahn-will-mehr-sicherheit-aus-fuer-das-bahnsteig-bier-was-reisende-jetzt-noch-duerfen/100260669.html",
-   "published": "2026-10-15T02:30:10+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Krankenkassen: Krankenkassenbeiträge - stabil oder nicht?",
-   "summary": "Schnell versichert der Gesundheitsminister nach einer offiziellen Schätzung: Der durchschnittliche Zusatzbeitrag für die Krankenkassen bleibt stabil. Doch was heißt das für die Beitragszahlenden?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/krankenkassen-krankenkassenbeitraege-stabil-oder-nicht/100262323.html",
-   "published": "2026-10-15T02:30:07+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Umrüstung der Busflotten: Weniger Geld für E-Busse - Branche warnt vor Folgen",
-   "summary": "Der Bund fördert die Anschaffung von Elektrobussen im Nahverkehr mit Hunderten Millionen Euro. Ab kommendem Jahr sollen die Mittel deutlich sinken. Die Branche sieht deshalb die Klimaziele in Gefahr.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/umruestung-der-busflotten-weniger-geld-fuer-e-busse-branche-warnt-vor-folgen/100262366.html",
-   "published": "2026-10-15T02:30:06+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
   }
  ]
 }
