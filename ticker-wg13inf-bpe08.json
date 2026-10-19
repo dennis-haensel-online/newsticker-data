@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-19T17:58:19.296638+00:00",
+ "updated": "2026-10-19T22:01:08.090307+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
+   "summary": "Die Bundesregierung hat mit dem US-Chiphersteller Nvidia eine Zusammenarbeit zur Entwicklung Künstlicher Intelligenz vereinbart. Wie die Bundesregierung mitteilte, wurde eine entsprechende Absichtserklärung mit Nvidia im Rahmen eines…",
+   "link": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-absichtserklaerung-fuer-ki-zusammenarbeit--100.html",
+   "published": "2026-10-19T21:32:13+00:00",
+   "first_seen": "2026-10-19T22:01:08.090307+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation",
+   "summary": "Prost! Friedrich Merz und Jensen Huang verkünden eine Kooperation bei der Entwicklung von KI. Der Bundeskanzler ruft die Unternehmen zur Bereitstellung ihrer Daten auf. Der Nvidia-CEO warnt davor Wissen ins Ausland abzugeben.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
+   "published": "2026-10-19T19:29:00+00:00",
+   "first_seen": "2026-10-19T22:01:08.090307+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Huang zu Merz: „Gib Deutschland eine Chance!“",
+   "summary": "Der Auftakt zum Investitionsgipfel der Bundesregierung gerät zu einer Demonstration der Stärke der KI-Industrie mit Nvidia-Chef Jensen Huang als ihrem ungekrönten König.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-huang-zu-merz-gib-deutschland-eine-chance-201603218.html",
+   "published": "2026-10-19T19:07:19+00:00",
+   "first_seen": "2026-10-19T22:01:08.090307+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Deutschland will KI-Entwicklung in der Industrie voranbringen",
+   "summary": "Mit Nvidia als Partner will die Bundesregierung Deutschland zum Vorreiter für industrielle KI machen. Im Fokus steht unter anderem die Entwicklung von KI-Robotik.",
+   "link": "https://www.zdfheute.de/politik/deutschland/merz-nvidia-kuenstliche-intelligenz-industrie-100.html",
+   "published": "2026-10-19T18:51:00+00:00",
+   "first_seen": "2026-10-19T22:01:08.090307+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Kann Deutschland bei KI aufholen? Experte sieht drei Faktoren",
+   "summary": "Nvidia-Chef Jensen Huang sieht Deutschland aktuell bei KI abgehängt. Das muss nicht so bleiben, sagt ein Münchner Investor - und er erklärt, wie die Aufholjagd gelingen kann.",
+   "link": "https://www.zdfheute.de/politik/deutschland/ki-deutschland-investition-investitionsgipfel-kuensliche-intelligenz-nvidia-schoeler-102.html",
+   "published": "2026-10-19T17:45:00+00:00",
+   "first_seen": "2026-10-19T22:01:08.090307+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Chipkonzern: Bund kooperiert mit Nvidia bei Entwicklung von KI-Robotik",
@@ -45,6 +90,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-liegen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
    "published": "2026-10-19T16:18:56+00:00",
    "first_seen": "2026-10-19T17:58:19.296638+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Indizes schließen höher – Investoren greifen bei Tech-Werten wieder zu",
+   "summary": "US-Aktien erholen sich nach dem Chip-Ausverkauf der Vorwoche. Nun richten sich die Blicke auf die Quartalszahlen von Meta und Tesla. Sie sollen zeigen, wie tragfähig der KI-Boom ist.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-schliessen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
+   "published": "2026-10-19T16:18:56+00:00",
+   "first_seen": "2026-10-19T22:01:08.090307+00:00",
    "paywall": true
   },
   {
@@ -783,51 +837,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-faengt-sich-zu-handelsende-nach-abverkauf-von-chipwerten/100262544.html",
    "published": "2026-10-15T18:11:01+00:00",
    "first_seen": "2026-10-15T20:43:20.003845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
-   "summary": "Der Bundestag hat Neuerungen für Personalausweis und Pass auf den Weg gebracht.",
-   "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-100.html",
-   "published": "2026-10-15T17:27:50+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - Bericht: Bundesregierung vor KI-Partnerschaft mit Nvidia",
-   "summary": "Die Bundesregierung will Medienberichten zufolge eine Partnerschaft mit ‌dem US-Chipkonzern Nvidia ⁠schließen, um ⁠den Einsatz von Künstlicher Intelligenz in der Industrie voranzutreiben.",
-   "link": "https://www.deutschlandfunk.de/bericht-bundesregierung-vor-ki-partnerschaft-mit-nvidia-100.html",
-   "published": "2026-10-15T17:27:50+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Technologie - KI-Assistenz soll Rettungsschwimmer dabei unterstützen, Ertrinkende zu erkennen",
-   "summary": "Künstliche Intelligenz soll Menschen vor dem Ertrinken retten - zumindest indirekt. Als Unterstützung für Rettungsschwimmer können Kameras ein Schwimmbecken überwachen und auffällige Bewegungsmuster erkennen. Also zum Beispiel, wenn jemand…",
-   "link": "https://www.deutschlandfunk.de/ki-assistenz-soll-rettungsschwimmer-dabei-unterstuetzen-ertrinkende-zu-erkennen-100.html",
-   "published": "2026-10-15T17:27:50+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Hoffnungsträger KI: KI kann armen Ländern helfen",
-   "summary": "Reiche Länder fürchten um Jobs und Steuereinnahmen wegen Künstlicher Intelligenz. Entwicklungsländer hingegen hoffen auf bessere Ernten, wirksamere Behörden und mehr Wohlstand.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/michael-kremer-wie-ki-entwicklungslaendern-helfen-kann-201339549.html",
-   "published": "2026-10-15T16:38:58+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dow Jones, S&P 500, Nasdaq: Nasdaq verliert durch Abverkauf von Chipwerten",
-   "summary": "Auch US-Anleger trauen den enormen Investitionen in KI nicht. Auf Konjunkturseite kommen gemischte Signale. Sicher scheint nun eines: ein weiterer Anstieg der Inflation.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-verliert-durch-abverkauf-von-chipwerten/100262544.html",
-   "published": "2026-10-15T16:36:24+00:00",
-   "first_seen": "2026-10-15T17:30:08.855060+00:00",
    "paywall": true
   }
  ]
