@@ -1,7 +1,88 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-19T00:36:50.682193+00:00",
+ "updated": "2026-10-19T05:29:44.513132+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: DAX steht schwacher Wochenstart bevor",
+   "summary": "Positive Konjunkturdaten aus China, Gegenwind der US-Börsen und eine unübersichtliche Lage in Frankreich - ein Mix, der den DAX zum Wochenauftakt belasten könnte.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+   "published": "2026-10-19T05:08:06+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Wirtschaftsmagazin „Surplus“: Im Aufschwung",
+   "summary": "„Surplus“ macht Wirtschaftsjournalismus von links – und wird dabei von namhaften Öko­no­m*in­nen unterstützt. Ist das ein Erfolgsrezept? Ein Redaktionsbesuch. mehr...",
+   "link": "https://taz.de/Wirtschaftsmagazin-Surplus/!6218194/",
+   "published": "2026-10-19T05:05:00+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Was Weiterbildungen bei der Jobsuche im Alter bringen",
+   "summary": "Rund 25 Prozent aller Arbeitslosen sind über 55 Jahre. Wer in diesem Alter auf Jobsuche ist, hat mit Weiterbildungen oft Erfolg. Wie man es angeht und wo es Unterstützung gibt.",
+   "link": "https://www.zdfheute.de/ratgeber/jobsuche-ab-50-job-finden-weiterbildung-agentur-fuer-arbeit-100.html",
+   "published": "2026-10-19T04:11:00+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Chinas Wirtschaft wächst etwas schneller – Export boomt immer stärker",
+   "summary": "Das Wachstum liegt leicht über den Erwartungen. Die neuen Zahlen zeigen aber auch die Schwäche im Inland: Der Konsum lahmt, die Immobilienkrise bleibt bestimmend.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/chinas-wirtschaft-waechst-etwas-schneller-export-boomt-immer-staerker/100263141.html",
+   "published": "2026-10-19T03:44:16+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Chinas Wirtschaft wächst etwas schneller - Probleme bleiben",
+   "summary": "Die chinesische Wirtschaft wächst etwas stärker als erwartet. Die neuen Zahlen zeigen aber auch, wie ungleich sich das Land entwickelt.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-chinas-wirtschaft-waechst-etwas-schneller-probleme-bleiben/100263123.html",
+   "published": "2026-10-19T03:20:15+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Chinas Wirtschaft wächst etwas schneller – Probleme bleiben",
+   "summary": "Die chinesische Wirtschaft wächst etwas stärker als erwartet. Die neuen Zahlen zeigen aber auch, wie ungleich sich das Land entwickelt.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-chinas-wirtschaft-waechst-etwas-schneller-probleme-bleiben/100263124.html",
+   "published": "2026-10-19T03:20:15+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wirtschaftspolitik: Investitionsgipfel in Berlin - Merz rollt roten Teppich aus",
+   "summary": "Die Bundesregierung zieht alle Register, um mehr Investoren nach Deutschland zu locken. Eine Konferenz soll ein „Willkommens-Signal“ senden. Worum es geht.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-investitionsgipfel-in-berlin-merz-rollt-roten-teppich-aus/100263128.html",
+   "published": "2026-10-19T02:30:11+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wirtschaftspolitik: 15-Minuten-Politiker-Dating und drei geheime Frühstücke: Wie der erste Investitionsgipfel ablaufen wird",
+   "summary": "Für Montag und Dienstag hat die Bundesregierung nach Berlin eingeladen, um internationale Investoren zu werben. Das Handelsblatt kennt die Teilnehmer und den Ablauf.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-wie-der-erste-deutsche-investitionsgipfel-ablaufen-wird/100262607.html",
+   "published": "2026-10-19T02:04:19+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Fintechs: Iwoca holt ABN Amro und Neuberger an Bord",
+   "summary": "Das Fintech sichert sich 185 Millionen Euro an neuen Kreditlinien für weiteres Wachstum in Deutschland. Dort hat sich das Kreditgeschäft innerhalb von zwölf Monaten mehr als verdoppelt.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fintechs-iwoca-holt-abn-amro-und-neuberger-an-bord/100262798.html",
+   "published": "2026-10-19T02:03:52+00:00",
+   "first_seen": "2026-10-19T05:29:44.513132+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Die Türkei will Diesel aus dem Trump-Putin-Deal beziehen",
@@ -575,69 +656,6 @@
    "summary": "Die Wirtschaft in Deutschland springt vor allem dank eines schuldenfinanzierten Investitionsprogramms wieder stärker an - ist das robust? Der Finanzminister wirbt dafür auch auf globaler Bühne.",
    "link": "https://www.handelsblatt.com/politik/deutschland/iwf-tagung-klingbeil-wachstums-impuls-jetzt-nutzen/100262406.html",
    "published": "2026-10-15T06:04:22+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Börsen zwischen KI-Euphorie und Inflationssorgen",
-   "summary": "Die Berichtssaison und neue Konjunkturdaten geben den Takt vor. Im Mittelpunkt steht die Chipbranche: Nach optimistischen Geschäftsaussichten von ASML richtet sich der Blick auf den taiwanischen Chipkonzern TSMC.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-   "published": "2026-10-15T05:45:57+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Europäische Konjunktur: Ökonom entzaubert Spaniens Wirtschaftswunder",
-   "summary": "Kein großes Land der Eurozone wächst derzeit so stark wie Spanien. Der Ökonom und Spanienexperte Jens Eisenschmidt sagt: Das liegt auch an den hohen Transfers aus Brüssel.",
-   "link": "https://www.wiwo.de/politik/konjunktur/spanisches-wirtschaftswunder-warum-das-land-so-stark-waechst/100262154.html",
-   "published": "2026-10-15T05:45:27+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Versandapotheke: DocMorris hebt nach starkem Wachstum erneut Prognose an",
-   "summary": "Das Rezeptgeschäft treibt DocMorris: Der Umsatz steigt im dritten Quartal um 21,5 Prozent. Nun hebt die Online-Apotheke ihre Prognose an.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/docmorris-versandapotheke-hebt-nach-starkem-wachstum-erneut-prognose-an/100262396.html",
-   "published": "2026-10-15T05:34:34+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarkt: „Es ist gerade nicht einfach für Berufsanfänger“",
-   "summary": "KI zerstört die Jobchancen junger Menschen, so heißt es. Stimmt das wirklich? Eine neue IAB-Studie zeigt: Bei anderen Beschäftigten ist die Gefahr viel größer.",
-   "link": "https://www.wiwo.de/erfolg/beruf/arbeitsmarkt-warum-die-wirtschaftliche-lage-berufseinsteiger-mehr-trifft-als-ki/100261854.html",
-   "published": "2026-10-15T05:26:00+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Streit vor Haushaltsberatungen: EU-Klima auf der Kippe",
-   "summary": "Von den EU-Haushaltsberatungen warnen Grüne und Umweltschutzverbände vor Kürzungen in der Klimapolitik. Dahinter steht ein grundsätzlicher Konflikt. mehr...",
-   "link": "https://taz.de/Streit-vor-Haushaltsberatungen/!6221528/",
-   "published": "2026-10-15T05:17:00+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert Ihnen die Antwort",
-   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-rechner-ab-welchem-vermoegen-gelten-sie-in-deutschland-als-reich-02/100149729.html",
-   "published": "2026-10-15T05:05:00+00:00",
-   "first_seen": "2026-10-15T06:43:55.466725+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Kospi, Topix: Sorge um KI und US-Inflation – Aktienkurse in Asien stürzen ab",
-   "summary": "Gute Bilanzergebnisse vertreiben die Sorgen der Anleger nicht mehr. Ein tiefer Vertrauensverlust treibt die Chipwerte in Südkorea und Japan weiter nach unten – und damit auch die Indizes.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/sorge-um-ki-und-us-inflationsdaten-asiens-aktienkurse-stuerzen-ab/100262358.html",
-   "published": "2026-10-15T03:34:52+00:00",
    "first_seen": "2026-10-15T06:43:55.466725+00:00",
    "paywall": true
   }
