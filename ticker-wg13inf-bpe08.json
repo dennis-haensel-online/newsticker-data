@@ -1,7 +1,79 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-20T12:24:00.509839+00:00",
+ "updated": "2026-10-20T17:37:46.597989+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
+   "summary": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
+   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-100.html",
+   "published": "2026-10-20T17:07:00+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: US-Börsen notieren uneinheitlich – Ölpreis unter 110 Dollar",
+   "summary": "Zweifel an der Finanzierung des KI-Booms verschonen am Dienstag Tech-Aktien. Zugleich schürt der Ölpreisanstieg Zinssorgen. Anleger warten auf die Bilanzen großer US-Technologiekonzerne.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-oelpreis-unter-110-dollar/100263530.html",
+   "published": "2026-10-20T16:39:31+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Börsen schwanken zwischen guten Unternehmenszahlen und KI-Sorgen",
+   "summary": "Die Gründe für die jüngsten Verluste bei KI-Titeln beschäftigen die Wall Street weiterhin. Auch starke Unternehmenszahlen können da wenig beruhigen.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-boersen-schwanken-zwischen-guten-unternehmenszahlen-und-ki-sorgen/100263681.html",
+   "published": "2026-10-20T14:56:12+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Nach Protesten kursieren KI-Bilder und ungeprüfte Infos",
+   "summary": "Ein Paar, das bis auf die Unterwäsche ausgeraubt worden sein soll, und Bilder von Paris in dunklem Rauch: Nach den Demos in Frankreich kursieren im Netz falsche Infos und KI-Fakes.",
+   "link": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-ki-bilder-faktencheck-100.html",
+   "published": "2026-10-20T14:22:00+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: China bestellt bei Nvidia KI-Chips für 35 Milliarden Dollar",
+   "summary": "Chinas Konzerne brauchen Chips für KI. Doch die wirklich schnellen darf Nvidia nicht liefern. Also ordern sie massenhaft KI-Beschleuniger, die gerade noch erlaubt sind. Wie viele sie davon bekommen, ist aber fraglich.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-china-ki-chips-kuenstliche-intelligenz-halbleiter-li.3566357",
+   "published": "2026-10-20T13:24:24+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Berufseinsteiger werden gar nicht erst eingestellt: Anthropic zeigt, wie KI den Geschäftsalltag verändert",
+   "summary": "Der Claude-Hersteller hat vermessen, wie die eigene KI die interne Arbeit revolutioniert. Ingenieure liefern fünf Mal so viele Code-Beiträge wie vor einem Jahr. Der Mensch wird zum Engpass.",
+   "link": "https://www.handelsblatt.com/technik/ki/arbeitsmarkt-anthropic-zeigt-wie-ki-den-geschaeftsalltag-veraendert/100263274.html",
+   "published": "2026-10-20T13:03:52+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Humanoide Roboter: Wie Robotermenschen deutsche Fabriken erkunden – und was das für die Jobs bedeutet",
+   "summary": "KI-Roboter mit Armen und Beinen sollen die Industrie revolutionieren. Ein Besuch am Arbeitsplatz der ersten Maschinenmenschen zeigt: Noch müssen sie viel lernen – aber das kann schnell gehen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/humanoide-roboter-bei-bmw-wie-ki-die-fabrik-veraendert-201282830.html",
+   "published": "2026-10-20T12:33:22+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Schaeffler in China: Der Roboter baut sich selbst",
+   "summary": "Sind humanoide Roboter die Zukunft der Industrie? Der deutsche Autozulieferer Schaeffler eröffnet in China eine Leuchtturmfabrik. Europa sei dennoch auf Augenhöhe, sagt ein Manager.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schaeffler-eroeffnet-leuchtturmfabrik-fuer-humanoide-roboter-in-china-201604345.html",
+   "published": "2026-10-20T12:32:45+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Wachstumstreiber Rechenzentren: Baukonzern Hochtief plant eigene Bewerbung für „AI Gigafactory“",
@@ -45,6 +117,15 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/amazon-plant-investitionen-von-16-milliarden-euro-in-deutschland-a-f863e4b5-e58e-438e-9168-5fe4b3451b9d#ref=rss",
    "published": "2026-10-20T10:10:00+00:00",
    "first_seen": "2026-10-20T12:24:00.509839+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Amazon: Versandhändler will rund 16 Milliarden Euro in Deutschland investieren",
+   "summary": "Der Versandhändler Amazon plant Milliardeninvestitionen in Deutschland – unter anderem in Rechenzentren und künstliche Intelligenz. Vor allem die Rhein-Main-Region soll davon profitieren.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/amazon-versandhaendler-will-rund-16-milliarden-euro-in-deutschland-investieren-a-f863e4b5-e58e-438e-9168-5fe4b3451b9d#ref=rss",
+   "published": "2026-10-20T10:10:00+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
    "paywall": false
   },
   {
@@ -757,141 +838,6 @@
    "published": "2026-10-16T14:19:00+00:00",
    "first_seen": "2026-10-16T17:04:55.454318+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
-   "summary": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit Nvidia eingefädelt.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
-   "published": "2026-10-16T13:13:40+00:00",
-   "first_seen": "2026-10-16T17:04:55.454318+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Wettrennen: China will Export von 23 KI-Technologien beschränken",
-   "summary": "Die USA und China liefern sich ein KI‑Wettrüsten. Nachdem Chinas Zugriff auf amerikanische Technologie eingeschränkt wurde, zieht Peking nun nach.",
-   "link": "https://www.wiwo.de/politik/ausland/ki-wettrennen-china-will-export-von-23-ki-technologien-beschraenken/100262841.html",
-   "published": "2026-10-16T12:46:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Umfrage und Tipps: Staubi, Grasi & Co.: So viele Haushaltsrobos tragen Namen",
-   "summary": "Roboter im Haushalt bekommen Namen, werden gelobt - und manchmal ausgeschimpft: Doch ihre Besitzer sollten nicht vergessen, dass ihre fleißigen Helfer schnell zum Sicherheitsrisiko werden können.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/umfrage-und-tipps-staubi-grasi-co-so-viele-haushaltsrobos-tragen-namen/100262836.html",
-   "published": "2026-10-16T11:58:43+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Technologie: Silicon War – der militärisch-digitale Komplex",
-   "summary": "Die Privatisierung der nationalen Sicherheit: Nachdem die Tech-Oligarchen nach rechts geschwenkt sind, verdienen sie hemmungslos Geld mit Drohnen und Kriegs-KI. Über das neue, martialische Silicon Valley.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/silicon-valley-drohnen-kriegs-ki-palantir-tech-konzerne-li.3540468",
-   "published": "2026-10-16T11:56:20+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Technikoptimismus: Das revolutionäre Potential der KI-Videos",
-   "summary": "KI-generierte Videos erleichtern Manipulation und Propaganda, aber sie schaffen auch neue Chancen. Jeder kann jetzt zum Filmproduzenten werden. Was Deutschland vom chinesischen Technikoptimismus lernen kann.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ki-videos-in-china-chancen-und-risiken-im-ueberblick-accg-201278767.html",
-   "published": "2026-10-16T11:48:03+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Bundesregierung plant KI-Pakt mit Nvidia",
-   "summary": "Die Bundesregierung hat nach ZDF-Informationen eine Kooperation mit dem US-Chiphersteller Nvidia eingefädelt, um KI voranzutreiben. Ein Dutzend deutsche Firmen wollen mitmachen.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-usa-ki-bundesregierung-deutschland-kooperation-100.html",
-   "published": "2026-10-16T11:28:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Bundesregierung plant KI-Kooperation mit Nvidia",
-   "summary": "Google will Verlinkungen in KI-Suchen stärker hervorheben +++ Open AI warnt Mitarbeiter offenbar vor Sexfallen +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bundesregierung-plant-ki-kooperation-mit-nvidia-faz-200452404.html",
-   "published": "2026-10-16T11:27:20+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-was-sie-bei-der-studienwahl-im-ki-zeitalter-beachten-sollten/100235558.html",
-   "published": "2026-10-16T11:24:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/job-der-ki-tsunami-wird-kommen/100223312.html",
-   "published": "2026-10-16T11:22:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-trumpf-auf-dem-weg-zum-maschinen-menschen/100248242.html",
-   "published": "2026-10-16T11:10:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Sicherheitsbedenken: Anthropic lässt externe Prüfer zu",
-   "summary": "Der KI-Entwickler hat am Donnerstag mitgeteilt, dem gemeinnützigen Unternehmen „Model Evaluation and Threat Research“ (METR) Zugang auf Mitarbeiterebene zu gewähren. Zuletzt gab es mehrfach Sicherheitsbedenken bezüglich des KI-Chatbots…",
-   "link": "https://www.handelsblatt.com/video/politik/kuenstliche-intelligenz-sicherheitsbedenken-anthropic-laesst-externe-pruefer-zu/100262808.html",
-   "published": "2026-10-16T11:01:56+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Fake-Fenster-Gefahr: Browser im Browser: Vorsicht vor neuartiger Phishing-Masche",
-   "summary": "Die Adresszeile sieht echt aus, das Browserfenster auch - und doch landen die eigenen Anmeldedaten bei Betrügern. Wie Sie die raffinierte Falle entlarven, die rund um KI-Dienste lauert.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/fake-fenster-gefahr-browser-im-browser-vorsicht-vor-neuartiger-phishing-masche/100262816.html",
-   "published": "2026-10-16T10:50:54+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Cyberangriffe: G7-Länder planen Abwehrtests gegen KI-verstärkte Cyberangriffe auf Finanzbranche",
-   "summary": "Der IWF warnt vor Vertrauensverlust durch KI-Cyberangriffe. Nun entwickeln G7-Staaten Simulationen für Finanzbehörden und Banken.",
-   "link": "https://www.wiwo.de/politik/ausland/ki-cyberangriffe-g7-laender-planen-abwehrtests-fuer-die-finanzbranche/100262778.html",
-   "published": "2026-10-16T10:16:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tech-Szene: 500.000 Dollar aufwärts im Jahr: Was junge Deutsche in San Francisco erwartet",
-   "summary": "Nie floss mehr Kapital ins Silicon Valley. Mittendrin: junge Deutsche, die Doktortitel oder Konzernkarriere aufgeben, um im KI-Boom reich zu werden. Dabei würden sie es sich anders wünschen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/silicon-valley-wie-der-ki-boom-junge-deutsche-in-die-usa-zieht/100260233.html",
-   "published": "2026-10-16T09:51:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Trotz Rekordschulden und Krisen: Klingbeil gibt sich mutig",
-   "summary": "KI, Kriege, Energiepreise: Die Wirtschafts- und Finanzwelt sieht sich mit vielen Sorgen konfrontiert. Finanzminister und Bundesbank-Präsident sehen Deutschland jedoch gut gerüstet.",
-   "link": "https://www.zdfheute.de/politik/lars-klingbeil-iwf-bangkok-reise-koalition-schulden-100.html",
-   "published": "2026-10-16T09:44:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": false
   }
  ]
 }

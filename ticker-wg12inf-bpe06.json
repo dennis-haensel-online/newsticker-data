@@ -1,7 +1,43 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-20T12:24:00.509839+00:00",
+ "updated": "2026-10-20T17:37:46.597989+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
+   "summary": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
+   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-100.html",
+   "published": "2026-10-20T17:07:00+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Cloud-Dienste - Großausfall bei Google führt zu Störungen bei Banken",
+   "summary": "Ein Ausfall von Cloud-Diensten des US-Unternehmens Google hat zu technischen Störungen in Europa geführt.",
+   "link": "https://www.deutschlandfunk.de/grossausfall-bei-google-fuehrt-zu-stoerungen-bei-banken-102.html",
+   "published": "2026-10-20T17:07:00+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Cloud-Server: Großausfall bei Google in London führt zu Störungen in ganz Europa",
+   "summary": "Bei Google hat es einen schweren Ausfall in einem Rechenzentrum in London gegeben. Experten vermuten, dass der Vorfall sich auch auf Banken in Europa auswirkte.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/google-cloud-ausfall-london-stoerung-revolut-banken",
+   "published": "2026-10-20T14:05:05+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cloud-Dienste gestört: Großausfall bei Google führt zu Störungen bei Banken",
+   "summary": "Nicht nur Bank-Apps waren betroffen: Auch Webseiten und Unternehmensdienste kämpften mit Störungen. Google arbeitet an der Behebung – doch Ursache und Ausmaß sind noch offen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/cloud-dienste-gestoert-grossausfall-bei-google-fuehrt-zu-stoerungen-bei-banken/100263575.html",
+   "published": "2026-10-20T12:49:29+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Vorfall im September - AfD bestätigt Hackerangriff auf E-Mail-Konten der Partei",
@@ -109,15 +145,6 @@
    "published": "2026-10-17T14:31:14+00:00",
    "first_seen": "2026-10-17T14:40:05.220158+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Cyberangriffe: G7-Länder planen Abwehrtests gegen KI-verstärkte Cyberangriffe auf Finanzbranche",
-   "summary": "Der IWF warnt vor Vertrauensverlust durch KI-Cyberangriffe. Nun entwickeln G7-Staaten Simulationen für Finanzbehörden und Banken.",
-   "link": "https://www.wiwo.de/politik/ausland/ki-cyberangriffe-g7-laender-planen-abwehrtests-fuer-die-finanzbranche/100262778.html",
-   "published": "2026-10-16T10:16:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
   }
  ]
 }

@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-20T12:24:00.509839+00:00",
+ "updated": "2026-10-20T17:37:46.597989+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Warum uns die hohe Inflation erhalten bleibt",
+   "summary": "Die Teuerung in Deutschland und Europa ist nicht unter Kontrolle. Mehrere ­Faktoren lassen befürchten, dass es 2027 mit den Preisen weiter nach oben geht.",
+   "link": "https://www.wiwo.de/politik/konjunktur/inflation-darum-koennte-es-2027-zu-einem-preisschub-kommen/100259029.html",
+   "published": "2026-10-20T16:59:18+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Pflegende Angehörige: Mehr Arbeit zu Hause, weniger Arbeit am Markt",
+   "summary": "Immer mehr Pflegebedürftigen werden zu Hause betreut. Das hat Folgen für den Arbeitsmarkt, warnt eine neue Studie. Patientenschützer haben eine andere Perspektive. mehr...",
+   "link": "https://taz.de/Pflegende-Angehoerige/!6222979/",
+   "published": "2026-10-20T16:07:00+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Datev-index: Der Aufschwung kommt im Mittelstand nicht richtig an",
+   "summary": "Der deutsche Mittelstand darbt. Der Umsatz kommt nicht recht voran. In vielen Branchen geht es trotz der Erholung in der Wirtschaft immer noch abwärts. Das zeigt der Datev-Mittelstandsindex.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/datev-mittelstandsindex-aufschwung-kommt-nicht-an-201602955.html",
+   "published": "2026-10-20T14:00:52+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
+   "summary": "Neue Angriffe im Persischen Golf machen Öl wieder so teuer wie im Mai. Das schürt die Sorge vor einem neuen Inflationsschub. Die einzige Hoffnung bleibt derzeit eine Annäherung der Kriegsparteien.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
+   "published": "2026-10-20T12:15:27+00:00",
+   "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Wachstumstreiber Rechenzentren: Baukonzern Hochtief plant eigene Bewerbung für „AI Gigafactory“",
@@ -477,96 +513,6 @@
    "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-welche-skills-sind-in-der-ruestungsindustrie-besonders-gefragt/100211178.html",
    "published": "2026-10-16T14:08:00+00:00",
    "first_seen": "2026-10-16T17:04:55.454318+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Investitionen: China will Finanzmärkte öffnen",
-   "summary": "Chinas Wirtschaftswachstum und die technischen Innovationen locken internationale Investitionen. Eine Öffnung der Finanzmärkte soll diese erleichtern.",
-   "link": "https://www.wiwo.de/politik/ausland/china-peking-will-finanzmaerkte-fuer-auslaendische-investoren-oeffnen/100262833.html",
-   "published": "2026-10-16T13:07:00+00:00",
-   "first_seen": "2026-10-16T17:04:55.454318+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Investitionen: China will Finanzmärkte öffnen",
-   "summary": "Chinas Wirtschaftswachstum und die technischen Innovationen locken internationale Investitionen. Eine Öffnung der Finanzmärkte soll diese erleichtern.",
-   "link": "https://www.wiwo.de/politik/ausland/investitionen-china-will-finanzmaerkte-oeffnen/100262833.html",
-   "published": "2026-10-16T12:44:15+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Finanzbranche: Deutsche Banken suchen überdurchschnittlich viel Personal",
-   "summary": "Die Zahl der von Finanzinstituten ausgeschriebenen Stellen ist im dritten Quartal dreimal so stark gestiegen wie am Arbeitsmarkt insgesamt – allerdings nicht in der Finanzmetropole Frankfurt.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/offene-stellen-deutsche-banken-suchen-ueberdurchschnittlich-viel-personal/100261592.html",
-   "published": "2026-10-16T12:13:22+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dax aktuell: Dax notiert im Plus – Aixtron-Aktie steigt",
-   "summary": "Die Inflation von 3,8 Prozent für den Euroraum schürt Sorgen vor weiteren Zinserhöhungen der Europäischen Zentralbank. Zudem steigen die Ölpreise wieder an.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-aixtron-aktie-steigt-zweistellig/100262751.html",
-   "published": "2026-10-16T12:08:41+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Finanzsektor: EZB winkt Übernahme der Commerzbank durch",
-   "summary": "Die Europäische Zentralbank gibt ihr Okay, die Unicredit darf sich die zweitgrößte deutsche Bank einverleiben. Die Wünsche des Bundes scheinen den Mailändern dabei weiterhin sekundär zu sein.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahme-ezb-banken-li.3564519",
-   "published": "2026-10-16T11:26:10+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-was-sie-bei-der-studienwahl-im-ki-zeitalter-beachten-sollten/100235558.html",
-   "published": "2026-10-16T11:24:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Zuwanderung: Arbeitsagentur warnt vor Kürzung der Migration aus dem Westbalkan",
-   "summary": "Die Westbalkanregelung erleichtert seit 2016 Arbeitsuchenden den Zugang zum deutschen Arbeitsmarkt – und das erfolgreich. Trotzdem wollen Union und SPD das Kontingent kürzen. Die Wirtschaft hält das für einen Fehler.",
-   "link": "https://www.spiegel.de/wirtschaft/zuwanderung-arbeitsagentur-warnt-vor-kuerzung-der-migration-aus-dem-westbalkan-a-6bc1e33b-06b6-461b-90f2-50bffd100748#ref=rss",
-   "published": "2026-10-16T11:22:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: „Privatjets und Superjachten gehören in einer Energiekrise verboten“",
-   "summary": "Die Ökonomin Isabella Weber fordert eine Margenbeschränkung für lebenswichtige Güter, staatliche Pufferlager – und sagt, Wirtschaftspolitik entscheide über den Aufstieg der extremen Rechten.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/deutschland-privatjets-und-superjachten-in-einer-energiekrise-verbieten-01/100260658.html",
-   "published": "2026-10-16T10:40:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Teuerungsrate: Hohe Energiepreise treiben Inflation in der Eurozone deutlich nach oben",
-   "summary": "Die Inflation in der Eurozone steigt mit 3,8 Prozent deutlich über das EZB‑Ziel. Vor allem Energie verteuert sich – mit Folgen für Zinsen und Sparer.",
-   "link": "https://www.wiwo.de/politik/konjunktur/inflation-hohe-energiepreise-treiben-preise-in-der-eurozone-deutlich/100262796.html",
-   "published": "2026-10-16T09:57:00+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Europäische Zentralbank: Rennen um EZB-Spitze: Klingbeil plant bald Personalvorschlag",
-   "summary": "In der Führung der Europäischen Zentralbank müssen einige Positionen neu besetzt werden, darunter die der scheidenden Top-Ökonomin Isabel Schnabel. Wie und mit wem geht Deutschland ins Rennen?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/europaeische-zentralbank-rennen-um-ezb-spitze-klingbeil-plant-bald-personalvorschlag/100262803.html",
-   "published": "2026-10-16T09:41:54+00:00",
-   "first_seen": "2026-10-16T12:51:46.551109+00:00",
    "paywall": true
   }
  ]
