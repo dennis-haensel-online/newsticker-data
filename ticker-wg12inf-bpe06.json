@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-20T01:21:48.679852+00:00",
+ "updated": "2026-10-20T06:52:10.918506+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Medienbericht - Hackerangriff auf die AfD: Mails im Internet veröffentlicht",
+   "summary": "Auf die AfD hat es nach einem Bericht der \"Bild\"-Zeitung einen Hackerangriff gegeben.",
+   "link": "https://www.deutschlandfunk.de/hackerangriff-auf-die-afd-mails-im-internet-veroeffentlicht-100.html",
+   "published": "2026-10-20T06:48:09+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Website veröffentlicht tausende Mails: Riesiges Email-Datenleak bei der AfD",
+   "summary": "Die AfD wird Opfer eines Email-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“. mehr...",
+   "link": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+   "published": "2026-10-20T06:33:00+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Parteien: Hackerangriff auf E-Mail-Konten der AfD",
+   "summary": "Im Netz brüsten sich Unbekannte, rund 421.000 AfD-E-Mails veröffentlicht zu haben. Ob die Dateien echt sind, ist unklar. Die AfD bestätigt aber einen Hackerangriff.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/parteien-hackerangriff-auf-e-mail-konten-der-afd/100263431.html",
+   "published": "2026-10-20T06:12:10+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "KI-Cloudanbieter: Diese Unternehmen halten die Märkte in Atem",

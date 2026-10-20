@@ -1,7 +1,97 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-20T01:21:48.679852+00:00",
+ "updated": "2026-10-20T06:52:10.918506+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Medienbericht - Hackerangriff auf die AfD: Mails im Internet veröffentlicht",
+   "summary": "Auf die AfD hat es nach einem Bericht der \"Bild\"-Zeitung einen Hackerangriff gegeben.",
+   "link": "https://www.deutschlandfunk.de/hackerangriff-auf-die-afd-mails-im-internet-veroeffentlicht-100.html",
+   "published": "2026-10-20T06:48:09+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Website veröffentlicht tausende Mails: Riesiges Email-Datenleak bei der AfD",
+   "summary": "Die AfD wird Opfer eines Email-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“. mehr...",
+   "link": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
+   "published": "2026-10-20T06:33:00+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Parteien: Hackerangriff auf E-Mail-Konten der AfD",
+   "summary": "Im Netz brüsten sich Unbekannte, rund 421.000 AfD-E-Mails veröffentlicht zu haben. Ob die Dateien echt sind, ist unklar. Die AfD bestätigt aber einen Hackerangriff.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/parteien-hackerangriff-auf-e-mail-konten-der-afd/100263431.html",
+   "published": "2026-10-20T06:12:10+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Nscale verhandelt mit Anthropic über 45-Milliarden-Dollar-Deal",
+   "summary": "Der Rechenzentrumsbetreiber Nscale musste bei Verhandlungen mit Microsoft kürzlich einen Rückschlag hinnehmen. Jetzt verhandelt der Konzern offenbar mit Anthropic.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-nscale-verhandelt-mit-anthropic-ueber-45-milliarden-dollar-deal/100263424.html",
+   "published": "2026-10-20T05:55:38+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Personalberatung: Diese Headhunter sind die stillen Lenker der deutschen Wirtschaft",
+   "summary": "Krise und KI treffen die Branche der Headhunter hart. Doch diese sechs Personalberater platzieren weiter Vorstände und Aufsichtsräte. Wer sind sie, wie ticken sie, für wen arbeiten sie?",
+   "link": "https://www.handelsblatt.com/unternehmen/management/personalberatung-wer-die-chefetagen-deutschlands-besetzt/100256456.html",
+   "published": "2026-10-20T05:48:00+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Aktie für jedes Kind: Anthropic und Musk machen Milliardenversprechen",
+   "summary": "Das KI-Unternehmen und der reichste Mensch der Welt geben sich gönnerhaft und kündigen an, größere Aktienpakete für das Gemeinwohl zur Verfügung zu stellen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-und-musk-machen-milliardenversprechen-accg-201602086.html",
+   "published": "2026-10-20T05:41:28+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Deutschland: Besser als sein Ruf?",
+   "summary": "Nvidia-Chef Jensen Huang traut Deutschland bei der industriellen Anwendung von KI eine Führungsrolle zu. Beim Investitionsgipfel in Berlin entscheidet sich, welche privaten Investoren mitziehen.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-deutschland-besser-als-sein-ruf/100263289.html",
+   "published": "2026-10-20T04:32:19+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Podcast: Nvidia-Chef blickt positiv auf Deutschland / VW droht Shutdown",
+   "summary": "Nvidia-Chef Jensen Huang traut Deutschland bei der industriellen Anwendung von KI eine Führungsrolle zu. Beim Investitionsgipfel in Berlin entscheidet sich, welche privaten Investoren mitziehen.",
+   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/podcast-nvidia-chef-blickt-positiv-auf-deutschland---vw-droht-shutdown/100263417.html",
+   "published": "2026-10-20T04:29:20+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeit und KI: Siemens: Wegen KI nicht auf Einstiegsjobs verzichten",
+   "summary": "Personalvorständin Wiese warnt davor, jungen Mitarbeitenden nicht mehr die Chance zu geben, Dinge selbst zu machen. Sonst fehlen später Fähigkeiten.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/arbeit-und-ki-siemens-wegen-ki-nicht-auf-einstiegsjobs-verzichten/100263390.html",
+   "published": "2026-10-20T02:00:23+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Ökonomin: Sitzen auf einem Datenschatz",
+   "summary": "Ulrike Malmendier sieht \"enorme Chancen\" für Deutschland bei industrieller KI. Dafür brauche es Rechenkapazitäten und zukunftsorientierte Investitionen, sagt die Ökonomin.",
+   "link": "https://www.zdfheute.de/politik/deutschland/malmendier-kuenstliche-intelligenz-industrie-deutschland-100.html",
+   "published": "2026-10-20T01:49:00+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
@@ -36,6 +126,15 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
    "published": "2026-10-19T19:29:00+00:00",
    "first_seen": "2026-10-19T22:01:08.090307+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+   "summary": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest in Germany\"-Gipfel verkündet - und soll die deutsche…",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/bund-nvidia-zusammenarbeit-ki-100.html",
+   "published": "2026-10-19T19:23:41+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
    "paywall": false
   },
   {
@@ -775,78 +874,6 @@
    "published": "2026-10-16T02:04:15+00:00",
    "first_seen": "2026-10-16T02:18:08.703889+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: Gesetze, Klagen, Steuervorteil – so streitet Amerika über Trinkgeld",
-   "summary": "Roboter-Barista erbitten Trinkgeld, New York zwingt Liefer-Apps zur Abfrage. Der freiwillige Dank wird in Amerika zur Machtfrage und beschäftigt Gerichte – mit Signalwirkung für Deutschland.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/usa-gesetze-klagen-steuervorteil-so-streitet-amerika-ueber-trinkgeld/100261411.html",
-   "published": "2026-10-16T02:00:00+00:00",
-   "first_seen": "2026-10-16T02:18:08.703889+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Personalberatung: Diese Headhunter sind die stillen Lenker der deutschen Wirtschaft",
-   "summary": "Krise und KI treffen die Branche der Headhunter hart. Doch diese sechs Personalberater platzieren weiter Vorstände und Aufsichtsräte. Wer sind sie, wie ticken sie, für wen arbeiten sie?",
-   "link": "https://www.handelsblatt.com/unternehmen/management/personalberatung-das-sind-die-fuehrenden-headhunter-der-deutschen-wirtschaft/100256456.html",
-   "published": "2026-10-16T02:00:00+00:00",
-   "first_seen": "2026-10-16T02:18:08.703889+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Anthropic: Investoren erwarten laut Insidern niedrigere IPO-Bewertung",
-   "summary": "Beim Börsengang des Claude-Entwicklers stehen Berichten zufolge nun 1,5 statt zwei Billionen Dollar im Raum. Anleger sorgen sich um hohe KI-Kosten und langsameres Umsatzwachstum.",
-   "link": "https://www.handelsblatt.com/technik/ki/anthropic-investoren-erwarten-laut-insidern-niedrigere-ipo-bewertung/100262685.html",
-   "published": "2026-10-16T01:36:32+00:00",
-   "first_seen": "2026-10-16T02:18:08.703889+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Digitalisierung - Bundestag stimmt digitaler Brieftasche zu",
-   "summary": "Der Bundestag hat Neuerungen für Personalausweis und Pass auf den Weg gebracht.",
-   "link": "https://www.deutschlandfunk.de/bundestag-stimmt-digitaler-brieftasche-zu-106.html",
-   "published": "2026-10-15T23:22:45+00:00",
-   "first_seen": "2026-10-15T23:25:57.216656+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - Bericht: Bundesregierung vor KI-Partnerschaft mit Nvidia",
-   "summary": "Die Bundesregierung will Medienberichten zufolge eine Partnerschaft mit ‌dem US-Chipkonzern Nvidia ⁠schließen, um ⁠den Einsatz von Künstlicher Intelligenz in der Industrie voranzutreiben.",
-   "link": "https://www.deutschlandfunk.de/bericht-bundesregierung-vor-ki-partnerschaft-mit-nvidia-104.html",
-   "published": "2026-10-15T23:22:45+00:00",
-   "first_seen": "2026-10-15T23:25:57.216656+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Technologie - KI-Assistenz soll Rettungsschwimmer dabei unterstützen, Ertrinkende zu erkennen",
-   "summary": "Künstliche Intelligenz soll Menschen vor dem Ertrinken retten - zumindest indirekt. Als Unterstützung für Rettungsschwimmer können Kameras ein Schwimmbecken überwachen und auffällige Bewegungsmuster erkennen. Also zum Beispiel, wenn jemand…",
-   "link": "https://www.deutschlandfunk.de/ki-assistenz-soll-rettungsschwimmer-dabei-unterstuetzen-ertrinkende-zu-erkennen-102.html",
-   "published": "2026-10-15T23:22:45+00:00",
-   "first_seen": "2026-10-15T23:25:57.216656+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: „Es kann nicht Ziel sein, dass sich alle Schüler nur wohlfühlen“ – Bildungsforscher appelliert an Lehrer",
-   "summary": "Olaf Köller sieht starke Defizite im deutschen Bildungssystem. Als Hauptursache nennt er nicht Zuwanderung oder Social Media, sondern einen ganz anderen Punkt.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bildung-es-kann-nicht-ziel-sein-dass-sich-alle-schueler-nur-wohlfuehlen/100255718.html",
-   "published": "2026-10-15T20:00:00+00:00",
-   "first_seen": "2026-10-15T20:43:20.003845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-   "summary": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
-   "link": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
-   "published": "2026-10-15T19:20:05+00:00",
-   "first_seen": "2026-10-16T07:41:22.311782+00:00",
-   "paywall": false
   }
  ]
 }

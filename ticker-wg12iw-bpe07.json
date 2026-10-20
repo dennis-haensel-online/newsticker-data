@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-10-20T01:21:48.679852+00:00",
+ "updated": "2026-10-20T06:52:10.918506+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Nscale verhandelt mit Anthropic über 45-Milliarden-Dollar-Deal",
+   "summary": "Der Rechenzentrumsbetreiber Nscale musste bei Verhandlungen mit Microsoft kürzlich einen Rückschlag hinnehmen. Jetzt verhandelt der Konzern offenbar mit Anthropic.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-nscale-verhandelt-mit-anthropic-ueber-45-milliarden-dollar-deal/100263424.html",
+   "published": "2026-10-20T05:55:38+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei: Geopolitische Sorgen belasten Börsen in Asien",
+   "summary": "Asiatische Anleger agieren vor der anstehenden Berichtssaison der großen US-Tech-Konzerne spürbar vorsichtig. Auch die zunehmenden Unruhen in Europa setzen die Märkte unter Druck.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-geopolitische-sorgen-belasten-boersen-in-asien/100263408.html",
+   "published": "2026-10-20T03:25:20+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Russland-Sanktionen: Geschäftskontakte abgebrochen: Der Streit zwischen Deutscher Bank und Linde eskaliert",
+   "summary": "Der Streit über ein geplatztes Russlandgeschäft hat nicht nur ein juristisches Nachspiel, sondern führt auch zu einem Zerwürfnis zwischen den Konzernen. Die erste Runde könnte zugunsten der Bank ausgehen.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/russland-sanktionen-deutsche-bank-und-linde-brechen-geschaeftskontakte-ab/100262950.html",
+   "published": "2026-10-20T02:01:22+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation",
@@ -9,6 +36,15 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
    "published": "2026-10-19T19:29:00+00:00",
    "first_seen": "2026-10-19T22:01:08.090307+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+   "summary": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest in Germany\"-Gipfel verkündet - und soll die deutsche…",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/bund-nvidia-zusammenarbeit-ki-100.html",
+   "published": "2026-10-19T19:23:41+00:00",
+   "first_seen": "2026-10-20T06:52:10.918506+00:00",
    "paywall": false
   },
   {
@@ -477,51 +513,6 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/deutsche-industrie-wie-viele-kunden-china-den-firmen-abjagt/100262429.html",
    "published": "2026-10-16T03:52:46+00:00",
    "first_seen": "2026-10-16T07:41:22.311782+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - Unicredit erhält grünes Licht der EZB für Übernahme der Commerzbank",
-   "summary": "Die italienische Großbank Unicredit hat die Genehmigung der Europäischen Zentralbank für eine Übernahme der Commerzbank erhalten.",
-   "link": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-106.html",
-   "published": "2026-10-15T23:22:45+00:00",
-   "first_seen": "2026-10-15T23:25:57.216656+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - Unicredit erhält grünes Licht der EZB für Übernahme der Commerzbank",
-   "summary": "Die italienische Großbank Unicredit hat die Genehmigung der Europäischen Zentralbank für eine Übernahme der Commerzbank erhalten.",
-   "link": "https://www.deutschlandfunk.de/unicredit-erhaelt-gruenes-licht-der-ezb-fuer-uebernahme-der-commerzbank-100.html",
-   "published": "2026-10-15T20:33:14+00:00",
-   "first_seen": "2026-10-15T20:43:20.003845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
-   "summary": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
-   "link": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
-   "published": "2026-10-15T19:53:38+00:00",
-   "first_seen": "2026-10-15T20:43:20.003845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Banken: EZB gibt Unicredit grünes Licht für volle Commerzbank-Übernahme",
-   "summary": "Die italienische Großbank darf nun auch offiziell ihren Anteil an dem deutschen Institut auf rund 50 Prozent der Anteile aufstocken. Damit rückt eine Kontrollübernahme in greifbare Nähe.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ezb-gibt-unicredit-gruenes-licht-fuer-volle-commerzbank-uebernahme/100262659.html",
-   "published": "2026-10-15T19:41:44+00:00",
-   "first_seen": "2026-10-15T20:43:20.003845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bankenaufsicht: Unicredit: EZB genehmigt Übernahme von Commerzbank-Anteilen",
-   "summary": "Seit zwei Jahren pirscht sich die Unicredit an die Commerzbank heran. Mit einem Übernahmeangebot im Sommer verfehlte sie eine Mehrheit nur knapp. Nun gibt die EZB-Aufsicht den Italienern grünes Licht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bankenaufsicht-unicredit-ezb-genehmigt-uebernahme-von-commerzbank-anteilen/100262660.html",
-   "published": "2026-10-15T19:02:23+00:00",
-   "first_seen": "2026-10-15T20:43:20.003845+00:00",
    "paywall": true
   }
  ]
