@@ -1,6 +1,6 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-20T17:37:46.597989+00:00",
+ "updated": "2026-10-20T21:00:26.346065+00:00",
  "items": [
   {
    "label": "DLF",
@@ -795,6 +795,15 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "Nvidia-Chef Huang über Deutschlands Chancen bei Industrie-KI",
+   "summary": "Nvidia-Chef Huang sieht Deutschland als führenden Industriestandort. Diese Stärke müsse mit KI verbunden werden. Dafür plant die Bundesregierung einen Deal mit dem Chipkonzern.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-usa-ki-bundesregierung-deutschland-kooperation-100.html",
+   "published": "2026-10-16T23:00:00+00:00",
+   "first_seen": "2026-10-20T21:00:26.346065+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen verlieren deutlich  – Ausverkauf bei KI-Aktien geht weiter",
    "summary": "Am letzten Handelstag der Woche bewegt die US-Indizes eine Rede von Fed-Chef Warsh. An den Anleihemärkten gibt es Hinweise, dass der Ausverkauf von Staatsbonds vorerst vorbei sein könnte.",
@@ -827,15 +836,6 @@
    "summary": "Tech-Aktien standen nach einer schwachen Woche auch am Freitag unter Druck. Der Dow Jones konnte hingegen leicht zulegen. Markus Koch erklärt, dass Anleger aufgrund der Schwäche im KI-Sektor wieder vermehrt auf die Standardwerte übergehen.",
    "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ki-schwaeche-verbessert-die-marktbreite/100262885.html",
    "published": "2026-10-16T15:47:41+00:00",
-   "first_seen": "2026-10-16T17:04:55.454318+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/ki-wie-viel-automatisierung-vertraegt-der-bewerbungsprozess/100248546.html",
-   "published": "2026-10-16T14:19:00+00:00",
    "first_seen": "2026-10-16T17:04:55.454318+00:00",
    "paywall": true
   }
