@@ -1,7 +1,61 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-20T06:52:10.918506+00:00",
+ "updated": "2026-10-20T12:24:00.509839+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Vorfall im September - AfD bestätigt Hackerangriff auf E-Mail-Konten der Partei",
+   "summary": "Die AfD hat einen Hackerangriff auf E-Mailkonten der Partei bestätigt. Ein Sprecher teilte mit, im September sei es bei einem digitalen Dienstleister zu einem Vorfall gekommen. Dabei seien Daten aus seit Jahren kaum genutzten…",
+   "link": "https://www.deutschlandfunk.de/afd-bestaetigt-hackerangriff-auf-e-mail-konten-der-partei-100.html",
+   "published": "2026-10-20T12:05:56+00:00",
+   "first_seen": "2026-10-20T12:24:00.509839+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Investitionsgipfel: Amazon plant Investitionen von 16 Milliarden Euro in Deutschland",
+   "summary": "Anlässlich des Investitionsgipfels in Berlin kündigt Amazon Milliardeninvestitionen an. Das Geld soll in die Logistik fließen – sowie in den Cloudservice AWS.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/amazon-investitionen-deutschland-aws-logistik-cloud",
+   "published": "2026-10-20T11:53:13+00:00",
+   "first_seen": "2026-10-20T12:24:00.509839+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Digitale Souveränität: So umgeht Microsoft die Trump-Falle",
+   "summary": "Auf seiner Europa-Tour kündigt der Microsoft-CEO Satya Nadella tiefgreifende Umbauten seines Cloud-Dienstes Azure an, um Kunden vor Sanktionen der US-Regierung zu schützen. Reicht das?",
+   "link": "https://www.wiwo.de/unternehmen/it/microsoft-azure-schuetzt-der-cloud-umbau-vor-trump-sanktionen/100263446.html",
+   "published": "2026-10-20T11:20:01+00:00",
+   "first_seen": "2026-10-20T12:24:00.509839+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "E-Mail-Konten der AfD gehackt und Daten ins Netz gestellt",
+   "summary": "Hacker haben im September E-Mail-Konten der AfD angegriffen, wie die Partei bestätigt. Sie lässt offen, welche AfD-Politiker von dem Cyberangriff betroffen sind.",
+   "link": "https://www.zdfheute.de/politik/deutschland/afd-hackerangriff-e-mail-konten-100.html",
+   "published": "2026-10-20T09:51:00+00:00",
+   "first_seen": "2026-10-20T12:24:00.509839+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Online-Handel: Amazon plant Investitionen von rund 16 Milliarden Euro",
+   "summary": "16 Milliarden Euro will Amazon 2027 in Deutschland investieren – ein großer Teil soll in Cloud und KI rund um Frankfurt fließen. Was verändert sich außerdem an den Standorten?",
+   "link": "https://www.wiwo.de/unternehmen/handel/online-handel-amazon-plant-investitionen-von-rund-16-milliarden-euro/100263516.html",
+   "published": "2026-10-20T09:35:12+00:00",
+   "first_seen": "2026-10-20T12:24:00.509839+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Cloud und Satelliten: Amazon will 2027 16 Milliarden Euro in Deutschland investieren",
+   "summary": "„Einer der attraktivsten Investitionsstandorte Europas“: Amazon plant neue Milliardeninvestitionen in Deutschland. Das Geld soll unter anderem in eine Alternative zu Elon Musks Starlink fließen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-will-2027-16-milliarden-euro-in-deutschland-investieren-accg-201603852.html",
+   "published": "2026-10-20T09:15:11+00:00",
+   "first_seen": "2026-10-20T12:24:00.509839+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Medienbericht - Hackerangriff auf die AfD: Mails im Internet veröffentlicht",
