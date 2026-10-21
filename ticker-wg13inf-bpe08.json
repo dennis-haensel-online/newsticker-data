@@ -1,7 +1,88 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-21T05:32:56.165469+00:00",
+ "updated": "2026-10-21T10:50:34.131304+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Illegale Angebote - EU-Kommission ermittelt gegen Booking.com wegen Betrugsfällen",
+   "summary": "Die EU-Kommission hat Ermittlungen gegen das Reiseportal Booking.com wegen gefälschter Hotelanzeigen und möglicher Datenschutz-Risiken eingeleitet.",
+   "link": "https://www.deutschlandfunk.de/eu-kommission-ermittelt-gegen-booking-com-wegen-betrugsfaellen-102.html",
+   "published": "2026-10-21T10:47:23+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Medientage München - Söder für stärkere Regulierung von Social Media",
+   "summary": "Bayerns Ministerpräsident Söder hat sich für eine stärkere Regulierung von Social-Media-Portalen ausgesprochen.",
+   "link": "https://www.deutschlandfunk.de/soeder-fuer-staerkere-regulierung-von-social-media-100.html",
+   "published": "2026-10-21T10:47:23+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Geld: KI- und IT-Aktien: Lohnt sich der Einstieg jetzt noch?",
+   "summary": "Die Techkonzerne bewegen die Börsen - aber wie lange noch? Welche Chancen die Aktien bieten, wo die größten Risiken liegen und welche ETFs für Privatanleger infrage kommen.",
+   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/geldanlage-etf-ki-it-fonds-e804450/",
+   "published": "2026-10-21T10:03:00+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Arbeitskampf in der Chip-Industrie: Micron wendet Mikrochip-Engpass ab",
+   "summary": "Der US-Hersteller einigt sich mit der Gewerkschaft an seinem Produktionsstandort Taiwan. Vor allem der KI-Boom ist abhängig von dort gefertigten Chips. mehr...",
+   "link": "https://taz.de/Arbeitskampf-in-der-Chip-Industrie/!6223132/",
+   "published": "2026-10-21T09:40:00+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
+   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-wie-trumpf-die-robotik-mit-ki-voranbringen-will/100248242.html",
+   "published": "2026-10-21T09:36:00+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Unternehmensgründung: Wie Gründer wirklich von der Künstlichen Intelligenz profitieren",
+   "summary": "Zwei junge Selbständige erzählen, wie ihnen KI praktisch hilft – vor allem mit den unangenehmen Aufgaben, für die es sonst ein ganzes Team braucht.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wie-gruender-wirklich-von-der-kuenstlichen-intelligenz-profitieren-accg-201313169.html",
+   "published": "2026-10-21T09:32:32+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Entwarnung für KI-Branche – Micron wendet Chip-Engpass in Taiwan ab",
+   "summary": "Eine Einigung bei Micron entschärft vorerst die Gefahr neuer Engpässe bei Speicherchips. Ein geplanter Warnstreik in Taiwan könnte die globalen Lieferketten jedoch belasten.",
+   "link": "https://www.wiwo.de/unternehmen/it/entwarnung-fuer-ki-branche-micron-wendet-chip-engpass-in-taiwan-ab/100263868.html",
+   "published": "2026-10-21T09:31:17+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Zu viele Bildschirme: Die Küche als Ort der Sinne, nicht der Technik",
+   "summary": "Sensoren und KI ziehen in die Küchengeräte ein. Doch wichtiger als digitale Effekte sind gutes Material, kluge Ergonomie und die Frage, wie lange eine Küche wirklich bleibt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/die-kueche-als-ort-der-sinne-nicht-der-technik-accg-201282628.html",
+   "published": "2026-10-21T09:29:27+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/ki-recruiter-wie-viel-ki-vertraegt-der-bewerbungsprozess/100248546.html",
+   "published": "2026-10-21T08:49:00+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Die Wahrheit: Kostenpflichtige Intelligenz",
@@ -820,87 +901,6 @@
    "published": "2026-10-18T12:22:40+00:00",
    "first_seen": "2026-10-18T16:14:10.480139+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Forschungsprojekt - Waldschäden sollen mit Hilfe von KI und Satellitenbildern besser erfasst werden",
-   "summary": "Waldschäden sollen durch Satellitenbilder und KI in Zukunft besser erfasst werden. Ein Forschungsteam erprobt dazu ein neues Verfahren in Hessen, das später auch bundesweit eingesetzt werden soll.",
-   "link": "https://www.deutschlandfunk.de/waldschaeden-sollen-mit-hilfe-von-ki-und-satellitenbildern-besser-erfasst-werden-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "China: Neue Meldepflichten für Technologietransfers bei KI und Solarzellen",
-   "summary": "KI-Agenten, Solarzellen, Gentherapien – die chinesische Führung will strengere Auflagen für den Export von 40 Schlüsseltechnologien. Das Handelsministerium verweist auf Sicherheitsrisiken.",
-   "link": "https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen-a-ae2f20b3-9c63-4fbd-88fe-0e1f33391c51#ref=rss",
-   "published": "2026-10-18T11:53:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Außenhandel: China plant neue Exportkontrollen für Schlüsseltechnologien",
-   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
-   "link": "https://www.wiwo.de/politik/ausland/aussenhandel-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien/100262841.html",
-   "published": "2026-10-18T10:01:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handel: China plant neue Exportkontrollen für Schlüsseltechnologien",
-   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
-   "link": "https://www.handelsblatt.com/politik/international/china-neue-exportkontrollen-fuer-schluesseltechnologien-geplant/100263058.html",
-   "published": "2026-10-18T09:23:51+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Außenhandel: China plant neue Exportkontrollen für Schlüsseltechnologien",
-   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien/100263059.html",
-   "published": "2026-10-18T08:39:16+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: China verdreifacht seine Dieselexporte",
-   "summary": "Lagarde warnt vor höheren Anleiherenditen +++ Bundesregierung plant KI-Kooperation mit Nvidia +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-china-verdreifacht-seine-diesel-exporte-faz-200452404.html",
-   "published": "2026-10-18T07:21:27+00:00",
-   "first_seen": "2026-10-18T07:33:26.653744+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hackbacks im Cyberkrieg: Darf der Staat bald zurückhacken?",
-   "summary": "Der Angriff auf die Rechenzentren von Yandex zeigt, wie verwundbar digitale Infrastruktur ist. Könnten auch staatliche Cyberangriffe zur Waffe moderner Konflikte werden?",
-   "link": "https://www.zdfheute.de/wissen/cyberangriff-sicherheit-terrax-nano-dennis-kenji-kipker-kolumne-100.html",
-   "published": "2026-10-18T07:00:00+00:00",
-   "first_seen": "2026-10-18T07:33:26.653744+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "KI im Alltag: Chatty, danke für die Hilfe, ab jetzt lieber ohne dich",
-   "summary": "Unsere Autorin nutzt Künstliche Intelligenz seit einiger Zeit für die Uni. Und fragt sich inzwischen: Werde ich durch den Chatbot faul? mehr...",
-   "link": "https://taz.de/Ich-benutze-KI-fuer-die-Uni-werde-ich-dadurch-faul/!6218205/",
-   "published": "2026-10-17T18:16:00+00:00",
-   "first_seen": "2026-10-17T19:51:25.789935+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Baden-Württemberg - Nach Cyberangriff auf Hochschulservicezentrum sind Noten- und Stundenpläne offline",
-   "summary": "Der Cyberangriff auf das Hochschulservicezentrum Baden-Württemberg, HSZ, hat erhebliche Auswirkungen für Studierende und Lehrkräfte.",
-   "link": "https://www.deutschlandfunk.de/nach-cyberangriff-auf-hochschulservicezentrum-sind-noten-und-stundenplaene-offline-100.html",
-   "published": "2026-10-17T14:31:14+00:00",
-   "first_seen": "2026-10-17T14:40:05.220158+00:00",
-   "paywall": false
   }
  ]
 }

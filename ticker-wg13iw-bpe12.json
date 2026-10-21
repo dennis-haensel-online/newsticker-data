@@ -1,7 +1,70 @@
 {
  "id": "wg13iw-bpe12",
- "updated": "2026-10-21T05:32:56.165469+00:00",
+ "updated": "2026-10-21T10:50:34.131304+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Medientage München - Söder für stärkere Regulierung von Social Media",
+   "summary": "Bayerns Ministerpräsident Söder hat sich für eine stärkere Regulierung von Social-Media-Portalen ausgesprochen.",
+   "link": "https://www.deutschlandfunk.de/soeder-fuer-staerkere-regulierung-von-social-media-100.html",
+   "published": "2026-10-21T10:47:23+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Verbraucherschutz: EU ermittelt gegen Booking.com wegen Betrugsfällen",
+   "summary": "Gefälschte Unterkunftsangebote und Identitätsbetrug: Die EU-Kommission will prüfen, ob das Reiseportal die Nutzer genügend gegen Betrug schützt. Auch die Transparenz bei Werbung hat Brüssel im Visier.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/booking-com-eu-kommission-betrug-verbraucherschutz-phishing-li.3566879",
+   "published": "2026-10-21T10:28:06+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Reiseportal: EU ermittelt gegen Booking.com wegen Betrugsfällen",
+   "summary": "Scheinunterkünfte, Identitätsbetrug und Phishing: Die EU-Kommission prüft, ob Booking.com genug gegen Betrüger unternimmt. Auch die Transparenz bei Werbung hat Brüssel im Visier.",
+   "link": "https://www.wiwo.de/politik/europa/booking.com-eu-ermittelt-wegen-betrugsfaellen-gegen-das-reiseportal/100263894.html",
+   "published": "2026-10-21T10:23:37+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Booking.com: EU ermittelt gegen Reiseportal wegen Betrugsfällen",
+   "summary": "Scheinunterkünfte, Identitätsbetrug und Phishing: Die EU-Kommission prüft, ob Booking.com genug gegen Betrüger unternimmt. Auch die Transparenz bei Werbung hat Brüssel im Visier.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/booking.com-eu-ermittelt-gegen-reiseportal-wegen-betrugsfaellen/100263883.html",
+   "published": "2026-10-21T10:11:03+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Verbraucherschutz: EU ermittelt gegen Booking.com wegen Betrugsfällen",
+   "summary": "Scheinunterkünfte, Identitätsbetrug und Phishing: Die EU-Kommission prüft, ob Booking.com genug gegen Betrüger unternimmt. Auch die Transparenz bei Werbung hat Brüssel im Visier.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/verbraucherschutz-eu-ermittelt-gegen-bookingcom-wegen-betrugsfaellen/100263897.html",
+   "published": "2026-10-21T10:06:36+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Krise in der Autoindustrie: Sparmaßnahmen: Audi streicht an vielen Stellen Sponsoring",
+   "summary": "Insbesondere in Ingolstadt entfallen dadurch zahlreiche Veranstaltungen und Förderungen. Die Entscheidungen seien nicht leichtgefallen, heißt es.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/krise-in-der-autoindustrie-sparmassnahmen-audi-streicht-an-vielen-stellen-sponsoring/100263878.html",
+   "published": "2026-10-21T09:47:53+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
+   "summary": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz. Neue Produktionen sollen helfen, die Zuschauer wieder mehr zu fesseln - und mehr Werbung zu verkaufen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
+   "published": "2026-10-21T08:20:43+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Investitionsgipfel: „Ein erfolgreicher Gipfel ist noch keine erfolgreiche Standortpolitik“",
@@ -315,33 +378,6 @@
    "link": "https://www.deutschlandfunk.de/starlink-drosselung-behindert-ukrainische-drohnenabwehr-100.html",
    "published": "2026-10-17T14:31:14+00:00",
    "first_seen": "2026-10-17T14:40:05.220158+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Welche Drohnen Satelliteninternet brauchen",
-   "summary": "Störungen bei Starlink haben ukrainische Drohneneinsätze beeinträchtigt. Welche Drohnen Satellitenverbindungen brauchen - und welche ohne sie auskommen.",
-   "link": "https://www.zdfheute.de/politik/ausland/drohnen-starlink-satellitenverbindung-ukraine-krieg-russland-100.html",
-   "published": "2026-10-17T07:55:00+00:00",
-   "first_seen": "2026-10-17T11:51:21.625937+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Hype ums Hähnchen: Wer profitiert und wer die Folgen trägt",
-   "summary": "Chicken-Imbisse schießen aus dem Boden und werden auf Social Media gehypt. Der Geflügel-Konsum steigt stark an. Was das für Gastronomie, Verbraucher und Landwirtschaft bedeutet.",
-   "link": "https://www.zdfheute.de/wirtschaft/haehnchen-tiktok-chicken-imbiss-landwirtschaft-tierwohl-100.html",
-   "published": "2026-10-17T07:47:00+00:00",
-   "first_seen": "2026-10-17T11:51:21.625937+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Sudan - 30 Tote bei Drohnenangriff auf Markt in Darfur",
-   "summary": "In der sudanesischen Region Darfur hat es bei einem Drohnenangriff auf einen Viehmarkt zahlreiche Opfer gegeben.",
-   "link": "https://www.deutschlandfunk.de/30-tote-bei-drohnenangriff-auf-markt-in-darfur-100.html",
-   "published": "2026-10-17T02:03:23+00:00",
-   "first_seen": "2026-10-17T02:10:43.141475+00:00",
    "paywall": false
   }
  ]

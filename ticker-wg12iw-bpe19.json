@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-21T05:32:56.165469+00:00",
+ "updated": "2026-10-21T10:50:34.131304+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
+   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
+   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-diese-fachkraefte-haben-gute-chancen-in-der-ruestungsindustrie/100211178.html",
+   "published": "2026-10-21T08:51:00+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Russland-Ukraine-Krieg: Experten warnen vor neuem wirtschaftlichen Einbruch in der Ukrain",
+   "summary": "Die anhaltenden russischen Angriffe auf die Ukraine schwächen das Wirtschaftswachstum des Landes. Experten sehen den Winter als »harte Bewährungsprobe«. Putin könne seinen Krieg trotz Sanktionen weiterfinanzieren.",
+   "link": "https://www.spiegel.de/wirtschaft/russland-ukraine-krieg-wirtschaft-der-ukraine-mit-dem-ruecken-zur-wand-a-85e03e5b-d7b4-4f42-85f7-a5ac6fdf9174#ref=rss",
+   "published": "2026-10-21T08:33:00+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
+   "summary": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - der Start verursacht einen Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
+   "published": "2026-10-21T07:25:52+00:00",
+   "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Streaming: Netflix wächst langsamer",
@@ -505,42 +532,6 @@
    "published": "2026-10-17T14:48:00+00:00",
    "first_seen": "2026-10-17T17:38:19.991042+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Nachhaltigkeit: Die große Clean-Tech-Rally: Wachstum dank Umwelt- und Klimaschutz",
-   "summary": "Clean Tech ist mittlerweile eine Schlüsselindustrie. Deutsche Unternehmen erwarten weiter wachsende Märkte. Allerdings wächst auch die Konkurrenz, vor allem aus China.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-grosse-clean-tech-rally-wachstum-dank-umwelt-und-klimaschutz-accg-201274249.html",
-   "published": "2026-10-17T08:58:10+00:00",
-   "first_seen": "2026-10-17T11:51:21.625937+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Gesundheit, Pflege, Arbeitslosigkeit: Das Geldproblem des Sozialstaats",
-   "summary": "Die Sozialkassen erhalten Milliardenkredite. Eine heikle Scheinlösung: Ohne das Geld müsste der Bund die Beiträge erhöhen oder Leistungen kürzen.",
-   "link": "https://www.wiwo.de/politik/deutschland/gesundheit-pflege-arbeitslosigkeit-das-geldproblem-des-sozialstaats/100262280.html",
-   "published": "2026-10-17T06:56:40+00:00",
-   "first_seen": "2026-10-17T07:19:23.960769+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Bericht – IW sieht steigendes Wachstumspotenzial der deutschen Wirtschaft ab 2030",
-   "summary": "Investitionen sollen der deutschen Wirtschaft langfristig mehr Schwung verleihen. Der demografische Wandel bremst jedoch das Wachstum, weil weniger Menschen im erwerbsfähigen Alter sein werden.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-bericht-iw-sieht-steigendes-wachstumspotenzial-der-deutschen-wirtschaft-ab-2030/100262926.html",
-   "published": "2026-10-17T00:52:31+00:00",
-   "first_seen": "2026-10-17T02:10:43.141475+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: IW sieht steigendes Wachstumspotenzial der Wirtschaft ab 2030",
-   "summary": "Investitionen sollen der deutschen Wirtschaft langfristig mehr Schwung verleihen. Der demografische Wandel bremst jedoch das Wachstum, weil weniger Menschen im erwerbsfähigen Alter sein werden.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-iw-sieht-steigendes-wachstumspotenzial-der-wirtschaft-ab-2030/100262926.html",
-   "published": "2026-10-17T00:52:31+00:00",
-   "first_seen": "2026-10-18T07:33:26.653744+00:00",
-   "paywall": true
   }
  ]
 }
