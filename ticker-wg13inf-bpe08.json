@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-20T21:00:26.346065+00:00",
+ "updated": "2026-10-21T00:14:09.489988+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
+   "summary": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
+   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-106.html",
+   "published": "2026-10-20T23:40:03+00:00",
+   "first_seen": "2026-10-21T00:14:09.489988+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: China kritisiert US-Verbot der KI-App DeepSeek in Bundesbehörden",
+   "summary": "Das chinesische Unternehmen wirft den USA vor, dass Sicherheitsfragen nur ein Deckmantel seien. US-Behörden hatten den Einsatz von KI-Modellen zuvor verboten.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-china-kritisiert-us-verbot-der-ki-app-deepseek-in-bundesbehoerden/100263744.html",
+   "published": "2026-10-20T23:13:01+00:00",
+   "first_seen": "2026-10-21T00:14:09.489988+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Weltraumfirma: Musks SpaceX mit Milliarden-Quartalsgewinn",
+   "summary": "Die Weltraumfirma SpaceX fuhr lange einen Milliardenverlust nach dem anderen ein. Dank Erlösen aus KI-Rechenzentren und dem Satelliten-Dienst Starlink gibt es nun schwarze Zahlen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/weltraumfirma-musks-spacex-mit-milliarden-quartalsgewinn/100263736.html",
+   "published": "2026-10-20T21:06:58+00:00",
+   "first_seen": "2026-10-21T00:14:09.489988+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
@@ -810,33 +837,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-dow-jones-schliesst-03-prozent-niedriger/100262834.html",
    "published": "2026-10-16T18:22:00+00:00",
    "first_seen": "2026-10-16T23:08:32.918159+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Dow Jones, S&P 500, Nasdaq: US-Börsen verlieren deutlich  – Ausverkauf bei KI-Aktien geht weiter",
-   "summary": "Am letzten Handelstag der Woche bewegt die US-Indizes eine Rede von Fed-Chef Warsh. An den Anleihemärkten gibt es Hinweise, dass der Ausverkauf von Staatsbonds vorerst vorbei sein könnte.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-verlieren-deutlich-ki-aktien-unter-druck/100262834.html",
-   "published": "2026-10-16T16:07:00+00:00",
-   "first_seen": "2026-10-16T17:04:55.454318+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Viele KI-Träume werden platzen – nur welche?",
-   "summary": "Die jüngste „Korrektur“ der KI-Aktien offenbart: KI schafft gigantische Werte. Doch die ökonomische Rechnung kann nicht für alle Beteiligten aufgehen.",
-   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ipo-platzt-der-traum-von-der-rekordbewertung-des-ki-konzerns/100262609.html",
-   "published": "2026-10-16T16:03:21+00:00",
-   "first_seen": "2026-10-16T17:04:55.454318+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: KI-Schwäche verbessert die Marktbreite",
-   "summary": "Tech-Aktien standen nach einer schwachen Woche auch am Freitag unter Druck. Der Dow Jones konnte hingegen leicht zulegen. Markus Koch erklärt, dass Anleger aufgrund der Schwäche im KI-Sektor wieder vermehrt auf die Standardwerte übergehen.",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ki-schwaeche-verbessert-die-marktbreite/100262885.html",
-   "published": "2026-10-16T15:47:41+00:00",
-   "first_seen": "2026-10-16T17:04:55.454318+00:00",
    "paywall": true
   }
  ]
