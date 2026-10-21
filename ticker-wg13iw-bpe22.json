@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-21T00:14:09.489988+00:00",
+ "updated": "2026-10-21T05:32:56.165469+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
+   "summary": "China setzt Europas Unternehmen zunehmend unter Druck - auch mit massiven Subventionen. Doch höhere Zölle allein reichen kaum aus. Was kann die EU noch tun, um ihre Wirtschaft zu schützen? Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
+   "published": "2026-10-21T04:41:58+00:00",
+   "first_seen": "2026-10-21T05:32:56.165469+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Leistungsbilanzüberschuss: So hoch fällt der Leistungsbilanzüberschuss Deutschlands aus",
@@ -228,6 +237,15 @@
    "paywall": true
   },
   {
+   "label": "FAZ",
+   "title": "Handel mit China: Deutschland ist ganz schön scheinheilig",
+   "summary": "Es ist nichts dagegen einzuwenden, wenn sich die EU dafür rüstet, in Handelskriegen zurückzuschlagen. Vielleicht wird es aber auch Zeit, zu akzeptieren, dass China schlicht innovativere Produkte baut.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/export-debatte-mit-china-deutschland-ist-ganz-schoen-scheinheilig-201339876.html",
+   "published": "2026-10-18T09:16:14+00:00",
+   "first_seen": "2026-10-21T05:32:56.165469+00:00",
+   "paywall": true
+  },
+  {
    "label": "Handelsblatt",
    "title": "Außenhandel: China plant neue Exportkontrollen für Schlüsseltechnologien",
    "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
@@ -298,15 +316,6 @@
    "published": "2026-10-17T02:11:47+00:00",
    "first_seen": "2026-10-17T07:19:23.960769+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Proteste gegen IWF und Weltbank: Opfer konfrontieren Weltbank mit gescheitertem Projekt",
-   "summary": "In Thailand protestieren Menschen gegen die Weltbank, die den Preis für deren unerfülltes Wohlstandsversprechen zahlen mussten. mehr...",
-   "link": "https://taz.de/Proteste-gegen-IWF-und-Weltbank/!6222192/",
-   "published": "2026-10-16T17:06:00+00:00",
-   "first_seen": "2026-10-16T20:16:10.176733+00:00",
-   "paywall": false
   }
  ]
 }
