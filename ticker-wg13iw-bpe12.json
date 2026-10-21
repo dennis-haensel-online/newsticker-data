@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe12",
- "updated": "2026-10-21T10:50:34.131304+00:00",
+ "updated": "2026-10-21T15:44:32.741197+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Verteidigung: Bundeswehr stuft Bedrohung durch Sabotage hoch",
+   "summary": "Ob Drohnenangriffe oder Cyberattacken: Russland wagt sich mit seiner sogenannten hybriden Kriegsführung nach Einschätzung von Sicherheitsbehörden und Bundeswehr immer weiter vor.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/verteidigung-bundeswehr-stuft-bedrohung-durch-sabotage-hoch/100263982.html",
+   "published": "2026-10-21T12:59:54+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Audi streicht Gelder für Weihnachtskonzert, Firmenläufe, Jugendchorakademie",
+   "summary": "Der Sparkurs bei Audi trifft auch Sport- und Kulturevents. An den Standorten Ingolstadt und Neckarsulm beendet die VW-Tochter viele Sponsorings und gibt als Begründung einen »verantwortungsvollen Umgang mit den verfügbaren Ressourcen« an.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/audi-streicht-gelder-fuer-weihnachtskonzert-firmenlaeufe-jugendchorakademie-a-f66104f2-3b69-4cdf-87f0-6d60076537e5#ref=rss",
+   "published": "2026-10-21T12:11:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Medientage München - Söder für stärkere Regulierung von Social Media",
@@ -324,60 +342,6 @@
    "link": "https://www.deutschlandfunk.de/zwei-tote-bei-russischen-luftangriffen-auf-die-ukraine-massiver-drohnenangriff-auf-st-petersburg-gem-100.html",
    "published": "2026-10-18T07:31:01+00:00",
    "first_seen": "2026-10-18T07:33:26.653744+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Ukraine-Krieg - Russische Hauptstadt Moskau Ziel massiver Angriffe - Selenskyj: Satelliteninternet weiter gedrosselt",
-   "summary": "Russland ist nach eigenen Angaben Ziel massiver ukrainischer Drohnenangriffe.",
-   "link": "https://www.deutschlandfunk.de/russische-hauptstadt-moskau-ziel-massiver-angriffe-selenskyj-satelliteninternet-weiter-gedrosselt-100.html",
-   "published": "2026-10-18T07:31:01+00:00",
-   "first_seen": "2026-10-18T07:33:26.653744+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Ukraine-Krieg - Russische Hauptstadt Ziel massiver Angriffe - Selenskyj: Satelliteninternet weiter gedrosselt",
-   "summary": "Russland ist nach eigenen Angaben Ziel massiver ukrainischer Drohnenangriffe.",
-   "link": "https://www.deutschlandfunk.de/russische-hauptstadt-ziel-massiver-angriffe-selenskyj-satelliteninternet-weiter-gedrosselt-104.html",
-   "published": "2026-10-17T23:04:00+00:00",
-   "first_seen": "2026-10-17T23:38:32.662111+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Erneuter Vorfall - Kampfjets schießen Drohnen über Rumänien ab",
-   "summary": "In Rumänien hat die Armee zwei Drohnen über dem Schwarzen Meer abgeschossen.",
-   "link": "https://www.deutschlandfunk.de/kampfjets-schiessen-drohnen-ueber-rumaenien-ab-108.html",
-   "published": "2026-10-17T23:04:00+00:00",
-   "first_seen": "2026-10-17T23:38:32.662111+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Erneuter Vorfall - Kampfjets schießen Drohnen über Rumänien ab",
-   "summary": "In Rumänien hat die Armee zwei Drohnen über dem Schwarzen Meer abgeschossen.",
-   "link": "https://www.deutschlandfunk.de/kampfjets-schiessen-drohnen-ueber-rumaenien-ab-102.html",
-   "published": "2026-10-17T19:45:02+00:00",
-   "first_seen": "2026-10-17T19:51:25.789935+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-   "summary": "Immer mehr Menschen bestellen online. Auch die Zahl der Rücksendungen nimmt stetig zu. Ein lohnendes Geschäft für Kioskbesitzer, Paketunternehmen. Kritik kommt von Umweltschützern. Von Lucretia Gather.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-   "published": "2026-10-17T16:14:36+00:00",
-   "first_seen": "2026-10-17T17:38:19.991042+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Selenskyj - Starlink-Drosselung behindert ukrainische Drohnenabwehr",
-   "summary": "In der Ukraine gibt es offenbar weiter Einschränkungen beim US-Satelliten-Internetdienst Starlink.",
-   "link": "https://www.deutschlandfunk.de/starlink-drosselung-behindert-ukrainische-drohnenabwehr-100.html",
-   "published": "2026-10-17T14:31:14+00:00",
-   "first_seen": "2026-10-17T14:40:05.220158+00:00",
    "paywall": false
   }
  ]

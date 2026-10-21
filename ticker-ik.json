@@ -1,6 +1,6 @@
 {
  "id": "ik",
- "updated": "2026-10-21T10:50:34.131304+00:00",
+ "updated": "2026-10-21T15:44:32.741197+00:00",
  "items": [
   {
    "label": "taz",
@@ -63,6 +63,15 @@
    "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5241270",
    "published": "2026-10-20T14:35:00+00:00",
    "first_seen": "2026-10-20T17:37:46.597989+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Festakt 65 Jahre deutsch-türkisches Anwerbeabkommen",
+   "summary": "Festakt 65 Jahre deutsch-türkisches Anwerbeabkommen, Reden von Natalie Pawlik (Beauftragte der Bundesregierung für Migration und Integration) und Bundeskanzler Friedrich Merz",
+   "link": "https://www.phoenix.de/65-jahre-anwerbeabkommen-a-5241211.html",
+   "published": "2026-10-20T14:35:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
    "paywall": false
   },
   {
@@ -217,60 +226,6 @@
    "published": "2026-10-18T08:38:56+00:00",
    "first_seen": "2026-10-18T12:17:16.654651+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "EU-Asylpolitik: Von Litauen lernen",
-   "summary": "Die EU will das durch einen sogenannten „Krisenmechanismus“ das Asylrecht aussetzen dürfen – nach baltischem Vorbild. Wird so das Grundrecht auf Asyl abgeräumt? mehr...",
-   "link": "https://taz.de/EU-Asylpolitik/!6221230/",
-   "published": "2026-10-18T07:28:00+00:00",
-   "first_seen": "2026-10-18T07:33:26.653744+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Die Linke - Partei-Chefin Schwerdtner weist Antisemitismus-Vorwürfe zurück",
-   "summary": "Die Bundesvorsitzende der Linken, Schwerdtner, hat Antisemitismus-Vorwürfe gegen ihre Partei zurückgewiesen.",
-   "link": "https://www.deutschlandfunk.de/partei-chefin-schwerdtner-weist-antisemitismus-vorwuerfe-zurueck-104.html",
-   "published": "2026-10-17T23:04:00+00:00",
-   "first_seen": "2026-10-17T23:38:32.662111+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Die Linke - Partei-Chefin Schwerdtner weist Antisemitismus-Vorwürfe zurück",
-   "summary": "Die Bundesvorsitzende der Linken, Schwerdtner, hat Antisemitismus-Vorwürfe gegen ihre Partei zurückgewiesen.",
-   "link": "https://www.deutschlandfunk.de/partei-chefin-schwerdtner-weist-antisemitismus-vorwuerfe-zurueck-102.html",
-   "published": "2026-10-17T17:31:38+00:00",
-   "first_seen": "2026-10-17T17:38:19.991042+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Parteitag: Linken-Chefin weist Antisemitismus-Vorwürfe zurück",
-   "summary": "Die Linken werden seit Wochen immer wieder mit Antisemitismus-Vorwürfen konfrontiert. Parteichefin Schwerdtner weist das strikt zurück – und vermutet Kalkül der politischen Gegner.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/parteitag-linken-chefin-weist-antisemitismus-vorwuerfe-zurueck/100262984.html",
-   "published": "2026-10-17T13:54:22+00:00",
-   "first_seen": "2026-10-17T14:40:05.220158+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Ukrainer in Spanien: Für immer im Land bleiben",
-   "summary": "Ein staatliches Programm hilft ukrainischen Geflüchteten in Spanien bei der Integration. Mit dem „vorübergehenden Schutzstatus“ können sie arbeiten. mehr...",
-   "link": "https://taz.de/Ukrainer-in-Spanien/!6209056/",
-   "published": "2026-10-17T12:06:00+00:00",
-   "first_seen": "2026-10-17T14:40:05.220158+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Ukrainer in Spanien: Menschen für Menschen",
-   "summary": "Mehr als 250.000 ukrainische Geflüchtete leben in Spanien. Eine aktive spanisch-ukrainische Zivilgesellschaft hilft ihnen bei der Integration. mehr...",
-   "link": "https://taz.de/Ukrainer-in-Spanien/!6184845/",
-   "published": "2026-10-17T12:03:00+00:00",
-   "first_seen": "2026-10-17T14:40:05.220158+00:00",
-   "paywall": false
   }
  ]
 }

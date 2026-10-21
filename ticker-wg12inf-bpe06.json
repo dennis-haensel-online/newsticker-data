@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-21T10:50:34.131304+00:00",
+ "updated": "2026-10-21T15:44:32.741197+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "PHP-Webskriptsprache: Gravierende Sicherheitslücke bedroht weltweit Webseiten",
+   "summary": "Zwei kritische Fehler in der populären Programmiersprache PHP machen zahlreiche Internetseiten anfällig für Hackerangriffe. Zahlreiche Onlinedienste sind derzeit in Gefahr.",
+   "link": "https://www.wiwo.de/unternehmen/it/kritische-php-sicherheitsluecke-bsi-raet-zum-server-shutdown/100263975.html",
+   "published": "2026-10-21T15:00:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Illegale Angebote - EU-Kommission ermittelt gegen Booking.com wegen Betrugsfällen",
@@ -163,24 +172,6 @@
    "published": "2026-10-18T18:33:27+00:00",
    "first_seen": "2026-10-18T19:05:17.602163+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hackbacks im Cyberkrieg: Darf der Staat bald zurückhacken?",
-   "summary": "Der Angriff auf die Rechenzentren von Yandex zeigt, wie verwundbar digitale Infrastruktur ist. Könnten auch staatliche Cyberangriffe zur Waffe moderner Konflikte werden?",
-   "link": "https://www.zdfheute.de/wissen/cyberangriff-sicherheit-terrax-nano-dennis-kenji-kipker-kolumne-100.html",
-   "published": "2026-10-18T07:00:00+00:00",
-   "first_seen": "2026-10-18T07:33:26.653744+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Baden-Württemberg - Nach Cyberangriff auf Hochschulservicezentrum sind Noten- und Stundenpläne offline",
-   "summary": "Der Cyberangriff auf das Hochschulservicezentrum Baden-Württemberg, HSZ, hat erhebliche Auswirkungen für Studierende und Lehrkräfte.",
-   "link": "https://www.deutschlandfunk.de/nach-cyberangriff-auf-hochschulservicezentrum-sind-noten-und-stundenplaene-offline-100.html",
-   "published": "2026-10-17T14:31:14+00:00",
-   "first_seen": "2026-10-17T14:40:05.220158+00:00",
-   "paywall": false
   }
  ]
 }

@@ -1,7 +1,115 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-21T10:50:34.131304+00:00",
+ "updated": "2026-10-21T15:44:32.741197+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "PHP-Webskriptsprache: Gravierende Sicherheitslücke bedroht weltweit Webseiten",
+   "summary": "Zwei kritische Fehler in der populären Programmiersprache PHP machen zahlreiche Internetseiten anfällig für Hackerangriffe. Zahlreiche Onlinedienste sind derzeit in Gefahr.",
+   "link": "https://www.wiwo.de/unternehmen/it/kritische-php-sicherheitsluecke-bsi-raet-zum-server-shutdown/100263975.html",
+   "published": "2026-10-21T15:00:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Getty Images: Bildagentur Getty Images meldet Insolvenz an",
+   "summary": "Die US-Bildagentur Getty will sich unter Gläubigerschutz neu aufstellen. Hintergrund ist unter anderem die Konkurrenz durch KI-generierte Bilder.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/getty-images-insolvenz-usa-chapter-11",
+   "published": "2026-10-21T14:45:42+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Rückenwind aus dem Tech-Sektor: SpaceX-Aktie steigt deutlich",
+   "summary": "Mehrere gute Unternehmenszahlen aus KI und Tech stimmen die Wall Street heute etwas freundlicher. Doch der Ölpreis bleibt ein Belastungsfaktor.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-rueckenwind-aus-dem-tech-sektor-spacex-aktie-steigt-deutlich/100263997.html",
+   "published": "2026-10-21T14:36:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Großbritannien: KI-Boom treibt das Wachstum der britischen Wirtschaft an",
+   "summary": "Der vermehrte Einsatz Künstlicher Intelligenz (KI) steigert die Produktivität vieler britischer Firmen. Aber auch Deutschland kann von dem Technologieschub profitieren.",
+   "link": "https://www.handelsblatt.com/politik/international/grossbritannien-ki-boom-treibt-das-wachstum-der-britischen-wirtschaft-an/100263358.html",
+   "published": "2026-10-21T14:17:45+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "KI-Revolution: Jensen Huang erklärt, was auf die Menscheit zukommt",
+   "summary": "In Berlin präsentiert der Gründer und Chef des Chipdesigners Nvidia, wie er sich die Industrie der Zukunft vorstellt – und zeigt dem Publikum mehr als nur ein paar tanzende Roboter.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/jensen-huang-in-berlin-nvidia-startet-die-industrielle-ki-revolution-201608811.html",
+   "published": "2026-10-21T13:57:44+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Eternal: Gewächshaus ohne Menschen: Wenn autonome Roboter die Tomatenernte übernehmen",
+   "summary": "Erntehelfer im Gewächshaus sind rar und teuer. Deshalb entwickelt Eternal aus Köln Roboter, die Tomaten mithilfe von KI pflücken. Bald schon sollen die Maschinen mehr können.",
+   "link": "https://www.handelsblatt.com/technik/ki/eternal-mit-autonomen-ernterobotern-gegen-die-personalnot-im-gewaechshaus/100259774.html",
+   "published": "2026-10-21T13:51:30+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Reisen und KI: Bucht Chat-GPT den Urlaub?",
+   "summary": "Mit KI können Reisende mittlerweile ihren Urlaub planen und buchen. Das stellt Veranstalter und Reisebüros vor schwierige Fragen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/kuenstliche-intelligenz-chatgpt-urlaub-buchung-reisebranche-tourismus-li.3564139",
+   "published": "2026-10-21T13:40:58+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: Nvidia präsentiert sich als Partner für Europas KI-Zukunft",
+   "summary": "In Berlin verspricht Jensen Huang einen Turbo für Rechenzentren, sichere KI-Agenten und Modelle für physische KI. Der Nvidia-Chef schnürt ein Rundum-Paket – Protest gibt es dennoch.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-nvidia-praesentiert-sich-als-partner-fuer-europas-ki-zukunft/100261884.html",
+   "published": "2026-10-21T13:26:26+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: KI für Juristen: Start-up Legora verfünffacht seine Bewertung innerhalb eines Jahres",
+   "summary": "Das schwedische Start-up für Rechts-KI wird von Investoren jetzt mit 8,8 Milliarden Dollar bewertet. Zu den Kunden Legoras zählen Anwaltskanzleien und Konzerne wie BMW.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-start-up-legora-verfuenffacht-seine-bewertung-innerhalb-eines-jahres/100263692.html",
+   "published": "2026-10-21T13:04:21+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Baubranche: Forscher warnen vor Preissteigerungen",
+   "summary": "Der deutsche Staat investiert Milliarden in die Sanierung der Infrastruktur. Doch laut einer Studie drohen die Mittel zu verpuffen, wenn die Baubranche nicht produktiver wird. Dabei könnten auch Roboter helfen.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/baubranche-forscher-warnen-vor-preissteigerungen-a-bf413879-905b-447a-9d05-a39fdb751489#ref=rss",
+   "published": "2026-10-21T12:58:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technologiekonferenz GTC: Nvidia-Chef Huang sieht Europa als KI-Schlüsselakteur",
+   "summary": "„KI-Fabriken“ statt klassischer Software: Nvidia-Chef Jensen Huang vergleicht den Wandel mit einer industriellen Revolution. Welche Rolle wird Europa dabei übernehmen?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technologiekonferenz-gtc-nvidia-chef-huang-sieht-europa-als-ki-schluesselakteur/100263945.html",
+   "published": "2026-10-21T12:46:47+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Sascha Lobo widerspricht düsteren KI-Szenarien",
+   "summary": "Digitalexperte Sascha Lobo widerspricht bei \"Markus Lanz\" düsteren Warnungen vor künstlicher Intelligenz. Er sieht dahinter auch wirtschaftliche Interessen.",
+   "link": "https://www.zdfheute.de/wirtschaft/lanz-ki-panik-sascha-lobo-100.html",
+   "published": "2026-10-21T11:04:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Illegale Angebote - EU-Kommission ermittelt gegen Booking.com wegen Betrugsfällen",
@@ -27,6 +135,15 @@
    "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/geldanlage-etf-ki-it-fonds-e804450/",
    "published": "2026-10-21T10:03:00+00:00",
    "first_seen": "2026-10-21T10:50:34.131304+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Geld: KI- und IT-Aktien: Lohnt sich der Einstieg jetzt noch?",
+   "summary": "Die Techkonzerne bewegen die Börsen - aber wie lange noch? Welche Chancen die Aktien bieten, wo die größten Risiken liegen und welche ETFs für Privatanleger infrage kommen.",
+   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/geldanlage-etf-ki-unternehmen-it-fonds-lohnt-e804450/",
+   "published": "2026-10-21T10:03:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
    "paywall": true
   },
   {
@@ -82,6 +199,15 @@
    "published": "2026-10-21T08:49:00+00:00",
    "first_seen": "2026-10-21T10:50:34.131304+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "SpaceX mit Milliardenplus - Musk: Fusion mit Tesla gute Idee",
+   "summary": "Das KI- und Satellitengeschäft boomt: Die Raumfahrtfirma SpaceX fährt Milliardenerlöse ein und prüft einen Zusammenschluss mit Tesla.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/spacex-umsatz-tesla-zusammenschluss-musk-100.html",
+   "published": "2026-10-21T07:43:00+00:00",
+   "first_seen": "2026-10-21T15:44:32.741197+00:00",
+   "paywall": false
   },
   {
    "label": "taz",
@@ -774,132 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/muenchner-start-up-robco-will-in-den-usa-wachsen-accg-201528680.html",
    "published": "2026-10-19T09:52:02+00:00",
    "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Start-ups: Vom Geldgeber zum Gründer: Warum Investoren die Seite wechseln",
-   "summary": "Immer mehr Risikokapitalgeber gründen selbst oder gehen zu Start-ups, berichten Branchenvertreter. Belastbare Zahlen dazu gibt es nicht. Aber Gründe, die auch mit KI zu tun haben.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/start-ups-warum-investoren-zunehmend-lieber-selbst-gruenden/100259008.html",
-   "published": "2026-10-19T09:47:34+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: Gesetze, Klagen, Steuervorteil – so streitet Amerika über Trinkgeld",
-   "summary": "Roboter-Barista erbitten Trinkgeld, New York zwingt Liefer-Apps zur Abfrage. Der freiwillige Dank wird in Amerika zur Machtfrage und beschäftigt Gerichte – mit Signalwirkung für Deutschland.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/trinkgeld-der-freiwillige-dank-wird-in-den-usa-zum-streitfall/100261411.html",
-   "published": "2026-10-19T09:15:00+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "IW-Studie: Fachkräftemangel bremst Infrastruktur-Projekte aus",
-   "summary": "Der Bund will massiv in Brücken, Netze und Digitalisierung investieren. Doch laut einer Studie des Instituts der deutschen Wirtschaft fehlen schon jetzt die Fachkräfte, um die Projekte umzusetzen.",
-   "link": "https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html",
-   "published": "2026-10-19T08:07:38+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Mein Wendepunkt: „Die Digitalisierung hatte Berlitz verschlafen. Die holen wir jetzt nach“",
-   "summary": "Als McKinsey-Partner war Till Großmaß für die Sanierung von Berlitz zuständig. Dann ­wechselte er die Seiten, wurde CEO – und brauchte plötzlich eine ganz neue Fähigkeit.",
-   "link": "https://www.wiwo.de/erfolg/management/mein-wendepunkt-vom-unternehmensberater-bei-mckinsey-zum-berlitz-chef/100262625.html",
-   "published": "2026-10-19T08:06:04+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Börsengang von Anthropic: Anthropic will fünf Prozent seiner Aktien in Gemeinwohlfonds stecken",
-   "summary": "Das KI-Unternehmen Anthropic plant derzeit einen der größten Börsengänge der Geschichte. Ein Teil der Anteile soll in einen Fonds für das Gemeinwohl gehen.",
-   "link": "https://www.zeit.de/digital/2026-10/anthropic-ki-public-benefit-fund-unternehmensanteile-gemeinwohl",
-   "published": "2026-10-19T05:59:38+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Börse am 19. Oktober: Fünf Punkte, die für Anleger heute wichtig sind",
-   "summary": "Anleger am deutschen Aktienmarkt zeigten sich zuletzt unbeeindruckt vom weltweiten KI-Beben. Die Berichtssaison nimmt derweil Fahrt auf. Bleiben die Anleger weiterhin optimistisch?",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
-   "published": "2026-10-19T04:42:00+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Yen, Hang Seng: Asiens Börsen uneins – KI-Sorgen belasten Japan, China im Plus",
-   "summary": "Anleger zweifeln, ob die Einnahmen aus künstlicher Intelligenz die Investitionen rechtfertigen. Zudem rücken Zinssignale und die anstehenden Bilanzen der US-Technologiekonzerne in den Fokus.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiens-boersen-uneins-ki-sorgen-belasten-japan-china-im-plus/100263138.html",
-   "published": "2026-10-19T03:47:29+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Anthropic will fünf Prozent seiner Aktien in Gemeinwohl-Fonds stecken",
-   "summary": "Der Claude-Entwickler will Beschäftigte bei den Folgen Künstlicher Intelligenz unterstützen und gemeinnützige Projekte fördern. Die Aktionäre müssen den Plänen noch zustimmen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-will-fuenf-prozent-seiner-aktien-in-gemeinwohl-fonds-stecken/100263117.html",
-   "published": "2026-10-19T01:37:44+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Cloudanbieter: Diese Unternehmen halten die Märkte in Atem",
-   "summary": "Neoclouds wie Coreweave, Nebius oder Terawulf haben sich auf die Vermietung von Hardware für Künstliche Intelligenz spezialisiert – und hoch verschuldet. Jetzt wachsen die Zweifel an ihrem Geschäftsmodell.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/coreweave-nebius-terawulf-diese-unternehmen-halten-die-maerkte-in-atem-201495436.html",
-   "published": "2026-10-18T18:33:27+00:00",
-   "first_seen": "2026-10-18T19:05:17.602163+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Deepfakes im Musikmarkt: Unliebsame Konkurrenz durch KI",
-   "summary": "Betrug bei Streamingdiensten ist Tür und Tor geöffnet. Die Berliner Künstlerin Tara Nome Doyle berichtet, wie perfide in ihrem Namen vorgegangen wurde. mehr...",
-   "link": "https://taz.de/Deepfakes-im-Musikmarkt/!6222013/",
-   "published": "2026-10-18T18:03:00+00:00",
-   "first_seen": "2026-10-18T19:05:17.602163+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Psyche und Job: Kein Problem, Chef! Ahhhhhhhhhh!!!",
-   "summary": "Stress, Burn-out, Depression: Trotz Digitalisierung und KI ist die Arbeitslast hoch – und die Politik erhöht den Druck. mehr...",
-   "link": "https://taz.de/Psyche-und-Job/!6218231/",
-   "published": "2026-10-18T16:13:00+00:00",
-   "first_seen": "2026-10-18T19:05:17.602163+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Auch der Dax bekommt das KI-Beben zu spüren – aber weniger sichtbar",
-   "summary": "Viele Industrieunternehmen profitieren von gefragter Technologie rund um Künstliche Intelligenz. Mit allen Chancen für deren Aktien, analysiert Ulf Sommer. Und Risiken.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte-insight-auch-der-dax-bekommt-das-ki-beben-zu-spueren-aber-weniger-sichtbar/100262546.html",
-   "published": "2026-10-18T15:06:41+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Auch der Dax bekommt das KI-Beben zu spüren – aber weniger sichtbar",
-   "summary": "Viele Industrieunternehmen profitieren von gefragter Technologie rund um Künstliche Intelligenz. Mit allen Chancen für deren Aktien, analysiert Ulf Sommer. Und Risiken.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/geldanlage-auch-der-dax-bekommt-das-ki-beben-zu-spueren-aber-weniger-sichtbar/100262546.html",
-   "published": "2026-10-18T15:06:41+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Handel: China plant neue Exportkontrollen für Schlüsseltechnologien",
-   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/china-exportkontrollen-ki-solartechnik-2026-li.3565338",
-   "published": "2026-10-18T12:22:40+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
    "paywall": true
   }
  ]
