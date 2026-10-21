@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T19:47:03.608275+00:00",
+ "updated": "2026-10-21T22:53:51.980075+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,339 @@
    "published": "2026-12-12T13:29:00+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Südkorea: Hai kann nach einem Monat gerettet werden",
+   "summary": "Über einen Monat steckte ein Hai in Südkorea in einem Kanal fest. Jetzt konnte er mithilfe von Schwimminseln, Netzen und Booten gerettet werden. Der Hai lockte viele Besucher an.",
+   "link": "https://www.zdfheute.de/panorama/suedkorea-hai-100.html",
+   "published": "2026-10-21T22:06:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalpolitik: EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
+   "summary": "Annehmen, Ablehnen oder irgendwas dazwischen: Cookie-Abfragen sind zur dauerhaften Begleiterscheinung beim Surfen geworden. Eine Idee aus Brüssel soll das ändern - hat es aber schwer.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/digitalpolitik-eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet/100264047.html",
+   "published": "2026-10-21T22:01:04+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Autohersteller: Tesla erleidet Gewinnrückgang",
+   "summary": "Der Autohersteller prüft eine Fusion mit Elon Musks anderem Unternehmen SpaceX. Sein Geschäft hat sich derweil abgeschwächt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-meldet-gewinneinbruch-elon-musk-plant-fusion-mit-spacex-201610001.html",
+   "published": "2026-10-21T21:55:16+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Porzellan aus Kahla: Das Ende der nächsten Traditionsmarke",
+   "summary": "In Millionen ostdeutschen Haushalten stand das Geschirr aus Kahla auf dem Tisch. Nun wird genau 182 Jahre nach dem ersten Porzellanbrand dort der Ofen für immer ausgeschaltet.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/kahla-insolvenz-porzellan-traditionsmarke-100.html",
+   "published": "2026-10-21T21:55:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Pendeldiplomatie - Russland zu Verhandlungen mit der Ukraine und den USA bereit, Selenskyj schlägt Einfrieren der Frontlinie vor",
+   "summary": "Im November soll ein neuer diplomatischer Anlauf für eine mögliche Lösung im Angriffskrieg Russlands gegen die Ukraine unternommen werden.",
+   "link": "https://www.deutschlandfunk.de/russland-zu-verhandlungen-mit-der-ukraine-und-den-usa-bereit-selenskyj-schlaegt-einfrieren-der-front-102.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Programmiersprache PHP - Weltweite Sicherheitslücke: Update für Webanbieter bereitgestellt",
+   "summary": "Nach weltweiten Internet-Problemen wegen einer Sicherheitslücke soll ein inzwischen bereitgestelltes Update Abhilfe schaffen. Betreiber von Webanwendungen sind gehalten, für eine Aktualisierung zu sorgen. Zuvor waren zahlreiche…",
+   "link": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-102.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Nach Krawallen in Frankreich - Macron berät mit Ministern und Geheimdienstvertretern",
+   "summary": "Wegen der gewalttätigen Proteste vom Wochenende kommen Frankreichs Präsident Macron und Regierungschef Lecornu heute mit Ministern und Geheimdienstvertretern in Paris zu Beratungen zusammen.",
+   "link": "https://www.deutschlandfunk.de/macron-beraet-mit-ministern-und-geheimdienstvertretern-100.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Verkehrsministerkonferenz - Länder fordern mehr Geld für Busse und Bahnen",
+   "summary": "Die Verkehrsminister von Bund und Ländern beenden heute ihre zweitägige Konferenz im bayerischen Hohenschwangau.",
+   "link": "https://www.deutschlandfunk.de/laender-fordern-mehr-geld-fuer-busse-und-bahnen-100.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fußball - München mit Punkteteilung, Niederlage für Leipzig in der Champions League",
+   "summary": "In der Fußball-Champions-League hat es zwei Spiele mit deutscher Beteiligung gegeben:",
+   "link": "https://www.deutschlandfunk.de/muenchen-mit-punkteteilung-niederlage-fuer-leipzig-in-der-champions-league-108.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Verbrauchertäuschung - \"Cambridge Analytica\"-Skandal: Gericht verurteilt Meta zu 25 Milliarden Dollar Strafzahlung",
+   "summary": "In den USA ist der Facebook-Mutterkonzern Meta zu einer Zahlung von 25 Milliarden Dollar verurteilt worden.",
+   "link": "https://www.deutschlandfunk.de/cambridge-analytica-skandal-gericht-verurteilt-meta-zu-25-milliarden-dollar-strafzahlung-102.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "31. Oktober - Bundesschülerkonferenz begrüßt \"Gen Z\"-Protestaufruf",
+   "summary": "Die Bundesschülerkonferenz begrüßt die Protestaufrufe junger Menschen in Deutschland.",
+   "link": "https://www.deutschlandfunk.de/bundesschuelerkonferenz-begruesst-gen-z-protestaufruf-100.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Extremismus - Immer mehr rechtsextreme Kampfsport-Netzwerke in Deutschland",
+   "summary": "Die Zahl rechtsextremer Kampfsport-Netzwerke in Deutschland steigt.",
+   "link": "https://www.deutschlandfunk.de/immer-mehr-rechtsextreme-kampfsport-netzwerke-in-deutschland-100.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Vatikan - Ärzte: Krebs bei Papst Leo hat nicht gestreut",
+   "summary": "Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.",
+   "link": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Berlin Global Dialogue - Merz warnt vor hybriden Angriffen Russlands",
+   "summary": "Bundeskanzler Merz hat vor mittlerweile täglichen hybriden Angriffen Russlands auf Deutschland gewarnt.",
+   "link": "https://www.deutschlandfunk.de/merz-warnt-vor-hybriden-angriffen-russlands-110.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bundeswehr - Personalaufwuchs erstmals über Jahresziel - Mehr als 190.000 Soldaten",
+   "summary": "Die Bundeswehr hat Anfang des Monats die für dieses Jahr festgelegte Sollstärke von 190.000 Soldatinnen und Soldaten erreicht.",
+   "link": "https://www.deutschlandfunk.de/personalaufwuchs-erstmals-ueber-jahresziel-mehr-als-190-000-soldaten-102.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Genf - UNO-Konferenz zum Sudan ohne greifbare Ergebnisse zu Ende gegangen",
+   "summary": "Eine internationale Konferenz über den anhaltenden Krieg im Sudan ist ohne greifbare Ergebnisse zu Ende gegangen.",
+   "link": "https://www.deutschlandfunk.de/uno-konferenz-zum-sudan-ohne-greifbare-ergebnisse-zu-ende-gegangen-106.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Konkurrenz durch KI - US-Bildagentur Getty Images beantragt Insolvenz",
+   "summary": "Die US-Bildagentur Getty Images hat Insolvenz angemeldet. Das Unternehmen beantragte bei einem Konkursgericht im US-Bundesstaat Delaware ein entsprechendes Verfahren. Getty Images erklärte, die bereits geplante Restrukturierung könne nun…",
+   "link": "https://www.deutschlandfunk.de/us-bildagentur-getty-images-beantragt-insolvenz-106.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Verkehrsministerkonferenz - Verkehrsminister vertagen Debatte über flexibles Deutschlandticket für Gelegenheitsfahrer",
+   "summary": "Ein flexibles Deutschlandticket für Gelegenheitsfahrer im Öffentlichen Nahverkehr kommt vorerst nicht.",
+   "link": "https://www.deutschlandfunk.de/verkehrsminister-vertagen-debatte-ueber-flexibles-deutschlandticket-fuer-gelegenheitsfahrer-108.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Brüssel und Straßburg - Ermittler durchsuchen Büros von rechter Fraktion im Europarlament",
+   "summary": "Im Europaparlament sind Büros der rechtsgerichteten \"Patrioten\"-Fraktion durchsucht worden.",
+   "link": "https://www.deutschlandfunk.de/ermittler-durchsuchen-bueros-von-rechter-fraktion-im-europarlament-106.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Wetter - In der Nacht abziehender Regen, 10 bis 2 Grad",
+   "summary": "Das Wetter: In der Nacht in den Osten und Nordosten abziehender Regen, später im Westen neue Schauer. Tiefstwerte 10 bis 2 Grad. Am Tag bewölkt mit Schauern, im Süden heiter. 9 bis 17 Grad.",
+   "link": "https://www.deutschlandfunk.de/in-der-nacht-abziehender-regen-10-bis-2-grad-118.html",
+   "published": "2026-10-21T21:33:21+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Meta investiert mindestens 135 Milliarden Dollar in KI",
+   "summary": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100264044.html",
+   "published": "2026-10-21T21:20:03+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie die US-Regierung die Frankreich-Proteste für sich nutzt",
+   "summary": "Brennende Autos, Plünderungen und Proteste: Die US-Regierung nutzt die Bilder von den Unruhen in Frankreich für Warnungen vor Migration und damit für ihre eigene Agenda.",
+   "link": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-usa-trump-vance-midterms-100.html",
+   "published": "2026-10-21T21:11:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Quartalszahlen: Meta investiert mindestens 135 Milliarden Dollar in KI",
+   "summary": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100262901.html",
+   "published": "2026-10-21T21:06:32+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Software: SAP steigert Umsatz und Gewinn – Aktie nachbörslich im Plus",
+   "summary": "Dank einer robusten Nachfrage hat sich das Wachstum des wichtigen Cloudgeschäfts im dritten Quartal wieder etwas beschleunigt. So gab der Softwarekonzern einen optimistischeren Ausblick.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/software-sap-steigert-umsatz-und-gewinn-aktie-nachboerslich-im-plus/100262108.html",
+   "published": "2026-10-21T21:02:42+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Bayern muss sich mit Remis gegen Arsenal begnügen",
+   "summary": "Der FC Bayern ist in der Champions League zuhause gegen den FC Arsenal nicht über ein 2:2 hinausgekommen. Beide Teams verspielten dabei eine Führung.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/fc-bayern-muenchen-fc-arsenal-3-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Real Madrid eine Nummer zu groß für Leipzig",
+   "summary": "RB Leipzig hat im Gastspiel bei Real Madrid wenig zu bestellen gehabt. Der Bundesligist konnte die Höhe der Niederlage in Grenzen halten, zu mehr reichte es aber nicht.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/real-madrid-rb-leipzig-3-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Starker VfB holt Teilerfolg gegen Atlético",
+   "summary": "Der VfB Stuttgart hat beim 1:1 gegen Atlético Madrid eine über weite Strecken sehr gute Leistung geboten. Für die Schwaben, die lange in Überzahl spielten, war sogar mehr drin.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/vfb-stuttgart-atletico-madrid-3-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Guirassy lässt Dortmund gegen Sabah jubeln",
+   "summary": "Dank Serhou Guirassy hat Borussia Dortmund einen Auswärtssieg in der Champions League gefeiert. Der Doppelpacker schoss den BVB zu einem 2:1 bei Sabah FK in Aserbaidschan.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/sabah-fk-borussia-dortmund-3-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Como zu quirlig für Manchester United",
+   "summary": "Como 1907 sorgt weiter für Furore: Am dritten Spieltag der Champions League setzten sich die Italiener zuhause klar gegen Manchester United durch.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/como-manchester-united-3-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Paris Saint-Germain zwingt Barcelona in die Knie",
+   "summary": "Champions-League-Titelverteidiger Paris Saint-Germain hat das Prestigeduell gegen den FC Barcelona gewonnen. Die Franzosen setzten sich mit 4:2 durch.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/paris-saint-germain-fc-barcelona-3-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Galatasaray mit erstem Dreier, Inter siegt zu zehnt",
+   "summary": "Mittwochsspiele: Lille - Galatasaray, Inter Mailand - Donzek, Betis Sevilla - Feyenoord, Aston Villa - Stavanger, Brügge - Lens, Sporting Lissabon - Linz.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/lille-galatasaray-inter-donezk-betis-rotterdam-villa-stavanger-bruegge-lens-sporting-linz-3-spieltag-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Spektakel zwischen Liverpool und Villarreal",
+   "summary": "Dienstagsspiele: Liverpool - Villarreal, Manchester City - Athen, Porto - Eindhoven, Rom - Bratislava, Neapel - Bodö/Glimt, Fenerbahce - Prag.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/video/liverpool-villarreal-mancity-aek-porto-psv-rom-bratislava-spieltag-3-zusammenfassung-saison-2026-27-100.html",
+   "published": "2026-10-21T21:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Achterbahnfahrt zwischen den Bayern und dem FC Arsenal",
+   "summary": "Der FC Bayern zeigte gegen den FC Arsenal eine starke Leistung. Declan Rice entriss dem Rekordmeister spät den Sieg in der Champions League.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-fc-bayern-muenchen-fc-arsenal-tore-ergebnis-ligaphase-26-27-100.html",
+   "published": "2026-10-21T20:57:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elon Musk: Tesla-Umsatz leicht über Erwartungen – Aktie legt zu",
+   "summary": "Der E-Autobauer hat rund 25.000 mehr Fahrzeuge ausgeliefert, als erwartet. Auch beim Umsatz stimmt der E-Autobauer seine Investoren positiv.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/elon-musk-tesla-umsatz-leicht-ueber-erwartungen-aktie-legt-zu/100262900.html",
+   "published": "2026-10-21T20:41:41+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
+   "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/elektroautos-tesla-mit-gewinneinbruch-und-stagnierendem-umsatz/100264040.html",
+   "published": "2026-10-21T20:41:22+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nach Lungen-OP: Ärzte: Krebs bei Papst hat nicht gestreut",
+   "summary": "Die Sorge um Leo war groß, die Ergebnisse der Gewebeproben wurden mit Spannung erwartet. Nun steht fest: Sein Lungenkrebs war lokal begrenzt. Eine weitere Therapie ist nicht nötig.",
+   "link": "https://www.handelsblatt.com/politik/international/nach-lungen-op-aerzte-krebs-bei-papst-hat-nicht-gestreut/100264037.html",
+   "published": "2026-10-21T20:27:58+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Cambridge-Analytica-Skandal: Meta soll Milliarden zahlen",
+   "summary": "Acht Jahre nach dem Cambridge-Analytica-Skandal ist der Facebook-Mutterkonzern Meta zu einem Milliarden-Bußgeld verurteilt worden. Hintergrund ist der Missbrauch von Nutzerdaten.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytika-usa-100.html",
+   "published": "2026-10-21T20:13:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
   },
   {
    "label": "DLF",
@@ -89,6 +422,15 @@
    "link": "https://www.deutschlandfunk.de/praesident-der-deutschen-triathlon-union-engelhardt-kandidiert-fuer-dosb-posten-102.html",
    "published": "2026-10-21T19:31:17+00:00",
    "first_seen": "2026-10-21T19:47:03.608275+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Real Madrid zu stark für Leipzig",
+   "summary": "Rasenballsport Leipzig hat die zweite Niederlage in der Champions League kassiert. Real Madrid erwies sich als zu stark für das Team von Trainer Martin Demichelis.",
+   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-real-madrid-rasenballsport-leipzig-100.html",
+   "published": "2026-10-21T19:26:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
    "paywall": false
   },
   {
@@ -353,6 +695,15 @@
    "paywall": true
   },
   {
+   "label": "Handelsblatt",
+   "title": "Europa: AfD will EU komplett umbauen",
+   "summary": "AfD-Chefin Weidel besucht das Europäische Parlament in Straßburg. Weidel fordert mehr Macht für Nationalstaaten und weniger Kompetenzen für die EU-Kommission.",
+   "link": "https://www.handelsblatt.com/politik/international/europa-afd-will-eu-komplett-umbauen/100264016.html",
+   "published": "2026-10-21T17:32:09+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
    "label": "FAZ",
    "title": "Fehler im Gesetz: Wann die Tabaksteuer wirklich steigt",
    "summary": "Zigaretten und andere Tabakwaren sollen erst zum Jahreswechsel teurer werden. Nach reinem Wortlaut des neuen Gesetzes greift die Erhöhung aber schon jetzt. Was ist der Grund für die Verwirrung?",
@@ -377,6 +728,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/ruestung-seltene-einblicke-in-deutschlands-groesste-handwaffenschmiede/100261494.html",
    "published": "2026-10-21T17:07:31+00:00",
    "first_seen": "2026-10-21T19:47:03.608275+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Techwerte profitieren – Wall Street schließt im Plus",
+   "summary": "Während Anleger bei Techwerten zugreifen, bleiben dennoch Risikofaktoren am Markt bestehen. Auch in der derzeit gefragten Branche bleibt Unsicherheit.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-boersen-schliessen-fester-spacex-und-super-micro-treiben-tech-aktien-an/100263972.html",
+   "published": "2026-10-21T16:59:13+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
    "paywall": true
   },
   {
@@ -468,6 +828,15 @@
    "published": "2026-10-21T16:11:49+00:00",
    "first_seen": "2026-10-21T19:47:03.608275+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Geste von AfD-Politiker sorgt für Aufregung in Schwerin",
+   "summary": "In der konstituierenden Sitzung des Landtags von Mecklenburg-Vorpommern hat der AfD-Politiker Thormann eine umstrittene Geste gezeigt. Das sorgt nun für Diskussionen.",
+   "link": "https://www.zdfheute.de/politik/deutschland/schwerin-landtag-thormann-geste-white-power-afd-100.html",
+   "published": "2026-10-21T16:07:34+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": false
   },
   {
    "label": "Handelsblatt",
@@ -1296,6 +1665,15 @@
    "published": "2026-10-21T13:15:00+00:00",
    "first_seen": "2026-10-21T15:44:32.741197+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Geschäftszahlen +++: Nachholeffekte geben IBM Rückenwind – Jahresziel leicht angehoben",
+   "summary": "Flatexdegiro bestätigt Jahresziele +++ Friedrich Vorwerk hebt Prognose an +++Netflix verzeichnet starkes Quartal – Ausblick verhalten +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-nachholeffekte-geben-ibm-rueckenwind-jahresziel-leicht-angehoben/24098412.html",
+   "published": "2026-10-21T13:14:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
   },
   {
    "label": "WiWo",
@@ -4589,6 +4967,15 @@
    "link": "https://www.zdfheute.de/video/frontal/nachgehakt-drohnenangriff-flughafen-leipzig-halle-spur-nach-riga-100.html",
    "published": "2026-10-20T19:00:00+00:00",
    "first_seen": "2026-10-21T00:14:09.489988+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Toll! Jugend verschMerzt",
+   "summary": "Wenn das mal gut geht. Friedrich Merz besucht die Parteijugend. Das ist spannend, denn beim letzten Treff mit der Jungen Union gab´s noch richtig Zoff. Stichwort Rente.",
+   "link": "https://www.zdfheute.de/video/frontal/merz-junge-union-102.html",
+   "published": "2026-10-20T19:00:00+00:00",
+   "first_seen": "2026-10-21T22:53:51.980075+00:00",
    "paywall": false
   },
   {
@@ -13112,393 +13499,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-die-tuerkei-will-diesel-aus-dem-trump-putin-deal-beziehen-faz-200452404.html",
    "published": "2026-10-18T12:42:32+00:00",
    "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Drohnen und Hightech-Chips: Japans neue Verteidigungslinie",
-   "summary": "Japan fühlt sich gleich von mehreren Nachbarn bedroht. Es sei die gefährlichste Lage seit dem Zweiten Weltkrieg. Wie sich das Land mit Drohnen, Panzern und Halbleitern rüstet.",
-   "link": "https://www.zdfheute.de/politik/ausland/japan-militaer-halbleiter-hokkaido-takaichi-verteidigung-sicherheit-100.html",
-   "published": "2026-10-18T12:41:00+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Deutsche Post: Das geänderte Postgesetz gefährdet Arbeitsplätze, warnt der Betriebsrat",
-   "summary": "Der Postbetriebsrat warnt die Regierung: Die geplante Abschaffung eines Steuerprivilegs für Geschäftsbriefe stimme ihn besorgt. „Aus dieser Sorge darf keine Existenzangst werden.“",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/postgesetz-reform-deutsche-post-betriebsrat-warnt-vor-jobverlust-accg-201529412.html",
-   "published": "2026-10-18T12:31:14+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Schienennetz: Ausbau-Vorhaben der Bahn könnten 30 Jahre brauchen",
-   "summary": "Vermutlich darf sich erst die nächste oder gar die übernächste Generation auf deutlich besseren Zugverkehr freuen. Immerhin gibt es den ein oder anderen Lichtblick.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/schienennetz-deutsche-bahn-ausbau-verkehrspolitik-infrastruktur-li.3564245",
-   "published": "2026-10-18T12:28:25+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Hunderttausende demonstrieren: „Entsetzliche Gewalt“ bei Protesten erschüttert Frankreich",
-   "summary": "Ein historisches Rathaus: von Flammen zerfressen. Straßenzüge in Paris: verwüstet. Frankreich steht nach Ausschreitungen bei Protesten unter Schock. Entspannung ist nicht in Sicht.",
-   "link": "https://www.handelsblatt.com/politik/international/hunderttausende-demonstrieren-entsetzliche-gewalt-bei-protesten-erschuettert-frankreich/100263018.html",
-   "published": "2026-10-18T12:28:02+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Gewalt in Frankreich: Pulverfass Paris",
-   "summary": "Das jahrelange Verschleppen von Reformen in Frankreich zeigt verheerende Folgen. Nichts davon rechtfertigt Gewalt. Aber alles ist Grund zu großer Sorge.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/pulverfass-frankreich-warum-reformen-in-paris-so-lange-verschleppt-wurden-201597964.html",
-   "published": "2026-10-18T12:23:06+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Energiekosten: Netzentgelte für Strom und Gas steigen 2027 leicht",
-   "summary": "Verbraucher müssen im kommenden Jahr durchschnittlich wohl etwas mehr für die Energieversorgung zahlen. Die regionalen Unterschiede sind aber erheblich.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/netzentgelte-strom-gas-2027-energiekosten-li.3565330",
-   "published": "2026-10-18T12:22:55+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Handel: China plant neue Exportkontrollen für Schlüsseltechnologien",
-   "summary": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/china-exportkontrollen-ki-solartechnik-2026-li.3565338",
-   "published": "2026-10-18T12:22:40+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Diesel: Türkei will Diesel aus umstrittenem US‑russischem Abkommen beziehen",
-   "summary": "Energieminister Bayraktar hat angekündigt, einen Teil der Lieferungen aus dem jüngsten Diesel-Deal zwischen den USA und Russland in die Türkei zu holen.",
-   "link": "https://www.handelsblatt.com/politik/international/diesel-tuerkei-will-diesel-aus-umstrittenem-usrussischem-abkommen-beziehen/100263073.html",
-   "published": "2026-10-18T12:15:40+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Huthi-Miliz: Wann handelt Europa?",
-   "summary": "Die Huthi-Miliz übt eindeutig Terror aus, steht aber nicht auf der Terrorliste der EU. Sie sollte es endlich tun – so wie die USA. mehr...",
-   "link": "https://taz.de/Huthi-Miliz/!6222311/",
-   "published": "2026-10-18T12:13:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Nach dem Rekordsommer: Wie die Klimakrise Mobilität und Transport schadet",
-   "summary": "Die Bundesregierung weiß wenig über die Folgen des Hitzesommers für Deutschlands Verkehrswege. Die Zahlen, die es gibt, bieten aber Grund zur Sorge. mehr...",
-   "link": "https://taz.de/Nach-dem-Rekordsommer/!6222157/",
-   "published": "2026-10-18T12:04:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Berlin: „Die rote Front steht“ – Söder fordert Brandmauer nach links",
-   "summary": "Bayerns Ministerpräsident fordert, Berlin den Geldhahn zuzudrehen, falls Linke, Grüne und SPD gemeinsam regieren. Die Junge Union will Sofortmaßnahmen gegen Rot-Rot-Grün.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/berlin-die-rote-front-steht-soeder-fordert-brandmauer-nach-links/100262770.html",
-   "published": "2026-10-18T12:03:13+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Luftalarm im Baltikum - Litauen bietet Polen nach Drohnen-Absturz gemeinsame Untersuchung an",
-   "summary": "​Nach dem Eindringen einer unbemannten Drohne in den litauischen Luftraum laufen Ermittlungen zu den Hintergründen. Verteidigungsminister Kaunas erklärte, die Drohne sei im Norden des Landes abgestürzt. Trümmer hätten ein ziviles Fahrzeug…",
-   "link": "https://www.deutschlandfunk.de/litauen-bietet-polen-nach-drohnen-absturz-gemeinsame-untersuchung-an-102.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Ukraine-Krieg - Russland meldet Drohnenangriff auf Region St. Petersburg - zwei Tote bei russischen Luftangriffen auf die Ukraine",
-   "summary": "Die russischen Behörden melden einen massiven Drohnenangriff der Ukraine auf die Region Sankt Petersburg. Nach Angaben des Gouverneurs kam dabei ein Mensch ums Leben.",
-   "link": "https://www.deutschlandfunk.de/russland-meldet-drohnenangriff-auf-region-st-petersburg-zwei-tote-bei-russischen-luftangriffen-auf-d-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Deutschlandtag der JU - Junge Union fordert Ächtung von Rot-Grün-Rot in Berlin",
-   "summary": "Die Delegierten des Deutschlandtags der Jungen Union haben vor einer möglichen rot-grün-roten Landesregierung in Berlin gewarnt. In einem Antrag forderte die Junge Union, Berlin von Informationen des Verfassungsschutzes und des…",
-   "link": "https://www.deutschlandfunk.de/junge-union-fordert-aechtung-von-rot-gruen-rot-in-berlin-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Deutschlandtag der Jungen Union - Söder dringt auf Umsetzung der Reformen",
-   "summary": "Der bayerische Ministerpräsident Söder hat von der Bundesregierung die Umsetzung angekündigter Reformen gefordert. Ein Stillstand aus Angst vor Diskussionen wäre Selbstmord aus Angst vor dem Tod, sagte der CSU-Vorsitzende beim…",
-   "link": "https://www.deutschlandfunk.de/soeder-dringt-auf-umsetzung-der-reformen-102.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Wahlkampf - US-Vizepräsident Vance: Einwanderungspolitik Grund für Ausschreitungen in Frankreich",
-   "summary": "US-Vizepräsident Vance begründet die Ausschreitungen bei den jüngsten Protesten in Frankreich mit Einwanderung. Der Republikaner schrieb auf der Plattform X, linke Politiker in Frankreich und anderen Ländern hätten \"im Namen von Vielfalt…",
-   "link": "https://www.deutschlandfunk.de/us-vizepraesident-vance-einwanderungspolitik-grund-fuer-ausschreitungen-in-frankreich-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Brüssel - EU verurteilt jüngste Angriffe von Siedlern im Westjordanland",
-   "summary": "Die Europäische ‌Union hat die Angriffe israelischer Siedler im ⁠Westjordanland auf Palästinenser und europäische Diplomaten verurteilt.",
-   "link": "https://www.deutschlandfunk.de/eu-verurteilt-juengste-angriffe-von-siedlern-im-westjordanland-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Krebserkrankung - Fünf Tage nach Lungen-OP: Papst spricht Angelus-Gebet im Vatikan vor tausenden Gläubigen",
-   "summary": "Fünf Tage nach seiner Krebsoperation ist Papst Leo XIV. erstmals wieder öffentlich aufgetreten.",
-   "link": "https://www.deutschlandfunk.de/fuenf-tage-nach-lungen-op-papst-spricht-angelus-gebet-im-vatikan-vor-tausenden-glaeubigen-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Prag - Tschechische Opposition gewinnt Senatswahl - Schlappe für Regierungschef Babis",
-   "summary": "Bei den Senatswahlen in Tschechien hat die rechtspopulistische ANO-Partei von Regierungschef Babis eine Niederlage erlitten.",
-   "link": "https://www.deutschlandfunk.de/tschechische-opposition-gewinnt-senatswahl-schlappe-fuer-regierungschef-babis-102.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Brasilien - Politologe Maihold rechnet mit Sieg Bolsonaros bei Stichwahl am 25. Oktober",
-   "summary": "Am 25. Oktober stehen sich in Brasilien Amtsinhaber Lula da Silva und sein Herausforderer Flavio Bolsonaro, der Sohn des früheren Präsidenten Jair Bolsonaro, in einer Stichwahl um das Präsidentenamt gegenüber. Der deutsche…",
-   "link": "https://www.deutschlandfunk.de/politologe-maihold-rechnet-mit-sieg-bolsonaros-bei-stichwahl-am-25-oktober-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Grenzkontrollen - Deutlich weniger unerlaubte Einreisen nach Bayern",
-   "summary": "In Bayern haben von Januar bis Ende September deutlich weniger Menschen unerlaubt die Grenze überquert als im Vorjahreszeitraum.",
-   "link": "https://www.deutschlandfunk.de/deutlich-weniger-unerlaubte-einreisen-nach-bayern-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Koalition - SPD-Chef Klingbeil fordert von seiner Partei Bekenntnis zum Regierungswillen",
-   "summary": "Der SPD-Vorsitzende Klingbeil fordert von seiner Partei ein Bekenntnis zur Regierung und zum eingeschlagenen Reformkurs.",
-   "link": "https://www.deutschlandfunk.de/spd-chef-klingbeil-fordert-von-seiner-partei-bekenntnis-zum-regierungswillen-102.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Shanghai - Bahnrad-WM: Teutenberg holt Gold im Ausscheidungsfahren - Friedrich gewinnt Silber im Keirin",
-   "summary": "Bei den Bahnrad-Weltmeisterschaften in der chinesischen Metropole Shanghai hat Tim Torn Teutenberg die Goldmedaille im Ausscheidungsfahren gewonnen.",
-   "link": "https://www.deutschlandfunk.de/bahnrad-wm-teutenberg-holt-gold-im-ausscheidungsfahren-friedrich-gewinnt-silber-im-keirin-102.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Epidemie - Kongo bestätigt Ebola-Ausbruch in weiterer Provinz - neue Fälle auch in Kenia",
-   "summary": "Das Ebola-Virus ist in der Demokratischen Republik Kongo in einer weiteren Provinz nachgewiesen worden.",
-   "link": "https://www.deutschlandfunk.de/kongo-bestaetigt-ebola-ausbruch-in-weiterer-provinz-neue-faelle-auch-in-kenia-102.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Forschungsprojekt - Waldschäden sollen mit Hilfe von KI und Satellitenbildern besser erfasst werden",
-   "summary": "Waldschäden sollen durch Satellitenbilder und KI in Zukunft besser erfasst werden. Ein Forschungsteam erprobt dazu ein neues Verfahren in Hessen, das später auch bundesweit eingesetzt werden soll.",
-   "link": "https://www.deutschlandfunk.de/waldschaeden-sollen-mit-hilfe-von-ki-und-satellitenbildern-besser-erfasst-werden-100.html",
-   "published": "2026-10-18T12:03:03+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Bayerns 6:1 gegen Leipzig: Ausrufezeichen zur rechten Zeit",
-   "summary": "Beim FC Bayern fühlen sie sich rechtzeitig vorm großen Vergleich in der Champions League mit Vorjahresfinalist Arsenal wieder im Flow. Aber was ist mit Trainer Kompany los?",
-   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-muenchen-rasenballsport-leipzig-kompany-eberl-100.html",
-   "published": "2026-10-18T12:00:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "„Die Holländerinnen“ am DT Berlin: Unendliche, unaussprechliche Bedeutung",
-   "summary": "Jan Friedrich inszeniert Dorothee Elmigers „Die Holländerinnen“ texttreu am Deutschen Theater in Berlin. Drei Stunden lang spielen sich die Schau­spie­le­r:in­nen dabei in den Wahn hinein. mehr...",
-   "link": "https://taz.de/Die-Hollaenderinnen-am-DT-Berlin/!6222345/",
-   "published": "2026-10-18T11:57:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Abend zu jüdischer Identität: „Du bist doch der Jude“",
-   "summary": "Bekenntniszwang und Ausgrenzung: Jüdische Kulturschaffende luden im Centrum Judaicum Berlin zum Nachdenken über jüdische Identität und Antisemitismus. mehr...",
-   "link": "https://taz.de/Abend-zu-juedischer-Identitaet/!6222331/",
-   "published": "2026-10-18T11:54:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "China: Neue Meldepflichten für Technologietransfers bei KI und Solarzellen",
-   "summary": "KI-Agenten, Solarzellen, Gentherapien – die chinesische Führung will strengere Auflagen für den Export von 40 Schlüsseltechnologien. Das Handelsministerium verweist auf Sicherheitsrisiken.",
-   "link": "https://www.spiegel.de/wirtschaft/china-neue-meldepflichten-fuer-technologietransfers-bei-ki-und-solarzellen-a-ae2f20b3-9c63-4fbd-88fe-0e1f33391c51#ref=rss",
-   "published": "2026-10-18T11:53:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Fußball der Männer: Die schnelleren Beine",
-   "summary": "Minikrise passé: Der FC Bayern ist gegen Leipzig im Samstagabendspiel in allen Belangen überlegen und gewinnt mit 6:1. mehr...",
-   "link": "https://taz.de/Fussball-der-Maenner/!6222470/",
-   "published": "2026-10-18T11:50:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Rüstung: Airbus will maßgeblichen Anteil an neuem europäischen Kampfjet",
-   "summary": "Im Sommer scheiterte das Projekt für einen Kampfjet aus Europa. Airbus möchte an der geplanten Neuauflage beteiligt sein.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/ruestung-airbus-will-massgeblichen-anteil-an-neuem-europaeischen-kampfjet/100263070.html",
-   "published": "2026-10-18T11:49:46+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Proteste von Schü­le­r:in­nen: Der Schulklassen-Kampf",
-   "summary": "Deutsche und französische Schü­le­r:in­nen demonstrieren in Solidarität mit den französischen Protesten. Im November ist ein europäischer Aktionstag geplant. mehr...",
-   "link": "https://taz.de/Proteste-von-Schuelerinnen/!6221618/",
-   "published": "2026-10-18T11:44:00+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Regionalbahnen: Verkehrsminister: Bund muss mehr für Regionalverkehr zahlen",
-   "summary": "Für die Nutzung des Schienennetzes zahlen Verkehrsunternehmen einen Trassenpreis. Der soll in den nächsten beiden Jahren kräftig steigen. Folge könnten Einschnitte im Nahverkehr sein.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/regionalbahnen-verkehrsminister-bund-muss-mehr-fuer-regionalverkehr-zahlen/100263071.html",
-   "published": "2026-10-18T11:39:18+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Kita in BaWü: Weder kostenlos noch verpflichtend?",
-   "summary": "Das Wahlversprechen für ein verpflichtendes letztes Kita-Jahr in Baden-Württemberg steht auf der Kippe. Es gibt Zweifel an Sinn und Finanzierung. mehr...",
-   "link": "https://taz.de/Kita-in-BaWue/!6222197/",
-   "published": "2026-10-18T11:37:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Cartoon: Meissners Strategen",
-   "summary": "",
-   "link": "https://www.sueddeutsche.de/wirtschaft/cartoon-meissners-strategen-li.3565284",
-   "published": "2026-10-18T11:34:30+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Proteste gegen Lebenshaltungskosten: Wenn alles zu teuer wird",
-   "summary": "Nicht nur in Frankreich gibt es Proteste, auch in Belgien, Portugal, Italien und Albanien gehen die Menschen auf die Straße. Ein Überblick der Geschehnisse. mehr...",
-   "link": "https://taz.de/Wenn-alles-zu-teuer-wird-In-Europa-eskaliert-es/!6222347/",
-   "published": "2026-10-18T11:30:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse",
-   "summary": "Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem. Von L.-M. Hiltscher.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html",
-   "published": "2026-10-18T11:18:25+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Klimakrise und Versicherer: Zu gefährdet, um versichert zu werden",
-   "summary": "Brancheninsider warnen davor, dass manche Regionen künftig unversicherbar sein werden – mit ernsten Folgen für die Betroffenen und das Finanzsystem. mehr...",
-   "link": "https://taz.de/Klimakrise-und-Versicherer/!6222191/",
-   "published": "2026-10-18T11:17:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Auftritt nach Lungenoperation: Papst bei Rückkehr in den Vatikan umjubelt",
-   "summary": "Nach seiner Krebs-OP ist Leo XIV. zurück im Vatikan. Beim Angelus-Gebet vor Zehntausenden auf dem Petersplatz wirkt er fit. Aber noch gibt es keine Entwarnung. Wie sehen die nächsten Wochen aus?",
-   "link": "https://www.handelsblatt.com/politik/international/auftritt-nach-lungenoperation-papst-bei-rueckkehr-in-den-vatikan-umjubelt/100263030.html",
-   "published": "2026-10-18T11:11:28+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Nach der Krawallnacht in Frankreich: Die Ursachen des Volkszorns",
-   "summary": "Die Wut auf steigende Preise befeuert die Proteste. Doch nach der Gewalt und den Zerstörungen in der Nacht zu Sonntag rückt das in den Hintergrund. mehr...",
-   "link": "https://taz.de/Nach-der-Krawallnacht-in-Frankreich/!6222419/",
-   "published": "2026-10-18T11:09:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Energiepreise: Netzentgelte für Strom und Gas steigen 2027 bundesweit leicht",
-   "summary": "Strom und Gas werden teurer – aber nicht überall gleich. Die Netzentgelte werden im Jahr 2027 bundesweit höher ausfallen, zeigt eine neue Auswertung. In Hamburg wird es besonders teuer.",
-   "link": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss",
-   "published": "2026-10-18T11:06:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "10 Jahre Missbrauchsskandal im Turnen: „Warum ist so wenig geschehen?“",
-   "summary": "Richterin Rosemarie Aquilina hat 2018 Turnarzt Larry Nassar wegen Missbrauchs verurteilt. Ein Gespräch über Wut, selbstbwusste Opfer und Stillstand. mehr...",
-   "link": "https://taz.de/10-Jahre-Missbrauchsskandal-im-Turnen/!6222334/",
-   "published": "2026-10-18T10:59:00+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Leistung: „Ein Unternehmen ist kein religiöser Clan“",
-   "summary": "Paul Achleitner hat einst als Multi-Aufsichtsratschef unpopuläre Entscheidungen durchgesetzt. Was rät er Managern, die ihr Team zu Höchstleistungen bringen müssen?",
-   "link": "https://www.wiwo.de/erfolg/management/ex-deutsche-bank-aufsichtsratschef-mittelmass-erscheint-als-erfolg/100262591.html",
-   "published": "2026-10-18T10:55:01+00:00",
-   "first_seen": "2026-10-18T12:17:16.654651+00:00",
    "paywall": true
   }
  ]
