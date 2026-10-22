@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-22T06:49:45.815548+00:00",
+ "updated": "2026-10-22T12:37:46.025990+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: Türkische Zentralbank senkt Leitzins nach längerer Pause",
+   "summary": "Zuvor hatte die Notenbank den Zinssatz bei den fünf vorangegangenen Sitzungen unverändert belassen. Die Inflationsrate verharrt unterdessen auf hohem Niveau.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-tuerkische-zentralbank-senkt-leitzins-nach-laengerer-pause/100264256.html",
+   "published": "2026-10-22T12:14:50+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Wirtschaft - Ifo: Tankrabatt wirkt bei Benzin - bei Diesel aber nur teilweise",
+   "summary": "Der neue Tankrabatt kommt bei Benzin fast vollständig bei den Autofahrern an, bei ‌Diesel jedoch nur ⁠zum Teil. ⁠",
+   "link": "https://www.deutschlandfunk.de/ifo-tankrabatt-wirkt-bei-benzin-bei-diesel-aber-nur-teilweise-100.html",
+   "published": "2026-10-22T12:07:07+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studiengaenge-lohnen-sich-noch-im-ki-zeitalter/100235558.html",
+   "published": "2026-10-22T11:06:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Arbeitsmarkt: Barclays-Bank streicht wegen KI-Investitionen Tausende Stellen",
+   "summary": "Die britische Bank Barclays baut bis Jahresende 5.000 Arbeitsplätze ab, betroffen sind vor allem Entwickler. Dies sei Ergebnis von KI-Investitionen, sagte der Bankchef.",
+   "link": "https://www.zeit.de/arbeit/2026-10/barclays-stellenabbau-grossbank-kuenstliche-intelligenz-privatkundengeschaeft-gxe",
+   "published": "2026-10-22T10:23:35+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Investitionsgipfel: Die deutsche Wirtschaftspolitik hat ein Lego-Problem",
@@ -468,114 +504,6 @@
    "link": "https://www.handelsblatt.com/politik/konjunktur/maerkte-bezahlbarkeit-ist-zum-zentralen-wahlkampfthema-geworden/100260658.html",
    "published": "2026-10-19T09:55:00+00:00",
    "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Arbeitsplätze in der Industrie: Deutsche Industrie hat seit 2019 fast 500.000 Arbeitsplätze verloren",
-   "summary": "Während in Autoindustrie und Maschinenbau Stellen abgebaut werden, entstehen im Dienstleistungssektor Millionen neue. Ifo-Forscher warnen vor Folgen für das Wachstum.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/industrie-arbeitsplaetze-deutschland-china-ifo-institut",
-   "published": "2026-10-19T09:16:08+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Proteste in Frankreich: Inflation und soziale Ungleichheit sind Grund für die Unruhen in Frankreich",
-   "summary": "Soziale Ungleichheit, Kürzungen bei den öffentlichen Ausgaben und die Inflation treiben die Menschen in Frankreich auf die Straßen. Es gibt Szenen „wie in einem Kriegsgebiet“.",
-   "link": "https://www.wiwo.de/politik/ausland/proteste-in-frankreich-warum-in-frankreich-protestiert-wird/100263219.html",
-   "published": "2026-10-19T08:51:06+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Isabella Weber: Wie überzeugend ist diese „antifaschistische Wirtschaftspolitik“?",
-   "summary": "Aus einer Kleinstadt in Massachusetts katapultiert sich die Ökonomin Isabella Weber in die Berliner Politik. Bei ihren Thesen bleiben einige Fragen offen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/isabella-weber-ihre-thesen-zur-antifaschistischen-wirtschaftspolitik-im-check-accg-201313034.html",
-   "published": "2026-10-19T06:48:44+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: DAX steht schwacher Wochenstart bevor",
-   "summary": "Positive Konjunkturdaten aus China, Gegenwind der US-Börsen und eine unübersichtliche Lage in Frankreich - ein Mix, der den DAX zum Wochenauftakt belasten könnte.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-   "published": "2026-10-19T05:08:06+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Wirtschaftsmagazin „Surplus“: Im Aufschwung",
-   "summary": "„Surplus“ macht Wirtschaftsjournalismus von links – und wird dabei von namhaften Öko­no­m*in­nen unterstützt. Ist das ein Erfolgsrezept? Ein Redaktionsbesuch. mehr...",
-   "link": "https://taz.de/Wirtschaftsmagazin-Surplus/!6218194/",
-   "published": "2026-10-19T05:05:00+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Was Weiterbildungen bei der Jobsuche im Alter bringen",
-   "summary": "Rund 25 Prozent aller Arbeitslosen sind über 55 Jahre. Wer in diesem Alter auf Jobsuche ist, hat mit Weiterbildungen oft Erfolg. Wie man es angeht und wo es Unterstützung gibt.",
-   "link": "https://www.zdfheute.de/ratgeber/jobsuche-ab-50-job-finden-weiterbildung-agentur-fuer-arbeit-100.html",
-   "published": "2026-10-19T04:11:00+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Chinas Wirtschaft wächst etwas schneller – Export boomt immer stärker",
-   "summary": "Das Wachstum liegt leicht über den Erwartungen. Die neuen Zahlen zeigen aber auch die Schwäche im Inland: Der Konsum lahmt, die Immobilienkrise bleibt bestimmend.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/chinas-wirtschaft-waechst-etwas-schneller-export-boomt-immer-staerker/100263141.html",
-   "published": "2026-10-19T03:44:16+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Chinas Wirtschaft wächst etwas schneller - Probleme bleiben",
-   "summary": "Die chinesische Wirtschaft wächst etwas stärker als erwartet. Die neuen Zahlen zeigen aber auch, wie ungleich sich das Land entwickelt.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-chinas-wirtschaft-waechst-etwas-schneller-probleme-bleiben/100263123.html",
-   "published": "2026-10-19T03:20:15+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Chinas Wirtschaft wächst etwas schneller – Probleme bleiben",
-   "summary": "Die chinesische Wirtschaft wächst etwas stärker als erwartet. Die neuen Zahlen zeigen aber auch, wie ungleich sich das Land entwickelt.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-chinas-wirtschaft-waechst-etwas-schneller-probleme-bleiben/100263124.html",
-   "published": "2026-10-19T03:20:15+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wirtschaftspolitik: Investitionsgipfel in Berlin - Merz rollt roten Teppich aus",
-   "summary": "Die Bundesregierung zieht alle Register, um mehr Investoren nach Deutschland zu locken. Eine Konferenz soll ein „Willkommens-Signal“ senden. Worum es geht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-investitionsgipfel-in-berlin-merz-rollt-roten-teppich-aus/100263128.html",
-   "published": "2026-10-19T02:30:11+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wirtschaftspolitik: 15-Minuten-Politiker-Dating und drei geheime Frühstücke: Wie der erste Investitionsgipfel ablaufen wird",
-   "summary": "Für Montag und Dienstag hat die Bundesregierung nach Berlin eingeladen, um internationale Investoren zu werben. Das Handelsblatt kennt die Teilnehmer und den Ablauf.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-wie-der-erste-deutsche-investitionsgipfel-ablaufen-wird/100262607.html",
-   "published": "2026-10-19T02:04:19+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Fintechs: Iwoca holt ABN Amro und Neuberger an Bord",
-   "summary": "Das Fintech sichert sich 185 Millionen Euro an neuen Kreditlinien für weiteres Wachstum in Deutschland. Dort hat sich das Kreditgeschäft innerhalb von zwölf Monaten mehr als verdoppelt.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fintechs-iwoca-holt-abn-amro-und-neuberger-an-bord/100262798.html",
-   "published": "2026-10-19T02:03:52+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
    "paywall": true
   }
  ]

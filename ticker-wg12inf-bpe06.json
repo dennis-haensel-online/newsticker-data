@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-22T06:49:45.815548+00:00",
+ "updated": "2026-10-22T12:37:46.025990+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: SAP-Umbau trägt Früchte",
+   "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+   "published": "2026-10-22T12:10:58+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Coreweave-Aktie bricht ein – Analysten halten das für ein Missverständnis",
+   "summary": "Der Neo-Cloud-Anbieter bildet das Zentrum der KI-Korrektur an der Börse. Anleger strafen das Unternehmen für seine rasant steigenden Kurse ab. Analysten sehen darin eine Einstiegschance.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-analysten-halten-kurseinbruch-von-coreweave-fuer-ein-missverstaendnis/100264117.html",
+   "published": "2026-10-22T11:50:29+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Software: SAP erwartet mit starkem Cloudbestand etwas mehr – Aktie steigt",

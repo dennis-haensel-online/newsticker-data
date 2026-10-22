@@ -1,7 +1,196 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-22T06:49:45.815548+00:00",
+ "updated": "2026-10-22T12:37:46.025990+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
+   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-trumpf-auf-dem-weg-zum-maschinen-menschen/100248242.html",
+   "published": "2026-10-22T12:28:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-mit-diesen-13-fragen-prueft-ein-top-headhunter-bewerber/100240522.html",
+   "published": "2026-10-22T12:17:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cybersicherheit: Wer muss jetzt dringend handeln? Die wichtigsten Fragen und Antworten zur PHP-Sicherheitslücke",
+   "summary": "Seit gestern schalten Behörden, Kliniken und Universitäten ihre Webseiten ab. Grund ist eine schwere Sicherheitslücke. Wer muss handeln, und welche Rolle spielt die KI? Was Sie wissen müssen.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cybersicherheit-wie-gross-ist-die-bedrohung-durch-die-php-sicherheitsluecke/100264121.html",
+   "published": "2026-10-22T12:13:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: SAP-Umbau trägt Früchte",
+   "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+   "published": "2026-10-22T12:10:58+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Gutachten im Auftrag des ÖRR - Vier Szenarien zur Zukunft der Medien: KI und Tech-Konzerne erhöhen den Druck",
+   "summary": "Ein neues Gutachten zeigt, wie sich die Medienwelt bis 2035 unter dem Einfluss von Künstlicher Intelligenz und großen Technologie-Konzernen verändern könnte. Im Auftrag von ARD, ZDF und Deutschlandradio wurden vier mögliche Szenarien…",
+   "link": "https://www.deutschlandfunk.de/vier-szenarien-zur-zukunft-der-medien-ki-und-tech-konzerne-erhoehen-den-druck-102.html",
+   "published": "2026-10-22T12:07:07+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Coreweave-Aktie bricht ein – Analysten halten das für ein Missverständnis",
+   "summary": "Der Neo-Cloud-Anbieter bildet das Zentrum der KI-Korrektur an der Börse. Anleger strafen das Unternehmen für seine rasant steigenden Kurse ab. Analysten sehen darin eine Einstiegschance.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-analysten-halten-kurseinbruch-von-coreweave-fuer-ein-missverstaendnis/100264117.html",
+   "published": "2026-10-22T11:50:29+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-arbeit-wird-zum-luxus-der-nur-einer-elite-vorbehalten-ist/100223312.html",
+   "published": "2026-10-22T11:07:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studiengaenge-lohnen-sich-noch-im-ki-zeitalter/100235558.html",
+   "published": "2026-10-22T11:06:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Brasilien vor der Stichwahl: „Olé, olá, Lula“",
+   "summary": "Der Kampf ums brasilianische Präsidentenamt entscheidet sich auf Social Media. Bevorzugt der US-Konzern Meta den rechten Kandidaten Bolsonaro? mehr...",
+   "link": "https://taz.de/Brasilien-vor-der-Stichwahl/!6223109/",
+   "published": "2026-10-22T10:53:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Systeme: Erst Chips, jetzt Software: Wie Nvidia die Zukunft des autonomen Fahrens an sich bindet",
+   "summary": "Nvidia baut das Geschäft mit selbstfahrenden Autos weiter aus. Das KI-Modell Alpamayo soll urteilen wie ein Mensch und kommt im Mercedes CLA zum Einsatz. Eine Testfahrt durch Berlin.",
+   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/ki-systeme-wie-nvidia-die-zukunft-des-autonomen-fahrens-an-sich-bindet/100261380.html",
+   "published": "2026-10-22T10:50:05+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Autonomes Fahren: Deutsche offen für mehr KI in Autos",
+   "summary": "Die Mehrheit der Deutschen ist für den Einsatz von künstlicher Intelligenz im Auto. Eine Bitkom-Umfrage zeigt: Vor allem Diebstahlschutz und Unfallvermeidung finden Zuspruch.",
+   "link": "https://www.wiwo.de/unternehmen/auto/autonomes-fahren-deutsche-offen-fuer-mehr-ki-in-autos/100264209.html",
+   "published": "2026-10-22T10:43:36+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Sicherheitslücke im Netz: Warum das gesamte Internet so verwundbar ist",
+   "summary": "Aufgrund einer Sicherheitslücke in einer Programmiersprache sind derzeit viele Webseiten offline. Nun läuft das Wettrennen gegen die Angreifer – wegen KI in Hochgeschwindigkeit. Fragen und Antworten zu „PHP2Shell“.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/php2shell-sicherheitsluecke-cybersicherheit-hackerangriff-ki-faq-li.3567251",
+   "published": "2026-10-22T10:35:04+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Arbeitsmarkt: Barclays-Bank streicht wegen KI-Investitionen Tausende Stellen",
+   "summary": "Die britische Bank Barclays baut bis Jahresende 5.000 Arbeitsplätze ab, betroffen sind vor allem Entwickler. Dies sei Ergebnis von KI-Investitionen, sagte der Bankchef.",
+   "link": "https://www.zeit.de/arbeit/2026-10/barclays-stellenabbau-grossbank-kuenstliche-intelligenz-privatkundengeschaeft-gxe",
+   "published": "2026-10-22T10:23:35+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Stellenabbau bei Großbank: Barclays streicht nach KI-Investitionen 5.000 Jobs",
+   "summary": "Die Sorge vor Jobverlusten durch KI wächst: Eine britische Bank baut Tausende Stellen ab aufgrund höherer Effizienz durch den Einsatz neuer Technologien. mehr...",
+   "link": "https://taz.de/Grossbank-Barclays-streicht-nach-KI-Investitionen-5000-Jobs/!6223742/",
+   "published": "2026-10-22T10:17:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Coreweave-Anleihen: Was passiert, wenn der Bondmarkt den KI-Riesen misstraut?",
+   "summary": "Anleihen von KI-Unternehmen wie Coreweave und Oracle stecken auch in vielen Rentenfonds. Warum das zum Problem wird und was die Eisenbahn damit zu tun hat.",
+   "link": "https://www.wiwo.de/finanzen/boerse/coreweave-anleihen-was-folgt-wenn-der-bondmarkt-den-ki-riesen-misstraut/100263872.html",
+   "published": "2026-10-22T10:01:41+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Großbank Barclays streicht 5000 Jobs nach KI-Investitionen",
+   "summary": "Barclay baut Tausende Stellen ab und begründet das teilweise mit höherer Effizienz durch den Einsatz von KI.",
+   "link": "https://www.wiwo.de/unternehmen/banken/kuenstliche-intelligenz-nach-ki-investitionen-grossbank-barclays-streicht-5000-jobs/100264183.html",
+   "published": "2026-10-22T09:18:10+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Starshield-Drosselung: Nato-KI-System hat laut Palantir kein Kill-Switch",
+   "summary": "Die Drosselung des Satellitensystems Starshield in der Ukraine schürt in Europa Sorge vor Abhängigkeiten von US-Technologie. So auch bei der Nato, die ein KI-System von Palantir nutzt. Der Konzern beschwichtigt nun.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/starshield-drosselung-nato-ki-system-hat-laut-palantir-kein-kill-switch-a-c51a3bec-e940-491a-bddd-45dbad107de1#ref=rss",
+   "published": "2026-10-22T09:12:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-Start-up: DeepSeek sammelt offenbar 15 Milliarden Dollar ein",
+   "summary": "Das DeepSeek konnte anscheinend Anleger von sich überzeugen und sammelte Milliardenbeiträge ein. Das KI-Start-up verdoppelt damit sein ursprüngliches Ziel.",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-start-up-deepseek-sammelt-offenbar-15-milliarden-dollar-ein/100264163.html",
+   "published": "2026-10-22T09:09:22+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
+   "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Das aktuelle Hauptgeschäft, der Verkauf von Elektroautos, leidet vorerst aber.",
+   "link": "https://www.wiwo.de/unternehmen/auto/elektroautos-tesla-mit-gewinneinbruch-und-stagnierendem-umsatz/100264041.html",
+   "published": "2026-10-22T07:39:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Software-Konzern: Von wegen KI-Krise – SAP fährt Rekordergebnis ein",
+   "summary": "Die Geschäfte des Softwareanbieters übertreffen im dritten Quartal bei mehreren Kennziffern die Erwartung – und sollen weiter auf Hochtouren laufen.",
+   "link": "https://www.wiwo.de/unternehmen/it/sap-aktie-nach-q3-zahlen-rekordumsatz-und-hoehere-prognose/100264104.html",
+   "published": "2026-10-22T07:31:40+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Netzwerkausrüster: Starkes KI-Geschäft beschert Nokia Gewinnsprung",
+   "summary": "Die Nachfrage nach Rechenzentren verhilft Nokia zu einem überraschend hohen Gewinn. Seit Jahresbeginn hat die Aktie um fast 50 Prozent zugelegt.",
+   "link": "https://www.wiwo.de/unternehmen/it/starkes-ki-geschaeft-gewinnsprung-bei-nokia-aktie-legt-um-48-prozent-zu/100264108.html",
+   "published": "2026-10-22T07:18:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
   {
    "label": "SPIEGEL",
    "title": "Tesla: Gewinn bricht im dritten Quartal ein, Umsatz stagniert",
@@ -711,195 +900,6 @@
    "link": "https://www.wiwo.de/finanzen/geldanlage/ki-klumpenrisiko-im-depot-so-gross-ist-die-gefahr-fuer-anleger/100263198.html",
    "published": "2026-10-20T08:14:11+00:00",
    "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Deutschland hinkt bei KI hinterher",
-   "summary": "Laut neuer BCG-Studie zieht die Weltspitze bei KI davon, während Deutschland stagniert. Wo die Ursachen liegen und welche Chance der Industrie bleibt.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-ranking-deutschland-verliert-anschluss-an-die-weltspitze/100263423.html",
-   "published": "2026-10-20T07:03:28+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Medienbericht - Hackerangriff auf die AfD: Mails im Internet veröffentlicht",
-   "summary": "Auf die AfD hat es nach einem Bericht der \"Bild\"-Zeitung einen Hackerangriff gegeben.",
-   "link": "https://www.deutschlandfunk.de/hackerangriff-auf-die-afd-mails-im-internet-veroeffentlicht-100.html",
-   "published": "2026-10-20T06:48:09+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Website veröffentlicht tausende Mails: Riesiges Email-Datenleak bei der AfD",
-   "summary": "Die AfD wird Opfer eines Email-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“. mehr...",
-   "link": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
-   "published": "2026-10-20T06:33:00+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Parteien: Hackerangriff auf E-Mail-Konten der AfD",
-   "summary": "Im Netz brüsten sich Unbekannte, rund 421.000 AfD-E-Mails veröffentlicht zu haben. Ob die Dateien echt sind, ist unklar. Die AfD bestätigt aber einen Hackerangriff.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/parteien-hackerangriff-auf-e-mail-konten-der-afd/100263431.html",
-   "published": "2026-10-20T06:12:10+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Nscale verhandelt mit Anthropic über 45-Milliarden-Dollar-Deal",
-   "summary": "Der Rechenzentrumsbetreiber Nscale musste bei Verhandlungen mit Microsoft kürzlich einen Rückschlag hinnehmen. Jetzt verhandelt der Konzern offenbar mit Anthropic.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-nscale-verhandelt-mit-anthropic-ueber-45-milliarden-dollar-deal/100263424.html",
-   "published": "2026-10-20T05:55:38+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Personalberatung: Diese Headhunter sind die stillen Lenker der deutschen Wirtschaft",
-   "summary": "Krise und KI treffen die Branche der Headhunter hart. Doch diese sechs Personalberater platzieren weiter Vorstände und Aufsichtsräte. Wer sind sie, wie ticken sie, für wen arbeiten sie?",
-   "link": "https://www.handelsblatt.com/unternehmen/management/personalberatung-wer-die-chefetagen-deutschlands-besetzt/100256456.html",
-   "published": "2026-10-20T05:48:00+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Aktie für jedes Kind: Anthropic und Musk machen Milliardenversprechen",
-   "summary": "Das KI-Unternehmen und der reichste Mensch der Welt geben sich gönnerhaft und kündigen an, größere Aktienpakete für das Gemeinwohl zur Verfügung zu stellen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-und-musk-machen-milliardenversprechen-accg-201602086.html",
-   "published": "2026-10-20T05:41:28+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing: Deutschland: Besser als sein Ruf?",
-   "summary": "Nvidia-Chef Jensen Huang traut Deutschland bei der industriellen Anwendung von KI eine Führungsrolle zu. Beim Investitionsgipfel in Berlin entscheidet sich, welche privaten Investoren mitziehen.",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-deutschland-besser-als-sein-ruf/100263289.html",
-   "published": "2026-10-20T04:32:19+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Podcast: Nvidia-Chef blickt positiv auf Deutschland / VW droht Shutdown",
-   "summary": "Nvidia-Chef Jensen Huang traut Deutschland bei der industriellen Anwendung von KI eine Führungsrolle zu. Beim Investitionsgipfel in Berlin entscheidet sich, welche privaten Investoren mitziehen.",
-   "link": "https://www.handelsblatt.com/audio/podcast-morning-briefing/podcast-nvidia-chef-blickt-positiv-auf-deutschland---vw-droht-shutdown/100263417.html",
-   "published": "2026-10-20T04:29:20+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeit und KI: Siemens: Wegen KI nicht auf Einstiegsjobs verzichten",
-   "summary": "Personalvorständin Wiese warnt davor, jungen Mitarbeitenden nicht mehr die Chance zu geben, Dinge selbst zu machen. Sonst fehlen später Fähigkeiten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeit-und-ki-siemens-wegen-ki-nicht-auf-einstiegsjobs-verzichten/100263390.html",
-   "published": "2026-10-20T02:00:23+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Ökonomin: Sitzen auf einem Datenschatz",
-   "summary": "Ulrike Malmendier sieht \"enorme Chancen\" für Deutschland bei industrieller KI. Dafür brauche es Rechenkapazitäten und zukunftsorientierte Investitionen, sagt die Ökonomin.",
-   "link": "https://www.zdfheute.de/politik/deutschland/malmendier-kuenstliche-intelligenz-industrie-deutschland-100.html",
-   "published": "2026-10-20T01:49:00+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
-   "summary": "Die Bundesregierung hat mit dem US-Chiphersteller Nvidia eine Zusammenarbeit zur Entwicklung Künstlicher Intelligenz vereinbart. Wie die Bundesregierung mitteilte, wurde eine entsprechende Absichtserklärung mit Nvidia im Rahmen eines…",
-   "link": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-absichtserklaerung-fuer-ki-zusammenarbeit--102.html",
-   "published": "2026-10-20T01:03:54+00:00",
-   "first_seen": "2026-10-20T01:21:48.679852+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Das Prinzip Hoffnung: KI-Investitionen mit Signalwirkung",
-   "summary": "Im Rahmen des Investitionsgipfels in Berlin stellt Merz eine Partnerschaft mit Nvidia vor. Die Bundesregierung wirbt um Geld von Investoren, doch an der Strategie gibt es Kritik.",
-   "link": "https://www.zdfheute.de/wirtschaft/investitionsgipfel-berlin-merz-nvidia-ki-100.html",
-   "published": "2026-10-19T23:22:00+00:00",
-   "first_seen": "2026-10-20T01:21:48.679852+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "\"Invest in Germany Summit\" - Investitionsgipfel soll Geldgeber nach Deutschland locken - Absichtserklärung für KI-Zusammenarbeit mit Nvidia",
-   "summary": "Die Bundesregierung hat mit dem US-Chiphersteller Nvidia eine Zusammenarbeit zur Entwicklung Künstlicher Intelligenz vereinbart. Wie die Bundesregierung mitteilte, wurde eine entsprechende Absichtserklärung mit Nvidia im Rahmen eines…",
-   "link": "https://www.deutschlandfunk.de/investitionsgipfel-soll-geldgeber-nach-deutschland-locken-absichtserklaerung-fuer-ki-zusammenarbeit--100.html",
-   "published": "2026-10-19T21:32:13+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Nvidia: Bundesregierung und Konzernchef Huang besiegeln KI-Kooperation",
-   "summary": "Prost! Friedrich Merz und Jensen Huang verkünden eine Kooperation bei der Entwicklung von KI. Der Bundeskanzler ruft die Unternehmen zur Bereitstellung ihrer Daten auf. Der Nvidia-CEO warnt davor Wissen ins Ausland abzugeben.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-bundesregierung-und-konzernchef-huang-besiegeln-ki-kooperation-a-292aff8c-c1b9-414e-96f2-14c1d29b7f72#ref=rss",
-   "published": "2026-10-19T19:29:00+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-   "summary": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest in Germany\"-Gipfel verkündet - und soll die deutsche…",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/bund-nvidia-zusammenarbeit-ki-100.html",
-   "published": "2026-10-19T19:23:41+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Huang zu Merz: „Gib Deutschland eine Chance!“",
-   "summary": "Der Auftakt zum Investitionsgipfel der Bundesregierung gerät zu einer Demonstration der Stärke der KI-Industrie mit Nvidia-Chef Jensen Huang als ihrem ungekrönten König.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-huang-zu-merz-gib-deutschland-eine-chance-201603218.html",
-   "published": "2026-10-19T19:07:19+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Deutschland will KI-Entwicklung in der Industrie voranbringen",
-   "summary": "Mit Nvidia als Partner will die Bundesregierung Deutschland zum Vorreiter für industrielle KI machen. Im Fokus steht unter anderem die Entwicklung von KI-Robotik.",
-   "link": "https://www.zdfheute.de/politik/deutschland/merz-nvidia-kuenstliche-intelligenz-industrie-100.html",
-   "published": "2026-10-19T18:51:00+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Kann Deutschland bei KI aufholen? Experte sieht drei Faktoren",
-   "summary": "Nvidia-Chef Jensen Huang sieht Deutschland aktuell bei KI abgehängt. Das muss nicht so bleiben, sagt ein Münchner Investor - und er erklärt, wie die Aufholjagd gelingen kann.",
-   "link": "https://www.zdfheute.de/politik/deutschland/ki-deutschland-investition-investitionsgipfel-kuensliche-intelligenz-nvidia-schoeler-102.html",
-   "published": "2026-10-19T17:45:00+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Chipkonzern: Bund kooperiert mit Nvidia bei Entwicklung von KI-Robotik",
-   "summary": "Der Bund und Nvidia unterzeichnen eine Absichtserklärung zur industriellen KI. Medienberichten zufolge soll ein dreistelliger Millionenbetrag fließen.",
-   "link": "https://www.wiwo.de/politik/deutschland/nvidia-bund-kooperiert-mit-chipkonzern-bei-entwicklung-von-ki-robotik/100262650.html",
-   "published": "2026-10-19T17:41:00+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Öffentliche Ausschreibungen: Christian Lindner und sein Ex-Staatssekretär investieren in Berliner Start-up",
-   "summary": "Das Vergabewesen des Staates gilt als komplex, teuer, abschreckend – und ist Herzensthema des einstigen Bundesfinanzministers. Per KI-Investment will Christian Lindner Abhilfe schaffen.",
-   "link": "https://www.wiwo.de/politik/deutschland/oeffentliche-ausschreibungen-christian-lindner-investiert-in-berliner-start-up/100263193.html",
-   "published": "2026-10-19T17:37:00+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
    "paywall": true
   }
  ]

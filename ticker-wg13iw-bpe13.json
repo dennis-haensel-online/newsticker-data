@@ -1,7 +1,52 @@
 {
  "id": "wg13iw-bpe13",
- "updated": "2026-10-22T06:49:45.815548+00:00",
+ "updated": "2026-10-22T12:37:46.025990+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Angst vor Investitionen: Umfrage enthüllt Achillesferse des Mittelstands",
+   "summary": "Mittelständische Unternehmen steigern laut einer Umfrage ihre Gewinne. Aber sie trauen sich nicht, ihre Stärke auszuspielen und das Geld zu investieren, obwohl das dringend nötig wäre. Warum?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kfw-umfrage-zeigt-achillesferse-des-starken-deutschen-mittelstands-accg-201611534.html",
+   "published": "2026-10-22T12:06:57+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Arbeitsmarkt: Barclays-Bank streicht wegen KI-Investitionen Tausende Stellen",
+   "summary": "Die britische Bank Barclays baut bis Jahresende 5.000 Arbeitsplätze ab, betroffen sind vor allem Entwickler. Dies sei Ergebnis von KI-Investitionen, sagte der Bankchef.",
+   "link": "https://www.zeit.de/arbeit/2026-10/barclays-stellenabbau-grossbank-kuenstliche-intelligenz-privatkundengeschaeft-gxe",
+   "published": "2026-10-22T10:23:35+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Stellenabbau bei Großbank: Barclays streicht nach KI-Investitionen 5.000 Jobs",
+   "summary": "Die Sorge vor Jobverlusten durch KI wächst: Eine britische Bank baut Tausende Stellen ab aufgrund höherer Effizienz durch den Einsatz neuer Technologien. mehr...",
+   "link": "https://taz.de/Grossbank-Barclays-streicht-nach-KI-Investitionen-5000-Jobs/!6223742/",
+   "published": "2026-10-22T10:17:00+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Großbank Barclays streicht 5000 Jobs nach KI-Investitionen",
+   "summary": "Barclay baut Tausende Stellen ab und begründet das teilweise mit höherer Effizienz durch den Einsatz von KI.",
+   "link": "https://www.wiwo.de/unternehmen/banken/kuenstliche-intelligenz-nach-ki-investitionen-grossbank-barclays-streicht-5000-jobs/100264183.html",
+   "published": "2026-10-22T09:18:10+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Wirtschaftsstandort Deutschland: Mittelstand macht 2025 laut Studie mehr Gewinn und investiert weniger",
+   "summary": "Die Rentabilität der mittelständischen Unternehmen ist nach KfW-Angaben wieder auf dem Vor-Corona-Niveau. Bei Investitionen halten sich die Firmen allerdings zurück.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/mittelstand-investitionen-kmu-kfw-energie-kosten-gxe",
+   "published": "2026-10-22T09:07:07+00:00",
+   "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Investitionsgipfel: Die deutsche Wirtschaftspolitik hat ein Lego-Problem",
@@ -594,60 +639,6 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/sanofi-pharmariese-investiert-in-frankfurt-kommt-da-noch-mehr/100262767.html",
    "published": "2026-10-19T10:30:00+00:00",
    "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Pharmaindustrie: Roche legt künftige Investitionen in Deutschland auf Eis",
-   "summary": "Die geplanten Einsparungen der Bundesregierung im Gesundheitssystem belasten die Pharmaindustrie. Roche zieht seine Investitionen in den Standort zurück.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/pharmaindustrie-roche-legt-kuenftige-investitionen-in-deutschland-auf-eis/100263192.html",
-   "published": "2026-10-19T08:25:16+00:00",
-   "first_seen": "2026-10-19T11:35:33.559186+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Berlin: Friedrich Merz lädt 200 Unternehmenschefs zu Investitionsgipfel",
-   "summary": "Die Bundesregierung will internationale Konzerne zu Investitionen in Deutschland bewegen. Das Institut der deutschen Wirtschaft warnt vor überzogenen Erwartungen.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/investitionsgipfel-berlin-bundesregierung-jensen-huang-nvidia",
-   "published": "2026-10-19T03:53:14+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Yen, Hang Seng: Asiens Börsen uneins – KI-Sorgen belasten Japan, China im Plus",
-   "summary": "Anleger zweifeln, ob die Einnahmen aus künstlicher Intelligenz die Investitionen rechtfertigen. Zudem rücken Zinssignale und die anstehenden Bilanzen der US-Technologiekonzerne in den Fokus.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiens-boersen-uneins-ki-sorgen-belasten-japan-china-im-plus/100263138.html",
-   "published": "2026-10-19T03:47:29+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wirtschaftspolitik: Investitionsgipfel in Berlin - Merz rollt roten Teppich aus",
-   "summary": "Die Bundesregierung zieht alle Register, um mehr Investoren nach Deutschland zu locken. Eine Konferenz soll ein „Willkommens-Signal“ senden. Worum es geht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-investitionsgipfel-in-berlin-merz-rollt-roten-teppich-aus/100263128.html",
-   "published": "2026-10-19T02:30:11+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wirtschaftspolitik: 15-Minuten-Politiker-Dating und drei geheime Frühstücke: Wie der erste Investitionsgipfel ablaufen wird",
-   "summary": "Für Montag und Dienstag hat die Bundesregierung nach Berlin eingeladen, um internationale Investoren zu werben. Das Handelsblatt kennt die Teilnehmer und den Ablauf.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/wirtschaftspolitik-wie-der-erste-deutsche-investitionsgipfel-ablaufen-wird/100262607.html",
-   "published": "2026-10-19T02:04:19+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Deutschland will Zukunft und finanziert Vergangenheit: Fünf-Punkte-Plan für den Investitionsstandort",
-   "summary": "Die Bundesregierung lädt zum großen Investitionsgipfel. Der Standort wird aber nur wieder funktionieren, wenn Politik und Wirtschaft an fünf Stellen grundlegend umdenken.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-warum-deutschland-die-vergangenheit-finanziert-und-die-zukunft-verpasst/100262497.html",
-   "published": "2026-10-19T02:02:43+00:00",
-   "first_seen": "2026-10-19T05:29:44.513132+00:00",
    "paywall": true
   }
  ]
