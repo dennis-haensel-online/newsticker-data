@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:53:51.980075+00:00",
+ "updated": "2026-10-22T01:05:34.714004+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,42 @@
    "published": "2026-12-12T13:29:00+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
    "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Ukraine-Krieg - Grüne fordern von Merz mehr Druck auf US-Regierung",
+   "summary": "Die Grünen haben Bundeskanzler Merz aufgefordert, bei der US-Regierung auf eine anhaltende Unterstützung für die Ukraine zu dringen.",
+   "link": "https://www.deutschlandfunk.de/gruene-fordern-von-merz-mehr-druck-auf-us-regierung-100.html",
+   "published": "2026-10-22T00:30:30+00:00",
+   "first_seen": "2026-10-22T01:05:34.714004+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Dammam - Saudi-Arabien: Mindestens ein Toter nach neuen Angriffen auf Flughafen - US-Regierung zieht Personal aus Botschaft ab",
+   "summary": "In Saudi-Arabien ist erneut ein Flughafen angegriffen worden.",
+   "link": "https://www.deutschlandfunk.de/saudi-arabien-mindestens-ein-toter-nach-neuen-angriffen-auf-flughafen-us-regierung-zieht-personal-au-100.html",
+   "published": "2026-10-22T00:30:30+00:00",
+   "first_seen": "2026-10-22T01:05:34.714004+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Finanzen - Arbeitskreis Steuerschätzung gibt Herbstprognose bekannt - mehr Einnahmen erwartet",
+   "summary": "Bundesfinanzminister Klingbeil stellt am Nachmittag die Ergebnisse der Steuerschätzung vor.",
+   "link": "https://www.deutschlandfunk.de/arbeitskreis-steuerschaetzung-gibt-herbstprognose-bekannt-mehr-einnahmen-erwartet-100.html",
+   "published": "2026-10-22T00:30:30+00:00",
+   "first_seen": "2026-10-22T01:05:34.714004+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Brüssel - EU-Länder einig bei Haltung zu Cookie-Abfragen im Internet",
+   "summary": "Die EU-Staaten haben sich dagegen ausgesprochen, die Zahl der Cookie-Abfragen im Internet deutlich zu reduzieren.",
+   "link": "https://www.deutschlandfunk.de/eu-laender-einig-bei-haltung-zu-cookie-abfragen-im-internet-100.html",
+   "published": "2026-10-22T00:30:30+00:00",
+   "first_seen": "2026-10-22T01:05:34.714004+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -215,6 +251,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100262901.html",
    "published": "2026-10-21T21:06:32+00:00",
    "first_seen": "2026-10-21T22:53:51.980075+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Quartalszahlen: Meta investiert 135 Milliarden Dollar in KI – und schafft neue Aktienklasse",
+   "summary": "Facebook-Gründer Mark Zuckerberg beschleunigt seine Wette auf den KI-Boom. Das Geld für die gigantischen Ausgaben soll das florierende Werbegeschäft liefern – und eine neue Anteilsklasse.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-135-milliarden-dollar-in-ki-und-schafft-neue-aktienklasse/100262901.html",
+   "published": "2026-10-21T21:06:32+00:00",
+   "first_seen": "2026-10-22T01:05:34.714004+00:00",
    "paywall": true
   },
   {
@@ -13453,51 +13498,6 @@
    "summary": "Die Vorbereitung eines Linksbündnisses in Berlin bringt CDU und CSU in Rage. Auf dem Deutschlandtag der Jungen Union werden konkrete Konsequenzen gefordert - auch die nach einer neuen Brandmauer.",
    "link": "https://www.handelsblatt.com/politik/deutschland/ju-deutschlandtag-brandmauer-nach-links-union-attackiert-rot-gruen-rot/100263056.html",
    "published": "2026-10-18T12:53:17+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Berlin: „Investoren dieser Welt, schaut auf diese Stadt!“",
-   "summary": "Linke, SPD und Grüne einigen sich auf ein Sondierungspapier: mit Enteignungen und der Kriminalisierung von Vermietern. Ein Kommentar.",
-   "link": "https://www.wiwo.de/politik/deutschland/berlin-investoren-dieser-welt-schaut-auf-diese-stadt/100263076.html",
-   "published": "2026-10-18T12:50:59+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Kryptobroker: Neue Führung, alte Probleme: Bitpanda kämpft um die Zukunft",
-   "summary": "Ein plötzlicher Chefwechsel und tiefrote Zahlen – Bitpanda blickt auf turbulente Wochen zurück. In der Branche wachsen die Zweifel an der Strategie des Kryptobrokers.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/bitpanda-kryptobroker-ringt-nach-verlusten-und-chefwechsel-um-die-zukunft/100260796.html",
-   "published": "2026-10-18T12:50:32+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Umstrittene Pläne: Rot-Grün-Rot in Berlin auf Koalitions- und Enteignungskurs",
-   "summary": "Nach den Sondierungen in Berlin peilen Linke, Grüne und SPD Koalitionsverhandlungen an – trotz Druck aus der Bundespolitik. Noch läuft die Debatte über Antisemitismus, da droht der nächste Aufreger.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/umstrittene-plaene-rot-gruen-rot-in-berlin-auf-koalitions-und-enteignungskurs/100263013.html",
-   "published": "2026-10-18T12:49:51+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Standort in Gefahr: Absagen für den Investitionsgipfel: Unternehmenschefs kritisieren deutsche Industriepolitik",
-   "summary": "Die Bundesregierung wirbt mit dem „Invest in Germany“-Gipfel um Vertrauen und Geld internationaler Unternehmen. Doch viele äußern sich kritisch – Pharmachefs sagen sogar ihre Teilnahme ab.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/investitionen-in-gefahr-unternehmenschefs-kritisieren-deutsche-industriepolitik/100261824.html",
-   "published": "2026-10-18T12:44:12+00:00",
-   "first_seen": "2026-10-18T16:14:10.480139+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Die Türkei will Diesel aus dem Trump-Putin-Deal beziehen",
-   "summary": "China verdreifacht seine Dieselexporte +++ EZB-Präsidentin Lagarde warnt vor höheren Anleiherenditen +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-die-tuerkei-will-diesel-aus-dem-trump-putin-deal-beziehen-faz-200452404.html",
-   "published": "2026-10-18T12:42:32+00:00",
    "first_seen": "2026-10-18T16:14:10.480139+00:00",
    "paywall": true
   }
