@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-22T01:05:34.714004+00:00",
+ "updated": "2026-10-22T06:49:45.815548+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Tesla: Gewinn bricht im dritten Quartal ein, Umsatz stagniert",
+   "summary": "Das Autogeschäft bei Tesla schwächelt. Der Gewinn ist im dritten Quartal eingebrochen, der Umsatz stagniert. Chef Elon Musk sieht die Zukunft der Firma in selbstfahrenden Robotaxis und Robotern.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-gewinn-bricht-im-dritten-quartal-ein-umsatz-stagniert-a-cf4bcaca-f8fd-44cd-981c-3994b78480c0#ref=rss",
+   "published": "2026-10-22T05:49:00+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Vorbild Samsung: Erster Streik in Taiwans Chipindustrie",
+   "summary": "In Taiwan wollen Mitarbeiter des Halbleiterherstellers Micron stärker an den KI-Gewinnen beteiligt werden. Sie ermutigen hohe Bonus-Zahlungen, die Beschäftigte bei Samsung erkämpft haben.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vorbild-samsung-erster-streik-in-taiwans-chipindustrie-accg-201610516.html",
+   "published": "2026-10-22T05:38:48+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
+   "summary": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
+   "published": "2026-10-22T05:25:41+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
+   "summary": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
+   "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
+   "published": "2026-10-22T03:30:26+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elektroautos: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern",
+   "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/elektroautos-musk-schwaermt-nach-tesla-gewinneinbruch-von-robotern/100264080.html",
+   "published": "2026-10-22T03:01:16+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Meta: Mark Zuckerbergs Knuddel-KI Muse beruhigt die Märkte",
+   "summary": "Metas Quartalszahlen und die neue Kuschel-KI des Konzerns haben die nervösen Investoren zunächst besänftigt. Aber die Unsicherheit bleibt, ob sich die Milliardeninvestitionen in die künstliche Intelligenz lohnen.",
+   "link": "https://www.spiegel.de/wirtschaft/meta-mark-zuckerbergs-knuddel-ki-muse-beruhigt-die-maerkte-a-d85ac8c2-bf56-4c27-b959-2bfa1f10a0dd#ref=rss",
+   "published": "2026-10-22T03:00:00+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bauwirtschaft: Roboter und Drohnen – „Die Baustelle der Zukunft wird attraktiver“",
+   "summary": "Die Baubranche gilt bei der Digitalisierung als träge. Das will das Construction Future Lab ändern. Ein Gespräch über Ressourcenverschwendung, Bauroboter und den Weg zu autonomen Baumaschinen.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/bauunternehmen-wie-roboter-und-drohnen-die-branche-in-zukunft-veraendern-koennten/100257926.html",
+   "published": "2026-10-22T02:06:28+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Konkurrenz durch KI - US-Bildagentur Getty Images beantragt Insolvenz",
@@ -36,6 +99,33 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-135-milliarden-dollar-in-ki-und-schafft-neue-aktienklasse/100262901.html",
    "published": "2026-10-21T21:06:32+00:00",
    "first_seen": "2026-10-22T01:05:34.714004+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Quartalszahlen: Meta investiert 135 Milliarden Dollar in Künstliche Intelligenz",
+   "summary": "Facebook-Gründer Mark Zuckerberg treibt seine KI-Wette weiter voran. Finanziert werden die gigantischen Ausgaben vom florierenden Werbegeschäft – und einer neuen Anteilsklasse.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-135-milliarden-dollar-in-kuenstliche-intelligenz/100262901.html",
+   "published": "2026-10-21T21:06:32+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
+   "summary": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
+   "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
+   "published": "2026-10-21T20:47:20+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Elon Musk: Tesla-Umsatz stagniert, Details zur SpaceX-Fusion fehlen – Aktie fällt",
+   "summary": "Tesla-Chef Musk enttäuscht die Investoren. Bei der Vorlage der Quartalszahlen kündigt er den Start von Roboterverkäufen für 2027 an. Zum Thema der Woche schweigt sich der Milliardär aber aus.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/elon-musk-tesla-umsatz-stagniert-details-zur-spacex-fusion-fehlen/100262900.html",
+   "published": "2026-10-21T20:41:41+00:00",
+   "first_seen": "2026-10-22T06:49:45.815548+00:00",
    "paywall": true
   },
   {
@@ -809,96 +899,6 @@
    "summary": "Das Vergabewesen des Staates gilt als komplex, teuer, abschreckend – und ist Herzensthema des einstigen Bundesfinanzministers. Per KI-Investment will Christian Lindner Abhilfe schaffen.",
    "link": "https://www.wiwo.de/politik/deutschland/oeffentliche-ausschreibungen-christian-lindner-investiert-in-berliner-start-up/100263193.html",
    "published": "2026-10-19T17:37:00+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hat Deutschland Chancen im KI-Wettbewerb?",
-   "summary": "Merz empfängt Nvidia-Chef Huang in Berlin. Es geht um viel Geld und wie sich Deutschland bei der KI aufstellt. Was die geplante Kooperation mit Nvidia bringen könnte - ZDFheute live.",
-   "link": "https://www.zdfheute.de/video/zdfheute-live/investitionsgipfel-merz-huang-ki-video-100.html",
-   "published": "2026-10-19T17:30:00+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Sind Anthropic und OpenAI wirklich geeignete Börsenkandidaten?",
-   "summary": "Die KI-Labore drängen mit Billionenbewertungen an die Börse. Unklar ist, wie Anleger mit Aktien von Firmen umgehen, deren Technologie die Menschheit auslöschen könnte, meint Astrid Dörner.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/ki-sind-anthropic-und-openai-wirklich-geeignete-boersenkandidaten/100263207.html",
-   "published": "2026-10-19T16:29:47+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US-Indizes liegen höher – Investoren greifen bei Tech-Werten wieder zu",
-   "summary": "US-Aktien erholen sich nach dem Chip-Ausverkauf der Vorwoche. Nun richten sich die Blicke auf die Quartalszahlen von Meta und Tesla. Sie sollen zeigen, wie tragfähig der KI-Boom ist.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-liegen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
-   "published": "2026-10-19T16:18:56+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US-Indizes schließen höher – Investoren greifen bei Tech-Werten wieder zu",
-   "summary": "US-Aktien erholen sich nach dem Chip-Ausverkauf der Vorwoche. Nun richten sich die Blicke auf die Quartalszahlen von Meta und Tesla. Sie sollen zeigen, wie tragfähig der KI-Boom ist.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-schliessen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html",
-   "published": "2026-10-19T16:18:56+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte: Warum europäische Aktien von der KI-Korrektur profitieren können",
-   "summary": "Oliver Schmidt, Investmentchef der Privatbank Metzler, sieht europäische Werte im Vorteil. Auch andere Profi-Investoren drängen auf mehr Diversifizierung.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-warum-europaeische-aktien-von-der-ki-korrektur-profitieren-koennen/100261327.html",
-   "published": "2026-10-19T15:58:58+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Wie sollen Anleger mit der KI-Korrektur umgehen? | Proteste in Frankreich belasten Börsen",
-   "summary": "Aus KI-Angst wird eine KI‑Korrektur. Welche Schlüsse Anleger ziehen sollten, erklärt ein Chief Investment Officer der BNP Paribas. Und: Wie sich die Lage in Frankreich auf die Börsen auswirkt.",
-   "link": "https://www.handelsblatt.com/audio/today/today-wie-sollen-anleger-mit-der-ki-korrektur-umgehen/100263342.html",
-   "published": "2026-10-19T15:36:15+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Neue Exportregeln: China will das Ausland von neuer KI- und Solartechnik abschneiden",
-   "summary": "Biotech, KI, Solar, Drohnen und sogar Tunnelbohrmaschinen: Pekings Handelsministerium legt einen neuen Rundumschlag vor, um Chinas Technikvorsprung zu schützen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/china-beschraenkt-export-von-ki-solartechnik-und-drohnen-201602046.html",
-   "published": "2026-10-19T15:06:32+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Kampf um Technologieführerschaft: China kündigt Exportkontrollen für Schlüsseltechnologien an",
-   "summary": "Peking will die Ausfuhr von KI- und Solartechnik stärker überwachen. Die Regierung begründet das mit Sicherheitsinteressen. mehr...",
-   "link": "https://taz.de/Kampf-um-Technologiefuehrerschaft/!6222581/",
-   "published": "2026-10-19T14:42:00+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Personalberatung: Diese Headhunter sind die stillen Lenker der deutschen Wirtschaft",
-   "summary": "Krise und KI treffen die Branche der Headhunter hart. Doch diese sechs Personalberater platzieren weiter Vorstände und Aufsichtsräte. Wer sind sie, wie ticken sie, für wen arbeiten sie?",
-   "link": "https://www.handelsblatt.com/unternehmen/management/personalberatung-diese-sechs-headhunter-besetzen-deutschlands-spitzenposten-01/100256456.html",
-   "published": "2026-10-19T14:35:00+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Autonomes Fahren – Mercedes baut Kooperation mit Nvidia aus",
-   "summary": "Mercedes weitet die Zusammenarbeit mit dem Chipkonzern Nvidia beim automatisierten Fahren aus. Zugleich will der Autobauer mit einer KI-Plattform seine Entwicklungszeiten verkürzen.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/ki-autonomes-fahren-mercedes-baut-kooperation-mit-nvidia-aus/100263316.html",
-   "published": "2026-10-19T14:21:24+00:00",
    "first_seen": "2026-10-19T17:58:19.296638+00:00",
    "paywall": true
   }
