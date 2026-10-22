@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-22T17:44:19.097338+00:00",
+ "updated": "2026-10-22T20:58:58.046799+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert sieben Prozent",
+   "summary": "Steigende Ölpreise und Sorgen im KI‑Sektor lassen zahlreiche Kurse einbrechen. Die Rendite der zehnjährigen US‑Bonds fällt dagegen wieder unter fünf Prozent.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html",
+   "published": "2026-10-22T19:28:26+00:00",
+   "first_seen": "2026-10-22T20:58:58.046799+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Nvidia-Chef Hautnah: KI, Kapital, Europa: Ein Frühstück mit Jensen Huang",
+   "summary": "Im Rennen um die Künstliche Intelligenz zählt Nvidia-Chef Jensen Huang Europas große Vorteile auf – und dessen schwerwiegenden Nachteile. Einen rückt er vor allem in den Mittelpunkt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/jensen-huang-was-europa-im-ki-rennen-fehlt-201611807.html",
+   "published": "2026-10-22T18:33:01+00:00",
+   "first_seen": "2026-10-22T20:58:58.046799+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Israel vor der Wahl: Wenn KI-Videos das Netz fluten",
+   "summary": "Im israelischen Wahlkampf spielen KI-generierte Inhalte eine immer größere Rolle. Und KI wird auch genutzt, um das Regierungsimage aufzupolieren. mehr...",
+   "link": "https://taz.de/Israel-vor-der-Wahl/!6223711/",
+   "published": "2026-10-22T17:55:00+00:00",
+   "first_seen": "2026-10-22T20:58:58.046799+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Sicherheitslücke bei PHP: KI kann auch eine Freundin sein",
+   "summary": "Die weltweite Sicherheitslücke bei PHP wurde erst dank KI entdeckt. Würde KI besonnen eingesetzt, könnte sie Daten schützen. mehr...",
+   "link": "https://taz.de/Sicherheitsluecke-bei-PHP/!6223729/",
+   "published": "2026-10-22T17:54:00+00:00",
+   "first_seen": "2026-10-22T20:58:58.046799+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "KI und Krieg: Behält der Mensch die Kontrolle?",
@@ -864,42 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-macht-im-ersten-halbjahr-offenbar-80-milliarden-dollar-verlust/100263748.html",
    "published": "2026-10-21T00:30:00+00:00",
    "first_seen": "2026-10-21T05:32:56.165469+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Lobo über KI-Sorgen: \"Schiere Panikmache\"",
-   "summary": "Wie sicher ist Künstliche Intelligenz? Bei \"Markus Lanz\" widerspricht Sascha Lobo düsteren KI-Szenarien entschieden. Warnungen vor einer Bedrohung der Menschheit lehnt er ab.",
-   "link": "https://www.zdfheute.de/wirtschaft/lanz-lobo-kuenstliche-intelligenz-bedrohung-sicherheit-uszkoreit-100.html",
-   "published": "2026-10-21T00:22:00+00:00",
-   "first_seen": "2026-10-21T05:32:56.165469+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
-   "summary": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
-   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-106.html",
-   "published": "2026-10-20T23:40:03+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: China kritisiert US-Verbot der KI-App DeepSeek in Bundesbehörden",
-   "summary": "Das chinesische Unternehmen wirft den USA vor, dass Sicherheitsfragen nur ein Deckmantel seien. US-Behörden hatten den Einsatz von KI-Modellen zuvor verboten.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-china-kritisiert-us-verbot-der-ki-app-deepseek-in-bundesbehoerden/100263744.html",
-   "published": "2026-10-20T23:13:01+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Weltraumfirma: Musks SpaceX mit Milliarden-Quartalsgewinn",
-   "summary": "Die Weltraumfirma SpaceX fuhr lange einen Milliardenverlust nach dem anderen ein. Dank Erlösen aus KI-Rechenzentren und dem Satelliten-Dienst Starlink gibt es nun schwarze Zahlen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/weltraumfirma-musks-spacex-mit-milliarden-quartalsgewinn/100263736.html",
-   "published": "2026-10-20T21:06:58+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
    "paywall": true
   }
  ]
