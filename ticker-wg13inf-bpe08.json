@@ -1,7 +1,187 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-22T12:37:46.025990+00:00",
+ "updated": "2026-10-22T17:44:19.097338+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "KI und Krieg: Behält der Mensch die Kontrolle?",
+   "summary": "Bundeswehr und Rüstungsindustrie zeigen in Erding, wie KI und autonome Systeme Deutschlands Verteidigungsfähigkeit stärken sollen. Übernehmen bald die Algorithmen?",
+   "link": "https://www.zdfheute.de/politik/deutschland/ki-krieg-bundeswehr-drohnen-soldaten-100.html",
+   "published": "2026-10-22T16:42:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "PHP-SIcherheitslücken: „Das ist eine Schwachstellen-Apokalypse“",
+   "summary": "Sicherheitslücken in der beliebten Programmiersprache PHP bedrohen große Teile des Internets. Der IT-Sicherheitsfachmann Mirko Ross vergleicht das mit einem Katastrophenfall – und erklärt, welche Rolle KI spielt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jackpot-fuer-angreifer-it-fachmann-mirko-ross-ueber-die-php-schwachstelle-201611025.html",
+   "published": "2026-10-22T16:16:58+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Musterdepot – Zukunft: KI in der Medizin – welche Aktien jetzt interessant sind",
+   "summary": "Tech-Konzerne steigen ins Geschäft mit der Gesundheit ein. Aber auch kleine und mittelgroße Unternehmen bieten Anlegern nun Chancen – die Möglichkeit zur Streuung.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-ki-in-der-medizin-welche-aktien-jetzt-interessant-sind/100264124.html",
+   "published": "2026-10-22T15:33:01+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Tech-Investor Philipp Klöckner über KI-Sorgen an den Märkten: „Die große Gefahr ist das Finanzierungsproblem“",
+   "summary": "Wie lange lässt sich der kapitalintensive KI-Ausbau noch finanzieren? Tech-Investor Philipp Klöckner spricht im Podcast über nervöse Märkte und die kritischen Sicherheitslücken von PHP.",
+   "link": "https://www.handelsblatt.com/audio/today/today-tech-investor-philipp-kloeckner-ueber-ki-sorgen-an-den-maerkten-die-grosse-gefahr-ist-das-finanzierungsproblem/100264329.html",
+   "published": "2026-10-22T15:27:25+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anlageideen: Die nächsten 25 Börsenstars",
+   "summary": "Von Biotech bis Robotik: Die Zukunft hat mehr zu bieten als KI. Wir stellen fünf Wachstumsbranchen vor – und jeweils fünf Aktien mit besonders viel Potenzial.",
+   "link": "https://www.wiwo.de/finanzen/boerse/wachstumschancen-auch-ohne-ki-das-sind-die-naechsten-25-boersenstars/100263833.html",
+   "published": "2026-10-22T15:23:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Podcast: „Auf den Punkt“: Die PHP-Sicherheitslücke – und was KI damit zu tun hat",
+   "summary": "Internetseiten werden reihenweise offline genommen. Der Grund: eine Sicherheitslücke. Was ist passiert?",
+   "link": "https://www.sueddeutsche.de/wirtschaft/php-sicherheitsluecke-cybersicherheit-kuenstliche-intelligenz-internet-podcast-li.3567343",
+   "published": "2026-10-22T15:13:47+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Ordentliche Zahlen und trotzdem unter Druck",
+   "summary": "Die Wall Street belasten Berichte über geplante Angriffe auf den Iran. Meta schafft eine neue Aktienklasse, die die Angst vor einer KI-Blase weiter beflügelt.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-ordentliche-zahlen-und-trotzdem-unter-druck/100264323.html",
+   "published": "2026-10-22T15:05:47+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Chinesische Girlgroup: Wenn die KI in die Babypause geht",
+   "summary": "In China verabschiedet sich eine Sängerin öffentlichkeitswirksam in den Mutterschaftsurlaub. Das wäre kaum eine Nachricht wert, wäre da nicht ein Haken: Die Sängerin ist KI-generiert.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/china-ki-saengerin-mutterschaftsurlaub-babyqueen-shitstorm-li.3567470",
+   "published": "2026-10-22T15:01:12+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Arbeitsrecht: Kann mein Chef mich zwingen, KI zu nutzen?",
+   "summary": "Unser Leser möchte keine Künstliche Intelligenz (KI) verwenden, obwohl sein Vorgesetzter ihn dazu schon mehrfach angehalten hat. Kann das Ärger geben?",
+   "link": "https://www.wiwo.de/erfolg/beruf/ki-am-arbeitsplatz-darf-der-chef-die-nutzung-vorschreiben/100260732.html",
+   "published": "2026-10-22T14:55:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Software: Wie viel Geld verdient SAP mit Künstlicher Intelligenz, Herr Klein?",
+   "summary": "Viele Prototypen, wenig Umsatz: SAP hat das Portfolio auf KI ausgerichtet – aber in der Bilanz ist davon wenig zu sehen. Vorstandschef Christian Klein stellt mehr Transparenz in Aussicht.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/software-wie-viel-verdient-sap-mit-kuenstlicher-intelligenz-herr-klein/100262119.html",
+   "published": "2026-10-22T14:50:12+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/karriere-wie-sie-als-ki-experte-im-bewerbungsprozess-ueberzeugen-01/100251207.html",
+   "published": "2026-10-22T14:31:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: Gesetze, Klagen, Steuervorteil – so streitet Amerika über Trinkgeld",
+   "summary": "Roboter-Barista erbitten Trinkgeld, New York zwingt Liefer-Apps zur Abfrage. Der freiwillige Dank wird in Amerika zur Machtfrage und beschäftigt Gerichte – mit Signalwirkung für Deutschland.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/gastronomie-es-sollte-den-kunden-ueberlassen-sein-ob-sie-trinkgeld-geben-wollen-01/100261411.html",
+   "published": "2026-10-22T14:18:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Forscher: „Selbst wenn Meta nachts Instagram abschaltet, soll niemand glauben, dass die Pisa-Leistungen explodieren“",
+   "summary": "Olaf Köller sieht starke Defizite im deutschen Bildungssystem. Als Hauptursache nennt er nicht Zuwanderung oder Social Media, sondern einen ganz anderen Punkt.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/bildung-wir-sehen-eine-absenkung-der-anforderungen-01/100255718.html",
+   "published": "2026-10-22T14:14:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/karriere-job-interview-mit-ki-avatar-wie-reagieren-die-bewerber/100248546.html",
+   "published": "2026-10-22T14:06:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Personalberatung: Diese Headhunter sind die stillen Lenker der deutschen Wirtschaft",
+   "summary": "Krise und KI treffen die Branche der Headhunter hart. Doch diese sechs Personalberater platzieren weiter Vorstände und Aufsichtsräte. Wer sind sie, wie ticken sie, für wen arbeiten sie?",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-diese-sechs-headhunter-vermitteln-deutschlands-topmanager-01/100256456.html",
+   "published": "2026-10-22T14:03:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Schattenverschuldung“: KI-Konzerne laden sich finanzielle Verpflichtungen von 2,7 Billionen Dollar auf",
+   "summary": "Microsoft, Alphabet und Co. haben ihre finanziellen Verpflichtungen stark ausgeweitet. In den Bilanzen tauchen sie nicht auf. Eine Analyse zeigt, worauf Anleger achten sollten.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-tech-konzerne-sammeln-27-billionen-dollar-schattenverschuldung-an-01/100262818.html",
+   "published": "2026-10-22T14:01:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "PHP-Sicherheitslücke: „Wir haben Firmen gesehen, die wegen eines Hackerangriffs pleitegegangen sind“",
+   "summary": "Cybersecurity-Experte Sven Herpig spricht über die Bedrohung durch KI-Angriffe auf Unternehmen, wie man sich am besten schützt – und erklärt, warum das Internet nicht untergehen wird.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/php-sicherheitsluecke-ein-it-vorfall-kostet-viel-geld/100264174.html",
+   "published": "2026-10-22T13:50:09+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Neuer Humanoid von Neura: München auf dem Weg zur Roboter-Hauptstadt",
+   "summary": "Die TU München und das Start-up Neura Robotics tun sich in der bayerischen Technikoffensive zusammen. Das gilt als einzigartig in Europa.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/neura-robotics-und-tum-eroeffnen-robo-gym-am-flughafen-muenchen-201610870.html",
+   "published": "2026-10-22T13:30:27+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anlageideen: Diese fünf Aktien könnten am stärksten vom Roboter-Boom profitieren",
+   "summary": "Roboter lassen sich immer vielfältiger einsetzen, auch dank KI. Diese fünf Unternehmen sind bei der Robo-Revolution vorn dabei.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/roboter-aktien-fuenf-unternehmen-fuer-den-ki-boom-an-der-boerse/100263879.html",
+   "published": "2026-10-22T13:00:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anlageideen: Anleger setzen auf den Batteriespeicher-Boom – doch nicht jede Aktie lohnt",
+   "summary": "Der Strombedarf steigt, nicht zuletzt durch KI, und damit auch die Nachfrage nach Energiespeichern. Diese fünf Unternehmen profitieren.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/anleger-setzen-auf-den-batteriespeicher-boom-doch-nicht-jede-aktie-lohnt/100263875.html",
+   "published": "2026-10-22T13:00:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
@@ -153,6 +333,15 @@
    "link": "https://www.spiegel.de/wirtschaft/unternehmen/starshield-drosselung-nato-ki-system-hat-laut-palantir-kein-kill-switch-a-c51a3bec-e940-491a-bddd-45dbad107de1#ref=rss",
    "published": "2026-10-22T09:12:00+00:00",
    "first_seen": "2026-10-22T12:37:46.025990+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Starshield-Drosselung: Nato-KI-System hat laut Palantir keinen Kill-Switch",
+   "summary": "Die Drosselung des Satellitensystems Starshield in der Ukraine schürt in Europa Sorge vor Abhängigkeiten von US-Technologie. So auch bei der Nato, die ein KI-System von Palantir nutzt. Der Konzern beschwichtigt nun.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/starshield-drosselung-nato-ki-system-hat-laut-palantir-keinen-kill-switch-a-c51a3bec-e940-491a-bddd-45dbad107de1#ref=rss",
+   "published": "2026-10-22T09:12:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
    "paywall": false
   },
   {
@@ -711,195 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/weltraumfirma-musks-spacex-mit-milliarden-quartalsgewinn/100263736.html",
    "published": "2026-10-20T21:06:58+00:00",
    "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Schwarzmeerregion - NATO verstärkt Überwachung nach wiederholten Drohnenangriffen auf Handelsschiffe",
-   "summary": "Nach mehreren Drohnenangriffen auf Handelsschiffe vor den Küsten Bulgariens und Rumäniens verstärkt die NATO ihre Überwachung der Schwarzmeerregion.",
-   "link": "https://www.deutschlandfunk.de/nato-verstaerkt-ueberwachung-nach-wiederholten-drohnenangriffen-auf-handelsschiffe-100.html",
-   "published": "2026-10-20T17:07:00+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: US-Börsen notieren uneinheitlich – Ölpreis unter 110 Dollar",
-   "summary": "Zweifel an der Finanzierung des KI-Booms verschonen am Dienstag Tech-Aktien. Zugleich schürt der Ölpreisanstieg Zinssorgen. Anleger warten auf die Bilanzen großer US-Technologiekonzerne.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-notieren-uneinheitlich-oelpreis-unter-110-dollar/100263530.html",
-   "published": "2026-10-20T16:39:31+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Börsen schwanken zwischen guten Unternehmenszahlen und KI-Sorgen",
-   "summary": "Die Gründe für die jüngsten Verluste bei KI-Titeln beschäftigen die Wall Street weiterhin. Auch starke Unternehmenszahlen können da wenig beruhigen.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-boersen-schwanken-zwischen-guten-unternehmenszahlen-und-ki-sorgen/100263681.html",
-   "published": "2026-10-20T14:56:12+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Nach Protesten kursieren KI-Bilder und ungeprüfte Infos",
-   "summary": "Ein Paar, das bis auf die Unterwäsche ausgeraubt worden sein soll, und Bilder von Paris in dunklem Rauch: Nach den Demos in Frankreich kursieren im Netz falsche Infos und KI-Fakes.",
-   "link": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-ki-bilder-faktencheck-100.html",
-   "published": "2026-10-20T14:22:00+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: China bestellt bei Nvidia KI-Chips für 35 Milliarden Dollar",
-   "summary": "Chinas Konzerne brauchen Chips für KI. Doch die wirklich schnellen darf Nvidia nicht liefern. Also ordern sie massenhaft KI-Beschleuniger, die gerade noch erlaubt sind. Wie viele sie davon bekommen, ist aber fraglich.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-china-ki-chips-kuenstliche-intelligenz-halbleiter-li.3566357",
-   "published": "2026-10-20T13:24:24+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Berufseinsteiger werden gar nicht erst eingestellt: Anthropic zeigt, wie KI den Geschäftsalltag verändert",
-   "summary": "Der Claude-Hersteller hat vermessen, wie die eigene KI die interne Arbeit revolutioniert. Ingenieure liefern fünf Mal so viele Code-Beiträge wie vor einem Jahr. Der Mensch wird zum Engpass.",
-   "link": "https://www.handelsblatt.com/technik/ki/arbeitsmarkt-anthropic-zeigt-wie-ki-den-geschaeftsalltag-veraendert/100263274.html",
-   "published": "2026-10-20T13:03:52+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Humanoide Roboter: Wie Robotermenschen deutsche Fabriken erkunden – und was das für die Jobs bedeutet",
-   "summary": "KI-Roboter mit Armen und Beinen sollen die Industrie revolutionieren. Ein Besuch am Arbeitsplatz der ersten Maschinenmenschen zeigt: Noch müssen sie viel lernen – aber das kann schnell gehen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/humanoide-roboter-bei-bmw-wie-ki-die-fabrik-veraendert-201282830.html",
-   "published": "2026-10-20T12:33:22+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Schaeffler in China: Der Roboter baut sich selbst",
-   "summary": "Sind humanoide Roboter die Zukunft der Industrie? Der deutsche Autozulieferer Schaeffler eröffnet in China eine Leuchtturmfabrik. Europa sei dennoch auf Augenhöhe, sagt ein Manager.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/schaeffler-eroeffnet-leuchtturmfabrik-fuer-humanoide-roboter-in-china-201604345.html",
-   "published": "2026-10-20T12:32:45+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Wachstumstreiber Rechenzentren: Baukonzern Hochtief plant eigene Bewerbung für „AI Gigafactory“",
-   "summary": "Das Geschäft wächst enorm: Hochtief baut Rechenzentren in aller Welt – und will sich nun nach Handelsblatt-Informationen um eine EU-Gigafactory bewerben. Ein großer Partner ist im Gespräch.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-baukonzern-hochtief-plant-eigene-bewerbung-fuer-ai-gigafactory/100262865.html",
-   "published": "2026-10-20T12:14:32+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Vorfall im September - AfD bestätigt Hackerangriff auf E-Mail-Konten der Partei",
-   "summary": "Die AfD hat einen Hackerangriff auf E-Mailkonten der Partei bestätigt. Ein Sprecher teilte mit, im September sei es bei einem digitalen Dienstleister zu einem Vorfall gekommen. Dabei seien Daten aus seit Jahren kaum genutzten…",
-   "link": "https://www.deutschlandfunk.de/afd-bestaetigt-hackerangriff-auf-e-mail-konten-der-partei-100.html",
-   "published": "2026-10-20T12:05:56+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Südkorea: KI-Zulieferer Elice erlebt schlechtestes Börsendebüt der Geschichte",
-   "summary": "Vor dem Börsengang des Rechenzentrums-Betreibers Elice war die Nachfrage nach den Aktien groß. Doch der erste Handelstag endete mit einem Desaster.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/elice-ki-zulieferer-erlebt-schlechtestes-boersendebuet-der-geschichte/100263459.html",
-   "published": "2026-10-20T11:30:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-welche-ki-fragen-ueber-top-positionen-entscheiden/100240522.html",
-   "published": "2026-10-20T10:20:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Amazon plant Investitionen von 16 Milliarden Euro in Deutschland",
-   "summary": "Der Versandhändler Amazon plant Milliardeninvestitionen in Deutschland – unter anderem in Rechenzentren und künstliche Intelligenz. Vor allem die Rhein-Main-Region soll davon profitieren.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/amazon-plant-investitionen-von-16-milliarden-euro-in-deutschland-a-f863e4b5-e58e-438e-9168-5fe4b3451b9d#ref=rss",
-   "published": "2026-10-20T10:10:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Amazon: Versandhändler will rund 16 Milliarden Euro in Deutschland investieren",
-   "summary": "Der Versandhändler Amazon plant Milliardeninvestitionen in Deutschland – unter anderem in Rechenzentren und künstliche Intelligenz. Vor allem die Rhein-Main-Region soll davon profitieren.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/amazon-versandhaendler-will-rund-16-milliarden-euro-in-deutschland-investieren-a-f863e4b5-e58e-438e-9168-5fe4b3451b9d#ref=rss",
-   "published": "2026-10-20T10:10:00+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "E-Mail-Konten der AfD gehackt und Daten ins Netz gestellt",
-   "summary": "Hacker haben im September E-Mail-Konten der AfD angegriffen, wie die Partei bestätigt. Sie lässt offen, welche AfD-Politiker von dem Cyberangriff betroffen sind.",
-   "link": "https://www.zdfheute.de/politik/deutschland/afd-hackerangriff-e-mail-konten-100.html",
-   "published": "2026-10-20T09:51:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Worüber Merz und Huang beim Gipfel plaudern",
-   "summary": "KI für industrielle Anwendungen: Bundesregierung und Nvidia wollen dabei künftig gemeinsame Sache machen. Beim Gipfel in Berlin ging es zwischen Merz und Huang launig zu.",
-   "link": "https://www.zdfheute.de/video/panorama-nvidia-unternehmen-bundesregierung-100.html",
-   "published": "2026-10-20T09:51:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-arbeit-tut-weit-mehr-als-nur-den-geldbeutel-zu-fuellen/100223312.html",
-   "published": "2026-10-20T09:48:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Online-Handel: Amazon plant Investitionen von rund 16 Milliarden Euro",
-   "summary": "16 Milliarden Euro will Amazon 2027 in Deutschland investieren – ein großer Teil soll in Cloud und KI rund um Frankfurt fließen. Was verändert sich außerdem an den Standorten?",
-   "link": "https://www.wiwo.de/unternehmen/handel/online-handel-amazon-plant-investitionen-von-rund-16-milliarden-euro/100263516.html",
-   "published": "2026-10-20T09:35:12+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-welches-studium-sich-im-ki-zeitalter-noch-lont/100235558.html",
-   "published": "2026-10-20T09:35:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
-   "summary": "Bosch setzt voll auf Künstliche Intelligenz und arbeitet dafür eng mit Microsoft zusammen. Doch Digitalexperten warnen, dass sich die deutsche Industrie zu sehr in die Abhängigkeit von US-Techriesen begibt. Von Laura Bisch.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html",
-   "published": "2026-10-20T08:34:02+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Aktienmarkt: So groß ist das KI-Risiko in Ihrem Depot",
-   "summary": "Fallende Kurse bei KI-Aktien alarmieren die Börse. Wer Risiken senken will, hat ein Problem: Künstliche Intelligenz steckt fast überall drin.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/ki-klumpenrisiko-im-depot-so-gross-ist-die-gefahr-fuer-anleger/100263198.html",
-   "published": "2026-10-20T08:14:11+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
    "paywall": true
   }
  ]

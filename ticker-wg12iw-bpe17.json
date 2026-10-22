@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-10-22T12:37:46.025990+00:00",
+ "updated": "2026-10-22T17:44:19.097338+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Der hohe Ölpreis könnte die nächste Inflationswelle auslösen",
+   "summary": "Die Lieferketten am Ölmarkt sind fragil. Einmal gestört, sind die Folgen nur schwer zu beheben. Trotzdem unterschätzen viele Notenbanken die Inflationsgefahr noch immer.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-hohe-oelpreis-koennte-die-naechste-inflationswelle-ausloesen/100264252.html",
+   "published": "2026-10-22T16:18:09+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Stromsteuer: Länder fordern Senkung für alle",
+   "summary": "Angesichts hoher Energiepreise fordern die Bundesländer schnelle Entlastung für alle Bürger und Unternehmen. Die Bundesregierung solle die Stromsteuer zeitnah senken.",
+   "link": "https://www.zdfheute.de/politik/deutschland/stromsteuer-senkung-laender-mpk-100.html",
+   "published": "2026-10-22T14:58:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Anlageideen: Anleger setzen auf den Batteriespeicher-Boom – doch nicht jede Aktie lohnt",
+   "summary": "Der Strombedarf steigt, nicht zuletzt durch KI, und damit auch die Nachfrage nach Energiespeichern. Diese fünf Unternehmen profitieren.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/anleger-setzen-auf-den-batteriespeicher-boom-doch-nicht-jede-aktie-lohnt/100263875.html",
+   "published": "2026-10-22T13:00:00+00:00",
+   "first_seen": "2026-10-22T17:44:19.097338+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
@@ -314,33 +341,6 @@
    "summary": "Die Münchener Firma will bis 2029 mehr als 100 Millionen Euro in ihr Datenanalyse-Programm investieren. Im Wettbewerb um einen Auftrag der NRW-Polizei könnte schon bald eine Entscheidung fallen.",
    "link": "https://www.handelsblatt.com/technik/it-internet/datenanalyse-software-celonis-macht-palantir-konkurrenz/100260439.html",
    "published": "2026-10-19T15:33:53+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Handynetze: Europäische Netzbetreiber wollen eigene Satellitenverbindung aufbauen",
-   "summary": "Die Telekom will sich mit mehreren Partnerfirmen Frequenzen für mobile Satellitendienste sichern. So sollen Funklöcher auch ohne die US-Konkurrenz geschlossen werden.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/satellitenkommunikation-mobilfunk-deutsche-telekom-vodafone-gxe",
-   "published": "2026-10-19T13:19:52+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Schokoladenhersteller: Lindt & Sprüngli entlässt den Chef",
-   "summary": "Der Konzern hatte die Preise für seine Produkte in den vergangenen Jahren stark erhöht. Die Nachfrage ließ nach und der Aktienkurs stürzte ab. Nun soll eine neue Führung das Unternehmen retten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/lindt-spruengli-ceo-schokolade-preise-absturz-aktie-li.3565575",
-   "published": "2026-10-19T11:51:38+00:00",
-   "first_seen": "2026-10-19T17:58:19.296638+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Konjunktur: Chinas Wirtschaft wächst wieder etwas schneller",
-   "summary": "Die chinesische Wirtschaft legt etwas stärker zu als erwartet. Doch zwischen dem starken Exportgeschäft und der schwachen Nachfrage im Inland bleibt eine große Lücke.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/china-wirtschaft-wachstum-konjunktur-li.3565919",
-   "published": "2026-10-19T11:49:56+00:00",
    "first_seen": "2026-10-19T17:58:19.296638+00:00",
    "paywall": true
   }
