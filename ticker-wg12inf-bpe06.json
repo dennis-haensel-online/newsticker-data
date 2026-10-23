@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-23T13:56:36.657749+00:00",
+ "updated": "2026-10-23T18:03:24.198880+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "AfD-Leak: „Gravierende Verstöße“ – AfD drohen nach Datenleck Bußgelder",
+   "summary": "Die AfD erhielt Daten junger Wähler, die sich nach Handelsblatt-Recherchen jetzt ungeschützt im Netz finden. Nun hat sich der Landesdatenschutzbeauftragte eingeschaltet.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/afd-leak-tausende-meldedaten-im-leak-afd-drohen-bussgelder/100264345.html",
+   "published": "2026-10-23T14:14:49+00:00",
+   "first_seen": "2026-10-23T18:03:24.198880+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Parteien - AfD-Datenleck: Weidel könnte in Spendenaffäre von 2018 erneut unter Druck geraten",
@@ -172,42 +181,6 @@
    "published": "2026-10-20T17:07:00+00:00",
    "first_seen": "2026-10-20T17:37:46.597989+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Cloud-Server: Großausfall bei Google in London führt zu Störungen in ganz Europa",
-   "summary": "Bei Google hat es einen schweren Ausfall in einem Rechenzentrum in London gegeben. Experten vermuten, dass der Vorfall sich auch auf Banken in Europa auswirkte.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/google-cloud-ausfall-london-stoerung-revolut-banken",
-   "published": "2026-10-20T14:05:05+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cloud-Dienste gestört: Großausfall bei Google führt zu Störungen bei Banken",
-   "summary": "Nicht nur Bank-Apps waren betroffen: Auch Webseiten und Unternehmensdienste kämpften mit Störungen. Google arbeitet an der Behebung – doch Ursache und Ausmaß sind noch offen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/cloud-dienste-gestoert-grossausfall-bei-google-fuehrt-zu-stoerungen-bei-banken/100263575.html",
-   "published": "2026-10-20T12:49:29+00:00",
-   "first_seen": "2026-10-20T17:37:46.597989+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Vorfall im September - AfD bestätigt Hackerangriff auf E-Mail-Konten der Partei",
-   "summary": "Die AfD hat einen Hackerangriff auf E-Mailkonten der Partei bestätigt. Ein Sprecher teilte mit, im September sei es bei einem digitalen Dienstleister zu einem Vorfall gekommen. Dabei seien Daten aus seit Jahren kaum genutzten…",
-   "link": "https://www.deutschlandfunk.de/afd-bestaetigt-hackerangriff-auf-e-mail-konten-der-partei-100.html",
-   "published": "2026-10-20T12:05:56+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Investitionsgipfel: Amazon plant Investitionen von 16 Milliarden Euro in Deutschland",
-   "summary": "Anlässlich des Investitionsgipfels in Berlin kündigt Amazon Milliardeninvestitionen an. Das Geld soll in die Logistik fließen – sowie in den Cloudservice AWS.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/amazon-investitionen-deutschland-aws-logistik-cloud",
-   "published": "2026-10-20T11:53:13+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
   }
  ]
 }

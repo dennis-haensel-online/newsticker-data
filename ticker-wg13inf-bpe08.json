@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-23T13:56:36.657749+00:00",
+ "updated": "2026-10-23T18:03:24.198880+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: Ausverkauf bei KI-Werten geht weiter",
+   "summary": "Auch am Freitag bleiben die Sorgen bei den Anlegern über die kostspieligen Investitionen im KI-Sektor bestehen. Markus Koch erklärt, dass besonders steigende Finanzierungskosten den Techwerten Probleme machen.",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ausverkauf-bei-ki-werten-geht-weiter/100264590.html",
+   "published": "2026-10-23T15:56:03+00:00",
+   "first_seen": "2026-10-23T18:03:24.198880+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: KI-Ausverkauf setzt sich fort",
+   "summary": "Das zentrale Problem bleibt die Finanzierung des KI-Booms. SpaceX bereitet eine Milliarden-Anleihe vor, während bei Meta über eine mögliche Kapitalerhöhung spekuliert wird.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-ki-ausverkauf-setzt-sich-fort/100264563.html",
+   "published": "2026-10-23T14:38:36+00:00",
+   "first_seen": "2026-10-23T18:03:24.198880+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "US-Bildagentur: Getty Images meldet Insolvenz an",
+   "summary": "Hintergrund sind hohe Schulden und ein Wandel der Nachfrage hin zu KI-generierten Bildern.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/getty-images-insolvenz-ki-bilder-bildagentur-usa-li.3568165",
+   "published": "2026-10-23T14:36:27+00:00",
+   "first_seen": "2026-10-23T18:03:24.198880+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "AfD-Leak: „Gravierende Verstöße“ – AfD drohen nach Datenleck Bußgelder",
+   "summary": "Die AfD erhielt Daten junger Wähler, die sich nach Handelsblatt-Recherchen jetzt ungeschützt im Netz finden. Nun hat sich der Landesdatenschutzbeauftragte eingeschaltet.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/afd-leak-tausende-meldedaten-im-leak-afd-drohen-bussgelder/100264345.html",
+   "published": "2026-10-23T14:14:49+00:00",
+   "first_seen": "2026-10-23T18:03:24.198880+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Parteien - AfD-Datenleck: Weidel könnte in Spendenaffäre von 2018 erneut unter Druck geraten",
@@ -865,42 +901,6 @@
    "published": "2026-10-21T13:04:21+00:00",
    "first_seen": "2026-10-21T15:44:32.741197+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Baubranche: Forscher warnen vor Preissteigerungen",
-   "summary": "Der deutsche Staat investiert Milliarden in die Sanierung der Infrastruktur. Doch laut einer Studie drohen die Mittel zu verpuffen, wenn die Baubranche nicht produktiver wird. Dabei könnten auch Roboter helfen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/baubranche-forscher-warnen-vor-preissteigerungen-a-bf413879-905b-447a-9d05-a39fdb751489#ref=rss",
-   "published": "2026-10-21T12:58:00+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologiekonferenz GTC: Nvidia-Chef Huang sieht Europa als KI-Schlüsselakteur",
-   "summary": "„KI-Fabriken“ statt klassischer Software: Nvidia-Chef Jensen Huang vergleicht den Wandel mit einer industriellen Revolution. Welche Rolle wird Europa dabei übernehmen?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologiekonferenz-gtc-nvidia-chef-huang-sieht-europa-als-ki-schluesselakteur/100263945.html",
-   "published": "2026-10-21T12:46:47+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Sascha Lobo widerspricht düsteren KI-Szenarien",
-   "summary": "Digitalexperte Sascha Lobo widerspricht bei \"Markus Lanz\" düsteren Warnungen vor künstlicher Intelligenz. Er sieht dahinter auch wirtschaftliche Interessen.",
-   "link": "https://www.zdfheute.de/wirtschaft/lanz-ki-panik-sascha-lobo-100.html",
-   "published": "2026-10-21T11:04:00+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Illegale Angebote - EU-Kommission ermittelt gegen Booking.com wegen Betrugsfällen",
-   "summary": "Die EU-Kommission hat Ermittlungen gegen das Reiseportal Booking.com wegen gefälschter Hotelanzeigen und möglicher Datenschutz-Risiken eingeleitet.",
-   "link": "https://www.deutschlandfunk.de/eu-kommission-ermittelt-gegen-booking-com-wegen-betrugsfaellen-102.html",
-   "published": "2026-10-21T10:47:23+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": false
   }
  ]
 }
