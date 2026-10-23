@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe13",
- "updated": "2026-10-23T08:05:31.632656+00:00",
+ "updated": "2026-10-23T13:56:36.657749+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Nasdaq kommt unter die Räder",
+   "summary": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
+   "published": "2026-10-23T13:16:51+00:00",
+   "first_seen": "2026-10-23T13:56:36.657749+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Klimaneutralität: Die Sechs-Billionen-Euro-Frage",
+   "summary": "Deutschland ist dringend auf mehr Investitionen angewiesen. Vor allem der Umbau des Energiesystems erfordert horrende Summen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/klima-investitionsbedarf-die-6-billionen-euro-frage-accg-201340221.html",
+   "published": "2026-10-23T09:42:31+00:00",
+   "first_seen": "2026-10-23T13:56:36.657749+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Editorial: Glauben Sie an Deutschland? Das ist die entscheidende Frage!",
@@ -351,114 +369,6 @@
    "link": "https://www.zeit.de/wirtschaft/2026-10/amazon-investitionen-deutschland-aws-logistik-cloud",
    "published": "2026-10-20T11:53:13+00:00",
    "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mittelstand: ERP-FörderProgramme: So kommen Mittelständler an günstige Förderkredite",
-   "summary": "Der Mittelstand investiert so zurückhaltend wie seit 20 Jahren nicht. Förderkredite der KfW sollen helfen. Doch wer sein Projekt schon begonnen hat, geht leer aus.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/mittelstand-so-kommen-mittelstaendler-an-guenstige-foerderkredite/100260807.html",
-   "published": "2026-10-20T11:41:19+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gipfel in Berlin: Regierung lockt Investoren - Klingbeil: „Will Ihr Geld“",
-   "summary": "Auf dem ersten Investitionsgipfel preist die Bundesregierung Deutschland als Top-Standort an - manchmal auch mit einem Schmunzeln.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/gipfel-in-berlin-regierung-lockt-investoren-klingbeil-will-ihr-geld/100263480.html",
-   "published": "2026-10-20T10:12:48+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Investitionsgipfel: „Ich will euer Geld“: Bundesregierung buhlt um Investoren – Amazon sagt 16 Milliarden Euro zu﻿",
-   "summary": "Bei der ersten Investitionskonferenz der Bundesregierung wirbt der Kanzler für den Standort – und verspricht, ihn noch attraktiver zu machen. Milliarden sollen in acht Bereiche fließen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/investitionsgipfel-merz-buhlt-um-investoren-amazon-sagt-16-milliarden-euro-zu/100263324.html",
-   "published": "2026-10-20T10:10:47+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Amazon plant Investitionen von 16 Milliarden Euro in Deutschland",
-   "summary": "Der Versandhändler Amazon plant Milliardeninvestitionen in Deutschland – unter anderem in Rechenzentren und künstliche Intelligenz. Vor allem die Rhein-Main-Region soll davon profitieren.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/amazon-plant-investitionen-von-16-milliarden-euro-in-deutschland-a-f863e4b5-e58e-438e-9168-5fe4b3451b9d#ref=rss",
-   "published": "2026-10-20T10:10:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Investitionsgipfel in Berlin: Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
-   "summary": "Auf einem Investitionsgipfel kommen Spitzenpolitiker und Unternehmenschefs zusammen. Laut der Bundesregierung wurden dabei bereits umfassende Investitionen zugesagt.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/investitionen-deutschland-friedrich-merz-nvidia-jensen-huang-kuenstliche-intelligenz-gxe",
-   "published": "2026-10-20T09:59:15+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KKR-Chef Scott Nuttall: „Wenn die Reformen kommen, wird Deutschland für Investoren noch attraktiver“",
-   "summary": "Der Co-CEO des US-Vermögensverwalters kündigt mehr Investitionen in Deutschland an und nennt eine konkrete Branche, in der KKR intensiv nach Partnern sucht.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/kkr-chef-nuttall-wir-investieren-heute-mehr-denn-je-in-deutschland/100261993.html",
-   "published": "2026-10-20T09:35:14+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Online-Handel: Amazon plant Investitionen von rund 16 Milliarden Euro",
-   "summary": "16 Milliarden Euro will Amazon 2027 in Deutschland investieren – ein großer Teil soll in Cloud und KI rund um Frankfurt fließen. Was verändert sich außerdem an den Standorten?",
-   "link": "https://www.wiwo.de/unternehmen/handel/online-handel-amazon-plant-investitionen-von-rund-16-milliarden-euro/100263516.html",
-   "published": "2026-10-20T09:35:12+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Cloud und Satelliten: Amazon will 2027 16 Milliarden Euro in Deutschland investieren",
-   "summary": "„Einer der attraktivsten Investitionsstandorte Europas“: Amazon plant neue Milliardeninvestitionen in Deutschland. Das Geld soll unter anderem in eine Alternative zu Elon Musks Starlink fließen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-will-2027-16-milliarden-euro-in-deutschland-investieren-accg-201603852.html",
-   "published": "2026-10-20T09:15:11+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Investitionsgipfel in Berlin - Wirtschaftsministerin Reiche wirbt für optimistischeren Blick auf Deutschland",
-   "summary": "Bundeswirtschaftsministerin Reiche hat für eine zuversichtlichere Sicht auf den Wirtschaftsstandort Deutschland geworben. Beim derzeit in Berlin stattfindenden Investitionsgipfel hätten internationale Unternehmer gefragt, warum man in der…",
-   "link": "https://www.deutschlandfunk.de/wirtschaftsministerin-reiche-wirbt-fuer-optimistischeren-blick-auf-deutschland-100.html",
-   "published": "2026-10-20T06:48:09+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Investitionsgipfel Berlin: „Deutschland ist bereit, schneller zu wachsen“",
-   "summary": "Die Bundesregierung zieht alle Register, um mehr Investoren nach Deutschland zu locken. Eine Konferenz soll ein Willkommens-Signal senden. Stargast des Eröffnungsabends ist der Nvidia-Chef.",
-   "link": "https://www.wiwo.de/politik/deutschland/investitionsgipfel-berlin-merz-wirbt-mit-nvidia-um-investoren/100263153.html",
-   "published": "2026-10-20T06:17:00+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Gipfel in Berlin: Neuer Schwung für privaten Autobahnausbau?",
-   "summary": "Über Straßenbauprojekte in öffentlich-privater Partnerschaft wird wieder verstärkt diskutiert – auch auf dem Investitionsgipfel am Dienstag. In Frankreich zeigen sich die Vorteile des Modells.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/oepp-renaissance-vinci-will-beim-deutschen-autobahnausbau-mitmachen-accg-201601582.html",
-   "published": "2026-10-20T05:58:49+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "In Frankfurt: Sanofi legt Grundstein für größte Insulinanlage Europas",
-   "summary": "Es handele sich um eine strategische Entscheidung, eine Investition in die europäische Produktion und in die Versorgungssicherheit des Kontinents, sagt Chefin Belén Garijo.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sanofi-legt-grundstein-fuer-groesste-insulinanlage-europas-accg-201602124.html",
-   "published": "2026-10-20T05:42:27+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
    "paywall": true
   }
  ]

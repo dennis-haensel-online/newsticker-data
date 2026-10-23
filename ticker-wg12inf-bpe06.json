@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-23T08:05:31.632656+00:00",
+ "updated": "2026-10-23T13:56:36.657749+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Parteien - AfD-Datenleck: Weidel könnte in Spendenaffäre von 2018 erneut unter Druck geraten",
+   "summary": "In der AfD-Spendenaffäre von 2018 gibt es möglicherweise neue Erkenntnisse.",
+   "link": "https://www.deutschlandfunk.de/afd-datenleck-weidel-koennte-in-spendenaffaere-von-2018-erneut-unter-druck-geraten-100.html",
+   "published": "2026-10-23T13:45:04+00:00",
+   "first_seen": "2026-10-23T13:56:36.657749+00:00",
+   "paywall": false
+  },
   {
    "label": "tagesschau",
    "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
@@ -198,69 +207,6 @@
    "link": "https://www.zeit.de/wirtschaft/2026-10/amazon-investitionen-deutschland-aws-logistik-cloud",
    "published": "2026-10-20T11:53:13+00:00",
    "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Digitale Souveränität: So umgeht Microsoft die Trump-Falle",
-   "summary": "Auf seiner Europa-Tour kündigt der Microsoft-CEO Satya Nadella tiefgreifende Umbauten seines Cloud-Dienstes Azure an, um Kunden vor Sanktionen der US-Regierung zu schützen. Reicht das?",
-   "link": "https://www.wiwo.de/unternehmen/it/microsoft-azure-schuetzt-der-cloud-umbau-vor-trump-sanktionen/100263446.html",
-   "published": "2026-10-20T11:20:01+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "E-Mail-Konten der AfD gehackt und Daten ins Netz gestellt",
-   "summary": "Hacker haben im September E-Mail-Konten der AfD angegriffen, wie die Partei bestätigt. Sie lässt offen, welche AfD-Politiker von dem Cyberangriff betroffen sind.",
-   "link": "https://www.zdfheute.de/politik/deutschland/afd-hackerangriff-e-mail-konten-100.html",
-   "published": "2026-10-20T09:51:00+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Online-Handel: Amazon plant Investitionen von rund 16 Milliarden Euro",
-   "summary": "16 Milliarden Euro will Amazon 2027 in Deutschland investieren – ein großer Teil soll in Cloud und KI rund um Frankfurt fließen. Was verändert sich außerdem an den Standorten?",
-   "link": "https://www.wiwo.de/unternehmen/handel/online-handel-amazon-plant-investitionen-von-rund-16-milliarden-euro/100263516.html",
-   "published": "2026-10-20T09:35:12+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Cloud und Satelliten: Amazon will 2027 16 Milliarden Euro in Deutschland investieren",
-   "summary": "„Einer der attraktivsten Investitionsstandorte Europas“: Amazon plant neue Milliardeninvestitionen in Deutschland. Das Geld soll unter anderem in eine Alternative zu Elon Musks Starlink fließen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-will-2027-16-milliarden-euro-in-deutschland-investieren-accg-201603852.html",
-   "published": "2026-10-20T09:15:11+00:00",
-   "first_seen": "2026-10-20T12:24:00.509839+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Medienbericht - Hackerangriff auf die AfD: Mails im Internet veröffentlicht",
-   "summary": "Auf die AfD hat es nach einem Bericht der \"Bild\"-Zeitung einen Hackerangriff gegeben.",
-   "link": "https://www.deutschlandfunk.de/hackerangriff-auf-die-afd-mails-im-internet-veroeffentlicht-100.html",
-   "published": "2026-10-20T06:48:09+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Website veröffentlicht tausende Mails: Riesiges Email-Datenleak bei der AfD",
-   "summary": "Die AfD wird Opfer eines Email-Datenleaks: Eine Website veröffentlicht zehntausende interne Mails. Die Partei spricht von einem „Hackerangriff“. mehr...",
-   "link": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
-   "published": "2026-10-20T06:33:00+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Parteien: Hackerangriff auf E-Mail-Konten der AfD",
-   "summary": "Im Netz brüsten sich Unbekannte, rund 421.000 AfD-E-Mails veröffentlicht zu haben. Ob die Dateien echt sind, ist unklar. Die AfD bestätigt aber einen Hackerangriff.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/parteien-hackerangriff-auf-e-mail-konten-der-afd/100263431.html",
-   "published": "2026-10-20T06:12:10+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
    "paywall": true
   }
  ]
