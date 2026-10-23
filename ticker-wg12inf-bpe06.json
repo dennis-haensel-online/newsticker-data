@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-23T02:35:14.368223+00:00",
+ "updated": "2026-10-23T08:05:31.632656+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
+   "summary": "Millionen Cyberattacken binnen weniger Stunden: Die PHP-Sicherheitslücke hat weltweit Besorgnis ausgelöst. Viele Internetseiten sind noch immer nicht erreichbar - und Kriminelle versuchen weiter, die Lücke auszunutzen.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
+   "published": "2026-10-22T16:27:55+00:00",
+   "first_seen": "2026-10-23T08:05:31.632656+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "PHP-Sicherheitslücke: „Wir haben Firmen gesehen, die wegen eines Hackerangriffs pleitegegangen sind“",

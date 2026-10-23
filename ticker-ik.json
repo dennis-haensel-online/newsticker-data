@@ -1,7 +1,16 @@
 {
  "id": "ik",
- "updated": "2026-10-23T02:35:14.368223+00:00",
+ "updated": "2026-10-23T08:05:31.632656+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Vorurteile gegen Deutsch-Türken: Der Eroberer des Jobcenters",
+   "summary": "Während der Bundespräsident eine Mongolei-Ausstellung eröffnet, fragt sich der Kolumnist: Was haben Dschingis Khan und ein Köftekneter aus Berlin gemeinsam? mehr...",
+   "link": "https://taz.de/Vorurteile-gegen-Deutsch-Tuerken/!6223738/",
+   "published": "2026-10-23T07:16:00+00:00",
+   "first_seen": "2026-10-23T08:05:31.632656+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Migration - Italien und Spanien beenden gegenseitige Grenzkontrollen",
@@ -136,33 +145,6 @@
    "published": "2026-10-20T09:34:00+00:00",
    "first_seen": "2026-10-20T12:24:00.509839+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Umstrittene Abgeordnete: Berliner Linke berät über umstrittene Abgeordnete",
-   "summary": "Seit dem Wahlsieg der Berliner Linke wird bundesweit über Antisemitismus und Israel-Kritik in ihren Reihen diskutiert. Nun will die Fraktion klären, wie sie mit einer Abgeordneten umgeht.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/umstrittene-abgeordnete-berliner-linke-beraet-ueber-umstrittene-abgeordnete/100263396.html",
-   "published": "2026-10-20T02:31:04+00:00",
-   "first_seen": "2026-10-20T06:52:10.918506+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Rassismus-Debatte - \"Simpsons\"-Figur Apu hat wieder eine Stimme",
-   "summary": "In der Zeichentrickserie \"Die Simpsons\" spricht die Figur Apu in neuen Folgen wieder.",
-   "link": "https://www.deutschlandfunk.de/simpsons-figur-apu-hat-wieder-eine-stimme-102.html",
-   "published": "2026-10-19T21:32:13+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Migrantenverbände fordern Schutz vor AfD",
-   "summary": "Migrantenverbände fordern angesichts einer möglichen AfD-Regierung in Sachsen-Anhalt einen Schutzplan für Minderheiten. Bund und Länder sollen außerdem Wohnsitzauflagen lockern.",
-   "link": "https://www.zdfheute.de/politik/deutschland/afd-regierung-sachsen-anhalt-migrantenverband-schutzmassnahme-100.html",
-   "published": "2026-10-19T18:15:00+00:00",
-   "first_seen": "2026-10-19T22:01:08.090307+00:00",
-   "paywall": false
   }
  ]
 }
