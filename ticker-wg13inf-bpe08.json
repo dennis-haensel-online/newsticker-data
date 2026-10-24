@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-24T09:59:29.956006+00:00",
+ "updated": "2026-10-24T13:52:37.619219+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Sicherheitslücken: Die Lehren aus dem KI-Hack",
+   "summary": "Amerikaner finden eine Sicherheitslücke, und Deutschland schaltet seine Webseiten ab. Es wird Zeit, dass Deutschland sich selbst emanzipiert. Wenigstens ein bisschen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-sicherheitsluecke-trifft-deutschland-zeit-fuer-mehr-eigenstaendigkeit-accg-201615439.html",
+   "published": "2026-10-24T13:34:09+00:00",
+   "first_seen": "2026-10-24T13:52:37.619219+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Datenleck: „Putin und Assad lachen sich einen Ast“ – AfD reiste wohl mithilfe der Hisbollah und Russland nach Syrien",
+   "summary": "Interne E-Mails aus dem AfD-Datenleck zeigen, wie sieben AfD-Politiker mitten im Bürgerkrieg nach Syrien einreisten. Die Angelegenheit entzweite die Partei.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/datenleck-afd-reiste-wohl-mithilfe-der-hisbollah-und-russland-nach-syrien/100264021.html",
+   "published": "2026-10-24T10:00:00+00:00",
+   "first_seen": "2026-10-24T13:52:37.619219+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Roboter: Darum tun sich humanoide Roboter als Fabrikarbeiter so schwer",
@@ -883,24 +901,6 @@
    "published": "2026-10-21T17:57:00+00:00",
    "first_seen": "2026-10-21T19:47:03.608275+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: KI und Mittelstand: Ein großer Fehler darf sich nicht wiederholen",
-   "summary": "Kanzler Merz bittet den Mittelstand, seine Datenschätze zu heben. Das Risiko ist größer als bei der Cloud – doch es gibt einen Weg, es zu minimieren.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-bei-ki-darf-sich-der-cloud-fehler-nicht-wiederholen/100263862.html",
-   "published": "2026-10-21T16:40:01+00:00",
-   "first_seen": "2026-10-21T19:47:03.608275+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte-Insight: Skepsis gegenüber „KI-Gewinnern“: Die Börse unterscheidet jetzt zwei Gruppen von Unternehmen",
-   "summary": "Der Neo-Cloud-Anbieter Elice erlebt ein historisch schlechtes Börsendebüt. Das passt zur neuen Vorsicht. Anleger achten verstärkt auf ein Zeichen, beobachtet Andreas Neuhaus.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-wo-anleger-die-grenze-zwischen-ki-gewinnern-und-verlierern-ziehen/100262278.html",
-   "published": "2026-10-21T16:11:49+00:00",
-   "first_seen": "2026-10-21T19:47:03.608275+00:00",
-   "paywall": true
   }
  ]
 }

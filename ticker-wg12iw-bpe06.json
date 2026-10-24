@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-24T09:59:29.956006+00:00",
+ "updated": "2026-10-24T13:52:37.619219+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "WiWo History: Neckermann macht's nicht mehr möglich – das Ende eines Katalog-Imperiums",
+   "summary": "Erst Wirtschaftswunder-Ikone, dann Auslaufmodell: Der Neckermann-Katalog lag in Millionen Wohnzimmern. Dann kam der Absturz – und die Insolvenz.",
+   "link": "https://www.wiwo.de/unternehmen/handel/wiwo-history-so-endete-das-katalog-imperium-von-neckermann/100246489.html",
+   "published": "2026-10-24T13:14:00+00:00",
+   "first_seen": "2026-10-24T13:52:37.619219+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einzelhandel: Einkaufen rund um die Uhr: Start-up denkt die Nahversorgung im ländlichen Raum neu",
+   "summary": "Das Unternehmen Yobsti übernimmt insgesamt 35 Teo-Märkte von Edeka. Auf einen Schlag wird es so zum drittgrößten Anbieter von automatisierten Lebensmittelläden – und hat noch viel vor.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/einzelhandel-start-up-denkt-die-nahversorgung-im-laendlichen-raum-neu/100264156.html",
+   "published": "2026-10-24T11:57:35+00:00",
+   "first_seen": "2026-10-24T13:52:37.619219+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Hannover - VW-Spitze, Betriebsrat und IG Metall ringen um Sparkurs",
@@ -675,60 +693,6 @@
    "link": "https://www.handelsblatt.com/audio/handelsblatt-invest/invest-howard-marks-wir-werden-mehr-pleiten-und-restrukturierungen-sehen/100221417.html",
    "published": "2026-10-21T03:13:00+00:00",
    "first_seen": "2026-10-21T05:32:56.165469+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla",
-   "summary": "Im vergangenen Quartal hat die Weltraumfirma SpaceX einen Milliardengewinn erzielt, vor allem aus zwei Gründen. Außerdem berichtet Chef Elon Musk über Pläne zur Fusion mit seinem Autobauer Tesla.",
-   "link": "https://www.spiegel.de/wirtschaft/spacex-verdoppelt-umsatz-und-prueft-laut-elon-musk-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
-   "published": "2026-10-21T00:06:00+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Elon Musk: SpaceX verdoppelt Umsatz und prüft Zusammenschluss mit Tesla",
-   "summary": "Im vergangenen Quartal hat die Weltraumfirma SpaceX einen Milliardengewinn erzielt, vor allem aus zwei Gründen. Außerdem berichtet Chef Elon Musk über Pläne zur Fusion mit seinem Autobauer Tesla.",
-   "link": "https://www.spiegel.de/wirtschaft/elon-musk-spacex-verdoppelt-umsatz-und-prueft-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
-   "published": "2026-10-21T00:06:00+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "SpaceX und Tesla : Tesla und SpaceX prüfen laut Musk Zusammenschluss",
-   "summary": "Elon Musk bezeichnet eine Fusion seiner beiden Unternehmen als eine gute Idee mit »vielen Vorteilen«. SpaceX und Tesla würden bereits an gemeinsamen Projekten arbeiten.",
-   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/tesla-spacex-fusion-elon-musk-aktionaere",
-   "published": "2026-10-21T00:02:21+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Potenzieller Megadeal: Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
-   "summary": "Über eine mögliche Fusion des Autobauers Tesla und der Weltraumfirma SpaceX wird schon lange spekuliert. Jetzt verkündet Elon Musk, der beide Unternehmen führt, einen ersten Schritt in diese Richtung.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/potenzieller-megadeal-musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss/100263743.html",
-   "published": "2026-10-20T22:36:56+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Musk-Imperium: SpaceX und Tesla prüfen Fusion",
-   "summary": "Elon Musk will das Raumfahrtunternehmen und den Autohersteller zusammenführen. Und er gibt für SpaceX einmal mehr eine kühne Prognose ab.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/musk-imperium-spacex-und-tesla-pruefen-fusion-201606609.html",
-   "published": "2026-10-20T22:33:26+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Elon Musk: Raumfahrtkonzern SpaceX meldet Milliardengewinn – Tesla-Übernahme rückt näher",
-   "summary": "Das Geschäft mit Satelliteninternet und Rechenzentren treibt den Gewinn. Laut Konzernchef Elon Musk prüfen Sonderausschüsse von SpaceX und Tesla einen möglichen Zusammenschluss.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/elon-musk-raumfahrtkonzern-spacex-meldet-milliardengewinn-tesla-uebernahme-rueckt-naeher/100262899.html",
-   "published": "2026-10-20T21:27:45+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
    "paywall": true
   }
  ]
