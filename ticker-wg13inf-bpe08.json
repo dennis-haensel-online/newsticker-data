@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-24T00:08:40.710573+00:00",
+ "updated": "2026-10-24T05:13:24.628006+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cloud-Dienste - Amazon-Chef: Cloud-Kapazitäten wegen KI für 2027 und 2028 weitgehend ausgebucht",
+   "summary": "Wegen der starken Nachfrage nach IT-Infrastruktur für Künstliche Intelligenz sind die Cloud-Kapazitäten von Amazon für die nächsten Jahre weitgehend vergeben.",
+   "link": "https://www.deutschlandfunk.de/amazon-chef-cloud-kapazitaeten-wegen-ki-fuer-2027-und-2028-weitgehend-ausgebucht-100.html",
+   "published": "2026-10-24T05:10:02+00:00",
+   "first_seen": "2026-10-24T05:13:24.628006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "USA - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
+   "summary": "Das US-Softwareunternehmen Open AI hat angekündigt, seine leistungsstärksten Modelle Künstlicher Intelligenz künftig ohne einen Internet-Zugang zu trainieren.",
+   "link": "https://www.deutschlandfunk.de/nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren-102.html",
+   "published": "2026-10-24T05:10:02+00:00",
+   "first_seen": "2026-10-24T05:13:24.628006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Nvidia-CEO Jensen Huang: Der Tech-Superstar und sein gefährlicher Geld-Kreislauf",
+   "summary": "Nvidia verdient Milliarden am KI-Boom, der CEO wird gefeiert, wo immer er auftaucht. Weniger beachtet: Nvidia finanziert einen bedeutenden Teil dieses Hypes inzwischen selbst.",
+   "link": "https://www.wiwo.de/unternehmen/it/nvidia-wie-der-fall-coreweave-den-riskanten-geldkreislauf-im-ki-boom-zeigt/100264111.html",
+   "published": "2026-10-24T04:09:00+00:00",
+   "first_seen": "2026-10-24T05:13:24.628006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitswelt und KI: Wandel im Berufsalltag: KI wird zum Kündigungsgrund",
+   "summary": "KI steigert die Produktivität – doch für manche wird die Arbeitslast zu groß und die Perspektive fehlt. Was Unternehmen tun müssten, damit Fachkräfte bleiben?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/arbeitswelt-und-ki-wandel-im-berufsalltag-ki-wird-zum-kuendigungsgrund/100264646.html",
+   "published": "2026-10-24T03:30:04+00:00",
+   "first_seen": "2026-10-24T05:13:24.628006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Umfrage: Große Mehrheit für weltweit gültige KI-Regeln",
+   "summary": "International wird über weltweit gültige Regeln für den Einsatz von Künstlicher Intelligenz (KI) diskutiert. Wie sehen das die Deutschen?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-umfrage-grosse-mehrheit-fuer-weltweit-gueltige-ki-regeln/100264640.html",
+   "published": "2026-10-24T02:39:04+00:00",
+   "first_seen": "2026-10-24T05:13:24.628006+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
@@ -854,51 +899,6 @@
    "summary": "Mehrere gute Unternehmenszahlen aus KI und Tech stimmen die Wall Street heute etwas freundlicher. Doch der Ölpreis bleibt ein Belastungsfaktor.",
    "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-rueckenwind-aus-dem-tech-sektor-spacex-aktie-steigt-deutlich/100263997.html",
    "published": "2026-10-21T14:36:00+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Großbritannien: KI-Boom treibt das Wachstum der britischen Wirtschaft an",
-   "summary": "Der vermehrte Einsatz Künstlicher Intelligenz (KI) steigert die Produktivität vieler britischer Firmen. Aber auch Deutschland kann von dem Technologieschub profitieren.",
-   "link": "https://www.handelsblatt.com/politik/international/grossbritannien-ki-boom-treibt-das-wachstum-der-britischen-wirtschaft-an/100263358.html",
-   "published": "2026-10-21T14:17:45+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Revolution: Jensen Huang erklärt, was auf die Menscheit zukommt",
-   "summary": "In Berlin präsentiert der Gründer und Chef des Chipdesigners Nvidia, wie er sich die Industrie der Zukunft vorstellt – und zeigt dem Publikum mehr als nur ein paar tanzende Roboter.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/jensen-huang-in-berlin-nvidia-startet-die-industrielle-ki-revolution-201608811.html",
-   "published": "2026-10-21T13:57:44+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Eternal: Gewächshaus ohne Menschen: Wenn autonome Roboter die Tomatenernte übernehmen",
-   "summary": "Erntehelfer im Gewächshaus sind rar und teuer. Deshalb entwickelt Eternal aus Köln Roboter, die Tomaten mithilfe von KI pflücken. Bald schon sollen die Maschinen mehr können.",
-   "link": "https://www.handelsblatt.com/technik/ki/eternal-mit-autonomen-ernterobotern-gegen-die-personalnot-im-gewaechshaus/100259774.html",
-   "published": "2026-10-21T13:51:30+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Reisen und KI: Bucht Chat-GPT den Urlaub?",
-   "summary": "Mit KI können Reisende mittlerweile ihren Urlaub planen und buchen. Das stellt Veranstalter und Reisebüros vor schwierige Fragen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/kuenstliche-intelligenz-chatgpt-urlaub-buchung-reisebranche-tourismus-li.3564139",
-   "published": "2026-10-21T13:40:58+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: Nvidia präsentiert sich als Partner für Europas KI-Zukunft",
-   "summary": "In Berlin verspricht Jensen Huang einen Turbo für Rechenzentren, sichere KI-Agenten und Modelle für physische KI. Der Nvidia-Chef schnürt ein Rundum-Paket – Protest gibt es dennoch.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technologie-nvidia-praesentiert-sich-als-partner-fuer-europas-ki-zukunft/100261884.html",
-   "published": "2026-10-21T13:26:26+00:00",
    "first_seen": "2026-10-21T15:44:32.741197+00:00",
    "paywall": true
   }
