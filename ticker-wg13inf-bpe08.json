@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-24T13:52:37.619219+00:00",
+ "updated": "2026-10-24T17:05:51.056390+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Oppositionspartei in der Kritik - KI-generierte Deepfake-Wahlvideos zeigen vermeintlich Ehefrau von Ministerpräsident Sánchez",
+   "summary": "Vor den vorgezogenen Neuwahlen in Spanien haben Deepfake-Videos im Wahlkampf für Diskussionen gesorgt.",
+   "link": "https://www.deutschlandfunk.de/ki-generierte-deepfake-wahlvideos-zeigen-vermeintlich-ehefrau-von-ministerpraesident-s-nchez-104.html",
+   "published": "2026-10-24T16:32:06+00:00",
+   "first_seen": "2026-10-24T17:05:51.056390+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "KI auf Streamingdiensten: Die acht Mio. des schrecklichen Mr. Smith",
+   "summary": "Die Musikindustrie feiert das Urteil gegen US-Produzenten Michael Smith. Dieser hatte KI-Musik auf Spotify veröffentlicht und mit Bots in die Charts gedrückt. mehr...",
+   "link": "https://taz.de/KI-auf-Streamingdiensten/!6219138/",
+   "published": "2026-10-24T16:09:00+00:00",
+   "first_seen": "2026-10-24T17:05:51.056390+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Leseschwächen in Deutschland: Wie gut, dass es keine Pisa-Studie für Erwachsene gibt",
+   "summary": "Die KI hilft oft weiter, aber lesen können sollte man trotzdem. Ob die Eltern der leseschwachen Kids da besser sind, bleibt zu prüfen. mehr...",
+   "link": "https://taz.de/Leseschwaechen-in-Deutschland/!6221563/",
+   "published": "2026-10-24T14:52:00+00:00",
+   "first_seen": "2026-10-24T17:05:51.056390+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Medien: Deutsche TV-Sender fluten Youtube – trotz des Risikos",
+   "summary": "Die Plattform bringt RTL und Pro Sieben Millionenumsätze und ein junges Publikum. Zugleich wächst die Abhängigkeit vom Algorithmus und von Zahlen, die die Sender nicht kontrollieren.",
+   "link": "https://www.handelsblatt.com/unternehmen/it-medien/medien-deutsche-tv-sender-fluten-youtube-trotz-des-risikos/100263241.html",
+   "published": "2026-10-24T14:39:17+00:00",
+   "first_seen": "2026-10-24T17:05:51.056390+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "KI-Agenten steuern: Kontrollverlust mit digitalem Anstrich",
+   "summary": "Künstliche Intelligenz in Unternehmen braucht keine Bremsen, aber Leitplanken. Welche Ziele und Regeln sind sinnvoll?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/ein-chief-information-officer-appelliert-ki-agenten-in-unternehmen-brauchen-leitplanken-accg-201073137.html",
+   "published": "2026-10-24T14:11:47+00:00",
+   "first_seen": "2026-10-24T17:05:51.056390+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Immobilien: Wo KI in der Hausverwaltung wirklich hilft – und wann sie teuer wird",
+   "summary": "KI-Assistenten nehmen nachts Mieteranrufe entgegen, erstellen Nebenkostenabrechnungen und formulieren Mietverträge. Doch Experten warnen Vermieter vor juristischen Risiken.",
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-ki-vermietern-wirklich-hilft-und-wo-sie-zum-risiko-wird/100262229.html",
+   "published": "2026-10-24T14:00:00+00:00",
+   "first_seen": "2026-10-24T17:05:51.056390+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Sicherheitslücken: Die Lehren aus dem KI-Hack",
@@ -847,60 +901,6 @@
    "published": "2026-10-21T21:06:32+00:00",
    "first_seen": "2026-10-22T01:05:34.714004+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Quartalszahlen: Meta investiert 135 Milliarden Dollar in Künstliche Intelligenz",
-   "summary": "Facebook-Gründer Mark Zuckerberg treibt seine KI-Wette weiter voran. Finanziert werden die gigantischen Ausgaben vom florierenden Werbegeschäft – und einer neuen Anteilsklasse.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/quartalszahlen-meta-investiert-135-milliarden-dollar-in-kuenstliche-intelligenz/100262901.html",
-   "published": "2026-10-21T21:06:32+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-   "summary": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
-   "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-   "published": "2026-10-21T20:47:20+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Elon Musk: Tesla-Umsatz stagniert, Details zur SpaceX-Fusion fehlen – Aktie fällt",
-   "summary": "Tesla-Chef Musk enttäuscht die Investoren. Bei der Vorlage der Quartalszahlen kündigt er den Start von Roboterverkäufen für 2027 an. Zum Thema der Woche schweigt sich der Milliardär aber aus.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/elon-musk-tesla-umsatz-stagniert-details-zur-spacex-fusion-fehlen/100262900.html",
-   "published": "2026-10-21T20:41:41+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
-   "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/elektroautos-tesla-mit-gewinneinbruch-und-stagnierendem-umsatz/100264040.html",
-   "published": "2026-10-21T20:41:22+00:00",
-   "first_seen": "2026-10-21T22:53:51.980075+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Datenschutz: US-Richter verurteilt Facebook-Mutter Meta zu 25 Milliarden Dollar Strafe",
-   "summary": "Ein Gericht in New Mexico verurteilt Meta zu 25 Milliarden Dollar Strafe. Der Konzern soll Nutzer über den Umgang mit ihren persönlichen Daten getäuscht haben.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/datenschutz-us-richter-verurteilt-meta-zu-25-milliarden-dollar-strafe/100264023.html",
-   "published": "2026-10-21T18:06:05+00:00",
-   "first_seen": "2026-10-21T19:47:03.608275+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Brasilianische Blindenfußballerin: „Ich will die Stimme für diese Mädchen sein“",
-   "summary": "Brasiliens Blindenfußball der Frauen litt unter fast 40 Jahren Verbot. Heute erkämpft Nationalspielerin Geisa Farini mit Social Media Fortschritte. mehr...",
-   "link": "https://taz.de/Brasilianische-Blindenfussballerin/!6223097/",
-   "published": "2026-10-21T17:57:00+00:00",
-   "first_seen": "2026-10-21T19:47:03.608275+00:00",
-   "paywall": false
   }
  ]
 }
