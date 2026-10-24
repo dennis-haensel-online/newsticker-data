@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T05:13:24.628006+00:00",
+ "updated": "2026-10-24T09:59:29.956006+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -9,6 +9,492 @@
    "published": "2026-12-12T13:29:00+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
    "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Proteste in Frankreich: Anspannung in Frankreich vor Demos und möglichen Krawallen",
+   "summary": "Frankreich versucht, seinen Umgang mit den Demonstrationen zu finden. Verschiedene Proteste wurden verboten. Präsident Macron spricht derweil mit Schülern über ihre Anliegen.",
+   "link": "https://www.wiwo.de/politik/europa/moegliche-krawallen-anspannung-in-frankreich-vor-demos/100264667.html",
+   "published": "2026-10-24T09:49:55+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Eberl zu Kompany: \"Fußball nicht das Wichtigste im Leben\"",
+   "summary": "Vincent Kompany befindet sich nach seinem Zusammenbruch in einem stabilen Zustand und wird noch \"einige Tage\" im Krankenhaus bleiben. Das berichtete Bayern-Sportvorstand Max Eberl.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-bayern-kompany-krankenhaus-reaktionen-eberl-100.html",
+   "published": "2026-10-24T09:48:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Trump-Watch: Warum Israel und der Iran-Krieg Trumps Basis spalten – mit Politologe Sascha Lohmann",
+   "summary": "Laut einer Umfrage liegen die Sympathien der Amerikaner erstmals eher bei den Palästinensern als bei Israel. Was heißt das für die Midterms? SWP-Experte Sascha Lohmann ordnet ein.",
+   "link": "https://www.handelsblatt.com/audio/trump-watch-podcast/trump-watch-warum-israel-und-der-iran-krieg-trumps-basis-spalten/100264634.html",
+   "published": "2026-10-24T09:42:27+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Satelliten-Dienst - Ukrainischer Verteidigungsminister: Starlink-Internet wieder stabil",
+   "summary": "Die Ukraine hat wieder uneingeschränkten Zugang zum US-Satelliten-Dienst Starlink. Verteidigungsminister Chmara teilte in Kiew mit, die Verbindung sei stabil. Er bestätigte damit Angaben von US-Präsident Trump. Der ukrainische Präsident…",
+   "link": "https://www.deutschlandfunk.de/ukrainischer-verteidigungsminister-starlink-internet-wieder-stabil-104.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Nach tödlichem Angriff - Israelische Armee startet Großoffensive im Westjordanland",
+   "summary": "Nach dem Tod von zwei Soldaten bei einem Angriff bewaffneter Palästinenser hat die israelische Armee eine Offensive im besetzten Westjordanland gestartet. Es gebe zahlreiche Anti-Terror-Einsätze, hieß es in einer gemeinsamen Erklärung der…",
+   "link": "https://www.deutschlandfunk.de/israelische-armee-startet-grossoffensive-im-westjordanland-104.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Sozialdemokratie - Juso-Chef Türmer gegen erneute Kandidatur Klingbeils für SPD-Vorsitz",
+   "summary": "Juso-Chef Türmer hat sich gegen eine erneute Kandidatur des SPD-Vorsitzenden Klingbeil ausgesprochen.",
+   "link": "https://www.deutschlandfunk.de/juso-chef-tuermer-gegen-erneute-kandidatur-klingbeils-fuer-spd-vorsitz-108.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bayern - Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+   "summary": "Das sogenannte Kehlsteinhaus auf dem Gelände des ehemaligen NS-Regierungszentrums Obersalzberg ist durch ein Feuer weitgehend zerstört worden.",
+   "link": "https://www.deutschlandfunk.de/kehlsteinhaus-am-obersalzberg-durch-brand-weitgehend-zerstoert-100.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Herbststurm \"Luise\" - Sturmtief sorgt für Zugausfälle und Verspätungen bei der Bahn, zwei Schwerverletzte auf Stadtfest",
+   "summary": "Das Sturmtief \"Luise\" hat im Südwesten und Westen Deutschlands Schäden hinterlassen. In Baden-Württemberg wurden zahlreiche Bäume entwurzelt, wie die Polizei mitteilte. Eine Radfahrerin in Kronau wurde leicht verletzt.",
+   "link": "https://www.deutschlandfunk.de/sturmtief-sorgt-fuer-zugausfaelle-und-verspaetungen-bei-der-bahn-zwei-schwerverletzte-auf-stadtfest-116.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Offener Brief - Gewerkschaftler und Soziologe Urban betont Recht auf Vergesellschaftung",
+   "summary": "Der Gewerkschaftler und Soziologe Urban hat das Recht zur Vergesellschaftung von Wohnraum verteidigt. Das ehemalige Vorstandsmitglied der IG Metall sagte im Deutschlandfunk, Miet- und Wohnkosten stellten eines der größten Probleme für die…",
+   "link": "https://www.deutschlandfunk.de/gewerkschaftler-und-soziologe-urban-betont-recht-auf-vergesellschaftung-104.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bildung - Bundesschülerkonferenz fordert mehr Geld und kündigt Proteste im November an",
+   "summary": "Angesichts der Bildungsproteste in mehreren europäischen Ländern fordert die Bundesschülerkonferenz, die Sorgen der jungen Menschen ernst zu nehmen. Generalsekretärin Kirchhoff sagte im Deutschlandfunk, es brauche eine Politik, die die…",
+   "link": "https://www.deutschlandfunk.de/bundesschuelerkonferenz-fordert-mehr-geld-und-kuendigt-proteste-im-november-an-100.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Proteste - Frankreich: 70.000 Polizisten sichern Demonstrationen - Sorge vor Ausschreitungen",
+   "summary": "In Frankreich werden heute weitere landesweite Demonstrationen erwartet.",
+   "link": "https://www.deutschlandfunk.de/frankreich-70-000-polizisten-sichern-demonstrationen-sorge-vor-ausschreitungen-118.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fußball-Bundesliga - Erster Sieg für Mönchengladbach nach sechs Niederlagen - heute will Dortmund die Tabellenführung übernehmen",
+   "summary": "Im Freitagsspiel der Fußball-Bundesliga hat der VfB Stuttgart gegen Borussia Mönchengladbach mit 2:3 verloren. Mönchengladbach holte damit nach sechs Niederlagen den ersten Sieg in dieser Saison.",
+   "link": "https://www.deutschlandfunk.de/erster-sieg-fuer-moenchengladbach-nach-sechs-niederlagen-heute-will-dortmund-die-tabellenfuehrung-ue-102.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Fußball - Bayern-Cheftrainer Kompany muss nach Zusammenbruch im Krankenhaus bleiben",
+   "summary": "Der Cheftrainer von Bayern München, Vincent Kompany, muss aus gesundheitlichen Problemen vorerst im Krankenhaus bleiben. Das gab Sportdirektor Max Eberl bekannt. Der Zustand sei stabil. Der Belgier war gestern auf dem Trainingsgelände…",
+   "link": "https://www.deutschlandfunk.de/bayern-cheftrainer-kompany-muss-nach-zusammenbruch-im-krankenhaus-bleiben-100.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "CSU-Parteitag - Söder: \"Es geht jetzt um die Existenz der Volksparteien\"",
+   "summary": "Der CSU-Vorsitzende Söder hat harte politische Auseinandersetzungen mit AfD und Linkspartei angekündigt. Es gehe jetzt um die Existenz der Volksparteien, sagte Söder zum Auftakt des CSU-Parteitags in München. Seine Partei werde dem…",
+   "link": "https://www.deutschlandfunk.de/soeder-es-geht-jetzt-um-die-existenz-der-volksparteien-114.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Naher Osten - Aufwind für die Opposition: Das ist die Lage vor der Parlamentswahl in Israel",
+   "summary": "Am Dienstag wählt Israel ein neues Parlament. Die Wahl wird auch als Volksurteil über die Politik von Ministerpräsident Netanjahu nach dem Hamas-Angriff am 7. Oktober 2023 betrachtet. In den vergangenen Wochen hat eine Oppositionspartei…",
+   "link": "https://www.deutschlandfunk.de/aufwind-fuer-die-opposition-das-ist-die-lage-vor-der-parlamentswahl-in-israel-100.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Prinzessin von Asturien - Patti Smith und Julian Barnes erhalten \"Spanische Nobelpreise\"",
+   "summary": "Die Sängerin, Autorin und Malerin Patti Smith und der Schriftsteller Julian Barnes gehören zu den Gewinnern der Prinzessin-von-Asturien-Preise. Spaniens Kronprinzessin Leonor vergab am Abend in Oviedo die Auszeichnungen, die als die…",
+   "link": "https://www.deutschlandfunk.de/patti-smith-und-julian-barnes-erhalten-spanische-nobelpreise-104.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Nachfolger Ingo Schulzes - Helmuth Feilke ist neuer Präsident der Deutschen Akademie für Sprache und Dichtung",
+   "summary": "Helmuth Feilke ist neuer Präsident der Deutschen Akademie für Sprache und Dichtung.",
+   "link": "https://www.deutschlandfunk.de/helmuth-feilke-ist-neuer-praesident-der-deutschen-akademie-fuer-sprache-und-dichtung-106.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Trendsport - Padel wächst in Deutschland besonders schnell",
+   "summary": "Die Sportart Padel liegt in Deutschland besonders im Trend. Laut dem Weltverband FIP wächst der Sport hierzulande im europaweiten Vergleich am schnellsten. Die Zahl der Padel-Plätze wird sich hierzulande in diesem Jahr voraussichtlich…",
+   "link": "https://www.deutschlandfunk.de/padel-waechst-in-deutschland-besonders-schnell-102.html",
+   "published": "2026-10-24T09:35:41+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Krise der Schulen: Bildung? Uns doch egal!",
+   "summary": "Deutschlands Schüler lernen so wenig wie nie – doch niemanden regt es auf. Das hat System.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/deutschlands-bildungsmisere-warum-kaum-jemand-aufbegehrt-accg-201231694.html",
+   "published": "2026-10-24T09:25:02+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Roboter: Darum tun sich humanoide Roboter als Fabrikarbeiter so schwer",
+   "summary": "Plötzlich testen viele Firmen Humanoide. Doch trotz großer Ankündigungen sind die Roboter meist nicht bereit für den Fabrikeinsatz. Woran es hakt und warum sich das schnell ändern könnte.",
+   "link": "https://www.wiwo.de/unternehmen/it/thier-clara-cthroboterdarum-tun-sich-humanoide-roboter-als-fabrikarbeiter-so-schwerploetzlich-testen-viele-firmen-humanoide.-doch-trotz-grosser-ankuendigungen-sind-die-roboter-meist-nicht-bereit-fuer-den-fabrikeinsatz.-woran-es-hakt-und-warum-sich-das-schnell-aendern-koennte.glaubt-man-der-darstellung-einiger-tech-firmen-koennen-menschenaehnliche-roboter-den-menschen-schon-jetzt-an-vielen-stellen-abloesen-bei-der-weltmeisterschaft-der-humanoiden-in-peking-lief-ein-solcher-roboter-auf-100-metern-schneller-als-usain-bolt.-die-summen-an-wagniskapital-die-in-die-technik-fliessen-steigen-rasant-in-diesem-jahr-allein-waren-es-elf-milliarden-dollar.-mehr-als-doppelt-so-viel-wie-im-vorjahr.in-deutschland-sammelte-das-metzinger-humanoiden-start-up-neura-14-milliarden-dollar-in-einer-finanzierungsrunde-ein.-im-audi-werk-in-ingolstadt-sollen-humanoide-vom-muenchner-start-up-agile-robots-bald-bauteile-sortieren.-und-der-deutsche-automobilzulieferer-schaeffler-hat-gerade-eine-neue-fabrik-im-chinesischen-taicang-eroeffnet-in-der-humanoide-gelenkmodule-montieren-die-dann-spaeter-wieder-selbst-in-humanoiden-verbaut-werden.laut-dem-analysehaus-counterpoint-research-haben-sich-die-auslieferungen-im-ersten-halbjahr-im-vorjahresvergleich-auf-mehr-als-22.000-humanoide-verdreifacht.-die-fuenf-groessten-hersteller-kommen-dabei-alle-aus-china-agibot-unitree-galbot-ubtech-und-leju.-noch-aber-finden-die-maschinen-weniger-in-fabrikhallen-ihre-anwendung-sondern-werden-hauptsaechlich-fuer-unterhaltungs-oder-forschungszwecke-eingesetzt.ein-einsatz-wie-bei-schaeffler-in-china-bleibt-also-die-ausnahme.-wer-sich-durch-die-deutsche-industrie-bewegt-muss-feststellen-in-den-fabrikhallen-sind-roboterkollegen-meist-nicht-viel-mehr-als-zukunftsmusik.das-schlussfolgern-auch-die-robotikexperten-der-beratungsfirma-mckinsey-humanoide-roboter-seien-weltweit-gerade-zwar-an-der-schwelle-zwischen-prototyp-und-kommerzieller-relevanz-schreiben-sie-in-mehreren-analysen.-doch-noch-klaffe-eine-grosse-luecke-zwischen-dem-was-in-pilotprojekten-technisch-demonstriert-wird-und-dem-was-im-grossen-massstab-wirtschaftlich-rentabel-ist.-die-prototypen-die-derzeit-fuer-schlagzeilen-sorgen-seien-weit-davon-entfernt-in-der-realitaet-einen-verlaesslichen-wirtschaftlichen-nutzen-zu-bringen.woran-hapert-esunitree-roboter-entertainer-keine-arbeiterin-der-regel-arbeiten-die-humanoiden-momentan-noch-in-klar-getrennten-bereichen-an-festgelegten-aufgaben.-dabei-liegt-ihr-ganz-grosses-potenzial-aber-in-der-flexibilitaet-und-anpassungsfaehigkeit-an-jene-umgebungen-die-fuer-menschen-gestaltet-sind.laut-dem-forschungsinstitut-fraunhofer-ipa-sehen-deutsche-industrieunternehmen-die-groessten-chancen-fuer-humanoide-im-materialtransport-der-beladung-von-maschinen-und-im-greifen-komplexer-gegenstaende.humanoide-roboter-bringen-genau-die-flexibilitaet-mit-die-wir-brauchen-um-die-produktivitaet-in-unseren-werken-signifikant-zu-steigern-erzaehlt-schaeffler-vorstandsmitglied-jochen-schroeder.-der-automobilzulieferer-ist-inzwischen-tatsaechlich-einer-der-vorreiter-im-einsatz-von-humanoiden.-er-hat-sich-mit-mehreren-herstellern-auf-den-einsatz-verstaendigt-mindestens-1000-roboter-vom-schweizer-hersteller-hexagon-robotics-und-eine-vierstellige-zahl-von-humanoid-uk-bis-2032-dazu-eine-mittlere-vierstellige-zahl-von-neura-humanoiden-aus-deutschland.es-gibt-also-grosse-plaene.-doch-in-der-praxis-fehlt-den-robotern-noch-die-erfahrung-um-im-fabrikalltag-wirklich-souveraen-sicher-und-sinnvoll-zu-handeln.-um-das-zu-aendern-braucht-es-jede-menge-trainingsdaten.-kunden-und-hersteller-lernen-die-modelle-gerade-an.-meist-braucht-es-menschliche-mitarbeiter-die-bewegungen-vormachen-roboter-steuern.-aber-die-fehlenden-trainingsdaten-sind-nur-eines-von-vielen-hindernissen.die-mckinsey-experten-zaehlen-vier-bruecken-auf-die-humanoiden-hersteller-noch-bauen-muessen-damit-ihre-produkte-wirklich-marktreif-sind-erstens-bessere-sicherheitssysteme-denn-humanoide-werden-nicht-hinter-zaeunen-nuetzlich-sein-so-wie-es-viele-klassische-industrieroboterarme-gerade-sind.-gleichzeitig-droht-das-risiko-dass-ein-frei-beweglicher-humanoider-maschinen-oder-gar-menschen-verletzen-koennte.-das-scheint-auch-fuer-die-deutsche-industrie-das-zentralste-problem-zu-sein-in-einer-studie-des-fraunhofer-ipa-nannten-die-befragten-industrieunternehmen-ungeloeste-sicherheitsfragen-als-groesste-herausforderung-fuer-den-einsatz-von-humanoiden.zweitens-laengere-betriebszeiten-viele-humanoiden-funktionieren-mit-einer-akkuladung-gerade-mal-zwei-bis-vier-stunden.-aber-eine-schicht-in-der-produktion-dauert-acht-bis-zwoelf-stunden.-loesen-koennten-das-akku-wechselsysteme-oder-schnellladesaeulen.drittens-eine-groessere-fingerfertigkeit-und-beweglichkeit.-das-ist-die-groesste-technologische-herausforderung.-besonders-schwierig-sind-vermeintliche-alltagsaufgaben-wie-kabel-einstecken-oder-sortieren.-dafuer-braucht-es-die-richtige-konstruktion-und-das-entsprechende-training.das-vierte-hindernis-sind-momentan-noch-die-kosten.-die-herstellung-eines-prototypen-kostet-derzeit-150.000-bis-500.000-dollar.-aber-um-mit-menschlicher-arbeitskraft-breit-zu-konkurrieren-muessten-die-kosten-auf-20.000-bis-50.000-dollar-sinken.teuer-ist-dabei-nicht-die-software-oder-die-ki-sondern-die-hardware-und-ihre-lieferkette.-aktuatoren-also-motoren-getriebe-und-gelenke-machen-40-bis-60-prozent-der-stueckkosten-aus.auch-bei-schaeffler-sind-die-humanoiden-eine-langfristige-wette-um-den-technologischen-vorsprung-noch-ist-das-preis-leistungs-verhaeltnis-fuer-humanoide-roboter-im-industriellen-einsatz-unausgewogen-sagt-vorstand-jochen-schroeder.-durch-die-industrialisierung-und-globale-skalierung-der-humanoiden-sowie-den-fortschritten-der-ki-werde-sich-dieses-bild-jedoch-in-den-naechsten-jahren-rasant-veraendern-glaubt-er.-fuer-schaeffler-ein-win-win-schliesslich-setzt-das-unternehmen-gerade-darauf-sich-nicht-nur-als-nutzer-sondern-vor-allem-auch-als-zulieferer-fuer-humanoide-zu-platzieren.siemens-test-beendet-roboter-abgezogenauch-wenn-der-serieneinsatz-die-ausnahme-bleibt-mehren-sich-die-nachrichten-zu-immer-mehr-pilotversuchen-und-testeinsaetzen-in-china-den-usa-und-europa-seit-diesem-jahr-testet-bmw-im-leipziger-werk-erstmals-einen-humanoiden-in-deutschland.-das-modell-des-herstellers-hexagon-belaedt-die-maschinen-dort-mit-material.der-konkurrent-mercedes-benz-nutzt-humanoide-des-herstellers-apptronik-in-berlin-marienfelde-auch-um-material-zu-transportieren.-amazon-testet-die-us-marke-agility-robotics-in-mehreren-us-warenlagern-wobei-der-roboter-aus-sicherheitsgruenden-noch-in-halb-abgetrennten-zonen-arbeitet.auch-siemens-hat-einen-roboter-des-britischen-herstellers-humanoidin-der-erlanger-elektronikfabrik-getestet.-ziel-sei-es-gewesen-erfahrungen-beim-einsatz-von-humanoiden-robotern-in-einer-realen-fertigungsumgebung-zu-sammeln.-der-test-ist-nun-beendet-der-roboter-arbeitet-nicht-mehr-in-der-fabrik.-ob-wann-und-in-welchem-umfang-siemens-humanoide-roboter-in-der-eigenen-fertigung-einsetzen-wird-sei-zum-jetzigen-zeitpunkt-nicht-entschieden-sagt-ein-konzernsprecher.-dennoch-sei-siemens-im-gespraech-mit-mehreren-anbietern-von-humanoiden.-genauso-wie-beim-testmodell-von-schaeffler-handelt-es-sich-hierbei-um-roboter-mit-raedern-ohne-beine.-diese-erfreuen-sich-in-der-industrie-etwas-mehr-beliebtheit-als-modelle-mit-beinen-weil-industriehallen-in-der-regel-flache-boeden-haben-und-beine-keinen-zusaetzlichen-vorteil-bringen.eine-anderes-konfliktpotenzial-verbirgt-sich-noch-ganz-ausserhalb-der-technologischen-huerden-beim-menschen.-in-suedkorea-wo-in-der-industrie-auf-10.000-beschaeftigte-mehr-als-doppelt-so-viele-roboter-kommen-wie-in-deutschland-streikten-beschaeftigte-von-hyundai-dieses-jahr-erstmalig-gegen-den-unkontrollierten-einsatz-humanoider-roboter.-in-der-fraunhofer-studie-nennt-jeder-vierte-anwender-potenzielle-akzeptanzprobleme-in-der-belegschaft-als-hindernis.-dennoch-schaetzen-drei-von-vier-befragten-unternehmen-den-einsatz-humanoider-innerhalb-der-naechsten-drei-bis-zehn-jahre-als-realistisch-ein./100264179.html",
+   "published": "2026-10-24T09:23:16+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Krebsrisiko senken: Darauf kommt es an",
+   "summary": "Eine Anti-Krebs-Diät gibt es laut Krebsforscherin Hanna Heikenwälder nicht – aber sie verrät im Podcast \"Lanz+Precht\" konkrete Tipps, mit denen sich das Krebsrisiko senken lässt.",
+   "link": "https://www.zdfheute.de/video/krebsrisiko-senken-ernaehrung-lebensstil-ratgeber-video-100.html",
+   "published": "2026-10-24T09:12:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Verdacht auf Brandstiftung: Hitlers „Teehaus“ am Obersalzberg niedergebrannt",
+   "summary": "Die Löscharbeiten an der Berggaststätte hoch über Berchtesgaden laufen auf Hochtouren. Eine verdächtige Person wurde festgenommen. mehr...",
+   "link": "https://taz.de/Verdacht-auf-Brandstiftung/!6224703/",
+   "published": "2026-10-24T09:10:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Halloween-Hunde tanzen für den guten Zweck",
+   "summary": "Bei der \"Pet Masquerade\" in Florida treten jährlich verkleidete Haustiere mit ihren Besitzern auf. Sie spenden die Einnahmen an eine Tierfarm.",
+   "link": "https://www.zdfheute.de/video/florida-pet-masquerade-hunde-halloween-video-100.html",
+   "published": "2026-10-24T09:09:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wahlen in Serbien: Nach zweijährigen Protesten – Studentenliste könnte stärkste Kraft in Serbien werden",
+   "summary": "Es zeichnet sich ein knapper Wahlausgang ab. Die Fortschrittspartei von Ex-Präsident Vucic könnte nach über einem Jahrzehnt abgelöst werden. Für die EU sind das nicht nur gute Nachrichten.",
+   "link": "https://www.handelsblatt.com/politik/international/wahlen-in-serbien-studentenliste-koennte-staerkste-kraft-in-serbien-werden/100264437.html",
+   "published": "2026-10-24T09:01:14+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Wochentaz-Podcast: Israel vor Schicksalswahl",
+   "summary": "Am Dienstag wird gewählt. Lässt sich der Umbau Israels in ein religiös-autoritäres Land noch stoppen? mehr...",
+   "link": "https://taz.de/Wochentaz-Podcast/!6224668/",
+   "published": "2026-10-24T08:43:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Moonshot bremst Hacking-Fähigkeiten des neuesten Modells",
+   "summary": "Moonshot AI schränkt sein eigenes KI-Modell ein. Kimi K3.1 Pro soll weniger gut hacken können. Dazu wurden Cybersicherheits-Daten aus dem Training entfernt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-moonshot-bremst-hacking-faehigkeiten-des-neuesten-modells/100264662.html",
+   "published": "2026-10-24T08:34:18+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Crash von Krypto-Währung: Verfahren gegen Javier Milei eingestellt",
+   "summary": "Der Vorwurf des Krypto-Betrugs gegen den argentinischen Präsidenten ist vorerst vom Tisch. Die Justiz beendet die Ermittlungen. Die Opposition ist empört. mehr...",
+   "link": "https://taz.de/Verfahren-gegen-Argentiniens-Praesidenten-Milei-wegen-Krypto-Betrugs-eingestellt/!6224701/",
+   "published": "2026-10-24T08:34:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftfahrt: Boeing stoppt Produktion des Frachters 777",
+   "summary": "Der Grund für die Stilllegung sei Insidern zufolge ein Streit mit dem Zulieferer. Auch die Fertigung des Modells 767 sei betroffen. Boeing will sich künftig selbst absichern.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/luftfahrt-boeing-stoppt-produktion-des-frachters-777/100264660.html",
+   "published": "2026-10-24T08:32:39+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+   "summary": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html",
+   "published": "2026-10-24T08:27:08+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Nach Hacks: Open AI will Spitzen-KI ohne Internet trainieren",
+   "summary": "Verdi ruft zu Warnstreiks bei privaten Banken auf +++ Generali Deutschland will 800 Stellen abbauen +++ US-Großbanken sperren KI-Agenten wohl aus Kundenkonten aus +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-will-spitzen-ki-ohne-internet-trainieren-faz-200452404.html",
+   "published": "2026-10-24T08:22:29+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Frankreich bereitet sich auf Demos und Krawalle vor",
+   "summary": "In Frankreich haben Gewerkschaften erneut landesweit zum Protest aufgerufen. Die Polizei bereitet sich mit zehntausenden Einsatzkräften auf mögliche neue Ausschreitungen vor.",
+   "link": "https://www.zdfheute.de/politik/ausland/frankreich-demonstrationen-polizei-100.html",
+   "published": "2026-10-24T08:22:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Protesttag in Frankreich: Anspannung vor landesweiten Demonstrationen",
+   "summary": "70.000 Polizeibeamte, verbotene Kundgebungen und verrammelte Fenster: Frankreich bereitet sich auf mögliche Ausschreitungen vor. Selbst bei erlaubten Protestzügen gibt es Streit um den Weg. mehr...",
+   "link": "https://taz.de/Anspannung-in-Frankreich-vor-landesweiten-Demonstrationen/!6224699/",
+   "published": "2026-10-24T08:18:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Atomenergie: IAEA rechnet mit deutlichem Anstieg der Kernkraftkapazitäten",
+   "summary": "Die Kapazitäten für Atomstrom könnten in den kommenden Jahren weltweit deutlich ausgebaut werden, meint die Internationale Atomenergiebehörde. Bis 2060 könnte sie sich im extremen Fall verdreifachen.",
+   "link": "https://www.spiegel.de/wirtschaft/atomenergie-iaea-rechnet-mit-deutlichem-anstieg-der-kernkraftkapazitaeten-a-4c999f58-c806-4387-8392-5409080ace79#ref=rss",
+   "published": "2026-10-24T08:17:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Alarm an Polens Ostgrenze: \"Wir leben hier in solcher Angst\"",
+   "summary": "Warnnachrichten praktisch täglich auf dem Handy: In Polens Grenzregion zur Ukraine rückt der Krieg gefühlt näher. Für die Bewohner bedeutet das ein Leben im Alarmmodus.",
+   "link": "https://www.zdfheute.de/politik/ausland/polen-ostgrenze-putin-krieg-alarmmodus-100.html",
+   "published": "2026-10-24T08:16:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Raumfahrt: Nasa hält trotz Herausforderungen an Mond-Plänen fest",
+   "summary": "Nach der erfolgreichen „Artemis 2“-Mission feilt die US-Raumfahrtbehörde weiter an neuen Mond-Plänen. Können sich schon in einigen Jahren dort dauerhaft Menschen aufhalten?",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-nasa-haelt-trotz-herausforderungen-an-mond-plaenen-fest/100264659.html",
+   "published": "2026-10-24T08:12:44+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Aus für Abscheidung: Herber Rückschlag für den Umbau der Industrie",
+   "summary": "Heidelberg Materials hat seine Pläne für das erste klimaneutrale Zementwerk Deutschlands auf Eis gelegt. Für die weitere Dekarbonisierung sieht es düster aus.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klimaschutz-herber-rueckschlag-fuer-die-co2-abscheidung-201615574.html",
+   "published": "2026-10-24T08:10:15+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Bildung und Kinderarmut: In den Schulen das Gold der Kinder schürfen",
+   "summary": "Damit der Wohlstand in Deutschland zunimmt, braucht es gute Bildungseinrichtungen. Auf dem Vordenker-Forum wird der Mangel daran auf eines zurückgeführt: Wertschätzung.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bildung-heisst-auch-in-kluge-koepfe-zu-investieren-accg-201612105.html",
+   "published": "2026-10-24T08:05:14+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "CSU-Parteitag in München: Alle für Ilse",
+   "summary": "Nach einer bemerkenswert unsöderhaften Rede feiert die CSU auf ihrem Parteitag Markus Söder – besonders wegen eines Satzes. mehr...",
+   "link": "https://taz.de/CSU-Parteitag-in-Muenchen/!6224692/",
+   "published": "2026-10-24T08:05:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Israel: Netanjahu könnte die Wahl verlieren – und dennoch regieren",
+   "summary": "Laut allen Umfragen der vergangenen Monate verliert Israels Premier seine Mehrheit. Es gibt allerdings drei Szenarien, wie er dennoch an der Macht bleiben könnte.",
+   "link": "https://www.handelsblatt.com/politik/international/israel-netanjahu-koennte-die-wahl-verlieren-und-dennoch-regieren/100260417.html",
+   "published": "2026-10-24T08:00:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Leben mit Aktien: „Nicht alle Eier in einen Korb“ – wie Sie die Börsenregel richtig umsetzen",
+   "summary": "Wer breit streut, ist besser vor Verlusten geschützt, besagt eine alte Börsenregel. Die breite Streuung ist aber schwieriger umzusetzen, als es scheint.",
+   "link": "https://www.wiwo.de/finanzen/boerse/geldanlage-so-funktioniert-die-diversifizierung-im-portfolio/100264119.html",
+   "published": "2026-10-24T08:00:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Deutsche Konjunktur: Hoffnung für unsere Exporteure",
+   "summary": "Das Exportklima hellt sich leicht auf. Fachleute sehen allerdings noch keine echte Trendwende. Die Hoffnung liegt auf einem weltweiten Aufschwung.",
+   "link": "https://www.wiwo.de/politik/konjunktur/deutsche-konjunktur-hoffnung-fuer-unsere-exporteure/100259030.html",
+   "published": "2026-10-24T07:52:24+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Proteste und Gewalt: Linker Selbstmord",
+   "summary": "Es ist falsch, wenn Linke Hass und Gewalt im Namen der Gerechtigkeit und Solidarität befürworten. So spielen sie nur der Rechten in die Hände. mehr...",
+   "link": "https://taz.de/Proteste-und-Gewalt/!6219055/",
+   "published": "2026-10-24T07:50:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Wer wird SPD-Vorsitzende?: Warten auf Manu",
+   "summary": "SPD-Frauen beklagen den Sexismus der Union – aber auch die eigene Partei ist nach dem Rückzug von Bärbel Bas ein Männerclub. Kommt jetzt Manuela Schwesig? mehr...",
+   "link": "https://taz.de/Wer-wird-SPD-Vorsitzende/!6223638/",
+   "published": "2026-10-24T07:41:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Zollstreit: Trump hebt Zölle auf bestimmte kanadische Waren auf",
+   "summary": "Kurz vor den Zwischenwahlen am 3. November lockert das Weiße Haus die Zölle auf Agrar- und Forstprodukte aus Kanada. Andere Güter wurden jedoch neu auf die Liste gesetzt.",
+   "link": "https://www.handelsblatt.com/politik/international/zollstreit-trump-hebt-zoelle-auf-bestimmte-kanadische-waren-auf/100264655.html",
+   "published": "2026-10-24T07:38:19+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Die Wahrheit: So geht Hinterbank, nein, Volkspartei!",
+   "summary": "Nicht nur die siechende deutsche Sozialdemokratie hat es jetzt raus: Nostalgie-Polit-Events ziehen Massen an. mehr...",
+   "link": "https://taz.de/Die-Wahrheit/!6219085/",
+   "published": "2026-10-24T07:31:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Handelskonflikt: USA passt einige Kanada-Zölle an – Druck aus Grenzstaaten",
+   "summary": "Der Handelskonflikt mit Kanada belastet viele grenznahe US-Bundesstaaten – und damit auch den Wahlkampf einiger Kandidaten aus Trumps Partei.",
+   "link": "https://www.wiwo.de/politik/ausland/handelskonflikt-usa-passt-einige-kanada-zoelle-an-druck-aus-grenzstaaten/100264657.html",
+   "published": "2026-10-24T07:27:22+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Star-Investor Howard Marks: „Wir müssen uns auf dauerhaft höhere Kapitalkosten einstellen“",
+   "summary": "Der Oaktree-Mitgründer sagt, die Anleiherenditen seien nicht hoch. Als Investor für notleidende Kredite mit langer Wall-Street-Erfahrung ist er bereit, bald wieder mehr Deals abzuschließen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/star-investor-howard-marks-die-heutigen-zinsen-sind-vernuenftig/100261329.html",
+   "published": "2026-10-24T07:07:17+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "+++ Nachrichten im Ukraine-Krieg +++: Moskau und Kiew stimmen Waffenruhe in Oleschky zu",
+   "summary": "Die US-Regierung verkündet eine Feuerpause in der umkämpften Frontstadt. First Lady Melanie Trump solll dabei vermittelt haben. Erneut werden Gefangene ausgetauscht. mehr...",
+   "link": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6224698/",
+   "published": "2026-10-24T06:57:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Abschluss des CSU-Parteitags mit Rede von Kanzler Merz",
+   "summary": "Zum Abschluss des CSU-Parteitags in München ist Kanzler Friedrich Merz zu Gast. CSU-Chef Markus Söder hatte bereits am Freitag eine Rede gehalten. Der Parteitag im Livestream.",
+   "link": "https://www.zdfheute.de/politik/deutschland/bayern-parteitag-csu-100.html",
+   "published": "2026-10-24T06:45:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Plus: Zwischen Größenwahn und Kontrollverlust",
+   "summary": "Pläne für eine Megafusion, ein Investitionsgipfel mit Milliarden-Zusagen, eine gigantische Sicherheitslücke und Hunderttausende geleakte E‑Mails – es war eine Woche der großen Dimensionen.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-zwischen-groessenwahn-und-kontrollverlust/100263909.html",
+   "published": "2026-10-24T06:40:16+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Achtung, Treibsand!",
+   "summary": "Jahrelang war Trump ein Garant für Aufmerksamkeit - hat sich Amerika an seiner Show sattgesehen? Zehn Tage vor der Wahl wirkt Trump angeschlagen.",
+   "link": "https://www.zdfheute.de/briefing/trump-effekt/midterms-newsletter-trump-umfragen-100.html",
+   "published": "2026-10-24T06:30:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Wirtschaft von oben: Jetzt will China die Welt auch mit E-Fuels fluten",
+   "summary": "In Europa haben es Hersteller von E-Fuels bislang schwer. China aber steigt nun energisch in die Produktion grüner Kraftstoffe ein, belegen neueste Satellitenbilder.",
+   "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/e-fuels-so-will-china-die-welt-auch-mit-gruenen-kraftstoffen-fluten/100263882.html",
+   "published": "2026-10-24T06:15:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Raumfahrt: Eine Festwoche für Raketen-Nerds",
+   "summary": "Die Nasa will im Sommer während der bemannten Mission Artemis 3 die Mondlander von Space-X und Blue Origin in der Erdumlaufbahn testen. Dafür sollen binnen weniger Tage drei Großraketen starten. Der Nasa-Chef sieht aber noch technische…",
+   "link": "https://www.sueddeutsche.de/wirtschaft/nasa-mond-artemis-li.3568282",
+   "published": "2026-10-24T06:08:21+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Brasilien: Lula wirft Meta Wahlkampfmanipulation vor",
+   "summary": "Brasiliens Präsident Lula da Silva und Flavio Bolsonaro treffen am Sonntag in der Stichwahl aufeinander. Lulas Team wirft Meta vor, die Wahl zu beeinflussen.",
+   "link": "https://www.zdfheute.de/video/brasilien-wahlkampf-stichwahlen-video-100.html",
+   "published": "2026-10-24T05:37:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
   },
   {
    "label": "DLF",
@@ -117,6 +603,15 @@
    "published": "2026-10-24T05:00:04+00:00",
    "first_seen": "2026-10-24T05:13:24.628006+00:00",
    "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Debatte um Wahlrecht in Berlin: Warum redet die CDU von Umvolkung?",
+   "summary": "Der Vorschlag, das Wahlrecht auszuweiten, macht eine rechtsextreme Verschwörungstheorie bei CDU und SPD beliebt. Mit Argumenten ist dem schwer beizukommen. mehr...",
+   "link": "https://taz.de/Debatte-um-Wahlrecht-in-Berlin/!6223925/",
+   "published": "2026-10-24T05:00:00+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": false
   },
   {
    "label": "ZDF",
@@ -13005,501 +13500,6 @@
    "published": "2026-10-20T21:27:45+00:00",
    "first_seen": "2026-10-21T00:14:09.489988+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Raumfahrtkonzern: SpaceX meldet Milliardengewinn – Tesla-Übernahme rückt näher",
-   "summary": "Das Geschäft mit Satelliteninternet und Rechenzentren treibt den Gewinn. Laut Konzernchef Elon Musk prüfen Sonderausschüsse von SpaceX und Tesla einen möglichen Zusammenschluss.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/spacex-musks-konzern-meldet-milliardengewinn-tesla-uebernahme-rueckt-naeher/100262899.html",
-   "published": "2026-10-20T21:27:45+00:00",
-   "first_seen": "2026-10-21T05:32:56.165469+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Packendes Duell zwischen PSG und Barcelona",
-   "summary": "Paris Saint-Germain bleibt in der Champions-League-Saison ungeschlagen. Im Spitzenspiel am dritten Spieltag besiegte PSG in einer hochklassigen Partie den FC Barcelona.",
-   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-paris-st-germain-fc-barcelona-100.html",
-   "published": "2026-10-20T21:15:00+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Video-Streaming: Netflix wächst langsamer - Aktie fällt",
-   "summary": "Netflix ist die klare Nummer eins beim Videostreaming - doch das Wachstum lässt nach. Jetzt will die Firma das Ruder herumreißen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/video-streaming-netflix-waechst-langsamer-aktie-faellt/100263737.html",
-   "published": "2026-10-20T21:10:28+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Weltraumfirma: Musks SpaceX mit Milliarden-Quartalsgewinn",
-   "summary": "Die Weltraumfirma SpaceX fuhr lange einen Milliardenverlust nach dem anderen ein. Dank Erlösen aus KI-Rechenzentren und dem Satelliten-Dienst Starlink gibt es nun schwarze Zahlen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/weltraumfirma-musks-spacex-mit-milliarden-quartalsgewinn/100263736.html",
-   "published": "2026-10-20T21:06:58+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Prinz Harry hofft auf Versöhnung mit Familie",
-   "summary": "Nach einem mehrjährigen Streit mit seiner Familie will Prinz Harry den Konflikt nun hinter sich lassen. Er zeigt sich optimistisch, dass es zu einer Beilegung kommt.",
-   "link": "https://www.zdfheute.de/video/panorama-prinz-harry-streit-100.html",
-   "published": "2026-10-20T21:06:00+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Flugzeugbauer: US-Luftfahrtbehörde erteilt Boeing 737 MAX 10 die Zulassung",
-   "summary": "Nach jahrelangen Verzögerungen will Boeing sein größtes 737-Modell in wenigen Monaten ausliefern. Über 1550 Bestellungen machen die Maschine zum Hoffnungsträger für den angeschlagenen Konzern.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/flugzeugbauer-us-luftfahrtbehoerde-erteilt-boeing-737-max-10-die-zulassung/100263731.html",
-   "published": "2026-10-20T20:57:47+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Ukraine-Krieg - Selenskyj trifft US-Gesandten Witkoff in Oslo - Teilnahme an möglichem Treffen mit Trump, Putin und Xi gefordert",
-   "summary": "Der ukrainische Präsident Selenskyj hat eine Teilnahme seines Landes an einem möglichen Gipfeltreffen von US-Präsident Trump, dem russischen Staatschef Putin und Chinas Staatschef Xi gefordert. Gespräche über die Zukunft seines Landes…",
-   "link": "https://www.deutschlandfunk.de/selenskyj-trifft-us-gesandten-witkoff-in-oslo-teilnahme-an-moeglichem-treffen-mit-trump-putin-und-xi-100.html",
-   "published": "2026-10-20T20:55:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Nach Vorfall an Militärstützpunkt - Britische Polizei nimmt zwei Verdächtige erneut fest - Vorwurf der Spionage für Iran",
-   "summary": "Im Zuge der Ermittlungen um mutmaßliche Anschlagspläne auf einen Militärstützpunkt in Großbritannien sind zwei Verdächtige erneut festgenommen worden.",
-   "link": "https://www.deutschlandfunk.de/britische-polizei-nimmt-zwei-verdaechtige-erneut-fest-vorwurf-der-spionage-fuer-iran-100.html",
-   "published": "2026-10-20T20:55:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Epidemie - Erster Ebola-Fall in Nigeria nachgewiesen",
-   "summary": "Nach dem Ebola-Ausbruch in Ostafrika ist erstmals auch eine Infektion in Nigeria bestätigt worden.",
-   "link": "https://www.deutschlandfunk.de/erster-ebola-fall-in-nigeria-nachgewiesen-102.html",
-   "published": "2026-10-20T20:55:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Europäisches Parlament - Weber als EVP-Chef bestätigt",
-   "summary": "Der deutsche CSU-Politiker Weber bleibt Chef der größten Fraktion im Europäischen Parlament.",
-   "link": "https://www.deutschlandfunk.de/weber-als-evp-chef-bestaetigt-102.html",
-   "published": "2026-10-20T20:55:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Fußball-Champions-League - VfB spielt Unentschieden - BVB siegt",
-   "summary": "In der Fußball-Champions-League hat der VfB Stuttgart gegen Atletico Madrid 1:1 gespielt.",
-   "link": "https://www.deutschlandfunk.de/vfb-spielt-unentschieden-bvb-siegt-102.html",
-   "published": "2026-10-20T20:55:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Berlin - Steinmeier erinnert bei Ausstellungseröffnung an den Mongolen-Herrscher Dschingis Khan",
-   "summary": "In Berlin hat Bundespräsident Steinmeier gemeinsam mit dem Präsidenten der Mongolei, Khurelsukh, eine Sonderausstellung über Dschingis Khan eröffnet. Der Begründer des mongolischen Weltreiches wird anlässlich seines 800. Todestages im Jahr…",
-   "link": "https://www.deutschlandfunk.de/steinmeier-erinnert-bei-ausstellungseroeffnung-an-den-mongolen-herrscher-dschingis-khan-104.html",
-   "published": "2026-10-20T20:55:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Umfrage - Viele Menschen von Messenger-Nachrichten überfordert",
-   "summary": "Viele Menschen in Deutschland fühlen sich durch ständige Nachrichten in Messengerapps überfordert. Bei 20 Prozent der befragten Nutzer ist dies häufig der Fall, wie eine Umfrage des Digitalverbands Bitkom in Berlin ergab.",
-   "link": "https://www.deutschlandfunk.de/viele-menschen-von-messenger-nachrichten-ueberfordert-104.html",
-   "published": "2026-10-20T20:55:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Trotz Überzahl: Stuttgart verpasst Coup gegen Atlético",
-   "summary": "Trotz starker Hälfte und Überzahl hat es für Stuttgart nicht zum Coup gereicht. Gegen Atlético Madrid musste sich der VfB mit einem Remis begnügen.",
-   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-vfb-stuttgart-atletico-madrid-tore-ergebnis-ligaphase-26-27-100.html",
-   "published": "2026-10-20T20:52:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Streamingdienst: Netflix überzeugt die Börse nicht",
-   "summary": "Personalabbau und Veränderungen im Top-Management: Der Streamingdienst erlebt unruhige Zeiten. Jetzt meldet er für das vergangene Quartal eine Abschwächung seines Wachstums.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quartalszahlen-netflix-ueberzeugt-die-boerse-nicht-201606599.html",
-   "published": "2026-10-20T20:46:51+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Dow Jones schließt ein Prozent höher",
-   "summary": "Sinkende Ölpreise und die Hoffnung auf starke Quartalszahlen stützen die Wall Street, der Dow Jones legt zu. Anleger warten nun auf die Bilanzen der großen Technologiekonzerne.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-dow-jones-schliesst-ein-prozent-hoeher/100263530.html",
-   "published": "2026-10-20T20:31:23+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Kenia: Anführer von Weltuntergangssekte schuldig gesprochen",
-   "summary": "Kenia: Anführer von Weltuntergangssekte schuldig gesprochen",
-   "link": "https://www.zdfheute.de/video/sektenanfuehrer-verurteilt-mord-video-100.html",
-   "published": "2026-10-20T20:22:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Prinz Harry will \"Schlussstrich ziehen\"",
-   "summary": "Prinz Harry ist nach Jahren mit seiner Frau nach Großbritannien zurückgekehrt. Er will sich mit seinem Vater, König Charles, und seinem Bruder, Prinz William, aussöhnen.",
-   "link": "https://www.zdfheute.de/panorama/prominente/harry-william-charles-grossbritannien-100.html",
-   "published": "2026-10-20T20:18:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Unsere Klasse: Chaos und Chancen in der 1d",
-   "summary": "Wie viel Vielfalt verträgt ein Klassenzimmer? Was brauchen Kinder, um gemeinsam zu lernen? Und wie gelingt Schule, wenn die Startbedingungen kaum unterschiedlicher sein könnten?",
-   "link": "https://www.zdf.de/video/reportagen/37-grad-104/37-unsere-klasse-chaos-und-chancen-in-der-1d-100",
-   "published": "2026-10-20T20:15:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immoblienunternehmen: Grand City Properties wird größter Aktionär von LEG Immobilien",
-   "summary": "Grand City Properties übernimmt gut 20 Prozent an LEG und wird vorbehaltlich größter Aktionär. Der Immobilieninvestor könnte seinen Anteil weiter aufstocken. Die LEG-Aktie legt deutlich zu.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/immoblienunternehmen-grand-city-properties-wird-groesster-aktionaer-von-leg-immobilien/100263729.html",
-   "published": "2026-10-20T20:08:52+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Machtwechsel im Kongress?",
-   "summary": "Nur noch rund ein Drittel der Amerikaner sind zufrieden mit der Arbeit des Präsidenten. Republikanische Kandidaten fürchten, dass Trump im Wahlkampf eher schadet als hilft.",
-   "link": "https://www.zdfheute.de/politik/ausland/usa-midterms-maga-republikaner-waehler-unzufrieden-100.html",
-   "published": "2026-10-20T20:04:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Demonstranten kleben sich vor Rheinmetall-Standorten fest",
-   "summary": "An mehreren Standorten des Rüstungsunternehmens Rheinmetall haben sich Demonstranten festgeklebt. Damit wollen sie gegen Waffenlieferungen an Israel protestieren.",
-   "link": "https://www.zdfheute.de/panorama/rheinmetall-demonstration-protest-israel-100.html",
-   "published": "2026-10-20T20:03:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Bauzinsen in Deutschland stark gestiegen",
-   "summary": "Die Bauzinsen in Deutschland sind zuletzt stark gestiegen. \"So teuer war Baugeld seit der Fianzkrise 2009 nicht mehr\", so Valerie Haller an der Frankfurter Börse.",
-   "link": "https://www.zdfheute.de/video/heute-journal/sgs-haller-zimmermann-104.html",
-   "published": "2026-10-20T19:45:00+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "WM-Gold im Küstenrudern für deutsches Mixed",
-   "summary": "Starker Auftritt des deutschen Küstenruderduos Sophie Leupold und Franz Werner: Im Mixed siegten sie in Qingdao und sicherten sich den Weltmeistertitel.",
-   "link": "https://www.zdfheute.de/sport/video/costal-rowing-102.html",
-   "published": "2026-10-20T19:35:16+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Tödlicher Virus: Nigeria bestätigt ersten Ebola-Fall",
-   "summary": "Eine mit Ebola infizierte Frau reist mit dem Flugzeug aus Uganda nach Nigeria. Dort wird ihre Ebola-Infektion bestätigt. 44 Kontakte sind bereits erfasst – wie groß ist das Risiko einer Ausbreitung?",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/toedlicher-virus-nigeria-bestaetigt-ersten-ebola-fall/100263725.html",
-   "published": "2026-10-20T19:31:44+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Investorengipfel: Viel Show, wenig Substanz",
-   "summary": "Es ist gut, dass die Bundesregierung einen Investorengipfel veranstaltet. Der Inhalt ist allerdings noch verbesserungsfähig.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/investorengipfel-der-bundesregierung-viel-show-wenig-substanz-201604712.html",
-   "published": "2026-10-20T19:25:35+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ukraine-Krieg: Neue Hoffnung für Kiew? US-Unterhändler reist nach Russland",
-   "summary": "Die Ukraine und die USA reden wieder miteinander, auch wenn Trump vorab Kiew den Willen zum Frieden abspricht. Nach einem Treffen mit Selenskyj in Oslo reist US-Unterhändler Witkoff nach Russland.",
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-neue-hoffnung-fuer-kiew-us-unterhaendler-reist-nach-russland/100263479.html",
-   "published": "2026-10-20T19:25:03+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Korruption: Der Manager, der Minister – und ein neuer Skandal in Österreich",
-   "summary": "Der Industrielle Siegfried Wolf und der frühere Finanzminister Hans Jörg Schelling müssen sich wegen Korruption verantworten. Es ist nicht die erste derartige Affäre in Österreich.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/korruptionsprozess-gegen-schelling-und-siegfried-wolf-beginnt-201602889.html",
-   "published": "2026-10-20T19:21:23+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Ukraine-Krieg +++: Trump fordert Ukraine zu Abkommen mit Russland auf",
-   "summary": "Witkoff reist nach Russland +++ Norwegen und Finnland nach Ukraine-Gesprächen zuversichtlich +++ Kiew erhält vor Angriffen wieder Frühwarnungen +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-trump-fordert-ukraine-zu-abkommen-mit-russland-auf/27982126.html",
-   "published": "2026-10-20T19:21:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Strippenziehen in Österreich: Wenn Lobbyismus zum Risiko für den Standort wird",
-   "summary": "Ein österreichisches Gericht prüft, ob der Industrielle Siegfried Wolf Steuerregeln durch Lobbying beugte. Der Fall zeigt, wie nah Einfluss und unerlaubter Vorteil beieinanderliegen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/siegfried-wolf-vor-gericht-wann-wird-lobbying-zum-standortrisiko-201605388.html",
-   "published": "2026-10-20T19:12:47+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hier bröckelt der Forschungsstandort Deutschland",
-   "summary": "Tropfende Decken, geschlossene Hörsäle: Viele deutsche Universitäten sind marode. Um den Verfall aufzuhalten, bräuchte es Milliarden.",
-   "link": "https://www.zdfheute.de/politik/deutschland/hochschulen-sanierungsstau-forschung-lehre-100.html",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wer zahlt künftig die Pflege?",
-   "summary": "Während Pflegebedürftige unter steigenden Eigenanteilen leiden, wachsen die Belastungen für Beitragszahlende. Wie lässt sich das System reformieren, damit Pflege bezahlbar bleibt?",
-   "link": "https://www.zdfheute.de/video/frontal/pflege-versicherung-finanzierung-verteilung-generationen-100.html",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Pflegeversicherung | Tabaksteuer bei Vapes",
-   "summary": "Mit den Themen: Wer zahlt künftig die Pflege? | Was bringt Tabaksteuer bei Vapes? | Kaputtgespart – Warum Deutschlands Unis verfallen | Blackbox BSW – Wofür steht Wagenknechts Partei?",
-   "link": "https://www.zdf.de/video/magazine/frontal-das-magazin-100/frontal-vom-20-oktober-2026-100",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Was bringt Tabaksteuer bei Vapes?",
-   "summary": "Viele Vapes enthalten Nikotin. Jetzt will die Bundesregierung mit höheren Steuern den Konsum von Tabak- und Nikotinprodukten eindämmen. Aber wie wirksam ist das bei E-Zigaretten?",
-   "link": "https://www.zdfheute.de/video/frontal/vapes-nikotinhaltig-tabaksteuer-100.html",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Blackbox BSW: Wofür steht die Partei?",
-   "summary": "Das BSW in Sachsen-Anhalt könnte erstmals einer AfD-geführten Regierung den Weg ebnen. Wo liegen die inhaltlichen Schnittmengen zwischen beiden Parteien, wo die Unterschiede?",
-   "link": "https://www.zdfheute.de/video/frontal/blackbox-bsw-sachsen-anhalt-regierung-102.html",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Warum Deutschlands Unis verfallen",
-   "summary": "Wasserschäden, marode Gebäude: An vielen deutschen Hochschulen ist der Sanierungsstau enorm. Um die Bausubstanz zu erhalten und dringend notwendige Reparaturen durchzuführen, fehlen Milliarden.",
-   "link": "https://www.zdfheute.de/video/frontal/kaputtgespart-universitaeten-marode-gebaeude-100.html",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "nachgehakt: Drohnenangriff Flughafen Leipzig",
-   "summary": "\"frontal\" berichtete über den gescheiterten Drohnenangriff auf den Leipziger Flughafen. Jetzt führen unsere Recherchen zu einem der mutmaßlichen Attentäter in die lettische Hauptstadt Riga.",
-   "link": "https://www.zdfheute.de/video/frontal/nachgehakt-drohnenangriff-flughafen-leipzig-halle-spur-nach-riga-100.html",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Toll! Jugend verschMerzt",
-   "summary": "Wenn das mal gut geht. Friedrich Merz besucht die Parteijugend. Das ist spannend, denn beim letzten Treff mit der Jungen Union gab´s noch richtig Zoff. Stichwort Rente.",
-   "link": "https://www.zdfheute.de/video/frontal/merz-junge-union-102.html",
-   "published": "2026-10-20T19:00:00+00:00",
-   "first_seen": "2026-10-21T22:53:51.980075+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Leistungsbilanzüberschuss: So hoch fällt der Leistungsbilanzüberschuss Deutschlands aus",
-   "summary": "Deutschland exportiert mehr, als es importiert. Ob dieser Leistungsbilanzüberschuss gut oder schlecht ist, hängt von Ursache und Dauer ab.",
-   "link": "https://www.wiwo.de/politik/konjunktur/leistungsbilanzueberschuss-erklaerung-ursachen-und-chart/100261939.html",
-   "published": "2026-10-20T18:48:44+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Exportüberschuss: So hoch fällt der Exportüberschuss Deutschlands 2026 aus",
-   "summary": "Deutschland verkauft mehr Waren ins Ausland, als es einkauft. Ob dieser Handelsbilanzüberschuss gut oder schlecht ist, hängt von Ursache und Dauer ab. Ein Überblick.",
-   "link": "https://www.wiwo.de/politik/konjunktur/handelsbilanzueberschuss-2026-erklaerung-ursachen-und-chart/100261784.html",
-   "published": "2026-10-20T18:48:11+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Preisfrage: So viel Marge steckt in einem Selbstbräuner",
-   "summary": "Mit Selbstbräunungsmitteln lässt sich der Sommerteint auch an trüben Herbsttagen erhalten – ohne schädliche Strahlenbelastung. Hersteller und Händler verdienen gut daran.",
-   "link": "https://www.wiwo.de/unternehmen/handel/selbstbraeuner-so-viel-marge-steckt-in-den-kosmetika/100261630.html",
-   "published": "2026-10-20T18:46:04+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Dortmund müht sich zum Sieg bei Sabah FK",
-   "summary": "Borussia Dortmund hat sich in Baku zu einem Sieg gegen Sabah FK gemüht. Beim knappen Erfolg gegen den Außenseiter zeigte der BVB eine durchwachsene Leistung.",
-   "link": "https://www.zdfheute.de/sport/fussball-champions-league/fussball-champions-league-sabah-fk-borussia-dortmund-spieltag-drei-100.html",
-   "published": "2026-10-20T18:35:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Sportartikel: „Großartiges Quartal“ – Adidas erwartet dank Zollerstattung mehr Gewinn",
-   "summary": "Während der Konkurrent Nike einen Gewinnrückgang erwartet, rechnet Adidas mit höheren Umsätzen und Gewinnen. Die Aktie profitiert.",
-   "link": "https://www.wiwo.de/unternehmen/handel/grossartiges-quartal-adidas-erwartet-dank-zollerstattung-mehr-gewinn/100263719.html",
-   "published": "2026-10-20T18:30:27+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Quartalszahlen: Deutsche Börse hebt dank höherer Zinsen Ziele an",
-   "summary": "Die Börse erwartet auch höhere Gewinne. In den meisten Geschäftsbereichen wachsen die Umsätze um mehr als zehn Prozent an.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/quartalszahlen-deutsche-boerse-hebt-dank-hoeherer-zinsen-ziele-an/100263718.html",
-   "published": "2026-10-20T18:24:17+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt",
-   "summary": "Pierre Anjolras gehört zu den Gästen des Investitionsgipfels in Berlin. Hier erklärt der Chef des französischen Konzerns Vinci, was er am Standort Deutschland schätzt – und wie die Krawalle in Frankreich verhindert werden könnten.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/investitionen-was-vinci-chef-pierre-anjolras-am-standort-deutschland-schaetzt-a-883801b8-7453-4b01-9f8b-2842d86d844c#ref=rss",
-   "published": "2026-10-20T18:23:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: „Die folgenreichste Wirkung seiner Präsidentschaft“: Trumps diabolischer Pakt mit dem Silicon Valley",
-   "summary": "Die Tech-Fürsten stehen dem US-Präsidenten so nah wie nie – dabei diktiert Trump die Bedingungen. Zwei Wochen vor den Kongresswahlen wächst vor allem auf einer Seite das Risiko.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/usa-donald-trumps-diabolischer-pakt-mit-dem-silicon-valley/100262339.html",
-   "published": "2026-10-20T18:03:55+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "EU rüstet sich für Wettlauf um die Arktis",
-   "summary": "Die Arktis könnte die nächste Konfliktzone der Weltmächte werden. Die Europäer wollen dabei nicht länger zuschauen - wie sie planen, ihre Präsenz auszubauen.",
-   "link": "https://www.zdfheute.de/politik/ausland/eu-arktis-nordpol-konflikt-100.html",
-   "published": "2026-10-20T18:01:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Sondierungsergebnis in Berlin: Ist die Vergesellschaftung von Wohnungen eine gute Idee?",
-   "summary": "Linke, Grüne und SPD wollen 160.000 Wohnungen sozialisieren. Das ist umstritten: politisch, juristisch, finanziell. Ein Pro und Contra. mehr...",
-   "link": "https://taz.de/Sondierungsergebnis-Ist-die-Vergesellschaftung-von-Wohnungen-eine-gute-Idee/!6223038/",
-   "published": "2026-10-20T17:57:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Neuer Landtag von Mecklenburg-Vorpommern: Schwerin wählt nach Plan",
-   "summary": "Bei der Konstituierung des Landtags von Mecklenburg-Vorpommern gab es keinen Eklat wie in Magdeburg. Aber auch hier wird deutlich, wie polarisiert das Land ist. mehr...",
-   "link": "https://taz.de/Neuer-Landtag-von-Mecklenburg-Vorpommern/!6222956/",
-   "published": "2026-10-20T17:57:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Wirtschaft vor acht vom 20.10.2026",
-   "summary": "Wirtschaft vor acht vom 20.10.2026",
-   "link": "https://www.tagesschau.de/video/video-1669678.html",
-   "published": "2026-10-20T17:56:23+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Wärmepumpe schlägt Gasheizung: Klimafreundliches Heizen ist günstiger als fossiles",
-   "summary": "Auch für ältere unsanierte Häuser lohnt sich der Einbau einer Wärmepumpe. Sie ist billiger als eine Gasheizung, zeigt eine Studie im Auftrag des WWF. mehr...",
-   "link": "https://taz.de/Studie-zeigt-Klimafreundliches-Heizen-ist-guenstiger-als-fossiles/!6222896/",
-   "published": "2026-10-20T17:56:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Neue Intendanz Schauspielhaus Düsseldorf: Kleist ist sein Lieblingsautor",
-   "summary": "Am Düsseldorfer Schauspielhaus gelingt dem neuen Intendanten Andreas Karlaganis ein imponierender Auftakt. Er setzt auf Experiment und auf Kontinuität. mehr...",
-   "link": "https://taz.de/Neue-Intendanz-Schauspielhaus-Duesseldorf/!6222831/",
-   "published": "2026-10-20T17:55:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "AfD-Kulturpolitik in Sachsen-Anhalt: Mit der Kornblume am Revers",
-   "summary": "In Sachsen-Anhalt arbeitet die AfD an einer Romantik-Doktrin. Das Novalis-Zentrum in Oberwiederstedt wehrt sich gegen eine völkische Vereinnahmung. mehr...",
-   "link": "https://taz.de/AfD-Kulturpolitik-in-Sachsen-Anhalt/!6218503/",
-   "published": "2026-10-20T17:54:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Antisemitismus in der Jungen Union: Gegen die eigene Brandmauer gerannt",
-   "summary": "Die JU verortete Judenhass zuletzt vor allem bei der Linkspartei. Nun fällt ein eigenes Mitglied mit antisemitischen und sexistischen Kommentaren auf. mehr...",
-   "link": "https://taz.de/Junge-Union-Mitglied-faellt-mit-antisemitischen-und-sexistischen-Kommentaren-auf/!6222959/",
-   "published": "2026-10-20T17:53:00+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-   "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M.…",
-   "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
-   "published": "2026-10-20T17:49:19+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": false
   }
  ]
 }

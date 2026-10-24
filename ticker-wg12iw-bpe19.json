@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-24T05:13:24.628006+00:00",
+ "updated": "2026-10-24T09:59:29.956006+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Deutsche Konjunktur: Hoffnung für unsere Exporteure",
+   "summary": "Das Exportklima hellt sich leicht auf. Fachleute sehen allerdings noch keine echte Trendwende. Die Hoffnung liegt auf einem weltweiten Aufschwung.",
+   "link": "https://www.wiwo.de/politik/konjunktur/deutsche-konjunktur-hoffnung-fuer-unsere-exporteure/100259030.html",
+   "published": "2026-10-24T07:52:24+00:00",
+   "first_seen": "2026-10-24T09:59:29.956006+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Podcast Löhr & Pennekamp: Populismus von links",
@@ -432,33 +441,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/it-medien/streamingdienst-netflix-wachstum-schwaecht-sich-weiter-ab-verhaltener-ausblick/100263733.html",
    "published": "2026-10-20T21:28:08+00:00",
    "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Video-Streaming: Netflix wächst langsamer - Aktie fällt",
-   "summary": "Netflix ist die klare Nummer eins beim Videostreaming - doch das Wachstum lässt nach. Jetzt will die Firma das Ruder herumreißen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/video-streaming-netflix-waechst-langsamer-aktie-faellt/100263737.html",
-   "published": "2026-10-20T21:10:28+00:00",
-   "first_seen": "2026-10-21T00:14:09.489988+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Streamingdienst: Netflix überzeugt die Börse nicht",
-   "summary": "Personalabbau und Veränderungen im Top-Management: Der Streamingdienst erlebt unruhige Zeiten. Jetzt meldet er für das vergangene Quartal eine Abschwächung seines Wachstums.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quartalszahlen-netflix-ueberzeugt-die-boerse-nicht-201606599.html",
-   "published": "2026-10-20T20:46:51+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Exportüberschuss: So hoch fällt der Exportüberschuss Deutschlands 2026 aus",
-   "summary": "Deutschland verkauft mehr Waren ins Ausland, als es einkauft. Ob dieser Handelsbilanzüberschuss gut oder schlecht ist, hängt von Ursache und Dauer ab. Ein Überblick.",
-   "link": "https://www.wiwo.de/politik/konjunktur/handelsbilanzueberschuss-2026-erklaerung-ursachen-und-chart/100261784.html",
-   "published": "2026-10-20T18:48:11+00:00",
-   "first_seen": "2026-10-20T21:00:26.346065+00:00",
    "paywall": true
   }
  ]
