@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:16:25.212438+00:00",
+ "updated": "2026-10-25T00:41:24.360964+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -8,6 +8,87 @@
    "link": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
    "published": "2026-12-12T13:29:00+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Präsidentenwahl: Vor Stichwahl: Lula und Bolsonaro kämpfen um letzte Stimmen",
+   "summary": "Einen Tag vor der Stichwahl in Brasilien haben Lula und Flávio Bolsonaro noch einmal Tausende Anhänger mobilisiert. Es dürfte ein enges Rennen werden - Umfragen sehen beide nahezu gleichauf.",
+   "link": "https://www.handelsblatt.com/politik/international/praesidentenwahl-vor-stichwahl-lula-und-bolsonaro-kaempfen-um-letzte-stimmen/100264721.html",
+   "published": "2026-10-25T00:21:03+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Ryanair: Ryanair bietet deutlich weniger Verbindungen am BER an",
+   "summary": "Zwölf Ziele weniger fliegt Ryanair ab heute vom Hauptstadtflughafen an. Die Passagierzahlen am BER liegen nicht nur deshalb deutlich unter den Erwartungen.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/ryanair-ber-fluege-streichungen-winterflugplan-berlin",
+   "published": "2026-10-24T23:24:49+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Antonelli startet in Texas von der Pole",
+   "summary": "Die Formel 1: Das Wichtigste der Rennserie in Bildern.",
+   "link": "https://www.zdfheute.de/sport/formel-1-saison-2026-100.html",
+   "published": "2026-10-24T22:47:00+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Trump hat Stimme für Midterms abgegeben",
+   "summary": "25 Milliarden Dollar Strafe für Meta im Cambridge-Analytica-Skandal +++ Justizministerium prüft Vorwürfe gegen Lewandowski +++ Kanada untersagt Diplomaten Kontakte zu US-Wahlkandidaten +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-hat-stimme-fuer-midterms-abgegeben/29669594.html",
+   "published": "2026-10-24T22:39:00+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Demonstrationen: Mindestens 1.000 Festnahmen nach Protesten in Frankreich",
+   "summary": "In Frankreich gehen Hunderttausende Menschen friedlich auf die Straßen. Es gibt aber auch wieder Gewalt - trotz eines Großaufgebots der Polizei. Die Bilanz ist noch unvollständig.",
+   "link": "https://www.handelsblatt.com/politik/international/demonstrationen-mindestens-1000-festnahmen-nach-protesten-in-frankreich/100264717.html",
+   "published": "2026-10-24T22:36:36+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Füllkrug reagiert gelassen auf Klopp-Aussage",
+   "summary": "Niclas Füllkrug trifft bei Werder am laufenden Band. Auf die jüngste Einlassung von Bundestrainer Jürgen Klopp zu einem möglichen DFB-Comeback reagiert er gelassen.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-das-aktuelle-sportstudio-gast-niclas-fuellkrug-100.html",
+   "published": "2026-10-24T22:29:00+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Parlamentswahlen: Er kam persönlich: Trump hat Stimme für Midterms abgegeben",
+   "summary": "Er spricht sich gegen Briefwahl aus, machte davon aber schon selbst Gebrauch. Vor den Parlamentswahlen wählt Donald Trump einen anderen Weg.",
+   "link": "https://www.handelsblatt.com/politik/international/us-parlamentswahlen-er-kam-persoenlich-trump-hat-stimme-fuer-midterms-abgegeben/100264714.html",
+   "published": "2026-10-24T22:28:51+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftfahrt: Ryanair streicht Angebot am BER deutlich zusammen",
+   "summary": "Ryanair nimmt zum Winterflugplan zwölf Verbindungen am BER aus dem Angebot. Für sechs Ziele gibt es künftig gar keine Direktverbindung mehr. Der Standort in Schönefeld ist nicht allein betroffen.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/luftfahrt-ryanair-streicht-angebot-am-ber-deutlich-zusammen/100264711.html",
+   "published": "2026-10-24T22:21:52+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Flugreisen: Ryanair streicht Angebot am BER deutlich zusammen",
+   "summary": "Ryanair nimmt zum Winterflugplan zwölf Verbindungen am BER aus dem Angebot. Für sechs Ziele gibt es künftig gar keine Direktverbindung mehr. Der Standort in Schönefeld ist nicht allein betroffen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/flugreisen-ryanair-streicht-angebot-am-ber-deutlich-zusammen/100264712.html",
+   "published": "2026-10-24T22:10:04+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
    "paywall": true
   },
   {
@@ -440,6 +521,15 @@
    "link": "https://www.handelsblatt.com/politik/international/frankreich-und-italien-vereinzelte-ausschreitungen-bei-protesten-polizei-im-grosseinsatz/100264699.html",
    "published": "2026-10-24T17:47:53+00:00",
    "first_seen": "2026-10-24T19:58:57.516820+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Frankreich und Italien: Ausschreitungen bei Protesten – Mindestens 1000 Festnahmen",
+   "summary": "70.000 Sicherheitskräfte sind in Frankreich im Einsatz. In Paris kam es zu vereinzelten Ausschreitungen, auch in Italien eskalierten Proteste. Die Behörden reagieren mit einem Großaufgebot.",
+   "link": "https://www.handelsblatt.com/politik/international/frankreich-und-italien-ausschreitungen-bei-protesten-mindestens-1000-festnahmen/100264699.html",
+   "published": "2026-10-24T17:47:53+00:00",
+   "first_seen": "2026-10-25T00:41:24.360964+00:00",
    "paywall": true
   },
   {
@@ -13408,96 +13498,6 @@
    "summary": "Vier Kläger halten den alten Schufa-Score für intransparent und nicht nachvollziehbar. Der jüngsten Einschätzung des OLG Dresden stellt sich der BGH nun entgegen.",
    "link": "https://www.handelsblatt.com/finanzen/steuern-recht/recht/schufa-auskunft-ueber-alten-score-bgh-hebt-urteile-auf/100263852.html",
    "published": "2026-10-21T09:03:35+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Indischer Politiker über Massenproteste: „Das System lässt junge Menschen im Stich“",
-   "summary": "Indiens Kakerlakenbewegung bekämpft die Wahlkommission als Instrument der Regierung von Narendra Modi, sagt der Oppositionspolitiker Shashi Tharoor. mehr...",
-   "link": "https://taz.de/Kakerlakenbewegung-in-Indien-Das-System-laesst-junge-Menschen-im-Stich/!6222829/",
-   "published": "2026-10-21T09:02:00+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Beratung: M&A-Beratung Saxenhammer will Umsatz in fünf Jahren verdoppeln",
-   "summary": "Saxenhammer zählt zu den Top zehn M A-Boutiqueberatungen für den Mittelstand in Deutschland. Jetzt will das Unternehmen weiter expandieren, auch durch Zukäufe.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/beratung-ma-beratung-saxenhammer-will-umsatz-in-fuenf-jahren-verdoppeln/100262835.html",
-   "published": "2026-10-21T09:00:29+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
-   "summary": "Internationale Sanktionen gegen das iranische Regime erschweren den Zahlungsverkehr. Deshalb unterhalten die Mullahs ein Netzwerk aus Hunderten Tarnfirmen. Nach Recherchen von Report Mainz und dem Spiegel wollten sie eine Bank in Bayern…",
-   "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html",
-   "published": "2026-10-21T09:00:03+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Die Bergretter\"-Star Luise Bähr hört auf",
-   "summary": "Nach zwölf Jahren verlässt Luise Bähr \"Die Bergretter\". Bei ihrem letzten Flug über den Dachstein wird ihr richtig bewusst, dass ihre Zeit als Notärztin Katharina Strasser endet.",
-   "link": "https://www.zdfheute.de/panorama/prominente/bergretter-luise-baehr-abschied-100.html",
-   "published": "2026-10-21T09:00:00+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wer lebt wie in der Großstadt?",
-   "summary": "Der demografische Wandel steht häufig im Zusammenhang mit einer alternden Bevölkerung. Doch in den Großstädten zeichnet sich ein anderes Bild.",
-   "link": "https://www.zdfheute.de/video/politik-bevoelkerung-demografie-100.html",
-   "published": "2026-10-21T09:00:00+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Frankreich: Zweite Nacht Ausgangssperre: Angespannte Ruhe in Paris",
-   "summary": "Nach den Unruhen in Frankreich ist der Place de la République in der Nacht zu Mittwoch abgeriegelt geblieben. Polizeikräfte patrouillierten, ein Hubschrauber kreiste über Paris. Doch an der Wirksamkeit der Ausgangssperre gibt es auch…",
-   "link": "https://www.handelsblatt.com/video/politik/frankreich-zweite-nacht-ausgangssperre-angespannte-ruhe-in-paris/100263858.html",
-   "published": "2026-10-21T08:55:30+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Luftverkehr: Ryanair-Chef rechnet mit Rekordanstieg der Flugpreise in Europa",
-   "summary": "Laut Michael O'Leary könnten Flugtickets in Europa im Jahr 2027 um bis zu 20 Prozent teurer werden. Als Gründe nannte der Ryanair-Chef höhere Kerosinkosten und ein geringeres Sitzplatzangebot.",
-   "link": "https://www.handelsblatt.com/video/unternehmen/luftverkehr-ryanair-chef-rechnet-mit-rekordanstieg-der-flugpreise-in-europa/100263857.html",
-   "published": "2026-10-21T08:55:25+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Führungskräfte: Nach diesen Profilen suchen deutsche Waffenhersteller",
-   "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
-   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-diese-fachkraefte-haben-gute-chancen-in-der-ruestungsindustrie/100211178.html",
-   "published": "2026-10-21T08:51:00+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aufenthaltsrecht: Niedrige Steuern, hohe Lebensqualität – Diese Länder sind attraktiv für Auswanderer",
-   "summary": "Wer Deutschland verlässt, kann oft viel Geld sparen – zumindest, wenn er weiß, wohin. Einige Länder bieten clevere Sonderregeln für Zuwanderer – und ein Leben mit mehr Netto vom Brutto.",
-   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/rentnerparadiese-in-diesen-laendern-profitieren-auswanderer-von-steuervorteilen/100133033.html",
-   "published": "2026-10-21T08:51:00+00:00",
-   "first_seen": "2026-10-21T10:50:34.131304+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "65 Jahre Anwerbeabkommen: Bundeskanzler Merz unterstreicht Bedeutung türkischer Migration",
-   "summary": "Im Zuge des Anwerbeabkommens kamen in den 60er Jahren fast 900.000 Arbeitskräfte aus der Türkei nach Deutschland – viele blieben. Die Migration habe Deutschland „kulturell, wirtschaftlich, wissenschaftlich und kulinarisch“ bereichert,…",
-   "link": "https://www.handelsblatt.com/video/politik/65-jahre-anwerbeabkommen-bundeskanzler-merz-unterstreicht-bedeutung-tuerkischer-migration/100263854.html",
-   "published": "2026-10-21T08:49:38+00:00",
    "first_seen": "2026-10-21T10:50:34.131304+00:00",
    "paywall": true
   }
