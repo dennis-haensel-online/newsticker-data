@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-25T17:59:01.605344+00:00",
+ "updated": "2026-10-25T20:29:28.229989+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "KI-Roboter: Eine Ente verzückt die KI-Welt",
+   "summary": "Nvidia geht mit der Präsentation seiner neuen Miniroboter im Netz viral – und verzeichnet nun zahlreiche Vorbestellungen. Die sollen pünktlich im Advent ausgeliefert werden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-microducks-mini-roboterenten-loesen-bestellwelle-aus-201619041.html",
+   "published": "2026-10-25T20:03:36+00:00",
+   "first_seen": "2026-10-25T20:29:28.229989+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Netanjahu zeigt KI-Bild mit Atompilz",
+   "summary": "Kurz vor den Wahlen postet Netanjahu ein KI-Bild einer Atomexplosion über Tel Aviv. Er warnt vor einer Bedrohung durch den Iran und wirbt dafür, ihn und seine Partei zu wählen.",
+   "link": "https://www.zdfheute.de/video/politik-netanjahu-ki-bild-100.html",
+   "published": "2026-10-25T19:35:00+00:00",
+   "first_seen": "2026-10-25T20:29:28.229989+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Kommentar: Die KI-Transformation scheitert am Engpass Mensch",
@@ -882,24 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/starkes-ki-geschaeft-gewinnsprung-bei-nokia-aktie-legt-um-48-prozent-zu/100264108.html",
    "published": "2026-10-22T07:18:00+00:00",
    "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Tesla: Gewinn bricht im dritten Quartal ein, Umsatz stagniert",
-   "summary": "Das Autogeschäft bei Tesla schwächelt. Der Gewinn ist im dritten Quartal eingebrochen, der Umsatz stagniert. Chef Elon Musk sieht die Zukunft der Firma in selbstfahrenden Robotaxis und Robotern.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-gewinn-bricht-im-dritten-quartal-ein-umsatz-stagniert-a-cf4bcaca-f8fd-44cd-981c-3994b78480c0#ref=rss",
-   "published": "2026-10-22T05:49:00+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Vorbild Samsung: Erster Streik in Taiwans Chipindustrie",
-   "summary": "In Taiwan wollen Mitarbeiter des Halbleiterherstellers Micron stärker an den KI-Gewinnen beteiligt werden. Sie ermutigen hohe Bonus-Zahlungen, die Beschäftigte bei Samsung erkämpft haben.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vorbild-samsung-erster-streik-in-taiwans-chipindustrie-accg-201610516.html",
-   "published": "2026-10-22T05:38:48+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
    "paywall": true
   }
  ]
