@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-25T10:24:42.873920+00:00",
+ "updated": "2026-10-25T14:41:07.807678+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "„Prix Pascal“ für KI-Literatur: Ein Preis für die Superintelligenz",
+   "summary": "Der französische „Prix Pascal“ soll mit künstlicher Intelligenz verfasste Bücher auszeichnen. Doch das legitimiert Technologie, die Literatur bedroht. mehr...",
+   "link": "https://taz.de/Prix-Pascal-fuer-KI-Literatur/!6224084/",
+   "published": "2026-10-25T13:12:00+00:00",
+   "first_seen": "2026-10-25T14:41:07.807678+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Vision Zero\": Krebs besiegen durch KI?",
+   "summary": "Kann KI helfen, Krebs zu besiegen? Im Podcast \"Lanz+Precht\" erklärt Krebsforscherin Hanna Heikenwälder, wie \"Vision Zero\" Krebs-Todesfälle verhindern soll.",
+   "link": "https://www.zdfheute.de/video/krebstot-verhindern-therapie-video-100.html",
+   "published": "2026-10-25T09:57:00+00:00",
+   "first_seen": "2026-10-25T14:41:07.807678+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "IT-Sicherheit: Experte: Software-Schwachstellen bleiben länger ein Problem",
@@ -882,24 +900,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/industrie/bauunternehmen-wie-roboter-und-drohnen-die-branche-in-zukunft-veraendern-koennten/100257926.html",
    "published": "2026-10-22T02:06:28+00:00",
    "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Konkurrenz durch KI - US-Bildagentur Getty Images beantragt Insolvenz",
-   "summary": "Die US-Bildagentur Getty Images hat Insolvenz angemeldet. Das Unternehmen beantragte bei einem Konkursgericht im US-Bundesstaat Delaware ein entsprechendes Verfahren. Getty Images erklärte, die bereits geplante Restrukturierung könne nun…",
-   "link": "https://www.deutschlandfunk.de/us-bildagentur-getty-images-beantragt-insolvenz-106.html",
-   "published": "2026-10-21T21:33:21+00:00",
-   "first_seen": "2026-10-21T22:53:51.980075+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Meta investiert mindestens 135 Milliarden Dollar in KI",
-   "summary": "Facebook-Gründer Mark Zuckerberg lässt den Meta-Konzern gewaltige Summen in KI-Infrastruktur investieren. Das Geld dafür soll das boomende Werbegeschäft liefern.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-meta-investiert-mindestens-135-milliarden-dollar-in-ki/100264044.html",
-   "published": "2026-10-21T21:20:03+00:00",
-   "first_seen": "2026-10-21T22:53:51.980075+00:00",
    "paywall": true
   }
  ]

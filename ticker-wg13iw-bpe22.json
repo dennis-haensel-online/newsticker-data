@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-25T10:24:42.873920+00:00",
+ "updated": "2026-10-25T14:41:07.807678+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Neue Milliardenfabrik: Audis Gastgeschenk für Donald Trump",
+   "summary": "Um die Strafzölle zu umgehen, will Audi ein eigenes Werk in den USA bauen. Die Ankündigung und der Auftritt des Audi-Chefs auf offener Bühne mitten im Wahlkampf sind wie gemacht für den amerikanischen Präsidenten.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-plant-erstes-us-werk-trumps-wahlkampfgeschenk-aus-ingolstadt-accg-201618975.html",
+   "published": "2026-10-25T12:21:56+00:00",
+   "first_seen": "2026-10-25T14:41:07.807678+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Migration - Frontex soll zentrale \"EU-Abschiebeagentur\" werden",
@@ -36,6 +45,15 @@
    "link": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
    "published": "2026-10-25T03:47:00+00:00",
    "first_seen": "2026-10-25T05:31:03.464088+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "USA: Audi baut für vier Milliarden Dollar eigenes Werk in Georgia",
+   "summary": "Bislang importiert Audi alle seine Fahrzeuge in die USA und zahlt dafür hohe Zölle. Nun will der Konzern erstmals vor Ort produzieren. Ausgerechnet Donald Trump darf die Milliardeninvestition im Wahlkampf verkünden – zusammen mit dem…",
+   "link": "https://www.spiegel.de/wirtschaft/usa-audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-georgia-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
+   "published": "2026-10-25T03:47:00+00:00",
+   "first_seen": "2026-10-25T14:41:07.807678+00:00",
    "paywall": false
   },
   {
@@ -242,15 +260,6 @@
    "summary": "Auf dem Berlin Global Dialogue am Mittwoch betonte Bundeskanzler Friedrich Merz, die Lage mit China nicht eskalieren lassen zu wollen. Unfaire Praktiken sollten jedoch nicht unbeantwortet bleiben.",
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/friedrich-merz-kein-handelskrieg-mit-china-aber-klare-antwort-auf-unfaire-praktiken-201608072.html",
    "published": "2026-10-21T13:56:11+00:00",
-   "first_seen": "2026-10-21T15:44:32.741197+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Friedrich Merz: „Wir haben keinen Handelskrieg mit China, und wir wollen keinen“",
-   "summary": "Die Antwort auf die neue „Welle des Protektionismus“ könne nicht Abschottung sein, sagt der Kanzler. Aber Deutschland müsse bereit sein, die Wirtschaft „zu verteidigen“.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/friedrich-merz-wir-haben-keinen-handelskrieg-mit-china-und-wir-wollen-keinen/100263808.html",
-   "published": "2026-10-21T11:48:47+00:00",
    "first_seen": "2026-10-21T15:44:32.741197+00:00",
    "paywall": true
   }
