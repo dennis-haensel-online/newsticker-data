@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-25T14:41:07.807678+00:00",
+ "updated": "2026-10-25T17:59:01.605344+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Die KI-Transformation scheitert am Engpass Mensch",
+   "summary": "Unternehmen fragen sich, warum der KI-Effekt ausbleibt – und investieren weiter in leistungsfähige Modelle. Dabei liegt es nicht an der Technik, sondern am Menschen. Warum ändern wir das nicht?",
+   "link": "https://www.handelsblatt.com/meinung/kommentar-die-ki-transformation-scheitert-am-engpass-mensch/100264470.html",
+   "published": "2026-10-25T17:40:38+00:00",
+   "first_seen": "2026-10-25T17:59:01.605344+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Netanjahu postet KI-Bild von Atomexplosion in Israel",
+   "summary": "Regierungschef Netanjahu hat kurz vor der Wahl in Israel ein KI-Bild eines Atompilzes über Israel gepostet und vor Iran gewarnt. Oppositionspolitiker Eisenkot reagiert deutlich.",
+   "link": "https://www.zdfheute.de/politik/ausland/benjamin-netanjahu-israel-atombombe-bild-israel-100.html",
+   "published": "2026-10-25T16:21:00+00:00",
+   "first_seen": "2026-10-25T17:59:01.605344+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Frasers Group übernimmt bei Hugo Boss das Ruder",
+   "summary": "Open AI will Spitzen-KI ohne Internet trainieren +++ Verdi ruft zu Warnstreiks bei privaten Banken auf +++ Generali Deutschland will 800 Stellen abbauen +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-frasers-group-uebernimmt-bei-hugo-boss-das-ruder-faz-200452404.html",
+   "published": "2026-10-25T14:59:20+00:00",
+   "first_seen": "2026-10-25T17:59:01.605344+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Nvidia-Konferenz GTC: Und morgen die ganze Welt",
+   "summary": "Einst ging es um Zusatzhardware für Spiele-PCs, jetzt dominiert Nvidia mit seinen KI-Chips nicht nur die Rechenzentren, sondern dringt in mehr und mehr Branchen vor.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/nvidia-gtc-jensen-huang-ki-chips-kuenstliche-intelligenz-li.3568109",
+   "published": "2026-10-25T14:48:33+00:00",
+   "first_seen": "2026-10-25T17:59:01.605344+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Porsche: „KI könnte Bildschirme im Auto komplett ersetzen“",
+   "summary": "Teslas Roadster hebt mit Raketentechnik ab, Porsche setzt beim Mission S auf ein Retrodesign. Designchef Tobias Sühlmann über den neuen Supersportwagen.",
+   "link": "https://www.wiwo.de/unternehmen/auto/porsche-mission-s-warum-der-supersportler-bildschirme-verbannt/100263485.html",
+   "published": "2026-10-25T14:45:23+00:00",
+   "first_seen": "2026-10-25T17:59:01.605344+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "„Prix Pascal“ für KI-Literatur: Ein Preis für die Superintelligenz",
@@ -854,51 +899,6 @@
    "summary": "In Taiwan wollen Mitarbeiter des Halbleiterherstellers Micron stärker an den KI-Gewinnen beteiligt werden. Sie ermutigen hohe Bonus-Zahlungen, die Beschäftigte bei Samsung erkämpft haben.",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vorbild-samsung-erster-streik-in-taiwans-chipindustrie-accg-201610516.html",
    "published": "2026-10-22T05:38:48+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-   "summary": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-   "published": "2026-10-22T05:25:41+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
-   "summary": "Stammt dieser Text von einer Künstlichen Intelligenz? Aufschluss geben können Wasserzeichen, die KI-generierte Texte markieren. OpenAI hat das nun für ChatGPT angekündigt. Von Pauline Möhle und Leila Boucheligua.",
-   "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html",
-   "published": "2026-10-22T03:30:26+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Elektroautos: Musk schwärmt nach Tesla-Gewinneinbruch von Robotern",
-   "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Aktuell muss das Geld aber noch mit dem Verkauf von Elektroautos verdient werden - und da gab es zuletzt Rückgänge.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/elektroautos-musk-schwaermt-nach-tesla-gewinneinbruch-von-robotern/100264080.html",
-   "published": "2026-10-22T03:01:16+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Meta: Mark Zuckerbergs Knuddel-KI Muse beruhigt die Märkte",
-   "summary": "Metas Quartalszahlen und die neue Kuschel-KI des Konzerns haben die nervösen Investoren zunächst besänftigt. Aber die Unsicherheit bleibt, ob sich die Milliardeninvestitionen in die künstliche Intelligenz lohnen.",
-   "link": "https://www.spiegel.de/wirtschaft/meta-mark-zuckerbergs-knuddel-ki-muse-beruhigt-die-maerkte-a-d85ac8c2-bf56-4c27-b959-2bfa1f10a0dd#ref=rss",
-   "published": "2026-10-22T03:00:00+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bauwirtschaft: Roboter und Drohnen – „Die Baustelle der Zukunft wird attraktiver“",
-   "summary": "Die Baubranche gilt bei der Digitalisierung als träge. Das will das Construction Future Lab ändern. Ein Gespräch über Ressourcenverschwendung, Bauroboter und den Weg zu autonomen Baumaschinen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/bauunternehmen-wie-roboter-und-drohnen-die-branche-in-zukunft-veraendern-koennten/100257926.html",
-   "published": "2026-10-22T02:06:28+00:00",
    "first_seen": "2026-10-22T06:49:45.815548+00:00",
    "paywall": true
   }
