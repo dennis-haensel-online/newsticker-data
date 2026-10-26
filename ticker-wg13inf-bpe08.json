@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-26T00:54:38.302864+00:00",
+ "updated": "2026-10-26T05:36:13.580206+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Der Preis der Billigjagd: Europa geht die Elektronik aus",
+   "summary": "Fast die gesamte Elektronikproduktion befindet sich inzwischen in Übersee. Der Boom der Rechenzentren für die Künstliche Intelligenz legt offen, wie gefährlich das ist.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kommentar-der-preis-der-billigjagd-europa-geht-die-elektronik-aus/100263837.html",
+   "published": "2026-10-26T03:08:37+00:00",
+   "first_seen": "2026-10-26T05:36:13.580206+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Lieferkrise: Dieses elektronische Bauteil gefährdet Europas Industrie – „Tragweite bislang unterschätzt“",
+   "summary": "Leiterplatten waren nie ein Thema, nun werden sie zum Problem Nummer eins für Einkäufer. KI-Riesen kaufen die Fabriken in Asien leer, doch hierzulande ist die Produktion längst weggezogen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/lieferkrise-dieses-elektronische-bauteil-gefaehrdet-europas-industrie/100261099.html",
+   "published": "2026-10-26T02:59:18+00:00",
+   "first_seen": "2026-10-26T05:36:13.580206+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: KI von Anthropic umgeht offenbar Bezahlschranke für US-Wählerdaten",
+   "summary": "Frasers Group übernimmt bei Hugo Boss das Ruder +++ Open AI will Spitzen-KI ohne Internet trainieren +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ki-von-anthropic-umgeht-laut-medien-bezahlschranke-fuer-us-waehlerdaten-faz-200452404.html",
+   "published": "2026-10-26T01:20:00+00:00",
+   "first_seen": "2026-10-26T05:36:13.580206+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: SpaceX sichert sich 40 Milliarden für KI-Chips",
@@ -874,33 +901,6 @@
    "published": "2026-10-22T09:12:00+00:00",
    "first_seen": "2026-10-22T17:44:19.097338+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Start-up: DeepSeek sammelt offenbar 15 Milliarden Dollar ein",
-   "summary": "Das DeepSeek konnte anscheinend Anleger von sich überzeugen und sammelte Milliardenbeiträge ein. Das KI-Start-up verdoppelt damit sein ursprüngliches Ziel.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-start-up-deepseek-sammelt-offenbar-15-milliarden-dollar-ein/100264163.html",
-   "published": "2026-10-22T09:09:22+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Elektroautos: Tesla mit Gewinneinbruch und stagnierendem Umsatz",
-   "summary": "Elon Musk will Tesla auf Roboter und Robotaxis ausrichten. Das aktuelle Hauptgeschäft, der Verkauf von Elektroautos, leidet vorerst aber.",
-   "link": "https://www.wiwo.de/unternehmen/auto/elektroautos-tesla-mit-gewinneinbruch-und-stagnierendem-umsatz/100264041.html",
-   "published": "2026-10-22T07:39:00+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Software-Konzern: Von wegen KI-Krise – SAP fährt Rekordergebnis ein",
-   "summary": "Die Geschäfte des Softwareanbieters übertreffen im dritten Quartal bei mehreren Kennziffern die Erwartung – und sollen weiter auf Hochtouren laufen.",
-   "link": "https://www.wiwo.de/unternehmen/it/sap-aktie-nach-q3-zahlen-rekordumsatz-und-hoehere-prognose/100264104.html",
-   "published": "2026-10-22T07:31:40+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
   }
  ]
 }
