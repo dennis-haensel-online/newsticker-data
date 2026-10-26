@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-10-26T11:53:24.533891+00:00",
+ "updated": "2026-10-26T17:55:53.124913+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "KI-Entwickler Anthropic stellt Antrag für Börsengang",
+   "summary": "Anthropic will an die Börse: Das macht der KI-Riese mit einem Antrag bei der US-Börsenaufsicht offiziell. Schnelles Wachstum soll Anleger locken. Doch Sorgen trüben die Euphorie.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/anthropic-boerse-ki-kuenstliche-intelligenz-usa-antrag-aktie-100.html",
+   "published": "2026-10-26T16:56:00+00:00",
+   "first_seen": "2026-10-26T17:55:53.124913+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Wahlkampf: Auftritt bei Trump von Audi-Chef Döllner geplant? | Ifo: Unternehmer etwas optimistischer",
+   "summary": "Audi-Chef Döllner wird kritisiert für den Auftritt bei Trumps Wahlkampf-Rede. Wie kam es dazu? Und: die Daten zum neuen Ifo-Geschäftsklimaindex.",
+   "link": "https://www.handelsblatt.com/audio/today/today-war-der-auftritt-bei-trump-von-audi-chef-doellner-geplant/100265060.html",
+   "published": "2026-10-26T16:11:00+00:00",
+   "first_seen": "2026-10-26T17:55:53.124913+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "EZB: Duell um Nachfolge von Christine Lagarde geht in die heiße Phase",
+   "summary": "Ein Niederländer und ein Spanier konkurrieren um den mächtigsten Posten in der Euro-Zone. In Kürze dürfte die Entscheidung fallen – auch über Deutschlands künftige Rolle.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-duell-um-nachfolge-von-christine-lagarde-geht-in-die-heisse-phase/100264880.html",
+   "published": "2026-10-26T13:56:43+00:00",
+   "first_seen": "2026-10-26T17:55:53.124913+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Ifo-Index: Das Geschäftsklima hellt sich weiter auf",
+   "summary": "Die deutschen Unternehmen des verarbeitenden Gewerbes arbeiten sich langsam aus dem Tal hervor und erwarten ein besseres Exportgeschäft. Die Kapazitätsauslastung steigt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ifo-geschaeftsklimaindex-steigt-zum-sechsten-mal-in-folge-accg-201622214.html",
+   "published": "2026-10-26T13:23:53+00:00",
+   "first_seen": "2026-10-26T17:55:53.124913+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Konjunkturbelebung - Ifo-Index steigt sechstes Mal in Folge",
@@ -415,42 +451,6 @@
    "published": "2026-10-22T14:14:00+00:00",
    "first_seen": "2026-10-22T17:44:19.097338+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: Türkische Zentralbank senkt Leitzins nach längerer Pause",
-   "summary": "Zuvor hatte die Notenbank den Zinssatz bei den fünf vorangegangenen Sitzungen unverändert belassen. Die Inflationsrate verharrt unterdessen auf hohem Niveau.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-tuerkische-zentralbank-senkt-leitzins-nach-laengerer-pause/100264256.html",
-   "published": "2026-10-22T12:14:50+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - Ifo: Tankrabatt wirkt bei Benzin - bei Diesel aber nur teilweise",
-   "summary": "Der neue Tankrabatt kommt bei Benzin fast vollständig bei den Autofahrern an, bei ‌Diesel jedoch nur ⁠zum Teil. ⁠",
-   "link": "https://www.deutschlandfunk.de/ifo-tankrabatt-wirkt-bei-benzin-bei-diesel-aber-nur-teilweise-100.html",
-   "published": "2026-10-22T12:07:07+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
-   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
-   "link": "https://www.handelsblatt.com/karriere/karriere-welche-studiengaenge-lohnen-sich-noch-im-ki-zeitalter/100235558.html",
-   "published": "2026-10-22T11:06:00+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Arbeitsmarkt: Barclays-Bank streicht wegen KI-Investitionen Tausende Stellen",
-   "summary": "Die britische Bank Barclays baut bis Jahresende 5.000 Arbeitsplätze ab, betroffen sind vor allem Entwickler. Dies sei Ergebnis von KI-Investitionen, sagte der Bankchef.",
-   "link": "https://www.zeit.de/arbeit/2026-10/barclays-stellenabbau-grossbank-kuenstliche-intelligenz-privatkundengeschaeft-gxe",
-   "published": "2026-10-22T10:23:35+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
   }
  ]
 }

@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-26T11:53:24.533891+00:00",
+ "updated": "2026-10-26T17:55:53.124913+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Ifo-Index: Das Geschäftsklima hellt sich weiter auf",
+   "summary": "Die deutschen Unternehmen des verarbeitenden Gewerbes arbeiten sich langsam aus dem Tal hervor und erwarten ein besseres Exportgeschäft. Die Kapazitätsauslastung steigt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ifo-geschaeftsklimaindex-steigt-zum-sechsten-mal-in-folge-accg-201622214.html",
+   "published": "2026-10-26T13:23:53+00:00",
+   "first_seen": "2026-10-26T17:55:53.124913+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Weltverband IWF - Trotz Ukraine-Krieges: Russland darf Gewichtheben-WM ausrichten",
@@ -216,33 +225,6 @@
    "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-hohe-oelpreis-koennte-die-naechste-inflationswelle-ausloesen/100264252.html",
    "published": "2026-10-22T16:18:09+00:00",
    "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Migration - Italien und Spanien beenden gegenseitige Grenzkontrollen",
-   "summary": "Italien und Spanien wollen ihre gegenseitigen Grenzkontrollen nicht verlängern.",
-   "link": "https://www.deutschlandfunk.de/italien-und-spanien-beenden-gegenseitige-grenzkontrollen-100.html",
-   "published": "2026-10-22T12:07:07+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "SZ Salon-Gipfel: Deutschland soll wettbewerbsfähiger werden, aber wie?",
-   "summary": "Einst Exportweltmeister, heute in der Krise: Deutschland muss sich neu erfinden. Wie das Land aus dem Tief wieder herauskommen kann, darüber diskutieren Experten auf dem SZ Salon-Gipfel.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/wettbewerbsfaehigkeit-deutschland-unternehmen-transformation-sz-salon-gipfel-li.3566537",
-   "published": "2026-10-22T11:32:36+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
-   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
-   "link": "https://www.handelsblatt.com/politik/international/migration-diese-faktoren-machen-polen-fuer-deutsche-auswanderer-attraktiv/100249315.html",
-   "published": "2026-10-22T11:05:00+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
    "paywall": true
   }
  ]
