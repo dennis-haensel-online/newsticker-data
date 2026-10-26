@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-10-26T17:55:53.124913+00:00",
+ "updated": "2026-10-26T22:08:14.016371+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "\"Es ist möglich, eine radikale Rechte zu besiegen\"",
+   "summary": "Lula da Silva gewinnt die Stichwahl gegen Flávio Bolsonaro und stoppt den Vormarsch der Rechten in Lateinamerika. Der Verlierer spricht von Betrug - was das für das Land bedeutet.",
+   "link": "https://www.zdfheute.de/politik/ausland/brasilien-wahl-lula-bolsonaro-100.html",
+   "published": "2026-10-26T19:00:00+00:00",
+   "first_seen": "2026-10-26T22:08:14.016371+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Klima: EU-Kommission will Europa besser auf Klimafolgen vorbereiten",
@@ -171,15 +180,6 @@
    "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-der-nvidia-deal-und-was-eine-crime-doku-ueber-das-silicon-valley-verraet/100264386.html",
    "published": "2026-10-23T04:43:02+00:00",
    "first_seen": "2026-10-23T08:05:31.632656+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Software: Wie viel Geld verdient SAP mit Künstlicher Intelligenz, Herr Klein?",
-   "summary": "Viele Prototypen, wenig Umsatz: SAP hat das Portfolio auf KI ausgerichtet – aber in der Bilanz ist davon wenig zu sehen. Vorstandschef Christian Klein stellt mehr Transparenz in Aussicht.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/software-wie-viel-verdient-sap-mit-kuenstlicher-intelligenz-herr-klein/100262119.html",
-   "published": "2026-10-22T14:50:12+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
    "paywall": true
   }
  ]

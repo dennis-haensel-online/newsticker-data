@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-26T17:55:53.124913+00:00",
+ "updated": "2026-10-26T22:08:14.016371+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Anthropic: KI-Entwickler beantragt Börsengang in den USA",
+   "summary": "Der ChatGPT-Konkurrent Anthropic strebt an die Börse. Mit diesem Schritt will das Unternehmen das nötige Kapital für den teuren Wettlauf um leistungsfähigere KI-Modelle beschaffen.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-entwickler-beantragt-boersengang-in-den-usa-a-3ac6664b-b904-4a48-92c0-174f43d49312#ref=rss",
+   "published": "2026-10-26T20:36:00+00:00",
+   "first_seen": "2026-10-26T22:08:14.016371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Anthropic: Die wichtigsten Lehren aus dem Börsenprospekt von Anthropic",
+   "summary": "Anthropic plant den größten Börsengang der Geschichte. Die Geschäftszahlen des Unternehmens offenbaren viel über sein Selbstverständnis – und die größten Risiken von KI.",
+   "link": "https://www.zeit.de/geld/2026-10/anthropic-boerse-unternehmen-kuenstliche-intelligenz-risiken",
+   "published": "2026-10-26T20:20:29+00:00",
+   "first_seen": "2026-10-26T22:08:14.016371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Umsatz vervielfacht, Marge verdoppelt: Diese neuen Zahlen verrät der Börsenprospekt von Anthropic",
+   "summary": "Als erstes großes KI-Start-up steht Anthropic kurz vor dem Debüt am Aktienmarkt. Der nun veröffentlichte Börsenprospekt gibt überraschende Geschäftszahlen preis und benennt klar Risiken.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-diese-neuen-zahlen-verraet-der-boersenprospekt-von-anthropic/100264987.html",
+   "published": "2026-10-26T19:07:49+00:00",
+   "first_seen": "2026-10-26T22:08:14.016371+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "KI-Pionier: Anthropic beantragt Börsengang in den USA und offenbart teure Abhängigkeit",
@@ -476,51 +503,6 @@
    "summary": "Wieder will ein Finanzinvestor ein deutsches Unternehmen vom Parkett holen. Nie war eine Übernahme dieser Art so groß wie jene von Qiagen. Und: Es wird die zweitgrößte Übernahme durch Private Equity in Deutschland überhaupt. Was ist das…",
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/uebernahme-von-qiagen-lebt-es-sich-unbeschwerter-abseits-der-boerse-201611617.html",
    "published": "2026-10-22T16:25:46+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BASF-Evonik-Übernahme: „Alleine kleiner oder gemeinsam größer denken“ – BASF‑Chef wirbt für Übernahme",
-   "summary": "Markus Kamieth äußert sich zu den Kaufplänen des Unternehmens. Er versichert, betriebsbedingte Kündigungen bei Evonik bis 2032 auszuschließen.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/basf-evonik-uebernahme-alleine-kleiner-oder-gemeinsam-groesser-denken-basfchef-wirbt-fuer-uebernahme/100264322.html",
-   "published": "2026-10-22T14:52:19+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilität: „Neue Fahrzeugklasse“: Novus will Autofahrer für seine Lightbikes begeistern",
-   "summary": "Das Start-up gewinnt namhafte Investoren. Die Entwicklung des Elektrozweirads dauerte länger als geplant – doch jetzt haben die Macher ehrgeizige Pläne.",
-   "link": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-wie-lightbike-hersteller-novus-autofahrer-ueberzeugen-will-01/100261783.html",
-   "published": "2026-10-22T14:50:00+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Markus Kamieth: „Tarifverträge bleiben unangetastet“: BASF-Chef wirbt mit Jobgarantien für Evonik-Übernahme",
-   "summary": "Markus Kamieth äußert sich erstmals direkt zu den Kaufplänen des Konzerns. Der BASF-Chef versichert, betriebsbedingte Kündigungen bei Evonik bis 2032 auszuschließen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/markus-kamieth-basf-chef-wirbt-mit-jobgarantien-fuer-evonik-uebernahme/100264295.html",
-   "published": "2026-10-22T14:31:32+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Chemie: BASF wirbt mit Jobgarantien für Evonik-Übernahme",
-   "summary": "Der Chemiekonzern schließt betriebsbedingte Kündigungen bis 2032 aus. Evonik prüft derweil eine Übernahme des US-Rivalen Ashland.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/basf-evonik-uebernahme-chemieindustrie-jobgarantie-li.3567667",
-   "published": "2026-10-22T14:29:42+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Evonik muss zeigen, dass Eigenständigkeit mehr ist als Abwehr",
-   "summary": "Der geplante US-Zukauf stärkt Evoniks Argumente gegen eine Übernahme durch BASF – zeigt aber, wie teuer eine eigenständige Wachstumsstrategie werden kann.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-evonik-muss-zeigen-dass-eigenstaendigkeit-mehr-ist-als-abwehr/100264173.html",
-   "published": "2026-10-22T14:20:05+00:00",
    "first_seen": "2026-10-22T17:44:19.097338+00:00",
    "paywall": true
   }
