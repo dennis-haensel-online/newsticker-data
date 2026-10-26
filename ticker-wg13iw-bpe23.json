@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe23",
- "updated": "2026-10-26T05:36:13.580206+00:00",
+ "updated": "2026-10-26T11:53:24.533891+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+   "summary": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "published": "2026-10-26T10:19:27+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Neues Medium „Otter News“: „Wir brauchen auch Geschichten, die Mut machen“",
+   "summary": "Das Interesse für Klimawandel sinkt. Ausgerechnet jetzt will Daniel Drepper ein neues Medium für Klimaberichterstattung gründen. Kann das funktionieren? mehr...",
+   "link": "https://taz.de/Otter-News-ist-ein-neues-Medium-fuer-Klimaberichterstattung-Will-das-noch-jemand-lesen/!6219011/",
+   "published": "2026-10-26T10:19:00+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
+  },
   {
    "label": "taz",
    "title": "Klimapolitik der Bundesregierung: Herr Merz, bitte steigen Sie JETZT in Ihren Jet!",
@@ -135,15 +153,6 @@
    "link": "https://www.wiwo.de/finanzen/geldanlage/kupfer-uran-lithium-diese-fuenf-aktien-profitieren-vom-rohstoffmangel/100263881.html",
    "published": "2026-10-22T13:00:00+00:00",
    "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bauwirtschaft: Roboter und Drohnen – „Die Baustelle der Zukunft wird attraktiver“",
-   "summary": "Die Baubranche gilt bei der Digitalisierung als träge. Das will das Construction Future Lab ändern. Ein Gespräch über Ressourcenverschwendung, Bauroboter und den Weg zu autonomen Baumaschinen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/bauunternehmen-wie-roboter-und-drohnen-die-branche-in-zukunft-veraendern-koennten/100257926.html",
-   "published": "2026-10-22T02:06:28+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
    "paywall": true
   }
  ]

@@ -1,7 +1,16 @@
 {
  "id": "ik",
- "updated": "2026-10-26T05:36:13.580206+00:00",
+ "updated": "2026-10-26T11:53:24.533891+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Zeitungsinterview - Präsident des Zentralrats der Juden zweifelt an Abkehr der Berliner Linken vom Antisemitismus",
+   "summary": "Der Präsident des Zentralrats der Juden in Deutschland, Schuster, zweifelt an der Abkehr der Berliner Linken vom Antisemitismus.",
+   "link": "https://www.deutschlandfunk.de/praesident-des-zentralrats-der-juden-zweifelt-an-abkehr-der-berliner-linken-vom-antisemitismus-102.html",
+   "published": "2026-10-26T11:49:34+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Banaszak: Linke muss Probleme in den eigenen Reihen lösen",
@@ -18,6 +27,15 @@
    "link": "https://taz.de/Historikerin-ueber-Antisemitismus/!6222203/",
    "published": "2026-10-25T17:27:00+00:00",
    "first_seen": "2026-10-25T17:59:01.605344+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Jurist über Diversität in Wissenschaft: „Damals waren die Hörsäle weniger bunt“",
+   "summary": "Ganz unterschiedliche Lebenswege: Anatol Dutta und Matteo Fornasier versammeln in ihrem Buch 35 Migrationsgeschichten von Rechtswissenschaftler:innen. mehr...",
+   "link": "https://taz.de/Jurist-ueber-Diversitaet-in-Wissenschaft/!6222814/",
+   "published": "2026-10-25T14:00:00+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
    "paywall": false
   },
   {
@@ -100,24 +118,6 @@
    "published": "2026-10-22T11:05:00+00:00",
    "first_seen": "2026-10-22T12:37:46.025990+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Kölner Schau „Along the Color Line“: Wer sammelt und ausstellt, bestimmt Zentrum und Rand",
-   "summary": "Zu seinem 50-jährigen Jubiläum nimmt das Kölner Museum Ludwig seine berühmte Moderne-Sammlung rassismuskritisch in den Blick. Verläuft auch hier die Farbenlinie? mehr...",
-   "link": "https://taz.de/Koelner-Schau-Along-the-Color-Line/!6222786/",
-   "published": "2026-10-22T05:09:00+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie die US-Regierung die Frankreich-Proteste für sich nutzt",
-   "summary": "Brennende Autos, Plünderungen und Proteste: Die US-Regierung nutzt die Bilder von den Unruhen in Frankreich für Warnungen vor Migration und damit für ihre eigene Agenda.",
-   "link": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-usa-trump-vance-midterms-100.html",
-   "published": "2026-10-21T21:11:00+00:00",
-   "first_seen": "2026-10-21T22:53:51.980075+00:00",
-   "paywall": false
   }
  ]
 }

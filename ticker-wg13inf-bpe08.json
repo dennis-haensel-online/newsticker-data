@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-26T05:36:13.580206+00:00",
+ "updated": "2026-10-26T11:53:24.533891+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir können diese Agenten schon heute nicht kontrollieren“",
+   "summary": "Der US-Bestsellerautor Michael Pollan über Gefühle in KI, Gespräche mit Claude – und welche Teile seines Lebens er nie mit einem Chatbot teilen würde.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-medien-ki-und-permanente-ablenkung-vermuellen-unser-bewusstsein/100261781.html",
+   "published": "2026-10-26T10:40:00+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+   "summary": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "published": "2026-10-26T10:19:27+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Anlageideen: Die nächsten 25 Börsenstars",
+   "summary": "Von Biotech bis Robotik: Die Zukunft hat mehr zu bieten als KI. Wir stellen fünf Wachstumsbranchen vor – und jeweils fünf Aktien mit besonders viel Potenzial.",
+   "link": "https://www.wiwo.de/finanzen/boerse/wachstumschancen-auch-ohne-ki-das-sind-die-25-boersenstars-von-morgen/100263833.html",
+   "published": "2026-10-26T09:39:00+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Nvidia-CEO Jensen Huang: Der Tech-Superstar und sein gefährlicher Geld-Kreislauf",
+   "summary": "Nvidia verdient Milliarden am KI-Boom, der CEO wird gefeiert, wo immer er auftaucht. Weniger beachtet: Nvidia finanziert einen bedeutenden Teil dieses Hypes inzwischen selbst.",
+   "link": "https://www.wiwo.de/unternehmen/it/nvidia-und-der-ki-boom-warum-der-geld-kreislauf-riskant-wird/100264111.html",
+   "published": "2026-10-26T09:37:00+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Stimmung in Unternehmen hellt sich auf – Ifo-Index steigt",
+   "summary": "VW-Betriebsratschefin nennt Auftritt von Audi-Chef bei Trump „beschämend“ +++ Bis zu 12.000 Jobs bei Wegzug der UBS aus der Schweiz in Gefahr +++ KI von Anthropic umgeht offenbar Bezahlschranke für US-Wählerdaten +++ Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-stimmung-in-unternehmen-hellt-sich-auf-ifo-index-steigt-faz-200452404.html",
+   "published": "2026-10-26T09:28:42+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Porsche: „KI könnte Bildschirme im Auto komplett ersetzen“",
+   "summary": "Teslas Roadster hebt mit Raketentechnik ab, Porsche setzt beim Mission S auf ein Retrodesign. Designchef Tobias Sühlmann über den neuen Supersportwagen.",
+   "link": "https://www.wiwo.de/unternehmen/auto/porsche-mission-s-warum-der-superwagen-bildschirme-verbannt-und-auf-ki-setzt/100263485.html",
+   "published": "2026-10-26T09:24:00+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rückenwind für Trump-Kritiker: Wie KI-Rechenzentren zum Streitthema der US-Midterms wurden",
+   "summary": "Tech-Firmen wollen in den USA hunderte Rechenzentren bauen, Präsident Donald Trump feiert das als Weg in die KI-Zukunft, die Mehrheit der Amerikaner ist dagegen. Zu den Midterms kocht der Streit hoch.",
+   "link": "https://www.handelsblatt.com/politik/international/rueckenwind-fuer-trump-kritiker-wie-ki-rechenzentren-zum-streitthema-der-us-midterms-wurden/100264913.html",
+   "published": "2026-10-26T08:42:07+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Kommentar: Der Preis der Billigjagd: Europa geht die Elektronik aus",
@@ -838,69 +901,6 @@
    "published": "2026-10-22T10:43:36+00:00",
    "first_seen": "2026-10-22T12:37:46.025990+00:00",
    "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Sicherheitslücke im Netz: Warum das gesamte Internet so verwundbar ist",
-   "summary": "Aufgrund einer Sicherheitslücke in einer Programmiersprache sind derzeit viele Webseiten offline. Nun läuft das Wettrennen gegen die Angreifer – wegen KI in Hochgeschwindigkeit. Fragen und Antworten zu „PHP2Shell“.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/php2shell-sicherheitsluecke-cybersicherheit-hackerangriff-ki-faq-li.3567251",
-   "published": "2026-10-22T10:35:04+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Arbeitsmarkt: Barclays-Bank streicht wegen KI-Investitionen Tausende Stellen",
-   "summary": "Die britische Bank Barclays baut bis Jahresende 5.000 Arbeitsplätze ab, betroffen sind vor allem Entwickler. Dies sei Ergebnis von KI-Investitionen, sagte der Bankchef.",
-   "link": "https://www.zeit.de/arbeit/2026-10/barclays-stellenabbau-grossbank-kuenstliche-intelligenz-privatkundengeschaeft-gxe",
-   "published": "2026-10-22T10:23:35+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Stellenabbau bei Großbank: Barclays streicht nach KI-Investitionen 5.000 Jobs",
-   "summary": "Die Sorge vor Jobverlusten durch KI wächst: Eine britische Bank baut Tausende Stellen ab aufgrund höherer Effizienz durch den Einsatz neuer Technologien. mehr...",
-   "link": "https://taz.de/Grossbank-Barclays-streicht-nach-KI-Investitionen-5000-Jobs/!6223742/",
-   "published": "2026-10-22T10:17:00+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Coreweave-Anleihen: Was passiert, wenn der Bondmarkt den KI-Riesen misstraut?",
-   "summary": "Anleihen von KI-Unternehmen wie Coreweave und Oracle stecken auch in vielen Rentenfonds. Warum das zum Problem wird und was die Eisenbahn damit zu tun hat.",
-   "link": "https://www.wiwo.de/finanzen/boerse/coreweave-anleihen-was-folgt-wenn-der-bondmarkt-den-ki-riesen-misstraut/100263872.html",
-   "published": "2026-10-22T10:01:41+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Großbank Barclays streicht 5000 Jobs nach KI-Investitionen",
-   "summary": "Barclay baut Tausende Stellen ab und begründet das teilweise mit höherer Effizienz durch den Einsatz von KI.",
-   "link": "https://www.wiwo.de/unternehmen/banken/kuenstliche-intelligenz-nach-ki-investitionen-grossbank-barclays-streicht-5000-jobs/100264183.html",
-   "published": "2026-10-22T09:18:10+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Starshield-Drosselung: Nato-KI-System hat laut Palantir kein Kill-Switch",
-   "summary": "Die Drosselung des Satellitensystems Starshield in der Ukraine schürt in Europa Sorge vor Abhängigkeiten von US-Technologie. So auch bei der Nato, die ein KI-System von Palantir nutzt. Der Konzern beschwichtigt nun.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/starshield-drosselung-nato-ki-system-hat-laut-palantir-kein-kill-switch-a-c51a3bec-e940-491a-bddd-45dbad107de1#ref=rss",
-   "published": "2026-10-22T09:12:00+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Starshield-Drosselung: Nato-KI-System hat laut Palantir keinen Kill-Switch",
-   "summary": "Die Drosselung des Satellitensystems Starshield in der Ukraine schürt in Europa Sorge vor Abhängigkeiten von US-Technologie. So auch bei der Nato, die ein KI-System von Palantir nutzt. Der Konzern beschwichtigt nun.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/starshield-drosselung-nato-ki-system-hat-laut-palantir-keinen-kill-switch-a-c51a3bec-e940-491a-bddd-45dbad107de1#ref=rss",
-   "published": "2026-10-22T09:12:00+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": false
   }
  ]
 }

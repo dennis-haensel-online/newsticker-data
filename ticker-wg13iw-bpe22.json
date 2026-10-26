@@ -1,6 +1,6 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-26T05:36:13.580206+00:00",
+ "updated": "2026-10-26T11:53:24.533891+00:00",
  "items": [
   {
    "label": "DLF",
@@ -19,6 +19,24 @@
    "published": "2026-10-25T16:07:39+00:00",
    "first_seen": "2026-10-25T17:59:01.605344+00:00",
    "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+   "summary": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+   "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+   "published": "2026-10-25T15:04:51+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Jurist über Diversität in Wissenschaft: „Damals waren die Hörsäle weniger bunt“",
+   "summary": "Ganz unterschiedliche Lebenswege: Anatol Dutta und Matteo Fornasier versammeln in ihrem Buch 35 Migrationsgeschichten von Rechtswissenschaftler:innen. mehr...",
+   "link": "https://taz.de/Jurist-ueber-Diversitaet-in-Wissenschaft/!6222814/",
+   "published": "2026-10-25T14:00:00+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -226,33 +244,6 @@
    "published": "2026-10-22T11:05:00+00:00",
    "first_seen": "2026-10-22T12:37:46.025990+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Kanada gehen die Ahornsirup-Reserven aus",
-   "summary": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren gegeben, vor allem aus den USA.",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html",
-   "published": "2026-10-22T08:52:53+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Spitzenforschung: Europa lässt zu viele Patente verfallen",
-   "summary": "Das Europäische Patentamt warnt: Der Weg aus dem Labor in den Markt erfolgt zu langsam. Das schwächt die Wettbewerbsfähigkeit.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/europaeisches-patentamt-warnt-zu-viele-patente-verfallen-ungenutzt-accg-201608281.html",
-   "published": "2026-10-22T07:24:28+00:00",
-   "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie die US-Regierung die Frankreich-Proteste für sich nutzt",
-   "summary": "Brennende Autos, Plünderungen und Proteste: Die US-Regierung nutzt die Bilder von den Unruhen in Frankreich für Warnungen vor Migration und damit für ihre eigene Agenda.",
-   "link": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-usa-trump-vance-midterms-100.html",
-   "published": "2026-10-21T21:11:00+00:00",
-   "first_seen": "2026-10-21T22:53:51.980075+00:00",
-   "paywall": false
   }
  ]
 }

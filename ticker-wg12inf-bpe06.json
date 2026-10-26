@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-26T05:36:13.580206+00:00",
+ "updated": "2026-10-26T11:53:24.533891+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
+   "summary": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F.…",
+   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
+   "published": "2026-10-26T05:11:08+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Datenleck: „Putin und Assad lachen sich einen Ast“ – AfD reiste wohl mithilfe der Hisbollah und Russland nach Syrien",
@@ -73,42 +82,6 @@
    "published": "2026-10-22T11:50:29+00:00",
    "first_seen": "2026-10-22T12:37:46.025990+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Software: SAP erwartet mit starkem Cloudbestand etwas mehr – Aktie steigt",
-   "summary": "Eine hohe Nachfrage ließ die wichtige Cloud-Sparte von SAP wachsen. Der Softwarekonzern gab deswegen einen optimistischeren Ausblick.",
-   "link": "https://www.wiwo.de/unternehmen/it/software-sap-erwartet-mit-starkem-cloudbestand-etwas-mehr-aktie-steigt/100264092.html",
-   "published": "2026-10-22T04:19:49+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyberkriminalität: Cloudflare meldet Millionen von Angriffen auf PHP-Sicherheitslücke – Geheimdienste-Kontrolleur warnt",
-   "summary": "Die Internetfirma Cloudflare verzeichnet einen rasanten Anstieg von Angriffsversuchen. Sicherheitspolitiker sprechen von einem „Wendepunkt“. Experten sagen, was jetzt zu tun ist.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/php-sicherheitsluecke-cloudflare-meldet-millionen-von-angriffen/100264053.html",
-   "published": "2026-10-22T02:01:52+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Software: SAP steigert Umsatz und Gewinn – Aktie nachbörslich im Plus",
-   "summary": "Dank einer robusten Nachfrage hat sich das Wachstum des wichtigen Cloudgeschäfts im dritten Quartal wieder etwas beschleunigt. So gab der Softwarekonzern einen optimistischeren Ausblick.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/software-sap-steigert-umsatz-und-gewinn-aktie-nachboerslich-im-plus/100262108.html",
-   "published": "2026-10-21T21:02:42+00:00",
-   "first_seen": "2026-10-21T22:53:51.980075+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-   "summary": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
-   "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-   "published": "2026-10-21T20:47:20+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": false
   }
  ]
 }

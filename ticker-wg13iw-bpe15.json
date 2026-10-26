@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe15",
- "updated": "2026-10-26T05:36:13.580206+00:00",
+ "updated": "2026-10-26T11:53:24.533891+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+   "summary": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+   "published": "2026-10-26T10:19:27+00:00",
+   "first_seen": "2026-10-26T11:53:24.533891+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Kaputte WCs, bröckelnder Putz: Unis fehlt Geld",
@@ -99,33 +108,6 @@
    "link": "https://www.wiwo.de/finanzen/boerse/brenntag-aktie-neue-strategie-und-erholung-steigern-anlegerinteresse/100263603.html",
    "published": "2026-10-22T10:02:59+00:00",
    "first_seen": "2026-10-22T12:37:46.025990+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologiekonzern: Siemens-Chef Busch schwört das Topmanagement auf die neue Strategie ein",
-   "summary": "Bei einer Führungskräftetagung erhält der CEO Applaus, obwohl viele Teilnehmer ihren Cheftitel verlieren. Intern aber gibt es noch Verunsicherung, denn der Umbau hat gerade erst begonnen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-siemens-ceo-busch-schwoert-top-management-auf-neue-strategie-ein/100261774.html",
-   "published": "2026-10-22T05:32:00+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Meta: Meta-Chef Zuckerberg setzt neue Aktienstruktur im Unternehmen durch",
-   "summary": "In Kalifornien droht eine Abgabe auf Milliardenvermögen – und Mark Zuckerberg setzt vorsorglich auf Umstrukturierung. Rechtsstreite belasten die Meta-Quartalszahlen.",
-   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/mark-zuckerberg-meta-aktienstruktur-kalifornien-milliardaersteuer-gxe",
-   "published": "2026-10-22T05:20:41+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: Peek & Cloppenburg-Geschäftsführerin Freienstein – „Wir sehen uns als Gegenpol zu Zara und H&M“",
-   "summary": "Der Modehändler baut weitere Stellen ab und prüft alle Standorte. Doch mittelfristig sind neue Filialen geplant, sagt die Geschäftsführerin. Im Interview erklärt sie ihre Strategie.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/peek-cloppenburg-wir-sehen-uns-als-gegenpol-zu-zara-und-hm/100261839.html",
-   "published": "2026-10-22T02:04:20+00:00",
-   "first_seen": "2026-10-22T06:49:45.815548+00:00",
    "paywall": true
   }
  ]
