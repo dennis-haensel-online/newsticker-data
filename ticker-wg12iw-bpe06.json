@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-27T19:05:18.130792+00:00",
+ "updated": "2026-10-27T23:21:23.566867+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Sieben Gründer auf dem Weg zu Börsenmilliardären",
+   "summary": "Anthropic steht kurz vor dem Börsengang. Die Geschwister Amodei und ihre fünf Mitgründer haben ihre Macht in dem KI-Unternehmen zementiert.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-boersengang-wie-dario-und-daniela-amodei-die-macht-sichern-201625333.html",
+   "published": "2026-10-27T19:54:09+00:00",
+   "first_seen": "2026-10-27T23:21:23.566867+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Anthropic-Aktionäre müssen wissen, dass sie wenig zu sagen haben",
+   "summary": "Anthropic beschreibt sich in seinem Börsenprospekt als Unternehmen, das nicht nur seine eigenen wirtschaftlichen Interessen verfolgt. Aber dieses Selbstbild hat Risse bekommen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropics-boersenprospekt-hohes-ideal-mit-rissen-201625973.html",
+   "published": "2026-10-27T19:53:59+00:00",
+   "first_seen": "2026-10-27T23:21:23.566867+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "LBBW und Deutsche Bank: Schon vor der Fusion jagen Rivalen der Commerzbank die Firmenkunden ab",
@@ -18,6 +36,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-dow-jones-notiert-unveraendert-boeing-aktie-verliert-zweistellig/100265281.html",
    "published": "2026-10-27T17:07:01+00:00",
    "first_seen": "2026-10-27T19:05:18.130792+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Börsen: US-Börsen schließen durchmischt – Boeing-Aktie verliert zweistellig",
+   "summary": "Nach der Euphorie über den geplanten Börsengang von Anthropic lässt die Dynamik an den US-Märkten etwas nach. Anleger richten den Blick auf neue Unternehmenszahlen und den Nahen Osten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-usboersen-ueberwiegend-im-plus-boeing-aktie-verliert-zweistellig/100265281.html",
+   "published": "2026-10-27T17:07:01+00:00",
+   "first_seen": "2026-10-27T23:21:23.566867+00:00",
    "paywall": true
   },
   {
@@ -487,51 +514,6 @@
    "published": "2026-10-23T16:09:01+00:00",
    "first_seen": "2026-10-23T18:03:24.198880+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Auf wessen Seite stehen die USA im Ukraine-Krieg? – Übernahmefieber in der Chemie",
-   "summary": "Osteuropa-Experte Stefan Meister analysiert die Lage in der Ukraine. Und: Industriereporterin Isabelle Wermke spricht über BASF, Evonik und Ashland.",
-   "link": "https://www.handelsblatt.com/audio/today/today-auf-wessen-seite-stehen-die-usa-im-ukraine-krieg/100264586.html",
-   "published": "2026-10-23T15:38:34+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Übernahmepoker: Dieses US-Unternehmen könnte Evonik vor einer Übernahme durch BASF schützen",
-   "summary": "Evonik erwägt, in den USA zuzukaufen: Ashland, gut 3,3 Milliarden Dollar wert, steht unter dem Druck aktivistischer Investoren. Warum das Unternehmen ein attraktives Übernahmeziel ist.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/evonik-prueft-ashland-kauf-abwehr-gegen-uebernahme-durch-basf/100264549.html",
-   "published": "2026-10-23T15:32:15+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "US-Bildagentur: Getty Images meldet Insolvenz an",
-   "summary": "Hintergrund sind hohe Schulden und ein Wandel der Nachfrage hin zu KI-generierten Bildern.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/getty-images-insolvenz-ki-bilder-bildagentur-usa-li.3568165",
-   "published": "2026-10-23T14:36:27+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Kampf um Übernahme: BASF legt neues Angebot für Evonik vor",
-   "summary": "Deutschlands größter Chemiekonzern will seinen Konkurrenten übernehmen, war mit dem ersten Angebot aber abgeblitzt. Der BASF-Vorstand umwirbt Aktionäre und Mitarbeiter weiter – und ist bereit, mehr zu zahlen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-erhoeht-angebot-fuer-evonik-auf-ueber-elf-milliarden-euro-201615636.html",
-   "published": "2026-10-23T14:23:04+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Solarpionier insolvent: Sonnen-Untergang in Allgäu",
-   "summary": "Seit Jahren schreibt der Batteriehersteller und Ökostrompionier Sonnen GmbH rote Zahlen, nun meldet er Insolvenz an. Der Service für Bestandskunden bleibt erhalten. mehr...",
-   "link": "https://taz.de/Solarpionier-insolvent/!6224100/",
-   "published": "2026-10-23T14:13:00+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": false
   }
  ]
 }

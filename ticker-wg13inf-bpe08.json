@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-27T19:05:18.130792+00:00",
+ "updated": "2026-10-27T23:21:23.566867+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "+++ USA +++: Trump will Bezeichnung KI in US-Dokumenten verbieten",
+   "summary": "USA warnen EU wegen Milliardenkredits für Airbus +++ Umfrage: Trumps Beliebtheit steigt leicht – Demokraten bei Kongresswahlen vorn +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-trump-will-bezeichnung-ki-in-us-dokumenten-verbieten/29669594.html",
+   "published": "2026-10-27T20:41:00+00:00",
+   "first_seen": "2026-10-27T23:21:23.566867+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Machtprobe: Trump will Bezeichnung KI in US-Dokumenten verbieten",
+   "summary": "Donald Trump will schon seit Wochen den Namen „Superintelligenz“ statt der gewohnten Bezeichnung Künstliche Intelligenz durchboxen. Nun soll es Verbote geben.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/machtprobe-trump-will-bezeichnung-ki-in-us-dokumenten-verbieten/100265395.html",
+   "published": "2026-10-27T20:24:34+00:00",
+   "first_seen": "2026-10-27T23:21:23.566867+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Sieben Gründer auf dem Weg zu Börsenmilliardären",
+   "summary": "Anthropic steht kurz vor dem Börsengang. Die Geschwister Amodei und ihre fünf Mitgründer haben ihre Macht in dem KI-Unternehmen zementiert.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-boersengang-wie-dario-und-daniela-amodei-die-macht-sichern-201625333.html",
+   "published": "2026-10-27T19:54:09+00:00",
+   "first_seen": "2026-10-27T23:21:23.566867+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Anthropic-Aktionäre müssen wissen, dass sie wenig zu sagen haben",
+   "summary": "Anthropic beschreibt sich in seinem Börsenprospekt als Unternehmen, das nicht nur seine eigenen wirtschaftlichen Interessen verfolgt. Aber dieses Selbstbild hat Risse bekommen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropics-boersenprospekt-hohes-ideal-mit-rissen-201625973.html",
+   "published": "2026-10-27T19:53:59+00:00",
+   "first_seen": "2026-10-27T23:21:23.566867+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Märkte Insight: Das lange Warten auf die KI-Rendite",
@@ -765,42 +801,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren/100264618.html",
    "published": "2026-10-23T22:01:04+00:00",
    "first_seen": "2026-10-24T00:08:40.710573+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: US-Börsenexperte Koch: Ausverkauf bei KI-Werten geht weiter",
-   "summary": "Auch am Freitag bleiben die Sorgen bei den Anlegern über die kostspieligen Investitionen im KI-Sektor bestehen. Markus Koch erklärt, dass besonders steigende Finanzierungskosten den Techwerten Probleme machen.",
-   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ausverkauf-bei-ki-werten-geht-weiter/100264590.html",
-   "published": "2026-10-23T15:56:03+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: KI-Ausverkauf setzt sich fort",
-   "summary": "Das zentrale Problem bleibt die Finanzierung des KI-Booms. SpaceX bereitet eine Milliarden-Anleihe vor, während bei Meta über eine mögliche Kapitalerhöhung spekuliert wird.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-ki-ausverkauf-setzt-sich-fort/100264563.html",
-   "published": "2026-10-23T14:38:36+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "US-Bildagentur: Getty Images meldet Insolvenz an",
-   "summary": "Hintergrund sind hohe Schulden und ein Wandel der Nachfrage hin zu KI-generierten Bildern.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/getty-images-insolvenz-ki-bilder-bildagentur-usa-li.3568165",
-   "published": "2026-10-23T14:36:27+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "AfD-Leak: „Gravierende Verstöße“ – AfD drohen nach Datenleck Bußgelder",
-   "summary": "Die AfD erhielt Daten junger Wähler, die sich nach Handelsblatt-Recherchen jetzt ungeschützt im Netz finden. Nun hat sich der Landesdatenschutzbeauftragte eingeschaltet.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/afd-leak-tausende-meldedaten-im-leak-afd-drohen-bussgelder/100264345.html",
-   "published": "2026-10-23T14:14:49+00:00",
-   "first_seen": "2026-10-23T18:03:24.198880+00:00",
    "paywall": true
   }
  ]
