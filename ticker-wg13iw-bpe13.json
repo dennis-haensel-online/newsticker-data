@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe13",
- "updated": "2026-10-27T13:46:13.329079+00:00",
+ "updated": "2026-10-27T19:05:18.130792+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Rechtsstreit zwischen Facebook und Künast wird dem EuGH vorgelegt",
+   "summary": "Nach Milliarden-Abschreibung: Novartis-Chef verteidigt Zukäufe +++ BayernLB-Chef Winkelmeier geht vorzeitig +++ Porsche verkauft weniger Autos – aber Gewinn steigt +++ Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-rechtsstreit-zwischen-facebook-und-kuenast-wird-dem-eugh-vorgelegt-faz-200452404.html",
+   "published": "2026-10-27T15:51:00+00:00",
+   "first_seen": "2026-10-27T19:05:18.130792+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Warum immer mehr Kindern vorgelesen wird",
+   "summary": "Die Gute-Nacht-Geschichte liegt offenbar im Trend. Immer mehr Kindern wird vorgelesen. Ein Grund für den Anstieg dürften Förderprogramme sein, doch eines steht vor dem Aus.",
+   "link": "https://www.zdfheute.de/panorama/vorlesen-buch-kinder-vorlesemonitor-2026-100.html",
+   "published": "2026-10-27T15:18:00+00:00",
+   "first_seen": "2026-10-27T19:05:18.130792+00:00",
+   "paywall": false
+  },
   {
    "label": "tagesschau",
    "title": "Konsum und Investitionen: Wie Superreiche das Klima belasten",
@@ -190,15 +208,6 @@
    "published": "2026-10-23T15:56:03+00:00",
    "first_seen": "2026-10-23T18:03:24.198880+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Nasdaq kommt unter die Räder",
-   "summary": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
-   "published": "2026-10-23T13:16:51+00:00",
-   "first_seen": "2026-10-23T13:56:36.657749+00:00",
-   "paywall": false
   }
  ]
 }
