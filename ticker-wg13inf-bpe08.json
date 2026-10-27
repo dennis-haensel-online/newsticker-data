@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-26T22:08:14.016371+00:00",
+ "updated": "2026-10-27T01:43:35.095016+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Musik - Rechteinhaber von Elvis Presley verklagen das KI-Unternehmen Anthropic",
+   "summary": "Die Verwalter der Musikrechte von Elvis Presley haben das KI-Unternehmen Anthropic verklagt. Die Entwickler des Chatbots Claude sollen 274 Lieder des Sängers zum Training ihrer KI-Modelle genutzt haben, ohne zuvor die notwendige Zustimmung…",
+   "link": "https://www.deutschlandfunk.de/rechteinhaber-von-elvis-presley-verklagen-das-ki-unternehmen-anthropic-104.html",
+   "published": "2026-10-27T01:02:15+00:00",
+   "first_seen": "2026-10-27T01:43:35.095016+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Musik - Rechteinhaber von Elvis Presley verklagen das KI-Unternehmen Anthropic",
@@ -811,51 +820,6 @@
    "published": "2026-10-22T16:42:00+00:00",
    "first_seen": "2026-10-22T17:44:19.097338+00:00",
    "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
-   "summary": "Millionen Cyberattacken binnen weniger Stunden: Die PHP-Sicherheitslücke hat weltweit Besorgnis ausgelöst. Viele Internetseiten sind noch immer nicht erreichbar - und Kriminelle versuchen weiter, die Lücke auszunutzen.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
-   "published": "2026-10-22T16:27:55+00:00",
-   "first_seen": "2026-10-23T08:05:31.632656+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "PHP-SIcherheitslücken: „Das ist eine Schwachstellen-Apokalypse“",
-   "summary": "Sicherheitslücken in der beliebten Programmiersprache PHP bedrohen große Teile des Internets. Der IT-Sicherheitsfachmann Mirko Ross vergleicht das mit einem Katastrophenfall – und erklärt, welche Rolle KI spielt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jackpot-fuer-angreifer-it-fachmann-mirko-ross-ueber-die-php-schwachstelle-201611025.html",
-   "published": "2026-10-22T16:16:58+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Musterdepot – Zukunft: KI in der Medizin – welche Aktien jetzt interessant sind",
-   "summary": "Tech-Konzerne steigen ins Geschäft mit der Gesundheit ein. Aber auch kleine und mittelgroße Unternehmen bieten Anlegern nun Chancen – die Möglichkeit zur Streuung.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-ki-in-der-medizin-welche-aktien-jetzt-interessant-sind/100264124.html",
-   "published": "2026-10-22T15:33:01+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Tech-Investor Philipp Klöckner über KI-Sorgen an den Märkten: „Die große Gefahr ist das Finanzierungsproblem“",
-   "summary": "Wie lange lässt sich der kapitalintensive KI-Ausbau noch finanzieren? Tech-Investor Philipp Klöckner spricht im Podcast über nervöse Märkte und die kritischen Sicherheitslücken von PHP.",
-   "link": "https://www.handelsblatt.com/audio/today/today-tech-investor-philipp-kloeckner-ueber-ki-sorgen-an-den-maerkten-die-grosse-gefahr-ist-das-finanzierungsproblem/100264329.html",
-   "published": "2026-10-22T15:27:25+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Anlageideen: Die nächsten 25 Börsenstars",
-   "summary": "Von Biotech bis Robotik: Die Zukunft hat mehr zu bieten als KI. Wir stellen fünf Wachstumsbranchen vor – und jeweils fünf Aktien mit besonders viel Potenzial.",
-   "link": "https://www.wiwo.de/finanzen/boerse/wachstumschancen-auch-ohne-ki-das-sind-die-naechsten-25-boersenstars/100263833.html",
-   "published": "2026-10-22T15:23:00+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": true
   }
  ]
 }
