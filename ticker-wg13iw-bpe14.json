@@ -1,7 +1,34 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-10-27T07:03:02.857548+00:00",
+ "updated": "2026-10-27T13:46:13.329079+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Warenhäuser: Galeria-Vermietern droht finanzielles Desaster",
+   "summary": "Der Insolvenzverwalter will das Filialnetz deutlich reduzieren und kann die Mietverträge fristlos kündigen. Viele Vermieter stehen vor dem Nichts, jahrelanger Leerstand ist absehbar.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-vermietern-droht-finanzielles-desaster/100263295.html",
+   "published": "2026-10-27T12:57:37+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Insolvenz: Was jetzt auf Galeria-Kunden und Beschäftigte zukommt",
+   "summary": "Gutscheine, Arbeitsplätze und die Zukunft von mindestens 30 Filialen sind ungewiss. Was nach der vierten Insolvenz nun bei Galeria ansteht. Ein Überblick.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenz-2026-kunden-beschaeftigte-li.3564501",
+   "published": "2026-10-27T12:55:37+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Mercedes-Benz senkt Gewinnprognose",
+   "summary": "Der Stuttgarter Mercedes-Benz-Konzern ringt mit hohen Kosten und dem Gegenwind aus China. Das wird sich auch in der Bilanz niederschlagen. Die Prognosen korrigierte der Konzern nach unten.",
+   "link": "https://www.spiegel.de/wirtschaft/mercedes-benz-senkt-gewinnprognose-a-cb5ec453-eb34-4d98-99f0-133eef067c15#ref=rss",
+   "published": "2026-10-27T10:15:00+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Sensible Daten abgefragt - Kassenärzte warnen vor Betrug am Telefon - mit vorgetäuschten Anrufen des Patientenservice 116 117",
@@ -36,6 +63,15 @@
    "link": "https://www.zdfheute.de/politik/ausland/brasilien-wahl-lula-bolsonaro-100.html",
    "published": "2026-10-26T19:00:00+00:00",
    "first_seen": "2026-10-26T22:08:14.016371+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+   "summary": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus…",
+   "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+   "published": "2026-10-26T17:56:13+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
    "paywall": false
   },
   {
@@ -189,24 +225,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/dokument-fuer-einbuergerung-ermittler-decken-betrug-mit-sprachzertifikaten-auf/100264503.html",
    "published": "2026-10-23T10:51:10+00:00",
    "first_seen": "2026-10-23T13:56:36.657749+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Sorgen um Immobilienfonds: „Wir haben uns auf eine Galeria-Insolvenz vorbereitet“",
-   "summary": "Immobilienfonds geraten in Schwierigkeiten. Commerz-Real-Leiter Henning Koch spricht über Kapitalabflüsse, die Galeria-Insolvenz und die Enteignungsdebatte in Berlin.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/leiter-der-commerz-real-wir-haben-uns-auf-eine-galeria-insolvenz-vorbereitet-accg-201301154.html",
-   "published": "2026-10-23T10:12:00+00:00",
-   "first_seen": "2026-10-23T13:56:36.657749+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Meckel & Matthes: Der Nvidia-Deal und was eine Crime-Doku über das Silicon Valley verrät",
-   "summary": "Meckel & Matthes ziehen Bilanz nach dem Investitionsgipfel. Außerdem: Warum die Proteste in Frankreich politisches Versagen offenlegen. Und ein Film über eine Betrügerin fasziniert die USA.",
-   "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-der-nvidia-deal-und-was-eine-crime-doku-ueber-das-silicon-valley-verraet/100264386.html",
-   "published": "2026-10-23T04:43:02+00:00",
-   "first_seen": "2026-10-23T08:05:31.632656+00:00",
    "paywall": true
   }
  ]

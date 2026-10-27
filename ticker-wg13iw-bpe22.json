@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-27T07:03:02.857548+00:00",
+ "updated": "2026-10-27T13:46:13.329079+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Migration - EU will Frontex neu ausrichten: größere Rolle bei Abschiebungen",
+   "summary": "Die EU-Kommission will die europäische Grenzschutzagentur Frontex neu ausrichten.",
+   "link": "https://www.deutschlandfunk.de/eu-will-frontex-neu-ausrichten-groessere-rolle-bei-abschiebungen-100.html",
+   "published": "2026-10-27T13:16:31+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Asien-Reise - Kanzler Merz wirbt in Singapur für Freihandelsabkommen mit Ländern der Pazifik-Region",
+   "summary": "Bundeskanzler Merz hat sich bei einem Besuch in Singapur für Freihandelsabkommen zwischen der EU und den Mitgliedsstaaten der sogenannten Transpazifischen Partnerschaft eingesetzt. Beide Seiten würden mehr als ein Drittel des Welthandels…",
+   "link": "https://www.deutschlandfunk.de/kanzler-merz-wirbt-in-singapur-fuer-freihandelsabkommen-mit-laendern-der-pazifik-region-100.html",
+   "published": "2026-10-27T13:16:31+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "+++ US-Zollpolitik +++: USA und Kanada verhandeln laut Insidern über Lockerung von Zöllen",
@@ -10,6 +28,33 @@
    "published": "2026-10-27T13:00:00+00:00",
    "first_seen": "2026-10-27T01:43:35.095016+00:00",
    "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Welthandel: Merz wirbt für EU-Handelsabkommen mit Asean-Staaten",
+   "summary": "Der Kanzler hat sich bei seinem Besuch in Singapur für eine engere Zusammenarbeit zwischen Europa und Asien ausgesprochen. Die EU suche nach Partnerschaften, um den aktuellen Einschränkungen des globalen Handels entgegenzuwirken, sagte…",
+   "link": "https://www.handelsblatt.com/video/politik/welthandel-merz-wirbt-fuer-eu-handelsabkommen-mit-asean-staaten/100265315.html",
+   "published": "2026-10-27T12:25:13+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Exporterwartungen laut Ifo-Bericht so gut wie zuletzt vor Ukraine-Krieg",
+   "summary": "Im Vergleich zum Vormonat blickt die deutsche Industrie positiver auf die Exportaussichten. Auch die Autoindustrie rechnet wieder mit wachsenden Ausfuhren.",
+   "link": "https://www.wiwo.de/unternehmen/handel/ifo-deutsche-exporterwartungen-so-gut-wie-zuletzt-vor-ukraine-krieg/100265227.html",
+   "published": "2026-10-27T09:42:44+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Friedrich Merz wirbt in Asien für Freihandelsabkommen mit Pazifik-Region",
+   "summary": "Deutschland sucht die wirtschaftliche Unabhängigkeit von China. Freihandelsabkommen spielen dabei eine große Rolle. Das weiß auch Bundeskanzler Merz.",
+   "link": "https://www.spiegel.de/wirtschaft/welthandel-merz-wirbt-in-asien-fuer-freihandelsabkommen-mit-pazifik-region-a-cd130177-0f37-4627-aafd-23990d1d3d69#ref=rss",
+   "published": "2026-10-27T08:27:00+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": false
   },
   {
    "label": "WiWo",
@@ -225,42 +270,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutscher-export-erholt-sich-goldman-sachs-erklaert-die-gruende-accg-201612033.html",
    "published": "2026-10-23T10:20:34+00:00",
    "first_seen": "2026-10-23T13:56:36.657749+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Stahl: Weniger Importe aus Drittstaaten lassen Preise in Europa steigen",
-   "summary": "Die EU lässt seit Juli deutlich weniger Stahlimporte aus Drittstaaten zu. Seitdem ist der wichtige Werkstoff teurer geworden, zeigen erste Berechnungen. Künftig will Brüssel noch mehr Branchen vor Billigkonkurrenz abschirmen.",
-   "link": "https://www.spiegel.de/wirtschaft/stahl-weniger-importe-aus-drittstaaten-lassen-preise-in-europa-steigen-a-c674d3d4-898e-4202-a88d-3122d2f03b76#ref=rss",
-   "published": "2026-10-23T09:04:00+00:00",
-   "first_seen": "2026-10-23T13:56:36.657749+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Windenenergie: Trump stuft Import von Windkraftanlagen als Gefahr für US-Sicherheit ein",
-   "summary": "Windkraftanlagen aus dem Ausland gelten laut US-Präsident Trump als Gefahr für die nationale Sicherheit. Nun werden Handelsgespräche geführt – Maßnahmen könnten folgen.",
-   "link": "https://www.wiwo.de/politik/ausland/windkraftanlagen-donald-trump-stuft-importe-als-gefahr-fuer-us-sicherheit-ein/100264416.html",
-   "published": "2026-10-23T06:55:00+00:00",
-   "first_seen": "2026-10-23T08:05:31.632656+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur: Inflation in Japan übersteigt Notenbank-Ziel – Weitere Zinsschritte rücken näher",
-   "summary": "Höhere Treibstoffkosten, teure Importe sowie Preisdruck durch KI schmälern die Wirkung staatlicher Energiesubventionen. Bei der Zinssitzung nächste Woche dürfte die BOJ aber noch stillhalten.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-inflation-in-japan-uebersteigt-notenbank-ziel/100264403.html",
-   "published": "2026-10-23T04:32:01+00:00",
-   "first_seen": "2026-10-23T08:05:31.632656+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Außenhandel: Zollstreit mit Trump: Pharmabranche erwartet weniger Umsatz",
-   "summary": "Drohungen, Unsicherheit, kaum Planbarkeit: Der Streit um Pharmazölle mit Donald Trump hinterlässt Spuren in der Arzneibranche. Nach einem starken Vorjahr geht es abwärts - mit Folgen für die Jobs.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264378.html",
-   "published": "2026-10-23T02:30:16+00:00",
-   "first_seen": "2026-10-23T08:05:31.632656+00:00",
    "paywall": true
   }
  ]

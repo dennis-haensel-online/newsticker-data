@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe13",
- "updated": "2026-10-27T07:03:02.857548+00:00",
+ "updated": "2026-10-27T13:46:13.329079+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Konsum und Investitionen: Wie Superreiche das Klima belasten",
+   "summary": "Superreiche heizen die Klimakrise mit Privatjets, Konsum und Investitionen an. Gleichzeitig leiden ärmere Menschen stärker unter ihren Folgen. Wie lässt sich Klimaschutz sozial gerecht gestalten? Von Michelle Goddemeier.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/klimawandel-emissionen-superreiche-100.html",
+   "published": "2026-10-27T10:42:23+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Audi Neckarsulm: IG Metall fordert von Audi Perspektiven für Neckarsulm",
+   "summary": "In den USA kündigt der Audi-Chef eine große Investition an, während daheim die Zukunft fraglich ist. Die Chefin der IG Metall hält das für ein Unding.",
+   "link": "https://www.wiwo.de/unternehmen/auto/nach-auftritt-mit-trump-ig-metall-fordert-von-audi-zusagen-fuer-neckarsulm/100265206.html",
+   "published": "2026-10-27T09:50:00+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Südostasien - Ministerpräsident von Singapur kündigt weitere Investitionen in Deutschland an - \"Vertrauen ungebrochen\"",
@@ -27,6 +45,15 @@
    "link": "https://www.spiegel.de/wirtschaft/usa-warnen-eu-wegen-milliardenkredits-fuer-airbus-a-75a8cfc3-e8c1-4d76-941c-3d03e027f14f#ref=rss",
    "published": "2026-10-27T06:23:00+00:00",
    "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "USA warnen EU wegen Milliardenkredits für Airbus",
+   "summary": "Ein Milliardenkredit der Europäischen Investitionsbank für Airbus erzürnt die US-Regierung. Trumps Handelsbeauftragter Jamieson Greer droht jetzt indirekt mit der Aufkündigung des brüchigen Handelsfriedens.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-warnen-eu-wegen-milliardenkredits-fuer-airbus-a-75a8cfc3-e8c1-4d76-941c-3d03e027f14f#ref=rss",
+   "published": "2026-10-27T06:23:00+00:00",
+   "first_seen": "2026-10-27T13:46:13.329079+00:00",
    "paywall": false
   },
   {
@@ -172,33 +199,6 @@
    "published": "2026-10-23T13:16:51+00:00",
    "first_seen": "2026-10-23T13:56:36.657749+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Klimaneutralität: Die Sechs-Billionen-Euro-Frage",
-   "summary": "Deutschland ist dringend auf mehr Investitionen angewiesen. Vor allem der Umbau des Energiesystems erfordert horrende Summen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/klima-investitionsbedarf-die-6-billionen-euro-frage-accg-201340221.html",
-   "published": "2026-10-23T09:42:31+00:00",
-   "first_seen": "2026-10-23T13:56:36.657749+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Editorial: Glauben Sie an Deutschland? Das ist die entscheidende Frage!",
-   "summary": "Der Investitionsgipfel der Bundesregierung hat gezeigt, dass Geld und Interesse da sind. Ob die Milliarden auch in Deutschland landen, hängt von der Haltung im Land selbst ab.",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/editorial-glauben-sie-an-deutschland-das-ist-die-entscheidende-frage/100263962.html",
-   "published": "2026-10-23T07:24:35+00:00",
-   "first_seen": "2026-10-23T08:05:31.632656+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Meckel & Matthes: Der Nvidia-Deal und was eine Crime-Doku über das Silicon Valley verrät",
-   "summary": "Meckel & Matthes ziehen Bilanz nach dem Investitionsgipfel. Außerdem: Warum die Proteste in Frankreich politisches Versagen offenlegen. Und ein Film über eine Betrügerin fasziniert die USA.",
-   "link": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-der-nvidia-deal-und-was-eine-crime-doku-ueber-das-silicon-valley-verraet/100264386.html",
-   "published": "2026-10-23T04:43:02+00:00",
-   "first_seen": "2026-10-23T08:05:31.632656+00:00",
-   "paywall": true
   }
  ]
 }
