@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-27T01:43:35.095016+00:00",
+ "updated": "2026-10-27T07:03:02.857548+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Der Preis der Billigjagd: Europa geht die Elektronik aus",
+   "summary": "Fast die gesamte Elektronikproduktion befindet sich inzwischen in Übersee. Der Boom der Rechenzentren für die Künstliche Intelligenz legt offen, wie gefährlich das ist.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-preis-der-billigjagd-europa-geht-die-elektronik-aus-01/100263837.html",
+   "published": "2026-10-27T06:15:00+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "China: 110 Roboter tanzen synchron",
+   "summary": "Mehr als 100 Roboter zeigen in China eine Tanz-Performance. In Zukunft sollen sie Fahrgastströme lenken oder bei Paraden im Freien eingesetzt werden.",
+   "link": "https://www.zdfheute.de/video/panorama-china-roboter-weltrekord-tanzen-video-100.html",
+   "published": "2026-10-27T05:41:00+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing: Das sind die wichtigsten Zahlen zum Anthropic-Börsengang",
+   "summary": "Der KI-Pionier strebt an die Börse – mit gigantischen Visionen, aber auch Anzeichen, dass sich sein Geschäftsmodell trägt. Skeptisch sollte vor allem eine Zahl machen.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-das-sind-die-wichtigsten-zahlen-zum-anthropic-boersengang/100265104.html",
+   "published": "2026-10-27T05:18:07+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Geld verdienen: Nebenbei reich werden? Was wirklich funktioniert",
+   "summary": "KI-Agenten, Airbnb, Vinted oder Instagram: Mit welchen Side Hustles lässt sich wirklich Geld verdienen?",
+   "link": "https://www.zeit.de/geld/2026-10/geld-verdienen-nebenbei-side-hustle-ki-airbnb-vinted",
+   "published": "2026-10-27T05:05:06+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geld genug: Nebenbei reich werden: Was funktioniert wirklich?",
+   "summary": "KI-Agenten, Airbnb, Vinted oder Instagram: Mit welchen Side Hustles lässt sich wirklich Geld verdienen?",
+   "link": "https://www.handelsblatt.com/audio/geld-genug/geld-genug-nebenbei-reich-werden-was-funktioniert-wirklich/100265144.html",
+   "published": "2026-10-27T04:55:00+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Aktien: Kospi und Nikkei springen hoch – KI-Pläne stärken Asiens Börsen",
+   "summary": "Der Börsengang von Anthropic wird konkret und Meta gibt für die Finanzierung zusätzlicher KI-Rechenzentren neue Aktien aus. Das stimmt die Anleger in Asien positiv.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/aktien-kospi-und-nikkei-springen-hoch-ki-plaene-staerken-asiens-boersen/100265142.html",
+   "published": "2026-10-27T04:52:24+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Anthropics Börsengang wird zum Debüt der KI-Missionare",
+   "summary": "Der Börsenprospekt des KI-Start-ups betont Risiken und Idealismus – die Rendite der Anleger erscheint zweitrangig. Ein mindestens eigenwilliges Konzept.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-anthropics-boersengang-wird-zum-debuet-der-ki-missionare/100265108.html",
+   "published": "2026-10-27T01:59:57+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Musik - Rechteinhaber von Elvis Presley verklagen das KI-Unternehmen Anthropic",
@@ -54,6 +117,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-im-plus/100264955.html",
    "published": "2026-10-26T19:25:00+00:00",
    "first_seen": "2026-10-26T22:08:14.016371+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Börsen: Wall Street schließt im Plus",
+   "summary": "Anthropics Börsenprospekt nährt die Hoffnungen, dass sich die umfangreichen KI-Investitionen auszahlen. Weitere Stimmungstests folgen in den nächsten Handelstagen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-anthropic-staerkt-die-stimmung-wall-street-schliesst-im-plus/100264955.html",
+   "published": "2026-10-26T19:25:00+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
    "paywall": true
   },
   {
@@ -775,51 +847,6 @@
    "published": "2026-10-23T02:00:00+00:00",
    "first_seen": "2026-10-23T02:35:14.368223+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Abverkauf von Tech-Werten belastet Wall Street – Meta verliert sieben Prozent",
-   "summary": "Steigende Ölpreise und Sorgen im KI‑Sektor lassen zahlreiche Kurse einbrechen. Die Rendite der zehnjährigen US‑Bonds fällt dagegen wieder unter fünf Prozent.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html",
-   "published": "2026-10-22T19:28:26+00:00",
-   "first_seen": "2026-10-22T20:58:58.046799+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Nvidia-Chef Hautnah: KI, Kapital, Europa: Ein Frühstück mit Jensen Huang",
-   "summary": "Im Rennen um die Künstliche Intelligenz zählt Nvidia-Chef Jensen Huang Europas große Vorteile auf – und dessen schwerwiegenden Nachteile. Einen rückt er vor allem in den Mittelpunkt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/jensen-huang-was-europa-im-ki-rennen-fehlt-201611807.html",
-   "published": "2026-10-22T18:33:01+00:00",
-   "first_seen": "2026-10-22T20:58:58.046799+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Israel vor der Wahl: Wenn KI-Videos das Netz fluten",
-   "summary": "Im israelischen Wahlkampf spielen KI-generierte Inhalte eine immer größere Rolle. Und KI wird auch genutzt, um das Regierungsimage aufzupolieren. mehr...",
-   "link": "https://taz.de/Israel-vor-der-Wahl/!6223711/",
-   "published": "2026-10-22T17:55:00+00:00",
-   "first_seen": "2026-10-22T20:58:58.046799+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Sicherheitslücke bei PHP: KI kann auch eine Freundin sein",
-   "summary": "Die weltweite Sicherheitslücke bei PHP wurde erst dank KI entdeckt. Würde KI besonnen eingesetzt, könnte sie Daten schützen. mehr...",
-   "link": "https://taz.de/Sicherheitsluecke-bei-PHP/!6223729/",
-   "published": "2026-10-22T17:54:00+00:00",
-   "first_seen": "2026-10-22T20:58:58.046799+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "KI und Krieg: Behält der Mensch die Kontrolle?",
-   "summary": "Bundeswehr und Rüstungsindustrie zeigen in Erding, wie KI und autonome Systeme Deutschlands Verteidigungsfähigkeit stärken sollen. Übernehmen bald die Algorithmen?",
-   "link": "https://www.zdfheute.de/politik/deutschland/ki-krieg-bundeswehr-drohnen-soldaten-100.html",
-   "published": "2026-10-22T16:42:00+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": false
   }
  ]
 }

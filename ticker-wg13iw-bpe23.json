@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe23",
- "updated": "2026-10-27T01:43:35.095016+00:00",
+ "updated": "2026-10-27T07:03:02.857548+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Superreiche und die Klimakrise: Ein Jahr CO₂-Emissionen pro Flug",
+   "summary": "Superreiche verursachen enorm viele klimaschädliche Emissionen, warnt Oxfam. Vor allem mit ihren Privatjets und Investitionen heizen sie das Klima an. mehr...",
+   "link": "https://taz.de/Superreiche-und-die-Klimakrise/!6225094/",
+   "published": "2026-10-27T06:27:00+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Energiewende: Ökostrom-Förderbedarf 2027 um eine Milliarde höher als geplant",
@@ -136,33 +145,6 @@
    "published": "2026-10-23T02:00:05+00:00",
    "first_seen": "2026-10-23T02:35:14.368223+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Energie - Europaparlament stimmt dafür, die Verschärfung der Klimaregeln für Methan zu verschieben",
-   "summary": "Das Europaparlament hat sich dafür ausgesprochen, die verschärften Klimaschutzregeln für Methan-Emissionen im Energiesektor zu verschieben.",
-   "link": "https://www.deutschlandfunk.de/europaparlament-stimmt-dafuer-die-verschaerfung-der-klimaregeln-fuer-methan-zu-verschieben-104.html",
-   "published": "2026-10-22T23:47:13+00:00",
-   "first_seen": "2026-10-22T23:53:52.941992+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "SAP und die Angst vor Datenklau: „Wir wissen, was hier passiert“",
-   "summary": "Der Softwarekonzern SAP wertet die Sicherheitslücken von PHP als Chance. Sicherheit sei auch eine Frage der Ressourcen, sagt Finanzchef Asam.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sap-vorstand-asam-sieht-php-sicherheitsluecke-als-chance-201611189.html",
-   "published": "2026-10-22T20:20:03+00:00",
-   "first_seen": "2026-10-22T20:58:58.046799+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Energie - Europaparlament stimmt dafür, die Verschärfung der Klimaregeln für Methan zu verschieben",
-   "summary": "Das Europaparlament hat sich dafür ausgesprochen, die verschärften Klimaschutzregeln für Methan-Emissionen im Energiesektor zu verschieben.",
-   "link": "https://www.deutschlandfunk.de/europaparlament-stimmt-dafuer-die-verschaerfung-der-klimaregeln-fuer-methan-zu-verschieben-100.html",
-   "published": "2026-10-22T17:06:17+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
-   "paywall": false
   }
  ]
 }

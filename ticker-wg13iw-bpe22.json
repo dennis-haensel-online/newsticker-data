@@ -1,6 +1,6 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-10-27T01:43:35.095016+00:00",
+ "updated": "2026-10-27T07:03:02.857548+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,51 @@
    "link": "https://www.handelsblatt.com/politik/international/us-zoelle-usa-und-kanada-verhandeln-laut-insidern-ueber-lockerung-von-zoellen/30026990.html",
    "published": "2026-10-27T13:00:00+00:00",
    "first_seen": "2026-10-27T01:43:35.095016+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Autobauer: Porsche stabilisiert Rendite bei schwachem Absatz",
+   "summary": "Porsche erholt sich vom Gewinneinbruch. Doch China-Schwäche, US-Zölle und die verhaltene E-Auto-Nachfrage bremsen den Sportwagenbauer weiter deutlich.",
+   "link": "https://www.wiwo.de/unternehmen/auto/porsche-autobauer-stabilisiert-rendite-bei-schwachem-absatz/100265166.html",
+   "published": "2026-10-27T06:59:35+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Weltverband IWF - \"Skandalös\": Ukraine will gegen Vergabe der Gewichtheber-WM an Moskau vorgehen",
+   "summary": "Die Ukraine will dagegen vorgehen, dass die Weltmeisterschaft der Gewichtheber im Jahr 2030 an Moskau vergeben wurde.",
+   "link": "https://www.deutschlandfunk.de/skandaloes-ukraine-will-gegen-vergabe-der-gewichtheber-wm-an-moskau-vorgehen-100.html",
+   "published": "2026-10-27T06:52:09+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
+   "link": "https://www.handelsblatt.com/politik/international/migration-warum-immer-mehr-deutsche-polen-als-neue-heimat-waehlen-01/100249315.html",
+   "published": "2026-10-27T06:23:00+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Reisediplomatie: Merz will enge Handelsanbindung der EU an Asean-Staaten",
+   "summary": "Merz sucht in Asien neue Handelspartner und will die Abhängigkeit von den USA und China verringern. Singapur unterstützt eine stärkere Freihandelszone mit der EU.",
+   "link": "https://www.wiwo.de/politik/ausland/reisediplomatie-merz-und-steinmeier-auf-getrennten-wegen-nach-asien/100264855.html",
+   "published": "2026-10-27T06:21:00+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Migrationspolitik: Was wird aus der EU-Grenzschutzbehörde Frontex?",
+   "summary": "Krisenbewältigung, Abschiebungen, Grenzkontrollen: Frontex hat viele Aufgaben, soll bald noch mehr können, steht aber auch immer wieder in der Kritik. Wie sieht die Zukunft des EU-Grenzschutzes aus?",
+   "link": "https://www.handelsblatt.com/politik/international/migrationspolitik-was-wird-aus-der-eu-grenzschutzbehoerde-frontex/100265130.html",
+   "published": "2026-10-27T03:30:07+00:00",
+   "first_seen": "2026-10-27T07:03:02.857548+00:00",
    "paywall": true
   },
   {
@@ -216,15 +261,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/aussenhandel-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264378.html",
    "published": "2026-10-23T02:30:16+00:00",
    "first_seen": "2026-10-23T08:05:31.632656+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autobauer: Zwei Werke gegen Trumps Zölle – Audis geheimer Amerika-Plan",
-   "summary": "Der Autohersteller Audi verliert in den USA ein Vermögen. Jetzt soll ein Milliardenprojekt helfen, die Wende einzuleiten. Doch der mögliche Deal mit der US-Regierung in Washington ist noch offen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-zwei-werke-gegen-trumps-zoelle-audis-geheimer-amerika-plan/100263660.html",
-   "published": "2026-10-22T16:48:20+00:00",
-   "first_seen": "2026-10-22T17:44:19.097338+00:00",
    "paywall": true
   }
  ]
