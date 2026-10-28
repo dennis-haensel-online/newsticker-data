@@ -1,7 +1,16 @@
 {
  "id": "ik",
- "updated": "2026-10-28T16:53:29.797209+00:00",
+ "updated": "2026-10-28T21:26:15.750895+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert",
+   "summary": "Nach der Erhöhung im September belässt die US-Notenbank Fed den Leitzins im Oktober unverändert. Im zuständigen Gremium stimmte eine Minderheit für eine weitere Erhöhung.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/us-notenbank-leitzins-usa-federal-reserve",
+   "published": "2026-10-28T18:24:46+00:00",
+   "first_seen": "2026-10-28T21:26:15.750895+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Prozess um Totschlag: Noch Fahnen im Keller",
@@ -234,24 +243,6 @@
    "link": "https://taz.de/Jurist-ueber-Diversitaet-in-Wissenschaft/!6222814/",
    "published": "2026-10-25T14:00:00+00:00",
    "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Drohungen gegen Fußballprofi Juma Bah: Rassistische Pest",
-   "summary": "Der FC Augsburg stellt sich nach üblen Beleidigungen mit unmissverständlichen Worten hinter seinen Spieler Juma Bah. So deutlich wird Rassismus selten adressiert. mehr...",
-   "link": "https://taz.de/Drohungen-gegen-Fussballprofi-Juma-Bah/!6224735/",
-   "published": "2026-10-25T10:28:00+00:00",
-   "first_seen": "2026-10-25T14:41:07.807678+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Migration - Frontex soll zentrale \"EU-Abschiebeagentur\" werden",
-   "summary": "EU-Migrationskommissar Brunner will Frontex zur zentralen Abschiebeagentur machen. Das sagte er der \"Welt am Sonntag\". Man setze die europäische Migrationswende konsequent fort.",
-   "link": "https://www.deutschlandfunk.de/frontex-soll-zentrale-eu-abschiebeagentur-werden-100.html",
-   "published": "2026-10-25T10:19:30+00:00",
-   "first_seen": "2026-10-25T10:24:42.873920+00:00",
    "paywall": false
   }
  ]
