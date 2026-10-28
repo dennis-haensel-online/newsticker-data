@@ -162,16 +162,36 @@
       "marktforschung",
       "marktstudie",
       "marktdaten",
+      "marktanalyse",
       "konsumverhalten",
       "verbraucherverhalten",
-      "umfrage",
+      "kaufverhalten",
+      "konsumklima",
+      "verbraucherstimmung",
+      "kundenbefragung",
+      "verbraucherumfrage",
+      "zahlungsbereitschaft",
       "neuromarketing",
-      "datenanalyse",
+      "eye-tracking",
       "zielgruppe",
-      "drohne",
-      "drohnen"
+      "drohnenmarkt",
+      "zivile drohne",
+      "agrardrohne",
+      "kundendaten",
+      "produkttest"
     ],
-    "max": 100
+    "max": 100,
+    "negative": [
+      "drohnenangriff",
+      "drohnenabwehr",
+      "kamikaze",
+      "militär",
+      "bundeswehr",
+      "geheimdienst",
+      "wahlumfrage",
+      "sonntagsfrage",
+      "koalition"
+    ]
   },
   "wg12iw-bpe10": {
     "_kommentar": "BPE 10 – Produkt- und Sortimentspolitik (Product policy: Sortiment, Produktlebenszyklus, BCG-Portfolio) – bilingual; Spin Drohnen-Start-up Greif Robotics",
