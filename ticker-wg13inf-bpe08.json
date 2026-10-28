@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-28T03:06:40.355808+00:00",
+ "updated": "2026-10-28T06:39:32.759555+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir können diese Agenten schon heute nicht kontrollieren“",
+   "summary": "Der US-Bestsellerautor Michael Pollan über Gefühle in KI, Gespräche mit Claude – und welche Teile seines Lebens er nie mit einem Chatbot teilen würde.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-ich-halte-psychedelika-fuer-eine-form-von-bewusstseinshygiene-01/100261781.html",
+   "published": "2026-10-28T06:14:00+00:00",
+   "first_seen": "2026-10-28T06:39:32.759555+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Der Preis der Billigjagd: Europa geht die Elektronik aus",
+   "summary": "Fast die gesamte Elektronikproduktion befindet sich inzwischen in Übersee. Der Boom der Rechenzentren für die Künstliche Intelligenz legt offen, wie gefährlich das ist.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-preis-der-billigjagd-europa-geht-die-elektronik-aus-02/100263837.html",
+   "published": "2026-10-28T06:13:00+00:00",
+   "first_seen": "2026-10-28T06:39:32.759555+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Anthropic dreht die Börsenstimmung – dafür gibt es drei Gründe",
+   "summary": "Das KI-Start-up meldet milliardenschwere Verluste. Trotzdem steigen die Kurse von Tech-Aktien. Denn Experten sehen in dem Börsenprospekt viele Gründe zum Optimismus.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/ki-anthropic-dreht-die-boersenstimmung-dafuer-gibt-es-drei-gruende-01/100265184.html",
+   "published": "2026-10-28T06:12:00+00:00",
+   "first_seen": "2026-10-28T06:39:32.759555+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "KI-Verordnung: EU legt Regeln zur Hochrisiko-Compliance vor",
+   "summary": "Die rechtskonforme Implementierung von Hochrisiko-KI-Systemen braucht Standards. Die fehlten bisher. Daher wurden die Umsetzungsfristen des KI-Omnibusses verschoben. Aber jetzt kommt Bewegung in die Sache. Fünf Punkte sind jetzt zu…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/en-18286-2026-was-der-neue-ki-standard-fuer-hochrisiko-systeme-bedeutet-accg-201624448.html",
+   "published": "2026-10-28T05:50:00+00:00",
+   "first_seen": "2026-10-28T06:39:32.759555+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Agentic Commerce: Liquid Demand: Machtfrage im Handel stellt sich neu",
+   "summary": "Amazon sperrt KI-Agenten aus, Walmart baut ihnen einen Eingang. Dahinter steht eine größere Verschiebung: Agenten machen Nachfrage handelbar, und damit stellt sich die Machtfrage im Handel neu.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/amazon-sperrt-ki-agenten-aus-walmart-oeffnet-die-tuer-accg-201622336.html",
+   "published": "2026-10-28T05:50:00+00:00",
+   "first_seen": "2026-10-28T06:39:32.759555+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, Kospi, Topix: Asiens Börsen profitieren von KI-Optimismus",
+   "summary": "Der Nvidia-Zulieferer SK Hynix hat gute Quartalszahlen vorgelegt. Die starken Zahlen sorgen für Zuversicht bei den Anlegern und treiben die asiatischen Indizes nach oben.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-topix-asiens-boersen-profitieren-von-ki-optimismus/100265450.html",
+   "published": "2026-10-28T04:54:59+00:00",
+   "first_seen": "2026-10-28T06:39:32.759555+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Boom: Südkoreas Chipproduzent SK Hynix erzielt erneut Rekordgewinn",
@@ -810,15 +864,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-umfrage-grosse-mehrheit-fuer-weltweit-gueltige-ki-regeln/100264640.html",
    "published": "2026-10-24T02:39:04+00:00",
    "first_seen": "2026-10-24T05:13:24.628006+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
-   "summary": "OpenAI verschärfte nach Hacking-Attacken durch seine KI die Sicherheits-Maßnahmen. Jetzt geht die ChatGPT-Firma noch weiter und will Top-Modelle lieber in „Offline-Welten“ trainieren.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren/100264618.html",
-   "published": "2026-10-23T22:01:04+00:00",
-   "first_seen": "2026-10-24T00:08:40.710573+00:00",
    "paywall": true
   }
  ]
