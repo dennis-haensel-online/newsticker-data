@@ -221,7 +221,25 @@
       "betriebsabrechnungsbogen",
       "kostenmanagement",
       "produktionskosten",
-      "preisgestaltung"
+      "preisgestaltung",
+      "preisuntergrenze",
+      "stückkosten",
+      "fixkosten",
+      "gewinnschwelle",
+      "break-even",
+      "gewinnmarge",
+      "kostendruck",
+      "kostensteigerung",
+      "preiserhöhung",
+      "lohnkosten",
+      "materialkosten",
+      "eigenfertigung",
+      "fremdbezug"
+    ],
+    "negative": [
+      "steuererhöhung",
+      "mieterhöhung",
+      "rundfunkbeitrag"
     ],
     "max": 100
   },
