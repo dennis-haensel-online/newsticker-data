@@ -1,7 +1,106 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-28T10:09:22.515112+00:00",
+ "updated": "2026-10-28T16:53:29.797209+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Merz in Japan: Deutschland und Japan als „Premiumpartner“",
+   "summary": "Bundeskanzler Friedrich Merz wirbt in Japan für eine globale Allianz für regelbasierten Handel. Beide Länder wollen sich zudem für eine „menschenzentrierte KI“ einsetzen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschland-und-japan-als-premiumpartner-201627527.html",
+   "published": "2026-10-28T16:22:14+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Coreweave, Nebius und Co.: Diese Firmen trotzen Musks Untergangsprognose",
+   "summary": "SpaceX-Chef Elon Musk sagt Spezialanbietern von KI-Rechenkapazität den Ruin voraus – doch deren Kurse steigen. Wie sollen Anleger reagieren?",
+   "link": "https://www.wiwo.de/finanzen/boerse/coreweave-nebius-und-co.-diese-firmen-trotzen-musks-untergangsprognose/100265506.html",
+   "published": "2026-10-28T16:20:11+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: SK Hynix versiebenfacht Gewinn – KI-Optimismus ist zurück | Welche Welt-ETFs sich lohnen",
+   "summary": "Der Speicherchip-Hersteller SK Hynix legt erneut ein Rekordergebnis vor. Außerdem: Anleger investieren viel Zeit in den Vergleich von Welt-ETFs. Dabei müssten sie das gar nicht tun.",
+   "link": "https://www.handelsblatt.com/audio/today/today-sk-hynix-versiebenfacht-gewinn-und-der-ki-optimismus-ist-zurueck/100265683.html",
+   "published": "2026-10-28T16:15:08+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: SK Hynix versiebenfacht Gewinn, KI-Boom bleibt auf Kurs",
+   "summary": "Der Umsatz des Speicherchipherstellers ist um 328 Prozent gestiegen. Die Wall Street freut sich und wartet gleichzeitig auf die Fed-Entscheidung am Abend.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-sk-hynix-versiebenfacht-gewinn-ki-boom-bleibt-auf-kurs/100265657.html",
+   "published": "2026-10-28T15:52:01+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Stellenabbau bei Tamedia: Menschengemachter Journalismus in der Krise",
+   "summary": "Der Schweizer Medienkonzern Tamedia entlässt reihenweise Jour­na­lis­t:in­nen und setzt immer mehr auf KI. Das wird intern als auch extern kritisiert. mehr...",
+   "link": "https://taz.de/Schweizer-Medienkonzern-Tamedia-entlaesst-Journalisten-und-setzt-immer-mehr-auf-KI---Kritik-kommt-von-allen-Seiten/!6225595/",
+   "published": "2026-10-28T14:45:00+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Arbeitsmarkt: Das Microsoft-Beben bereitet IT-Fachkräften Sorge",
+   "summary": "Die Stimmung auf dem Arbeitsmarkt für IT-Experten ist gekippt. Nur noch ein Drittel bewertet die Job-Chancen als gut. Ausgerechnet die KI biete nun Chancen, sagt ein Experte.",
+   "link": "https://www.wiwo.de/unternehmen/it/arbeitsmarkt-das-microsoft-beben-bereitet-it-fachkraeften-sorge/100265359.html",
+   "published": "2026-10-28T14:30:00+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
+   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
+   "link": "https://www.handelsblatt.com/karriere/karriere-wie-bewerber-auf-ki-statt-auf-menschliche-recruiter-reagieren/100248546.html",
+   "published": "2026-10-28T14:26:00+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Lieferkrise: KI-Boom verschärft den Engpass: Dieses elektronische Bauteil gefährdet Europas Industrie",
+   "summary": "Leiterplatten waren nie ein Thema, nun werden sie zum größten Problem für Einkäufer. KI-Riesen wie Nvidia kaufen die Fabriken in Asien leer. Hierzulande ist die Produktion längst weggezogen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-dieses-elektronische-bauteil-gefaehrdet-europas-industrie/100261099.html",
+   "published": "2026-10-28T14:19:00+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Anthropic-IPO sorgt für Euphorie – Diese KI-Aktien empfehlen Analysten",
+   "summary": "Allein im zweiten Quartal hat das KI-Start-up seinen Umsatz vervierzehnfacht. Das dreht die Stimmung am Aktienmarkt. Bei fünf KI-Aktien sind Experten besonders optimistisch.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-euphorie-um-anthropic-diese-ki-aktien-empfehlen-analysten-01/100263467.html",
+   "published": "2026-10-28T13:59:00+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-kompetenz-wird-das-wettbewerbsmerkmal-der-zukunft-sein/100223312.html",
+   "published": "2026-10-28T13:23:00+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Chip-Start-up: Ein Chip aus der Trickkiste der Mathematik",
+   "summary": "Tensordyne entwickelt Halbleiterbausteine, die der KI im Datenzentrum leichter auf die Sprünge helfen sollen. Dafür greift das Start-up zu einem 400 Jahre alten Kniff. Mitgründer Gilles Backhus erklärt, was es damit auf sich hat.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-chips-von-tensordyne-dieser-400-jahre-alte-mathe-trick-steckt-dahinter-accg-201309656.html",
+   "published": "2026-10-28T12:11:07+00:00",
+   "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "IT-Sicherheit - Bitkom erwartet deutlich steigende Investitionen in Unternehmen",
@@ -739,87 +838,6 @@
    "published": "2026-10-25T09:57:00+00:00",
    "first_seen": "2026-10-25T14:41:07.807678+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IT-Sicherheit: Experte: Software-Schwachstellen bleiben länger ein Problem",
-   "summary": "Angreifer können neue Sicherheitslücken inzwischen in Minuten oder Stunden für Attacken auswerten. Doch KI dürfte auch helfen, das künftig zu ändern, glaubt ein Experte der Cyberagentur des Bundes.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/it-sicherheit-experte-software-schwachstellen-bleiben-laenger-ein-problem/100264761.html",
-   "published": "2026-10-25T08:00:04+00:00",
-   "first_seen": "2026-10-25T10:24:42.873920+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Mistral-Chef: Mitgestalten oder ausgeliefert sein",
-   "summary": "Häufig heißt es, Europa habe das Rennen um große KI-Modelle schon gegen Amerikaner und Chinesen verloren. Wie beim Internet solle man sich auf lukrative Anwendungen konzentrieren. Doch das Argument ist brandgefährlich.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/arthur-mensch-zu-europas-ki-zukunft-mitgestalten-oder-ausgeliefert-sein-201612243.html",
-   "published": "2026-10-24T19:14:16+00:00",
-   "first_seen": "2026-10-24T19:58:57.516820+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Oppositionspartei in der Kritik - KI-generierte Deepfake-Wahlvideos zeigen vermeintlich Ehefrau von Ministerpräsident Sánchez",
-   "summary": "Vor den vorgezogenen Neuwahlen in Spanien haben Deepfake-Videos im Wahlkampf für Diskussionen gesorgt.",
-   "link": "https://www.deutschlandfunk.de/ki-generierte-deepfake-wahlvideos-zeigen-vermeintlich-ehefrau-von-ministerpraesident-s-nchez-104.html",
-   "published": "2026-10-24T16:32:06+00:00",
-   "first_seen": "2026-10-24T17:05:51.056390+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "KI auf Streamingdiensten: Die acht Mio. des schrecklichen Mr. Smith",
-   "summary": "Die Musikindustrie feiert das Urteil gegen US-Produzenten Michael Smith. Dieser hatte KI-Musik auf Spotify veröffentlicht und mit Bots in die Charts gedrückt. mehr...",
-   "link": "https://taz.de/KI-auf-Streamingdiensten/!6219138/",
-   "published": "2026-10-24T16:09:00+00:00",
-   "first_seen": "2026-10-24T17:05:51.056390+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Leseschwächen in Deutschland: Wie gut, dass es keine Pisa-Studie für Erwachsene gibt",
-   "summary": "Die KI hilft oft weiter, aber lesen können sollte man trotzdem. Ob die Eltern der leseschwachen Kids da besser sind, bleibt zu prüfen. mehr...",
-   "link": "https://taz.de/Leseschwaechen-in-Deutschland/!6221563/",
-   "published": "2026-10-24T14:52:00+00:00",
-   "first_seen": "2026-10-24T17:05:51.056390+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Medien: Deutsche TV-Sender fluten Youtube – trotz des Risikos",
-   "summary": "Die Plattform bringt RTL und Pro Sieben Millionenumsätze und ein junges Publikum. Zugleich wächst die Abhängigkeit vom Algorithmus und von Zahlen, die die Sender nicht kontrollieren.",
-   "link": "https://www.handelsblatt.com/unternehmen/it-medien/medien-deutsche-tv-sender-fluten-youtube-trotz-des-risikos/100263241.html",
-   "published": "2026-10-24T14:39:17+00:00",
-   "first_seen": "2026-10-24T17:05:51.056390+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "KI-Agenten steuern: Kontrollverlust mit digitalem Anstrich",
-   "summary": "Künstliche Intelligenz in Unternehmen braucht keine Bremsen, aber Leitplanken. Welche Ziele und Regeln sind sinnvoll?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/ein-chief-information-officer-appelliert-ki-agenten-in-unternehmen-brauchen-leitplanken-accg-201073137.html",
-   "published": "2026-10-24T14:11:47+00:00",
-   "first_seen": "2026-10-24T17:05:51.056390+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Immobilien: Wo KI in der Hausverwaltung wirklich hilft – und wann sie teuer wird",
-   "summary": "KI-Assistenten nehmen nachts Mieteranrufe entgegen, erstellen Nebenkostenabrechnungen und formulieren Mietverträge. Doch Experten warnen Vermieter vor juristischen Risiken.",
-   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-ki-vermietern-wirklich-hilft-und-wo-sie-zum-risiko-wird/100262229.html",
-   "published": "2026-10-24T14:00:00+00:00",
-   "first_seen": "2026-10-24T17:05:51.056390+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Sicherheitslücken: Die Lehren aus dem KI-Hack",
-   "summary": "Amerikaner finden eine Sicherheitslücke, und Deutschland schaltet seine Webseiten ab. Es wird Zeit, dass Deutschland sich selbst emanzipiert. Wenigstens ein bisschen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-sicherheitsluecke-trifft-deutschland-zeit-fuer-mehr-eigenstaendigkeit-accg-201615439.html",
-   "published": "2026-10-24T13:34:09+00:00",
-   "first_seen": "2026-10-24T13:52:37.619219+00:00",
-   "paywall": true
   }
  ]
 }
