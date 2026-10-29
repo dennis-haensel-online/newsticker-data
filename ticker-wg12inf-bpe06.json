@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-29T19:57:44.981420+00:00",
+ "updated": "2026-10-29T23:46:55.062554+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Schwache Prognose: Intel-Aktie bricht um fast 20 Prozent ein",
+   "summary": "Der von Trump teilverstaatlichte Chipkonzern leidet unter einer Abschwächung des PC-Marktes. Auch Amazon kann nicht überzeugen. Aber der Onlinehändler gibt eine kühne Prognose für sein Cloud-Geschäft.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/intel-aktie-bricht-um-fast-20-prozent-ein-pc-markt-belastet-201634722.html",
+   "published": "2026-10-29T22:37:39+00:00",
+   "first_seen": "2026-10-29T23:46:55.062554+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Boom: Amazon enttäuscht trotz Cloud-Boom – Aktie sackt ab",
+   "summary": "Die Cloudsparte wächst so schnell wie seit Jahren nicht. Doch der Onlinehandel lahmt, die Weihnachtsprognose enttäuscht und 220 Milliarden Dollar Jahresinvestitionen schrecken die Anleger.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-boom-amazon-enttaeuscht-trotz-cloud-boom-aktie-sackt-ab/100265410.html",
+   "published": "2026-10-29T21:23:45+00:00",
+   "first_seen": "2026-10-29T23:46:55.062554+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Boom: Amazon profitiert von Cloud-Geschäft",
+   "summary": "Amazon ist nicht nur der weltgrößte Online-Händler, sondern auch ein führender Player bei Cloud-Diensten. Im KI-Boom sorgt das für Wachstum - aber bringt auch hohe Kosten für neue Rechenzentren.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-amazon-profitiert-von-cloud-geschaeft/100266017.html",
+   "published": "2026-10-29T21:08:15+00:00",
+   "first_seen": "2026-10-29T23:46:55.062554+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "AfD-Leak: AfD räumt Veröffentlichung Tausender Wählerdaten ein",
@@ -100,15 +127,6 @@
    "published": "2026-10-28T04:30:04+00:00",
    "first_seen": "2026-10-28T06:39:32.759555+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Geheimdienstreform: Ein neues Zeitalter der Überwachung",
-   "summary": "Die Bundesregierung plant für BND und Verfassungsschutz neue Überwachungsmöglichkeiten. Selbst auf der Therapeuten-Couch sollen die Behörden mithören. mehr...",
-   "link": "https://taz.de/Ein-neues-Zeitalter-der-Ueberwachung-Wie-weit-die-neue-Geheimdienstreform-gehen-soll/!6221658/",
-   "published": "2026-10-26T16:07:00+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": false
   }
  ]
 }

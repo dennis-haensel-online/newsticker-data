@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-29T19:57:44.981420+00:00",
+ "updated": "2026-10-29T23:46:55.062554+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -54,6 +54,15 @@
    "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-schwarz-gruppe-investiert-milliarden-in-ki-start-up-cohere/100265984.html",
    "published": "2026-10-29T16:00:04+00:00",
    "first_seen": "2026-10-29T19:57:44.981420+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Anthropic-Börsengang: Die Frage ist nicht, ob die KI-Blase platzt. Sondern wann",
+   "summary": "Die KI-Firma Anthropic bereitet einen der größten Börsengänge aller Zeiten vor. Doch es gibt immer mehr Zweifel, ob sich die gigantischen Investitionen jemals rechnen.",
+   "link": "https://www.zeit.de/2026/47/anthropic-boersengang-ki-aktie-coreweave-dotcom-blase",
+   "published": "2026-10-29T15:01:25+00:00",
+   "first_seen": "2026-10-29T23:46:55.062554+00:00",
    "paywall": true
   },
   {
@@ -441,42 +450,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-diese-neuen-zahlen-verraet-der-boersenprospekt-von-anthropic/100264987.html",
    "published": "2026-10-26T19:07:49+00:00",
    "first_seen": "2026-10-26T22:08:14.016371+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Pionier: Anthropic beantragt Börsengang in den USA und offenbart teure Abhängigkeit",
-   "summary": "Anthropics Börsenprospekt offenbart gewaltige finanzielle Verpflichtungen und Risiken. Für Irritation sorgt die Aussage, dass der europäische Prospekt von der BaFin bewilligt wurde.",
-   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-beantragt-boersengang-in-den-usa-und-offenbart-teure-abhaengigkeit/100265031.html",
-   "published": "2026-10-26T16:59:00+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "KI-Entwickler Anthropic stellt Antrag für Börsengang",
-   "summary": "Anthropic will an die Börse: Das macht der KI-Riese mit einem Antrag bei der US-Börsenaufsicht offiziell. Schnelles Wachstum soll Anleger locken. Doch Sorgen trüben die Euphorie.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/anthropic-boerse-ki-kuenstliche-intelligenz-usa-antrag-aktie-100.html",
-   "published": "2026-10-26T16:56:00+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: „Schnell klar, dass er keine Wahl hat“: Wie sich der Audi-Chef plötzlich auf Trumps Wahlkampfbühne wiederfand",
-   "summary": "Über die Hintergründe zu Döllners umstrittenen Auftritt werden mehr Details bekannt. Zugleich deuten sich komplizierte Verhandlungen im VW-Aufsichtsrat über die US-Milliardeninvestition von Audi an.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/usa-wie-sich-der-audi-chef-ploetzlich-auf-trumps-wahlkampfbuehne-wiederfand/100264893.html",
-   "published": "2026-10-26T16:36:44+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Künstliche Intelligenz: Anthropic bereitet Börsengang für November vor",
-   "summary": "Das KI-Unternehmen Anthropic plant sein Debüt an der New Yorker Technologiebörse Nasdaq. Analysten rechnen mit dem größten Börsengang aller Zeiten.",
-   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/anthropic-boersengang-nasdaq-ki-unternehmen-aktien",
-   "published": "2026-10-26T16:17:51+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
    "paywall": true
   }
  ]
