@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-29T07:49:14.252237+00:00",
+ "updated": "2026-10-29T14:47:03.848084+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Beschwerde von Datenschutz-NGOs: Überwacht fürs KI-Training",
+   "summary": "Wenn KI lernen soll, sind zahlreiche Arbeitende beteiligt – unter umstrittenen Bedingungen. NGOs reichen nun Beschwerde gegen eine Plattform ein. mehr...",
+   "link": "https://taz.de/Beschwerde-von-Datenschutz-NGOs/!6225935/",
+   "published": "2026-10-29T13:53:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "OpenAI-Chef Altman trifft Regierung: Tech-Bros mit freier Terminwahl bei Kanzler und Ministern",
+   "summary": "Google, OpenAI, Tiktok: IT-Konzerne treffen sich über 100 Mal mit der Bundesregierung. Sie wollen weniger Datenschutz. Laut Lobbycontrol mit Erfolg. mehr...",
+   "link": "https://taz.de/OpenAI-Chef-Altman-trifft-Regierung/!6225683/",
+   "published": "2026-10-29T10:02:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Chisinau - Cyberangriff auf staatliche Informationssysteme in Moldau - Nationaler Sicherheitsrat tagt",
@@ -91,15 +109,6 @@
    "published": "2026-10-26T14:17:16+00:00",
    "first_seen": "2026-10-26T17:55:53.124913+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
-   "summary": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F.…",
-   "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html",
-   "published": "2026-10-26T05:11:08+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
   }
  ]
 }

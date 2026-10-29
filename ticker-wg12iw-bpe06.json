@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-29T07:49:14.252237+00:00",
+ "updated": "2026-10-29T14:47:03.848084+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "KI-Unternehmen: Die Kryptowelt spielt den Anthropic-IPO schon mal durch",
+   "summary": "Der anstehende Börsengang von Anthropic ist ein Stimmungstest für den KI-Hype. Auf speziellen Kryptoplattformen lässt sich das Unternehmen schon handeln. Doch die Risiken sind groß.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/hyperliquid-die-kryptowelt-spielt-den-anthropic-boersengang-schon-mal-durch/100265357.html",
+   "published": "2026-10-29T14:24:25+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "KI Start-up Mistral: Das neue Top-Modell kommt aus Europa, nicht aus China",
+   "summary": "Mit Mistral Large 4 veröffentlicht das französische Start-up das „beste offene Modell“ der Welt, zumindest für Programmierung und Cybersecurity. Das ist eine gute Nachricht für Mistral, aber auch für Europa.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-kuenstliche-intelligenz-europa-cybersecurity-open-source-ki-li.3570581",
+   "published": "2026-10-29T14:23:56+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wirecard: BGH erschwert Aktionären Schadenersatzklagen gegen EY",
+   "summary": "Der Bundesgerichtshof weist Beschwerden von Wirecard-Aktionären zurück. Schadenersatzansprüche gegen EY können nicht im Musterverfahren verhandelt werden.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/wirecard-bgh-erschwert-aktionaeren-schadenersatzklagen-gegen-ey/100265951.html",
+   "published": "2026-10-29T13:58:38+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Insolvenz: Um Sonnen wird es finster",
@@ -99,6 +126,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/eu-inc-und-misp-warum-die-eu-beim-reformwillen-versagt-201621032.html",
    "published": "2026-10-28T10:56:35+00:00",
    "first_seen": "2026-10-28T16:53:29.797209+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Europa blockiert: So muss in China und den USA niemand Angst vor der EU haben",
+   "summary": "Statt den gemeinsamen Kapitalmarkt und Start-ups mutig zu fördern, verlieren sich die Staaten im nationalen Klein-Klein. Europa muss anders agieren.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/so-muss-in-china-und-usa-niemand-angst-vor-der-eu-haben-201621032.html",
+   "published": "2026-10-28T10:56:35+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
    "paywall": true
   },
   {
@@ -468,69 +504,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/energie/gas-eqt-schluckt-range-resources-bei-milliarden-uebernahme/100264976.html",
    "published": "2026-10-26T12:30:53+00:00",
    "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Start-ups: So viele Firmen gegründet wie seit 15 Jahren nicht",
-   "summary": "In Deutschland wurden 2025 rund 183.000 Unternehmen neu gegründet, so viele wie lange nicht mehr. Es geht aber nicht in allen Branchen aufwärts.",
-   "link": "https://www.wiwo.de/unternehmen/junge-unternehmen-institut-so-viele-firmen-gegruendet-wie-seit-15-jahren-nicht/100264959.html",
-   "published": "2026-10-26T10:43:36+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Helsing: Münchner Start-up steigt in Geschäft mit Flugabwehrraketen ein",
-   "summary": "Bei der Luftabwehr ist Deutschland bislang stark von ausländischen Anbietern abhängig. Das will das Münchner Start-up Helsing ändern – und großen heimischen Anbietern wie Rheinmetall Konkurrenz machen.",
-   "link": "https://www.spiegel.de/wirtschaft/helsing-muenchner-start-up-steigt-in-geschaeft-mit-flugabwehrraketen-ein-a-7325014b-4189-4acf-beff-f4c6179ef86e#ref=rss",
-   "published": "2026-10-26T10:27:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "WiWo History: Neckermann macht's nicht mehr möglich – das Ende eines Katalog-Imperiums",
-   "summary": "Erst Wirtschaftswunder-Ikone, dann Auslaufmodell: Der Neckermann-Katalog lag in Millionen Wohnzimmern. Dann kam der Absturz – und die Insolvenz.",
-   "link": "https://www.wiwo.de/unternehmen/handel/neckermann-so-endete-das-katalog-imperium/100246489.html",
-   "published": "2026-10-26T09:45:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Stimmung in Unternehmen hellt sich auf – Ifo-Index steigt",
-   "summary": "VW-Betriebsratschefin nennt Auftritt von Audi-Chef bei Trump „beschämend“ +++ Bis zu 12.000 Jobs bei Wegzug der UBS aus der Schweiz in Gefahr +++ KI von Anthropic umgeht offenbar Bezahlschranke für US-Wählerdaten +++ Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-stimmung-in-unternehmen-hellt-sich-auf-ifo-index-steigt-faz-200452404.html",
-   "published": "2026-10-26T09:28:42+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wagniskapital: Revolut bietet Kunden jetzt Investments in junge Start-ups an",
-   "summary": "Über die App sollen Kunden der britischen Neobank Revolut künftig in junge, privat gehaltene Unternehmen investieren können. Der neue Wagniskapitalfonds ist innovativ, aber auch riskant.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/geldanlage-revolut-ermoeglicht-kunden-jetzt-investitionen-in-junge-start-ups/100264587.html",
-   "published": "2026-10-26T08:37:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Gernot Döllner: VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
-   "summary": "Der Auftritt gemeinsam mit US-Präsident Trump auf einer Wahlkampfbühne hat womöglich ein Nachspiel für Audi-Chef Döllner. Betriebsratschefin Cavallo sieht darin einen klaren Verstoß gegen interne Richtlinien.",
-   "link": "https://www.spiegel.de/wirtschaft/gernot-doellner-vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss",
-   "published": "2026-10-26T07:18:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Thyssenkrupp: So soll die Sparte Werkstoffhandel nach dem Börsengang wachsen",
-   "summary": "Im Handelsblatt spricht TK-Accelis-Chefin Ilse Henne über die neue Unabhängigkeit vom Mutterkonzern und künftige Übernahmepläne.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/thyssenkrupp-so-soll-die-sparte-werkstoffhandel-nach-dem-boersengang-wachsen/100261863.html",
-   "published": "2026-10-26T03:05:49+00:00",
-   "first_seen": "2026-10-26T05:36:13.580206+00:00",
    "paywall": true
   }
  ]

@@ -1,7 +1,169 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-29T07:49:14.252237+00:00",
+ "updated": "2026-10-29T14:47:03.848084+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Henna Virkkunen: EU braucht Zeit, um Starlink zu ersetzen",
+   "summary": "Die EU-Digitalkommissarin erklärt im Interview, wie Europa das Satellitennetz von Elon Musk durch eigene Dienste ersetzen will. Und warnt vor Kurskorrekturen bei KI-Aktien.",
+   "link": "https://www.handelsblatt.com/politik/international/digitalpolitik-henna-virkkunen-eu-braucht-zeit-um-starlink-zu-ersetzen/100265335.html",
+   "published": "2026-10-29T14:34:59+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-Unternehmen: Die Kryptowelt spielt den Anthropic-IPO schon mal durch",
+   "summary": "Der anstehende Börsengang von Anthropic ist ein Stimmungstest für den KI-Hype. Auf speziellen Kryptoplattformen lässt sich das Unternehmen schon handeln. Doch die Risiken sind groß.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/hyperliquid-die-kryptowelt-spielt-den-anthropic-boersengang-schon-mal-durch/100265357.html",
+   "published": "2026-10-29T14:24:25+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "KI Start-up Mistral: Das neue Top-Modell kommt aus Europa, nicht aus China",
+   "summary": "Mit Mistral Large 4 veröffentlicht das französische Start-up das „beste offene Modell“ der Welt, zumindest für Programmierung und Cybersecurity. Das ist eine gute Nachricht für Mistral, aber auch für Europa.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-kuenstliche-intelligenz-europa-cybersecurity-open-source-ki-li.3570581",
+   "published": "2026-10-29T14:23:56+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Labore: Das Wettrennen zweier erbitterter Rivalen – Wo stehen Anthropic und OpenAI heute?",
+   "summary": "Die KI-Pioniere streben an die Börse. Doch während Anleger bei Anthropic geprüfte Zahlen kennen, fehlen bei OpenAI entsprechende Angaben. Ein Blick auf Stärken und Schwächen der Labore.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-wettrennen-der-kilabore-anthropic-und-openai-im-vergleich/100258365.html",
+   "published": "2026-10-29T14:00:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Video: Microsoft-Chef Satya Nadella im exklusiven WirtschaftsWoche-Interview",
+   "summary": "Im Video-Interview spricht der Tech-Manager über profitable KI und Microsofts Milliardeninvestitionen in deutsche Rechenzentren.",
+   "link": "https://www.wiwo.de/unternehmen/it/satya-nadella-im-interview-microsoft-chef-ueber-ki-nutzen-und-rechenzentren/100265518.html",
+   "published": "2026-10-29T14:00:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Microsoft: „Jeder KI‑Agent ist ein potenzielles Insider-Risiko“",
+   "summary": "Microsoft-Chef Satya Nadella verspricht, seinen KI‑Modellen konsequent zu misstrauen – und setzt auf maßgeschneiderte Sicherheitslösungen.",
+   "link": "https://www.wiwo.de/unternehmen/it/microsoft-chef-satya-nadella-jeder-kiagent-ist-ein-potenzielles-insider-risiko/100265514.html",
+   "published": "2026-10-29T14:00:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Microsoft: Wie Satya Nadella Microsoft zum zweiten Mal neu erfinden will",
+   "summary": "Künstliche Intelligenz zwingt Microsoft zur Kurskorrektur. Der US-Konzern will mit KI-Agenten unentbehrlich bleiben – und buhlt um das Vertrauen seiner europäischen Kunden.",
+   "link": "https://www.wiwo.de/unternehmen/it/microsofts-neue-ki-strategie-was-satya-nadellas-agenten-wette-bedeutet/100265512.html",
+   "published": "2026-10-29T14:00:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Beschwerde von Datenschutz-NGOs: Überwacht fürs KI-Training",
+   "summary": "Wenn KI lernen soll, sind zahlreiche Arbeitende beteiligt – unter umstrittenen Bedingungen. NGOs reichen nun Beschwerde gegen eine Plattform ein. mehr...",
+   "link": "https://taz.de/Beschwerde-von-Datenschutz-NGOs/!6225935/",
+   "published": "2026-10-29T13:53:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Linde und Air Liquide: Industriegase-Konzerne profitieren vom KI-Boom",
+   "summary": "Der KI-Boom beschert Linde und Air Liquide kräftiges Wachstum. Die Nachfrage nach Industriegasen für Hochleistungschips treibt das Geschäft stärker an als erwartet.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/linde-und-air-liquide-industriegase-konzerne-profitieren-vom-ki-boom/100265933.html",
+   "published": "2026-10-29T13:42:17+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Merz in Asien: Deutschland und Südkorea planen Zusammenarbeit bei Rüstung und KI",
+   "summary": "Friedrich Merz besucht bei seiner Asien-Reise auch Südkorea. Für den Bundeskanzler und Südkoreas Präsident Lee stehen Rüstung, Technologie und gemeinsame Sicherheitsinteressen im Fokus.",
+   "link": "https://www.handelsblatt.com/politik/international/merz-in-asien-deutschland-und-suedkorea-planen-zusammenarbeit-bei-ruestung-und-ki/100265947.html",
+   "published": "2026-10-29T13:40:43+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gesundheit: „Eine Milliarde Stunden zurückgeben“: Diese Firma entlastet Ärzte mit KI bei der Dokumentation",
+   "summary": "Mehr als 10.000 Gesundheitseinrichtungen nutzen den KI-Assistenten von Tandem Health. Jetzt beteiligt sich die Deutsche Telekom. Firmenchef Lukas Saari will einen europäischen Champion bauen.",
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/gesundheit-tandem-health-will-aerzte-mit-ki-bei-der-dokumentation-entlasten01/100265293.html",
+   "published": "2026-10-29T13:23:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Beratung: PwC-Chef im Interview: Ist KI nicht der bessere Berater, Herr Billeb?",
+   "summary": "Im exklusiven Interview nennt der neue PwC-Deutschlandchef Marc Billeb drei Hebel, mit denen die deutsche Wirtschaft wieder nach vorn kommt – und was junge Leute in der KI-Arbeitswelt mitbringen müssen.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/pwc-chef-ist-ki-nicht-der-bessere-berater-herr-billeb/100265230.html",
+   "published": "2026-10-29T13:19:57+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Google-Konzern: Alphabet-Aktie fällt um zehn Prozent",
+   "summary": "Der Konzern steigert seinen Umsatz und macht Gewinn. Aber die Anleger sind dennoch enttäuscht. Sorgen bereiten unter anderem die hohen Investitionen in KI-Infrastruktur.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/alphabet-google-aktie-ki-investitionen-boerse-li.3570998",
+   "published": "2026-10-29T12:19:53+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-koennen-sie-diese-ki-fragen-beantworten-das-kann-entscheidend-sein/100240522.html",
+   "published": "2026-10-29T12:17:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anlageideen: Diese fünf Aktien könnten am stärksten vom Roboter-Boom profitieren",
+   "summary": "Roboter lassen sich immer vielfältiger einsetzen, auch dank KI. Diese fünf Unternehmen sind bei der Robo-Revolution vorn dabei.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/roboter-aktien-fuenf-unternehmen-fuer-ki-boom-an-der-boerse/100263879.html",
+   "published": "2026-10-29T10:46:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "OpenAI-Chef Altman trifft Regierung: Tech-Bros mit freier Terminwahl bei Kanzler und Ministern",
+   "summary": "Google, OpenAI, Tiktok: IT-Konzerne treffen sich über 100 Mal mit der Bundesregierung. Sie wollen weniger Datenschutz. Laut Lobbycontrol mit Erfolg. mehr...",
+   "link": "https://taz.de/OpenAI-Chef-Altman-trifft-Regierung/!6225683/",
+   "published": "2026-10-29T10:02:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Internationale Abkommen über KI-Waffen: Vereint gegen Turbo-Killer-Roboter",
+   "summary": "Deutschland und andere Industriestaaten rüsten auf – auch mit künstlicher Intelligenz. Wie kann man verhindern, dass Algorithmen über Leben und Tod entscheiden? mehr...",
+   "link": "https://taz.de/Warum-es-einen-internationalen-Stopp-fuer-KI-Waffensysteme-braucht---und-wie-das-gelingen-kann/!6219137/",
+   "published": "2026-10-29T09:48:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "KI-Investitionen tragen nicht überall Früchte",
+   "summary": "Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html",
+   "published": "2026-10-29T09:28:06+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Chisinau - Cyberangriff auf staatliche Informationssysteme in Moldau - Nationaler Sicherheitsrat tagt",
@@ -738,168 +900,6 @@
    "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/anthropic-boersengang-nasdaq-ki-unternehmen-aktien",
    "published": "2026-10-26T16:17:51+00:00",
    "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Geheimdienstreform: Ein neues Zeitalter der Überwachung",
-   "summary": "Die Bundesregierung plant für BND und Verfassungsschutz neue Überwachungsmöglichkeiten. Selbst auf der Therapeuten-Couch sollen die Behörden mithören. mehr...",
-   "link": "https://taz.de/Ein-neues-Zeitalter-der-Ueberwachung-Wie-weit-die-neue-Geheimdienstreform-gehen-soll/!6221658/",
-   "published": "2026-10-26T16:07:00+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-   "summary": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
-   "published": "2026-10-26T15:49:36+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Börsen: Wall Street auf Erholungskurs – Neue Infos zu wichtigem IPO",
-   "summary": "KI-Erwartungen und sinkende Ölpreise stützen die US‑Börsen. Im Fokus steht Anthropics Börsenprospekt. Weitere Stimmungstests folgen in den nächsten Handelstagen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-auf-erholungskurs-neue-infos-zu-wichtigem-ipo/100264955.html",
-   "published": "2026-10-26T15:29:42+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-News aktuell: Claude umgeht Bezahlschranke – chinesische KI überholt OpenAI",
-   "summary": "Das KI-Modell von Anthropic hat eigenständig die Bezahlschranke einer US-Behördenseite umgangen. Kimi K3.1 Pro hat OpenAIs Spitzenmodell Astra überholt.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-claude-umgeht-bezahlschranke-kimi-ueberholt-openais-astra/100245205.html",
-   "published": "2026-10-26T15:15:00+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: 90 Prozent Kaufempfehlungen und mehr: Diese KI-Aktien sind zu Unrecht gefallen, sagen Analysten",
-   "summary": "Die Stimmung am Aktienmarkt hat sich gedreht: Betreiber von Rechenzentren, Chip-Konzerne und Energieversorger sind unter Druck. Experten halten Verluste bei fünf Titeln aber für übertrieben.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-diese-ki-aktien-sind-zu-unrecht-gefallen-sagen-analysten/100263467.html",
-   "published": "2026-10-26T14:58:11+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Firma: Börsenprospekt vorgelegt: Anthropic leitet seinen Mega-IPO ein",
-   "summary": "Als erstes großes KI-Start-up steht Anthropic kurz vor seinem Debüt am Aktienmarkt. Der am Montag veröffentlichte Börsenprospekt gibt erstmals Einblick in die genauen Geschäftszahlen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-anthropic-leitet-mega-boersengang-ein/100264987.html",
-   "published": "2026-10-26T14:44:11+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Meta will fast 100 Milliarden Dollar für KI-Ausbau auftreiben",
-   "summary": "Zuletzt wurde noch über bis zu 50 Milliarden Dollar diskutiert. Ein Signal für die Branche? Und: Anthropic hat das S-1-Filing eingereicht, ein weiterer Schritt Richtung Börsengang.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-meta-will-fast-100-milliarden-dollar-fuer-ki-ausbau-auftreiben/100265018.html",
-   "published": "2026-10-26T14:31:31+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI-Pionier Anthropic beantragt Börsengang in den USA",
-   "summary": "Anthropic will an die Börse, während Hackerangriffe durch eigenständig handelnde KI-Agenten die Sicherheitsdebatte verschärfen. Könnten die Bedenken den Börsenstart belasten?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-pionier-anthropic-beantragt-boersengang-in-den-usa/100265036.html",
-   "published": "2026-10-26T14:17:16+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir können diese Agenten schon heute nicht kontrollieren“",
-   "summary": "Der US-Bestsellerautor Michael Pollan über Gefühle in KI, Gespräche mit Claude – und welche Teile seines Lebens er nie mit einem Chatbot teilen würde.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-medien-ki-und-permanente-ablenkung-vermuellen-unser-bewusstsein/100261781.html",
-   "published": "2026-10-26T10:40:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
-   "summary": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-   "published": "2026-10-26T10:19:27+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Anlageideen: Die nächsten 25 Börsenstars",
-   "summary": "Von Biotech bis Robotik: Die Zukunft hat mehr zu bieten als KI. Wir stellen fünf Wachstumsbranchen vor – und jeweils fünf Aktien mit besonders viel Potenzial.",
-   "link": "https://www.wiwo.de/finanzen/boerse/wachstumschancen-auch-ohne-ki-das-sind-die-25-boersenstars-von-morgen/100263833.html",
-   "published": "2026-10-26T09:39:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Nvidia-CEO Jensen Huang: Der Tech-Superstar und sein gefährlicher Geld-Kreislauf",
-   "summary": "Nvidia verdient Milliarden am KI-Boom, der CEO wird gefeiert, wo immer er auftaucht. Weniger beachtet: Nvidia finanziert einen bedeutenden Teil dieses Hypes inzwischen selbst.",
-   "link": "https://www.wiwo.de/unternehmen/it/nvidia-und-der-ki-boom-warum-der-geld-kreislauf-riskant-wird/100264111.html",
-   "published": "2026-10-26T09:37:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Stimmung in Unternehmen hellt sich auf – Ifo-Index steigt",
-   "summary": "VW-Betriebsratschefin nennt Auftritt von Audi-Chef bei Trump „beschämend“ +++ Bis zu 12.000 Jobs bei Wegzug der UBS aus der Schweiz in Gefahr +++ KI von Anthropic umgeht offenbar Bezahlschranke für US-Wählerdaten +++ Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-stimmung-in-unternehmen-hellt-sich-auf-ifo-index-steigt-faz-200452404.html",
-   "published": "2026-10-26T09:28:42+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Porsche: „KI könnte Bildschirme im Auto komplett ersetzen“",
-   "summary": "Teslas Roadster hebt mit Raketentechnik ab, Porsche setzt beim Mission S auf ein Retrodesign. Designchef Tobias Sühlmann über den neuen Supersportwagen.",
-   "link": "https://www.wiwo.de/unternehmen/auto/porsche-mission-s-warum-der-superwagen-bildschirme-verbannt-und-auf-ki-setzt/100263485.html",
-   "published": "2026-10-26T09:24:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rückenwind für Trump-Kritiker: Wie KI-Rechenzentren zum Streitthema der US-Midterms wurden",
-   "summary": "Tech-Firmen wollen in den USA hunderte Rechenzentren bauen, Präsident Donald Trump feiert das als Weg in die KI-Zukunft, die Mehrheit der Amerikaner ist dagegen. Zu den Midterms kocht der Streit hoch.",
-   "link": "https://www.handelsblatt.com/politik/international/rueckenwind-fuer-trump-kritiker-wie-ki-rechenzentren-zum-streitthema-der-us-midterms-wurden/100264913.html",
-   "published": "2026-10-26T08:42:07+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Der Preis der Billigjagd: Europa geht die Elektronik aus",
-   "summary": "Fast die gesamte Elektronikproduktion befindet sich inzwischen in Übersee. Der Boom der Rechenzentren für die Künstliche Intelligenz legt offen, wie gefährlich das ist.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kommentar-der-preis-der-billigjagd-europa-geht-die-elektronik-aus/100263837.html",
-   "published": "2026-10-26T03:08:37+00:00",
-   "first_seen": "2026-10-26T05:36:13.580206+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Lieferkrise: Dieses elektronische Bauteil gefährdet Europas Industrie – „Tragweite bislang unterschätzt“",
-   "summary": "Leiterplatten waren nie ein Thema, nun werden sie zum Problem Nummer eins für Einkäufer. KI-Riesen kaufen die Fabriken in Asien leer, doch hierzulande ist die Produktion längst weggezogen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/lieferkrise-dieses-elektronische-bauteil-gefaehrdet-europas-industrie/100261099.html",
-   "published": "2026-10-26T02:59:18+00:00",
-   "first_seen": "2026-10-26T05:36:13.580206+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: KI von Anthropic umgeht offenbar Bezahlschranke für US-Wählerdaten",
-   "summary": "Frasers Group übernimmt bei Hugo Boss das Ruder +++ Open AI will Spitzen-KI ohne Internet trainieren +++ Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ki-von-anthropic-umgeht-laut-medien-bezahlschranke-fuer-us-waehlerdaten-faz-200452404.html",
-   "published": "2026-10-26T01:20:00+00:00",
-   "first_seen": "2026-10-26T05:36:13.580206+00:00",
    "paywall": true
   }
  ]

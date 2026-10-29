@@ -1,7 +1,16 @@
 {
  "id": "wg11iw-bpe01",
- "updated": "2026-10-29T07:49:14.252237+00:00",
+ "updated": "2026-10-29T14:47:03.848084+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
+   "summary": "Die EU und Kanada wollen wirtschaftlich und politisch enger zusammenrücken. Könnte eine verstärkte Kooperation Europas Lieferketten sichern, Preise stabil halten, Abhängigkeiten reduzieren? Von Petra Thiele.",
+   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html",
+   "published": "2026-10-29T13:12:47+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Deep Read: Nutzt Deutschland das Arbeitskräftepotenzial von Müttern zu wenig?",
@@ -10,6 +19,15 @@
    "published": "2026-10-29T07:00:00+00:00",
    "first_seen": "2026-10-29T07:49:14.252237+00:00",
    "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Frei über Japan: \"Davon können wir lernen\"",
+   "summary": "Japan zeigt, wie sich Lieferketten breiter aufstellen und Abhängigkeiten von wichtigen Rohstoffen verringern lassen. „Davon können wir ohne Zweifel lernen“, sagt Unionsfraktionschef Thorsten Frei.",
+   "link": "https://www.zdfheute.de/video/zdf-morgenmagazin/japan-lieferketten-rohstoffe-abhaengigkeiten-100.html",
+   "published": "2026-10-29T04:30:00+00:00",
+   "first_seen": "2026-10-29T14:47:03.848084+00:00",
+   "paywall": false
   },
   {
    "label": "FAZ",
@@ -82,24 +100,6 @@
    "published": "2026-10-26T15:57:33+00:00",
    "first_seen": "2026-10-26T17:55:53.124913+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
-   "summary": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
-   "published": "2026-10-26T10:19:27+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Neues Medium „Otter News“: „Wir brauchen auch Geschichten, die Mut machen“",
-   "summary": "Das Interesse für Klimawandel sinkt. Ausgerechnet jetzt will Daniel Drepper ein neues Medium für Klimaberichterstattung gründen. Kann das funktionieren? mehr...",
-   "link": "https://taz.de/Otter-News-ist-ein-neues-Medium-fuer-Klimaberichterstattung-Will-das-noch-jemand-lesen/!6219011/",
-   "published": "2026-10-26T10:19:00+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
   }
  ]
 }
