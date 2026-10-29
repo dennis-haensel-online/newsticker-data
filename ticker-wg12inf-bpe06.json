@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-29T14:47:03.848084+00:00",
+ "updated": "2026-10-29T19:57:44.981420+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "AfD-Leak: AfD räumt Veröffentlichung Tausender Wählerdaten ein",
+   "summary": "Nach Handelsblatt-Recherchen über ein Datenleck bestätigt die AfD Mecklenburg-Vorpommern den massiven Abfluss von Meldedaten. Die Partei warnt Betroffene vor Betrug und Identitätsklau.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/afd-leak-afd-raeumt-veroeffentlichung-tausender-waehlerdaten-ein/100265985.html",
+   "published": "2026-10-29T17:57:24+00:00",
+   "first_seen": "2026-10-29T19:57:44.981420+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Beschwerde von Datenschutz-NGOs: Überwacht fürs KI-Training",
@@ -100,15 +109,6 @@
    "published": "2026-10-26T16:07:00+00:00",
    "first_seen": "2026-10-26T17:55:53.124913+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI-Pionier Anthropic beantragt Börsengang in den USA",
-   "summary": "Anthropic will an die Börse, während Hackerangriffe durch eigenständig handelnde KI-Agenten die Sicherheitsdebatte verschärfen. Könnten die Bedenken den Börsenstart belasten?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-pionier-anthropic-beantragt-boersengang-in-den-usa/100265036.html",
-   "published": "2026-10-26T14:17:16+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": true
   }
  ]
 }

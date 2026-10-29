@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-10-29T14:47:03.848084+00:00",
+ "updated": "2026-10-29T19:57:44.981420+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "AfD-Leak: AfD räumt Veröffentlichung Tausender Wählerdaten ein",
+   "summary": "Nach Handelsblatt-Recherchen über ein Datenleck bestätigt die AfD Mecklenburg-Vorpommern den massiven Abfluss von Meldedaten. Die Partei warnt Betroffene vor Betrug und Identitätsklau.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/afd-leak-afd-raeumt-veroeffentlichung-tausender-waehlerdaten-ein/100265985.html",
+   "published": "2026-10-29T17:57:24+00:00",
+   "first_seen": "2026-10-29T19:57:44.981420+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitszeit: Arbeitszeitbetrug: So können sich Unternehmen wehren",
+   "summary": "Wäsche waschen, einkaufen, Netflix schauen: Immer wieder erledigen Beschäftigte Privates in ihrer Arbeitszeit. Wo der Betrug beginnt und was Unternehmen dagegen machen können.",
+   "link": "https://www.handelsblatt.com/karriere/unternehmen-wo-arbeitszeitbetrug-beginnt-und-was-chefs-dagegen-machen-koennen/100141010.html",
+   "published": "2026-10-29T15:17:00+00:00",
+   "first_seen": "2026-10-29T19:57:44.981420+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Kreditkartenaffäre: Wende in „Operation Chargeback“: Gericht zerpflückt Anklage",
@@ -226,15 +244,6 @@
    "published": "2026-10-26T16:40:24+00:00",
    "first_seen": "2026-10-26T17:55:53.124913+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Gemeinsames Europäisches Asylsystem: Die Reform ist gescheitert",
-   "summary": "Seit rund vier Monaten gibt es ein neues EU-Asylsystem. Eine erste Bilanz offenbart eine schwache EU, in der sich alle gegenseitig blockieren. mehr...",
-   "link": "https://taz.de/Gemeinsames-Europaeisches-Asylsystem/!6225018/",
-   "published": "2026-10-26T15:37:00+00:00",
-   "first_seen": "2026-10-26T17:55:53.124913+00:00",
-   "paywall": false
   }
  ]
 }
