@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-28T21:26:15.750895+00:00",
+ "updated": "2026-10-29T01:24:34.802695+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Verlegerverbände - Bündnis gegen KI-Risiken geschlossen",
+   "summary": "Angesichts der Auswirkungen von Künstlicher Intelligenz wollen sich Zeitungs- und Zeitschriftenverlage aus Deutschland und Kanada gemeinsam für einen besseren Schutz journalistischer Inhalte einsetzen.",
+   "link": "https://www.deutschlandfunk.de/buendnis-gegen-ki-risiken-geschlossen-104.html",
+   "published": "2026-10-29T00:07:18+00:00",
+   "first_seen": "2026-10-29T01:24:34.802695+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Techkonzerne: Microsoft überzeugt und profitiert vom Cloud-Geschäft",
+   "summary": "Auch Alphabet wächst dank KI rasant in den Sparten für Cloud Computing. Googles Werbegeschäft bleibt hinter den Erwartungen zurück. Dafür hat die Gemini-App nun eine Milliarde Nutzer.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-und-alphabet-cloud-boom-dank-ki-201630821.html",
+   "published": "2026-10-28T23:15:04+00:00",
+   "first_seen": "2026-10-29T01:24:34.802695+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Teurer KI-Wettlauf – Alphabet verschreckt die Wall Street",
+   "summary": "Die Cloudsparte verdoppelt ihren Umsatz, trotzdem stürzt die Alphabet-Aktie ab: Werbegeschäft und Gewinn enttäuschen, der KI-Ausbau verschlingt Milliarden.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-teurer-ki-wettlauf-alphabet-verschreckt-die-wall-street/100265408.html",
+   "published": "2026-10-28T22:51:07+00:00",
+   "first_seen": "2026-10-29T01:24:34.802695+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Verlegerverbände - Bündnis gegen KI-Risiken geschlossen",
@@ -856,24 +883,6 @@
    "published": "2026-10-25T14:48:33+00:00",
    "first_seen": "2026-10-25T17:59:01.605344+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Porsche: „KI könnte Bildschirme im Auto komplett ersetzen“",
-   "summary": "Teslas Roadster hebt mit Raketentechnik ab, Porsche setzt beim Mission S auf ein Retrodesign. Designchef Tobias Sühlmann über den neuen Supersportwagen.",
-   "link": "https://www.wiwo.de/unternehmen/auto/porsche-mission-s-warum-der-supersportler-bildschirme-verbannt/100263485.html",
-   "published": "2026-10-25T14:45:23+00:00",
-   "first_seen": "2026-10-25T17:59:01.605344+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "„Prix Pascal“ für KI-Literatur: Ein Preis für die Superintelligenz",
-   "summary": "Der französische „Prix Pascal“ soll mit künstlicher Intelligenz verfasste Bücher auszeichnen. Doch das legitimiert Technologie, die Literatur bedroht. mehr...",
-   "link": "https://taz.de/Prix-Pascal-fuer-KI-Literatur/!6224084/",
-   "published": "2026-10-25T13:12:00+00:00",
-   "first_seen": "2026-10-25T14:41:07.807678+00:00",
-   "paywall": false
   }
  ]
 }

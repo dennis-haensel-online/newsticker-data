@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-10-28T21:26:15.750895+00:00",
+ "updated": "2026-10-29T01:24:34.802695+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Europa: Italien plant milliardenschwere Steuersenkungen und höhere Bankenabgaben",
+   "summary": "Giorgia Meloni erhöht die Steuern für Banken und Konzerne, um vor der Wahl Steuersenkungen und höhere Ausgaben von 26 Milliarden Euro zu finanzieren.",
+   "link": "https://www.handelsblatt.com/politik/international/europa-italien-plant-milliardenschwere-steuersenkungen-und-hoehere-bankenabgaben/100265727.html",
+   "published": "2026-10-28T21:58:46+00:00",
+   "first_seen": "2026-10-29T01:24:34.802695+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Übernahme: Fusion von Telekom mit T-Mobile US in Gefahr",
@@ -9,6 +18,15 @@
    "link": "https://www.handelsblatt.com/unternehmen/dienstleister/uebernahme-fusion-von-telekom-mit-t-mobile-us-in-gefahr/100265710.html",
    "published": "2026-10-28T20:39:25+00:00",
    "first_seen": "2026-10-28T21:26:15.750895+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Übernahme: Fusion der Telekom mit T-Mobile US in Gefahr",
+   "summary": "Laut einem Medienbericht gibt es deutlichen Widerstand im Betriebsrat. Das US-Geschäft wächst derweil, der Gewinn stieg im vergangenen Quartal kräftig.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/uebernahme-fusion-der-telekom-mit-t-mobile-us-in-gefahr/100265710.html",
+   "published": "2026-10-28T20:39:25+00:00",
+   "first_seen": "2026-10-29T01:24:34.802695+00:00",
    "paywall": true
   },
   {
@@ -883,24 +901,6 @@
    "published": "2026-10-25T15:17:38+00:00",
    "first_seen": "2026-10-25T17:59:01.605344+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Audi-Chef Döllner zu Besuch bei Trump: Ingolstädter Autobauer plant neues SUV-Werk in den USA",
-   "summary": "Bei einem Wahlkampf-Event des US-Präsidenten verspricht Audi-Chef Döllner ein neue Fertigungsstätte in Georgia. Deutsche Fabriken stehen auf der Kippe. mehr...",
-   "link": "https://taz.de/Audi-Chef-Doellner-zu-Besuch-bei-Trump/!6224792/",
-   "published": "2026-10-25T15:08:00+00:00",
-   "first_seen": "2026-10-25T17:59:01.605344+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-   "summary": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
-   "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-   "published": "2026-10-25T15:04:51+00:00",
-   "first_seen": "2026-10-26T11:53:24.533891+00:00",
-   "paywall": false
   }
  ]
 }
