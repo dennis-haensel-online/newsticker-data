@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-30T16:52:36.070906+00:00",
+ "updated": "2026-10-30T21:14:41.865905+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
+   "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+   "published": "2026-10-30T20:21:33+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Plattform Binance - Reaktionen auf Krypto-Hackerangriff: \"Entsetzen an der Börse\", \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
@@ -27,6 +36,15 @@
    "link": "https://www.handelsblatt.com/audio/today/podcast-kryptoboerse-binance-gehackt-was-merz-asienreise-gebracht-hat/100266246.html",
    "published": "2026-10-30T16:12:41+00:00",
    "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Kryptobörse Binance gehackt | Was Merz‘ Asienreise gebracht hat",
+   "summary": "Der Kryptomarkt reagiert mit Kursverlusten auf einen großen Hackerangriff. Und: Leila Al-Serori, Co-Leiterin des Politikressorts beim Handelsblatt, berichtet von Kanzler Merz' Asienreise.",
+   "link": "https://www.handelsblatt.com/audio/today/today-kryptoboerse-binance-gehackt-was-merz-asienreise-gebracht-hat/100266246.html",
+   "published": "2026-10-30T16:12:41+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
    "paywall": true
   },
   {

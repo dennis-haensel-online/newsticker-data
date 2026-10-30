@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-30T16:52:36.070906+00:00",
+ "updated": "2026-10-30T21:14:41.865905+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
+   "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+   "published": "2026-10-30T20:21:33+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert über 30 Prozent",
+   "summary": "An den US-Börsen brechen die Kurse zahlreicher Tech-Konzerne nach Sorgen im KI-Sektor ein. Die Preise für Gold und Silber liegen derweil so niedrig wie seit einem Jahr nicht mehr.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-30-prozent/100266181.html",
+   "published": "2026-10-30T19:57:39+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technologie: Papst fordert institutionelle Aufsicht für die Entwicklung von KI",
+   "summary": "Bereits im Frühjahr hatte sich Papst Leo XIV. in seiner Enzyklika zu der Entwicklung von Künstlicher Intelligenz geäußert. Nun macht er seine Forderungen noch deutlicher.",
+   "link": "https://www.handelsblatt.com/technik/ki/technologie-papst-fordert-institutionelle-aufsicht-fuer-die-entwicklung-von-ki/100266262.html",
+   "published": "2026-10-30T19:11:02+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "KI-Steuer: Bitte jetzt (noch) keine KI-Steuer!",
+   "summary": "Bundesbildungsministerin Karin Prien will, dass nicht nur Menschen, sondern auch Maschinen den Staat finanzieren. Das klingt vernünftig. Doch eine KI-Steuer käme zu früh.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/kuesntliche-intelligenz-steuer-cdu-karin-prien",
+   "published": "2026-10-30T19:02:32+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Tech-Riesen kämpfen: Die Nervosität rund um KI wächst",
+   "summary": "Die großen Techkonzerne sehen sich nicht nur verstärkten Fragen ausgesetzt, ob sich ihre gewaltigen KI-Investitionen auszahlen. Ihre Quartalsberichte nähren auch Sorgen, dass KI manche ihrer Geschäfte bedrohen könnte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-investitionen-unter-druck-google-und-amazon-enttaeuschen-maerkte-201636860.html",
+   "published": "2026-10-30T18:27:31+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Logistik-Mittelständler: „Der Tankrabatt ist ein Nasenwasser“",
+   "summary": "Seifert Logistics hat ein enormes Wachstum hingelegt. Die Ulmer bewegen sich in einem Milliardenmarkt, expandieren ins Ausland, lassen Roboter anpacken – und stoßen doch an Grenzen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/was-ein-logistik-mittelstaendler-vom-tankrabatt-haelt-201608524.html",
+   "published": "2026-10-30T17:20:41+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Plattform Binance - Reaktionen auf Krypto-Hackerangriff: \"Entsetzen an der Börse\", \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
@@ -36,6 +90,15 @@
    "link": "https://www.handelsblatt.com/audio/today/podcast-kryptoboerse-binance-gehackt-was-merz-asienreise-gebracht-hat/100266246.html",
    "published": "2026-10-30T16:12:41+00:00",
    "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Kryptobörse Binance gehackt | Was Merz‘ Asienreise gebracht hat",
+   "summary": "Der Kryptomarkt reagiert mit Kursverlusten auf einen großen Hackerangriff. Und: Leila Al-Serori, Co-Leiterin des Politikressorts beim Handelsblatt, berichtet von Kanzler Merz' Asienreise.",
+   "link": "https://www.handelsblatt.com/audio/today/today-kryptoboerse-binance-gehackt-was-merz-asienreise-gebracht-hat/100266246.html",
+   "published": "2026-10-30T16:12:41+00:00",
+   "first_seen": "2026-10-30T21:14:41.865905+00:00",
    "paywall": true
   },
   {
@@ -837,69 +900,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/arbeitsmarkt-das-microsoft-beben-bereitet-it-fachkraeften-sorge/100265359.html",
    "published": "2026-10-28T14:30:00+00:00",
    "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/karriere-wie-bewerber-auf-ki-statt-auf-menschliche-recruiter-reagieren/100248546.html",
-   "published": "2026-10-28T14:26:00+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Lieferkrise: KI-Boom verschärft den Engpass: Dieses elektronische Bauteil gefährdet Europas Industrie",
-   "summary": "Leiterplatten waren nie ein Thema, nun werden sie zum größten Problem für Einkäufer. KI-Riesen wie Nvidia kaufen die Fabriken in Asien leer. Hierzulande ist die Produktion längst weggezogen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-dieses-elektronische-bauteil-gefaehrdet-europas-industrie/100261099.html",
-   "published": "2026-10-28T14:19:00+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Anthropic-IPO sorgt für Euphorie – Diese KI-Aktien empfehlen Analysten",
-   "summary": "Allein im zweiten Quartal hat das KI-Start-up seinen Umsatz vervierzehnfacht. Das dreht die Stimmung am Aktienmarkt. Bei fünf KI-Aktien sind Experten besonders optimistisch.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-euphorie-um-anthropic-diese-ki-aktien-empfehlen-analysten-01/100263467.html",
-   "published": "2026-10-28T13:59:00+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-kompetenz-wird-das-wettbewerbsmerkmal-der-zukunft-sein/100223312.html",
-   "published": "2026-10-28T13:23:00+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Chip-Start-up: Ein Chip aus der Trickkiste der Mathematik",
-   "summary": "Tensordyne entwickelt Halbleiterbausteine, die der KI im Datenzentrum leichter auf die Sprünge helfen sollen. Dafür greift das Start-up zu einem 400 Jahre alten Kniff. Mitgründer Gilles Backhus erklärt, was es damit auf sich hat.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-chips-von-tensordyne-dieser-400-jahre-alte-mathe-trick-steckt-dahinter-accg-201309656.html",
-   "published": "2026-10-28T12:11:07+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "IT-Sicherheit - Bitkom erwartet deutlich steigende Investitionen in Unternehmen",
-   "summary": "​Deutsche Unternehmen investieren wegen der wachsenden Gefahr von Cyberangriffen mehr Geld in ihre ‌IT-Sicherheit.",
-   "link": "https://www.deutschlandfunk.de/bitkom-erwartet-deutlich-steigende-investitionen-in-unternehmen-100.html",
-   "published": "2026-10-28T10:05:24+00:00",
-   "first_seen": "2026-10-28T10:09:22.515112+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/karriere-diese-ki-kompetenzen-sichern-bewerbern-die-besten-job/100251207.html",
-   "published": "2026-10-28T08:58:00+00:00",
-   "first_seen": "2026-10-28T10:09:22.515112+00:00",
    "paywall": true
   }
  ]
