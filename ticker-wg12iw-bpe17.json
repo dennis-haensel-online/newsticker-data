@@ -1,7 +1,70 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-10-30T03:35:29.072006+00:00",
+ "updated": "2026-10-30T10:35:11.032759+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "BIP in Deutschland: Wirtschaftsleistung legt im dritten Quartal leicht zu",
+   "summary": "Trockenheit, hohe Energiepreise und weltweite Handelshemmnisse – keine günstigen Voraussetzungen für Wachstum. Trotzdem hat die Wirtschaftsleistung im dritten Quartal leicht zugelegt.",
+   "link": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss",
+   "published": "2026-10-30T10:07:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt im Oktober auf 2,95 Millionen",
+   "summary": "Saisonbedingt ist die Arbeitslosenzahl in Deutschland im Oktober auf 2,95 Millionen zurückgegangen. Gleichzeitig bleibt die Nachfrage nach Arbeitskräften gering. Diesen Monat waren 654.000 offene Stellen gemeldet.",
+   "link": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss",
+   "published": "2026-10-30T10:00:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bert Rürup: Zölle sind das Janusgesicht des Protektionismus",
+   "summary": "Europas Autoindustrie steckt in der Zollfalle. Schutzwälle gegen China-Importe können ihr Zeit verschaffen. Den auch selbstverschuldeten Verlust an Wettbewerbsfähigkeit ersetzen sie nicht.",
+   "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/bert-ruerup-zoelle-sind-das-janusgesicht-des-protektionismus/100264969.html",
+   "published": "2026-10-30T09:53:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Energiepreise: Britischer ​Ölkonzern BP verdreifacht seinen Gewinn",
+   "summary": "Der britische Ölkonzern BP profitiert von den hohen Energiepreisen. Mit 8,46 Milliarden Dollar im dritten Quartal erzielt der Konzern den höchsten Wert seit Jahren.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/bp-quartalsgewinn-energiepreise-deepwater-horizon-gxe",
+   "published": "2026-10-30T09:47:55+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Deutsche Wirtschaft wächst im dritten Quartal – trotz Belastungen",
+   "summary": "Niedrige Rheinpegel, schwächere Exporte und hohe Energiepreise belasten. Trotzdem wächst die deutsche Wirtschaft stärker als von Ökonomen erwartet.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-im-dritten-quartal/100266091.html",
+   "published": "2026-10-30T09:24:34+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Energiepreise: Importpreise klettern so stark wie seit November 2022 nicht mehr",
+   "summary": "Strom, Erdgas und Mineralöl verteuern Deutschlands Importe im September deutlich. Der Preisschub heizt auch die allgemeine Inflation an.",
+   "link": "https://www.wiwo.de/unternehmen/handel/energie-importpreise-klettern-so-stark-wie-seit-november-2022-nicht-mehr/100266100.html",
+   "published": "2026-10-30T09:07:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-ki-fragen-sollten-sie-als-bewerber-beantworten-koennen/100240522.html",
+   "published": "2026-10-30T08:51:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Energiepreise: Wird das Gas noch teurer?",
@@ -387,60 +450,6 @@
    "link": "https://www.wiwo.de/unternehmen/auto/chinas-autobranche-in-der-krise-peking-erzwingt-grosse-fusionen/100263495.html",
    "published": "2026-10-27T08:20:00+00:00",
    "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Energiekrise: Warum ist der Strom doppelt so teuer wie zu Jahresbeginn?",
-   "summary": "Hohe Strompreise belasten Deutschland. Für Verbraucher ist keine Entlastung in Sicht – auch mehr Ökostrom schafft erst einmal keine Abhilfe.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/strom-doppelt-so-teuer-wie-zu-jahresbeginn-accg-201621651.html",
-   "published": "2026-10-27T07:01:36+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Energiekrise: Warum ist der Strom doppelt so teuer wie zu Jahresbeginn?",
-   "summary": "Hohe Strompreise belasten Deutschland. Für Verbraucher ist keine Entlastung in Sicht – auch mehr Ökostrom schafft erst einmal keine Abhilfe.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/warum-ist-der-strom-doppelt-so-teuer-wie-zu-jahresbeginn-accg-201621651.html",
-   "published": "2026-10-27T07:01:36+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Autobauer: Porsche stabilisiert Rendite bei schwachem Absatz",
-   "summary": "Porsche erholt sich vom Gewinneinbruch. Doch China-Schwäche, US-Zölle und die verhaltene E-Auto-Nachfrage bremsen den Sportwagenbauer weiter deutlich.",
-   "link": "https://www.wiwo.de/unternehmen/auto/porsche-autobauer-stabilisiert-rendite-bei-schwachem-absatz/100265166.html",
-   "published": "2026-10-27T06:59:35+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Autoversicherung: Preiskampf in der Kfz-Versicherung ist zurück",
-   "summary": "In den vergangenen Jahren haben etliche Kfz-Versicherer ihre Preise drastisch erhöht. Diese Phase scheint vorbei: Nun schwingt das Pendel wieder in die entgegengesetzte Richtung.",
-   "link": "https://www.wiwo.de/finanzen/vorsorge/scharfer-wettbewerb-verivox-preiskampf-in-der-kfz-versicherung-ist-zurueck/100265139.html",
-   "published": "2026-10-27T06:22:00+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Scharfer Wettbewerb: Verivox: Preiskampf in der Kfz-Versicherung ist zurück",
-   "summary": "In den vergangenen Jahren haben etliche Kfz-Versicherer ihre Preise drastisch erhöht. Diese Phase scheint vorbei: Nun schwingt das Pendel wieder in die entgegengesetzte Richtung.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/scharfer-wettbewerb-verivox-preiskampf-in-der-kfz-versicherung-ist-zurueck/100265138.html",
-   "published": "2026-10-27T04:00:10+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Boom ohne Ende? Altersvorsorgedepot dürfte Nachfrage nach aktiven ETFs treiben",
-   "summary": "Aktive ETFs verwalten in Deutschland 119 Milliarden Euro. Das Vermögen hat sich in zwölf Monaten fast verdoppelt. Anbieter setzen nun auf die Reform der privaten Altersvorsorge.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-altersvorsorgedepot-duerfte-nachfrage-nach-aktiven-etfs-treiben/100263369.html",
-   "published": "2026-10-27T03:00:00+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
    "paywall": true
   }
  ]

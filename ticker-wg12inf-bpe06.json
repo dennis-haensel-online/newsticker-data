@@ -1,7 +1,97 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-10-30T03:35:29.072006+00:00",
+ "updated": "2026-10-30T10:35:11.032759+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Hackerangriff - Mehrere Milliarden Dollar bei Kryptobörse Binance abgegriffen",
+   "summary": "Die größte Digitalwährungsbörse Binance ist Ziel eines Hackerangriffs geworden.",
+   "link": "https://www.deutschlandfunk.de/mehrere-milliarden-dollar-bei-kryptoboerse-binance-abgegriffen-100.html",
+   "published": "2026-10-30T10:25:09+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bosnien und Herzegowina: Binance meldet Milliardenschaden nach Hackerangriff",
+   "summary": "Hacker haben bei der weltweit größten Kryptobörse nach Angaben des Unternehmens 6,3 Milliarden Dollar gestohlen. Nach Einschätzung von Analysten könnte dies der größte Krypto-Diebstahl der Geschichte sein.",
+   "link": "https://www.handelsblatt.com/video/politik/bosnien-und-herzegowina-binance-meldet-milliardenschaden-nach-hackerangriff/100266144.html",
+   "published": "2026-10-30T10:05:51+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geleakte Mails: „Mein Landesverband ist nicht euer Gutshof“: Der Streit der AfD in NRW um ein Millionenprojekt",
+   "summary": "Der Landesverband NRW plante den Kauf einer Halle für Parteiveranstaltungen. Doch interne E-Mails aus einem Datenleck zeigen, wie die Partei sich selbst im Weg stand.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/geleakte-mails-woran-ein-millionenschweres-immobilienvorhaben-der-afd-scheiterte/100264158.html",
+   "published": "2026-10-30T10:03:32+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kryptobörse: Größter Krypto-Diebstahl aller Zeiten? Binance meldet Hackerangriff﻿",
+   "summary": "Nach Angaben von Binance sind insgesamt Werte in Höhe von schätzungsweise 6,3 Milliarden Dollar betroffen. Hinter dem Angriff wird bereits eine bestimmte Hackergruppe vermutet.",
+   "link": "https://www.handelsblatt.com/finanzen/binance-kryptoboerse-meldet-hackerangriff-bitcoin-auf-sechs-wochen-tief/100266046.html",
+   "published": "2026-10-30T09:46:51+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Asien: Nikkei und Technologiewerte in Asien schließen im Minus",
+   "summary": "Die schwachen Zahlen der Tech-Konzerne Amazon und Intel haben an den asiatischen Börsen Folgen. Auch ein möglicher Hackerangriff auf die Kryptowährungsbörse Binance drückte auf die Stimmung.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-nikkei-und-technologiewerte-in-asien-schliessen-im-minus/100266061.html",
+   "published": "2026-10-30T08:55:31+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: KI-Kosten brennen Milliardenloch in Amazon-Bilanz",
+   "summary": "Hohe KI-Kosten belasten Amazon: Der Barmittelabfluss steigt auf 42,4 Milliarden Dollar. Zugleich wächst die Cloud-Tochter AWS so stark wie seit Jahren nicht.",
+   "link": "https://www.wiwo.de/unternehmen/handel/amazon-bilanz-hohe-kosten-fuer-ki-rechenzentren-verursachen-milliardenloch/100266087.html",
+   "published": "2026-10-30T08:37:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Binance gehackt: Größter Krypto-Diebstahl der Geschichte?",
+   "summary": "Die Kryptobörse Binance ist Ziel eines mutmaßlichen Hackerangriffs geworden. Der Schaden wird auf 6,3 Milliarden Dollar geschätzt. Das Unternehmen will alle Verluste ersetzen.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/binance-hack-kryptoboerse-diebstahl-100.html",
+   "published": "2026-10-30T07:34:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+   "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+   "published": "2026-10-30T07:24:20+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Kryptowährungen: Weltgrößte Kryptobörse Binance meldet mutmaßlichen Hackerangriff",
+   "summary": "Cyberkriminelle sollen auf der Kryptowährungsplattform Binance rund 6,3 Milliarden Dollar gestohlen haben. Es könnte der größte Krypto-Diebstahl aller Zeiten sein.",
+   "link": "https://www.zeit.de/wirtschaft/2026-10/binance-hack-krypto-diebstahl-circle-tether-yi-he",
+   "published": "2026-10-30T05:37:46+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Kryptowährung: Möglicher Sicherheitsvorfall bei Binance",
+   "summary": "Die Kryptowährungsbörse friert vorsorglich drei Milliarden Dollar ein. Die Firma werde alle Verluste aus Hackerangriffen decken, teilt das Unternehmen mit.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/sicherheitsvorfall-binance-kryptowaehrung-hackerangriff-li.3571404",
+   "published": "2026-10-30T05:15:48+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Schwache Prognose: Intel-Aktie bricht um fast 20 Prozent ein",

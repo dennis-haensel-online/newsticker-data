@@ -1,7 +1,43 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-10-30T03:35:29.072006+00:00",
+ "updated": "2026-10-30T10:35:11.032759+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
+   "summary": "Der DAX rutscht im frühen Handel zwar wieder unter 26.000 Punkte, er bleibt aber in Schlagweite. Trotz steigender Ölpreise und schwacher Bilanzen von Intel und Amazon hält sich der deutsche Leitindex stabil.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+   "published": "2026-10-30T09:25:43+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autobauer: Gewinn von Audi bricht drastisch ein – 87 Prozent weniger als im Vorjahreszeitraum",
+   "summary": "Nach dem PR‑Desaster des Audi-Chefs in den USA folgt nun bilanziell der nächste Tiefschlag. Die Kernmarke Audi ist im dritten Quartal in die roten Zahlen gerutscht.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/autohersteller-audi-schreibt-verluste-im-dritten-quartal/100265268.html",
+   "published": "2026-10-30T08:51:13+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: KI-Kosten brennen Milliardenloch in Amazon-Bilanz",
+   "summary": "Hohe KI-Kosten belasten Amazon: Der Barmittelabfluss steigt auf 42,4 Milliarden Dollar. Zugleich wächst die Cloud-Tochter AWS so stark wie seit Jahren nicht.",
+   "link": "https://www.wiwo.de/unternehmen/handel/amazon-bilanz-hohe-kosten-fuer-ki-rechenzentren-verursachen-milliardenloch/100266087.html",
+   "published": "2026-10-30T08:37:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Keine Luxusmode mehr: Ehemalige fashionette GmbH meldet Insolvenz an",
+   "summary": "Wenige Tage, nachdem sich The Platform Group von der früheren fashionette GmbH getrennt hat, stellt der neue Eigentümer schon Insolvenzantrag.",
+   "link": "https://www.wiwo.de/unternehmen/handel/ehemalige-fashionette-gmbh-bcr-online-warenhandels-gmbh-meldet-insolvenz-an/100265974.html",
+   "published": "2026-10-30T08:33:00+00:00",
+   "first_seen": "2026-10-30T10:35:11.032759+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "AfD-Leak: AfD räumt Veröffentlichung Tausender Wählerdaten ein",
@@ -190,33 +226,6 @@
    "published": "2026-10-27T10:15:00+00:00",
    "first_seen": "2026-10-27T19:05:18.130792+00:00",
    "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Sensible Daten abgefragt - Kassenärzte warnen vor Betrug am Telefon - mit vorgetäuschten Anrufen des Patientenservice 116 117",
-   "summary": "Die Kassenärztliche Vereinigung Hessen warnt vor betrügerischen Telefonanrufen, bei denen Patienten nach sensiblen Daten wie Bankinformationen gefragt werden.",
-   "link": "https://www.deutschlandfunk.de/kassenaerzte-warnen-vor-betrug-am-telefon-mit-vorgetaeuschten-anrufen-des-patientenservice-116-100.html",
-   "published": "2026-10-27T06:52:09+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Unternehmensinsolvenzen: Insolvenzen sollen 2027 auf hohem Niveau bleiben",
-   "summary": "Der Kreditversicherer Allianz Trade rechnet 2027 mit ähnlich vielen Fällen wie zuletzt 2013 nach der Schuldenkrise. Im ersten Halbjahr 2026 waren es bereits fast 13.000.",
-   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/unternehmensinsolvenzen-deutschland-allianz-trade-prognose-gxe",
-   "published": "2026-10-27T05:49:07+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Unternehmen: Allianz-Prognose: Insolvenzen bleiben 2027 auf hohem Niveau",
-   "summary": "Mehr und mehr Unternehmen werden zu Sanierungsfällen. Der Kreditversicherer Allianz Trade rechnet dieses und nächstes Jahr mit nahezu je 26.000 Fällen. Allerdings bahnt sich eine Trendumkehr an.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/unternehmen-allianz-prognose-insolvenzen-bleiben-2027-auf-hohem-niveau/100265146.html",
-   "published": "2026-10-27T05:00:05+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
   }
  ]
 }
