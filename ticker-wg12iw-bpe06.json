@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-30T10:35:11.032759+00:00",
+ "updated": "2026-10-30T16:52:36.070906+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Automobilbranche - VW setzt E-Golf-Entwicklung aus, Audi-Aufsichtsrat berät über Geschäftszahlen",
+   "summary": "Volkswagen reagiert auf die Absatzkrise mit einer weiteren Sparmaßnahme am Stammwerk in Wolfsburg.",
+   "link": "https://www.deutschlandfunk.de/vw-setzt-e-golf-entwicklung-aus-audi-aufsichtsrat-beraet-ueber-geschaeftszahlen-102.html",
+   "published": "2026-10-30T16:37:29+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Britische Billigladenkette: Wenn sogar die Ein-Pfund-Geschäfte pleitegehen",
+   "summary": "Die Billigläden von Poundland sind in vielen britischen Einkaufsstraßen präsent. Nun droht der Kette der Kollaps. Es stehen bis zu 12.000 Jobs auf dem Spiel.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/poundland-vor-insolvenz-12-000-jobs-in-grossbritannien-bedroht-201636158.html",
+   "published": "2026-10-30T15:20:19+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Commerzbank/Unicredit: Commerzbank-Kunden werden nervös: Nun will Unicredit sie beruhigen",
+   "summary": "Vor der Übernahme der Commerzbank durch Unicredit werden viele Firmenkunden unruhig. Konzernchef Orcel bittet nun um ihr Vertrauen und verspricht, die Kreditvergabe auszuweiten.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahme-firmenkunden-andrea-orcel-li.3571581",
+   "published": "2026-10-30T13:25:41+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Aufsichtsrat berät: Der Auftritt bei Trump hat für Audi-Chef Döllner ein Nachspiel",
+   "summary": "In Ingolstadt kommen die Aufsichtsräte der VW-Tochtergesellschaft zusammen. Die Arbeitnehmervertreter machen Druck. Und in Wolfsburg soll sich auch der Konzernaufsichtsrat mit dem Thema befassen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-der-trump-auftritt-von-doellner-hat-ein-nachspiel-201636095.html",
+   "published": "2026-10-30T12:24:20+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Pfeifer & Langen: Die süßen Jahre sind vorbei – Wie Chio-Chips und Ültje die Zuckerdynastie durch die Krise retten",
@@ -406,42 +442,6 @@
    "published": "2026-10-27T13:17:07+00:00",
    "first_seen": "2026-10-27T13:46:13.329079+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Warenhäuser: Galeria-Vermietern droht finanzielles Desaster",
-   "summary": "Der Insolvenzverwalter will das Filialnetz deutlich reduzieren und kann die Mietverträge fristlos kündigen. Viele Vermieter stehen vor dem Nichts, jahrelanger Leerstand ist absehbar.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-vermietern-droht-finanzielles-desaster/100263295.html",
-   "published": "2026-10-27T12:57:37+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Insolvenz: Was jetzt auf Galeria-Kunden und Beschäftigte zukommt",
-   "summary": "Gutscheine, Arbeitsplätze und die Zukunft von mindestens 30 Filialen sind ungewiss. Was nach der vierten Insolvenz nun bei Galeria ansteht. Ein Überblick.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenz-2026-kunden-beschaeftigte-li.3564501",
-   "published": "2026-10-27T12:55:37+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Deshalb ist die Bewertung der Anthropic-Aktien so schwer",
-   "summary": "Rund 1,5 Billionen Dollar für ein Unternehmen, das zuletzt tiefrote Zahlen schrieb: Der IPO von Anthropic stellt die Börse vor ein Bewertungsproblem. Worauf Anleger achten sollten.",
-   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-aktie-deshalb-ist-die-bewertung-so-schwer/100265188.html",
-   "published": "2026-10-27T11:52:28+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Mitbestimmung und Alter: Wo bleibt die ausgleichende Gerechtigkeit?",
-   "summary": "Es ist das Jahr 2126, du bist 18 und willst wählen? Bitte, hier hast du 83 Stimmen! Dann klappt es auch mit der politischen Teilhabe junger Leute. mehr...",
-   "link": "https://taz.de/Mitbestimmung-und-Alter/!6219039/",
-   "published": "2026-10-27T08:48:00+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": false
   }
  ]
 }

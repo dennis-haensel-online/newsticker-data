@@ -1,7 +1,16 @@
 {
  "id": "ik",
- "updated": "2026-10-30T10:35:11.032759+00:00",
+ "updated": "2026-10-30T16:52:36.070906+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Nachruf auf Patrick Stewart: Auf einer neuen Heldenreise",
+   "summary": "Seine Rolle als Captain Picard legte Patrick Stewart wie eine Figur von Shakespeare an. Er engagierte sich für Diversität und gegen Diskriminierung. mehr...",
+   "link": "https://taz.de/Nachruf-auf-Patrick-Stewart/!6226279/",
+   "published": "2026-10-30T13:25:00+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Einwanderung - Ähnlich wie in Europa: Südkorea streitet über Migration und Fachkräftemangel",
@@ -226,33 +235,6 @@
    "published": "2026-10-27T13:19:48+00:00",
    "first_seen": "2026-10-27T13:46:13.329079+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Migration - EU will Frontex neu ausrichten: größere Rolle bei Abschiebungen",
-   "summary": "Die EU-Kommission will die europäische Grenzschutzagentur Frontex neu ausrichten.",
-   "link": "https://www.deutschlandfunk.de/eu-will-frontex-neu-ausrichten-groessere-rolle-bei-abschiebungen-100.html",
-   "published": "2026-10-27T13:16:31+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Radio aus migrantischer Sicht: Die Ungehörten hörbar machen",
-   "summary": "Radio Migrant widmet sich in mehreren Folgen der Perspektive von (Ar­beits-)­Mi­gran­t*in­nen. Und zeigt, wie sie sich gegen Diskriminierung wehren. mehr...",
-   "link": "https://taz.de/Radio-aus-migrantischer-Sicht/!6225013/",
-   "published": "2026-10-27T10:12:00+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Mitbestimmung und Alter: Wo bleibt die ausgleichende Gerechtigkeit?",
-   "summary": "Es ist das Jahr 2126, du bist 18 und willst wählen? Bitte, hier hast du 83 Stimmen! Dann klappt es auch mit der politischen Teilhabe junger Leute. mehr...",
-   "link": "https://taz.de/Mitbestimmung-und-Alter/!6219039/",
-   "published": "2026-10-27T08:48:00+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": false
   }
  ]
 }

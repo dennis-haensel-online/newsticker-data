@@ -1,7 +1,43 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-10-30T10:35:11.032759+00:00",
+ "updated": "2026-10-30T16:52:36.070906+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "US-Börsen: Nasdaq rutscht nach Tech-Bilanzen ab – Intel-Aktie verliert 30 Prozent",
+   "summary": "Der Ausverkauf an den US-Börsen geht angesichts der Quartalszahlen der großen KI-Profiteure weiter. Die Preise für Gold und Silber liegen derweil so niedrig wie seit einem Jahr nicht mehr.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-absolut-brutale-woche-fuer-tech-investoren-nasdaq-rutscht-ab/100266181.html",
+   "published": "2026-10-30T16:22:21+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitszeit: Arbeitszeitbetrug: So können sich Unternehmen wehren",
+   "summary": "Wäsche waschen, einkaufen, Netflix schauen: Immer wieder erledigen Beschäftigte Privates in ihrer Arbeitszeit. Wo der Betrug beginnt und was Unternehmen dagegen machen können.",
+   "link": "https://www.handelsblatt.com/karriere/unternehmen-diese-regeln-gelten-fuer-chefs-bei-verdacht-auf-arbeitszeitbetrug/100141010.html",
+   "published": "2026-10-30T15:31:00+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Aktienmärkte: Tech-Bilanzen verpassen Europas Börsen einen Dämpfer",
+   "summary": "Der deutsche Aktienmarkt rutscht am Freitagmorgen unter 26 000 Punkte, nachdem er tags zuvor das höchste Niveau seit Anfang September erreicht hatte. Anleger stellen den KI-Boom infrage.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/dax-amazon-intel-kuenstliche-intelligenz-aktienmaerkte-li.3571813",
+   "published": "2026-10-30T14:29:21+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Zweifel am KI-Boom wachsen",
+   "summary": "US-Techkonzerne investieren schwindelerregende Summen in Künstliche Intelligenz - doch halten die Einnahmen mit? Weitere enttäuschende Bilanzen drücken die Technologiebörse Nasdaq ins Minus, was auch deutsche Anleger spüren.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+   "published": "2026-10-30T13:44:00+00:00",
+   "first_seen": "2026-10-30T16:52:36.070906+00:00",
+   "paywall": false
+  },
   {
    "label": "tagesschau",
    "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
@@ -190,42 +226,6 @@
    "published": "2026-10-27T16:15:19+00:00",
    "first_seen": "2026-10-27T19:05:18.130792+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Warenhäuser: Galeria-Vermietern droht finanzielles Desaster",
-   "summary": "Der Insolvenzverwalter will das Filialnetz deutlich reduzieren und kann die Mietverträge fristlos kündigen. Viele Vermieter stehen vor dem Nichts, jahrelanger Leerstand ist absehbar.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-vermietern-droht-finanzielles-desaster/100263295.html",
-   "published": "2026-10-27T12:57:37+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Insolvenz: Was jetzt auf Galeria-Kunden und Beschäftigte zukommt",
-   "summary": "Gutscheine, Arbeitsplätze und die Zukunft von mindestens 30 Filialen sind ungewiss. Was nach der vierten Insolvenz nun bei Galeria ansteht. Ein Überblick.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/galeria-insolvenz-2026-kunden-beschaeftigte-li.3564501",
-   "published": "2026-10-27T12:55:37+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Mercedes-Benz senkt Gewinnprognose",
-   "summary": "Der Stuttgarter Mercedes-Benz-Konzern ringt mit hohen Kosten und dem Gegenwind aus China. Das wird sich auch in der Bilanz niederschlagen. Die Prognosen korrigierte der Konzern nach unten.",
-   "link": "https://www.spiegel.de/wirtschaft/mercedes-benz-senkt-gewinnprognose-a-cb5ec453-eb34-4d98-99f0-133eef067c15#ref=rss",
-   "published": "2026-10-27T10:15:00+00:00",
-   "first_seen": "2026-10-27T13:46:13.329079+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Mercedes-Benz senkt Gewinnprognose",
-   "summary": "Der Stuttgarter Mercedes-Benz-Konzern ringt mit hohen Kosten und dem Gegenwind aus China. Das wird sich auch in der Bilanz niederschlagen. Die Prognosen korrigierte der Konzern nach unten.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-senkt-gewinnprognose-a-cb5ec453-eb34-4d98-99f0-133eef067c15#ref=rss",
-   "published": "2026-10-27T10:15:00+00:00",
-   "first_seen": "2026-10-27T19:05:18.130792+00:00",
-   "paywall": false
   }
  ]
 }
