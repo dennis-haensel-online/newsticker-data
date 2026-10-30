@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-29T23:46:55.062554+00:00",
+ "updated": "2026-10-30T03:35:29.072006+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Social Media: Unternehmer wehrt sich gegen Influencer – und erhält Morddrohungen",
+   "summary": "Udo Heuser, Inhaber des Parfümunternehmens Nobilis, lässt Creator sperren, die Billigkopien teurer Parfüms bewerben. Dafür erhält er Hunderte Hassnachrichten. Jetzt ermittelt die Polizei.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/social-media-unternehmer-klagt-gegen-influencer-und-erhaelt-morddrohungen/100265585.html",
+   "published": "2026-10-30T03:05:46+00:00",
+   "first_seen": "2026-10-30T03:35:29.072006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Jensen Huang: „Deutschland bleibt weit hinter seinem Potenzial zurück“",
+   "summary": "Der Nvidia-Chef verteidigt seine Investments in die eigenen Kunden, erklärt, warum er trotz zahlreicher Risiken Optimist bleibt – und wie Deutschland zum Antreiber der KI-Revolution werden kann.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/jensen-huang-deutschland-bleibt-weit-hinter-seinem-potenzial-zurueck/100265111.html",
+   "published": "2026-10-30T03:01:11+00:00",
+   "first_seen": "2026-10-30T03:35:29.072006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hotels: Disruption an der Rezeption: Warum Hotels immer digitaler werden",
+   "summary": "Die Hotellerie ist traditionell geprägt. Doch das ändert sich gerade: Immer mehr neue Anbieter setzen auf starke Digitalisierung. Was bedeutet das für Betreiber und Gäste?",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/hotels-warum-hotels-immer-digitaler-werden/100241854.html",
+   "published": "2026-10-30T03:00:00+00:00",
+   "first_seen": "2026-10-30T03:35:29.072006+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Deutschland und Südkorea wollen ihre KI-Ökosysteme enger verzahnen",
+   "summary": "Bundeskanzler Merz vereinbart eine engere Hightech-Zusammenarbeit mit Südkorea. Ziel ist auch, die technologische Abhängigkeit von China und den USA zu verringern.",
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/kuenstliche-intelligenz-deutschland-und-suedkorea-wollen-ihre-ki-oekosysteme-enger-verzahnen/100265878.html",
+   "published": "2026-10-30T02:34:54+00:00",
+   "first_seen": "2026-10-30T03:35:29.072006+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI-Boom: Amazon enttäuscht trotz Cloud-Boom – Aktie sackt ab",
@@ -865,42 +901,6 @@
    "published": "2026-10-27T05:41:00+00:00",
    "first_seen": "2026-10-27T07:03:02.857548+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing: Das sind die wichtigsten Zahlen zum Anthropic-Börsengang",
-   "summary": "Der KI-Pionier strebt an die Börse – mit gigantischen Visionen, aber auch Anzeichen, dass sich sein Geschäftsmodell trägt. Skeptisch sollte vor allem eine Zahl machen.",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-das-sind-die-wichtigsten-zahlen-zum-anthropic-boersengang/100265104.html",
-   "published": "2026-10-27T05:18:07+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Geld verdienen: Nebenbei reich werden? Was wirklich funktioniert",
-   "summary": "KI-Agenten, Airbnb, Vinted oder Instagram: Mit welchen Side Hustles lässt sich wirklich Geld verdienen?",
-   "link": "https://www.zeit.de/geld/2026-10/geld-verdienen-nebenbei-side-hustle-ki-airbnb-vinted",
-   "published": "2026-10-27T05:05:06+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geld genug: Nebenbei reich werden: Was funktioniert wirklich?",
-   "summary": "KI-Agenten, Airbnb, Vinted oder Instagram: Mit welchen Side Hustles lässt sich wirklich Geld verdienen?",
-   "link": "https://www.handelsblatt.com/audio/geld-genug/geld-genug-nebenbei-reich-werden-was-funktioniert-wirklich/100265144.html",
-   "published": "2026-10-27T04:55:00+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aktien: Kospi und Nikkei springen hoch – KI-Pläne stärken Asiens Börsen",
-   "summary": "Der Börsengang von Anthropic wird konkret und Meta gibt für die Finanzierung zusätzlicher KI-Rechenzentren neue Aktien aus. Das stimmt die Anleger in Asien positiv.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/aktien-kospi-und-nikkei-springen-hoch-ki-plaene-staerken-asiens-boersen/100265142.html",
-   "published": "2026-10-27T04:52:24+00:00",
-   "first_seen": "2026-10-27T07:03:02.857548+00:00",
-   "paywall": true
   }
  ]
 }
