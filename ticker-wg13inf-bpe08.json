@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-30T21:14:41.865905+00:00",
+ "updated": "2026-10-31T01:15:07.768239+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Plattform Binance - Reaktionen auf Krypto-Hackerangriff: \"Entsetzen an der Börse\", \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
+   "summary": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil…",
+   "link": "https://www.deutschlandfunk.de/reaktionen-auf-krypto-hackerangriff-entsetzen-an-der-boerse-3-3-milliarden-dollar-sind-nicht-mehr-zu-102.html",
+   "published": "2026-10-31T00:52:03+00:00",
+   "first_seen": "2026-10-31T01:15:07.768239+00:00",
+   "paywall": false
+  },
   {
    "label": "tagesschau",
    "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
@@ -18,6 +27,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-30-prozent/100266181.html",
    "published": "2026-10-30T19:57:39+00:00",
    "first_seen": "2026-10-30T21:14:41.865905+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Börsen: „Absolut brutale Woche“ für Tech-Investoren – Nasdaq rutscht ab, Intel verliert rund 29 Prozent",
+   "summary": "An den US-Börsen brechen die Kurse zahlreicher Tech-Konzerne nach Sorgen im KI-Sektor ein. Die Preise für Gold und Silber liegen derweil so niedrig wie seit einem Jahr nicht mehr.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-100-auf-talfahrt-intel-aktie-verliert-29-prozent/100266181.html",
+   "published": "2026-10-30T19:57:39+00:00",
+   "first_seen": "2026-10-31T01:15:07.768239+00:00",
    "paywall": true
   },
   {
@@ -881,24 +899,6 @@
    "summary": "Der Umsatz des Speicherchipherstellers ist um 328 Prozent gestiegen. Die Wall Street freut sich und wartet gleichzeitig auf die Fed-Entscheidung am Abend.",
    "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-sk-hynix-versiebenfacht-gewinn-ki-boom-bleibt-auf-kurs/100265657.html",
    "published": "2026-10-28T15:52:01+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Stellenabbau bei Tamedia: Menschengemachter Journalismus in der Krise",
-   "summary": "Der Schweizer Medienkonzern Tamedia entlässt reihenweise Jour­na­lis­t:in­nen und setzt immer mehr auf KI. Das wird intern als auch extern kritisiert. mehr...",
-   "link": "https://taz.de/Schweizer-Medienkonzern-Tamedia-entlaesst-Journalisten-und-setzt-immer-mehr-auf-KI---Kritik-kommt-von-allen-Seiten/!6225595/",
-   "published": "2026-10-28T14:45:00+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarkt: Das Microsoft-Beben bereitet IT-Fachkräften Sorge",
-   "summary": "Die Stimmung auf dem Arbeitsmarkt für IT-Experten ist gekippt. Nur noch ein Drittel bewertet die Job-Chancen als gut. Ausgerechnet die KI biete nun Chancen, sagt ein Experte.",
-   "link": "https://www.wiwo.de/unternehmen/it/arbeitsmarkt-das-microsoft-beben-bereitet-it-fachkraeften-sorge/100265359.html",
-   "published": "2026-10-28T14:30:00+00:00",
    "first_seen": "2026-10-28T16:53:29.797209+00:00",
    "paywall": true
   }
