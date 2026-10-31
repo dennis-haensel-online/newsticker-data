@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-10-31T14:02:45.360331+00:00",
+ "updated": "2026-10-31T18:55:37.555162+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Stuttgart verpasst Leverkusen die nächste Pleite",
+   "summary": "Der VfB Stuttgart hat sich durch einen Sieg in Leverkusen aus dem Tabellenkeller befreit. Für Bayer war es die zweite Niederlage in Folge - wieder mit reichlich Gegentoren.",
+   "link": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2026-2027-bayer-leverkusen-vfb-stuttgart-spielbericht-100.html",
+   "published": "2026-10-31T16:30:00+00:00",
+   "first_seen": "2026-10-31T18:55:37.555162+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Bilanzskandal: Raiffeisenbank legt Wirecard-Klage gegen EY zu den Akten",
+   "summary": "Das Kreditinstitut aus Österreich verfolgt seine Millionenklage auf Schadenersatz für die Wirecard-Pleite nicht weiter. Eine andere Bank hingegen bleibt im Rennen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/raiffeisenbank-legt-wirecard-klage-gegen-ey-zu-den-akten-accg-201621560.html",
+   "published": "2026-10-31T15:31:45+00:00",
+   "first_seen": "2026-10-31T18:55:37.555162+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Ältestes Familienunternehmen: Das Geheimnis des Stahl-Spezialisten Coatinc Company",
@@ -360,15 +378,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-vermieter-stehen-vor-finanziellem-desaster/100263295.html",
    "published": "2026-10-28T06:59:00+00:00",
    "first_seen": "2026-10-28T07:03:39.679273+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Anthropic dreht die Börsenstimmung – dafür gibt es drei Gründe",
-   "summary": "Das KI-Start-up meldet milliardenschwere Verluste. Trotzdem steigen die Kurse von Tech-Aktien. Denn Experten sehen in dem Börsenprospekt viele Gründe zum Optimismus.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/ki-anthropic-dreht-die-boersenstimmung-dafuer-gibt-es-drei-gruende-01/100265184.html",
-   "published": "2026-10-28T06:12:00+00:00",
-   "first_seen": "2026-10-28T06:39:32.759555+00:00",
    "paywall": true
   }
  ]
