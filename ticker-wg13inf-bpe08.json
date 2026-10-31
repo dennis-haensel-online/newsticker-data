@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-10-31T07:45:07.505817+00:00",
+ "updated": "2026-10-31T14:02:45.360331+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "US-Zwischenwahlen: Warum Trumps große KI-Wette plötzlich zum Problem für die Republikaner wird",
+   "summary": "In Pennsylvania macht der KI-Boom einige zu Millionären. Andere zerreißen vor Wut 10.000-Dollar-Schecks. Der Zorn könnte für die Republikaner teuer werden.",
+   "link": "https://www.wiwo.de/politik/ausland/midterms-2026-warum-trumps-grosse-ki-wette-ploetzlich-zum-problem-fuer-die-republikaner-wird/100265560.html",
+   "published": "2026-10-31T13:17:00+00:00",
+   "first_seen": "2026-10-31T14:02:45.360331+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche: Die Blase muss platzen!",
+   "summary": "Erneut sorgen sich Anleger vor einer möglichen KI-Blase. Dabei hat deren Verhalten auffällige Ähnlichkeiten zu einer bekannten Kindheitsserie.",
+   "link": "https://www.wiwo.de/finanzen/boerse/platzt-die-ki-blase-warum-big-tech-nicht-vor-dem-crash-steht/100265948.html",
+   "published": "2026-10-31T11:42:00+00:00",
+   "first_seen": "2026-10-31T14:02:45.360331+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: OpenAI senkt wohl Finanzierungsziel um zehn Milliarden Dollar",
+   "summary": "Der aktuelle Ausverkauf bei US-Techwerten erhöht den Druck auf den ChatGPT-Entwickler. Anleger sorgen sich wohl zunehmend um die enormen Ausgaben für Künstliche Intelligenz.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-openai-senkt-wohl-finanzierungsziel-um-zehn-milliarden-dollar/100266323.html",
+   "published": "2026-10-31T10:24:14+00:00",
+   "first_seen": "2026-10-31T14:02:45.360331+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Internetregulierung: US-Tech-Konzerne verstärken den Lobbydruck auf die EU",
+   "summary": "Google, Apple, Meta und Co. verstärken ihre Lobbyarbeit: Studien zeigen, dass große Plattformen mehr Geld denn je ausgeben, um den EU-Datenschutz auszuhebeln.",
+   "link": "https://www.wiwo.de/politik/europa/rekordausgaben-fuer-lobbying-us-tech-riesen-bedraengen-die-eu/100266101.html",
+   "published": "2026-10-31T09:58:26+00:00",
+   "first_seen": "2026-10-31T14:02:45.360331+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Transnationale Desinformation: Eine Galaxie der Manipulation",
+   "summary": "Faktenchecker haben es zunehmend mit Desinformationen zu tun, die sich global verbreiten – auch in Lateinamerika. Beteiligt sind oft ausländische Mächte. mehr...",
+   "link": "https://taz.de/Transnationale-Desinformation/!6224025/",
+   "published": "2026-10-31T08:42:00+00:00",
+   "first_seen": "2026-10-31T14:02:45.360331+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+   "summary": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
+   "published": "2026-10-31T07:45:19+00:00",
+   "first_seen": "2026-10-31T14:02:45.360331+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Krypto-Hackerangriff auf Binance - \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
@@ -846,60 +900,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/ki-teurer-ki-wettlauf-alphabet-verschreckt-die-wall-street/100265408.html",
    "published": "2026-10-28T22:51:07+00:00",
    "first_seen": "2026-10-29T01:24:34.802695+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Verlegerverbände - Bündnis gegen KI-Risiken geschlossen",
-   "summary": "Angesichts der Auswirkungen von Künstlicher Intelligenz wollen sich Zeitungs- und Zeitschriftenverlage aus Deutschland und Kanada gemeinsam für einen besseren Schutz journalistischer Inhalte einsetzen.",
-   "link": "https://www.deutschlandfunk.de/buendnis-gegen-ki-risiken-geschlossen-102.html",
-   "published": "2026-10-28T21:13:26+00:00",
-   "first_seen": "2026-10-28T21:26:15.750895+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Unternehmen: Alphabet-Gewinn schrumpft um ein Viertel – Google-Mutter kann Erwartungen nicht erfüllen",
-   "summary": "Alphabets Cloudgeschäft wächst rasant, doch hohe Investitionen in KI-Infrastruktur belasten den Cashflow. Der bereinigte Gewinn der Google-Muttergesellschaft fällt deutlich.",
-   "link": "https://www.handelsblatt.com/unternehmen/it-medien/unternehmen-alphabet-gewinn-schrumpft-deutlich-hohe-kosten-fuer-rechenzentren/100265408.html",
-   "published": "2026-10-28T21:02:41+00:00",
-   "first_seen": "2026-10-28T21:26:15.750895+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Film „Klara und die Sonne“: Das Abgründige spürbar machen",
-   "summary": "Was unterscheidet Menschen und Maschinen? Taika Waititis Verfilmung von Kazuo Ishiguros Roman „Klara und die Sonne“ erzählt in satten Farben vom Leben mit KI. mehr...",
-   "link": "https://taz.de/Film-Klara-und-die-Sonne-von-Taika-Waititi-Was-unterscheidet-den-Menschen-von-Maschinen/!6221431/",
-   "published": "2026-10-28T19:20:00+00:00",
-   "first_seen": "2026-10-28T21:26:15.750895+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Anthropic-Börsengang: Wie Amazon und Google am Aufstieg von Anthropic mitverdienen",
-   "summary": "Anthropic strebt an die Börse. Anleger lockt das enorme Umsatzwachstum des KI-Entwicklers. Dahinter steckt ­allerdings ein ­Geflecht aus ­Abhängigkeiten und Risiken.",
-   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-wie-amazon-und-google-am-aufstieg-von-anthropic-mitverdienen/100265547.html",
-   "published": "2026-10-28T17:22:44+00:00",
-   "first_seen": "2026-10-28T21:26:15.750895+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gesundheit: „Eine Milliarde Stunden zurückgeben“: Diese Firma entlastet Ärzte mit KI bei der Dokumentation",
-   "summary": "Mehr als 10.000 Gesundheitseinrichtungen nutzen den KI-Assistenten von Tandem Health. Jetzt beteiligt sich die Deutsche Telekom. Firmenchef Lukas Saari will einen europäischen Champion bauen.",
-   "link": "https://www.handelsblatt.com/unternehmen/start-ups/gesundheit-tandem-health-will-aerzte-mit-ki-bei-der-dokumentation-entlasten/100265293.html",
-   "published": "2026-10-28T16:50:41+00:00",
-   "first_seen": "2026-10-28T21:26:15.750895+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Merz in Japan: Deutschland und Japan als „Premiumpartner“",
-   "summary": "Bundeskanzler Friedrich Merz wirbt in Japan für eine globale Allianz für regelbasierten Handel. Beide Länder wollen sich zudem für eine „menschenzentrierte KI“ einsetzen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschland-und-japan-als-premiumpartner-201627527.html",
-   "published": "2026-10-28T16:22:14+00:00",
-   "first_seen": "2026-10-28T16:53:29.797209+00:00",
    "paywall": true
   }
  ]
