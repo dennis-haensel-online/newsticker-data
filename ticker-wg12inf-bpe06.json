@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-01T01:40:17.734585+00:00",
+ "updated": "2026-11-01T08:25:39.860179+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Cyberangriff: Kryptobörse Binance nimmt nach Milliarden-Raub Auszahlungen wieder auf",
+   "summary": "Nach dem Milliarden-Raub will Binance Auszahlungen für Bitcoin, Ether und Dogecoin freigeben. Das FBI verfolgt die Spur nach Nordkorea.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/binance-kryptoboerse-nimmt-nach-milliarden-raub-auszahlungen-wieder-auf/100266414.html",
+   "published": "2026-11-01T08:18:15+00:00",
+   "first_seen": "2026-11-01T08:25:39.860179+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hackerangriff: Kryptobörse Binance nimmt nach Milliarden-Raub Auszahlungen wieder auf",
+   "summary": "Die erste Phase soll noch am Sonntag beginnen und unter anderem Bitcoin, Ether und Dogecoin umfassen. Das FBI macht Nordkorea für den weltweit größten digitalen Raub verantwortlich.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-kryptoboerse-nimmt-nach-milliarden-raub-auszahlungen-wieder-auf/100266403.html",
+   "published": "2026-11-01T06:33:08+00:00",
+   "first_seen": "2026-11-01T08:25:39.860179+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Binance-Hack: FBI: Nordkorea hinter milliardenschwerem Krypto-Diebstahl",
+   "summary": "Experten sprechen vom größten Hackerangriff auf eine Börse für Digitalwährungen. Jetzt äußert sich die US-Bundespolizei zum Verdacht auf die Hinterleute.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/krypto-plattform-hackernangriff-binance-diebstahl-li.3572270",
+   "published": "2026-11-01T02:20:09+00:00",
+   "first_seen": "2026-11-01T08:25:39.860179+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Hackerangriff - FBI macht nordkoreanische Hacker für Angriff auf Kryptowährungsbörse Binance verantwortlich",
@@ -307,15 +334,6 @@
    "published": "2026-10-28T21:02:41+00:00",
    "first_seen": "2026-10-28T21:26:15.750895+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "IT-Sicherheit - Bitkom erwartet deutlich steigende Investitionen in Unternehmen",
-   "summary": "​Deutsche Unternehmen investieren wegen der wachsenden Gefahr von Cyberangriffen mehr Geld in ihre ‌IT-Sicherheit.",
-   "link": "https://www.deutschlandfunk.de/bitkom-erwartet-deutlich-steigende-investitionen-in-unternehmen-100.html",
-   "published": "2026-10-28T10:05:24+00:00",
-   "first_seen": "2026-10-28T10:09:22.515112+00:00",
-   "paywall": false
   }
  ]
 }

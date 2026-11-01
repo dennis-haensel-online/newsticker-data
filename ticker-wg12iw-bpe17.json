@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-11-01T01:40:17.734585+00:00",
+ "updated": "2026-11-01T08:25:39.860179+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Was kostet Die welt?: Wie der Europa-Park Geld verdient",
+   "summary": "Der Europa-Park ist Deutschlands größter Freizeitpark. Über 7 Millionen Besucher strömten 2025 ins badische Rust. Bis heute ist der Park fest in Familienhand. Was macht er anders als die Konkurrenz?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/was-kostet-die-welt/wie-der-europa-park-geld-verdient-201633517.html",
+   "published": "2026-11-01T06:00:00+00:00",
+   "first_seen": "2026-11-01T08:25:39.860179+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Gasspeicher-Füllstände: Wird heizen im Winter teurer?",
+   "summary": "Die Gasspeicher sind so leer wie lange nicht vor einem Winter. Was das für die Gaspreise heißt - und ob nun ein kalter und teurer Winter droht oder nicht.",
+   "link": "https://www.zdfheute.de/wirtschaft/gasspeicher-fuellstand-winter-gaspreis-100.html",
+   "published": "2026-11-01T05:10:00+00:00",
+   "first_seen": "2026-11-01T08:25:39.860179+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Asien-Pazifik-Konferenz: Boehringer-Chef sieht chinesische Konkurrenz als Ansporn",
@@ -342,24 +360,6 @@
    "link": "https://www.spiegel.de/wirtschaft/rocket-lab-manager-frank-klein-wenn-elon-musk-die-falcon-in-rente-schickt-gibt-es-eine-alternative-a-7fd3f919-f02e-42ee-917d-cb9db9adc3a7#ref=rss",
    "published": "2026-10-28T11:00:00+00:00",
    "first_seen": "2026-10-28T16:53:29.797209+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Quartalsergebnisse - Deutsche Bank und BASF steigern Ergebnisse, Mercedes meldet Absatzrückgang",
-   "summary": "Die Deutsche Bank hat auch im dritten Quartal deutlich mehr verdient.",
-   "link": "https://www.deutschlandfunk.de/deutsche-bank-und-basf-steigern-ergebnisse-mercedes-meldet-absatzrueckgang-100.html",
-   "published": "2026-10-28T10:05:24+00:00",
-   "first_seen": "2026-10-28T10:09:22.515112+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - Verbraucherstimmung erneut schlechter - Auch Tankrabatt kann Stimmung nicht aufhellen",
-   "summary": "​Die Stimmung der Verbraucher in Deutschland trübt sich erneut ein und liegt nun auf ‌dem tiefsten Stand ⁠seit Mai.",
-   "link": "https://www.deutschlandfunk.de/verbraucherstimmung-erneut-schlechter-auch-tankrabatt-kann-stimmung-nicht-aufhellen-100.html",
-   "published": "2026-10-28T10:05:24+00:00",
-   "first_seen": "2026-10-28T10:09:22.515112+00:00",
    "paywall": false
   }
  ]
