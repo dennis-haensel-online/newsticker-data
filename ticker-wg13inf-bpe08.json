@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-01T08:25:39.860179+00:00",
+ "updated": "2026-11-01T15:35:47.447316+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Finanzen - Nach Hacker-Angriff: Binance gibt Kundenauszahlungen schrittweise frei",
+   "summary": "Nach dem Cyberangriff auf die Digitalwährungsbörse Binance erlaubt das Unternehmen wieder erste Kundenauszahlungen.",
+   "link": "https://www.deutschlandfunk.de/nach-hacker-angriff-binance-gibt-kundenauszahlungen-schrittweise-frei-100.html",
+   "published": "2026-11-01T14:49:08+00:00",
+   "first_seen": "2026-11-01T15:35:47.447316+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Kupfer, Seltene Erden und der Hunger der KI",
+   "summary": "In jedem Rechenzentrum stecken Kupfer und Seltene Erden. Doch Europa hat von diesen Rohstoffen zu wenig. Können wir dennoch mithalten im Kampf um Macht, Abhängigkeit und unsere digitale Zukunft?",
+   "link": "https://www.zdf.de/video/dokus/planet-e-kampf-um-rohstoffe-100/kampf-um-rohstoffe-kupfer-seltene-erden-und-der-hunger-der-ki-100",
+   "published": "2026-11-01T14:30:00+00:00",
+   "first_seen": "2026-11-01T15:35:47.447316+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hackerangriff: FBI: Nordkoreanische Hacker stecken hinter milliardenschwerem Krypto-Diebstahl bei Binance",
+   "summary": "Der US-Bundespolizei zufolge soll die Gruppe TraderTraitor hinter dem weltweit größten digitalen Raubzug stecken. Binance will wieder mit Auszahlungen starten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-sieht-nordkoreanische-hacker-hinter-krypto-diebstahl/100266403.html",
+   "published": "2026-11-01T13:30:38+00:00",
+   "first_seen": "2026-11-01T15:35:47.447316+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Leben mit Aktien: Welche Sektor-ETFs sich für Anleger wirklich lohnen",
+   "summary": "Die KI‑Euphorie hat viel Kapital angezogen. Andere Branchen sind aus dem Fokus geraten. Für Anleger ergibt sich daraus eine attraktive Einstiegsmöglichkeit.",
+   "link": "https://www.wiwo.de/finanzen/boerse/sektor-etfs-welche-sich-fuer-anleger-wirklich-lohnen/100265830.html",
+   "published": "2026-11-01T13:05:00+00:00",
+   "first_seen": "2026-11-01T15:35:47.447316+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Sap-Vorstand Saueressig: „Deutschland sollte mehr in KI investieren“",
+   "summary": "Vor dem Digitalgipfel in Berlin wirbt SAP-Vorstand Thomas Saueressig für mehr Investitionen in KI. Damit könne man die hohen Produktionskosten in Deutschland kompensieren. Und sie werde langfristig Arbeitsplätze schaffen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sap-vorstand-saueressig-deutschland-sollte-mehr-in-ki-investieren-accg-201637411.html",
+   "published": "2026-11-01T12:19:28+00:00",
+   "first_seen": "2026-11-01T15:35:47.447316+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Hackerangriff auf Binance: Nach Milliardenraub: Kryptobörse nimmt Auszahlungen wieder auf",
+   "summary": "Hacker haben bei einem Angriff auf die weltgrößte Kryptobörse Binance Digitalwährungen im Wert von 6,3 Milliarden US-Dollar erbeutet. Nun nimmt Binance die Auszahlungen schrittweise wieder auf.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/binance-krypto-diebstahl-nordkorea-fbi-bitcoin-li.3572395",
+   "published": "2026-11-01T11:28:25+00:00",
+   "first_seen": "2026-11-01T15:35:47.447316+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalwährungen: Binance gibt Kundenauszahlungen nach Hackerangriff frei",
+   "summary": "Nach dem Rekord-Hackerangriff auf Binance kommen die Kunden der Kryptobörse mit hoher Wahrscheinlichkeit glimpflich davon. Sie können inzwischen Ihre Einlagen auch wieder abheben.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/digitalwaehrungen-binance-gibt-kundenauszahlungen-nach-hackerangriff-frei/100266432.html",
+   "published": "2026-11-01T10:55:04+00:00",
+   "first_seen": "2026-11-01T15:35:47.447316+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Leben mit Aktien: Welche Sektor-ETFs sich für Anleger wirklich lohnen",
@@ -837,69 +900,6 @@
    "link": "https://www.wiwo.de/finanzen/geldanlage/roboter-aktien-fuenf-unternehmen-fuer-ki-boom-an-der-boerse/100263879.html",
    "published": "2026-10-29T10:46:00+00:00",
    "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "OpenAI-Chef Altman trifft Regierung: Tech-Bros mit freier Terminwahl bei Kanzler und Ministern",
-   "summary": "Google, OpenAI, Tiktok: IT-Konzerne treffen sich über 100 Mal mit der Bundesregierung. Sie wollen weniger Datenschutz. Laut Lobbycontrol mit Erfolg. mehr...",
-   "link": "https://taz.de/OpenAI-Chef-Altman-trifft-Regierung/!6225683/",
-   "published": "2026-10-29T10:02:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Internationale Abkommen über KI-Waffen: Vereint gegen Turbo-Killer-Roboter",
-   "summary": "Deutschland und andere Industriestaaten rüsten auf – auch mit künstlicher Intelligenz. Wie kann man verhindern, dass Algorithmen über Leben und Tod entscheiden? mehr...",
-   "link": "https://taz.de/Warum-es-einen-internationalen-Stopp-fuer-KI-Waffensysteme-braucht---und-wie-das-gelingen-kann/!6219137/",
-   "published": "2026-10-29T09:48:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI-Investitionen tragen nicht überall Früchte",
-   "summary": "Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html",
-   "published": "2026-10-29T09:28:06+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Chisinau - Cyberangriff auf staatliche Informationssysteme in Moldau - Nationaler Sicherheitsrat tagt",
-   "summary": "Moldaus Präsidentin Sandu hat nach einem Cyberangriff auf staatliche Informationssysteme eine Sitzung des Nationalen Sicherheitsrats einberufen.",
-   "link": "https://www.deutschlandfunk.de/cyberangriff-auf-staatliche-informationssysteme-in-moldau-nationaler-sicherheitsrat-tagt-100.html",
-   "published": "2026-10-29T07:39:22+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Coreweave, Nebius und Co.: Diese Firmen trotzen Musks Untergangsprognose",
-   "summary": "SpaceX-Chef Elon Musk sagt Spezialanbietern von KI-Rechenkapazität den Ruin voraus – doch deren Kurse steigen. Wie sollen Anleger reagieren?",
-   "link": "https://www.wiwo.de/finanzen/boerse/elon-musk-trotz-seiner-untergangsprognose-steigen-kurse/100265506.html",
-   "published": "2026-10-29T07:35:00+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Start-ups: Diese KI-Firma will die teuerste Hürde der Pharmaindustrie senken",
-   "summary": "Das Unternehmen Atlas Bio verbessert die Erfolgsrate klinischer Studien, an denen bislang 70 Prozent aller Medikamente scheitern. Dafür sammelt das Start-up nun elf Millionen Dollar ein.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-so-testet-ein-ki-start-up-wirkstoffe-am-computer/100263284.html",
-   "published": "2026-10-29T07:20:00+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Samsung verneunfacht fast seinen Gewinn",
-   "summary": "KI-Boom befeuert Speichergeschäft +++ ING kündigt Milliarden-Aktienrückkauf an und will Stellen streichen +++ Salzgitter hebt Gewinnprognose an +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-samsung-gewinn-fast-verneunfacht-faz-200452404.html",
-   "published": "2026-10-29T07:01:33+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
    "paywall": true
   }
  ]
