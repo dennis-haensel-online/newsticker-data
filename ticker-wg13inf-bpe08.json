@@ -1,7 +1,241 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-02T11:50:36.555568+00:00",
+ "updated": "2026-11-02T21:05:54.368715+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Digitalgipfel der Bundesregierung - Merz: \"Abhängigkeiten bei KI reduzieren\"",
+   "summary": "Die Entwicklung Künstlicher Intelligenz muss sich nach Auffassung von Bundeskanzler Merz an Werten und Sicherheitsinteressen orientieren. Dies müsse im Zentrum der politischen Bemühungen stehen, sagte der CDU-Politiker beim Digitalgipfel…",
+   "link": "https://www.deutschlandfunk.de/merz-abhaengigkeiten-bei-ki-reduzieren-100.html",
+   "published": "2026-11-02T21:02:47+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Spähsoftware bei Apple - Digitalminister Wildberger bestätigt Hackerangriffe auf Bundespolitiker",
+   "summary": "Die Bundesregierung hat besorgt auf den Hackerangriff auf Mobilfunkgeräte von Bundespolitikern reagiert.",
+   "link": "https://www.deutschlandfunk.de/digitalminister-wildberger-bestaetigt-hackerangriffe-auf-bundespolitiker-100.html",
+   "published": "2026-11-02T21:02:47+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "IPO: Anthropic schreibt wieder Verluste – bei geringerer Marge",
+   "summary": "Das KI-Unternehmen hat seinen Börsenprospekt um weitere Zahlen ergänzt. Während der Umsatz sich verzwölffacht hat, sind auch Ausgaben und Nettoverlust deutlich gestiegen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-schreibt-wieder-verluste-bei-geringerer-marge/100266735.html",
+   "published": "2026-11-02T19:41:49+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Digitalgipfel der Bundesregierung: Wo Deutschland mit KI punkten könnte",
+   "summary": "Mit ihrem KI-Gipfel will die Bundesregierung für Schwung in der Branche sorgen. Ex­per­t:in­nen raten Deutschland allerdings von einem Wettrennen ab. mehr...",
+   "link": "https://taz.de/Digitalgipfel-In-diesen-Bereichen-koennte-Deutschland-mit-KI-punkten/!6226617/",
+   "published": "2026-11-02T19:04:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kapitalbedarf für KI-Boom: Oracle will sich 20 Milliarden Dollar beschaffen",
+   "summary": "Der US-Techkonzern Oracle will eine milliardenschwere Kapitalerhöhung stemmen, um Investitionen für den KI-Boom zu finanzieren. Das Urteil der Börse fällt deutlich aus.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kapitalbedarf-fuer-ki-boom-oracle-will-sich-20-milliarden-dollar-beschaffen/100266771.html",
+   "published": "2026-11-02T18:42:24+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: „Sehr viele Turbulenzen im Bereich der KI-Werte“",
+   "summary": "Zum Auftakt der Wahlwoche berichtet Markus Koch von rückläufigen Ölpreisen und Anleiherenditen. Im KI-Sektor sei bislang jedoch keine Erholung zu erkennen, sagt der Börsenexperte. Nun rücken die anstehenden Quartalszahlen von Apple in den…",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-sehr-viele-turbulenzen-im-bereich-der-ki-werte/100266763.html",
+   "published": "2026-11-02T18:15:47+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Tarifstreit: Privatbanken bieten 4,2 Prozent mehr Gehalt – Verdi fordert mehr",
+   "summary": "Nach den Warnstreiks bieten die Privatbanken ab Mitte 2027 ein Gehaltsplus von 4,2 Prozent an. Verdi fordert eine größere Erhöhung und Schutz von Arbeitsplätzen beim Einsatz von KI.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/tarifstreit-privatbanken-bieten-42-prozent-mehr-gehalt-verdi-fordert-mehr/100266765.html",
+   "published": "2026-11-02T18:14:25+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Merz will mehr Tempo im KI-Wettbewerb",
+   "summary": "Kann Deutschland im KI-Wettbewerb im Rennen bleiben? Eine Taskforce der Bundesregierung warnt davor, den Anschluss zu verlieren. Kanzler Merz fordert mehr Tempo.",
+   "link": "https://www.zdfheute.de/politik/deutschland/ki-kuenstliche-intelligenz-bundesregierung-gipfel-100.html",
+   "published": "2026-11-02T17:50:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Der KI-Elefant im Porzellanladen der Demokratie",
+   "summary": "Die großen Techplattformen beherrschen die Öffentlichkeit, und sie verfolgen dabei eine antidemokratische Agenda. Das kann so nicht weitergehen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-afd-und-big-tech-wer-die-demokratie-wirklich-gefaehrdet-201629794.html",
+   "published": "2026-11-02T17:50:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: KI-Firma Anthropic mit Milliarden-Verlusten vor Börsengang",
+   "summary": "Die KI-Firma Anthropic ließ in ihrem Börsenprospekt zunächst die Zahlen für das dritte Quartal aus. Aus einem Nachtrag geht hervor: Es gab auch da tiefrote Zahlen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-anthropic-mit-milliarden-verlusten-vor-boersengang/100266751.html",
+   "published": "2026-11-02T17:23:18+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: KI-Firma Anthropic mit Milliarden-Verlusten vor Börsengang",
+   "summary": "Anthropic ließ in ihrem Börsenprospekt zunächst die Zahlen für das dritte Quartal aus. Aus einem Nachtrag geht hervor: Es gab auch da tiefrote Zahlen.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-ki-firma-anthropic-mit-milliarden-verlusten-vor-boersengang/100266754.html",
+   "published": "2026-11-02T17:23:18+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Cyberangriffe: Erneut Supermarkt-Kühlsysteme manipuliert",
+   "summary": "Mutmaßliche Cyberangriffe haben Kühlsysteme von Supermärkten in mehreren Ländern Europas getroffen. Die Temperaturen stiegen stark an, viele Lebensmittel mussten vernichtet werden.",
+   "link": "https://www.zdfheute.de/video/cyberangriff-supermarkt-kuehlsystem-europa-100.html",
+   "published": "2026-11-02T17:15:51+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "KI: Anthropic meldet bei Quartalserlös Umsatzplus von 1.100 Prozent",
+   "summary": "Kurz vor dem Börsengang hat Anthropic seinen Umsatz auch im dritten Quartal deutlich gesteigert. Insgesamt verzeichnet das KI-Unternehmen aber weiter Milliardenverluste.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/anthropic-boersengang-umsatz-kuenstliche-intelligenz-sec",
+   "published": "2026-11-02T16:58:40+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
+   "summary": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
+   "published": "2026-11-02T16:10:17+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
+   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
+   "link": "https://www.handelsblatt.com/karriere/berufe-diese-it-fachkraefte-sind-trotz-ki-boom-besonders-gefragt/100238210.html",
+   "published": "2026-11-02T15:57:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Digitalgipfel: KI als Kriegswaffe? Europa drohen Exportkontrollen",
+   "summary": "Wenn KI als Kriegswaffe gilt, könnten Europas Firmen von US- und chinesischen Spitzenmodellen abgeschnitten sein. Der Mistral-Chef Arthur Mensch warnt davor.",
+   "link": "https://www.wiwo.de/politik/ausland/digitalgipfel-ki-als-kriegswaffe-europa-drohen-exportkontrollen/100266675.html",
+   "published": "2026-11-02T15:39:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-Investitionen: Oracle will neue Aktien im Wert von 10 Milliarden Dollar ausgeben",
+   "summary": "Der Konzern Oracle setzt auf den KI-Boom, braucht dafür aber frisches Kapital. Neue Aktien und Anleihen sollen die Investitionen finanzieren.",
+   "link": "https://www.wiwo.de/unternehmen/it/ki-investitionen-10-milliarden-dollar-oracle-will-neue-aktien-ausgeben/100266700.html",
+   "published": "2026-11-02T15:30:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Musk bremst KI-Agent Grok Bot – „Kosten im Verhältnis zum Umsatz untragbar hoch“",
+   "summary": "Als Wachstumswunder feierte Elon Musk seinen KI-Agenten noch vor Kurzem. Jetzt schränkt er die Nutzung ein – die benötigte Rechenkapazität lässt sich lukrativer nutzen.",
+   "link": "https://www.handelsblatt.com/technik/ki/grok-bot-musk-bremst-ki-agent-kosten-untragbar-hoch/100266625.html",
+   "published": "2026-11-02T15:18:26+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalgipfel: Shake Hands mit Maschine - Merz: Mensch im Mittelpunkt",
+   "summary": "Beim Digitalgipfel begrüßt Friedrich Merz einen humanoiden Roboter und mahnt zugleich, der Mensch müsse im Zentrum bleiben. Wie Deutschland im KI-Wettbewerb aufholen will.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/digitalgipfel-shake-hands-mit-maschine-merz-mensch-im-mittelpunkt/100266572.html",
+   "published": "2026-11-02T15:09:56+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Aktienmarkt: Starfondsmanager Dave Dudding lag komplett falsch – und doch richtig",
+   "summary": "Der Brite glaubt an den KI-Boom, sieht aber Risiken. Dabei gibt es Parallelen zu einem Unternehmen, das ihn seit dem Karrierestart begleitet.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/aktienmarkt-starfondsmanager-dave-dudding-lag-komplett-falsch-und-doch-richtig/100265934.html",
+   "published": "2026-11-02T14:47:06+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Mega-Deal bei Server-Zulieferern – Marvell schluckt Lumentum",
+   "summary": "Der Chipkonzern Marvell will Lumentum für 115 Milliarden Dollar übernehmen. Der Deal zeigt, wie wichtig Glasfaser für KI-Rechenzentren wird.",
+   "link": "https://www.wiwo.de/unternehmen/it/marvell-schluckt-lumentum-mega-deal-bei-server-zulieferern/100266690.html",
+   "published": "2026-11-02T14:35:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Deutschland noch nicht gut für KI-Boom gewappnet",
+   "summary": "Deutschland ist laut einer Analyse des Ifo-Instituts noch nicht gut auf den KI-Boom vorbereitet. Forscher warnen vor Versäumnissen in den Bereichen Bildung und Digitalisierung.",
+   "link": "https://www.zdfheute.de/wirtschaft/ki-boom-kuenstliche-intelligenz-ifo-institut-analyse-digitalgipfel-100.html",
+   "published": "2026-11-02T14:24:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Kriminalität: Erneut Cyberangriffe auf Supermärkte",
+   "summary": "Die Angreifer haben in hunderten Supermärkten Gefriertruhen abgetaut. Nach Vorfällen in Frankreich trifft es nun mehrere EU-Staaten.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/cyberangriffe-supermaerkte-belgien-schweden-irland-li.3573115",
+   "published": "2026-11-02T13:55:09+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Falschinformationen vor US-Zwischenwahl: „Meine größte Sorge ist die Spaltung darüber, was als Fakt gilt“",
+   "summary": "Welche Rolle spielt Desinformation vor den Midterm-Wahlen in den USA? Social-Media-Forscherin Renée DiResta über verlorenes Vertrauen, identitätsstiftende Influencer und KI. mehr...",
+   "link": "https://taz.de/Falschinformationen-vor-US-Zwischenwahl/!6226503/",
+   "published": "2026-11-02T13:28:00+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Cyberangriffe: Hacker erhitzen Supermarkt-Kühlschränke bis auf 50 Grad",
+   "summary": "Angreifer stellen Gefriertruhen aus der Ferne um, die Temperatur steigt. Nach einem Cyberangriff auf Frankreich trifft es nun zwei weitere EU-Länder.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriffe-auf-supermaerkte-in-belgien-und-schweden-accg-201643770.html",
+   "published": "2026-11-02T12:55:26+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Geld sparen: Wie ich ChatGPT dazu brachte, sich selbst zu verklagen",
+   "summary": "NEIN, ETWAS ANDERES! Chatbots bei Amazon und Co. treiben einen mit perfiden Fertigantwort-Stafetten in den Wahnsinn. Besser geht’s, wenn man die Urgeduld der KI nutzt.",
+   "link": "https://www.zeit.de/geld/2026-10/geld-sparen-kundenservice-ki-chatbot-amazon",
+   "published": "2026-11-02T12:53:54+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Hackerangriff auf Regierungshandys: Minister bestätigt Attacke",
@@ -666,240 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-nikkei-und-technologiewerte-in-asien-schliessen-im-minus/100266061.html",
    "published": "2026-10-30T08:55:31+00:00",
    "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-ki-fragen-sollten-sie-als-bewerber-beantworten-koennen/100240522.html",
-   "published": "2026-10-30T08:51:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/karriere-welche-ki-skills-sie-als-bewerber-mitbringen-sollten/100251207.html",
-   "published": "2026-10-30T08:40:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: KI-Kosten brennen Milliardenloch in Amazon-Bilanz",
-   "summary": "Hohe KI-Kosten belasten Amazon: Der Barmittelabfluss steigt auf 42,4 Milliarden Dollar. Zugleich wächst die Cloud-Tochter AWS so stark wie seit Jahren nicht.",
-   "link": "https://www.wiwo.de/unternehmen/handel/amazon-bilanz-hohe-kosten-fuer-ki-rechenzentren-verursachen-milliardenloch/100266087.html",
-   "published": "2026-10-30T08:37:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Binance gehackt: Größter Krypto-Diebstahl der Geschichte?",
-   "summary": "Die Kryptobörse Binance ist Ziel eines mutmaßlichen Hackerangriffs geworden. Der Schaden wird auf 6,3 Milliarden Dollar geschätzt. Das Unternehmen will alle Verluste ersetzen.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/binance-hack-kryptoboerse-diebstahl-100.html",
-   "published": "2026-10-30T07:34:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
-   "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
-   "published": "2026-10-30T07:24:20+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
-   "summary": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
-   "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html",
-   "published": "2026-10-30T06:38:08+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Kryptowährungen: Weltgrößte Kryptobörse Binance meldet mutmaßlichen Hackerangriff",
-   "summary": "Cyberkriminelle sollen auf der Kryptowährungsplattform Binance rund 6,3 Milliarden Dollar gestohlen haben. Es könnte der größte Krypto-Diebstahl aller Zeiten sein.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/binance-hack-krypto-diebstahl-circle-tether-yi-he",
-   "published": "2026-10-30T05:37:46+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Kryptowährung: Möglicher Sicherheitsvorfall bei Binance",
-   "summary": "Die Kryptowährungsbörse friert vorsorglich drei Milliarden Dollar ein. Die Firma werde alle Verluste aus Hackerangriffen decken, teilt das Unternehmen mit.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/sicherheitsvorfall-binance-kryptowaehrung-hackerangriff-li.3571404",
-   "published": "2026-10-30T05:15:48+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Social Media: Unternehmer wehrt sich gegen Influencer – und erhält Morddrohungen",
-   "summary": "Udo Heuser, Inhaber des Parfümunternehmens Nobilis, lässt Creator sperren, die Billigkopien teurer Parfüms bewerben. Dafür erhält er Hunderte Hassnachrichten. Jetzt ermittelt die Polizei.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/social-media-unternehmer-klagt-gegen-influencer-und-erhaelt-morddrohungen/100265585.html",
-   "published": "2026-10-30T03:05:46+00:00",
-   "first_seen": "2026-10-30T03:35:29.072006+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jensen Huang: „Deutschland bleibt weit hinter seinem Potenzial zurück“",
-   "summary": "Der Nvidia-Chef verteidigt seine Investments in die eigenen Kunden, erklärt, warum er trotz zahlreicher Risiken Optimist bleibt – und wie Deutschland zum Antreiber der KI-Revolution werden kann.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/jensen-huang-deutschland-bleibt-weit-hinter-seinem-potenzial-zurueck/100265111.html",
-   "published": "2026-10-30T03:01:11+00:00",
-   "first_seen": "2026-10-30T03:35:29.072006+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Hotels: Disruption an der Rezeption: Warum Hotels immer digitaler werden",
-   "summary": "Die Hotellerie ist traditionell geprägt. Doch das ändert sich gerade: Immer mehr neue Anbieter setzen auf starke Digitalisierung. Was bedeutet das für Betreiber und Gäste?",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/hotels-warum-hotels-immer-digitaler-werden/100241854.html",
-   "published": "2026-10-30T03:00:00+00:00",
-   "first_seen": "2026-10-30T03:35:29.072006+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Deutschland und Südkorea wollen ihre KI-Ökosysteme enger verzahnen",
-   "summary": "Bundeskanzler Merz vereinbart eine engere Hightech-Zusammenarbeit mit Südkorea. Ziel ist auch, die technologische Abhängigkeit von China und den USA zu verringern.",
-   "link": "https://www.handelsblatt.com/unternehmen/start-ups/kuenstliche-intelligenz-deutschland-und-suedkorea-wollen-ihre-ki-oekosysteme-enger-verzahnen/100265878.html",
-   "published": "2026-10-30T02:34:54+00:00",
-   "first_seen": "2026-10-30T03:35:29.072006+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Boom: Amazon enttäuscht trotz Cloud-Boom – Aktie sackt ab",
-   "summary": "Die Cloudsparte wächst so schnell wie seit Jahren nicht. Doch der Onlinehandel lahmt, die Weihnachtsprognose enttäuscht und 220 Milliarden Dollar Jahresinvestitionen schrecken die Anleger.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-boom-amazon-enttaeuscht-trotz-cloud-boom-aktie-sackt-ab/100265410.html",
-   "published": "2026-10-29T21:23:45+00:00",
-   "first_seen": "2026-10-29T23:46:55.062554+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Boom: Amazon profitiert von Cloud-Geschäft",
-   "summary": "Amazon ist nicht nur der weltgrößte Online-Händler, sondern auch ein führender Player bei Cloud-Diensten. Im KI-Boom sorgt das für Wachstum - aber bringt auch hohe Kosten für neue Rechenzentren.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-amazon-profitiert-von-cloud-geschaeft/100266017.html",
-   "published": "2026-10-29T21:08:15+00:00",
-   "first_seen": "2026-10-29T23:46:55.062554+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
-   "summary": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der Arbeitswelt reagiert werden - zum Beispiel…",
-   "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-   "published": "2026-10-29T20:12:03+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Unternehmen: Cohere sammelt Milliarden in Finanzierungsrunde ein –  Schwarz Gruppe ist größter Geldgeber",
-   "summary": "Die Schwarz Gruppe führt eine Finanzierungsrunde beim KI-Anbieter Cohere an. Auch Nvidia und die kanadische Regierung investieren. Cohere möchte seine Position bei „souveräner KI“ ausbauen.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/ki-unternehmen-cohere-sammelt-milliarden-ein-schwarz-und-nvidia-investieren/100265998.html",
-   "published": "2026-10-29T18:15:29+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "AfD-Leak: AfD räumt Veröffentlichung Tausender Wählerdaten ein",
-   "summary": "Nach Handelsblatt-Recherchen über ein Datenleck bestätigt die AfD Mecklenburg-Vorpommern den massiven Abfluss von Meldedaten. Die Partei warnt Betroffene vor Betrug und Identitätsklau.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/afd-leak-afd-raeumt-veroeffentlichung-tausender-waehlerdaten-ein/100265985.html",
-   "published": "2026-10-29T17:57:24+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Künstliche Intelligenz: Schwarz-Gruppe investiert in kanadisches KI-Unternehmen Cohere",
-   "summary": "Rund 4,7 Milliarden Euro hat das KI-Start-up Cohere in seiner bislang größten Finanzierungsrunde gesammelt. Angeführt wird diese von der deutschen Schwarz-Gruppe.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/cohere-ki-finanzierung-schwarz-gruppe-nvidia",
-   "published": "2026-10-29T17:22:03+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bundesregierung: Deutschland und Südkorea wollen bei Rüstung und KI zusammenarbeiten",
-   "summary": "Der Bundeskanzler hat auf seiner Asienreise eine engere Zusammenarbeit mit Südkorea vereinbart. „Wir brauchen mehr denn je ein starkes Netz von Partnern, die wichtige Interessen und gemeinsame Werte miteinander teilen“, sagte Merz am…",
-   "link": "https://www.handelsblatt.com/video/politik/bundesregierung-deutschland-und-suedkorea-wollen-bei-ruestung-und-ki-zusammenarbeiten/100265990.html",
-   "published": "2026-10-29T17:05:29+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Schwarz-Gruppe investiert groß in KI-Start-up Cohere",
-   "summary": "Cohere will mit Milliardenkapital weltweit wachsen und setzt auf Unternehmenskunden statt auf den Massenmarkt. Was die Schwarz-Gruppe mit der Beteiligung strategisch erreichen will.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-schwarz-gruppe-investiert-gross-in-ki-start-up-cohere/100265983.html",
-   "published": "2026-10-29T16:55:18+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Musterdepot: Der KI-Boom zeigt, warum Nachhaltigkeit für Investoren relevant bleibt﻿",
-   "summary": "Nachhaltiges Investieren ist aus der Mode gekommen. Für viele Anleger steht der Begriff inzwischen für Verzicht auf Rendite – zu Unrecht, wie Anlageexpertin Gabriele Hartmann erklärt.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-nachhaltigkeit/100264126.html",
-   "published": "2026-10-29T16:17:40+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Alphabet enttäuscht, Microsoft überzeugt mit starkem Azure-Wachstum",
-   "summary": "Trotz positiver Meldungen von Microsoft und Oracle wächst die Sorge, dass der KI-Investitionsboom seinen Höhepunkt erreichen könnte.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-alphabet-enttaeuscht-microsoft-ueberzeugt-mit-starkem-azure-wachstum/100265970.html",
-   "published": "2026-10-29T16:15:32+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Lagarde tritt vorzeitig ab | Alphabet verschreckt Anleger mit KI-Wette",
-   "summary": "Eigentlich sollte Lagardes Amtszeit noch bis Oktober 2027 gehen. Warum möchte sie früher abtreten? Und: Alphabet verfehlt die Erwartungen der Wall Street bei Umsatz und Gewinn.",
-   "link": "https://www.handelsblatt.com/audio/today/today-lagarde-tritt-vorzeitig-ab-alphabet-verschreckt-anleger-mit-ki-wette/100265981.html",
-   "published": "2026-10-29T16:12:17+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Schwarz-Gruppe investiert Milliarden in KI-Start-up Cohere",
-   "summary": "Cohere will mit Milliardenkapital weltweit wachsen und setzt auf Unternehmenskunden statt auf den Massenmarkt. Was die Schwarz-Gruppe mit der Beteiligung strategisch erreichen will.",
-   "link": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-schwarz-gruppe-investiert-milliarden-in-ki-start-up-cohere/100265984.html",
-   "published": "2026-10-29T16:00:04+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Diese Zahl im Anthropic-Prospekt zeigt das Dilemma der Branche",
-   "summary": "Anthropic nährt die Hoffnung, dass sich mit KI Geld verdienen lässt. Doch Googles Zahlen zeigen, wie groß die Zweifel an den gewaltigen Investitionen weiter sind. Die KI-News der Woche.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-diese-zahl-im-anthropic-prospekt-zeigt-das-dilemma-der-branche/100264906.html",
-   "published": "2026-10-29T15:44:48+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Fondstipp der Woche: Brasilien bietet Anlegern ein günstiges KI-Gegengewicht",
-   "summary": "Die Brasilien-Wahl hat die Aktienkurse dort stark gedrückt. Weil Schwellenländer-ETFs ansonsten zunehmend zu KI- und Halbleiter-Wetten verkommen, ist das eine Kaufgelegenheit.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/brasilien-etfs-nach-wahl-guenstiges-gegengewicht-zum-ki-boom/100265306.html",
-   "published": "2026-10-29T15:27:42+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
    "paywall": true
   }
  ]

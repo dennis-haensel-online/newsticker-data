@@ -1,7 +1,52 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-02T11:50:36.555568+00:00",
+ "updated": "2026-11-02T21:05:54.368715+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Spähsoftware bei Apple - Digitalminister Wildberger bestätigt Hackerangriffe auf Bundespolitiker",
+   "summary": "Die Bundesregierung hat besorgt auf den Hackerangriff auf Mobilfunkgeräte von Bundespolitikern reagiert.",
+   "link": "https://www.deutschlandfunk.de/digitalminister-wildberger-bestaetigt-hackerangriffe-auf-bundespolitiker-100.html",
+   "published": "2026-11-02T21:02:47+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Cyberangriffe: Erneut Supermarkt-Kühlsysteme manipuliert",
+   "summary": "Mutmaßliche Cyberangriffe haben Kühlsysteme von Supermärkten in mehreren Ländern Europas getroffen. Die Temperaturen stiegen stark an, viele Lebensmittel mussten vernichtet werden.",
+   "link": "https://www.zdfheute.de/video/cyberangriff-supermarkt-kuehlsystem-europa-100.html",
+   "published": "2026-11-02T17:15:51+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
+   "summary": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
+   "published": "2026-11-02T16:10:17+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Kriminalität: Erneut Cyberangriffe auf Supermärkte",
+   "summary": "Die Angreifer haben in hunderten Supermärkten Gefriertruhen abgetaut. Nach Vorfällen in Frankreich trifft es nun mehrere EU-Staaten.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/cyberangriffe-supermaerkte-belgien-schweden-irland-li.3573115",
+   "published": "2026-11-02T13:55:09+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Cyberangriffe: Hacker erhitzen Supermarkt-Kühlschränke bis auf 50 Grad",
+   "summary": "Angreifer stellen Gefriertruhen aus der Ferne um, die Temperatur steigt. Nach einem Cyberangriff auf Frankreich trifft es nun zwei weitere EU-Länder.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriffe-auf-supermaerkte-in-belgien-und-schweden-accg-201643770.html",
+   "published": "2026-11-02T12:55:26+00:00",
+   "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Hackerangriff auf Regierungshandys: Minister bestätigt Attacke",
@@ -397,24 +442,6 @@
    "published": "2026-10-29T17:57:24+00:00",
    "first_seen": "2026-10-29T19:57:44.981420+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Beschwerde von Datenschutz-NGOs: Überwacht fürs KI-Training",
-   "summary": "Wenn KI lernen soll, sind zahlreiche Arbeitende beteiligt – unter umstrittenen Bedingungen. NGOs reichen nun Beschwerde gegen eine Plattform ein. mehr...",
-   "link": "https://taz.de/Beschwerde-von-Datenschutz-NGOs/!6225935/",
-   "published": "2026-10-29T13:53:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "OpenAI-Chef Altman trifft Regierung: Tech-Bros mit freier Terminwahl bei Kanzler und Ministern",
-   "summary": "Google, OpenAI, Tiktok: IT-Konzerne treffen sich über 100 Mal mit der Bundesregierung. Sie wollen weniger Datenschutz. Laut Lobbycontrol mit Erfolg. mehr...",
-   "link": "https://taz.de/OpenAI-Chef-Altman-trifft-Regierung/!6225683/",
-   "published": "2026-10-29T10:02:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": false
   }
  ]
 }
