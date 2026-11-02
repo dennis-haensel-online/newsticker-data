@@ -1,7 +1,70 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-02T03:28:16.262510+00:00",
+ "updated": "2026-11-02T11:50:36.555568+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Hackerangriff auf Regierungshandys: Minister bestätigt Attacke",
+   "summary": "Digitalminister Karsten Wildberger hat einen Medienbericht bestätigt, nach dem Geräte von Regierungsmitgliedern von einer Spy-Software befallen wurden. Die Prüfung laufe aktuell.",
+   "link": "https://www.zdfheute.de/politik/deutschland/hackerangriff-regierung-wildberger-100.html",
+   "published": "2026-11-02T11:43:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Belgien und Schweden - Cyberangriffe auf Kühlanlagen in Supermärkten",
+   "summary": "Erneut haben Cyberkriminelle Kühlanlagen in europäischen Supermärkten angegriffen.",
+   "link": "https://www.deutschlandfunk.de/cyberangriffe-auf-kuehlanlagen-in-supermaerkten-100.html",
+   "published": "2026-11-02T11:39:30+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kryptobörse: Kunden ziehen nach Hackerangriff Milliarden bei Binance ab",
+   "summary": "Die Kunden scheinen nach dem Angriff das Vertrauen zu verlieren. Das Unternehmen will die Betroffenen entschädigen, die Ermittler fahnden nach den gestohlenen Milliarden.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/binance-kunden-ziehen-nach-hackerangriff-milliarden-ab/100266622.html",
+   "published": "2026-11-02T11:38:15+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Warnmeldungen auf Smartphones: Falscher Atomalarm: Warn-App in Ukraine und Russland gehackt",
+   "summary": "Radioaktive Strahlung in Kiew und Angriffe mit chemischen Waffen? Falsche Warnmeldungen in einer wohl gehackten Notfall-App schrecken Bürger in der Ukraine auf. Es folgt ein Cyberangriff auf Russland.",
+   "link": "https://www.handelsblatt.com/politik/international/warnmeldungen-auf-smartphones-falscher-atomalarm-warn-app-in-ukraine-und-russland-gehackt/100266483.html",
+   "published": "2026-11-02T11:13:18+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+   "summary": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+   "published": "2026-11-02T08:59:47+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Hackerangriff: Binance-Kunden ziehen nach Milliarden-Diebstahl 3,6 Milliarden Dollar ab",
+   "summary": "Nach dem Rekord-Hackerangriff auf Binance nimmt die Kryptobörse wieder Auszahlungen auf. Auch der Bitcoin-Kurs erholt sich leicht.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/binance-kunden-ziehen-nach-milliarden-diebstahl-36-milliarden-dollar-ab/100266414.html",
+   "published": "2026-11-02T07:57:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Ukraine und Russland melden Hackerangriffe auf Notfall-Apps",
+   "summary": "Nach Hackerangriffen auf offizielle Warn-Apps wurde in Kiew fälschlich vor Strahlung gewarnt. Russland meldet ebenfalls eine Cyberattacke.",
+   "link": "https://www.zdfheute.de/politik/ausland/hack-notfall-app-ukraine-krieg-russland-100.html",
+   "published": "2026-11-02T04:29:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Ukraine-Krieg: App für Notfall-Warnungen in Ukraine und Russland gehackt",
@@ -352,42 +415,6 @@
    "published": "2026-10-29T10:02:00+00:00",
    "first_seen": "2026-10-29T14:47:03.848084+00:00",
    "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Chisinau - Cyberangriff auf staatliche Informationssysteme in Moldau - Nationaler Sicherheitsrat tagt",
-   "summary": "Moldaus Präsidentin Sandu hat nach einem Cyberangriff auf staatliche Informationssysteme eine Sitzung des Nationalen Sicherheitsrats einberufen.",
-   "link": "https://www.deutschlandfunk.de/cyberangriff-auf-staatliche-informationssysteme-in-moldau-nationaler-sicherheitsrat-tagt-100.html",
-   "published": "2026-10-29T07:39:22+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA +++: Aktivisten nehmen bei Hackerangriff ICE-Beamte ins Visier",
-   "summary": "Iran-Krieg kostet bislang wohl mehr als 47 Milliarden Dollar +++ Trump bringt Venezuela als 51. Bundesstaat ins Spiel +++ USA weisen kubanischen Diplomaten aus +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-aktivisten-nehmen-bei-hackerangriff-ice-beamte-ins-visier/29669594.html",
-   "published": "2026-10-29T03:27:00+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Techkonzerne: Microsoft überzeugt und profitiert vom Cloud-Geschäft",
-   "summary": "Auch Alphabet wächst dank KI rasant in den Sparten für Cloud Computing. Googles Werbegeschäft bleibt hinter den Erwartungen zurück. Dafür hat die Gemini-App nun eine Milliarde Nutzer.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-und-alphabet-cloud-boom-dank-ki-201630821.html",
-   "published": "2026-10-28T23:15:04+00:00",
-   "first_seen": "2026-10-29T01:24:34.802695+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Teurer KI-Wettlauf – Alphabet verschreckt die Wall Street",
-   "summary": "Die Cloudsparte verdoppelt ihren Umsatz, trotzdem stürzt die Alphabet-Aktie ab: Werbegeschäft und Gewinn enttäuschen, der KI-Ausbau verschlingt Milliarden.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-teurer-ki-wettlauf-alphabet-verschreckt-die-wall-street/100265408.html",
-   "published": "2026-10-28T22:51:07+00:00",
-   "first_seen": "2026-10-29T01:24:34.802695+00:00",
-   "paywall": true
   }
  ]
 }

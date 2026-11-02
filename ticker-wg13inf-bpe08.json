@@ -1,7 +1,160 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-02T03:28:16.262510+00:00",
+ "updated": "2026-11-02T11:50:36.555568+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Hackerangriff auf Regierungshandys: Minister bestätigt Attacke",
+   "summary": "Digitalminister Karsten Wildberger hat einen Medienbericht bestätigt, nach dem Geräte von Regierungsmitgliedern von einer Spy-Software befallen wurden. Die Prüfung laufe aktuell.",
+   "link": "https://www.zdfheute.de/politik/deutschland/hackerangriff-regierung-wildberger-100.html",
+   "published": "2026-11-02T11:43:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Digitalgipfel: Deutsche Unternehmen pochen auf KI made in Germany",
+   "summary": "Auf dem Digitalgipfel der Bundesregierung stehen zwei Themen ganz oben auf der Agenda: KI und digitale Souveränität. Der Branchenverband Bitkom macht eine klare Ansage, und Digitalminister Wildberger spricht mahnende Worte.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/digitalgipfel-bitkom-fordert-ki-made-in-germany-accg-201643281.html",
+   "published": "2026-11-02T11:39:53+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Chancen und Risiken von KI - Digitalgipfel der Bundesregierung hat begonnen - Wildberger: \"Anschluss nicht verpassen\"",
+   "summary": "In Berlin hat ein zweitägiger Digitalgipfel der Bundesregierung begonnen. In diesem Jahr stehen vor allem die Chancen, Risiken und Auswirkungen von Künstlicher Intelligenz im Mittelpunkt.",
+   "link": "https://www.deutschlandfunk.de/digitalgipfel-der-bundesregierung-hat-begonnen-wildberger-anschluss-nicht-verpassen-100.html",
+   "published": "2026-11-02T11:39:30+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Belgien und Schweden - Cyberangriffe auf Kühlanlagen in Supermärkten",
+   "summary": "Erneut haben Cyberkriminelle Kühlanlagen in europäischen Supermärkten angegriffen.",
+   "link": "https://www.deutschlandfunk.de/cyberangriffe-auf-kuehlanlagen-in-supermaerkten-100.html",
+   "published": "2026-11-02T11:39:30+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kryptobörse: Kunden ziehen nach Hackerangriff Milliarden bei Binance ab",
+   "summary": "Die Kunden scheinen nach dem Angriff das Vertrauen zu verlieren. Das Unternehmen will die Betroffenen entschädigen, die Ermittler fahnden nach den gestohlenen Milliarden.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/binance-kunden-ziehen-nach-hackerangriff-milliarden-ab/100266622.html",
+   "published": "2026-11-02T11:38:15+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Sicherheits-Experten finden Datenlücke bei beliebter KI-Coding-Plattform",
+   "summary": "Lovable baut wöchentlich über eine Million Seiten und Apps. Eine exklusive Analyse zeigt, wie sensible Daten auf Lovable-Seiten abrufbar sind. Laut Lovable ist das ein branchenweites Problem.",
+   "link": "https://www.handelsblatt.com/technik/ki/lovable-experten-finden-datenluecke-bei-beliebter-ki-coding-plattform/100264923.html",
+   "published": "2026-11-02T11:12:55+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-wenn-wir-einzelne-individuen-sind-ist-das-schlecht-fuer-die-demokratie/100223312.html",
+   "published": "2026-11-02T11:06:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Musikmarketing: FruBei provoziert, bis der Algorithmus anspringt",
+   "summary": "Eine junge Münchner Band setzt auf Reibung, um auf Instagram und Tiktok aufzufallen. Der Plan funktioniert – doch reicht das, um in der Musikindustrie erfolgreich zu werden?",
+   "link": "https://www.sueddeutsche.de/wirtschaft/band-social-media-marketing-musikindustrie-li.3539995",
+   "published": "2026-11-02T11:05:46+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Digitalgipfel in Berlin: KI-Taskforce: Deutschland bleiben noch anderthalb Jahre",
+   "summary": "Digitalminister Wildberger drängt darauf, in der Künstlichen Intelligenz schneller zu werden. Und sagt auch, wie er mit der Abhängigkeit von den US-Tech-Konzernen umgehen will.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/digitalgipfel-deutschland-bleiben-noch-anderthalb-jahre-sagt-die-ki-taskforce-accg-201643385.html",
+   "published": "2026-11-02T10:31:06+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/karriere-wie-sie-ihre-chancen-bei-der-bewerbung-mit-ki-skills-steigern/100251207.html",
+   "published": "2026-11-02T10:22:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Ifo-Institut: Deutschland ist noch nicht gut auf den KI-Boom vorbereitet",
+   "summary": "Die Verwaltung hinkt hinterher, die Hightech-Branche ist zu klein – und die Schulen bereiten Kinder nicht genügend auf die Technologie vor. Eine neue Ifo-Analyse kritisiert Deutschlands Rückstand bei KI.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/ifo-institut-ki-deutschland-digitalisierung-bildung-li.3572762",
+   "published": "2026-11-02T09:55:30+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalgipfel: Digitalminister Wildberger will mehr Tempo bei KI",
+   "summary": "„Wertschöpfung, Wachstum, Arbeitsplätze“: Digitalminister Wildberger fordert mehr Tempo bei der KI, aber auch klare Regeln. Auf dem Digitalgipfel soll dafür die Grundlage gelegt werden.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/digitalgipfel-digitalminister-wildberger-will-mehr-tempo-bei-ki/100265528.html",
+   "published": "2026-11-02T09:52:09+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalgipfel: „Zeitfenster schließt sich bald“: Deutschland unter KI-Druck",
+   "summary": "Droht Deutschland im KI-Wettbewerb mit den USA und China abgehängt zu werden? Die Bundesregierung sieht bei dem Thema einen starken Zeit- und Handlungsdruck.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/digitalgipfel-zeitfenster-schliesst-sich-bald-deutschland-unter-ki-druck/100266572.html",
+   "published": "2026-11-02T09:22:16+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
+   "summary": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
+   "published": "2026-11-02T08:59:47+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Hackerangriff: Binance-Kunden ziehen nach Milliarden-Diebstahl 3,6 Milliarden Dollar ab",
+   "summary": "Nach dem Rekord-Hackerangriff auf Binance nimmt die Kryptobörse wieder Auszahlungen auf. Auch der Bitcoin-Kurs erholt sich leicht.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/binance-kunden-ziehen-nach-milliarden-diebstahl-36-milliarden-dollar-ab/100266414.html",
+   "published": "2026-11-02T07:57:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Zeitdruck: Zehn Mitarbeiter, ein Bot – so will eine Chefin ihre Zeit zurückbekommen",
+   "summary": "Wenn durchgetaktete Führungskräfte ihre Teams zu lange auf Antwort warten lassen, sorgen sie für Frust. Könnte KI da nicht vielleicht helfen?",
+   "link": "https://www.wiwo.de/erfolg/management/review-bottleneck-durch-ki-wie-agenten-chefs-entlasten/100265637.html",
+   "published": "2026-11-02T06:33:04+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Auf der Suche nach einem \"einfacheren\" Regelwerk für KI",
+   "summary": "In Berlin beginnt der zweitägige Digitalgipfel der Bundesregierung. Im Zentrum steht die Frage, wie sich digitale Souveränität und KI-Sicherheit in Einklang bringen lassen.",
+   "link": "https://www.zdfheute.de/politik/deutschland/digitalgipfel-bundesregierung-merz-ki-sicherheit-souveraenitaet-100.html",
+   "published": "2026-11-02T05:00:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Künstliche Intelligenz: KI nutzen, ohne zu verdummen",
@@ -747,159 +900,6 @@
    "link": "https://www.wiwo.de/finanzen/geldanlage/brasilien-etfs-nach-wahl-guenstiges-gegengewicht-zum-ki-boom/100265306.html",
    "published": "2026-10-29T15:27:42+00:00",
    "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-warum-ist-kuenstliche-intelligenz-bei-trumpf-nicht-mehr-wegzudenken/100248242.html",
-   "published": "2026-10-29T15:18:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Chilisauce aus China: Scharfes Öl, kaltes Herz?",
-   "summary": "Lao Gan Ma ist Chinas berühmteste Chilisauce und auch in deutschen Küchen sehr beliebt. Der Hersteller soll nun viele Beschäftigte durch KI ersetzt haben, die Empörung ist groß.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/lao-gan-ma-chilisauce-china-ki-kuenstliche-intelligenz-li.3570714",
-   "published": "2026-10-29T15:12:38+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Anthropic-Börsengang: Die Frage ist nicht, ob die KI-Blase platzt. Sondern wann",
-   "summary": "Die KI-Firma Anthropic bereitet einen der größten Börsengänge aller Zeiten vor. Doch es gibt immer mehr Zweifel, ob sich die gigantischen Investitionen jemals rechnen.",
-   "link": "https://www.zeit.de/2026/47/anthropic-boersengang-ki-aktie-coreweave-dotcom-blase",
-   "published": "2026-10-29T15:01:25+00:00",
-   "first_seen": "2026-10-29T23:46:55.062554+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: Henna Virkkunen: EU braucht Zeit, um Starlink zu ersetzen",
-   "summary": "Die EU-Digitalkommissarin erklärt im Interview, wie Europa das Satellitennetz von Elon Musk durch eigene Dienste ersetzen will. Und warnt vor Kurskorrekturen bei KI-Aktien.",
-   "link": "https://www.handelsblatt.com/politik/international/digitalpolitik-henna-virkkunen-eu-braucht-zeit-um-starlink-zu-ersetzen/100265335.html",
-   "published": "2026-10-29T14:34:59+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Unternehmen: Die Kryptowelt spielt den Anthropic-IPO schon mal durch",
-   "summary": "Der anstehende Börsengang von Anthropic ist ein Stimmungstest für den KI-Hype. Auf speziellen Kryptoplattformen lässt sich das Unternehmen schon handeln. Doch die Risiken sind groß.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/hyperliquid-die-kryptowelt-spielt-den-anthropic-boersengang-schon-mal-durch/100265357.html",
-   "published": "2026-10-29T14:24:25+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "KI Start-up Mistral: Das neue Top-Modell kommt aus Europa, nicht aus China",
-   "summary": "Mit Mistral Large 4 veröffentlicht das französische Start-up das „beste offene Modell“ der Welt, zumindest für Programmierung und Cybersecurity. Das ist eine gute Nachricht für Mistral, aber auch für Europa.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-kuenstliche-intelligenz-europa-cybersecurity-open-source-ki-li.3570581",
-   "published": "2026-10-29T14:23:56+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Labore: Das Wettrennen zweier erbitterter Rivalen – Wo stehen Anthropic und OpenAI heute?",
-   "summary": "Die KI-Pioniere streben an die Börse. Doch während Anleger bei Anthropic geprüfte Zahlen kennen, fehlen bei OpenAI entsprechende Angaben. Ein Blick auf Stärken und Schwächen der Labore.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-wettrennen-der-kilabore-anthropic-und-openai-im-vergleich/100258365.html",
-   "published": "2026-10-29T14:00:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Video: Microsoft-Chef Satya Nadella im exklusiven WirtschaftsWoche-Interview",
-   "summary": "Im Video-Interview spricht der Tech-Manager über profitable KI und Microsofts Milliardeninvestitionen in deutsche Rechenzentren.",
-   "link": "https://www.wiwo.de/unternehmen/it/satya-nadella-im-interview-microsoft-chef-ueber-ki-nutzen-und-rechenzentren/100265518.html",
-   "published": "2026-10-29T14:00:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Microsoft: „Jeder KI‑Agent ist ein potenzielles Insider-Risiko“",
-   "summary": "Microsoft-Chef Satya Nadella verspricht, seinen KI‑Modellen konsequent zu misstrauen – und setzt auf maßgeschneiderte Sicherheitslösungen.",
-   "link": "https://www.wiwo.de/unternehmen/it/microsoft-chef-satya-nadella-jeder-kiagent-ist-ein-potenzielles-insider-risiko/100265514.html",
-   "published": "2026-10-29T14:00:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Microsoft: Wie Satya Nadella Microsoft zum zweiten Mal neu erfinden will",
-   "summary": "Künstliche Intelligenz zwingt Microsoft zur Kurskorrektur. Der US-Konzern will mit KI-Agenten unentbehrlich bleiben – und buhlt um das Vertrauen seiner europäischen Kunden.",
-   "link": "https://www.wiwo.de/unternehmen/it/microsofts-neue-ki-strategie-was-satya-nadellas-agenten-wette-bedeutet/100265512.html",
-   "published": "2026-10-29T14:00:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Beschwerde von Datenschutz-NGOs: Überwacht fürs KI-Training",
-   "summary": "Wenn KI lernen soll, sind zahlreiche Arbeitende beteiligt – unter umstrittenen Bedingungen. NGOs reichen nun Beschwerde gegen eine Plattform ein. mehr...",
-   "link": "https://taz.de/Beschwerde-von-Datenschutz-NGOs/!6225935/",
-   "published": "2026-10-29T13:53:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Linde und Air Liquide: Industriegase-Konzerne profitieren vom KI-Boom",
-   "summary": "Der KI-Boom beschert Linde und Air Liquide kräftiges Wachstum. Die Nachfrage nach Industriegasen für Hochleistungschips treibt das Geschäft stärker an als erwartet.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/linde-und-air-liquide-industriegase-konzerne-profitieren-vom-ki-boom/100265933.html",
-   "published": "2026-10-29T13:42:17+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Merz in Asien: Deutschland und Südkorea planen Zusammenarbeit bei Rüstung und KI",
-   "summary": "Friedrich Merz besucht bei seiner Asien-Reise auch Südkorea. Für den Bundeskanzler und Südkoreas Präsident Lee stehen Rüstung, Technologie und gemeinsame Sicherheitsinteressen im Fokus.",
-   "link": "https://www.handelsblatt.com/politik/international/merz-in-asien-deutschland-und-suedkorea-planen-zusammenarbeit-bei-ruestung-und-ki/100265947.html",
-   "published": "2026-10-29T13:40:43+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gesundheit: „Eine Milliarde Stunden zurückgeben“: Diese Firma entlastet Ärzte mit KI bei der Dokumentation",
-   "summary": "Mehr als 10.000 Gesundheitseinrichtungen nutzen den KI-Assistenten von Tandem Health. Jetzt beteiligt sich die Deutsche Telekom. Firmenchef Lukas Saari will einen europäischen Champion bauen.",
-   "link": "https://www.handelsblatt.com/unternehmen/start-ups/gesundheit-tandem-health-will-aerzte-mit-ki-bei-der-dokumentation-entlasten01/100265293.html",
-   "published": "2026-10-29T13:23:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Beratung: PwC-Chef im Interview: Ist KI nicht der bessere Berater, Herr Billeb?",
-   "summary": "Im exklusiven Interview nennt der neue PwC-Deutschlandchef Marc Billeb drei Hebel, mit denen die deutsche Wirtschaft wieder nach vorn kommt – und was junge Leute in der KI-Arbeitswelt mitbringen müssen.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/pwc-chef-ist-ki-nicht-der-bessere-berater-herr-billeb/100265230.html",
-   "published": "2026-10-29T13:19:57+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Google-Konzern: Alphabet-Aktie fällt um zehn Prozent",
-   "summary": "Der Konzern steigert seinen Umsatz und macht Gewinn. Aber die Anleger sind dennoch enttäuscht. Sorgen bereiten unter anderem die hohen Investitionen in KI-Infrastruktur.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/alphabet-google-aktie-ki-investitionen-boerse-li.3570998",
-   "published": "2026-10-29T12:19:53+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-koennen-sie-diese-ki-fragen-beantworten-das-kann-entscheidend-sein/100240522.html",
-   "published": "2026-10-29T12:17:00+00:00",
-   "first_seen": "2026-10-29T14:47:03.848084+00:00",
    "paywall": true
   }
  ]

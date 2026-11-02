@@ -1,7 +1,43 @@
 {
  "id": "ik",
- "updated": "2026-11-02T03:28:16.262510+00:00",
+ "updated": "2026-11-02T11:50:36.555568+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
+   "link": "https://www.handelsblatt.com/politik/international/migration-was-polen-fuer-deutsche-auswanderer-so-attraktiv-macht/100249315.html",
+   "published": "2026-11-02T11:04:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Proteste: Zehntausende bei Jugend-Demos – dann teils schwere Krawalle",
+   "summary": "Auf die zumeist friedlichen Jugendproteste folgten teils schwere Krawalle. Die politische Debatte dreht sich nun auch um Integration.",
+   "link": "https://www.wiwo.de/politik/deutschland/gen-z-proteste-zehntausende-bei-jugend-demos-erst-frieden-dann-gewalt/100266314.html",
+   "published": "2026-11-02T10:32:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Jüdische Akademie will \"intellektueller Anziehungspunkt\" sein",
+   "summary": "Die neue Jüdische Akademie in Frankfurt will jüdisches Leben in seiner ganzen Vielfalt sichtbar machen. Zur Eröffnung wird auch Bundespräsident Steinmeier erwartet.",
+   "link": "https://www.zdfheute.de/wissen/juedische-akademie-frankfurt-100.html",
+   "published": "2026-11-02T07:12:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Schwarze in Brasiliens Industrie: Wer profitiert von Brasiliens Reindustralisierung?",
+   "summary": "Brasiliens Wirtschaft verspricht neue Arbeitsplätze. Damit Schwarze Menschen davon etwas haben, braucht es gezielte Maßnahmen gegen Rassismus. mehr...",
+   "link": "https://taz.de/Schwarze-in-Brasiliens-Industrie/!6224021/",
+   "published": "2026-11-02T06:11:00+00:00",
+   "first_seen": "2026-11-02T11:50:36.555568+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "\"Blanker Rassismus\" - Politik attackiert Ex-Sportreporter Waldemar Hartmann nach Aussage zu Eralp (Die Linke)",
@@ -243,42 +279,6 @@
    "link": "https://www.zdfheute.de/video/un-vertriebene-im-jemen-video-100.html",
    "published": "2026-10-29T11:22:00+00:00",
    "first_seen": "2026-10-29T14:47:03.848084+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Neue Bundesbeauftragte - Von Schnurbein will Netzwerk gegen Antisemitismus schaffen",
-   "summary": "Die neue Antisemitismusbeauftragte der Bundesregierung, von Schnurbein, setzt bei ihrer Arbeit auf ein breites Bündnis mit Akteuren in den Ländern.",
-   "link": "https://www.deutschlandfunk.de/von-schnurbein-will-netzwerk-gegen-antisemitismus-schaffen-100.html",
-   "published": "2026-10-29T07:39:22+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: Nutzt Deutschland das Arbeitskräftepotenzial von Müttern zu wenig?",
-   "summary": "Deutschland klagt über Fachkräftemangel, gleichzeitig arbeiten viele gut qualifizierte Mütter in Teilzeit oder gar nicht. Der Vergleich mit anderen Ländern zeigt: Es geht auch anders.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/fachkraefte-wie-deutschland-das-potenzial-von-muettern-besser-nutzen-kann/100230798.html",
-   "published": "2026-10-29T07:00:00+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: Warum Trump die Bolsonaro-Familie schützt",
-   "summary": "Der US-Präsident half dem verurteilten brasilianischen Ex-Präsidenten Jair Bolsonaro – jetzt unterstützt er seinen geflüchteten Sohn. Welche Strategie steckt dahinter?",
-   "link": "https://www.handelsblatt.com/politik/international/usa-warum-trump-die-bolsonaro-familie-schuetzt/100265741.html",
-   "published": "2026-10-29T05:46:43+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Prien: \"Erleben eine Enttabuisierung von Antisemitismus\"",
-   "summary": "Bildungsministerin Karin Prien (CDU) warnt bei \"Lanz\" vor einer \"Enttabuisierung von linkem Antisemitismus\". Steffen Krach (SPD) hält an der Koalitionsoption fest.",
-   "link": "https://www.zdfheute.de/politik/deutschland/lanz-berlin-regierungsbildung-prien-krach-100.html",
-   "published": "2026-10-29T01:55:00+00:00",
-   "first_seen": "2026-10-29T07:49:14.252237+00:00",
    "paywall": false
   }
  ]
