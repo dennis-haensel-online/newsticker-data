@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-02T21:05:54.368715+00:00",
+ "updated": "2026-11-03T03:10:25.331698+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Digitalwährungen: Binance: Nordkorea weist Vorwurf von Milliardenraub zurück",
+   "summary": "Nach dem bislang größten Hackerangriff auf eine Kryptobörse weist Pjöngjang jegliche Verantwortung zurück. Die Schwester des nordkoreanischen Machthabers hält die Anschuldigungen für absurd.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/digitalwaehrungen-binance-nordkorea-weist-vorwurf-von-milliardenraub-zurueck/100266808.html",
+   "published": "2026-11-03T02:59:44+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Weltgrößte Kryptobörse - Nordkorea weist Vorwürfe wegen Binance-Hackerangriffs zurück",
+   "summary": "Nordkorea hat eine Beteiligung an dem Hackerangriff auf die weltgrößte Kryptobörse Binance zurückgewiesen.",
+   "link": "https://www.deutschlandfunk.de/nordkorea-weist-vorwuerfe-wegen-binance-hackerangriffs-zurueck-100.html",
+   "published": "2026-11-03T02:36:23+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Spähsoftware bei Apple - Digitalminister Wildberger bestätigt Hackerangriffe auf Bundespolitiker",
@@ -9,6 +27,15 @@
    "link": "https://www.deutschlandfunk.de/digitalminister-wildberger-bestaetigt-hackerangriffe-auf-bundespolitiker-100.html",
    "published": "2026-11-02T21:02:47+00:00",
    "first_seen": "2026-11-02T21:05:54.368715+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "50 Grad im Kühlschrank? Erneut Cyberangriffe auf Supermärkte",
+   "summary": "Drei Wochen nach den letzten Angriffen haben Hacker in mindestens fünf europäischen Ländern erneut Cyberangriffe auf Supermärkte verübt. Die EU-Kommission zeigte sich besorgt.",
+   "link": "https://www.zdfheute.de/panorama/cyberangriffe-supermaerkte-belgien-schweden-irland-luxemburg-estland-finnland-niederlande-100.html",
+   "published": "2026-11-02T20:05:00+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
    "paywall": false
   },
   {

@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-02T21:05:54.368715+00:00",
+ "updated": "2026-11-03T03:10:25.331698+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Tech: KI-Datenfirma Palantir wächst weiter schnell",
+   "summary": "Nach Militär und Behörden suchen auch US-Unternehmen KI-Hilfe bei Palantir. Der Firma beschert das ein stabil hohes Wachstumstempo.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/tech-ki-datenfirma-palantir-waechst-weiter-schnell/100266800.html",
+   "published": "2026-11-03T01:49:49+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: KI-Datenfirma Palantir wächst weiter schnell",
+   "summary": "Nach Militär und Behörden suchen auch US-Unternehmen KI-Hilfe bei Palantir. Der Firma beschert das ein stabil hohes Wachstumstempo.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-datenfirma-palantir-waechst-weiter-schnell/100266801.html",
+   "published": "2026-11-03T01:37:28+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Die hohe Inflation belastet Trumps Wahlkampf",
+   "summary": "Kurz vor den Midterms steigt die Inflation in den USA auf 3,7 Prozent. Hohe Spritpreise und Zölle belasten viele Haushalte und setzen Trump politisch unter Druck.",
+   "link": "https://www.zdfheute.de/politik/ausland/midterms-usa-inflation-benzinpreise-100.html",
+   "published": "2026-11-03T01:08:00+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "iPhone-Hersteller: Apples Wachstum schwächt sich ab",
+   "summary": "Der Elektronikkonzern leidet unter Engpässen in der Lieferkette. Sein neues faltbares iPhone verkauft sich gut – trotz Berichten über Qualitätsmängel.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/trotz-faltbarem-iphone-apples-wachstum-schwaecht-sich-ab-201645589.html",
+   "published": "2026-11-03T00:01:54+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Landnutzung und Mietpreise: Berater der Bundesregierung fordert mehr Flächenverbrauch",
@@ -683,60 +719,6 @@
    "summary": "Nach der erwarteten Zinspause deutet EZB-Chefin Christine Lagarde ungewohnt deutlich den nächsten Schritt für Dezember an. Auch auf die Situation in Frankreich geht die Präsidentin ein.",
    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-notenbank-steuert-auf-dritte-zinserhoehung-im-dezember-zu/100265320.html",
    "published": "2026-10-29T16:24:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Alphabet enttäuscht, Microsoft überzeugt mit starkem Azure-Wachstum",
-   "summary": "Trotz positiver Meldungen von Microsoft und Oracle wächst die Sorge, dass der KI-Investitionsboom seinen Höhepunkt erreichen könnte.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-alphabet-enttaeuscht-microsoft-ueberzeugt-mit-starkem-azure-wachstum/100265970.html",
-   "published": "2026-10-29T16:15:32+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Was über die Hintergründe bekannt ist",
-   "summary": "EZB-Präsidentin Lagarde will laut Mitteilung der Zentralbank vorzeitig zurücktreten. Was über die Hintergründe bekannt ist und wie überraschend der Schritt kommt, erklärt Sina Mainitz.",
-   "link": "https://www.zdfheute.de/video/heute-nachrichten/sgs-ruecktritt-praesidentin-ezb-video-100.html",
-   "published": "2026-10-29T16:00:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Condor einigt sich mit Piloten",
-   "summary": "Die 1000 Condor-Pilotinnen und -Piloten haben sich mit der Fluggesellschaft auf einen langfristigen Tariffrieden verständigt. Sie verzichten gegen Beschäftigungszusagen unter anderem für zwei Jahre auf Gehaltserhöhungen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/condor-einigt-sich-mit-piloten-a-99c1e7b2-b601-487e-96ed-c02d06c106c5#ref=rss",
-   "published": "2026-10-29T15:47:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "USA: Wirtschaftswachstum beschleunigt sich stärker als erwartet",
-   "summary": "Die Exporte sind zwar zurückgegangen, dennoch hat die US-Wirtschaft im dritten Quartal zugelegt. Das liegt vor allem daran, dass sich die Amerikaner trotz steigender Inflation weiter konsumfreudig zeigen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-wirtschaftswachstum-beschleunigt-sich-staerker-als-erwartet-a-99cd2228-fe47-4a38-aefa-fdc51abace41#ref=rss",
-   "published": "2026-10-29T15:35:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Vorzeitiger Rückzug: Lagarde verlässt EZB im Februar: „Will Redefreiheit“",
-   "summary": "Christine Lagarde tritt vorzeitig als EZB-Präsidentin ab. Das verschafft der Politik in unsicheren Zeiten Luft bei der Regelung ihrer Nachfolge. Das Rennen um den Spitzenposten hat bereits begonnen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/vorzeitiger-rueckzug-lagarde-verlaesst-ezb-im-februar-will-redefreiheit/100265881.html",
-   "published": "2026-10-29T15:06:40+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: US-Inflation bleibt hoch: Anleihemarkt preist bereits die nächste Zinserhöhung in den USA ein",
-   "summary": "Die US-Notenbank hat sich am Mittwoch gegen eine Zinserhöhung entschieden. Bereits am Donnerstag zeigen die privaten Konsumausgaben, dass die Zinspause nicht lange dauern dürfte.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-anleihemarkt-preist-die-naechste-zinserhoehung-in-den-usa-ein/100265841.html",
-   "published": "2026-10-29T15:02:12+00:00",
    "first_seen": "2026-10-29T19:57:44.981420+00:00",
    "paywall": true
   }

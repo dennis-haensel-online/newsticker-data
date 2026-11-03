@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-11-02T21:05:54.368715+00:00",
+ "updated": "2026-11-03T03:10:25.331698+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Die hohe Inflation belastet Trumps Wahlkampf",
+   "summary": "Kurz vor den Midterms steigt die Inflation in den USA auf 3,7 Prozent. Hohe Spritpreise und Zölle belasten viele Haushalte und setzen Trump politisch unter Druck.",
+   "link": "https://www.zdfheute.de/politik/ausland/midterms-usa-inflation-benzinpreise-100.html",
+   "published": "2026-11-03T01:08:00+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "iPhone-Hersteller: Apples Wachstum schwächt sich ab",
+   "summary": "Der Elektronikkonzern leidet unter Engpässen in der Lieferkette. Sein neues faltbares iPhone verkauft sich gut – trotz Berichten über Qualitätsmängel.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/trotz-faltbarem-iphone-apples-wachstum-schwaecht-sich-ab-201645589.html",
+   "published": "2026-11-03T00:01:54+00:00",
+   "first_seen": "2026-11-03T03:10:25.331698+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Migration - Zwei Migranten bei Flucht auf spanische Insel gestorben",
@@ -316,15 +334,6 @@
    "published": "2026-10-29T19:43:00+00:00",
    "first_seen": "2026-10-29T19:57:44.981420+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "USA: Wirtschaftswachstum beschleunigt sich stärker als erwartet",
-   "summary": "Die Exporte sind zwar zurückgegangen, dennoch hat die US-Wirtschaft im dritten Quartal zugelegt. Das liegt vor allem daran, dass sich die Amerikaner trotz steigender Inflation weiter konsumfreudig zeigen.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/usa-wirtschaftswachstum-beschleunigt-sich-staerker-als-erwartet-a-99cd2228-fe47-4a38-aefa-fdc51abace41#ref=rss",
-   "published": "2026-10-29T15:35:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
   }
  ]
 }
