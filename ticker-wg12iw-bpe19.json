@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-03T03:10:25.331698+00:00",
+ "updated": "2026-11-03T11:28:43.036333+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Verkehrspolitik: Rechnungshof warnt vor Milliardenrisiken durch Autobahn-Kredite",
+   "summary": "Die Autobahn GmbH könnte künftig eigene Kredite aufnehmen, um den Straßenbau zu finanzieren. Damit werde die Schuldenbremse des Bundes ausgehöhlt, mahnt der Bundesrechnungshof.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/autobahn-kredite-rechnungshof-warnt-vor-milliardenrisiken/100266966.html",
+   "published": "2026-11-03T11:15:46+00:00",
+   "first_seen": "2026-11-03T11:28:43.036333+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Lebenshaltungskosten im US-Wahlkampf: Nur die Eier sind günstig",
+   "summary": "Ob in New York oder im ländlichen Iowa, überall in den USA leiden die Menschen an massiver Teuerung. Doch nicht alle machen US-Präsident Trump verantwortlich. mehr...",
+   "link": "https://taz.de/Lebenshaltungskosten-im-US-Wahlkampf/!6226505/",
+   "published": "2026-11-03T10:35:00+00:00",
+   "first_seen": "2026-11-03T11:28:43.036333+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Chemieindustrie: Evonik legt deutlich zu – „wir sind stark und robust“",
+   "summary": "Evonik stärkt mit überraschend kräftigem Wachstum seine Position im Übernahmeringen mit BASF. Der Konzern setzt weiter auf Eigenständigkeit und hebt seine Gewinnprognose an.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/chemieindustrie-evonik-steigert-gewinn-im-dritten-quartal-deutlich/100266851.html",
+   "published": "2026-11-03T08:33:00+00:00",
+   "first_seen": "2026-11-03T11:28:43.036333+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Quartalszahlen: Bei Bayer soll wieder etwas blühen",
+   "summary": "Im dritten Quartal hat Bayer besser abgeschnitten als erwartet. Der Wachstumsplan von CEO Bill Anderson steht. Doch es gibt noch eine Unwägbarkeit.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/bayer-so-will-ceo-bill-anderson-den-konzern-zum-bluehen-bringen/100266123.html",
+   "published": "2026-11-03T07:34:00+00:00",
+   "first_seen": "2026-11-03T11:28:43.036333+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Tech: KI-Datenfirma Palantir wächst weiter schnell",
@@ -621,105 +657,6 @@
    "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/geldanlage-wie-geht-es-der-us-wirtschaft-drei-charts-zeigen-warnsignale/100261981.html",
    "published": "2026-10-30T03:16:18+00:00",
    "first_seen": "2026-10-30T03:35:29.072006+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Wirtschaft - EZB: Keine Zinserhöhung trotz steigender Inflation",
-   "summary": "Die Europäische Zentralbank verzichtet trotz stark gestiegener Inflation vorerst auf eine weitere Zinserhöhung.",
-   "link": "https://www.deutschlandfunk.de/ezb-keine-zinserhoehung-trotz-steigender-inflation-110.html",
-   "published": "2026-10-29T22:41:06+00:00",
-   "first_seen": "2026-10-29T23:46:55.062554+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Mitteilung - EZB-Präsidentin Lagarde gibt ihr Amt im Februar vorzeitig auf",
-   "summary": "Die Präsidentin der Europäischen Zentralbank, Lagarde, wird vorzeitig von ihrem Amt zurücktreten. In einer Mitteilung der EZB hieß es, Lagarde werde sich zum 7. Februar kommenden Jahres zurückziehen.",
-   "link": "https://www.deutschlandfunk.de/ezb-praesidentin-lagarde-gibt-ihr-amt-im-februar-vorzeitig-auf-102.html",
-   "published": "2026-10-29T22:41:06+00:00",
-   "first_seen": "2026-10-29T23:46:55.062554+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Boom: Amazon profitiert von Cloud-Geschäft",
-   "summary": "Amazon ist nicht nur der weltgrößte Online-Händler, sondern auch ein führender Player bei Cloud-Diensten. Im KI-Boom sorgt das für Wachstum - aber bringt auch hohe Kosten für neue Rechenzentren.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-amazon-profitiert-von-cloud-geschaeft/100266017.html",
-   "published": "2026-10-29T21:08:15+00:00",
-   "first_seen": "2026-10-29T23:46:55.062554+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"Das Auto an sich ist Verschwendung\"",
-   "summary": "Wirtschaftsjournalistin Ulrike Herrmann warnt vor der Illusion ewigen Wachstums und sagt: \"Wir müssen schrumpfen!\" Für Jan Fleischhauer ein Grusel-Modell. Er setzt auf Innovation.",
-   "link": "https://www.zdfheute.de/politik/deutschland/keine-talkshow-fleischhauer-herrmann-wirtschaftswachstum-klimakrise-100.html",
-   "published": "2026-10-29T20:15:00+00:00",
-   "first_seen": "2026-10-29T23:46:55.062554+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Haushaltspolitik in Italien: Meloni wurstelt sich durch",
-   "summary": "Die italienische Ministerpräsidentin lässt einen Haushaltsplan beschließen, dem die klare Stoßrichtung fehlt. Immerhin verschreckt er nicht die ausländischen Investoren. Doch das reformbedürftige Italien braucht mehr.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/giorgia-melonis-haushaltspolitik-lavieren-statt-reformen-201632875.html",
-   "published": "2026-10-29T18:44:24+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-   "summary": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin…",
-   "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-   "published": "2026-10-29T18:40:44+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Alphabet-Aktie: Schwächeres Wachstum in Google-Kerngeschäft alarmiert US-Markt",
-   "summary": "Investoren haben auf enttäuschende Zahlen des Google-Mutterkonzerns reagiert: Die Alphabet-Aktie brach um mehr als zwölf Prozent ein – und steuert damit auf einen Rekordverlust zu.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/alphabet-aktie-schwaecheres-wachstum-in-google-kerngeschaeft-alarmiert-us-markt-a-8e293b1a-a30b-431c-bf1c-684bf9fa4645#ref=rss",
-   "published": "2026-10-29T17:35:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "So begründet EZB-Präsidentin Lagarde ihren Rücktritt",
-   "summary": "Christine Lagarde hat angekündigt, als Präsidentin der Europäischen Zentralbank im Februar vorzeitig zurückzutreten. Regulär wäre ihre Amtszeit bis Ende Oktober 2027 gegangen.",
-   "link": "https://www.zdfheute.de/video/lagarde-kuendigt-ruecktritt-als-ezb-praesidentin-an-video-100.html",
-   "published": "2026-10-29T17:18:47+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "EZB-Chefin Lagarde erklärt ihren vorzeitigen Abgang",
-   "summary": "\"Es ist nie eine gute Zeit zu gehen\": EZB-Cefin Lagarde hört auf. Nach der Ankündigung am Morgen erklärte sie persönlich, warum sie im Februar 2027 zurücktreten will.",
-   "link": "https://www.zdfheute.de/wirtschaft/christine-lagarde-ezb-ruecktritt-100.html",
-   "published": "2026-10-29T16:55:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarkt: Bundesagentur gibt Arbeitsmarktzahlen für Oktober bekannt",
-   "summary": "Normalerweise senkt eine gewisse Herbstbelebung im Oktober die Zahl der Arbeitslosen. Ob das auch in diesem Jahr der Fall sein wird, gibt BA-Chefin Nahles am Freitag bekannt.",
-   "link": "https://www.wiwo.de/politik/konjunktur/arbeitsmarkt-bundesagentur-gibt-arbeitsmarktzahlen-fuer-oktober-bekannt/100265992.html",
-   "published": "2026-10-29T16:54:07+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: „Die Richtung ist ziemlich klar“ – EZB steuert auf dritte Zinserhöhung im Dezember zu",
-   "summary": "Nach der erwarteten Zinspause deutet EZB-Chefin Christine Lagarde ungewohnt deutlich den nächsten Schritt für Dezember an. Auch auf die Situation in Frankreich geht die Präsidentin ein.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-notenbank-steuert-auf-dritte-zinserhoehung-im-dezember-zu/100265320.html",
-   "published": "2026-10-29T16:24:00+00:00",
-   "first_seen": "2026-10-29T19:57:44.981420+00:00",
    "paywall": true
   }
  ]
