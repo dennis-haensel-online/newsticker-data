@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-03T18:50:01.833395+00:00",
+ "updated": "2026-11-03T23:48:08.424654+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Teuerungsrate - Bundesbankpräsident Nagel erwartet höheren EZB-Leitzins im Dezember",
+   "summary": "Die Europäische Zentralbank steuert nach Einschätzung von Bundesbank-Präsident Nagel auf eine Zinserhöhung im kommenden Monat zu.",
+   "link": "https://www.deutschlandfunk.de/bundesbankpraesident-nagel-erwartet-hoeheren-ezb-leitzins-im-dezember-104.html",
+   "published": "2026-11-03T23:27:22+00:00",
+   "first_seen": "2026-11-03T23:48:08.424654+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "US-Wirtschaft: Trumps freudloser Aufschwung",
+   "summary": "Amerikas Wirtschaft wächst kräftig. Doch die Wähler geben Trump schlechte Noten. Hohe Preise, sinkende Reallöhne und Korruptionsvorwürfe überschatten die gute Konjunktur.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/us-midterms-2026-trumps-freudloser-aufschwung-der-wirtschaft-201643796.html",
+   "published": "2026-11-03T19:35:36+00:00",
+   "first_seen": "2026-11-03T23:48:08.424654+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldpolitik: Bundesbankpräsident Nagel: EZB-Zinserhöhung im Dezember wahrscheinlich",
+   "summary": "Die Teuerungsrate im Euroraum ist bei Weitem nicht da, wo die Euro-Währungshüter sie haben wollen. Der Bundesbank-Präsident hat eine klare Meinung dazu, was die EZB im Dezember tun sollte.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-nagel-zinserhoehung-im-dezember-wahrscheinlich/100267104.html",
+   "published": "2026-11-03T19:23:26+00:00",
+   "first_seen": "2026-11-03T23:48:08.424654+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Teuerungsrate - Bundesbankpräsident Nagel erwartet höheren EZB-Leitzins im Dezember",
@@ -18,6 +45,15 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/ezb-kurs-nagel-zinserhoehung-im-dezember-wahrscheinlich/100267095.html",
    "published": "2026-11-03T18:00:05+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "EZB-Kurs: Bundesbank-Präsident hält Zinserhöhung im Dezember für wahrscheinlich",
+   "summary": "Die Teuerungsrate im Euroraum ist bei Weitem nicht da, wo die Euro-Währungshüter sie haben wollen. Der Bundesbank-Präsident hat eine klare Meinung dazu, was die EZB im Dezember tun sollte.",
+   "link": "https://www.wiwo.de/unternehmen/banken/ezb-kurs-nagel-zinserhoehung-im-dezember-wahrscheinlich/100267096.html",
+   "published": "2026-11-03T18:00:05+00:00",
+   "first_seen": "2026-11-03T23:48:08.424654+00:00",
    "paywall": true
   },
   {
@@ -422,69 +458,6 @@
    "summary": "Die Lage auf dem Arbeitsmarkt ist angespannt – eine Ausnahme ist die Rüstungsindustrie. Welche Chancen sich für Führungskräfte bieten, zeigt eine Umfrage des Handelsblatts.",
    "link": "https://www.handelsblatt.com/karriere/karriere-so-gelingt-ihnen-der-einstieg-in-die-ruestungsbranche/100211178.html",
    "published": "2026-10-30T15:05:00+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Tankrabatt: Inflation im Oktober gesunken",
-   "summary": "Hohe Energiepreise treiben die Teuerung in Deutschland weiter an. Im Oktober hat der Tankrabatt der Bundesregierung für Entlastung gesorgt: Die Inflation sank auf unter drei Prozent. Eine Trendwende sehen Experten dennoch nicht.",
-   "link": "https://www.spiegel.de/wirtschaft/tankrabatt-inflation-im-oktober-gesunken-a-1334be70-9cd6-4182-a5a9-d58c29f0571d#ref=rss",
-   "published": "2026-10-30T14:34:00+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
-   "summary": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html",
-   "published": "2026-10-30T14:08:37+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Konjunktur in Deutschland: Wirtschaft wächst überraschend - Inflation sinkt deutlich",
-   "summary": "Niedrigwasser am Rhein und der Iran-Krieg haben die Konjunktur im Sommer belastet. Ein Rückschlag im dritten Quartal blieb trotzdem aus. Auch bei der Inflation gibt es gute Nachrichten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-in-deutschland-wirtschaft-waechst-ueberraschend-inflation-sinkt-deutlich/100266149.html",
-   "published": "2026-10-30T14:00:22+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Bankaktien: Europas Banken verdienen Milliarden – die Aktien fallen trotzdem",
-   "summary": "Die europäischen Banken melden hohe Gewinne. Aber Risiken an den Anleihemärkten und Sorgen um die Konjunktur verunsichern Anleger. Wie stabil stehen die Institute da?",
-   "link": "https://www.wiwo.de/finanzen/boerse/europas-bankaktien-warum-die-kurse-trotz-rekordgewinnen-fallen/100266108.html",
-   "published": "2026-10-30T13:52:50+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Statistisches Bundesamt: Inflationsrate sinkt im Oktober auf 2,8 Prozent",
-   "summary": "Mit dem Tankrabatt ist die Inflationsrate in Deutschland gesunken. Nach 3,3 Prozent im September fiel sie im Oktober auf 2,8 Prozent.",
-   "link": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-statistisches-bundesamt-tankrabatt",
-   "published": "2026-10-30T13:31:43+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Konjunktur: Aufschwung oder doch nur ein Aufschwüngchen?",
-   "summary": "Aktuelle Wachstumszahlen für Deutschland und die Euro-Zone machen ein wenig Hoffnung. Doch die Unsicherheit bleibt, auch wegen der hohen Inflation.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/wirtschaftswachstum-deutschland-konjunktur-inflation-export-zahlen-li.3570115",
-   "published": "2026-10-30T13:17:29+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Midterms: \"Amerika ist am Arsch\"",
-   "summary": "Donald Trump versprach, die Inflation zu stoppen. Doch heute leiden die Amerikaner mehr denn je unter den hohen Preisen. Kostet die Republikaner das die Midterms? Ein Besuch in Macon, Georgia, bei frustrierten Menschen und…",
-   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/midterms-usa-donald-trump-inflation-georgia-e055046/",
-   "published": "2026-10-30T12:43:00+00:00",
    "first_seen": "2026-10-30T16:52:36.070906+00:00",
    "paywall": true
   }

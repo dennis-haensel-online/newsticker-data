@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-03T18:50:01.833395+00:00",
+ "updated": "2026-11-03T23:48:08.424654+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Milliarden-Hack: Hacker nutzten fingiertes Vorstellungsgespräch für Attacke auf Binance",
+   "summary": "Erste Analyseergebnisse des Milliardenraubs bei Binance zeigen, dass der Hackerangriff bereits im Juni begann. Auch ein KI-Werkzeug habe dabei eine Rolle gespielt.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/milliarden-hack-hacker-nutzten-fingiertes-vorstellungsgespraech-fuer-attacke-auf-binance/100267116.html",
+   "published": "2026-11-03T23:18:36+00:00",
+   "first_seen": "2026-11-03T23:48:08.424654+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Streit um KI-Überwachung im US-Wahlkampf",
+   "summary": "Ein dichtes Netz aus KI-gestützten Kameras, detaillierte Bewegungsprofile und die Erfassung sensibler Daten: In den USA wächst der Einsatz digitaler Überwachungstechnologien im öffentlichen Raum.",
+   "link": "https://www.zdfheute.de/video/frontal/ki-ueberwachung-im-us-wahlkampf-100.html",
+   "published": "2026-11-03T20:00:00+00:00",
+   "first_seen": "2026-11-03T23:48:08.424654+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Gen Z-Proteste | Verdacht auf Erbschleicherei",
+   "summary": "Mit den Themen: Gen Z zwischen Protest und Krawall | Streit um KI-Überwachung im US-Wahlkampf | Verdacht auf Erbschleicherei | Gefahr durch manipulierte Fatbikes",
+   "link": "https://www.zdf.de/video/magazine/frontal-das-magazin-100/frontal-vom-3-november-2026-100",
+   "published": "2026-11-03T20:00:00+00:00",
+   "first_seen": "2026-11-03T23:48:08.424654+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Binance: Hacker nutzten fingiertes Vorstellungsgespräch für Cyberangriff",
@@ -415,24 +442,6 @@
    "published": "2026-10-30T16:12:41+00:00",
    "first_seen": "2026-10-30T21:14:41.865905+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Riskante Wette: KI‑Investitionen übersteigen eine Billion Dollar",
-   "summary": "Fallende Aktienkurse, Kritik an Ausgaben: Die Cloud-Anbieter stehen unter Druck. Trotzdem steigern sie ihre Ausgaben für Rechenleistung immer weiter. Warum?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-investitionen-uebersteigen-eine-billion-dollar/100265208.html",
-   "published": "2026-10-30T14:23:40+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Experte zum Krypto-Angriff: \"Drei Milliarden sind definitiv weg\"",
-   "summary": "Beim Hackerangriff auf die Kryptobörse Binance geht es um Digitalwährungen in Milliardenhöhe. Cybersicherheitsexperte Mirko Ross erklärt, warum die Spur nach Nordkorea führt und was Anleger beachten sollten.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-binance-interview-100.html",
-   "published": "2026-10-30T12:32:21+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": false
   }
  ]
 }
