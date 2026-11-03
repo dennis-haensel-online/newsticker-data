@@ -1,7 +1,52 @@
 {
  "id": "ik",
- "updated": "2026-11-03T11:28:43.036333+00:00",
+ "updated": "2026-11-03T18:50:01.833395+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "\"Blanker Rassismus\" - Politik attackiert Ex-Sportreporter Waldemar Hartmann nach Aussage zu Eralp (Die Linke)",
+   "summary": "Der frühere ARD-Sportreporter Waldemar Hartmann hat mit Aussagen zur Berliner Linken-Politikerin Eralp Rassismusvorwürfe von Bundespolitikern verschiedener Parteien auf sich gezogen.",
+   "link": "https://www.deutschlandfunk.de/politik-attackiert-ex-sportreporter-waldemar-hartmann-nach-aussage-zu-eralp-die-linke-102.html",
+   "published": "2026-11-03T18:19:04+00:00",
+   "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Offener Brief an Vorstand: Biontech-Betriebsrat kritisiert Umgang mit Mitarbeitern",
+   "summary": "Ein Schreiben an die Chefetage deutet darauf hin, dass es in dem Unternehmen, das sich gerade an vielen Stellen wandelt, rumort. Auch von Diskriminierung ist die Rede. Der Vorstand sucht das Gespräch.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/biontech-betriebsrat-kritisiert-umgang-mit-mitarbeitern/100267093.html",
+   "published": "2026-11-03T18:17:38+00:00",
+   "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Pharma: „Toxische Situation“: Biontech-Betriebsrat prangert Umgang mit Mitarbeitern an",
+   "summary": "In einem Brief, der dem Handelsblatt vorliegt, kritisiert der Betriebsrat die Führung scharf. Die Rede ist von Stillstand, Angst – und „erschütternden Berichten über Rassismus und Drohungen“.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-biontech-betriebsrat-prangert-umgang-mit-mitarbeitern-an/100267040.html",
+   "published": "2026-11-03T17:14:52+00:00",
+   "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Gewalt an Cottbuser Schule: Wenn der Lehrer zuschlägt",
+   "summary": "Dreimal griff Günter B. seine damals elf- und zwölfjährigen Schüler an, die alle Migrationshintergrund haben. Das Gericht will keinen Rassismus erkennen. mehr...",
+   "link": "https://taz.de/Gewalt-an-Cottbuser-Schule/!6226990/",
+   "published": "2026-11-03T15:42:00+00:00",
+   "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Frontex-Luftüberwachung: Spähflüge für die libysche Küstenwache",
+   "summary": "Eine Forschungsgruppe hat nachgewiesen, dass die Europäische Küstenwache verstärkt das Mittelmeer ausspäht – und so das Abfangen von Geflüchteten ermöglicht. mehr...",
+   "link": "https://taz.de/Frontex-Luftueberwachung/!6226965/",
+   "published": "2026-11-03T13:23:00+00:00",
+   "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": false
+  },
   {
    "label": "taz",
    "title": "Bildung gegen Hass: Jüdische Akademie eröffnet",
@@ -234,51 +279,6 @@
    "link": "https://taz.de/Nachruf-auf-Patrick-Stewart/!6226279/",
    "published": "2026-10-30T13:25:00+00:00",
    "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Einwanderung - Ähnlich wie in Europa: Südkorea streitet über Migration und Fachkräftemangel",
-   "summary": "In Südkorea führen Konflikte um Migration, Fachkräftemangel und Integration inzwischen zu ähnlichen Diskussionen, wie sie Europa seit Jahren beschäftigen.",
-   "link": "https://www.deutschlandfunk.de/aehnlich-wie-in-europa-suedkorea-streitet-ueber-migration-und-fachkraeftemangel-100.html",
-   "published": "2026-10-30T10:25:09+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
-   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
-   "link": "https://www.handelsblatt.com/politik/international/migration-warum-immer-mehr-deutsche-in-polen-eine-neue-heimat-suchen/100249315.html",
-   "published": "2026-10-30T09:53:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: Nutzt Deutschland das Arbeitskräftepotenzial von Müttern zu wenig?",
-   "summary": "Deutschland klagt über Fachkräftemangel, gleichzeitig arbeiten viele gut qualifizierte Mütter in Teilzeit oder gar nicht. Der Vergleich mit anderen Ländern zeigt: Es geht auch anders.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/fachkraefte-was-deutschlands-muetter-am-laengeren-arbeiten-hindert/100230798.html",
-   "published": "2026-10-30T09:00:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Geplantes türkisch-deutsches Museum: Eine ganze Geschichte",
-   "summary": "Ein neues Museum in Berlin will die Vielfalt der deutsch-türkischen Verflechtungen abbilden. Dafür sammelt Kuratorin Gülşah Stapel überraschende Lebensgeschichten. mehr...",
-   "link": "https://taz.de/Geplantes-tuerkisch-deutsches-Museum/!6221604/",
-   "published": "2026-10-30T08:30:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "VW-Betriebsrätin über Anwerbeabkommen: „Wir haben geschafft, was die Politik nicht mal versucht hat“",
-   "summary": "Die IG Metall ist, was Migration angeht, so sehr verankert wie kaum eine andere politische Organisation. Burcu Sicila nennt den gemeinsamen Kampf um Mitbestimmung als Hauptgrund. mehr...",
-   "link": "https://taz.de/VW-Betriebsraetin-ueber-Anwerbeabkommen/!6225974/",
-   "published": "2026-10-30T06:33:00+00:00",
-   "first_seen": "2026-10-30T10:35:11.032759+00:00",
    "paywall": false
   }
  ]
