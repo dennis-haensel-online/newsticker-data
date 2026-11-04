@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-11-04T03:57:03.395734+00:00",
+ "updated": "2026-11-04T11:49:31.464993+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "BMW erwirtschaftet noch weniger Gewinn",
+   "summary": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html",
+   "published": "2026-11-04T08:21:37+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Berlin - Ein Jahr \"Bau-Turbo\": Ministerin Hubertz (SPD) sieht erste Effekte - Wohnungswirtschaft zieht gemischte Bilanz",
@@ -90,15 +99,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/raiffeisenbank-legt-wirecard-klage-gegen-ey-zu-den-akten-accg-201621560.html",
    "published": "2026-10-31T15:31:45+00:00",
    "first_seen": "2026-10-31T18:55:37.555162+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Börsen: Nasdaq rutscht nach Tech-Bilanzen ab – Intel-Aktie verliert 30 Prozent",
-   "summary": "Der Ausverkauf an den US-Börsen geht angesichts der Quartalszahlen der großen KI-Profiteure weiter. Die Preise für Gold und Silber liegen derweil so niedrig wie seit einem Jahr nicht mehr.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-absolut-brutale-woche-fuer-tech-investoren-nasdaq-rutscht-ab/100266181.html",
-   "published": "2026-10-30T16:22:21+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
    "paywall": true
   }
  ]

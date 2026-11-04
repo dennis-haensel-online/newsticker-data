@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-04T03:57:03.395734+00:00",
+ "updated": "2026-11-04T11:49:31.464993+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Arbeitsmarkt: Was sollten junge Menschen im KI-Zeitalter studieren?",
+   "summary": "Weniger Stellen, viel Frust: Junge Akademiker in den USA und Deutschland müssen sich auf einem unsicheren Jobmarkt behaupten. Mit welchen Fächern sich ihnen die größten Chancen bieten.",
+   "link": "https://www.handelsblatt.com/karriere/ki-wo-gibt-es-weiterhin-eine-nachfrage-nach-arbeitskraeften/100235558.html",
+   "published": "2026-11-04T11:24:00+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "US-Kongress: Sieg der Demokraten könnte Trendwende an den Märkten einläuten",
+   "summary": "Die Ergebnisse der US-Midterms sorgen an den Börsen für eine Neubewertung. Besonders im Bereich KI hängt nun viel an der Strategie der Demokraten.",
+   "link": "https://www.wiwo.de/finanzen/boerse/midterms-2026-so-reagieren-aktien-und-anleihen/100267173.html",
+   "published": "2026-11-04T10:37:00+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: „Mir fiel das Müsli aus der Schüssel“ – Chip-Unternehmer rechnet mit Merz’ Nvidia-Deal ab",
+   "summary": "Q.ant-Gründer Michael Förtsch kritisiert den Millionen-Deal der Bundesregierung mit Nvidia. So werde die Abhängigkeit von den USA nur weiter wachsen.",
+   "link": "https://www.wiwo.de/unternehmen/it/nvidia-deal-der-bundesregierung-start-up-q.ant-uebt-kritik/100266750.html",
+   "published": "2026-11-04T09:57:00+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-diese-kompetenzen-suchen-unternehmen-bei-bewerbern/100251207.html",
+   "published": "2026-11-04T09:45:00+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Internetkonzern: Google verlängert Abfindungsangebote für Beschäftigte",
+   "summary": "Google verlängert seine Abfindungsangebote für Beschäftigte in fünf Ländern. Hintergrund sind die Milliardeninvestitionen in KI-Rechenzentren.",
+   "link": "https://www.wiwo.de/unternehmen/it/google-verlaengert-abfindungsangebote-fuer-beschaeftigte/100267221.html",
+   "published": "2026-11-04T09:30:54+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Digitale Hausmeister: „Die Reinigungstour nachts macht der Roboter allein“",
+   "summary": "Dienstleister Dussmann setzt auf Reinigungsroboter, aber sucht mehr menschliche Mitarbeiter. Manager Wolf-Dieter Adlhoch spricht über höhere Gehälter, Künstliche Intelligenz und fleischfreies Kantinenessen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/buero-gewerbe/wolf-dieter-adlhoch-wie-dussmann-auf-reinigungsroboter-setzt-accg-201623340.html",
+   "published": "2026-11-04T09:10:00+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Cyberangriff auf Kühlhäuser von Metzgerei",
+   "summary": "Gewinneinbruch bei BMW – China-Geschäft belastet +++ Gesamtmetall sieht weitere 300.000 Jobs in Gefahr +++ Ferrari „sehr zufrieden“ mit erstem E-Ferrari +++ Lufthansa und Lissabon unterzeichnen Tap-Einstieg +++ alle Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cyberangriff-auf-kuehlhaeuser-von-metzgerei-hoher-schaden-faz-200452404.html",
+   "published": "2026-11-04T08:40:38+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Milliarden-Hack: Hacker nutzten fingiertes Vorstellungsgespräch für Attacke auf Binance",
@@ -165,6 +228,15 @@
    "paywall": true
   },
   {
+   "label": "SZ",
+   "title": "Digitale Souveränität: Eine neue KI- und Cloud-Plattform für Europa",
+   "summary": "Das französische Unternehmen Bull und der deutsche IT-Spezialist Schwarz Digits wollen eine Alternative zu US-Anbietern schaffen. Wird Europa so unabhängiger von den USA?",
+   "link": "https://www.sueddeutsche.de/wirtschaft/digitale-souveraenitaet-europa-bull-schwarz-digits-ki-plattform-cloud-infrastruktur-li.3573312",
+   "published": "2026-11-03T15:30:36+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
+  {
    "label": "Handelsblatt",
    "title": "Hacker-Attacke: Cyberangriffe auch auf Kühlanlagen deutscher Supermärkte",
    "summary": "Auch in mehreren deutschen Supermärkten wurden Kühlanlagen vermutlich ebenfalls aus der Ferne manipuliert – Lebensmittel mussten weggeworfen werden. Wie die Polizei die Fälle einordnet.",
@@ -225,6 +297,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/jean-phil-ki-creator-kuenstliche-intelligenz-meme-coins-tiktok-li.3565954",
    "published": "2026-11-03T13:32:51+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Sie zahlen Geld für einen Mann, der nicht existiert",
+   "summary": "In sozialen Medien verbreiten sich immer öfter KI-generierte Inhalte. Dass Nutzer wegen teils harmlos wirkender Videos auch Geld verlieren können, zeigt der Fall von Jean Phil.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/jean-phil-ki-creator-meme-coins-tiktok-geld-krypto-werbung-li.3565954",
+   "published": "2026-11-03T13:32:51+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
    "paywall": true
   },
   {
@@ -820,87 +901,6 @@
    "published": "2026-11-02T05:00:00+00:00",
    "first_seen": "2026-11-02T11:50:36.555568+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Künstliche Intelligenz: KI nutzen, ohne zu verdummen",
-   "summary": "Hoher Zeitdruck verführt manche Manager, ihre Urteilskraft aufs Spiel zu setzen. Wie können Unternehmen für einen sinnvolleren KI-Einsatz sorgen?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ki-im-beruf-nutzen-ohne-zu-verdummen-worauf-unternehmen-achten-sollten-201613284.html",
-   "published": "2026-11-01T18:33:02+00:00",
-   "first_seen": "2026-11-01T19:58:33.548557+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Finanzen - Nach Hacker-Angriff: Binance gibt Kundenauszahlungen schrittweise frei",
-   "summary": "Nach dem Cyberangriff auf die Digitalwährungsbörse Binance erlaubt das Unternehmen wieder erste Kundenauszahlungen.",
-   "link": "https://www.deutschlandfunk.de/nach-hacker-angriff-binance-gibt-kundenauszahlungen-schrittweise-frei-100.html",
-   "published": "2026-11-01T14:49:08+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Kupfer, Seltene Erden und der Hunger der KI",
-   "summary": "In jedem Rechenzentrum stecken Kupfer und Seltene Erden. Doch Europa hat von diesen Rohstoffen zu wenig. Können wir dennoch mithalten im Kampf um Macht, Abhängigkeit und unsere digitale Zukunft?",
-   "link": "https://www.zdf.de/video/dokus/planet-e-kampf-um-rohstoffe-100/kampf-um-rohstoffe-kupfer-seltene-erden-und-der-hunger-der-ki-100",
-   "published": "2026-11-01T14:30:00+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Hackerangriff: FBI: Nordkoreanische Hacker stecken hinter milliardenschwerem Krypto-Diebstahl bei Binance",
-   "summary": "Der US-Bundespolizei zufolge soll die Gruppe TraderTraitor hinter dem weltweit größten digitalen Raubzug stecken. Binance will wieder mit Auszahlungen starten.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-sieht-nordkoreanische-hacker-hinter-krypto-diebstahl/100266403.html",
-   "published": "2026-11-01T13:30:38+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Leben mit Aktien: Welche Sektor-ETFs sich für Anleger wirklich lohnen",
-   "summary": "Die KI‑Euphorie hat viel Kapital angezogen. Andere Branchen sind aus dem Fokus geraten. Für Anleger ergibt sich daraus eine attraktive Einstiegsmöglichkeit.",
-   "link": "https://www.wiwo.de/finanzen/boerse/sektor-etfs-welche-sich-fuer-anleger-wirklich-lohnen/100265830.html",
-   "published": "2026-11-01T13:05:00+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Sap-Vorstand Saueressig: „Deutschland sollte mehr in KI investieren“",
-   "summary": "Vor dem Digitalgipfel in Berlin wirbt SAP-Vorstand Thomas Saueressig für mehr Investitionen in KI. Damit könne man die hohen Produktionskosten in Deutschland kompensieren. Und sie werde langfristig Arbeitsplätze schaffen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sap-vorstand-saueressig-deutschland-sollte-mehr-in-ki-investieren-accg-201637411.html",
-   "published": "2026-11-01T12:19:28+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Hackerangriff auf Binance: Nach Milliardenraub: Kryptobörse nimmt Auszahlungen wieder auf",
-   "summary": "Hacker haben bei einem Angriff auf die weltgrößte Kryptobörse Binance Digitalwährungen im Wert von 6,3 Milliarden US-Dollar erbeutet. Nun nimmt Binance die Auszahlungen schrittweise wieder auf.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/binance-krypto-diebstahl-nordkorea-fbi-bitcoin-li.3572395",
-   "published": "2026-11-01T11:28:25+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitalwährungen: Binance gibt Kundenauszahlungen nach Hackerangriff frei",
-   "summary": "Nach dem Rekord-Hackerangriff auf Binance kommen die Kunden der Kryptobörse mit hoher Wahrscheinlichkeit glimpflich davon. Sie können inzwischen Ihre Einlagen auch wieder abheben.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/digitalwaehrungen-binance-gibt-kundenauszahlungen-nach-hackerangriff-frei/100266432.html",
-   "published": "2026-11-01T10:55:04+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Leben mit Aktien: Welche Sektor-ETFs sich für Anleger wirklich lohnen",
-   "summary": "Die KI‑Euphorie hat viel Kapital angezogen. Andere Branchen sind aus dem Fokus geraten. Für Anleger ergibt sich daraus eine attraktive Einstiegsmöglichkeit.",
-   "link": "https://www.wiwo.de/finanzen/boerse/geldanlage-welche-sektor-etfs-sich-fuer-anleger-wirklich-lohnen/100265830.html",
-   "published": "2026-11-01T08:20:00+00:00",
-   "first_seen": "2026-11-01T08:25:39.860179+00:00",
-   "paywall": true
   }
  ]
 }

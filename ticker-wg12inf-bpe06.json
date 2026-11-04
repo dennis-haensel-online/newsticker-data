@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-04T03:57:03.395734+00:00",
+ "updated": "2026-11-04T11:49:31.464993+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Cyberangriff auf Kühlhäuser von Metzgerei",
+   "summary": "Gewinneinbruch bei BMW – China-Geschäft belastet +++ Gesamtmetall sieht weitere 300.000 Jobs in Gefahr +++ Ferrari „sehr zufrieden“ mit erstem E-Ferrari +++ Lufthansa und Lissabon unterzeichnen Tap-Einstieg +++ alle Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-cyberangriff-auf-kuehlhaeuser-von-metzgerei-hoher-schaden-faz-200452404.html",
+   "published": "2026-11-04T08:40:38+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Milliarden-Hack: Hacker nutzten fingiertes Vorstellungsgespräch für Attacke auf Binance",
@@ -63,6 +72,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/digitale-souveraenitaet-bull-schwarz-digits-ki-plattform-cloud-infrastruktur-li.3573312",
    "published": "2026-11-03T15:30:36+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Digitale Souveränität: Eine neue KI- und Cloud-Plattform für Europa",
+   "summary": "Das französische Unternehmen Bull und der deutsche IT-Spezialist Schwarz Digits wollen eine Alternative zu US-Anbietern schaffen. Wird Europa so unabhängiger von den USA?",
+   "link": "https://www.sueddeutsche.de/wirtschaft/digitale-souveraenitaet-europa-bull-schwarz-digits-ki-plattform-cloud-infrastruktur-li.3573312",
+   "published": "2026-11-03T15:30:36+00:00",
+   "first_seen": "2026-11-04T11:49:31.464993+00:00",
    "paywall": true
   },
   {
@@ -378,69 +396,6 @@
    "link": "https://www.wiwo.de/politik/europa/rekordausgaben-fuer-lobbying-us-tech-riesen-bedraengen-die-eu/100266101.html",
    "published": "2026-10-31T09:58:26+00:00",
    "first_seen": "2026-10-31T14:02:45.360331+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Krypto-Hackerangriff auf Binance - \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
-   "summary": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil…",
-   "link": "https://www.deutschlandfunk.de/3-3-milliarden-dollar-sind-nicht-mehr-zurueckzuholen-100.html",
-   "published": "2026-10-31T07:34:37+00:00",
-   "first_seen": "2026-10-31T07:45:07.505817+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Plattform Binance - Reaktionen auf Krypto-Hackerangriff: \"Entsetzen an der Börse\", \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
-   "summary": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil…",
-   "link": "https://www.deutschlandfunk.de/reaktionen-auf-krypto-hackerangriff-entsetzen-an-der-boerse-3-3-milliarden-dollar-sind-nicht-mehr-zu-102.html",
-   "published": "2026-10-31T00:52:03+00:00",
-   "first_seen": "2026-10-31T01:15:07.768239+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
-   "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
-   "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
-   "published": "2026-10-30T20:21:33+00:00",
-   "first_seen": "2026-10-30T21:14:41.865905+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Plattform Binance - Reaktionen auf Krypto-Hackerangriff: \"Entsetzen an der Börse\", \"3,3 Milliarden Dollar sind nicht mehr zurückzuholen\"",
-   "summary": "Der Hackerangriff auf die weltgrößte Digitalwährungsbörse Binance hat bei Anlegern und Börsenvertretern für Aufruhr gesorgt. Wie das Unternehmen erklärte, wurden Kryptowährungen im Wert von 6,3 Milliarden US-Dollar gestohlen, um einen Teil…",
-   "link": "https://www.deutschlandfunk.de/reaktionen-auf-krypto-hackerangriff-entsetzen-an-der-boerse-3-3-milliarden-dollar-sind-nicht-mehr-zu-100.html",
-   "published": "2026-10-30T16:37:29+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Was der Hackerangriff bei Binance bedeutet",
-   "summary": "Hacker haben von der Kryptobörse Binance Werte von schätzungsweise 6,3 Milliarden Dollar gestohlen. Was das für Kunden, Anleger und das Vertrauen in Kryptowährung bedeutet.",
-   "link": "https://www.zdfheute.de/wirtschaft/binance-bitcoin-krypto-faq-100.html",
-   "published": "2026-10-30T16:14:00+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Kryptobörse Binance gehackt | Was Merz‘ Asienreise gebracht hat",
-   "summary": "Der Kryptomarkt reagiert mit Kursverlusten auf einen großen Hackerangriff. Und: Leila Al-Serori, Co-Leiterin des Politikressorts beim Handelsblatt, berichtet von Kanzler Merz' Asienreise.",
-   "link": "https://www.handelsblatt.com/audio/today/podcast-kryptoboerse-binance-gehackt-was-merz-asienreise-gebracht-hat/100266246.html",
-   "published": "2026-10-30T16:12:41+00:00",
-   "first_seen": "2026-10-30T16:52:36.070906+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Kryptobörse Binance gehackt | Was Merz‘ Asienreise gebracht hat",
-   "summary": "Der Kryptomarkt reagiert mit Kursverlusten auf einen großen Hackerangriff. Und: Leila Al-Serori, Co-Leiterin des Politikressorts beim Handelsblatt, berichtet von Kanzler Merz' Asienreise.",
-   "link": "https://www.handelsblatt.com/audio/today/today-kryptoboerse-binance-gehackt-was-merz-asienreise-gebracht-hat/100266246.html",
-   "published": "2026-10-30T16:12:41+00:00",
-   "first_seen": "2026-10-30T21:14:41.865905+00:00",
    "paywall": true
   }
  ]
