@@ -1,7 +1,52 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-04T11:49:31.464993+00:00",
+ "updated": "2026-11-04T19:05:58.143731+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert die Antwort",
+   "summary": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/vermoegen-gelten-sie-als-reich-im-vergleich-zu-anderen-deutschen-01/100149729.html",
+   "published": "2026-11-04T15:56:00+00:00",
+   "first_seen": "2026-11-04T19:05:58.143731+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Inflation und Schulden werden die Kapitalmarktzinsen hoch halten",
+   "summary": "Preisschocks in schneller Abfolge, fehlender Sparwille und der Kapitalbedarf für den Ausbau von KI: Hoffnungen auf sinkende Anleiherenditen dürften sich kaum erfüllen.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-inflation-und-schulden-werden-die-kapitalmarktzinsen-hoch-halten/100267242.html",
+   "published": "2026-11-04T15:43:51+00:00",
+   "first_seen": "2026-11-04T19:05:58.143731+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "US-Midterms: „Wir sollten uns trotzdem auf weitere Turbulenzen einstellen“",
+   "summary": "Die Republikaner verlieren die US-Midterms deutlich. Das muss nicht zwingend zu einem Umschwung in der Wirtschaftspolitik führen, erklärt die Ökonomin Samina Sultan.",
+   "link": "https://www.wiwo.de/politik/ausland/nach-den-us-midterms-bleiben-trumps-zoelle-trotz-wahlschlappe/100267198.html",
+   "published": "2026-11-04T14:42:11+00:00",
+   "first_seen": "2026-11-04T19:05:58.143731+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
+   "summary": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
+   "published": "2026-11-04T14:30:36+00:00",
+   "first_seen": "2026-11-04T19:05:58.143731+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Europa: Die Inflation steigt, vor allem in Italien und Spanien",
+   "summary": "Die Teuerung in der Euro-Zone liegt jetzt bei vier Prozent. Der Bundesbankchef hält eine baldige Zinserhöhung durch die Europäische Zentralbank jetzt für wahrscheinlich.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/inflation-euro-raum-ezb-energiepreise-zinserhoehung-li.3574245",
+   "published": "2026-11-04T12:16:14+00:00",
+   "first_seen": "2026-11-04T19:05:58.143731+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Klima: UN-Bericht – Gelder für Klimaanpassungen reichen nicht aus",
@@ -441,33 +486,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/ig-metall-warnstreiks-autobau-maschinenbau-elektronik-metall-li.3572277",
    "published": "2026-11-01T03:33:59+00:00",
    "first_seen": "2026-11-01T08:25:39.860179+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Arbeitsmarkt - IG Metall ruft zu erster Warnstreik-Welle auf",
-   "summary": "​Im Tarifkonflikt der Metall- und Elektroindustrie ruft die IG Metall an diesem Wochenende zu ersten Warnstreiks auf.",
-   "link": "https://www.deutschlandfunk.de/ig-metall-ruft-zu-erster-warnstreik-welle-auf-100.html",
-   "published": "2026-10-31T13:52:41+00:00",
-   "first_seen": "2026-10-31T14:02:45.360331+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Vietnam: Tiger oder Papiertiger – das ist hier die Frage",
-   "summary": "Ho-Chi-Minh-Stadt steht für Vietnams rasantes Wirtschaftswachstum. Die Reformfreude ist groß. Ausländische Unternehmer sind begeistert. Aber bedenkt die Parteidiktatur die Tücken ihres Ehrgeizes? Ein Besuch.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/vietnam-ho-chi-minh-stadt-wirtschaftswachstum-suedostasien-li.3559032",
-   "published": "2026-10-31T13:06:57+00:00",
-   "first_seen": "2026-10-31T14:02:45.360331+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Möbelmarkt in Krise: „Die Anziehungskraft von Ikea hat nachgelassen“",
-   "summary": "Der erfolgsverwöhnte Möbelgigant aus Schweden wartet seit zwei Jahren auf Wachstum. Deutschland-Chef Peter Jelkeby erklärt, wie er das mithilfe eines neuen Konzepts ändern will.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gespraech-mit-deutschland-chef-ikea-sucht-weg-aus-der-krise-accg-201628459.html",
-   "published": "2026-10-31T11:33:25+00:00",
-   "first_seen": "2026-10-31T14:02:45.360331+00:00",
    "paywall": true
   }
  ]
