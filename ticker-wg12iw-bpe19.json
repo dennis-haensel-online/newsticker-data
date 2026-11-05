@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-05T00:39:01.231774+00:00",
+ "updated": "2026-11-05T07:34:00.487452+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Exklusives Ranking: Wer im Städteranking vorn liegt – und wer den Anschluss verliert",
+   "summary": "Wachstum, Jobs, Lebensqualität: Warum München nicht zu schlagen ist, Frankfurt aufholt und Bochum für eine Überraschung sorgt. 71 deutsche Städte im detaillierten Leistungsvergleich.",
+   "link": "https://www.wiwo.de/politik/konjunktur/staedteranking-2026-die-gewinner-und-verlierer-im-aktuellen-staedtetest/100261900.html",
+   "published": "2026-11-05T07:12:00+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: DAX nähert sich dem Rekordhoch",
+   "summary": "Nach den US-Zwischenwahlen ist die Euphorie an den Börsen groß: Der DAX robbt sich immer näher an sein Rekordhoch heran. Hilfreich ist auch der sinkende Ölpreis, der den Inflationsdruck senken könnte.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+   "published": "2026-11-05T06:20:58+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "CO2-Neutralität: Allianz: Deutschland und die Welt verpassen Klimaziele",
+   "summary": "Der Abschied von Öl, Gas und Kohle war in vielen Ländern nie politische Priorität, die USA sind davon abgerückt. Die Welt macht laut Allianz dennoch Fortschritte beim Klimaschutz - aber zu langsam.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/co2-neutralitaet-allianz-deutschland-und-die-welt-verpassen-klimaziele/100267451.html",
+   "published": "2026-11-05T04:00:38+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Wirtschaftspolitik in den USA: Auch die Demokraten sind nicht unsere Freunde",
+   "summary": "Fallen Zölle, fallen die Preise: Werden die Midterms-Gewinner also alles daran setzen, Trumps Wirtschaftspolitik zurückzudrehen? So einfach ist es leider nicht.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/wirtschaftspolitik-usa-midterms-demokraten-donald-trump-zoelle",
+   "published": "2026-11-05T01:46:41+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Nach den US-Midterms: Trumps Macht schwindet, seine Zölle bleiben",
@@ -468,24 +504,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/wohnungsbau-reiche-berater-sehen-in-teuren-wohnungen-massive-wachstumsbremse/100265867.html",
    "published": "2026-11-02T03:03:03+00:00",
    "first_seen": "2026-11-02T03:28:16.262510+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Positive Signale von den Weltmeeren",
-   "summary": "Neue Indikatoren zeigen eine anhaltende Resilienz des Welthandels gegenüber Protektionismus und geopolitischen Krisen.",
-   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-containerindex-signalisiert-aufschwung-fuer-die-exportwirtschaft/100259032.html",
-   "published": "2026-11-01T10:32:13+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Europäische Zentralbank: Lagardes vorzeitiger Rückzug ist nachvollziehbar – und dennoch umstritten",
-   "summary": "EZB-Chefin Lagarde macht ihren Posten frühzeitig frei. Was dahintersteckt und wer sich Hoffnung auf die Nachfolge machen kann. Ein Kommentar.",
-   "link": "https://www.wiwo.de/politik/europa/ezb-lagardes-vorzeitiger-rueckzug-ist-nachvollziehbar-und-dennoch-umstritten/100265888.html",
-   "published": "2026-11-01T08:19:00+00:00",
-   "first_seen": "2026-11-01T08:25:39.860179+00:00",
    "paywall": true
   }
  ]

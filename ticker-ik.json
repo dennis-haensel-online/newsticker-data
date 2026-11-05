@@ -1,7 +1,25 @@
 {
  "id": "ik",
- "updated": "2026-11-05T00:39:01.231774+00:00",
+ "updated": "2026-11-05T07:34:00.487452+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Sachsen-Anhalt - Protestaktion: Migranten in Halle schließen Geschäfte",
+   "summary": "In Halle an der Saale schließen Geschäftsinhaber mit Migrationshintergrund heute aus Protest ihre Läden.",
+   "link": "https://www.deutschlandfunk.de/protestaktion-migranten-in-halle-schliessen-geschaefte-100.html",
+   "published": "2026-11-05T07:30:32+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Migrationspolitik: Gegen den Trend: Mehr Abschiebungen in die Türkei",
+   "summary": "Mehr als 2.000 Menschen wurden bis Ende September in die Türkei abgeschoben – während Rückführungen insgesamt rückläufig sind. Schaut man auch auf freiwillige Ausreisen, ist der Trend weniger klar.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/migrationspolitik-gegen-den-trend-mehr-abschiebungen-in-die-tuerkei/100267431.html",
+   "published": "2026-11-05T03:30:14+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Migrationspolitik - Bundeskabinett bringt Halbierung von \"Westbalkan-Kontingent\" auf den Weg",
@@ -206,15 +224,6 @@
    "summary": "In Indien gingen erneut zehntausende Menschen gegen den Leiter der Wahlkommission auf die Straße. Dieser hatte 2025 die Wahllisten stark überarbeitet – offenbar zum Nachteil von Minderheiten.",
    "link": "https://www.handelsblatt.com/politik/international/indien-indische-opposition-protestiert-erneut-gegen-wahlkommissionschef/100266454.html",
    "published": "2026-11-01T13:48:12+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Ukraine-Krieg +++: Russische Industrieanlage durch ukrainischen Drohnenangriff beschädigt",
-   "summary": "Oleschky-Flüchtlinge in der Ukraine angekommen +++ Erdogan nennt Angriffe auf Handelsschiffe im Schwarzen Meer inakzeptabel +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-russische-industrieanlage-bei-drohnenangriff-beschaedigt/27982126.html",
-   "published": "2026-11-01T08:41:31+00:00",
    "first_seen": "2026-11-01T15:35:47.447316+00:00",
    "paywall": true
   }

@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-05T00:39:01.231774+00:00",
+ "updated": "2026-11-05T07:34:00.487452+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Autozulieferer Bosch will in Abstatt 750 Stellen abbauen",
+   "summary": "Cyberangriff auf französische Bank verursacht mehr als 100 Millionen Euro Verlust +++ Tesla eröffnet in Berlin Entwicklungszentrum +++ Deutsche Firmen in USA wieder im Aufwind – trotz Zollschranken +++ alle Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-autozulieferer-bosch-will-in-abstatt-750-stellen-abbauen-faz-200452404.html",
+   "published": "2026-11-05T07:29:32+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Strategiepapier: CDU-Wirtschaftsrat legt KI-Fahrplan vor",
+   "summary": "Schnellerer Ausbau, Unterstützung bei der Übernahme: Die Interessengruppe will die Nutzung von Künstlicher Intelligenz in Deutschland schnell vorantreiben.",
+   "link": "https://www.wiwo.de/politik/deutschland/ki-fahrplan-cdu-wirtschaftsrat-fordert-kurswechsel-vom-bund/100267205.html",
+   "published": "2026-11-05T07:16:24+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastronomie: Verdirbt uns die KI den Appetit?",
+   "summary": "Einige Restaurants setzen bei ihren Speisekarten gerne auf Künstliche Intelligenz. Manche Bilder wirken aber eher abschreckend als wirklich ansprechend. Was steckt dahinter?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/gastronomie-verdirbt-uns-die-ki-den-appetit/100267467.html",
+   "published": "2026-11-05T05:00:10+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, Yen, Hang Seng: Anleger schichten um – Auch in Asien brechen KI-Werte ein",
+   "summary": "Investoren fürchten, dass der Wahlsieg der Demokraten den Ausbau von KI-Rechenzentren bremsen könnte. In Japan verlagern sie ihre Positionen daraufhin in andere Branchen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-anleger-schichten-um-auch-in-asien-brechen-ki-werte-ein/100267457.html",
+   "published": "2026-11-05T04:38:20+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Technikgeschichte: „.de“ wird 40: Deutschlands digitale Adresse im Wandel",
+   "summary": "Für „shopping.de“ wurden fast zwei Millionen Euro gezahlt, heute gibt es mehr als 18 Millionen .de-Domains. Doch Apps und KI verändern, wie wir Adressen im Netz nutzen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/technikgeschichte-de-wird-40-deutschlands-digitale-adresse-im-wandel/100267462.html",
+   "published": "2026-11-05T04:30:08+00:00",
+   "first_seen": "2026-11-05T07:34:00.487452+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Cyberkriminalität - Forderung nach besseren Sicherheitsmaßnahmen nach Hackerangriffen auf Kühlanlagen in Supermärkten",
@@ -854,51 +899,6 @@
    "summary": "Der Brite glaubt an den KI-Boom, sieht aber Risiken. Dabei gibt es Parallelen zu einem Unternehmen, das ihn seit dem Karrierestart begleitet.",
    "link": "https://www.wiwo.de/finanzen/geldanlage/aktienmarkt-starfondsmanager-dave-dudding-lag-komplett-falsch-und-doch-richtig/100265934.html",
    "published": "2026-11-02T14:47:06+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Mega-Deal bei Server-Zulieferern – Marvell schluckt Lumentum",
-   "summary": "Der Chipkonzern Marvell will Lumentum für 115 Milliarden Dollar übernehmen. Der Deal zeigt, wie wichtig Glasfaser für KI-Rechenzentren wird.",
-   "link": "https://www.wiwo.de/unternehmen/it/marvell-schluckt-lumentum-mega-deal-bei-server-zulieferern/100266690.html",
-   "published": "2026-11-02T14:35:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Deutschland noch nicht gut für KI-Boom gewappnet",
-   "summary": "Deutschland ist laut einer Analyse des Ifo-Instituts noch nicht gut auf den KI-Boom vorbereitet. Forscher warnen vor Versäumnissen in den Bereichen Bildung und Digitalisierung.",
-   "link": "https://www.zdfheute.de/wirtschaft/ki-boom-kuenstliche-intelligenz-ifo-institut-analyse-digitalgipfel-100.html",
-   "published": "2026-11-02T14:24:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Kriminalität: Erneut Cyberangriffe auf Supermärkte",
-   "summary": "Die Angreifer haben in hunderten Supermärkten Gefriertruhen abgetaut. Nach Vorfällen in Frankreich trifft es nun mehrere EU-Staaten.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/cyberangriffe-supermaerkte-belgien-schweden-irland-li.3573115",
-   "published": "2026-11-02T13:55:09+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Falschinformationen vor US-Zwischenwahl: „Meine größte Sorge ist die Spaltung darüber, was als Fakt gilt“",
-   "summary": "Welche Rolle spielt Desinformation vor den Midterm-Wahlen in den USA? Social-Media-Forscherin Renée DiResta über verlorenes Vertrauen, identitätsstiftende Influencer und KI. mehr...",
-   "link": "https://taz.de/Falschinformationen-vor-US-Zwischenwahl/!6226503/",
-   "published": "2026-11-02T13:28:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Cyberangriffe: Hacker erhitzen Supermarkt-Kühlschränke bis auf 50 Grad",
-   "summary": "Angreifer stellen Gefriertruhen aus der Ferne um, die Temperatur steigt. Nach einem Cyberangriff auf Frankreich trifft es nun zwei weitere EU-Länder.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriffe-auf-supermaerkte-in-belgien-und-schweden-accg-201643770.html",
-   "published": "2026-11-02T12:55:26+00:00",
    "first_seen": "2026-11-02T21:05:54.368715+00:00",
    "paywall": true
   }
