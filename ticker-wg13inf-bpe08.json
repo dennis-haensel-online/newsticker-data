@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-05T07:34:00.487452+00:00",
+ "updated": "2026-11-05T15:56:13.609097+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberkriminalität - Studienbedingungen nach Hackerangriff auf Uni Leipzig weiter eingeschränkt - Attacken auf Hochschulen reißen nicht ab",
+   "summary": "Eine Woche nach dem Hackerangriff auf die Universität Leipzig sind die Studienbedingungen nach wie vor erheblich eingeschränkt.",
+   "link": "https://www.deutschlandfunk.de/studienbedingungen-nach-hackerangriff-auf-uni-leipzig-weiter-eingeschraenkt-attacken-auf-hochschulen-102.html",
+   "published": "2026-11-05T15:29:20+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Briefing: Allianz der Gleichgesinnten: Deutschland schmiedet neues KI-Bündnis",
+   "summary": "Die Bundesregierung stellt 18 Maßnahmen für die KI-Aufholjagd vor, Nvidia-CEO Huang sieht Deutschland im Hintertreffen – und ein riesiges Datenleck bei Lovable. Die wichtigsten KI-News der Woche.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-gebuendelte-kraefte-deutschland-schmiedet-neues-ki-buendnis/100267246.html",
+   "published": "2026-11-05T15:14:19+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-ki-fragen-entscheiden-ueber-die-besetzung-von-spitzenpositionen/100240522.html",
+   "published": "2026-11-05T14:33:00+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Baukonzern: Auftragsbücher von Hochtief dank KI-Boom so voll wie nie",
+   "summary": "Der Baukonzern profitiert von wachsender Nachfrage in mehreren Zukunftsbranchen. Welche Projekte den Auftragsbestand besonders antreiben.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/baukonzern-auftragsbuecher-von-hochtief-dank-ki-boom-so-voll-wie-nie/100267647.html",
+   "published": "2026-11-05T14:30:00+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Offenbar Einigung auf Einstieg des Bundes bei KNDS",
+   "summary": "Rheinmetall streicht Prognosen zusammen +++ Autozulieferer Bosch will in Abstatt 750 Stellen abbauen +++ Cyberangriff auf französische Bank verursacht mehr als 100 Millionen Euro Verlust +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bund-mit-eigentuemerfamilien-offenbar-ueber-knds-einstieg-einig-faz-200452404.html",
+   "published": "2026-11-05T12:42:22+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Wissenschaftlerin zu feministischer KI: Wie würde ein feministisches ChatGPT aussehen?",
+   "summary": "Tanja Kubes kritisiert KI-Systeme und deren Machtstruktur. Ihr Buch zeigt aber auch, wie wir unsere Zukunft feministischer gestalten können. mehr...",
+   "link": "https://taz.de/Wissenschaftlerin-zu-feministischer-KI/!6227173/",
+   "published": "2026-11-05T08:09:00+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Autozulieferer Bosch will in Abstatt 750 Stellen abbauen",
@@ -847,60 +901,6 @@
    "published": "2026-11-02T16:10:17+00:00",
    "first_seen": "2026-11-02T21:05:54.368715+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
-   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
-   "link": "https://www.handelsblatt.com/karriere/berufe-diese-it-fachkraefte-sind-trotz-ki-boom-besonders-gefragt/100238210.html",
-   "published": "2026-11-02T15:57:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Digitalgipfel: KI als Kriegswaffe? Europa drohen Exportkontrollen",
-   "summary": "Wenn KI als Kriegswaffe gilt, könnten Europas Firmen von US- und chinesischen Spitzenmodellen abgeschnitten sein. Der Mistral-Chef Arthur Mensch warnt davor.",
-   "link": "https://www.wiwo.de/politik/ausland/digitalgipfel-ki-als-kriegswaffe-europa-drohen-exportkontrollen/100266675.html",
-   "published": "2026-11-02T15:39:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-Investitionen: Oracle will neue Aktien im Wert von 10 Milliarden Dollar ausgeben",
-   "summary": "Der Konzern Oracle setzt auf den KI-Boom, braucht dafür aber frisches Kapital. Neue Aktien und Anleihen sollen die Investitionen finanzieren.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-investitionen-10-milliarden-dollar-oracle-will-neue-aktien-ausgeben/100266700.html",
-   "published": "2026-11-02T15:30:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Musk bremst KI-Agent Grok Bot – „Kosten im Verhältnis zum Umsatz untragbar hoch“",
-   "summary": "Als Wachstumswunder feierte Elon Musk seinen KI-Agenten noch vor Kurzem. Jetzt schränkt er die Nutzung ein – die benötigte Rechenkapazität lässt sich lukrativer nutzen.",
-   "link": "https://www.handelsblatt.com/technik/ki/grok-bot-musk-bremst-ki-agent-kosten-untragbar-hoch/100266625.html",
-   "published": "2026-11-02T15:18:26+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitalgipfel: Shake Hands mit Maschine - Merz: Mensch im Mittelpunkt",
-   "summary": "Beim Digitalgipfel begrüßt Friedrich Merz einen humanoiden Roboter und mahnt zugleich, der Mensch müsse im Zentrum bleiben. Wie Deutschland im KI-Wettbewerb aufholen will.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/digitalgipfel-shake-hands-mit-maschine-merz-mensch-im-mittelpunkt/100266572.html",
-   "published": "2026-11-02T15:09:56+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Aktienmarkt: Starfondsmanager Dave Dudding lag komplett falsch – und doch richtig",
-   "summary": "Der Brite glaubt an den KI-Boom, sieht aber Risiken. Dabei gibt es Parallelen zu einem Unternehmen, das ihn seit dem Karrierestart begleitet.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/aktienmarkt-starfondsmanager-dave-dudding-lag-komplett-falsch-und-doch-richtig/100265934.html",
-   "published": "2026-11-02T14:47:06+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
   }
  ]
 }

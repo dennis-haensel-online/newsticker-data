@@ -1,7 +1,25 @@
 {
  "id": "ik",
- "updated": "2026-11-05T07:34:00.487452+00:00",
+ "updated": "2026-11-05T15:56:13.609097+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Östliches Mittelmeer: Griechenland erwägt Asylstopp für Menschen aus Nordafrika – Setzen Türkei und Ostlibyen Migration als Hebel ein?",
+   "summary": "Immer mehr Schutzsuchende kommen aus Libyen zur griechischen Insel Kreta. Die Zuspitzung fällt in eine politisch heikle Phase. Athen vermutet dahinter politische Motive.",
+   "link": "https://www.handelsblatt.com/politik/international/migration-griechenland-erwaegt-asylstopp-fuer-migranten-aus-nordafrika/100267384.html",
+   "published": "2026-11-05T14:12:52+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"Da muss die Klatsche sitzen\"",
+   "summary": "Cathryn Clüver Ashbrook hebt bei \"Lanz\" die Vielfalt der erfolgreichen Kandidaten der Demokraten hervor. Es ist sogar von einem \"blauen Tsunami\" die Rede.",
+   "link": "https://www.zdfheute.de/video/lanz-ashbrook-midterms-video-100.html",
+   "published": "2026-11-05T10:21:00+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Sachsen-Anhalt - Protestaktion: Migranten in Halle schließen Geschäfte",
@@ -162,69 +180,6 @@
    "link": "https://www.wiwo.de/politik/deutschland/gen-z-proteste-zehntausende-bei-jugend-demos-erst-frieden-dann-gewalt/100266314.html",
    "published": "2026-11-02T10:32:00+00:00",
    "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Jüdische Akademie will \"intellektueller Anziehungspunkt\" sein",
-   "summary": "Die neue Jüdische Akademie in Frankfurt will jüdisches Leben in seiner ganzen Vielfalt sichtbar machen. Zur Eröffnung wird auch Bundespräsident Steinmeier erwartet.",
-   "link": "https://www.zdfheute.de/wissen/juedische-akademie-frankfurt-100.html",
-   "published": "2026-11-02T07:12:00+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Schwarze in Brasiliens Industrie: Wer profitiert von Brasiliens Reindustralisierung?",
-   "summary": "Brasiliens Wirtschaft verspricht neue Arbeitsplätze. Damit Schwarze Menschen davon etwas haben, braucht es gezielte Maßnahmen gegen Rassismus. mehr...",
-   "link": "https://taz.de/Schwarze-in-Brasiliens-Industrie/!6224021/",
-   "published": "2026-11-02T06:11:00+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "\"Blanker Rassismus\" - Politik attackiert Ex-Sportreporter Waldemar Hartmann nach Aussage zu Eralp (Die Linke)",
-   "summary": "Der frühere ARD-Sportreporter Waldemar Hartmann hat mit Aussagen zur Berliner Linken-Politikerin Eralp Rassismusvorwürfe von Bundespolitikern verschiedener Parteien auf sich gezogen.",
-   "link": "https://www.deutschlandfunk.de/politik-attackiert-ex-sportreporter-waldemar-hartmann-nach-aussage-zu-eralp-die-linke-100.html",
-   "published": "2026-11-01T23:18:01+00:00",
-   "first_seen": "2026-11-01T23:23:11.417262+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Arbeitskampf in der Türkei: Berufliche Abwehrkräfte stärken",
-   "summary": "Arbeitsrechte müssen in der Türkei hart erkämpft werden. Für Minderheiten kann das gefährlich sein, wie ein Streik in einem Privatkrankenhaus zeigt mehr...",
-   "link": "https://taz.de/Arbeitskampf-in-der-Tuerkei/!6201554/",
-   "published": "2026-11-01T19:11:00+00:00",
-   "first_seen": "2026-11-01T19:58:33.548557+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Neue Asienstrategien: „Die Globalisierung ändert ihr Gesicht“",
-   "summary": "Die unsichere Weltlage stellt die deutsche Wirtschaft vor schwierige Entscheidungen. Konzernchefs suchen neue Standorte und neue Partner in Asien – und wundern sich über Deutschland.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/deutsche-konzernchefs-in-seoul-asien-veraendert-die-globalisierung-201640751.html",
-   "published": "2026-11-01T18:34:24+00:00",
-   "first_seen": "2026-11-01T19:58:33.548557+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Ukraine-Krieg +++: Festnahme nach Terrorhinweis – russischer FSB dankt USA",
-   "summary": "Russische Industrieanlage bei Drohnenangriff beschädigt+++ Oleschky-Flüchtlinge in der Ukraine angekommen +++ Erdogan nennt Angriffe im Schwarzen Meer inakzeptabel +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-festnahme-nach-terrorhinweis-russischer-fsb-dankt-usa/27982126.html",
-   "published": "2026-11-01T16:44:00+00:00",
-   "first_seen": "2026-11-01T19:58:33.548557+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Indien: Indische Opposition protestiert erneut gegen Wahlkommissionschef Gyanesh Kumar",
-   "summary": "In Indien gingen erneut zehntausende Menschen gegen den Leiter der Wahlkommission auf die Straße. Dieser hatte 2025 die Wahllisten stark überarbeitet – offenbar zum Nachteil von Minderheiten.",
-   "link": "https://www.handelsblatt.com/politik/international/indien-indische-opposition-protestiert-erneut-gegen-wahlkommissionschef/100266454.html",
-   "published": "2026-11-01T13:48:12+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
    "paywall": true
   }
  ]

@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-05T07:34:00.487452+00:00",
+ "updated": "2026-11-05T15:56:13.609097+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberkriminalität - Studienbedingungen nach Hackerangriff auf Uni Leipzig weiter eingeschränkt - Attacken auf Hochschulen reißen nicht ab",
+   "summary": "Eine Woche nach dem Hackerangriff auf die Universität Leipzig sind die Studienbedingungen nach wie vor erheblich eingeschränkt.",
+   "link": "https://www.deutschlandfunk.de/studienbedingungen-nach-hackerangriff-auf-uni-leipzig-weiter-eingeschraenkt-attacken-auf-hochschulen-102.html",
+   "published": "2026-11-05T15:29:20+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Briefing: Allianz der Gleichgesinnten: Deutschland schmiedet neues KI-Bündnis",
+   "summary": "Die Bundesregierung stellt 18 Maßnahmen für die KI-Aufholjagd vor, Nvidia-CEO Huang sieht Deutschland im Hintertreffen – und ein riesiges Datenleck bei Lovable. Die wichtigsten KI-News der Woche.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-gebuendelte-kraefte-deutschland-schmiedet-neues-ki-buendnis/100267246.html",
+   "published": "2026-11-05T15:14:19+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Offenbar Einigung auf Einstieg des Bundes bei KNDS",
+   "summary": "Rheinmetall streicht Prognosen zusammen +++ Autozulieferer Bosch will in Abstatt 750 Stellen abbauen +++ Cyberangriff auf französische Bank verursacht mehr als 100 Millionen Euro Verlust +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bund-mit-eigentuemerfamilien-offenbar-ueber-knds-einstieg-einig-faz-200452404.html",
+   "published": "2026-11-05T12:42:22+00:00",
+   "first_seen": "2026-11-05T15:56:13.609097+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Autozulieferer Bosch will in Abstatt 750 Stellen abbauen",
@@ -316,69 +343,6 @@
    "published": "2026-11-02T11:13:18+00:00",
    "first_seen": "2026-11-02T11:50:36.555568+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-   "summary": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
-   "published": "2026-11-02T08:59:47+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Hackerangriff: Binance-Kunden ziehen nach Milliarden-Diebstahl 3,6 Milliarden Dollar ab",
-   "summary": "Nach dem Rekord-Hackerangriff auf Binance nimmt die Kryptobörse wieder Auszahlungen auf. Auch der Bitcoin-Kurs erholt sich leicht.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/binance-kunden-ziehen-nach-milliarden-diebstahl-36-milliarden-dollar-ab/100266414.html",
-   "published": "2026-11-02T07:57:00+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Ukraine und Russland melden Hackerangriffe auf Notfall-Apps",
-   "summary": "Nach Hackerangriffen auf offizielle Warn-Apps wurde in Kiew fälschlich vor Strahlung gewarnt. Russland meldet ebenfalls eine Cyberattacke.",
-   "link": "https://www.zdfheute.de/politik/ausland/hack-notfall-app-ukraine-krieg-russland-100.html",
-   "published": "2026-11-02T04:29:00+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Ukraine-Krieg: App für Notfall-Warnungen in Ukraine und Russland gehackt",
-   "summary": "Radioaktive Strahlung in Kiew und Angriffe mit chemischen Waffen? Falsche Warnmeldungen in einer offenbar gehackten Notfall-App schrecken Bürger in der Ukraine auf. Es folgt ein Cyberangriff auf Russland.",
-   "link": "https://www.handelsblatt.com/politik/international/ukraine-krieg-app-fuer-notfall-warnungen-in-ukraine-und-russland-gehackt/100266492.html",
-   "published": "2026-11-02T02:24:03+00:00",
-   "first_seen": "2026-11-02T03:28:16.262510+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Falschmeldung Radioaktivität: App für Notfall-Warnungen in Ukraine und Russland gehackt",
-   "summary": "Radioaktive Strahlung in Kiew und Angriffe mit chemischen Waffen? Falsche Warnmeldungen in einer wohl gehackten Notfall-App schrecken Bürger in der Ukraine auf. Es folgt ein Cyberangriff auf Russland.",
-   "link": "https://www.handelsblatt.com/politik/international/falschmeldung-radioaktivitaet-app-fuer-notfall-warnungen-in-ukraine-und-russland-gehackt/100266483.html",
-   "published": "2026-11-02T01:59:16+00:00",
-   "first_seen": "2026-11-02T03:28:16.262510+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sicherheit: ARD: Warnung vor Spähsoftware auf Politiker-Handys",
-   "summary": "Müssen sich Bundespolitiker Sorgen machen, dass sich auf ihren iPhones Schadsoftware befindet? Der Digitalminister bestätigt einen amtlichen Hinweis.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/sicherheit-ard-warnung-vor-spaehsoftware-auf-politiker-handys/100266473.html",
-   "published": "2026-11-01T19:30:50+00:00",
-   "first_seen": "2026-11-01T19:58:33.548557+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Finanzen - Nach Hacker-Angriff: Binance gibt Kundenauszahlungen schrittweise frei",
-   "summary": "Nach dem Cyberangriff auf die Digitalwährungsbörse Binance erlaubt das Unternehmen wieder erste Kundenauszahlungen.",
-   "link": "https://www.deutschlandfunk.de/nach-hacker-angriff-binance-gibt-kundenauszahlungen-schrittweise-frei-100.html",
-   "published": "2026-11-01T14:49:08+00:00",
-   "first_seen": "2026-11-01T15:35:47.447316+00:00",
-   "paywall": false
   }
  ]
 }
