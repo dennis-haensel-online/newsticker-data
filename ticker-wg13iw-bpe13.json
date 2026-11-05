@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe13",
- "updated": "2026-11-05T15:56:13.609097+00:00",
+ "updated": "2026-11-05T21:43:52.815134+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Wirtschaft von oben: Hier zeigt sich, wie weit ausländische Investitionen Javier Milei tragen",
+   "summary": "Der argentinische Präsident boostert mit Investitionsanreizen für Energieprojekte den wirtschaftlichen Aufbruch – zulasten der heimischen Infrastruktur.",
+   "link": "https://www.wiwo.de/technologie/wirtschaft-von-oben/javier-mileis-wirtschaftspolitik-investitionsboom-statt-staat/100266695.html",
+   "published": "2026-11-05T18:02:41+00:00",
+   "first_seen": "2026-11-05T21:43:52.815134+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: „Können uns nicht leisten, Wettbewerb zu verlieren“: Wie Mistral zu OpenAI und Anthropic aufschließen will",
+   "summary": "Arthur Mensch führt Europas wertvollste KI-Firma und baut laut Kanzler Merz die wichtigste Technologie unserer Zeit. Im Handelsblatt-Interview kündigt er Investitionen in Deutschland an.",
+   "link": "https://www.handelsblatt.com/technik/ki/mistral-ai-wir-koennen-es-uns-nicht-leisten-den-wettbewerb-zu-verlieren/100266942.html",
+   "published": "2026-11-05T16:02:13+00:00",
+   "first_seen": "2026-11-05T21:43:52.815134+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Umwelt - Indien investiert massiv in Energiespeicher für grünen Strom",
@@ -64,15 +82,6 @@
    "published": "2026-11-02T15:00:00+00:00",
    "first_seen": "2026-11-02T21:05:54.368715+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Türkei erstickt in europäischem Plastikmüll",
-   "summary": "Plastikmüll aus der EU landet tonnenweise in der Türkei. Durch illegale Deponien auch an den Stränden. Denn das türkische Recyclingsystem steckt noch in den Kinderschuhen.",
-   "link": "https://www.zdfheute.de/video/tuerkei-muell-plastik-eu-video-100.html",
-   "published": "2026-11-02T10:00:00+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": false
   }
  ]
 }
