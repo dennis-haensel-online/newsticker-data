@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-04T19:05:58.143731+00:00",
+ "updated": "2026-11-05T00:39:01.231774+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberkriminalität - Forderung nach besseren Sicherheitsmaßnahmen nach Hackerangriffen auf Kühlanlagen in Supermärkten",
+   "summary": "Nach den jüngsten Hackerangriffen auf Kühlanlagen in europäischen Supermärkten sehen IT-Fachleute die Unternehmen in der Pflicht. Sie sollten ihre Sicherheitsmaßnahmen dringend verbessern.",
+   "link": "https://www.deutschlandfunk.de/forderung-nach-besseren-sicherheitsmassnahmen-nach-hackerangriffen-auf-kuehlanlagen-in-supermaerkten-102.html",
+   "published": "2026-11-05T00:20:06+00:00",
+   "first_seen": "2026-11-05T00:39:01.231774+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Silicon Valley: CoreWeave fällt, Amazon gewinnt – Wie die Midterms den KI-Sektor spalten",
+   "summary": "Nach dem demokratischen Wahlsieg droht eine Regulierungswelle für Rechenzentren. Doch während Neoclouds abstürzen, legen die Tech-Konzerne kräftig zu. Warum?",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/silicon-valley-coreweave-faellt-amazon-gewinnt-midterms-spalten-ki-konzerne/100267383.html",
+   "published": "2026-11-04T21:41:09+00:00",
+   "first_seen": "2026-11-05T00:39:01.231774+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Nach den US-Midterms: Trumps Macht schwindet, seine Zölle bleiben",
+   "summary": "Die Demokraten können den Präsidenten bremsen – aber seine Wirtschaftspolitik kaum umkehren. Der KI-Boom gerät unter Druck. Unternehmen und der Trump-Familie drohen Untersuchungen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/donald-trump-nach-us-midterms-2026-seine-macht-schwindet-seine-zoelle-bleiben-201651531.html",
+   "published": "2026-11-04T19:36:27+00:00",
+   "first_seen": "2026-11-05T00:39:01.231774+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Cyberkriminalität - Hacker haben in Frankreich auch Blutspendedienst angegriffen",
@@ -873,33 +900,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriffe-auf-supermaerkte-in-belgien-und-schweden-accg-201643770.html",
    "published": "2026-11-02T12:55:26+00:00",
    "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Geld sparen: Wie ich ChatGPT dazu brachte, sich selbst zu verklagen",
-   "summary": "NEIN, ETWAS ANDERES! Chatbots bei Amazon und Co. treiben einen mit perfiden Fertigantwort-Stafetten in den Wahnsinn. Besser geht’s, wenn man die Urgeduld der KI nutzt.",
-   "link": "https://www.zeit.de/geld/2026-10/geld-sparen-kundenservice-ki-chatbot-amazon",
-   "published": "2026-11-02T12:53:54+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Hackerangriff auf Regierungshandys: Minister bestätigt Attacke",
-   "summary": "Digitalminister Karsten Wildberger hat einen Medienbericht bestätigt, nach dem Geräte von Regierungsmitgliedern von einer Spy-Software befallen wurden. Die Prüfung laufe aktuell.",
-   "link": "https://www.zdfheute.de/politik/deutschland/hackerangriff-regierung-wildberger-100.html",
-   "published": "2026-11-02T11:43:00+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Digitalgipfel: Deutsche Unternehmen pochen auf KI made in Germany",
-   "summary": "Auf dem Digitalgipfel der Bundesregierung stehen zwei Themen ganz oben auf der Agenda: KI und digitale Souveränität. Der Branchenverband Bitkom macht eine klare Ansage, und Digitalminister Wildberger spricht mahnende Worte.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/digitalgipfel-bitkom-fordert-ki-made-in-germany-accg-201643281.html",
-   "published": "2026-11-02T11:39:53+00:00",
-   "first_seen": "2026-11-02T11:50:36.555568+00:00",
    "paywall": true
   }
  ]
