@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-11-06T01:55:46.608492+00:00",
+ "updated": "2026-11-06T08:48:46.345264+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Insolvenzverwalter: „Gut ist die Insolvenzserie von Galeria für unseren Berufsstand nicht“",
+   "summary": "Christoph Niering, Vorsitzender des Insolvenzverwalter-Verbands VID, über die Galeria-Insolvenz, Pleiten-Alarmismus und den Streit ums Berufsrecht.",
+   "link": "https://www.wiwo.de/unternehmen/insolvenzwelle-in-deutschland-vid-chef-widerspricht-alarmismus/100267690.html",
+   "published": "2026-11-06T06:49:31+00:00",
+   "first_seen": "2026-11-06T08:48:46.345264+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Österreich - Unternehmer René Benko erneut verurteilt",
@@ -18,6 +27,15 @@
    "link": "https://www.deutschlandfunk.de/unternehmer-ren-benko-erneut-verurteilt-100.html",
    "published": "2026-11-05T19:50:03+00:00",
    "first_seen": "2026-11-05T21:43:52.815134+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+   "summary": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
+   "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
+   "published": "2026-11-05T17:56:47+00:00",
+   "first_seen": "2026-11-06T08:48:46.345264+00:00",
    "paywall": false
   },
   {
@@ -145,15 +163,6 @@
    "published": "2026-11-03T11:10:27+00:00",
    "first_seen": "2026-11-03T11:28:43.036333+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Arbeitszeitbetrug: So können sich Unternehmen wehren",
-   "summary": "Wäsche waschen, einkaufen, Netflix schauen: Immer wieder erledigen Beschäftigte Privates in ihrer Arbeitszeit. Wo der Betrug beginnt und was Unternehmen dagegen machen können.",
-   "link": "https://www.handelsblatt.com/karriere/unternehmen-wann-die-grenze-zum-arbeitszeitbetrug-ueberschritten-ist/100141010.html",
-   "published": "2026-11-02T15:20:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
   }
  ]
 }

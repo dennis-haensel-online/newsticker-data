@@ -1,7 +1,16 @@
 {
  "id": "ik",
- "updated": "2026-11-06T01:55:46.608492+00:00",
+ "updated": "2026-11-06T08:48:46.345264+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
+   "link": "https://www.handelsblatt.com/politik/international/migration-immer-mehr-deutsche-zieht-es-nach-polen/100249315.html",
+   "published": "2026-11-06T08:35:00+00:00",
+   "first_seen": "2026-11-06T08:48:46.345264+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "US-Investmentbank: Goldman Sachs nennt bei Partner-Beförderungen keine Diversitätsdaten mehr",
@@ -171,24 +180,6 @@
    "link": "https://taz.de/Bildung-gegen-Hass/!6226766/",
    "published": "2026-11-03T06:19:00+00:00",
    "first_seen": "2026-11-03T11:28:43.036333+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Extremismus - Jugendliche wegen möglicher Anschlagspläne gegen Flüchtlingsheime in Verdacht",
-   "summary": "Die Strafverfolgungsbehörden in Niedersachsen und Schleswig-Holstein ermitteln gegen zwei junge Männer wegen der möglichen Vorbereitung eines Anschlags.",
-   "link": "https://www.deutschlandfunk.de/jugendliche-wegen-moeglicher-anschlagsplaene-gegen-fluechtlingsheime-in-verdacht-100.html",
-   "published": "2026-11-02T21:02:47+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Migration - Zwei Migranten bei Flucht auf spanische Insel gestorben",
-   "summary": "Auf dem Weg zu den Kanaren sind mindestens zwei Migranten ums Leben gekommen.",
-   "link": "https://www.deutschlandfunk.de/zwei-migranten-bei-flucht-auf-spanische-insel-gestorben-102.html",
-   "published": "2026-11-02T21:02:47+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
    "paywall": false
   }
  ]

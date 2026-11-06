@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-06T01:55:46.608492+00:00",
+ "updated": "2026-11-06T08:48:46.345264+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Disrupt: Wie eine Cloud-Plattform aus Karlsruhe die Macht der US-Giganten aufbrechen will",
+   "summary": "Was passiert, wenn die USA Europa bei der Cloud-Infrastruktur den Stecker ziehen? Elias Schneider hält das für „absolut realistisch“ und arbeitet mit seinem Start-up an einer Lösung.",
+   "link": "https://www.handelsblatt.com/audio/disrupt-podcast/disrupt-wie-codesphere-aus-karlsruhe-die-macht-der-us-giganten-aufbrechen-will/100267783.html",
+   "published": "2026-11-06T07:22:12+00:00",
+   "first_seen": "2026-11-06T08:48:46.345264+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Insolvenzverwalter: „Gut ist die Insolvenzserie von Galeria für unseren Berufsstand nicht“",
+   "summary": "Christoph Niering, Vorsitzender des Insolvenzverwalter-Verbands VID, über die Galeria-Insolvenz, Pleiten-Alarmismus und den Streit ums Berufsrecht.",
+   "link": "https://www.wiwo.de/unternehmen/insolvenzwelle-in-deutschland-vid-chef-widerspricht-alarmismus/100267690.html",
+   "published": "2026-11-06T06:49:31+00:00",
+   "first_seen": "2026-11-06T08:48:46.345264+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Tumult bei Tech-Aktien: Bringt der Tech-Abverkauf den Anthropic-Börsengang in Gefahr?",
+   "summary": "Das Umfeld für den Mega-Börsengang von Anthropic wird schlechter. Was für eine Absage spricht – und welche Folgen das für die Börsen hätte.",
+   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-in-gefahr-was-der-tech-abverkauf-bedeutet/100267738.html",
+   "published": "2026-11-06T06:09:06+00:00",
+   "first_seen": "2026-11-06T08:48:46.345264+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "IPO: KI-Firma Anthropic droht laut Insidern Verzögerung bei Börsengang",
+   "summary": "Investoren dringen offenbar auf eine niedrigere Bewertung als die zuletzt diskutierten 1,5 Billionen Dollar. Auch der Zeitplan für den IPO wird hinterfragt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ipo-ki-firma-anthropic-droht-laut-insidern-verzoegerung-bei-boersengang/100267771.html",
+   "published": "2026-11-06T03:14:25+00:00",
+   "first_seen": "2026-11-06T08:48:46.345264+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Musikmanager im Gespräch: „Wir haben bei KI-Musik einen Wendepunkt erreicht“",
@@ -450,105 +486,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nachbarstochter-rettet-brauerei-haerle-ich-habe-wirklich-keinen-plan-b-gehabt-accg-201605816.html",
    "published": "2026-11-03T06:27:05+00:00",
    "first_seen": "2026-11-04T11:49:31.464993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IPO: Anthropic schreibt wieder Verluste – bei geringerer Marge",
-   "summary": "Das KI-Unternehmen hat seinen Börsenprospekt um weitere Zahlen ergänzt. Während der Umsatz sich verzwölffacht hat, sind auch Ausgaben und Nettoverlust deutlich gestiegen.",
-   "link": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-schreibt-wieder-verluste-bei-geringerer-marge/100266735.html",
-   "published": "2026-11-02T19:41:49+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Anthropic macht vor Börsengang Milliardenverluste",
-   "summary": "Die US-Firma Anthropic will in den kommenden Wochen an die Börse und veröffentlicht nun neue Geschäftszahlen. Der Umsatz ist zwar stark gestiegen, doch seit Jahresbeginn wurden Verluste von 104 Milliarden Dollar angehäuft.",
-   "link": "https://www.spiegel.de/wirtschaft/anthropic-macht-vor-boersengang-milliardenverluste-a-de7f75ee-9284-4ae3-a433-8cc2d016df02#ref=rss",
-   "published": "2026-11-02T18:30:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Ghazaleh Madani: Krebsforschung ohne Mäuse? Eine Gründerin arbeitet daran",
-   "summary": "Ghazaleh Madani will Krebs bekämpfen und Tierversuche überflüssig machen. Mit ihrem Potsdamer Start-up entwickelt sie eine Technologie, die nun auch Pharmakonzerne lockt.",
-   "link": "https://www.zeit.de/zeit-fuer-unternehmer/2026/03/ghazaleh-madani-gruendung-forschung-tierversuche-chip",
-   "published": "2026-11-02T17:32:26+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: KI-Firma Anthropic mit Milliarden-Verlusten vor Börsengang",
-   "summary": "Die KI-Firma Anthropic ließ in ihrem Börsenprospekt zunächst die Zahlen für das dritte Quartal aus. Aus einem Nachtrag geht hervor: Es gab auch da tiefrote Zahlen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-ki-firma-anthropic-mit-milliarden-verlusten-vor-boersengang/100266751.html",
-   "published": "2026-11-02T17:23:18+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: KI-Firma Anthropic mit Milliarden-Verlusten vor Börsengang",
-   "summary": "Anthropic ließ in ihrem Börsenprospekt zunächst die Zahlen für das dritte Quartal aus. Aus einem Nachtrag geht hervor: Es gab auch da tiefrote Zahlen.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/kuenstliche-intelligenz-ki-firma-anthropic-mit-milliarden-verlusten-vor-boersengang/100266754.html",
-   "published": "2026-11-02T17:23:18+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Thyssenkrupp Steel: Stahlchefin Marie Jaroni und die Mission Börsengang",
-   "summary": "Thyssenkrupp will sich endlich von seinem Stahlgeschäft trennen. Spartenchefin Marie Jaroni geht die Sache anders an als ihre Vorgänger. Hat sie damit mehr Erfolg?",
-   "link": "https://www.wiwo.de/unternehmen/industrie/thyssenkrupp-steel-wie-marie-jaroni-den-boersengang-vorbereitet/100265571.html",
-   "published": "2026-11-02T17:12:10+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "KI: Anthropic meldet bei Quartalserlös Umsatzplus von 1.100 Prozent",
-   "summary": "Kurz vor dem Börsengang hat Anthropic seinen Umsatz auch im dritten Quartal deutlich gesteigert. Insgesamt verzeichnet das KI-Unternehmen aber weiter Milliardenverluste.",
-   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/anthropic-boersengang-umsatz-kuenstliche-intelligenz-sec",
-   "published": "2026-11-02T16:58:40+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: So könnte Reiches Spritpreisdeckel aussehen | Warum sich Commerzbank-Aktionäre abwenden",
-   "summary": "Ein Gesetzesentwurf von Wirtschaftsministerin Katherina Reiche hat Konfliktpotenzial. Und: Deshalb fürchten prominente Commerzbank-Aktionäre um ihren „Investment Case“.",
-   "link": "https://www.handelsblatt.com/audio/today/today-so-koennte-reiches-spritpreisdeckel-aussehen-warum-sich-commerzbank-aktionaere-abwenden/100266732.html",
-   "published": "2026-11-02T16:42:26+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Anthropic meldet kurz vor Börsengang Umsatzplus von 1100 Prozent",
-   "summary": "Insolvente Grube Teutschenthal stellt Betrieb ein +++ Alstom kappt abermals Prognose – Aktie bricht um 27 Prozent ein +++ Cum-Ex: Haftstrafe gegen früheren Sheridan-Chef bestätigt +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-anthropic-meldet-kurz-vor-boersengang-umsatzplus-von-1100-prozent-faz-200452404.html",
-   "published": "2026-11-02T16:32:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Uniper-Privatisierung: RWE-Chef bestätigt Interesse an Uniper",
-   "summary": "Der Bund prüft den Verkauf oder Börsengang von Uniper. RWE und der Finanzinvestor KKR haben unverbindliche Angebote eingereicht.",
-   "link": "https://www.wiwo.de/unternehmen/energie/uniper-privatisierung-rwe-chef-bestaetigt-interesse-am-energieunternehmen/100266703.html",
-   "published": "2026-11-02T15:56:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pfeifer & Langen: Die süßen Jahre sind vorbei – Wie Chio-Chips und Ültje eine Zuckerdynastie durch die Krise retten",
-   "summary": "„Weißes Gold“ machte Pfeifer & Langen groß. Doch das Zuckergeschäft kriselt. Salzige Snacks bringen heute dreimal mehr Umsatz. Exklusive Einblicke in ein verschwiegenes Familienunternehmen.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/zuckersteuer-chips-und-ueltje-retten-eine-zuckerdynastie-durch-die-krise-02/100263452.html",
-   "published": "2026-11-02T15:53:00+00:00",
-   "first_seen": "2026-11-02T21:05:54.368715+00:00",
    "paywall": true
   }
  ]
