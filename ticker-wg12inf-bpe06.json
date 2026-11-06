@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-06T08:48:46.345264+00:00",
+ "updated": "2026-11-06T16:29:24.896676+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Bedrohung - USA warnen vor Hackerangriffen auf industrielle Kühlsysteme",
+   "summary": "Die US-Behörden haben vor einer anhaltenden Cyberbedrohung für industrielle Kühlsysteme gewarnt. In einer gemeinsamen Erklärung der Bundespolizei FBI, der Cybersicherheitsbehörde CISA sowie der Ministerien für Gesundheit, Verkehr und…",
+   "link": "https://www.deutschlandfunk.de/usa-warnen-vor-hackerangriffen-auf-industrielle-kuehlsysteme-100.html",
+   "published": "2026-11-06T16:07:25+00:00",
+   "first_seen": "2026-11-06T16:29:24.896676+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Stecken diese Hacker hinter den AfD-Leaks?",
+   "summary": "Hacker veröffentlichten Hunderttausende interne Dokumente der AfD. Wer steckt hinter dem Cyberangriff? Die Spur führt in die USA.",
+   "link": "https://www.zdfheute.de/politik/deutschland/hacker-afd-leak-emails-usa-100.html",
+   "published": "2026-11-06T09:00:00+00:00",
+   "first_seen": "2026-11-06T16:29:24.896676+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Disrupt: Wie eine Cloud-Plattform aus Karlsruhe die Macht der US-Giganten aufbrechen will",
@@ -226,51 +244,6 @@
    "published": "2026-11-03T11:48:23+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyberangriff: Kühlanlagen in Supermärkten mehrerer europäischer Länder manipuliert",
-   "summary": "Nach dem Cyberangriff auf französische Lebensmittelgeschäfte im Oktober hat sich am Montag ein ähnlicher Vorfall ereignet. Betroffen waren unter anderem Supermärkte in Irland, Estland, Luxemburg, Belgien und Schweden. Die Hintergründe sind…",
-   "link": "https://www.handelsblatt.com/video/unternehmen/cyberangriff-kuehlanlagen-in-supermaerkten-mehrerer-europaeischer-laender-manipuliert/100266912.html",
-   "published": "2026-11-03T09:54:17+00:00",
-   "first_seen": "2026-11-03T11:28:43.036333+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Cyberangriffe auf Kühlsysteme: Was über die Sabotage an Kühlsystemen in Supermärkten bekannt ist",
-   "summary": "In mehreren Ländern in Europa sind Kühlsysteme in Supermärkten manipuliert und Lebensmittel zerstört worden. Auch Märkte in Deutschland sind betroffen. Was bekannt ist.",
-   "link": "https://www.zeit.de/digital/2026-11/cyberangriffe-kuehlsysteme-supermaerkte-frankreich-eu-kommission",
-   "published": "2026-11-03T09:45:52+00:00",
-   "first_seen": "2026-11-03T11:28:43.036333+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Hackerangriff auf Binance: Nordkorea weist jede Schuld am Kryptoraub von sich",
-   "summary": "Nach dem bislang größten Hackerangriff auf eine Kryptobörse weist Pjöngjang jegliche Verantwortung zurück. Die Schwester des Machthabers nennt die Anschuldigungen absurd.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/binance-krypto-diebstahl-nordkorea-fbi-bitcoin-li.3573378",
-   "published": "2026-11-03T04:17:01+00:00",
-   "first_seen": "2026-11-03T11:28:43.036333+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitalwährungen: Binance: Nordkorea weist Vorwurf von Milliardenraub zurück",
-   "summary": "Nach dem bislang größten Hackerangriff auf eine Kryptobörse weist Pjöngjang jegliche Verantwortung zurück. Die Schwester des nordkoreanischen Machthabers hält die Anschuldigungen für absurd.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/digitalwaehrungen-binance-nordkorea-weist-vorwurf-von-milliardenraub-zurueck/100266808.html",
-   "published": "2026-11-03T02:59:44+00:00",
-   "first_seen": "2026-11-03T03:10:25.331698+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Weltgrößte Kryptobörse - Nordkorea weist Vorwürfe wegen Binance-Hackerangriffs zurück",
-   "summary": "Nordkorea hat eine Beteiligung an dem Hackerangriff auf die weltgrößte Kryptobörse Binance zurückgewiesen.",
-   "link": "https://www.deutschlandfunk.de/nordkorea-weist-vorwuerfe-wegen-binance-hackerangriffs-zurueck-100.html",
-   "published": "2026-11-03T02:36:23+00:00",
-   "first_seen": "2026-11-03T03:10:25.331698+00:00",
-   "paywall": false
   }
  ]
 }
