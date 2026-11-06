@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-06T16:29:24.896676+00:00",
+ "updated": "2026-11-06T21:52:50.906214+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
+   "summary": "Ältere Nvidia-Chips sollen den Anforderungen des Windows-Konzerns nicht mehr genügt haben. Laut der Agentur Bloomberg überprüft Microsoft auch andere Cloud-Partnerschaften in Milliardenhöhe.",
+   "link": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
+   "published": "2026-11-06T20:52:42+00:00",
+   "first_seen": "2026-11-06T21:52:50.906214+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Bedrohung - USA warnen vor Hackerangriffen auf industrielle Kühlsysteme",
@@ -179,69 +188,6 @@
    "summary": "Nach Cyberangriffen auf Supermärkte müssen Händler zum Teil kiloweise verdorbene Waren entsorgen. Nun trifft es auch deutsche Händler.",
    "link": "https://www.wiwo.de/unternehmen/handel/hackerangriffe-in-europa-supermaerkte-muessen-lebensmittel-entsorgen/100266676.html",
    "published": "2026-11-03T16:14:00+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Überwachung mit Handyblitzer: Massenüberwachung gegen Handy am Steuer",
-   "summary": "Der Verkehrsminister will Videoüberwachung gegen Handynutzung im Verkehr bundesweit ermöglichen, um Unfälle zu verhindern. Juristisch ist das komplex. mehr...",
-   "link": "https://taz.de/Ueberwachung-mit-Handyblitzer/!6226932/",
-   "published": "2026-11-03T15:32:00+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Digitale Souveränität: Eine neue KI- und Cloud-Plattform für Europa",
-   "summary": "Das französische Unternehmen Bull und der deutsche IT-Spezialist Schwarz Digits wollen eine Alternative zu US-Anbietern schaffen. Wird Europa so unabhängiger von den USA?",
-   "link": "https://www.sueddeutsche.de/wirtschaft/digitale-souveraenitaet-bull-schwarz-digits-ki-plattform-cloud-infrastruktur-li.3573312",
-   "published": "2026-11-03T15:30:36+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Digitale Souveränität: Eine neue KI- und Cloud-Plattform für Europa",
-   "summary": "Das französische Unternehmen Bull und der deutsche IT-Spezialist Schwarz Digits wollen eine Alternative zu US-Anbietern schaffen. Wird Europa so unabhängiger von den USA?",
-   "link": "https://www.sueddeutsche.de/wirtschaft/digitale-souveraenitaet-europa-bull-schwarz-digits-ki-plattform-cloud-infrastruktur-li.3573312",
-   "published": "2026-11-03T15:30:36+00:00",
-   "first_seen": "2026-11-04T11:49:31.464993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Hacker-Attacke: Cyberangriffe auch auf Kühlanlagen deutscher Supermärkte",
-   "summary": "Auch in mehreren deutschen Supermärkten wurden Kühlanlagen vermutlich ebenfalls aus der Ferne manipuliert – Lebensmittel mussten weggeworfen werden. Wie die Polizei die Fälle einordnet.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/hacker-attacke-cyberangriffe-auch-auf-kuehlanlagen-deutscher-supermaerkte/100266999.html",
-   "published": "2026-11-03T15:14:31+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
-   "summary": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch im Ausland.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
-   "published": "2026-11-03T13:49:27+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Cyberangriffe auf Supermärkte auch in Deutschland",
-   "summary": "Hacker manipulieren Kühlanlagen von Supermärkten in mehreren Ländern Europas - auch in Deutschland. Viele Lebensmittel mussten entsorgt werden.",
-   "link": "https://www.zdfheute.de/politik/deutschland/cyberangriff-supermaerkte-nrw-bayern-temperatur-100.html",
-   "published": "2026-11-03T12:09:00+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Cyberangriff: Hacker greifen auch Kühltruhen in deutschen Supermärkten an",
-   "summary": "Erst in Frankreich, dann in einigen anderen europäischen Ländern: Hacker brachten Kühlsysteme in verschiedenen Supermärkten durcheinander. Nun ist es auch hierzulande zu Cyberangriffen gekommen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rewe-und-edeka-hacker-greifen-auch-kuehltruhen-in-deutschen-supermaerkten-an-accg-201647352.html",
-   "published": "2026-11-03T11:48:23+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
    "paywall": true
   }

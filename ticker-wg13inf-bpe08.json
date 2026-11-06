@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-06T16:29:24.896676+00:00",
+ "updated": "2026-11-06T21:52:50.906214+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
+   "summary": "Ältere Nvidia-Chips sollen den Anforderungen des Windows-Konzerns nicht mehr genügt haben. Laut der Agentur Bloomberg überprüft Microsoft auch andere Cloud-Partnerschaften in Milliardenhöhe.",
+   "link": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
+   "published": "2026-11-06T20:52:42+00:00",
+   "first_seen": "2026-11-06T21:52:50.906214+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Today: Wall-Street-Reporter Markus Koch ordnet KI-Angst vor den US-Demokraten ein",
+   "summary": "Sorge vor einer schärferen KI-Regulierung hat einen Ausverkauf ausgelöst: Rund drei Billionen Dollar an Börsenwert sind an einem Tag im S P 500 vernichtet worden. Was Anleger wissen müssen.",
+   "link": "https://www.handelsblatt.com/audio/today/podcast-wall-street-reporter-ordnet-ki-angst-vor-den-us-demokraten-ein/100267999.html",
+   "published": "2026-11-06T17:31:58+00:00",
+   "first_seen": "2026-11-06T21:52:50.906214+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Wegen Suchtgefahr - EU-Kommission fordert Tiktok zu Änderungen bei schädlichem Algorithmus auf",
@@ -881,24 +899,6 @@
    "summary": "Audi will Milliarden investieren, wo die Hidden Champions bereits glänzende Geschäfte machen: in den USA. Firmen wie Trumpf und Ebm-papst wachsen rasant – nicht nur wegen des KI-Booms.",
    "link": "https://www.wiwo.de/politik/ausland/midterms-2026-trotz-oder-wegen-trump-deutsche-weltmarktfuehrer-in-den-usa/100259050.html",
    "published": "2026-11-03T16:37:24+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Cyberangriff: Hacker heizen Kühlgeräte auf – immer mehr Fälle auch in Deutschland",
-   "summary": "Nach Cyberangriffen auf Supermärkte müssen Händler zum Teil kiloweise verdorbene Waren entsorgen. Nun trifft es auch deutsche Händler.",
-   "link": "https://www.wiwo.de/unternehmen/handel/hackerangriffe-in-europa-supermaerkte-muessen-lebensmittel-entsorgen/100266676.html",
-   "published": "2026-11-03T16:14:00+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Klage wegen KI-Training: Ein Synchronsprecher legt sich mit Netflix an",
-   "summary": "Synchronsprecher Matti Klemm zieht gegen Netflix vor Gericht. Er wirft dem Streamingdienst vor, seine Stimme für KI ohne Einwilligung genutzt zu haben.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/synchronsprecher-klemm-klagt-gegen-netflix-stimme-fuer-ki-training-missbraucht-201648614.html",
-   "published": "2026-11-03T16:12:45+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
    "paywall": true
   }

@@ -1,6 +1,6 @@
 {
  "id": "wg13iw-bpe15",
- "updated": "2026-11-06T16:29:24.896676+00:00",
+ "updated": "2026-11-06T21:52:50.906214+00:00",
  "items": [
   {
    "label": "ZDF",
@@ -18,6 +18,15 @@
    "link": "https://www.spiegel.de/wirtschaft/maec-geiz-insolventer-discounter-plant-harte-schrumpfkur-a-55e5a7aa-c9c7-434c-a08d-53b178b06540#ref=rss",
    "published": "2026-11-06T12:38:00+00:00",
    "first_seen": "2026-11-06T16:29:24.896676+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Mäc Geiz: Insolventer Discounter plant harte Schrumpfkur - 60 Filialen vor der Schließung",
+   "summary": "Der Billig-Discounter Mäc Geiz hat ein Sanierungsprogramm vorgestellt, um der Insolvenz zu entkommen. Klar ist bereits jetzt: Etliche Filialen werden schließen müssen.",
+   "link": "https://www.spiegel.de/wirtschaft/maec-geiz-insolventer-discounter-plant-harte-schrumpfkur-60-filialen-vor-der-schliessung-a-55e5a7aa-c9c7-434c-a08d-53b178b06540#ref=rss",
+   "published": "2026-11-06T12:38:00+00:00",
+   "first_seen": "2026-11-06T21:52:50.906214+00:00",
    "paywall": false
   },
   {
@@ -171,24 +180,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-ki-strategie-aufholen-gegen-usa-und-china-201646770.html",
    "published": "2026-11-03T19:01:03+00:00",
    "first_seen": "2026-11-03T23:48:08.424654+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Rentenversicherung: Renten könnten 2027 um 4,09 Prozent steigen",
-   "summary": "Die Renten steigen 2027 voraussichtlich stärker als erwartet. Doch die Nachhaltigkeitsrücklage fällt auf 12,1 Milliarden Euro.",
-   "link": "https://www.wiwo.de/unternehmen/versicherer/rentenversicherung-renten-koennten-2027-um-409-prozent-steigen/100267052.html",
-   "published": "2026-11-03T15:26:12+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Modeindustrie: Hugo Boss hat einen neuen heimlichen Boss",
-   "summary": "Die britische Frasers Group hält die Hälfte der Aktien des Modekonzerns. Vor einigen Monaten hat der Schwiegersohn des Gründers den Aufsichtsrat übernommen. Aber die Geschäfte laufen schlecht.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/hugo-boss-frasers-group-michael-murray-uebernahme-modekonzern-li.3573556",
-   "published": "2026-11-03T12:58:03+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
    "paywall": true
   }
  ]
