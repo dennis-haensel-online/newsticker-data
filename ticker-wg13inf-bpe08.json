@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-07T15:16:02.918777+00:00",
+ "updated": "2026-11-07T19:44:24.040882+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Quartalszahlen: Berkshire meldet Gewinnrückgang, doch die Aktie profitiert",
+   "summary": "Berkshire Hathaway kaufte im dritten Quartal eigene Aktien für 9,6 Milliarden Dollar. Buffetts Nachfolger Greg Abel profitiert zudem von der KI-Angst an der Wall Street.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html",
+   "published": "2026-11-07T15:57:11+00:00",
+   "first_seen": "2026-11-07T19:44:24.040882+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Darknet - Italienischer Außenminister wird Opfer von Cyberangriff - Regierungschefin Meloni macht pro-russische Hacker verantwortlich",
@@ -27,6 +36,15 @@
    "link": "https://www.wiwo.de/unternehmen/it/hackerattacken-der-angriff-auf-die-wirklichkeit/100267901.html",
    "published": "2026-11-07T12:41:45+00:00",
    "first_seen": "2026-11-07T15:16:02.918777+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Hackerattacken: Erst die Supermärkte, dann das Zuhause?",
+   "summary": "Erst Supermärkte, dann Blutbanken – und bald vielleicht das eigene Zuhause? Cyberangriffe auf vernetzte Technik zeigen, wie nah die digitale Gefahr der realen Welt kommt.",
+   "link": "https://www.wiwo.de/unternehmen/it/hackerattacken-erst-die-supermaerkte-dann-das-zuhause/100267901.html",
+   "published": "2026-11-07T12:41:45+00:00",
+   "first_seen": "2026-11-07T19:44:24.040882+00:00",
    "paywall": true
   },
   {
@@ -881,24 +899,6 @@
    "summary": "Q.ant-Gründer Michael Förtsch kritisiert den Millionen-Deal der Bundesregierung mit Nvidia. So werde die Abhängigkeit von den USA nur weiter wachsen.",
    "link": "https://www.wiwo.de/unternehmen/it/nvidia-deal-der-bundesregierung-start-up-q.ant-uebt-kritik/100266750.html",
    "published": "2026-11-04T09:57:00+00:00",
-   "first_seen": "2026-11-04T11:49:31.464993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-diese-kompetenzen-suchen-unternehmen-bei-bewerbern/100251207.html",
-   "published": "2026-11-04T09:45:00+00:00",
-   "first_seen": "2026-11-04T11:49:31.464993+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Internetkonzern: Google verlängert Abfindungsangebote für Beschäftigte",
-   "summary": "Google verlängert seine Abfindungsangebote für Beschäftigte in fünf Ländern. Hintergrund sind die Milliardeninvestitionen in KI-Rechenzentren.",
-   "link": "https://www.wiwo.de/unternehmen/it/google-verlaengert-abfindungsangebote-fuer-beschaeftigte/100267221.html",
-   "published": "2026-11-04T09:30:54+00:00",
    "first_seen": "2026-11-04T11:49:31.464993+00:00",
    "paywall": true
   }
