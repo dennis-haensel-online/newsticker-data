@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-07T08:00:26.998976+00:00",
+ "updated": "2026-11-07T15:16:02.918777+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Darknet - Italienischer Außenminister wird Opfer von Cyberangriff - Regierungschefin Meloni macht pro-russische Hacker verantwortlich",
+   "summary": "Der italienische Außenminister Tajani ist nach eigenen Angaben Opfer eines Hackerangriffs geworden.",
+   "link": "https://www.deutschlandfunk.de/italienischer-aussenminister-wird-opfer-von-cyberangriff-regierungschefin-meloni-macht-pro-russische-102.html",
+   "published": "2026-11-07T15:05:13+00:00",
+   "first_seen": "2026-11-07T15:16:02.918777+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Hackerattacken: Der Angriff auf die Wirklichkeit",
+   "summary": "Erst Supermärkte, dann Blutbanken – und bald vielleicht das eigene Zuhause? Cyberangriffe auf vernetzte Technik zeigen, wie nah die digitale Gefahr der realen Welt kommt.",
+   "link": "https://www.wiwo.de/unternehmen/it/hackerattacken-der-angriff-auf-die-wirklichkeit/100267901.html",
+   "published": "2026-11-07T12:41:45+00:00",
+   "first_seen": "2026-11-07T15:16:02.918777+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten",
@@ -163,33 +181,6 @@
    "published": "2026-11-04T08:40:38+00:00",
    "first_seen": "2026-11-04T11:49:31.464993+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Milliarden-Hack: Hacker nutzten fingiertes Vorstellungsgespräch für Attacke auf Binance",
-   "summary": "Erste Analyseergebnisse des Milliardenraubs bei Binance zeigen, dass der Hackerangriff bereits im Juni begann. Auch ein KI-Werkzeug habe dabei eine Rolle gespielt.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/milliarden-hack-hacker-nutzten-fingiertes-vorstellungsgespraech-fuer-attacke-auf-binance/100267116.html",
-   "published": "2026-11-03T23:18:36+00:00",
-   "first_seen": "2026-11-03T23:48:08.424654+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Streit um KI-Überwachung im US-Wahlkampf",
-   "summary": "Ein dichtes Netz aus KI-gestützten Kameras, detaillierte Bewegungsprofile und die Erfassung sensibler Daten: In den USA wächst der Einsatz digitaler Überwachungstechnologien im öffentlichen Raum.",
-   "link": "https://www.zdfheute.de/video/frontal/ki-ueberwachung-im-us-wahlkampf-100.html",
-   "published": "2026-11-03T20:00:00+00:00",
-   "first_seen": "2026-11-03T23:48:08.424654+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Gen Z-Proteste | Verdacht auf Erbschleicherei",
-   "summary": "Mit den Themen: Gen Z zwischen Protest und Krawall | Streit um KI-Überwachung im US-Wahlkampf | Verdacht auf Erbschleicherei | Gefahr durch manipulierte Fatbikes",
-   "link": "https://www.zdf.de/video/magazine/frontal-das-magazin-100/frontal-vom-3-november-2026-100",
-   "published": "2026-11-03T20:00:00+00:00",
-   "first_seen": "2026-11-03T23:48:08.424654+00:00",
-   "paywall": false
   }
  ]
 }
