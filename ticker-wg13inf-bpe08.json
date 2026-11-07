@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-07T01:27:38.728877+00:00",
+ "updated": "2026-11-07T08:00:26.998976+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten",
+   "summary": "Die Cyberangriffe auf deutsche Supermärkte beschäftigen einem Medienbericht zufolge inzwischen die Geheimdienste.",
+   "link": "https://www.deutschlandfunk.de/geheimdienste-schalten-sich-ein-nach-cyberangriffen-auf-kuehlregale-in-deutschen-supermaerkten-100.html",
+   "published": "2026-11-07T07:49:34+00:00",
+   "first_seen": "2026-11-07T08:00:26.998976+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Plus: Mein Amerika ist zurück – und lässt die Börsen beben",
+   "summary": "Die Demokraten erobern Repräsentantenhaus und Senat. Anleger reagieren mit Verkäufen, vor allem bei Tech-Aktien. Warum die Zweifel an den KI-Investitionen älter sind als das Wahlergebnis.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-mein-amerika-ist-zurueck-und-laesst-die-boersen-beben/100267517.html",
+   "published": "2026-11-07T07:45:17+00:00",
+   "first_seen": "2026-11-07T08:00:26.998976+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Rechenzentren-Revolte: Datacenter? Nein, danke! Warum der drohende Baustopp in Texas erst der Anfang ist",
+   "summary": "Die neue Macht der Demokraten könnte Amerikas KI-Boom ausbremsen – und bemerkenswerte Gewinner hervorbringen.",
+   "link": "https://www.wiwo.de/politik/ausland/ki-rechenzentren-warum-die-us-midterms-den-ki-boom-ausbremsen/100267805.html",
+   "published": "2026-11-07T07:22:00+00:00",
+   "first_seen": "2026-11-07T08:00:26.998976+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche 584: Analyse: Worauf es jetzt bei Gold und Silber ankommt",
+   "summary": "Seit Wochen fallen die Preise für Edelmetalle, ausgerechnet Tech-Aktien verschärfen den Trend. Dabei könnten Rohstoffhändler schon bald vom KI-Ausverkauf profitieren.",
+   "link": "https://www.wiwo.de/finanzen/boerse/gold-und-silber-darum-laeuft-es-fuer-die-edelmetalle-so-schlecht/100267664.html",
+   "published": "2026-11-07T07:09:49+00:00",
+   "first_seen": "2026-11-07T08:00:26.998976+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "KI-Branche nach den Midterms: Wer hat Angst vor Regulierung?",
+   "summary": "Die Midterms in den USA bescheren den KI-Firmen heftige Einbußen an der Börse. Viele Wähler haben deutlich gemacht: Das ungebremste Wachstum der Branche geht ihnen zu weit.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-midterms-demokraten-ki-branche-boerse-einsturz-100.html",
+   "published": "2026-11-07T04:51:00+00:00",
+   "first_seen": "2026-11-07T08:00:26.998976+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Persönliche Daten von Studenten und Beschäftigten der TU München betroffen",
@@ -856,51 +901,6 @@
    "published": "2026-11-03T19:12:00+00:00",
    "first_seen": "2026-11-03T23:48:08.424654+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Digitalgipfel: Die letzte Warnung",
-   "summary": "Auf dem Digitalgipfel mahnt die KI-Taskforce, Deutschland verliere ohne rasches Handeln den Anschluss. Der Gipfel allein wird daran leider nichts ändern.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/digitalgipfel-ritual-der-absichtserklaerungen-statt-echter-ki-politik-201647041.html",
-   "published": "2026-11-03T19:01:28+00:00",
-   "first_seen": "2026-11-03T23:48:08.424654+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Digitalgipfel: Wie Deutschland im KI-Rennen Boden gewinnen will",
-   "summary": "Weit abgeschlagen, aber noch nicht ausgeschieden. Mit einer KI-Strategie und mehr Rechenzentren versucht die Regierung aufzuholen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-ki-strategie-aufholen-gegen-usa-und-china-201646770.html",
-   "published": "2026-11-03T19:01:03+00:00",
-   "first_seen": "2026-11-03T23:48:08.424654+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Offener Brief an Vorstand: Biontech-Betriebsrat kritisiert Umgang mit Mitarbeitern",
-   "summary": "Ein Schreiben an die Chefetage deutet darauf hin, dass es in dem Unternehmen, das sich gerade an vielen Stellen wandelt, rumort. Auch von Diskriminierung ist die Rede. Der Vorstand sucht das Gespräch.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/biontech-betriebsrat-kritisiert-umgang-mit-mitarbeitern/100267093.html",
-   "published": "2026-11-03T18:17:38+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Die Polarisierung der US-Wirtschaft ist gefährlich",
-   "summary": "Amerika wählt – doch das Land ist nicht nur politisch tief gespalten. Die Zweiteilung in KI-Gewinner und -Verlierer gefährdet den Boom, meint Jakob Blume.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-die-gefaehrliche-polarisierung-der-us-wirtschaft/100266664.html",
-   "published": "2026-11-03T17:16:50+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Midterms: Beleidigungen, üble Nachrede, KI‑Werbung: „Die aktuelle Wahl ist eine Generalprobe für 2028“",
-   "summary": "Experten registrieren eine ungewohnte Härte im zurückliegenden US‑Wahlkampf. Die Ergebnisse der Midterms werden auch das Rennen um die Trump-Nachfolge entscheiden.",
-   "link": "https://www.handelsblatt.com/politik/international/midterms-die-aktuelle-wahl-ist-eine-generalprobe-fuer-2028/100265614.html",
-   "published": "2026-11-03T17:09:52+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
   }
  ]
 }
