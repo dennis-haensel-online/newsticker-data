@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-06T21:52:50.906214+00:00",
+ "updated": "2026-11-07T01:27:38.728877+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Persönliche Daten von Studenten und Beschäftigten der TU München betroffen",
+   "summary": "Erneut hat es einen Hackerangriff auf eine deutsche Universität gegeben.",
+   "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-persoenliche-daten-von-studenten-und-beschaeftigten-der-tu-muenchen-bet-100.html",
+   "published": "2026-11-07T01:11:54+00:00",
+   "first_seen": "2026-11-07T01:27:38.728877+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
@@ -179,15 +188,6 @@
    "summary": "Bei einem Hackerangriff haben Kriminelle Kryptowährungen im Wert von 6,3 Milliarden Dollar erbeutet. Die Attacke begann wohl schon im Juni.",
    "link": "https://www.wiwo.de/finanzen/geldanlage/binance-hacker-nutzten-fingiertes-vorstellungsgespraech-fuer-cyberangriff/100267073.html",
    "published": "2026-11-03T16:48:30+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Cyberangriff: Hacker heizen Kühlgeräte auf – immer mehr Fälle auch in Deutschland",
-   "summary": "Nach Cyberangriffen auf Supermärkte müssen Händler zum Teil kiloweise verdorbene Waren entsorgen. Nun trifft es auch deutsche Händler.",
-   "link": "https://www.wiwo.de/unternehmen/handel/hackerangriffe-in-europa-supermaerkte-muessen-lebensmittel-entsorgen/100266676.html",
-   "published": "2026-11-03T16:14:00+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
    "paywall": true
   }

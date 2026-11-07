@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-06T21:52:50.906214+00:00",
+ "updated": "2026-11-07T01:27:38.728877+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Persönliche Daten von Studenten und Beschäftigten der TU München betroffen",
+   "summary": "Erneut hat es einen Hackerangriff auf eine deutsche Universität gegeben.",
+   "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-persoenliche-daten-von-studenten-und-beschaeftigten-der-tu-muenchen-bet-100.html",
+   "published": "2026-11-07T01:11:54+00:00",
+   "first_seen": "2026-11-07T01:27:38.728877+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Finanzierung: OpenAI sammelt laut Bericht elf Milliarden Dollar bei Investoren ein",
+   "summary": "Bloomberg zufolge wird der ChatGPT-Entwickler mit 1,25 Billionen Dollar bewertet. Wegen des Ausverkaufs bei KI-Aktien und Sorgen über hohe Kosten hat OpenAI seine Ziele gesenkt.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-finanzierung-openai-sammelt-laut-bericht-elf-milliarden-dollar-bei-investoren-ein/100268028.html",
+   "published": "2026-11-07T00:13:36+00:00",
+   "first_seen": "2026-11-07T01:27:38.728877+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
@@ -881,24 +899,6 @@
    "summary": "Experten registrieren eine ungewohnte Härte im zurückliegenden US‑Wahlkampf. Die Ergebnisse der Midterms werden auch das Rennen um die Trump-Nachfolge entscheiden.",
    "link": "https://www.handelsblatt.com/politik/international/midterms-die-aktuelle-wahl-ist-eine-generalprobe-fuer-2028/100265614.html",
    "published": "2026-11-03T17:09:52+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Binance: Hacker nutzten fingiertes Vorstellungsgespräch für Cyberangriff",
-   "summary": "Bei einem Hackerangriff haben Kriminelle Kryptowährungen im Wert von 6,3 Milliarden Dollar erbeutet. Die Attacke begann wohl schon im Juni.",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/binance-hacker-nutzten-fingiertes-vorstellungsgespraech-fuer-cyberangriff/100267073.html",
-   "published": "2026-11-03T16:48:30+00:00",
-   "first_seen": "2026-11-03T18:50:01.833395+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Midterms: Warum die USA das gelobte Land für Deutschlands Weltmarktführer bleiben",
-   "summary": "Audi will Milliarden investieren, wo die Hidden Champions bereits glänzende Geschäfte machen: in den USA. Firmen wie Trumpf und Ebm-papst wachsen rasant – nicht nur wegen des KI-Booms.",
-   "link": "https://www.wiwo.de/politik/ausland/midterms-2026-trotz-oder-wegen-trump-deutsche-weltmarktfuehrer-in-den-usa/100259050.html",
-   "published": "2026-11-03T16:37:24+00:00",
    "first_seen": "2026-11-03T18:50:01.833395+00:00",
    "paywall": true
   }
