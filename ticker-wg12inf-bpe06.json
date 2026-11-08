@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-08T10:54:22.928099+00:00",
+ "updated": "2026-11-08T16:51:24.557176+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Infrastruktur - Großbauprojekte Brennerbasistunnel und Fehmarnbelttunnel von Cyberattacken betroffen",
+   "summary": "Unbekannte haben bei einem Cyberangriff auf Daten der Projektgesellschaft zugegriffen, die für den Bau des Brennerbasistunnels verantwortlich ist.",
+   "link": "https://www.deutschlandfunk.de/grossbauprojekte-brennerbasistunnel-und-fehmarnbelttunnel-von-cyberattacken-betroffen-102.html",
+   "published": "2026-11-08T16:48:01+00:00",
+   "first_seen": "2026-11-08T16:51:24.557176+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sensible Daten im Darknet: G7 soll sich mit Hackerangriffen befassen",
+   "summary": "Sensible Daten von Italiens Außenminister Antonio Tajani und seiner Familie landeten im Darknet. Nun will er die mutmaßlich prorussischen Angriffe auf die G7-Agenda setzen.",
+   "link": "https://www.handelsblatt.com/politik/international/sensible-daten-im-darknet-g7-soll-sich-mit-hackerangriffen-befassen/100268233.html",
+   "published": "2026-11-08T14:36:15+00:00",
+   "first_seen": "2026-11-08T16:51:24.557176+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hackerangriff: Kryptoplattform Binance wechselt Finanzvorstand aus",
+   "summary": "Bei einem Hackerangriff verlor die Kryptobörse Binance 6,4 Milliarden Dollar. Das Unternehmen reagiert darauf personell mit einem neuen Chief Financial Officer.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/hackerangriff-kryptoplattform-binance-wechselt-finanzvorstand-aus/100268211.html",
+   "published": "2026-11-08T13:01:39+00:00",
+   "first_seen": "2026-11-08T16:51:24.557176+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Darknet - Italienischer Außenminister wird Opfer von Cyberangriff - Regierungschefin Meloni macht pro-russische Hacker verantwortlich",
@@ -154,33 +181,6 @@
    "published": "2026-11-04T17:24:47+00:00",
    "first_seen": "2026-11-04T19:05:58.143731+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cybersicherheit: Cyberangriff trifft Kühlsystem der französischen Blutbank",
-   "summary": "Nach Angriffen auf Supermärkte gerät auch die französische Blutbank ins Visier. Drei Standorte waren betroffen – und die Ermittler stehen vor einer offenen Frage.",
-   "link": "https://www.handelsblatt.com/politik/international/cybersicherheit-cyberangriff-trifft-kuehlsystem-der-franzoesischen-blutbank/100267325.html",
-   "published": "2026-11-04T16:15:35+00:00",
-   "first_seen": "2026-11-04T19:05:58.143731+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyberangriff: Diese Folgen hat der Binance-Hack für die Kryptowelt – die fünf wichtigsten Antworten",
-   "summary": "Die Preise für den Bitcoin und andere Digitalwährungen haben sich nach dem größten Krypto-Diebstahl aller Zeiten wieder normalisiert. Doch wer entschädigt die betroffenen Kunden?",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/kryptowaehrungen-diese-folgen-hat-der-binance-hack-fuer-bitcoin-ether-und-co.-01/100266746.html",
-   "published": "2026-11-04T15:24:00+00:00",
-   "first_seen": "2026-11-04T19:05:58.143731+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Cyberangriff auf Kühlanlagen: Nun auch Kühlschränke der französischen Blutbank gehackt",
-   "summary": "Nach den Hackerangriffen auf Kühlschränke in Supermärkten ist jetzt der französische Blutspendedienst betroffen. Wie ist das technisch möglich? mehr...",
-   "link": "https://taz.de/Cyberangriff-auf-Kuehlanlagen/!6227226/",
-   "published": "2026-11-04T13:32:00+00:00",
-   "first_seen": "2026-11-04T19:05:58.143731+00:00",
-   "paywall": false
   }
  ]
 }
