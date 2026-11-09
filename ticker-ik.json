@@ -1,7 +1,34 @@
 {
  "id": "ik",
- "updated": "2026-11-09T00:19:34.900931+00:00",
+ "updated": "2026-11-09T07:27:26.806210+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Migration - Mindestens 34 Migranten bei Bootsunglück vor der Küste des Senegal gestorben",
+   "summary": "Nach dem Bootsunglück vor der Küste des Senegal ist die Zahl der bestätigten Todesopfer auf 34 gestiegen.",
+   "link": "https://www.deutschlandfunk.de/mindestens-34-migranten-bei-bootsunglueck-vor-der-kueste-des-senegal-gestorben-100.html",
+   "published": "2026-11-09T07:18:15+00:00",
+   "first_seen": "2026-11-09T07:27:26.806210+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Midterms: US-Demokraten nehmen nach Wahlsieg Musk und Trump-Vertraute ins Visier",
+   "summary": "Die Kongressmehrheit will Trumps Einwanderungspolitik und mögliche Verfehlungen von Unternehmen untersuchen. Ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth wird unterstützt.",
+   "link": "https://www.handelsblatt.com/politik/international/midterms-us-demokraten-nehmen-nach-wahlsieg-musk-und-trump-vertraute-ins-visier-01/100268255.html",
+   "published": "2026-11-09T06:54:00+00:00",
+   "first_seen": "2026-11-09T07:27:26.806210+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Trump bezeichnet eigenen Abschiebekurs als \"zu hart\"",
+   "summary": "US-Präsident Donald Trump hat eingeräumt, dass seine Abschiebepolitik zu hart gewesen sei. Gleichzeitig gilt sein neuer Stabschef Stephen Miller als Hardliner bei Migration.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-trump-midterms-abschiebungen-einwanderung-ice-100.html",
+   "published": "2026-11-09T06:28:00+00:00",
+   "first_seen": "2026-11-09T07:27:26.806210+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Midterms: US-Demokraten nehmen nach Wahlsieg Musk und Trump-Vertraute ins Visier",
@@ -199,15 +226,6 @@
    "published": "2026-11-05T07:30:32+00:00",
    "first_seen": "2026-11-05T07:34:00.487452+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Migrationspolitik: Gegen den Trend: Mehr Abschiebungen in die Türkei",
-   "summary": "Mehr als 2.000 Menschen wurden bis Ende September in die Türkei abgeschoben – während Rückführungen insgesamt rückläufig sind. Schaut man auch auf freiwillige Ausreisen, ist der Trend weniger klar.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/migrationspolitik-gegen-den-trend-mehr-abschiebungen-in-die-tuerkei/100267431.html",
-   "published": "2026-11-05T03:30:14+00:00",
-   "first_seen": "2026-11-05T07:34:00.487452+00:00",
-   "paywall": true
   }
  ]
 }
