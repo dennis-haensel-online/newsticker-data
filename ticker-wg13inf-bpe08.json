@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-08T20:53:36.550692+00:00",
+ "updated": "2026-11-09T00:19:34.900931+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Spionageverdacht: Hatte Jensen Huang eine Affäre mit einer Spionin? – Nvidia will Medienberichte prüfen",
+   "summary": "Jensen Huang räumt eine Affäre mit einer mutmaßlichen chinesischen Agentin ein. Für den wichtigsten Konzern des KI-Booms beginnt die womöglich schwerste Woche seiner Geschichte.",
+   "link": "https://www.handelsblatt.com/technik/ki/spionageverdacht-nvidia-will-berichte-ueber-auslaendische-spionage-gegen-chef-pruefen/100268272.html",
+   "published": "2026-11-09T00:03:08+00:00",
+   "first_seen": "2026-11-09T00:19:34.900931+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Infrastruktur - Großbauprojekte Brennerbasistunnel und Fehmarnbelttunnel von Cyberattacken betroffen",
@@ -892,15 +901,6 @@
    "published": "2026-11-05T00:20:06+00:00",
    "first_seen": "2026-11-05T00:39:01.231774+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Silicon Valley: CoreWeave fällt, Amazon gewinnt – Wie die Midterms den KI-Sektor spalten",
-   "summary": "Nach dem demokratischen Wahlsieg droht eine Regulierungswelle für Rechenzentren. Doch während Neoclouds abstürzen, legen die Tech-Konzerne kräftig zu. Warum?",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/silicon-valley-coreweave-faellt-amazon-gewinnt-midterms-spalten-ki-konzerne/100267383.html",
-   "published": "2026-11-04T21:41:09+00:00",
-   "first_seen": "2026-11-05T00:39:01.231774+00:00",
-   "paywall": true
   }
  ]
 }
