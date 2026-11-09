@@ -1,7 +1,52 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-09T07:27:26.806210+00:00",
+ "updated": "2026-11-09T17:59:14.288313+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
+   "summary": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich.",
+   "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-102.html",
+   "published": "2026-11-09T17:54:06+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Botschafter einbestellt: Frankreich sieht Iran hinter Angriff auf Kühlanlagen",
+   "summary": "Frankreich wirft den iranischen Revolutionsgarden einen Cyberangriff auf Supermarkt-Kühlanlagen vor. Außenminister Barrot spricht von einer beispiellosen Attacke – welche Konsequenzen Paris ankündigt.",
+   "link": "https://www.handelsblatt.com/politik/international/botschafter-einbestellt-frankreich-sieht-iran-hinter-angriff-auf-kuehlanlagen/100268528.html",
+   "published": "2026-11-09T17:45:22+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Angriffe auf Kühlanlagen: Frankreich macht Revolutionsgarden als Urheber aus",
+   "summary": "Frankreich wirft Iran den Cyberangriff auf Supermarkt-Kühlanlagen vor. Außenminister Barrot spricht von beispielloser Attacke – und kündigt Konsequenzen an. mehr...",
+   "link": "https://taz.de/Frankreich-sieht-Iran-hinter-Angriff-auf-Kuehlanlagen/!6228832/",
+   "published": "2026-11-09T17:28:00+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cyberangriff: „Beispielloses Ausmaß“ – Frankreich sieht Iran hinter Angriff auf Supermarkt-Kühlschränke",
+   "summary": "Paris bestellt den iranischen Botschafter ein, weil Frankreich das Regime hinter den Hackerangriffen sieht. Außenminister Barrot spricht von einer beispiellosen Attacke.",
+   "link": "https://www.handelsblatt.com/politik/international/cyberangriff-frankreich-sieht-iran-hinter-angriff-auf-supermarkt-kuehlschraenke/100268525.html",
+   "published": "2026-11-09T17:11:18+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Paris: Iran für Kühlanlagen-Cyberangriffe verantwortlich",
+   "summary": "Nach Cyberangriffen auf Kühlanlagen hat Frankreichs Innenminister die iranischen Revolutionsgarden dafür verantwortlich gemacht.",
+   "link": "https://www.zdfheute.de/politik/ausland/frankreich-kuehlsysteme-attacken-iran-revolutionsgarden-100.html",
+   "published": "2026-11-09T16:44:00+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Infrastruktur - Großbauprojekte Brennerbasistunnel und Fehmarnbelttunnel von Cyberattacken betroffen",
@@ -135,24 +180,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-gebuendelte-kraefte-deutschland-schmiedet-neues-ki-buendnis/100267246.html",
    "published": "2026-11-05T15:14:19+00:00",
    "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Offenbar Einigung auf Einstieg des Bundes bei KNDS",
-   "summary": "Rheinmetall streicht Prognosen zusammen +++ Autozulieferer Bosch will in Abstatt 750 Stellen abbauen +++ Cyberangriff auf französische Bank verursacht mehr als 100 Millionen Euro Verlust +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bund-mit-eigentuemerfamilien-offenbar-ueber-knds-einstieg-einig-faz-200452404.html",
-   "published": "2026-11-05T12:42:22+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Autozulieferer Bosch will in Abstatt 750 Stellen abbauen",
-   "summary": "Cyberangriff auf französische Bank verursacht mehr als 100 Millionen Euro Verlust +++ Tesla eröffnet in Berlin Entwicklungszentrum +++ Deutsche Firmen in USA wieder im Aufwind – trotz Zollschranken +++ alle Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-autozulieferer-bosch-will-in-abstatt-750-stellen-abbauen-faz-200452404.html",
-   "published": "2026-11-05T07:29:32+00:00",
-   "first_seen": "2026-11-05T07:34:00.487452+00:00",
    "paywall": true
   }
  ]

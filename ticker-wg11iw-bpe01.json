@@ -1,7 +1,16 @@
 {
  "id": "wg11iw-bpe01",
- "updated": "2026-11-09T07:27:26.806210+00:00",
+ "updated": "2026-11-09T17:59:14.288313+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Daten zum Klimawandel im Überblick",
+   "summary": "Temperaturen, Emissionen und Meeresspiegel: Grafiken zeigen wichtige Daten zum Klimawandel im Überblick - und wie Deutschland beim Ausbau erneuerbarer Energien vorankommt.",
+   "link": "https://www.zdfheute.de/politik/klimawandel-deutschland-welt-folgen-daten-100.html",
+   "published": "2026-11-09T09:21:00+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": false
+  },
   {
    "label": "taz",
    "title": "Grüner Krieg: Wie sich die Waffenindustrie als nachhaltig verkauft",
@@ -72,33 +81,6 @@
    "link": "https://taz.de/Bericht-ueber-wachsende-Ungleichheit/!6227711/",
    "published": "2026-11-05T16:58:00+00:00",
    "first_seen": "2026-11-05T21:43:52.815134+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Globale Lieferketten: Inflation entkoppelt sich vom Ölpreis",
-   "summary": "Nach den US-Wahlen sinken die Ölpreise – die hohe Inflation bleibt. Verantwortlich dafür ist eine Weltwirtschaft, die sich grundlegend verändert.",
-   "link": "https://www.wiwo.de/finanzen/boerse/oelpreis-faellt-inflation-bleibt-warum-frachtraten-teuer-sind/100267513.html",
-   "published": "2026-11-05T13:55:19+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Studie: Die Reichen werden reicher, die untere Mittelschicht schrumpft",
-   "summary": "Die Armutsquote steigt, die untere Mittelschicht schrumpft. Währenddessen legen die Einkommen der Gutverdienenden am stärksten zu. Eine Studie warnt: Die Ungleichheit könne das politische System destabilisieren.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/einkommen-mittelschicht-reiche-armut-li.3574817",
-   "published": "2026-11-05T10:35:24+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Klimawandel und Biodiversität: Zwei Krisen, ein Ausweg?",
-   "summary": "Mischwälder sind widerstandsfähiger gegen Hitze und Dürre - und bieten Raum für vielfältige Pflanzen- und Tierarten. Muss Politik Klima und Biodiversität stärker zusammendenken?",
-   "link": "https://www.zdfheute.de/panorama/klimawandel-biodiversitaet-artenschutz-natur-100.html",
-   "published": "2026-11-05T09:21:00+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
    "paywall": false
   }
  ]

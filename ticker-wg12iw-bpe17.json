@@ -1,7 +1,52 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-11-09T07:27:26.806210+00:00",
+ "updated": "2026-11-09T17:59:14.288313+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Energieversorgung: Dunkelflaute treibt Strompreis auf Höchststände – was dagegen helfen könnte",
+   "summary": "Kaum Wind, wenig Sonne: Andere Kraftwerke springen derzeit zur Stromversorgung ein. Die Wirtschaftsministerin will dafür Gaskraftwerke bauen. Fördert sie die beste Technik?",
+   "link": "https://www.wiwo.de/unternehmen/energie/dunkelflaute-strompreis-erreicht-hoechststaende-was-dagegen-helfen-koennte/100268477.html",
+   "published": "2026-11-09T16:59:33+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Wettbewerbsfähigkeit: Deutschland steigt ab, stimmt das wirklich?",
+   "summary": "Exportweltmeister, Technologieführer, Innovationsmaschine, das ist lange her. Aber steht es wirklich so schlecht um die hiesige Ökonomie? Was sagen die Zahlen? Eine Prüfung in fünf Dimensionen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/wachstum-konjunktur-standort-deutschland-li.3565014",
+   "published": "2026-11-09T13:53:48+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Digitale Infrastruktur in Deutschland: Telekom erweitert KI-Rechenzentrum",
+   "summary": "Angesichts einer wachsenden Nachfrage baut die Telekom ihr Rechenzentrum in München aus. Dort sollen unter anderem KI-Modelle trainiert werden. mehr...",
+   "link": "https://taz.de/Digitale-Infrastruktur-in-Deutschland/!6228691/",
+   "published": "2026-11-09T13:23:00+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Vodafone streicht jede fünfte Stelle in Deutschland und setzt vermehrt auf KI",
+   "summary": "Vodafone verlor zuletzt Marktanteile, nun legt der Konzern ein Sparprogramm auf. Zahlreiche Jobs sollen wegfallen oder verlagert werden. Aufgaben sollen stattdessen an KI ausgelagert werden.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/vodafone-streicht-jede-fuenfte-stelle-setzt-vermehrt-auf-ki-a-9315dbd7-1f5b-4b54-bcba-94003a64bb91#ref=rss",
+   "published": "2026-11-09T11:42:00+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Tanken: Benzinpreis sinkt im Tagesschnitt wieder unter zwei Euro",
+   "summary": "Der Spritpreis ist unter eine wichtige Marke gesunken: Superbenzin E10 fiel wieder unter die Zwei-Euro-Marke, auch bei Diesel gibt es leichte Verbilligungen.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/benzinpreise-e10-diesel-adac-2-euro-oelpreis-gxe",
+   "published": "2026-11-09T10:21:22+00:00",
+   "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Innovationen: Fördert der Staat richtig? Da sind sich nicht alle Weltmarktführer einig",
@@ -54,87 +99,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/mistral-ai-wir-koennen-es-uns-nicht-leisten-den-wettbewerb-zu-verlieren/100266942.html",
    "published": "2026-11-05T16:02:13+00:00",
    "first_seen": "2026-11-05T21:43:52.815134+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
-   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/karriere-diese-ki-fragen-entscheiden-ueber-die-besetzung-von-spitzenpositionen/100240522.html",
-   "published": "2026-11-05T14:33:00+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Baukonzern: Auftragsbücher von Hochtief dank KI-Boom so voll wie nie",
-   "summary": "Der Baukonzern profitiert von wachsender Nachfrage in mehreren Zukunftsbranchen. Welche Projekte den Auftragsbestand besonders antreiben.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/baukonzern-auftragsbuecher-von-hochtief-dank-ki-boom-so-voll-wie-nie/100267647.html",
-   "published": "2026-11-05T14:30:00+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Globale Lieferketten: Inflation entkoppelt sich vom Ölpreis",
-   "summary": "Nach den US-Wahlen sinken die Ölpreise – die hohe Inflation bleibt. Verantwortlich dafür ist eine Weltwirtschaft, die sich grundlegend verändert.",
-   "link": "https://www.wiwo.de/finanzen/boerse/oelpreis-faellt-inflation-bleibt-warum-frachtraten-teuer-sind/100267513.html",
-   "published": "2026-11-05T13:55:19+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Telekommunikation: Telekom-Aktie fällt trotz Rekorden – ist Musk schuld?",
-   "summary": "Die Telekom liefert neue Rekordzahlen, doch der Kurs verliert deutlich. Steckt dahinter mehr als nur die mögliche Konkurrenz durch Starlink?",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/telekom-aktie-faellt-trotz-rekorden-ist-wirklich-musk-schuld/100267564.html",
-   "published": "2026-11-05T13:35:45+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Bosch streicht in Abstatt weitere 750 Arbeitsplätze",
-   "summary": "Sparmaßnahmen in der Autoindustrie und Konkurrenz aus Asien setzen die Mobilitätssparte von Bosch unter Druck. Das Technologieunternehmen verkündet nun einen weiteren Stellenabbau.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/bosch-streicht-in-abstatt-weitere-750-arbeitsplaetze-a-bf826fae-4ad6-4e20-9577-f6f6065346b3#ref=rss",
-   "published": "2026-11-05T11:47:00+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "KNDS: „Von Abblasen der Börsenpläne kann keine Rede sein“",
-   "summary": "Florian Hohenwarter, Chef von KNDS Deutschland, über das Festhalten an den Börsenplänen, den Panzerhochlauf – und Tugenden des deutschen Mittelstands als Wettbewerbsvorteil.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/knds-von-abblasen-der-boersenplaene-kann-keine-rede-sein/100264527.html",
-   "published": "2026-11-05T11:40:22+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "VW, Opel, Mercedes: Deutsche Autobauer verlieren Kunden an chinesische Hersteller",
-   "summary": "VW, Mercedes und BMW haben 2026 viele Kunden an chinesische Wettbewerber verloren. Das zeigt eine exklusive Auswertung von Daten der Versicherung HUK-Coburg.",
-   "link": "https://www.wiwo.de/unternehmen/auto/e-auto-praemie-vw-bmw-und-mercedes-verlieren-kunden-an-china/100267341.html",
-   "published": "2026-11-05T10:41:00+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Telekommunikation: Telekom steigert Umsatz und operativen Gewinn stärker als erwartet",
-   "summary": "Dank einer robusten Nachfrage hat die Deutsche Telekom Umsatz und Gewinn erneut gesteigert.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/deutsche-telekom-konzern-steigert-umsatz-und-operativen-gewinn-staerker-als-erwartet/100267481.html",
-   "published": "2026-11-05T07:20:46+00:00",
-   "first_seen": "2026-11-05T07:34:00.487452+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologiekonzern: Bosch streicht in Abstatt weitere 750 Arbeitsplätze",
-   "summary": "Bis Ende 2029 sollen in Abstatt 750 Stellen wegfallen. Bosch verweist auf sinkende Nachfrage in Europa und neue Anbieter aus Asien – doch welche Bereiche am Standort sind überhaupt betroffen?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/technologiekonzern-bosch-streicht-in-abstatt-weitere-750-arbeitsplaetze/100267487.html",
-   "published": "2026-11-05T07:12:29+00:00",
-   "first_seen": "2026-11-05T07:34:00.487452+00:00",
    "paywall": true
   }
  ]
