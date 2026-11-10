@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-10T16:47:16.953142+00:00",
+ "updated": "2026-11-10T22:03:48.643675+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
+   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-anthropic-macht-microsoft-konkurrenz-bei-buerosoftware/100268547.html",
+   "published": "2026-11-10T18:52:19+00:00",
+   "first_seen": "2026-11-10T22:03:48.643675+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "\"KI hat viele Chancen, den Energieverbrauch zu reduzieren\"",
+   "summary": "Große Rechenzentren haben einen hohen Energieverbrauch. Doch KI kann die Industrie effizienter machen und so Strom sparen. Das sagt Professor Peter Radgen bei ZDFheute live.",
+   "link": "https://www.zdfheute.de/politik/ausland/ki-boom-energieverbrauch-reduzieren-experte-100.html",
+   "published": "2026-11-10T17:34:00+00:00",
+   "first_seen": "2026-11-10T22:03:48.643675+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nvidia-Affäre: Huangs Geliebte tritt ein, dann ändert sich ein Firmensitz: So umgehen Chinas Tech-Unternehmen das US-Embargo",
+   "summary": "Mit einem Embargo auf Hightech-Chips wollen die USA den Rivalen China bei KI auf Abstand halten. Geschäftsverbindungen in Asien zeigen, wie die Chinesen längst auf die Technologie zugreifen.",
+   "link": "https://www.handelsblatt.com/technik/ki/nvidia-affaere-wie-chinas-tech-firmen-das-us-embargo-umgehen/100268658.html",
+   "published": "2026-11-10T17:26:59+00:00",
+   "first_seen": "2026-11-10T22:03:48.643675+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Digitalminister Karsten Wildberger: „Papiere zu machen allein hilft nicht“",
+   "summary": "Deutschland muss aufholen bei Digitalisierung und künstlicher Intelligenz, fordert der Digitalminister. „Wir haben nur noch zwölf bis 18 Monate Zeit.“",
+   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/wildberger-digitalisierung-e274661/",
+   "published": "2026-11-10T17:18:00+00:00",
+   "first_seen": "2026-11-10T22:03:48.643675+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Aktienanalyse: Die Infineon-Aktie könnte auf 100 Euro steigen",
@@ -865,42 +901,6 @@
    "published": "2026-11-08T08:25:00+00:00",
    "first_seen": "2026-11-08T10:54:22.928099+00:00",
    "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Von 2,2 bis 7,5 Prozent: Wie viel Rendite ist künftig mit Aktien drin?",
-   "summary": "Trotz KI-Knick: Zuletzt liefen die globalen Aktienmärkte gut, aber wie sieht es in den nächsten Jahren aus? Zwei Szenarien der Finanzbranche unterscheiden sich enorm.",
-   "link": "https://www.wiwo.de/finanzen/boerse/aktienrendite-prognose-wie-viel-ertrag-bringen-aktien-kuenftig/100267332.html",
-   "published": "2026-11-08T07:20:42+00:00",
-   "first_seen": "2026-11-08T10:54:22.928099+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "80er-Comeback: Die Dauerwelle ist zurück",
-   "summary": "Jahrzehntelang wurde die Dauerwelle als altmodisch abgestempelt, nun entdecken junge Menschen sie wieder. Die Frisur geht auf Social Media viral und sammelt millionenfach Klicks.",
-   "link": "https://www.zdfheute.de/video/dauerwelle-80er-trend-friseur-100.html",
-   "published": "2026-11-08T06:03:00+00:00",
-   "first_seen": "2026-11-08T10:54:22.928099+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Digitalbranche: Preisschock zu Weihnachten: KI-Chips verteuern Elektronik",
-   "summary": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf den weltweiten KI-Boom trifft, steigen die Preise für Laptops, Handys und Hardware deutlich an – teils schon um bis zu 40 Prozent.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vor-weihnachten-ki-chips-verteuern-elektronik-deutlich-accg-201662259.html",
-   "published": "2026-11-08T04:22:12+00:00",
-   "first_seen": "2026-11-08T10:54:22.928099+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handel: Preisschock zu Weihnachten: KI-Chips verteuern Elektronik",
-   "summary": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf den weltweiten KI-Boom trifft, sind die Preise für Laptops, Handys und Hardware vor Weihnachten spürbar gestiegen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/handel-preisschock-zu-weihnachten-ki-chips-verteuern-elektronik/100268159.html",
-   "published": "2026-11-08T04:00:09+00:00",
-   "first_seen": "2026-11-08T10:54:22.928099+00:00",
-   "paywall": true
   }
  ]
 }
