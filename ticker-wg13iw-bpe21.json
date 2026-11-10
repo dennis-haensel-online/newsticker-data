@@ -1,7 +1,52 @@
 {
  "id": "wg13iw-bpe21",
- "updated": "2026-11-10T08:58:02.398662+00:00",
+ "updated": "2026-11-10T16:47:16.953142+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "5G-Auktion: Der Streit um die Frequenzen betrifft alle Handykunden",
+   "summary": "An manchen Stellen mangelt es dem deutschen Mobilfunkmarkt an Wettbewerb. Vor einer wichtigen Auktion zeigt eine Umfrage die Ansprüche der Kunden.",
+   "link": "https://www.wiwo.de/unternehmen/dienstleister/5g-auktion-warum-der-frequenzstreit-alle-handykunden-betrifft/100268732.html",
+   "published": "2026-11-10T14:57:00+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Sanierung des Schienennetzes: Deutsche Bahn wird immer langsamer beim Ausbau",
+   "summary": "Kaum neue Schienenkilometer wurden dieses Jahr in Betrieb genommen – trotz Sondervermögen. Der Verkehrsminister kündigt derweil die Trendwende an. mehr...",
+   "link": "https://taz.de/Sanierung-des-Schienennetzes/!6228863/",
+   "published": "2026-11-10T14:03:00+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Energiewende: Rüge für Reiche: Kartellamt kritisiert Vergabe von Back-up-Kraftwerken",
+   "summary": "Der Aufbau der Stromnetzreserve zählt zu Katherina Reiches wichtigsten Projekten. Zehn von elf Zuschlägen gehen an nur zwei Unternehmen – Kartellamtschef Mundt rügt den Prozess.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/energiewende-kartellamt-kritisiert-vergabe-von-back-up-kraftwerken/100268781.html",
+   "published": "2026-11-10T12:34:21+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: China-Exporte: Die Eine-Billion-Dollar-Lücke ist auch Europas Schuld",
+   "summary": "Die Frage nach den Ursachen für den Überschuss wird zu einseitig beantwortet. Das europäische Lamento über Chinas WTO-Beitritt und Industriepolitik ist voller Widersprüche.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-china-exporte-die-eine-billion-luecke-ist-auch-europas-schuld/100268606.html",
+   "published": "2026-11-10T12:27:09+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Ifo-Institut: Studie sieht Zweckentfremdung bei Sondervermögen – Finanzministerium weist Kritik zurück",
+   "summary": "Das Infrastruktur-Sondervermögen sollte dem Bund mehr Spielraum für Investitionen geben. Der Bund nutzt 75 Prozent neuer Schulden einer Ifo-Studie zufolge jedoch für laufende Ausgaben.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/ifo-institut-bund-nutzt-laut-studie-grossteil-der-schulden-fuer-laufende-ausgaben/100268755.html",
+   "published": "2026-11-10T12:25:26+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": true
+  },
   {
    "label": "tagesschau",
    "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
@@ -108,6 +153,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/fiskalische-dominanz-warum-die-ezb-die-erbsuende-der-waehrungsunion-nicht-tilgen-kann-201641334.html",
    "published": "2026-11-09T14:49:09+00:00",
    "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Ordnung der Wirtschaft: Die Erbsünde der Währungsunion",
+   "summary": "Diese Hoffnung für die Europäische Währungsunion hat getrogen: Die zentrale Geldpolitik hält die nationalen Fiskalpolitiken nicht in Schach. Die fiskalische Dominanz lastet auf der wirtschaftlichen Entwicklung.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/ezb-geldpolitik-diese-hoffnung-fuer-die-waehrungsunion-hat-getrogen-201641334.html",
+   "published": "2026-11-09T14:49:09+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": true
   },
   {
@@ -226,15 +280,6 @@
    "published": "2026-11-06T13:53:58+00:00",
    "first_seen": "2026-11-06T16:29:24.896676+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Deutsche Bahn: SPD plant Eisenbahn-Fonds wie in Österreich",
-   "summary": "Ein eigenes Sondervermögen soll die langfristige Finanzierung des deutschen Bahnnetzes sichern. Die SPD-Fraktion legt dafür nun Pläne vor und kommt damit dem Verkehrsminister zuvor.",
-   "link": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-spd-plant-eisenbahn-fonds-wie-in-oesterreich-a-31e85ae9-3305-4023-a9dc-84671fd009b2#ref=rss",
-   "published": "2026-11-06T05:00:00+00:00",
-   "first_seen": "2026-11-06T08:48:46.345264+00:00",
-   "paywall": false
   }
  ]
 }

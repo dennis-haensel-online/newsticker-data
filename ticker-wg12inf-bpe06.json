@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-10T08:58:02.398662+00:00",
+ "updated": "2026-11-10T16:47:16.953142+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberangriffe - Iran weist Vorwürfe Frankreichs zurück, für Hackerangriffe auf Kühlsysteme verantwortlich zu sein",
+   "summary": "Der Iran hat den Vorwurf der französischen Regierung zurückgewiesen, für die jüngsten Cyberangriffe auf Kühlsysteme von Supermarktketten verantwortlich zu sein.",
+   "link": "https://www.deutschlandfunk.de/iran-weist-vorwuerfe-frankreichs-zurueck-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-zu-sein-100.html",
+   "published": "2026-11-10T16:22:55+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "+++ Iran-Krieg +++: Irans Militärführung droht Israel mit Vernichtung",
+   "summary": "Israels neues Parlament tritt erstmals zusammen – Opposition will Parlamentspräsident ablösen +++ Iran weist Verantwortung für Cyberangriffe auf Kühlanlagen zurück +++ Der Newsblog.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-militaerfuehrung-droht-israel-mit-vernichtung/100136895.html",
+   "published": "2026-11-10T14:50:00+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
+   "summary": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
+   "link": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
+   "published": "2026-11-10T12:00:03+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Regulierung - Nach Hackerangriff durch OpenAI-Agenten: Australien will Regeln für Tech-Konzerne verschärfen",
@@ -163,24 +190,6 @@
    "published": "2026-11-06T16:07:25+00:00",
    "first_seen": "2026-11-06T16:29:24.896676+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Stecken diese Hacker hinter den AfD-Leaks?",
-   "summary": "Hacker veröffentlichten Hunderttausende interne Dokumente der AfD. Wer steckt hinter dem Cyberangriff? Die Spur führt in die USA.",
-   "link": "https://www.zdfheute.de/politik/deutschland/hacker-afd-leak-emails-usa-100.html",
-   "published": "2026-11-06T09:00:00+00:00",
-   "first_seen": "2026-11-06T16:29:24.896676+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Disrupt: Wie eine Cloud-Plattform aus Karlsruhe die Macht der US-Giganten aufbrechen will",
-   "summary": "Was passiert, wenn die USA Europa bei der Cloud-Infrastruktur den Stecker ziehen? Elias Schneider hält das für „absolut realistisch“ und arbeitet mit seinem Start-up an einer Lösung.",
-   "link": "https://www.handelsblatt.com/audio/disrupt-podcast/disrupt-wie-codesphere-aus-karlsruhe-die-macht-der-us-giganten-aufbrechen-will/100267783.html",
-   "published": "2026-11-06T07:22:12+00:00",
-   "first_seen": "2026-11-06T08:48:46.345264+00:00",
-   "paywall": true
   }
  ]
 }

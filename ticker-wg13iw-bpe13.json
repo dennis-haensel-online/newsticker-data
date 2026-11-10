@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe13",
- "updated": "2026-11-10T08:58:02.398662+00:00",
+ "updated": "2026-11-10T16:47:16.953142+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Ifo-Institut: Studie sieht Zweckentfremdung bei Sondervermögen – Finanzministerium weist Kritik zurück",
+   "summary": "Das Infrastruktur-Sondervermögen sollte dem Bund mehr Spielraum für Investitionen geben. Der Bund nutzt 75 Prozent neuer Schulden einer Ifo-Studie zufolge jedoch für laufende Ausgaben.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/ifo-institut-bund-nutzt-laut-studie-grossteil-der-schulden-fuer-laufende-ausgaben/100268755.html",
+   "published": "2026-11-10T12:25:26+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Deutschland: Maschinenbauer werfen Bundesregierung vor, Reformen zu blockieren",
+   "summary": "Fehlende Investitionen, wachsende Bürokratie und unterlassene Reformen, die den Standort Deutschland schwächen. Die Maschinenbauer erheben schwere Vorwürfe gegen die schwarz-rote Koalition.",
+   "link": "https://www.spiegel.de/wirtschaft/deutschland-maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren-a-a24b11f7-4700-4a09-9eb6-3dcc1a5732dc#ref=rss",
+   "published": "2026-11-10T10:24:00+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Bundesetat: Ab 2028 zahlt der Bund mehr Zinsen als für Investitionen",
@@ -109,15 +127,6 @@
    "published": "2026-11-06T13:56:15+00:00",
    "first_seen": "2026-11-06T16:29:24.896676+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
-   "summary": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
-   "published": "2026-11-06T13:22:11+00:00",
-   "first_seen": "2026-11-06T16:29:24.896676+00:00",
-   "paywall": false
   }
  ]
 }

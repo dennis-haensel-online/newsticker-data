@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-11-10T08:58:02.398662+00:00",
+ "updated": "2026-11-10T16:47:16.953142+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+   "summary": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
+   "published": "2026-11-10T15:37:43+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Ahoi Steffen Henssler: Betreiber meldet für Ex-Henssler-Restaurants Insolvenz an",
+   "summary": "Vier Restaurants der Kette Ahoi Steffen Henssler und 80 Mitarbeiter sind betroffen. Der Betreiber der Lokale hat Insolvenz angemeldet. Die Restaurants sollen trotzdem geöffnet bleiben.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/ahoi-steffen-henssler-betreiber-meldet-fuer-ex-henssler-restaurants-insolvenz-an-a-19bb8933-4651-4423-9b83-e34b42cfdfde#ref=rss",
+   "published": "2026-11-10T14:10:00+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Arbeitszeit: Arbeitszeitbetrug: So können sich Unternehmen wehren",
@@ -18,6 +36,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/erdoan-gibt-den-vermittler-auf-der-un-klimakonferenz-accg-201647876.html",
    "published": "2026-11-09T08:35:16+00:00",
    "first_seen": "2026-11-09T17:59:14.288313+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "COP31 in antalya: Was hat Erdoğan vom Klimagipfel in der Türkei?",
+   "summary": "Als Gastgeber will der türkische Präsident auf der UN-Klimakonferenz eigene Schwerpunkte setzen. Bislang fällt seine klimapolitische Bilanz dürftig aus.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/un-klimakonferenz-antalya-2026-was-hat-erdoan-von-der-cop-31-in-der-tuerkei-accg-201647876.html",
+   "published": "2026-11-09T08:35:16+00:00",
+   "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": true
   },
   {
@@ -63,33 +90,6 @@
    "link": "https://www.wiwo.de/unternehmen/dienstleister/krankschreibung-doc-holiday-und-die-kriminellen-doppelgaenger-im-wartezimmer/100267551.html",
    "published": "2026-11-07T07:07:22+00:00",
    "first_seen": "2026-11-07T08:00:26.998976+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Mäc Geiz: Insolventer Discounter plant harte Schrumpfkur",
-   "summary": "Der Billig-Discounter Mäc Geiz hat ein Sanierungsprogramm vorgestellt, um der Insolvenz zu entkommen. Klar ist bereits jetzt: Etliche Filialen werden schließen müssen.",
-   "link": "https://www.spiegel.de/wirtschaft/maec-geiz-insolventer-discounter-plant-harte-schrumpfkur-a-55e5a7aa-c9c7-434c-a08d-53b178b06540#ref=rss",
-   "published": "2026-11-06T12:38:00+00:00",
-   "first_seen": "2026-11-06T16:29:24.896676+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Mäc Geiz: Insolventer Discounter plant harte Schrumpfkur - 60 Filialen vor der Schließung",
-   "summary": "Der Billig-Discounter Mäc Geiz hat ein Sanierungsprogramm vorgestellt, um der Insolvenz zu entkommen. Klar ist bereits jetzt: Etliche Filialen werden schließen müssen.",
-   "link": "https://www.spiegel.de/wirtschaft/maec-geiz-insolventer-discounter-plant-harte-schrumpfkur-60-filialen-vor-der-schliessung-a-55e5a7aa-c9c7-434c-a08d-53b178b06540#ref=rss",
-   "published": "2026-11-06T12:38:00+00:00",
-   "first_seen": "2026-11-06T21:52:50.906214+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Insolvenzverwalter: „Gut ist die Insolvenzserie von Galeria für unseren Berufsstand nicht“",
-   "summary": "Christoph Niering, Vorsitzender des Insolvenzverwalter-Verbands VID, über die Galeria-Insolvenz, Pleiten-Alarmismus und den Streit ums Berufsrecht.",
-   "link": "https://www.wiwo.de/unternehmen/insolvenzwelle-in-deutschland-vid-chef-widerspricht-alarmismus/100267690.html",
-   "published": "2026-11-06T06:49:31+00:00",
-   "first_seen": "2026-11-06T08:48:46.345264+00:00",
    "paywall": true
   }
  ]
