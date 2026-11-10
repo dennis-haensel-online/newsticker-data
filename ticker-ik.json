@@ -1,7 +1,25 @@
 {
  "id": "ik",
- "updated": "2026-11-10T01:16:34.137877+00:00",
+ "updated": "2026-11-10T08:58:02.398662+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Die Wahrheit: Vorurteile nicht wegignorieren!",
+   "summary": "Neues von der Sprachkritik: Doppelt gemoppelte Dopplungen sind für sprechende Sprecher sehr hilfreich. mehr...",
+   "link": "https://taz.de/Die-Wahrheit/!6228559/",
+   "published": "2026-11-10T06:21:00+00:00",
+   "first_seen": "2026-11-10T08:58:02.398662+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Ceuta: Migration als politische Waffe?",
+   "summary": "Im Juli überwanden Zehntausende die sonst so gut gesicherte Grenze zur spanischen Exklave. Nun soll geklärt werden, ob staatliche Akteure halfen.",
+   "link": "https://www.zdfheute.de/briefing/ceuta-migration-aufarbeitung-pontzen-zdfheute-update-100.html",
+   "published": "2026-11-10T05:45:00+00:00",
+   "first_seen": "2026-11-10T08:58:02.398662+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Jahrestag Reichspogromnacht - Steinmeier und Merz rufen bei Gedenkfeiern zu Kampf gegen Antisemitismus auf",
@@ -271,33 +289,6 @@
    "published": "2026-11-06T08:35:00+00:00",
    "first_seen": "2026-11-06T08:48:46.345264+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Investmentbank: Goldman Sachs nennt bei Partner-Beförderungen keine Diversitätsdaten mehr",
-   "summary": "Die US-Investmentbank verzichtet auf die Aufschlüsselung demografischer Daten, nennt die Vielfalt ihrer Belegschaft aber weiterhin entscheidend. Das stößt auf Kritik.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/us-investmentbank-goldman-sachs-nennt-bei-partner-befoerderungen-keine-diversitaetsdaten-mehr/100267736.html",
-   "published": "2026-11-05T21:33:20+00:00",
-   "first_seen": "2026-11-05T21:43:52.815134+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Bericht über wachsende Ungleichheit: Rassismus als Ablenkungsmanöver",
-   "summary": "Vor einem Jahr löste Friedrich Merz die Stadtbild-Debatte aus. Dabei ist die Migration kein Problem. Die Gesellschaft leidet an etwas anderem. mehr...",
-   "link": "https://taz.de/Bericht-ueber-wachsende-Ungleichheit/!6227711/",
-   "published": "2026-11-05T16:58:00+00:00",
-   "first_seen": "2026-11-05T21:43:52.815134+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Erster Migra-Streik in Halle: Täglich angefeindet",
-   "summary": "In Halle haben am Donnerstag rund 30 Mi­gran­t*in­nen ihre Geschäfte geschlossen. Es ist ein Protest gegen den zunehmenden Rassismus in Sachsen-Anhalt. mehr...",
-   "link": "https://taz.de/Erster-Migra-Streik-in-Halle/!6227722/",
-   "published": "2026-11-05T16:40:00+00:00",
-   "first_seen": "2026-11-05T21:43:52.815134+00:00",
-   "paywall": false
   }
  ]
 }
