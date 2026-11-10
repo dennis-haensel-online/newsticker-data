@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-09T17:59:14.288313+00:00",
+ "updated": "2026-11-10T01:16:34.137877+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
+   "summary": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich. Der französische Außenminister Barrot teilte mit, zu diesem Ergebnis seien Untersuchungen staatlicher Behörden gekommen.",
+   "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-106.html",
+   "published": "2026-11-10T00:59:29+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Anthropic präsentiert vor dem Börsengang verbesserte KI-Modelle",
+   "summary": "Fable 5.2 und Mythos 5.2 sind schneller und billiger als ihre Vorgänger +++ Aldi Süd erhöht Mindestlohn ab Dezember von 15 auf 16 Euro +++ Unicredit will Commerzbank zügig integrieren +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-fable-und-mythos-vor-dem-boersengang-verbessert-faz-200452404.html",
+   "published": "2026-11-09T21:50:47+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Angst vor KI: Die KI macht Anfängern den Berufseinstieg schwer",
+   "summary": "Das überrascht: In den Berufen, auf die ein besonders großer Einfluss der Künstlichen Intelligenz vermutet wird, steigt die Beschäftigung in Deutschland besonders schnell.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/die-ki-macht-anfaengern-den-berufseinstieg-schwer-201666471.html",
+   "published": "2026-11-09T20:30:24+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Deutsche Telekom: Eine KI-Fabrik, mit der die Welt rechnen soll",
+   "summary": "Die Deutsche Telekom kündigt an, ihre KI-Fabrik im Münchner Tucherpark auszubauen. Ranghohe Politiker fordern derweil mehr Tempo, damit Deutschland im KI-Zeitalter wettbewerbsfähig wird.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/telekom-erweitert-ki-fabrik-fuer-mehr-digitale-souveraenitaet-201660064.html",
+   "published": "2026-11-09T18:08:13+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "KI-Unternehmen Mistral: Französische Rezepte gegen den Kontrollverlust",
+   "summary": "Bei Cloud und Software hat Europa die Wertschöpfung anderen überlassen. Bei KI gibt es noch eine Chance, nicht abgehängt zu werden. Dabei hilft auch ein Start-up aus Frankreich.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-kuenstliche-intelligenz-europa-open-source-ki-modelle-li.3577724",
+   "published": "2026-11-09T18:07:43+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Fall Nvidia: Wie eine Affäre den KI-Boom gefährden kann",
@@ -856,51 +901,6 @@
    "published": "2026-11-06T08:14:13+00:00",
    "first_seen": "2026-11-06T08:48:46.345264+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Gesundheits-Investorin: „Biontech war nicht schnell genug“",
-   "summary": "Baillie Gifford hat lange vor der Pandemie in Moderna und Biontech investiert. Partnerin Julia Angeles erklärt, warum Biontech bei mRNA-Impfstoffen hinterherhinkt, wo noch Chancen im Abnehmmarkt liegen und dass ein erstes KI-entwickeltes…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/baillie-gifford-partnerin-biontech-fehlt-es-an-fokus-accg-201626070.html",
-   "published": "2026-11-06T07:08:50+00:00",
-   "first_seen": "2026-11-06T08:48:46.345264+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Ausverkauf bei Techaktien: Die Gründe für den Kursrutsch bei KI",
-   "summary": "Techaktien brechen massiv ein: Der Nasdaq 100 verliert über sechs Prozent. Welche Entwicklungen den Anlegern Sorgen machen.",
-   "link": "https://www.wiwo.de/finanzen/boerse/nvidia-aktie-und-co.-stuerzen-ab-warum-nasdaq-und-ki-werte-einbrechen/100267704.html",
-   "published": "2026-11-06T06:41:00+00:00",
-   "first_seen": "2026-11-06T08:48:46.345264+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Börsen: Südkoreas Börse bricht wegen Sorgen um KI und Ölpreise ein",
-   "summary": "Der Ausverkauf von Tech-Aktien in den USA belastet auch die Börsen in Asien. Besonders betroffen ist der südkoreanische Aktienmarkt. In Seoul muss der Handel kurzzeitig ausgesetzt werden.",
-   "link": "https://www.wiwo.de/finanzen/boerse/boersen-suedkoreas-boerse-bricht-wegen-sorgen-um-ki-und-oelpreise-ein/100267798.html",
-   "published": "2026-11-06T06:29:25+00:00",
-   "first_seen": "2026-11-06T08:48:46.345264+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Aus Wahleuphorie wird Wahlkater",
-   "summary": "Die Furcht vor einer schärferen KI-Regulierung hat die Wall Street auf Talfahrt geschickt, vor allem Tech-Werte brechen ein. Der DAX wird sich dem Abwärtstrend nicht entziehen können.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-   "published": "2026-11-06T06:26:17+00:00",
-   "first_seen": "2026-11-06T08:48:46.345264+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Die Wahrheit: Kuscheltest im Atombunker",
-   "summary": "In einem Geheimlabor werden KI-Toys getestet, ob sie auf den deutschen Spielzeugmarkt kommen oder zur Bundeswehr müssen. mehr...",
-   "link": "https://taz.de/Die-Wahrheit/!6224162/",
-   "published": "2026-11-06T06:15:00+00:00",
-   "first_seen": "2026-11-07T15:16:02.918777+00:00",
-   "paywall": false
   }
  ]
 }

@@ -1,7 +1,43 @@
 {
  "id": "wg13iw-bpe21",
- "updated": "2026-11-09T17:59:14.288313+00:00",
+ "updated": "2026-11-10T01:16:34.137877+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Demonstrationen - Frankreich erhöht Mindestlohn nach Sozialprotesten früher",
+   "summary": "Nach wochenlangen Protesten im Land erhöht Frankreich früher als geplant den Mindestlohn.",
+   "link": "https://www.deutschlandfunk.de/frankreich-erhoeht-mindestlohn-nach-sozialprotesten-frueher-102.html",
+   "published": "2026-11-10T00:59:29+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Anthropic präsentiert vor dem Börsengang verbesserte KI-Modelle",
+   "summary": "Fable 5.2 und Mythos 5.2 sind schneller und billiger als ihre Vorgänger +++ Aldi Süd erhöht Mindestlohn ab Dezember von 15 auf 16 Euro +++ Unicredit will Commerzbank zügig integrieren +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-fable-und-mythos-vor-dem-boersengang-verbessert-faz-200452404.html",
+   "published": "2026-11-09T21:50:47+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Mobilfunkmarkt in Deutschland: Vodafone spart mit",
+   "summary": "Vodafone streicht abermals Tausende Stellen in Deutschland, um Kosten zu sparen. Auch die Wettbewerber stehen vor denselben Herausforderungen, denn der Kampf um Kunden ist hart.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vodafone-streicht-2300-stellen-der-harte-kampf-im-deutschen-mobilfunkmarkt-201665815.html",
+   "published": "2026-11-09T20:03:14+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Deutsche Telekom: Eine KI-Fabrik, mit der die Welt rechnen soll",
+   "summary": "Die Deutsche Telekom kündigt an, ihre KI-Fabrik im Münchner Tucherpark auszubauen. Ranghohe Politiker fordern derweil mehr Tempo, damit Deutschland im KI-Zeitalter wettbewerbsfähig wird.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/telekom-erweitert-ki-fabrik-fuer-mehr-digitale-souveraenitaet-201660064.html",
+   "published": "2026-11-09T18:08:13+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Demonstrationen - Frankreich erhöht Mindestlohn nach Sozialprotesten früher",
@@ -10,6 +46,15 @@
    "published": "2026-11-09T17:54:06+00:00",
    "first_seen": "2026-11-09T17:59:14.288313+00:00",
    "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "Start-up-Wettbewerb: Das sind die Sieger des SZ Gipfelstürmer Award",
+   "summary": "Die Süddeutsche Zeitung zeichnet bei ihrem Wirtschaftsgipfel besonders innovative Start-ups aus. Die diesjährigen Gewinner produzieren klimafreundliche Energie, verbessern medizinische Diagnosen und prüfen Unternehmen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/sz-gipfelstuermer-awards-li.3565001",
+   "published": "2026-11-09T17:50:48+00:00",
+   "first_seen": "2026-11-10T01:16:34.137877+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -180,24 +225,6 @@
    "link": "https://www.handelsblatt.com/politik/deutschland/wettbewerbshueter-bundeskartellamt-soll-erstmals-von-frau-gefuehrt-werden/100267712.html",
    "published": "2026-11-05T19:06:30+00:00",
    "first_seen": "2026-11-05T21:43:52.815134+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: „Können uns nicht leisten, Wettbewerb zu verlieren“: Wie Mistral zu OpenAI und Anthropic aufschließen will",
-   "summary": "Arthur Mensch führt Europas wertvollste KI-Firma und baut laut Kanzler Merz die wichtigste Technologie unserer Zeit. Im Handelsblatt-Interview kündigt er Investitionen in Deutschland an.",
-   "link": "https://www.handelsblatt.com/technik/ki/mistral-ai-wir-koennen-es-uns-nicht-leisten-den-wettbewerb-zu-verlieren/100266942.html",
-   "published": "2026-11-05T16:02:13+00:00",
-   "first_seen": "2026-11-05T21:43:52.815134+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Frankreich: Gewerkschaften rufen zu landesweiten Streiks auf",
-   "summary": "In Frankreich ist die Stimmung weiter aufgeheizt. Am Donnerstag sind neue Proteste gegen die Wirtschafts- und Haushaltspolitik der Regierung geplant. Der Inlandsgeheimdienst rechnet mit mehreren hunderttausend Demonstrierenden.",
-   "link": "https://www.handelsblatt.com/video/politik/frankreich-gewerkschaften-rufen-zu-landesweiten-streiks-auf/100267662.html",
-   "published": "2026-11-05T15:11:20+00:00",
-   "first_seen": "2026-11-05T15:56:13.609097+00:00",
    "paywall": true
   }
  ]
