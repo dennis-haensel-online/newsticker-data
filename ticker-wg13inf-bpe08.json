@@ -1,7 +1,16 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-10T22:03:48.643675+00:00",
+ "updated": "2026-11-11T02:23:59.457315+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "KI: US-Cloud-Anbieter CoreWeave übertrifft Erwartungen – Aktie steigt",
+   "summary": "Der Cloudanbieter hebt seine Umsatzprognose für 2026 an. Im Oktober hatte die Aktie angesichts von Sorgen über die hohe Schuldenlast und eine mögliche KI-Blase mehr als 40 Prozent verloren.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-us-cloud-anbieter-coreweave-uebertrifft-erwartungen-aktie-steigt/100268896.html",
+   "published": "2026-11-10T22:32:10+00:00",
+   "first_seen": "2026-11-11T02:23:59.457315+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
@@ -892,15 +901,6 @@
    "published": "2026-11-08T08:54:20+00:00",
    "first_seen": "2026-11-08T10:54:22.928099+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Deutsche Digitalstrategie: Im KI-Wettrennen gibt es eine sinnvolle Abzweigung",
-   "summary": "Die führenden KI-Nationen kann Deutschland getrost vorbeiziehen lassen. Gezielte Investitionen in wichtigen Bereichen sollte man aber nicht verschlafen. mehr...",
-   "link": "https://taz.de/Deutsche-Digitalstrategie/!6224180/",
-   "published": "2026-11-08T08:25:00+00:00",
-   "first_seen": "2026-11-08T10:54:22.928099+00:00",
-   "paywall": false
   }
  ]
 }
