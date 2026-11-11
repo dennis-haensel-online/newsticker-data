@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-11T10:01:26.696511+00:00",
+ "updated": "2026-11-11T18:12:54.622098+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Schufa passt alte Scores zur Bewertung der Kreditwürdigkeit an neue Datenschutzvorgaben an",
+   "summary": "Wessen Bonität von der Auskunftei Schufa als schlecht bewertet wird, hat meist große Schwierigkeiten, einen Handy- oder Mietvertrag abzuschließen. Nun werden bei den Scores strengere Vorgaben umgesetzt.",
+   "link": "https://www.spiegel.de/wirtschaft/schufa-passt-alte-scores-zur-bewertung-der-kreditwuerdigkeit-an-neue-datenschutzvorgaben-an-a-7613c691-0b88-45ef-8d8e-b2ee39ceae46#ref=rss",
+   "published": "2026-11-11T16:06:00+00:00",
+   "first_seen": "2026-11-11T18:12:54.622098+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Warum Australien Regeln für Tech-Konzerne verschärfen will",
+   "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will-01/100268601.html",
+   "published": "2026-11-11T15:46:00+00:00",
+   "first_seen": "2026-11-11T18:12:54.622098+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Tausende Datensätze an Universität Tübingen betroffen",
@@ -153,33 +171,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/hackerangriff-kryptoplattform-binance-wechselt-finanzvorstand-aus/100268211.html",
    "published": "2026-11-08T13:01:39+00:00",
    "first_seen": "2026-11-08T16:51:24.557176+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Darknet - Italienischer Außenminister wird Opfer von Cyberangriff - Regierungschefin Meloni macht pro-russische Hacker verantwortlich",
-   "summary": "Der italienische Außenminister Tajani ist nach eigenen Angaben Opfer eines Hackerangriffs geworden.",
-   "link": "https://www.deutschlandfunk.de/italienischer-aussenminister-wird-opfer-von-cyberangriff-regierungschefin-meloni-macht-pro-russische-102.html",
-   "published": "2026-11-07T15:05:13+00:00",
-   "first_seen": "2026-11-07T15:16:02.918777+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Hackerattacken: Der Angriff auf die Wirklichkeit",
-   "summary": "Erst Supermärkte, dann Blutbanken – und bald vielleicht das eigene Zuhause? Cyberangriffe auf vernetzte Technik zeigen, wie nah die digitale Gefahr der realen Welt kommt.",
-   "link": "https://www.wiwo.de/unternehmen/it/hackerattacken-der-angriff-auf-die-wirklichkeit/100267901.html",
-   "published": "2026-11-07T12:41:45+00:00",
-   "first_seen": "2026-11-07T15:16:02.918777+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Hackerattacken: Erst die Supermärkte, dann das Zuhause?",
-   "summary": "Erst Supermärkte, dann Blutbanken – und bald vielleicht das eigene Zuhause? Cyberangriffe auf vernetzte Technik zeigen, wie nah die digitale Gefahr der realen Welt kommt.",
-   "link": "https://www.wiwo.de/unternehmen/it/hackerattacken-erst-die-supermaerkte-dann-das-zuhause/100267901.html",
-   "published": "2026-11-07T12:41:45+00:00",
-   "first_seen": "2026-11-07T19:44:24.040882+00:00",
    "paywall": true
   }
  ]
