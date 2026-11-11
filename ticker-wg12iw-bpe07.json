@@ -1,7 +1,70 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-11T02:23:59.457315+00:00",
+ "updated": "2026-11-11T10:01:26.696511+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Energietechnik: 4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy",
+   "summary": "Der starke Aufschwung des Konzerns soll in den kommenden Jahren weitergehen. Das schlägt sich aktuell auch in mehr Jobs nieder und freut die Börse.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/energietechnik-41-milliarden-extremer-gewinnsprung-bei-siemens-energy/100268986.html",
+   "published": "2026-11-11T09:50:57+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Warum Australien Regeln für Tech-Konzerne verschärfen will",
+   "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will/100268601.html",
+   "published": "2026-11-11T08:48:00+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Immobilien: So äußert sich Grand City Properties zum Einstieg bei LEG",
+   "summary": "Der Immobilieninvestor, hinter dem der Gewerbeimmobilienspezialist Aroundtown steht, legt das erste Mal seit dem Einstieg beim Düsseldorfer MDax-Konzern Zahlen vor.",
+   "link": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-so-aeussert-sich-grand-city-properties-zum-einstieg-bei-leg/100268810.html",
+   "published": "2026-11-11T08:30:00+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
+   "summary": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
+   "published": "2026-11-11T08:23:39+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Produktion statt Export: Auf diese drei Branchen setzen chinesische Firmen in Deutschland",
+   "summary": "Hersteller aus China sind längst auf Augenhöhe mit ihren deutschen Partnern und Konkurrenten. Wie lang behält der Standort Deutschland in den Augen chinesischer Investoren noch seinen industriellen Nimbus?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/auf-diese-drei-branchen-setzen-chinesische-firmen-in-deutschland-accg-201668085.html",
+   "published": "2026-11-11T08:01:00+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Microsoft will laut Insider Verbot chinesischer KI-Bauteile in USA verhindern",
+   "summary": "Dax-Konzern Symrise beruft neuen Finanzvorstand +++ Thyssenkrupps Betriebsratschef wechselt die Seiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-will-laut-insider-verbot-chinesischer-ki-bauteile-in-usa-verhindern-faz-200452404.html",
+   "published": "2026-11-11T03:10:00+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Investitionen: Chinesische Firmen wollen weiter in Deutschland investieren",
+   "summary": "Deutschland bleibt als Standort für das Europageschäft chinesischer Firmen relevant. Doch hohe Kosten und die Bürokratie bereiten ihnen zunehmend Sorgen.",
+   "link": "https://www.wiwo.de/politik/ausland/investitionen-chinesische-firmen-halten-an-deutschland-fest/100268921.html",
+   "published": "2026-11-11T03:01:04+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Spionage-Affäre: Nvidia-Aktie auf tiefstem Stand seit März",
@@ -666,33 +729,6 @@
    "link": "https://www.handelsblatt.com/politik/international/handelskonflikt-usa-werfen-china-verstoss-gegen-handelsdeal-vor/100268065.html",
    "published": "2026-11-07T08:56:08+00:00",
    "first_seen": "2026-11-07T15:16:02.918777+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Konzernumbau: VW in der neuen Weltordnung",
-   "summary": "Der Autokonzern steht vor einem Umbruch, auf dessen Dimension das Land noch nicht vorbereitet ist. Zunächst müssen alle Beteiligten die Realität akzeptieren.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/volkswagen-im-umbruch-ist-deutschland-auf-die-neue-realitaet-vorbereitet-201654396.html",
-   "published": "2026-11-06T21:22:40+00:00",
-   "first_seen": "2026-11-06T21:52:50.906214+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
-   "summary": "Ältere Nvidia-Chips sollen den Anforderungen des Windows-Konzerns nicht mehr genügt haben. Laut der Agentur Bloomberg überprüft Microsoft auch andere Cloud-Partnerschaften in Milliardenhöhe.",
-   "link": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
-   "published": "2026-11-06T20:52:42+00:00",
-   "first_seen": "2026-11-06T21:52:50.906214+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Unicredit will Commerzbank zügig integrieren",
-   "summary": "Rasche Fusion von Commerzbank mit HVB geplant +++ Laut Bericht will die CDU Klaus Müller für zweite Amtszeit als Netzagenturchef nominieren +++ Razzia bei der Bayerischen Versorgungskammer wegen US-Geschäft +++ alle Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unicredit-will-commerzbank-zuegig-mit-hvb-fusionieren-faz-200452404.html",
-   "published": "2026-11-06T18:46:00+00:00",
-   "first_seen": "2026-11-09T07:27:26.806210+00:00",
    "paywall": true
   }
  ]

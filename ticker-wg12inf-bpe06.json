@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-11T02:23:59.457315+00:00",
+ "updated": "2026-11-11T10:01:26.696511+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Tausende Datensätze an Universität Tübingen betroffen",
+   "summary": "Unbekannte haben einen Cyberangriff auf die Universität Tübingen verübt. Wie die Hochschule mitteilte, wurden rund 3.900 Datensätze Beschäftigter abgegriffen.",
+   "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-tausende-datensaetze-an-universitaet-tuebingen-betroffen-100.html",
+   "published": "2026-11-11T09:57:12+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: Warum Australien Regeln für Tech-Konzerne verschärfen will",
+   "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will/100268601.html",
+   "published": "2026-11-11T08:48:00+00:00",
+   "first_seen": "2026-11-11T10:01:26.696511+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "KI: US-Cloud-Anbieter CoreWeave übertrifft Erwartungen – Aktie steigt",
@@ -162,33 +180,6 @@
    "link": "https://www.wiwo.de/unternehmen/it/hackerattacken-erst-die-supermaerkte-dann-das-zuhause/100267901.html",
    "published": "2026-11-07T12:41:45+00:00",
    "first_seen": "2026-11-07T19:44:24.040882+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Medienbericht - Geheimdienste schalten sich ein nach Cyberangriffen auf Kühlregale in deutschen Supermärkten",
-   "summary": "Die Cyberangriffe auf deutsche Supermärkte beschäftigen einem Medienbericht zufolge inzwischen die Geheimdienste.",
-   "link": "https://www.deutschlandfunk.de/geheimdienste-schalten-sich-ein-nach-cyberangriffen-auf-kuehlregale-in-deutschen-supermaerkten-100.html",
-   "published": "2026-11-07T07:49:34+00:00",
-   "first_seen": "2026-11-07T08:00:26.998976+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Cyberkriminalität - Erneut Hackerangriff auf Uni: Persönliche Daten von Studenten und Beschäftigten der TU München betroffen",
-   "summary": "Erneut hat es einen Hackerangriff auf eine deutsche Universität gegeben.",
-   "link": "https://www.deutschlandfunk.de/erneut-hackerangriff-auf-uni-persoenliche-daten-von-studenten-und-beschaeftigten-der-tu-muenchen-bet-100.html",
-   "published": "2026-11-07T01:11:54+00:00",
-   "first_seen": "2026-11-07T01:27:38.728877+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cloud: Microsoft beendet laut einem Bericht den KI-Vertrag mit Oracle",
-   "summary": "Ältere Nvidia-Chips sollen den Anforderungen des Windows-Konzerns nicht mehr genügt haben. Laut der Agentur Bloomberg überprüft Microsoft auch andere Cloud-Partnerschaften in Milliardenhöhe.",
-   "link": "https://www.handelsblatt.com/technik/ki/cloud-microsoft-beendet-laut-einem-bericht-den-ki-vertrag-mit-oracle/100268017.html",
-   "published": "2026-11-06T20:52:42+00:00",
-   "first_seen": "2026-11-06T21:52:50.906214+00:00",
    "paywall": true
   }
  ]
