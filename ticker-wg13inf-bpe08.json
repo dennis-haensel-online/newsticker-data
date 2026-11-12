@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-11T18:12:54.622098+00:00",
+ "updated": "2026-11-12T01:09:58.752940+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Deutsches Start-up bringt KI aufs Gefechtsfeld",
+   "summary": "Das Rüstungsunternehmen Helsing hat eine neue KI-Software für das Gefechtsfeld vorgestellt. Sie soll schneller Ziele erkennen und Europa unabhängiger von US-Technologie machen.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/helsing-ki-krieg-militaer-software-100.html",
+   "published": "2026-11-11T19:06:00+00:00",
+   "first_seen": "2026-11-12T01:09:58.752940+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Teilhabe im Naturschutz: Wenn ein KI-Busenwunder gegen einen Nationalpark wettert",
+   "summary": "Beim sechsten Versuch, in NRW einen weiteren Nationalpark einzurichten, fragt man sich: Ist demokratische Teilhabe an Naturschutzprojekten möglich? mehr...",
+   "link": "https://taz.de/Nationalpark-in-NRW-Wenn-ein-KI-Busenwunder-gegen-einen-Nationalpark-wettert/!6228243/",
+   "published": "2026-11-11T18:45:00+00:00",
+   "first_seen": "2026-11-12T01:09:58.752940+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien legen deutlich zu",
@@ -9,6 +27,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-legen-deutlich-zu/100269138.html",
    "published": "2026-11-11T17:56:11+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus",
+   "summary": "Die hohe Inflation drückt die Stimmung nicht allzu lange: Der offenbar hohe Andrang auf den Börsengang von Anthropic sowie starke Quartalszahlen motivieren Anleger zum Kauf von Tech-Aktien.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-schliessen-deutlich-im-plus/100269138.html",
+   "published": "2026-11-11T17:56:11+00:00",
+   "first_seen": "2026-11-12T01:09:58.752940+00:00",
    "paywall": true
   },
   {
@@ -872,33 +899,6 @@
    "summary": "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält und schon 2025 vor ihr warnte. mehr...",
    "link": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
    "published": "2026-11-09T15:22:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Nvidia-Chef: Was, wenn Jensen Huang gar nicht so wichtig ist?",
-   "summary": "Nach dem Bekanntwerden der Affäre des Nvidia-Chefs mit einer chinesischen Spionin bangt die KI‑Welt. Doch Huang wäre leichter zu ersetzen, als es scheint. Ein Kommentar.",
-   "link": "https://www.wiwo.de/unternehmen/it/nvidia-chef-was-wenn-jensen-huang-gar-nicht-so-wichtig-ist/100268458.html",
-   "published": "2026-11-09T15:06:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Künstliche Intelligenz und Arbeitsmarkt: Die KI, ein Jobkiller? Das hängt vom Alter ab",
-   "summary": "Ein Frühindikator des ifo Instituts untersucht die Auswirkungen künstlicher Intelligenz auf den Arbeitsmarkt. Er zeigt: Nicht alle haben gleich viel Grund zur Sorge.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/kuenstliche-intelligenz-arbeitsmarkt-ki-ifo-institut-berufseinsteiger",
-   "published": "2026-11-09T14:36:45+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Spritpreise: Sinkender Ölpreis sorgt für Erholung bei E10, Benzin und Diesel",
-   "summary": "Ein Liter E10 im Tagesschnitt für unter zwei Euro, sogar Diesel wird günstiger: Hoffnung auf Fortschritte bei den Iranverhandlungen lässt die Ölpreise sinken. Auch die vom KI-Einbruch gebeutelten Börsen zeigen sich erholt.",
-   "link": "https://www.spiegel.de/wirtschaft/spritpreise-sinkender-oelpreis-sorgt-fuer-erholung-bei-e10-benzin-und-diesel-a-29f929ff-3e9a-4239-8c85-07942e5402ad#ref=rss",
-   "published": "2026-11-09T14:16:00+00:00",
    "first_seen": "2026-11-09T17:59:14.288313+00:00",
    "paywall": false
   }

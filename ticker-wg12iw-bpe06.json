@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-11T18:12:54.622098+00:00",
+ "updated": "2026-11-12T01:09:58.752940+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Deutsches Start-up bringt KI aufs Gefechtsfeld",
+   "summary": "Das Rüstungsunternehmen Helsing hat eine neue KI-Software für das Gefechtsfeld vorgestellt. Sie soll schneller Ziele erkennen und Europa unabhängiger von US-Technologie machen.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/helsing-ki-krieg-militaer-software-100.html",
+   "published": "2026-11-11T19:06:00+00:00",
+   "first_seen": "2026-11-12T01:09:58.752940+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien legen deutlich zu",
@@ -9,6 +18,15 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-legen-deutlich-zu/100269138.html",
    "published": "2026-11-11T17:56:11+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus",
+   "summary": "Die hohe Inflation drückt die Stimmung nicht allzu lange: Der offenbar hohe Andrang auf den Börsengang von Anthropic sowie starke Quartalszahlen motivieren Anleger zum Kauf von Tech-Aktien.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-schliessen-deutlich-im-plus/100269138.html",
+   "published": "2026-11-11T17:56:11+00:00",
+   "first_seen": "2026-11-12T01:09:58.752940+00:00",
    "paywall": true
   },
   {
@@ -513,15 +531,6 @@
    "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/familienunternehmen-demokratie-kostet-etwas-wir-nehmen-sie-als-gegeben-hin/100266923.html",
    "published": "2026-11-08T15:09:50+00:00",
    "first_seen": "2026-11-08T16:51:24.557176+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "The Spark – Der Technologiepreis: Dieses Start-up bringt Pharma-Rivalen dazu, Daten zu teilen",
-   "summary": "KI könnte die Pharmaforschung beschleunigen – doch die entscheidenden Daten bleiben unter Verschluss. Das Start-up Apheris bietet einen Ausweg. Und wird bei „The Spark“ prämiert.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/the-spark-dieses-start-up-bringt-pharma-rivalen-dazu-daten-zu-teilen/100266594.html",
-   "published": "2026-11-08T09:28:30+00:00",
-   "first_seen": "2026-11-08T10:54:22.928099+00:00",
    "paywall": true
   }
  ]
