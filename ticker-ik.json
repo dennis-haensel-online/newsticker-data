@@ -1,7 +1,43 @@
 {
  "id": "ik",
- "updated": "2026-11-12T01:09:58.752940+00:00",
+ "updated": "2026-11-12T08:58:13.668700+00:00",
  "items": [
+  {
+   "label": "SPIEGEL",
+   "title": "Bafin verhängt Millionenstrafe gegen Deutsche Bank wegen IT-Pannen bei Postbank-Kunden",
+   "summary": "Die Deutsche Bank soll wegen der Probleme bei der IT-Migration von Postbank-Kunden eine Strafe von acht Millionen Euro zahlen. Laut der Bundesanstalt für Finanzdienstleistungsaufsicht hat die Bank die Strafe akzeptiert.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/bafin-verhaengt-millionenstrafe-gegen-deutsche-bank-wegen-it-pannen-bei-postbank-kunden-a-1323fe0e-ee27-4137-a3d3-8429b0e1bf8a#ref=rss",
+   "published": "2026-11-12T08:44:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Deutsche Bank: Bafin verhängt Strafe in Millionenhöhe gegen Deutsche Bank",
+   "summary": "Die Deutsche Bank muss acht Millionen Euro wegen Versäumnissen bei der Integration der Postbank zahlen. Sie hat laut Behörde gegen das Wertpapierhandelsgesetz verstoßen.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/bafin-geldbusse-deutsche-bank-postbank-it-plattform-gxe",
+   "published": "2026-11-12T08:01:25+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BaFin-Bußgeld: Wegen Postbank-Integration – acht Millionen Euro Strafe für Deutsche Bank",
+   "summary": "Nach der Postbank-Migration verhängt die BaFin acht Millionen Euro Bußgeld gegen die Deutsche Bank. Diese sieht die Mängel als behoben an.",
+   "link": "https://www.wiwo.de/unternehmen/banken/bafin-bussgeld-acht-millionen-euro-strafe-fuer-deutsche-bank/100269315.html",
+   "published": "2026-11-12T07:44:28+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bafin: Deutsche Bank muss nach IT-Problemen bei der Postbank eine Millionenstrafe zahlen",
+   "summary": "Die Bank soll Beschwerden nach der Integration der Postbank zu langsam bearbeitet haben. Mittlerweile sind die Probleme mit der IT behoben. Doch die Bafin verhängt eine Strafe.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/it-probleme-bei-der-postbank-bafin-verhaengt-millionenstrafe-fuer-die-deutsche-bank/100269298.html",
+   "published": "2026-11-12T06:27:27+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Gesellschaft - 70 Prozent der Eingewanderten in Deutschland erwerbstätig - deutlich mehr als noch 2005",
@@ -306,42 +342,6 @@
    "link": "https://www.handelsblatt.com/politik/international/midterms-us-demokraten-nehmen-nach-wahlsieg-musk-und-trump-vertraute-ins-visier/100268255.html",
    "published": "2026-11-08T19:07:26+00:00",
    "first_seen": "2026-11-08T20:53:36.550692+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Migration - Mindestens 21 Menschen bei Bootsunglück vor senegalesischer Küste ums Leben gekommen",
-   "summary": "Bei einem Bootsunglück vor der Küste des Senegal sind mindestens 21 Menschen ums Leben gekommen.",
-   "link": "https://www.deutschlandfunk.de/mindestens-21-menschen-bei-bootsunglueck-vor-senegalesischer-kueste-ums-leben-gekommen-100.html",
-   "published": "2026-11-08T16:48:01+00:00",
-   "first_seen": "2026-11-08T16:51:24.557176+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Migration: AfD-Chef Chrupalla geht überraschend auf Distanz zu Trumps Politik",
-   "summary": "In der AfD bahnt sich ein Streit über den richtigen Kurs bei Abschiebungen an. Während die Parteispitze ein Vorgehen nach US-Vorbild ablehnt, setzen andere auf Härte.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/migration-afd-chef-chrupalla-geht-ueberraschend-auf-distanz-zu-trumps-politik/100268227.html",
-   "published": "2026-11-08T15:33:55+00:00",
-   "first_seen": "2026-11-08T16:51:24.557176+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "The Spark: Wie Inklupreneur Hürden für Menschen mit Behinderungen abbaut",
-   "summary": "Viele Unternehmen machen es Menschen mit Behinderung schwer. Die Initiative Inklupreneur will ihnen mehr Teilhabe auf dem Arbeitsmarkt ermöglichen – das fängt schon beim Fahrstuhl an.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/the-spark-wie-inklupreneur-huerden-fuer-menschen-mit-behinderungen-abbaut/100266595.html",
-   "published": "2026-11-08T15:16:17+00:00",
-   "first_seen": "2026-11-08T16:51:24.557176+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Regierungsbildung in Berlin: EKD-Ratsvorsitzende fordert klare Abgrenzung von Antisemiten",
-   "summary": "Der Umgang der Linken mit ihrer Abgeordneten Vanessa Emde sorgt seit Wochen für Diskussionen. Welche Maßstäbe legt die EKD bei Antisemitismus an Parteien an?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/regierungsbildung-in-berlin-ekd-ratsvorsitzende-fordert-klare-abgrenzung-von-antisemiten/100268220.html",
-   "published": "2026-11-08T13:39:45+00:00",
-   "first_seen": "2026-11-08T16:51:24.557176+00:00",
    "paywall": true
   }
  ]

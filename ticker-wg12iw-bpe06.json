@@ -1,7 +1,79 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-12T01:09:58.752940+00:00",
+ "updated": "2026-11-12T08:58:13.668700+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Millionen eingesammelt: Münchner Start-up will Europas Verteidigung mit räumlicher KI stärken",
+   "summary": "Das Deeptech- und Verteidigungs-Start-up SE3 hat Millionen eingeworben. Der Mitgründer erklärt, was er mit dem Geld vorhat – und welche Expansionspläne dahinterstecken.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/muenchner-start-up-se3-will-mit-raeumlicher-ki-technologie-in-europa-expandieren-accg-201658039.html",
+   "published": "2026-11-12T08:12:48+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anthropic: Diese Geschwister bauen eines der wertvollsten KI-Unternehmen der Welt",
+   "summary": "Kein Unternehmen wuchs schneller als das KI-Start-up Anthropic. Auch der anstehende Börsengang sprengt viele Dimensionen. Wer sind die Geschwister, die hinter diesem Erfolg stehen?",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/anthropic-boersengang-wer-sind-dario-und-daniela-amodei/100269114.html",
+   "published": "2026-11-12T07:36:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
+   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-wie-anthropic-mit-claude-ins-geschaeft-von-microsoft-draengt/100268547.html",
+   "published": "2026-11-12T07:01:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mobilitätswende: Der Fahrer wird zum Passagier – Jobrad-Gründer lässt das E-Bike autonom fahren",
+   "summary": "Ulrich Prediger entwickelt mit seinem Start-up Veluto ein vollverkleidetes Roboter-Zweirad. Welches Potenzial hat seine Erfindung?",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/start-up-warum-der-jobrad-gruender-ein-autonomes-roboter-e-bike-entwickelt/100266914.html",
+   "published": "2026-11-12T06:52:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Nvidia-Aufsichtsrat berät offenbar über Absetzung von Huang",
+   "summary": "Wegen der Affäre mit einer möglichen chinesischen Spionin könnte dem Nvidia-Chef die Absetzung drohen. Laut US-Berichten berät der Aufsichtsrat über die Zukunft von Jensen Huang.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-bericht-chefwechsel-jensen-huang-100.html",
+   "published": "2026-11-12T06:23:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Robotik: Humanoide Roboter aus Deutschland: Agile Robots mit 8,5 Milliarden Dollar bewertet",
+   "summary": "Das Start-up sammelt 500 Millionen Dollar ein, allen voran vom japanischen Super-Investor Softbank. Dabei geht es um eine Technologie, bei der Deutschland weltweit führend bleiben könnte.",
+   "link": "https://www.handelsblatt.com/technik/ki/robotik-agile-robots-jetzt-mit-85-milliarden-dollar-bewertet/100265688.html",
+   "published": "2026-11-12T06:10:42+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Milliardenbewertung: Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
+   "summary": "Roboter mit feinfühligen Händen und menschenähnliche Maschinen: Agile Robots zählt zu den großen Namen der Branche. Nun nimmt das bayerische Unternehmen die nächste Wachstumsstufe ins Visier.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/milliardenbewertung-muenchner-start-up-agile-robots-erhaelt-500-millionen-dollar/100269294.html",
+   "published": "2026-11-12T06:00:06+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Deutsche Wirtschaft: Neue Potenziale durch KI-Robotik?",
+   "summary": "Unter anderem der KI-Boom habe die deutsche Wirtschaft zuletzt wachsen lassen, sagt ZDF-Wirtschaftsexperte Florian Neuhann. Ein Beispiel: das Metzinger Start-up Neura Robotics.",
+   "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-wachstum-robotik-ki-reformen-wirtschaftsweise-100.html",
+   "published": "2026-11-12T03:33:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Deutsches Start-up bringt KI aufs Gefechtsfeld",
@@ -522,15 +594,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/familienunternehmen-wie-unternehmertoechter-ihre-rolle-neu-definieren-accg-201655231.html",
    "published": "2026-11-09T06:03:02+00:00",
    "first_seen": "2026-11-09T07:27:26.806210+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Familienunternehmen: Winkelmann-Chef Christian Knechtel: „Demokratie kostet etwas, wir nehmen sie als gegeben hin“",
-   "summary": "Die Winkelmann Group hat sich von der Automobilindustrie in nur wenigen Jahren unabhängig gemacht. Im Interview erklärt der erste familienfremde Firmenchef, warum er auch auf Rüstung setzt.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/familienunternehmen-demokratie-kostet-etwas-wir-nehmen-sie-als-gegeben-hin/100266923.html",
-   "published": "2026-11-08T15:09:50+00:00",
-   "first_seen": "2026-11-08T16:51:24.557176+00:00",
    "paywall": true
   }
  ]

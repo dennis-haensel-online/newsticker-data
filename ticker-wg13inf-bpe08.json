@@ -1,7 +1,133 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-12T01:09:58.752940+00:00",
+ "updated": "2026-11-12T08:58:13.668700+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Deloitte-Studie: „Pflegefinanzen unter Druck“: Milliardenpotenzial durch KI und Robotik in der Pflege",
+   "summary": "Die Pflegeausgaben könnten bis 2050 auf 305 Milliarden Euro im Jahr steigen. Technologien können den Anstieg im besten Fall bremsen, sagt eine neue Deloitte-Studie.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/pflege-was-ki-und-robotik-gegen-steigende-kosten-ausrichten-koennten/100268426.html",
+   "published": "2026-11-12T08:29:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Millionen eingesammelt: Münchner Start-up will Europas Verteidigung mit räumlicher KI stärken",
+   "summary": "Das Deeptech- und Verteidigungs-Start-up SE3 hat Millionen eingeworben. Der Mitgründer erklärt, was er mit dem Geld vorhat – und welche Expansionspläne dahinterstecken.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/muenchner-start-up-se3-will-mit-raeumlicher-ki-technologie-in-europa-expandieren-accg-201658039.html",
+   "published": "2026-11-12T08:12:48+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Anthropic: Diese Geschwister bauen eines der wertvollsten KI-Unternehmen der Welt",
+   "summary": "Kein Unternehmen wuchs schneller als das KI-Start-up Anthropic. Auch der anstehende Börsengang sprengt viele Dimensionen. Wer sind die Geschwister, die hinter diesem Erfolg stehen?",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/anthropic-boersengang-wer-sind-dario-und-daniela-amodei/100269114.html",
+   "published": "2026-11-12T07:36:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Was Experten raten: Wie es mit dem Jobwechsel klappen kann",
+   "summary": "Stellenstreichungen in der Industrie, Künstliche Intelligenz oder Unzufriedenheit können Gründe sein, sich beruflich neu zu orientieren. Doch was ist beim Jobwechsel zu beachten? Experten haben dafür Tipps. Von Lidia Wagner.",
+   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/jobwechsel-beruf-neuorientierung-100.html",
+   "published": "2026-11-12T07:29:46+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
+   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-wie-anthropic-mit-claude-ins-geschaeft-von-microsoft-draengt/100268547.html",
+   "published": "2026-11-12T07:01:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mobilitätswende: Der Fahrer wird zum Passagier – Jobrad-Gründer lässt das E-Bike autonom fahren",
+   "summary": "Ulrich Prediger entwickelt mit seinem Start-up Veluto ein vollverkleidetes Roboter-Zweirad. Welches Potenzial hat seine Erfindung?",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/start-up-warum-der-jobrad-gruender-ein-autonomes-roboter-e-bike-entwickelt/100266914.html",
+   "published": "2026-11-12T06:52:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handynetz-Betreiber: Ein Ende der Talfahrt des Mobilfunkers O2 ist nicht in Sicht",
+   "summary": "Die Telekommunikationsbranche ist im Umbruch, die Firmen setzen stärker auf Künstliche Intelligenz und bauen Jobs ab. Neben Vodafone hat auch O2 den Rotstift gezückt. Aktuelle Zahlen fallen mäßig aus.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/handynetz-betreiber-ein-ende-der-talfahrt-des-mobilfunkers-o2-ist-nicht-in-sicht/100269305.html",
+   "published": "2026-11-12T06:50:04+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Jensen Huang bei Nvidia: Er war das perfekte Ziel. Kippt jetzt der Visionär – und mit ihm der KI-Boom?",
+   "summary": "Jensen Huang ist als Nvidia-Chef die zentrale Figur für die zentrale Technologie unserer Zeit. Mit dem Skandal könnte nicht nur seine Karriere enden, sondern auch der einzigartige Status des Unternehmens.",
+   "link": "https://www.spiegel.de/wirtschaft/jensen-huang-bei-nvidia-er-war-das-perfekte-ziel-kippt-jetzt-der-visionaer-und-mit-ihm-der-ki-boom-a-a60b24c9-72d6-4eab-a8ec-684a1f965c48#ref=rss",
+   "published": "2026-11-12T06:50:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Robotik: Humanoide Roboter aus Deutschland: Agile Robots mit 8,5 Milliarden Dollar bewertet",
+   "summary": "Das Start-up sammelt 500 Millionen Dollar ein, allen voran vom japanischen Super-Investor Softbank. Dabei geht es um eine Technologie, bei der Deutschland weltweit führend bleiben könnte.",
+   "link": "https://www.handelsblatt.com/technik/ki/robotik-agile-robots-jetzt-mit-85-milliarden-dollar-bewertet/100265688.html",
+   "published": "2026-11-12T06:10:42+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Pharmakonzern: KI und Pharma beflügeln Merck – Dax-Konzern hebt Prognose erneut an",
+   "summary": "Der Pharmakonzern profitiert von einer hohen Nachfrage nach Künstlicher Intelligenz und Medikamenten gegen seltene Erkrankungen. Im dritten Quartal schneidet Merck besser ab als erwartet.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharmakonzern-ki-und-pharma-befluegeln-merck-prognose-erneut-angehoben/100269286.html",
+   "published": "2026-11-12T06:07:54+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Milliardenbewertung: Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
+   "summary": "Roboter mit feinfühligen Händen und menschenähnliche Maschinen: Agile Robots zählt zu den großen Namen der Branche. Nun nimmt das bayerische Unternehmen die nächste Wachstumsstufe ins Visier.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/milliardenbewertung-muenchner-start-up-agile-robots-erhaelt-500-millionen-dollar/100269294.html",
+   "published": "2026-11-12T06:00:06+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
+   "summary": "Eine mutmaßliche Spionin, Milliarden für KI-Chips und rätselhafte Geschäfte in Südostasien: Ein Leerverkäufer ahnt schon länger, dass da was nicht stimmt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-affaere-leitete-jensen-huang-illegal-chips-nach-china-um-accg-201674198.html",
+   "published": "2026-11-12T05:21:59+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Aktie des Chip-Riesen sackt ab: Medien: Nvidia-Aufseher beraten über Firmenchef Huang",
+   "summary": "Jensen Huang ist das Gesicht des Chip-Riesen, der zum Motor des KI-Booms wurde. Nvidia ohne den Firmenchef war bis vor kurzem noch undenkbar - könnte er dennoch wegen Affären seinen Job verlieren?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/aktie-des-chip-riesen-sackt-ab-medien-nvidia-aufseher-beraten-ueber-firmenchef-huang/100269255.html",
+   "published": "2026-11-12T04:45:46+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Deutsche Wirtschaft: Neue Potenziale durch KI-Robotik?",
+   "summary": "Unter anderem der KI-Boom habe die deutsche Wirtschaft zuletzt wachsen lassen, sagt ZDF-Wirtschaftsexperte Florian Neuhann. Ein Beispiel: das Metzinger Start-up Neura Robotics.",
+   "link": "https://www.zdfheute.de/wirtschaft/wirtschaft-wachstum-robotik-ki-reformen-wirtschaftsweise-100.html",
+   "published": "2026-11-12T03:33:00+00:00",
+   "first_seen": "2026-11-12T08:58:13.668700+00:00",
+   "paywall": false
+  },
   {
    "label": "ZDF",
    "title": "Deutsches Start-up bringt KI aufs Gefechtsfeld",
@@ -775,132 +901,6 @@
    "published": "2026-11-09T18:08:13+00:00",
    "first_seen": "2026-11-10T01:16:34.137877+00:00",
    "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "KI-Unternehmen Mistral: Französische Rezepte gegen den Kontrollverlust",
-   "summary": "Bei Cloud und Software hat Europa die Wertschöpfung anderen überlassen. Bei KI gibt es noch eine Chance, nicht abgehängt zu werden. Dabei hilft auch ein Start-up aus Frankreich.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-kuenstliche-intelligenz-europa-open-source-ki-modelle-li.3577724",
-   "published": "2026-11-09T18:07:43+00:00",
-   "first_seen": "2026-11-10T01:16:34.137877+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Fall Nvidia: Wie eine Affäre den KI-Boom gefährden kann",
-   "summary": "Jensen Huang ist das Gesicht von Nvidia. Seine Affäre und die möglichen Folgen erschüttern eines der wertvollsten Unternehmen der Welt - und die gesamte KI-Branche gleich mit.",
-   "link": "https://www.zdfheute.de/wirtschaft/nvidia-huang-affaere-folgen-ki-boom-100.html",
-   "published": "2026-11-09T17:55:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Supermärkte - Frankreich macht iranische Revolutionsgarden für Cyberangriffe auf Kühlsysteme verantwortlich",
-   "summary": "Frankreich macht die iranischen Revolutionsgarden für die Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich.",
-   "link": "https://www.deutschlandfunk.de/frankreich-macht-iranische-revolutionsgarden-fuer-cyberangriffe-auf-kuehlsysteme-verantwortlich-102.html",
-   "published": "2026-11-09T17:54:06+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Botschafter einbestellt: Frankreich sieht Iran hinter Angriff auf Kühlanlagen",
-   "summary": "Frankreich wirft den iranischen Revolutionsgarden einen Cyberangriff auf Supermarkt-Kühlanlagen vor. Außenminister Barrot spricht von einer beispiellosen Attacke – welche Konsequenzen Paris ankündigt.",
-   "link": "https://www.handelsblatt.com/politik/international/botschafter-einbestellt-frankreich-sieht-iran-hinter-angriff-auf-kuehlanlagen/100268528.html",
-   "published": "2026-11-09T17:45:22+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "KI-News aktuell: KI beschleunigt eigene Entwicklung – Demokraten wollen stärkere Regulierung",
-   "summary": "Das KI-Modell von Anthropic hat eigenständig die Bezahlschranke einer US-Behördenseite umgangen. Kimi K3.1 Pro hat OpenAIs Spitzenmodell Astra überholt.",
-   "link": "https://www.wiwo.de/unternehmen/it/ki-news-aktuell-nvidia-chef-hatte-wohl-affaere-mit-chinesischer-spionin/100245205.html",
-   "published": "2026-11-09T17:30:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Angriffe auf Kühlanlagen: Frankreich macht Revolutionsgarden als Urheber aus",
-   "summary": "Frankreich wirft Iran den Cyberangriff auf Supermarkt-Kühlanlagen vor. Außenminister Barrot spricht von beispielloser Attacke – und kündigt Konsequenzen an. mehr...",
-   "link": "https://taz.de/Frankreich-sieht-Iran-hinter-Angriff-auf-Kuehlanlagen/!6228832/",
-   "published": "2026-11-09T17:28:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyberangriff: „Beispielloses Ausmaß“ – Frankreich sieht Iran hinter Angriff auf Supermarkt-Kühlschränke",
-   "summary": "Paris bestellt den iranischen Botschafter ein, weil Frankreich das Regime hinter den Hackerangriffen sieht. Außenminister Barrot spricht von einer beispiellosen Attacke.",
-   "link": "https://www.handelsblatt.com/politik/international/cyberangriff-frankreich-sieht-iran-hinter-angriff-auf-supermarkt-kuehlschraenke/100268525.html",
-   "published": "2026-11-09T17:11:18+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Paris: Iran für Kühlanlagen-Cyberangriffe verantwortlich",
-   "summary": "Nach Cyberangriffen auf Kühlanlagen hat Frankreichs Innenminister die iranischen Revolutionsgarden dafür verantwortlich gemacht.",
-   "link": "https://www.zdfheute.de/politik/ausland/frankreich-kuehlsysteme-attacken-iran-revolutionsgarden-100.html",
-   "published": "2026-11-09T16:44:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Nvidia: Spionage-Skandal beim größten Chipkonzern der Welt – Chinas KI-Boom bröckelt",
-   "summary": "Jensen Huang, der CEO von Nvidia, hatte eine Affäre mit einer mutmaßlichen chinesischen Spionin. Was sind die Folgen für die Aktie und den Konzern? Und: Darum fallen Chinas KI-Aktien.",
-   "link": "https://www.handelsblatt.com/audio/today/today-das-bedeutet-der-spionage-skandal-fuer-die-aktie-von-nvidia/100268519.html",
-   "published": "2026-11-09T16:41:20+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
-   "summary": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
-   "published": "2026-11-09T16:09:03+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: Tech-Investor Beckers zum KI-Einbruch: „Solche Abverkäufe sind gesund“",
-   "summary": "Jan Beckers ist einer der bekanntesten Technologie-Investoren in Deutschland. Im Interview verrät er, welche Unternehmen nach dem jüngsten Kursrutsch bei Tech-Aktien besonders attraktiv sind.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/tech-investor-jan-beckers-solche-abverkaeufe-sind-gesund/100266549.html",
-   "published": "2026-11-09T15:39:32+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Die Erholung bei KI-Aktien bleibt fragil",
-   "summary": "Die Börse hat die Midterms verdaut. Nun aber sorgt die Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin für Wirbel.",
-   "link": "https://www.wiwo.de/finanzen/boerse/boersentag-die-erholung-bei-ki-aktien-bleibt-fragil/100268374.html",
-   "published": "2026-11-09T15:38:59+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Karriere: KI bedroht viele Jobs in der IT – diese halten Experten für zukunftssicher",
-   "summary": "Auf kaum eine Branche hat Künstliche Intelligenz so viel Einfluss wie auf die IT-Branche. Welche Kenntnisse bei Unternehmen künftig zählen – und wieviel Gehalt sie dafür zahlen.",
-   "link": "https://www.handelsblatt.com/karriere/technologie-entwickler-muessen-also-nicht-nur-ki-bedienen/100238210.html",
-   "published": "2026-11-09T15:36:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Portrait Jensen Huang: Der Meister der KI und sein männlicher Trieb",
-   "summary": "Der Nvidia-Chef Jensen Huang räumt eine Affäre mit einer Chinesin ein, die der US-Geheimdienst für eine Spionin hält und schon 2025 vor ihr warnte. mehr...",
-   "link": "https://taz.de/Portrait-Jensen-Huang/!6228699/",
-   "published": "2026-11-09T15:22:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
   }
  ]
 }
