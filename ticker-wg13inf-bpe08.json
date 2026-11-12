@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-12T17:22:50.690101+00:00",
+ "updated": "2026-11-12T22:58:32.813732+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
+   "summary": "Die Rüstungsfirma aus Bayern meldet einen Angriff durch „feindliche Akteure“. Die Bundeswehr hat den Einsatz der Drohnen des Unternehmens zunächst ausgesetzt.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
+   "published": "2026-11-12T20:46:19+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Drohnenhersteller: Cyberangriff auf Quantum Systems",
+   "summary": "Der deutsche Drohnenhersteller Quantum Systems ist Opfer eines Cyberangriffs geworden. Die Bundeswehr soll umgehend reagiert haben.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantum-systems-cyberangriff-auf-deutschen-drohnenhersteller-201678896.html",
+   "published": "2026-11-12T20:38:43+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wie es nach dem Rückzug Huangs weitergehen könnte",
+   "summary": "Eine mutmaßliche Spionage-Affäre, ein gestürzter Tech-Star und ein Konzern im Ausnahmezustand: Was der Abgang von Jensen Huang für Nvidia, die KI-Branche und Deutschland bedeutet.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-zukunft-ruecktritt-jensen-huang-100.html",
+   "published": "2026-11-12T20:26:00+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Rücktritt des Nvidia-Chefs: Huangs Sturz ist ein Triumph für China – und eine Blamage für Trump",
+   "summary": "Nach zwei Affären war Jensen Huang untragbar als Nvidia-Chef. Sein Rücktritt erschüttert die KI-Industrie – und wirft Fragen auf.",
+   "link": "https://www.wiwo.de/politik/ausland/ruecktritt-des-nvidia-chefs-huangs-sturz-ist-ein-triumph-fuer-china-und-eine-blamage-fuer-trump/100269526.html",
+   "published": "2026-11-12T20:13:34+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Nvidia-Chef: Der tiefe Fall des Jensen Huang",
+   "summary": "Mit dem Rücktritt von Jensen Huang als Nvidia-Chef beginnt für die globale KI-Branche eine extrem riskante Phase. Jetzt kommt es ausgerechnet auf seine Ehefrau an.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-chef-ruecktritt-jensen-huang-affaere-spionage-wall-street",
+   "published": "2026-11-12T19:58:56+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Experte zu Prognosemärkten: „Diese Märkte können Desinformation antreiben“",
+   "summary": "Wetten auf sogenannten Prediction Markets sorgten bei den US-Midterms ganz leicht für ein künstliches Wahlkampf-Momentum. Die Trump-Familie verdient mit. mehr...",
+   "link": "https://taz.de/Experte-zu-Prognosemaerkten/!6228549/",
+   "published": "2026-11-12T19:14:00+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
+   "summary": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+   "published": "2026-11-12T17:31:15+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Bundestag - Sicherheitsbehörden können bei Cyberangriffen künftig zurückschlagen",
@@ -838,69 +901,6 @@
    "published": "2026-11-10T09:23:00+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Dario und Daniela Amodei: Die mächtigsten Geschwister des Silicon Valley",
-   "summary": "Dario und Daniela Amodei haben die KI-Firma zu einem der einflussreichsten Unternehmen der Welt gemacht. Sie wollten immer mehr als nur Geld verdienen. Jetzt kommt die Probe aufs Exempel.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dario-und-daniela-amodei-koennen-die-anthropic-gruender-ihre-ideale-wahren-accg-201628308.html",
-   "published": "2026-11-10T09:08:37+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Profiteur des KI-Booms: Künstliche Intelligenz verhilft Infineon zu Rekord",
-   "summary": "Nicht allen deutschen Unternehmen geht es schlecht. Der Chiphersteller Infineon profitiert vom KI-Boom und krönt ein erfolgreiches Geschäftsjahr mit einem Rekordquartal. So soll es weitergehen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/infineon-kroent-2026-mit-rekordquartal-so-soll-es-weitergehen-accg-201667114.html",
-   "published": "2026-11-10T08:56:02+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Bundesagentur für Arbeit - Nahles: Rund 800.000 Jobs in Deutschland könnten aufgrund von KI wegfallen",
-   "summary": "Die Vorstandsvorsitzende der Bundesagentur für Arbeit, Nahles, erwartet, dass sich die Entwicklungen im Bereich der Künstlichen Intelligenz stark auf den Arbeitsmarkt in Deutschland auswirken dürften.",
-   "link": "https://www.deutschlandfunk.de/nahles-rund-800-000-jobs-in-deutschland-koennten-aufgrund-von-ki-wegfallen-102.html",
-   "published": "2026-11-10T08:49:59+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Dax-Konzern - Milliardengeschäft Rechenzentren: Gewinnsprung Dank des KI-Booms bei Chiphersteller Infineon",
-   "summary": "Der deutsche Chipkonzern Infineon hat im abgelaufenen Geschäftsjahr einen Rekordumsatz erzielt.",
-   "link": "https://www.deutschlandfunk.de/milliardengeschaeft-rechenzentren-gewinnsprung-dank-des-ki-booms-bei-chiphersteller-infineon-100.html",
-   "published": "2026-11-10T08:49:59+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Regulierung - Nach Hackerangriff durch OpenAI-Agenten: Australien will Regeln für Tech-Konzerne verschärfen",
-   "summary": "Nach einem Sicherheitsvorfall mit Künstlicher Intelligenz des US-Konzerns OpenAI verschärft Australien ⁠die Regeln ⁠für Technologiekonzerne.",
-   "link": "https://www.deutschlandfunk.de/nach-hackerangriff-durch-openai-agenten-australien-will-regeln-fuer-tech-konzerne-verschaerfen-100.html",
-   "published": "2026-11-10T08:49:59+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Geschäftszahlen +++: Softbank rutscht wegen KI-Sorgen in die Verlustzone",
-   "summary": "Henkel verzeichnet guten Start ins Quartal +++ Jungheinrich verabschiedet sich von 10-Milliarden-Umsatz-Ziel +++ Chiphersteller TSMC steigert Umsatz um 60 Prozent +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-softbank-rutscht-wegen-ki-sorgen-in-die-verlustzone/24098412.html",
-   "published": "2026-11-10T08:43:42+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Boom: Gewinnsprung bei Infineon - Milliardengeschäft Datencenter",
-   "summary": "Beim Umsatz übertrifft Infineon selbst das bisherige Rekordjahr 2023. Sorgen, dass der KI-Boom einbrechen könnte, hat Konzernchef Hanebeck nicht.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-gewinnsprung-bei-infineon-milliardengeschaeft-datencenter/100268637.html",
-   "published": "2026-11-10T08:40:42+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
   }
  ]
 }

@@ -1,7 +1,43 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-12T17:22:50.690101+00:00",
+ "updated": "2026-11-12T22:58:32.813732+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "E-Mail-Probleme: Störung bei Microsofts Cloud-E-Mail",
+   "summary": "Zahlreiche Unternehmen und Verbraucher lassen ihre E-Mails über den Outlook-Dienst von Microsoft laufen. Viele Postfächer waren plötzlich unerreichbar.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/e-mail-probleme-stoerung-bei-microsofts-cloud-e-mail/100269542.html",
+   "published": "2026-11-12T21:32:38+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
+   "summary": "Die Rüstungsfirma aus Bayern meldet einen Angriff durch „feindliche Akteure“. Die Bundeswehr hat den Einsatz der Drohnen des Unternehmens zunächst ausgesetzt.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
+   "published": "2026-11-12T20:46:19+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Drohnenhersteller: Cyberangriff auf Quantum Systems",
+   "summary": "Der deutsche Drohnenhersteller Quantum Systems ist Opfer eines Cyberangriffs geworden. Die Bundeswehr soll umgehend reagiert haben.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantum-systems-cyberangriff-auf-deutschen-drohnenhersteller-201678896.html",
+   "published": "2026-11-12T20:38:43+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
+   "summary": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+   "published": "2026-11-12T17:31:15+00:00",
+   "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Bundestag - Sicherheitsbehörden können bei Cyberangriffen künftig zurückschlagen",
