@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-11-12T22:58:32.813732+00:00",
+ "updated": "2026-11-13T03:10:07.178805+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/musk-konzern-musk-koennte-offenbar-noch-im-dezember-fusion-spacex-und-tesla-ankuendigen/100269540.html",
    "published": "2026-11-12T21:27:47+00:00",
    "first_seen": "2026-11-12T22:58:32.813732+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Musk-Konzern: Musk könnte offenbar noch im Dezember Fusion von SpaceX und Tesla ankündigen",
+   "summary": "Laut einem Medienbericht könnte der Musk-Megakonzern bereits in wenigen Wochen bekannt gegeben werden. Der Tesla-Gründer hatte das Vorhaben im Oktober als „gute Idee“ bezeichnet.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/musk-konzern-musk-koennte-offenbar-noch-im-dezember-fusion-von-spacex-und-tesla-ankuendigen/100269540.html",
+   "published": "2026-11-12T21:27:47+00:00",
+   "first_seen": "2026-11-13T03:10:07.178805+00:00",
    "paywall": true
   },
   {
@@ -442,15 +451,6 @@
    "published": "2026-11-09T17:50:48+00:00",
    "first_seen": "2026-11-10T01:16:34.137877+00:00",
    "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Proteste in Frankreich: Mit fünf Euro mehr abgespeist",
-   "summary": "Die französische Regierung kündigt eine magere Erhöhung des Mindestlohns an. Die Gewerkschaften reagieren empört und rufen zu weiteren Aktionen auf. mehr...",
-   "link": "https://taz.de/Proteste-in-Frankreich/!6228720/",
-   "published": "2026-11-09T15:27:00+00:00",
-   "first_seen": "2026-11-09T17:59:14.288313+00:00",
-   "paywall": false
   }
  ]
 }
