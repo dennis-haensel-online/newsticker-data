@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe10",
- "updated": "2026-11-13T03:10:07.178805+00:00",
+ "updated": "2026-11-13T11:43:23.944314+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Bayerisches Unternehmen - Drohnenhersteller Quantum Systems meldet Cyberangriff",
+   "summary": "Der deutsche Drohnenhersteller Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden.",
+   "link": "https://www.deutschlandfunk.de/drohnenhersteller-quantum-systems-meldet-cyberangriff-100.html",
+   "published": "2026-11-13T11:34:19+00:00",
+   "first_seen": "2026-11-13T11:43:23.944314+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Quantum Systems: Bundeswehr-Drohnen fliegen nach Cyberangriff wieder",
+   "summary": "Quantum-Drohnen unterstützen die ukrainischen Streitkräfte, nun meldet der Hersteller einen Cyberangriff durch feindliche Akteure.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-drohnenhersteller-meldet-cyberangriff/100269620.html",
+   "published": "2026-11-13T10:32:10+00:00",
+   "first_seen": "2026-11-13T11:43:23.944314+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Quantum Systems: Cyberangriff auf deutschen Drohnenhersteller",
+   "summary": "Quantum Systems beliefert auch die Ukraine mit Drohnen. Das Start-up aus Bayern hat nach eigenen Angaben nun einen Cyberangriff feindlicher Akteure eingedämmt.",
+   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/cyberangriff-quantum-systems-ruestungs-start-up-100.html",
+   "published": "2026-11-13T10:30:00+00:00",
+   "first_seen": "2026-11-13T11:43:23.944314+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
@@ -100,15 +127,6 @@
    "published": "2026-11-10T13:14:33+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Ukraine-Krieg - Ein Toter nach Drohnenangriff auf Atomkraftwerk Saporischschja",
-   "summary": "Bei einem Drohnenangriff auf das russisch besetzte Atomkraftwerk Saporischschja in der Ukraine ist nach Angaben der Internationalen Atomenergiebehörde IAEA ein Beschäftigter getötet worden.",
-   "link": "https://www.deutschlandfunk.de/ein-toter-nach-drohnenangriff-auf-atomkraftwerk-saporischschja-102.html",
-   "published": "2026-11-10T00:59:29+00:00",
-   "first_seen": "2026-11-10T01:16:34.137877+00:00",
-   "paywall": false
   }
  ]
 }
