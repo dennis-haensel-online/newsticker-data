@@ -1,7 +1,52 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-13T11:43:23.944314+00:00",
+ "updated": "2026-11-13T18:56:57.080245+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Bundesstatistiker - Zahl der Firmenpleiten im August angestiegen - Höchster Stand seit 13 Jahren",
+   "summary": "Die Zahl der Unternehmens-Insolvenzen in Deutschland ist im August weiter angestiegen.",
+   "link": "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-im-august-angestiegen-hoechster-stand-seit-13-jahren-102.html",
+   "published": "2026-11-13T18:53:24+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Privatanleger können sich am Mega-Börsengang von Anthropic beteiligen – sollten sie es auch?",
+   "summary": "Der erste große KI-Entwickler geht an die Börse. Privatanleger können sich bereits vor dem Börsenstart beteiligen. Vor allem der Vergleich mit anderen IPOs bietet Orientierung.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-privatanleger-koennen-die-anthropic-aktie-zeichnen-sollten-sie-es-auch/100269156.html",
+   "published": "2026-11-13T18:00:32+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Mercedes-Vorstand droht Arbeitnehmern: Werksschließungen und kein Geld für deutsche Werke",
+   "summary": "Der Autobauer warnt den Betriebsrat und IG Metall: Wenn die Kosten nicht sinken, drohen Werksschließungen. Und stoppt für Investitionen in Deutschland. mehr...",
+   "link": "https://taz.de/Mercedes-Vorstand-droht-Arbeitnehmern/!6229788/",
+   "published": "2026-11-13T16:59:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Kompletter Vorstand weg: Was hinter dem Führungsbeben bei Hugo Boss steckt",
+   "summary": "Binnen zwei Monaten sind der Aufsichtsratschef und der komplette Vorstand gegangen. Was das mit dem neuen britischen Mehrheitsaktionär Frasers zu tun hat.",
+   "link": "https://www.wiwo.de/unternehmen/handel/hugo-boss-was-hinter-dem-ruecktritt-von-daniel-grieder-steckt/100269646.html",
+   "published": "2026-11-13T14:10:36+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Firmengründung: Deutsche gründen mehr Firmen – auch mangels Alternativen am Jobmarkt",
+   "summary": "Die Unternehmensgründungen in Deutschland legen zu. Doch hinter dem Plus stehen nicht nur neue Märkte, sondern auch fehlende Jobalternativen.",
+   "link": "https://www.wiwo.de/erfolg/gruender/firmengruendung-deutsche-gruenden-mehr-firmen-auch-mangels-alternativen/100269693.html",
+   "published": "2026-11-13T13:25:39+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Mercedes-Sparkurs: Jetzt spricht der Betriebsrat",
@@ -595,87 +640,6 @@
    "published": "2026-11-10T14:01:00+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IPO: Anthropic will 64 Milliarden Dollar mit Börsengang einnehmen",
-   "summary": "Das KI-Startup legt sein Börsenprospekt vor. Zuvor hatte ein Mitarbeiter offenbar versehentlich Informationen zum Börsengang an mehrere Banken verschickt.",
-   "link": "https://www.handelsblatt.com/technik/ki/ipo-anthropic-will-644-milliarden-dollar-mit-boersengang-einnehmen/100268723.html",
-   "published": "2026-11-10T12:11:16+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Panne bei Anthropic: Sensibles Dokument zu früh verschickt",
-   "summary": "Ein Mitarbeiter von Anthropic vertut sich offenbar im Empfängerkreis. Was das Dokument über die Pläne zum Börsengang der KI-Firma verrät.",
-   "link": "https://www.zdfheute.de/wirtschaft/anthropic-boersengang-panne-100.html",
-   "published": "2026-11-10T10:36:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-   "summary": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
-   "published": "2026-11-10T09:42:31+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Rüstungs-Start-ups: Soll man Waffen präsentieren wie Autos oder Smartphones?",
-   "summary": "Ein Hauch von Tesla und Apple: Junge Rüstungsunternehmen inszenieren sich auf großer Bühne. Nicht jeder findet an der Show Gefallen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/helsing-quantum-systems-und-co-ein-hauch-von-tesla-und-apple-accg-201656578.html",
-   "published": "2026-11-10T09:33:06+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Banken: Crédit Agricole plant wohl Zugeständnisse für Banco-BPM-Fusion",
-   "summary": "Die italienische Regierung hatte zuletzt Bedenken über die Fusion geäußert. Nun will der französische Eigentümer den italienischen Sparern neue Zusagen machen.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-credit-agricole-plant-wohl-zugestaendnisse-fuer-banco-bpm-fusion/100268697.html",
-   "published": "2026-11-10T08:51:45+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Rüstungshersteller Hensoldt erhält 100.000 Bewerbungen",
-   "summary": "Umsatz von Hensoldt soll stark wachsen +++ Anthropic rüstet sich für Börsengang +++ Aldi Süd erhöht Mindestlohn ab Dezember von 15 auf 16 Euro +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bewerber-rennen-ruestungshersteller-hensoldt-die-tuer-ein-faz-200452404.html",
-   "published": "2026-11-10T07:40:00+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Benko-Pleite: Wie aus Geschäftsfreunden erbitterte Gegner wurden",
-   "summary": "Das Landesgericht Innsbruck gibt René Benko für Täuschung mit einer Fünf-Millionen-Garantie zwei weitere Jahre Haft – ein teurer Bruch des Vertrauens. Die Prozessserie setzt sich indes fort. An der Salamitaktik gibt es auch Kritik.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/prozesse-um-rene-benko-bekommen-anleger-ihr-geld-zurueck-accg-201661229.html",
-   "published": "2026-11-10T07:16:11+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Nvidia hat nun das FBI und eine Sammelklage am Hals",
-   "summary": "Wegen der Affäre des Nvidia-Chefs ermittelt auch das FBI. Zusätzlichen Druck bekommt der Chiphersteller durch eine Sammelklage von Aktionären.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-huang-fbi-ermittlungen-100.html",
-   "published": "2026-11-10T07:10:00+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Insight Innovation: Mehr Reichweite, mehr Beweglichkeit: Wie Doppelrotoren den Elektromotor revolutionieren",
-   "summary": "Ein Münchener Start-up entwickelt einen neuartigen Elektromotor, der die Autobranche aufhorchen lässt. Das Konzept könnte auch für eine ganz andere Schlüsseltechnologie wichtig werden.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/e-autos-dieses-deutsche-start-up-denkt-den-elektromotor-neu/100261664.html",
-   "published": "2026-11-10T07:09:00+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
   }
  ]
 }

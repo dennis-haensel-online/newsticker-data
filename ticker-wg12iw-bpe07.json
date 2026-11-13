@@ -1,7 +1,61 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-13T11:43:23.944314+00:00",
+ "updated": "2026-11-13T18:56:57.080245+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "CEO-Wechsel: Andere Konzerne holen sich Starmanager, bei Gea machen sie ein Assessment-Center",
+   "summary": "Gea-Chef Stefan Klebert hat seinen Rücktritt angekündigt. Sein Nachfolger schlug in einem internen Auswahlverfahren alle Wettbewerber um Längen.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/gea-chef-klebert-geht-klaus-stojentin-wird-neuer-ceo/100269650.html",
+   "published": "2026-11-13T18:50:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Jensen ist weg – jetzt muss Nvidia liefern",
+   "summary": "Sollte Nvidia seine Prognose von rund 70 Prozent Umsatzwachstum für das kommende Geschäftsjahr bestätigen, dürfte das der Aktie Rückenwind geben. Wie wird Colette Kress den Konzern führen?",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-jensen-ist-weg-jetzt-muss-nvidia-liefern/100269782.html",
+   "published": "2026-11-13T15:05:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Microsoft 365: „Und die halbe Weltverwaltung stand zwölf Stunden still“",
+   "summary": "Eine Störung bei Microsoft behindert Menschen und Unternehmen weltweit. Die Server des Konzerns waren nach einem Fehler überfordert – langsam laufen viele Systeme wieder normal.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-heute-weltweit-outlook-probleme-teams-li.3579791",
+   "published": "2026-11-13T14:53:39+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Microsoft-Störung: „Microsoft 364“ – ein Witz offenbart den Vertrauensverlust",
+   "summary": "Ein Ausfall bei Microsoft entlarvt, wie gefährlich die digitale Monokultur geworden ist. Und schürt im Konzern die Sorge, dass die Kunden Konsequenzen daraus ziehen könnten.",
+   "link": "https://www.wiwo.de/unternehmen/it/microsoft-365-stoerung-wie-gefaehrlich-ist-das-klumpenrisiko/100269734.html",
+   "published": "2026-11-13T14:30:56+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Outlook-Störung: Microsoft meldet Besserung nach massivem Ausfall",
+   "summary": "Ein weltweiter Ausfall von Microsoft-Diensten wie Outlook und Teams hat Wirtschaft und Börsen getroffen. Allmählich behebt der Konzern die Störung.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/outlook-stoerung-microsoft-meldet-fortschritte-nach-ausfall/100269543.html",
+   "published": "2026-11-13T13:30:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Autokonzern in der Krise: Mercedes stellt jetzt selbst die Autofabrik Sindelfingen infrage",
+   "summary": "Im Streit mit den Arbeitnehmern erhöht die Mercedes-Führung den Druck. Sie stoppt alle Investitionen an deutschen Standorten. Und konkretisiert ihre Pläne für mögliche Werksschließungen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/krise-mercedes-stellt-selbst-werk-sindelfingen-in-frage-accg-201680335.html",
+   "published": "2026-11-13T12:53:55+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Mercedes-Sparkurs: Jetzt spricht der Betriebsrat",
@@ -766,141 +820,6 @@
    "published": "2026-11-10T14:01:00+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Gasspeicher: Uniper sieht sich für einen kalten Winter gut gerüstet",
-   "summary": "Der Konzern meldet einen deutlich höheren Speicherfüllstand als im deutschen Durchschnitt. Nun bereitet sich der Konzern auf eine Reprivatisierung vor.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/uniper-gas-speicher-fuellstaende-winter-li.3578357",
-   "published": "2026-11-10T13:32:21+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Japan: Softbanks KI-Wette – der Konzern schreibt rote Zahlen",
-   "summary": "Hohes Risiko, hoher Gewinn, so war es gedacht. Softbank-Gründer Son hat alles auf KI und Roboter gesetzt – nun trifft ihn der Abwärtstrend hart. Ein weiteres Risiko ist der Konzernchef selbst.",
-   "link": "https://www.handelsblatt.com/technik/ki/japan-softbanks-ki-wette-der-konzern-schreibt-rote-zahlen/100267196.html",
-   "published": "2026-11-10T13:29:51+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Mercedes: Das Beste oder nichts? Tja.",
-   "summary": "Mercedes-Chef Ola Källenius will den Konzern so führen wie das Formel-1-Team: irren, dazulernen, besser werden. Inzwischen aber fragen manche, ob es langsam nicht ein paar Korrekturen zu viel werden.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/mercedes-krise-ola-kaellenius-li.3570541",
-   "published": "2026-11-10T12:56:35+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bundestag: Verfassungsschutz soll Kooperation mit Land begrenzen können",
-   "summary": "Mit der AfD könnte in Sachsen-Anhalt eine Partei an die Regierung kommen, die der Verfassungsschutz im Blick hat. Was wird dann aus der Zusammenarbeit im Sicherheitsbereich?",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bundestag-verfassungsschutz-soll-kooperation-mit-land-begrenzen-koennen/100268797.html",
-   "published": "2026-11-10T12:03:13+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Vor Kapitalmarkttag: Uniper will Investoren locken",
-   "summary": "Vor seinem Kapitalmarkttag macht sich der verstaatlichte Uniper-Konzern für Anleger hübsch. Doch die Erzählung ist nach der Schlappe in der ersten Gaskraftwerks-Auktionsrunde keine einfache.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/uniper-wirbt-vor-kapitalmarkttag-um-investoren-accg-201668337.html",
-   "published": "2026-11-10T11:51:13+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Infineon: Chiphersteller Infineon schließt Geschäftsjahr mit Gewinnzuwachs",
-   "summary": "Der Münchener Konzern Infineon profitiert vom Boom der künstlichen Intelligenz. Der Gewinn des Chipherstellers stieg im Vergleich zum Vorjahr um fast 50 Prozent.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/infineon-kuenstliche-intelligenz-gewinn-rechenzentren-dax-gxe",
-   "published": "2026-11-10T11:30:21+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Deutschland: Maschinenbauer werfen Bundesregierung vor, Reformen zu blockieren",
-   "summary": "Fehlende Investitionen, wachsende Bürokratie und unterlassene Reformen, die den Standort Deutschland schwächen. Die Maschinenbauer erheben schwere Vorwürfe gegen die schwarz-rote Koalition.",
-   "link": "https://www.spiegel.de/wirtschaft/deutschland-maschinenbauer-werfen-bundesregierung-vor-reformen-zu-blockieren-a-a24b11f7-4700-4a09-9eb6-3dcc1a5732dc#ref=rss",
-   "published": "2026-11-10T10:24:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Reformen: Maschinenbauverband fordert schnellere Reformen von Bundesregierung",
-   "summary": "Der Verband der Maschinenbauer kritisiert die Bundesregierung für ihr Zögern bei Reformen. Der »sichtbar werdende Abstieg« des Standorts Deutschland mache fassungslos.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/bertram-kawlath-vdma-bundesregierung-koalitionsstreit-reformen-arbeitsmarkt-gxe",
-   "published": "2026-11-10T09:54:29+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
-   "summary": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet. Von G. Biesinger.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
-   "published": "2026-11-10T09:42:31+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Banken: Crédit Agricole plant wohl Zugeständnisse für Banco-BPM-Fusion",
-   "summary": "Die italienische Regierung hatte zuletzt Bedenken über die Fusion geäußert. Nun will der französische Eigentümer den italienischen Sparern neue Zusagen machen.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-credit-agricole-plant-wohl-zugestaendnisse-fuer-banco-bpm-fusion/100268697.html",
-   "published": "2026-11-10T08:51:45+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Dax-Konzern - Milliardengeschäft Rechenzentren: Gewinnsprung Dank des KI-Booms bei Chiphersteller Infineon",
-   "summary": "Der deutsche Chipkonzern Infineon hat im abgelaufenen Geschäftsjahr einen Rekordumsatz erzielt.",
-   "link": "https://www.deutschlandfunk.de/milliardengeschaeft-rechenzentren-gewinnsprung-dank-des-ki-booms-bei-chiphersteller-infineon-100.html",
-   "published": "2026-11-10T08:49:59+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Regulierung - Nach Hackerangriff durch OpenAI-Agenten: Australien will Regeln für Tech-Konzerne verschärfen",
-   "summary": "Nach einem Sicherheitsvorfall mit Künstlicher Intelligenz des US-Konzerns OpenAI verschärft Australien ⁠die Regeln ⁠für Technologiekonzerne.",
-   "link": "https://www.deutschlandfunk.de/nach-hackerangriff-durch-openai-agenten-australien-will-regeln-fuer-tech-konzerne-verschaerfen-100.html",
-   "published": "2026-11-10T08:49:59+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Boom: Gewinnsprung bei Infineon - Milliardengeschäft Datencenter",
-   "summary": "Beim Umsatz übertrifft Infineon selbst das bisherige Rekordjahr 2023. Sorgen, dass der KI-Boom einbrechen könnte, hat Konzernchef Hanebeck nicht.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-boom-gewinnsprung-bei-infineon-milliardengeschaeft-datencenter/100268637.html",
-   "published": "2026-11-10T08:40:42+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Nvidia-CEO Jensen Huang: Klage gegen Nvidia-Chef – Trump verteidigt ihn",
-   "summary": "Nvidia-Chef Jensen Huang gerät wegen mutmaßlicher Spionageverbindungen unter Druck. Eine Sammelklage wirft ihm und dem Konzern vor, Anleger getäuscht zu haben.",
-   "link": "https://www.wiwo.de/unternehmen/it/jensen-huang-klage-gegen-nvidia-chef-donald-trump-verteidigt-ihn/100268647.html",
-   "published": "2026-11-10T08:27:00+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Energiewirtschaft: Gasspeicher: Uniper sieht sich für Winter gut gerüstet",
-   "summary": "Uniper meldet einen deutlich höheren Speicherfüllstand als im deutschen Schnitt und sieht sich für einen kalten Winter gewappnet. Nun bereitet sich der Konzern auf eine Reprivatisierung vor.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/energiewirtschaft-gasspeicher-uniper-sieht-sich-fuer-winter-gut-geruestet/100268683.html",
-   "published": "2026-11-10T08:18:57+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": true
   }
  ]
 }

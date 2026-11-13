@@ -1,7 +1,169 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-13T11:43:23.944314+00:00",
+ "updated": "2026-11-13T18:56:57.080245+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
+   "summary": "Der Bundestag hat den Gesetzentwurf zur Reform der Geheimdienste gebilligt. Mit der Novelle werden die Befugnisse des Bundesnachrichtendienstes und des Bundesamts für Verfassungsschutz zur Abwehr von Sabotage, Spionage und Cyberangriffen…",
+   "link": "https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html",
+   "published": "2026-11-13T18:53:24+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Kampf gegen Waffenschmuggel - Bundestag verlängert Mandate für zwei Bundeswehreinsätze im Mittelmeer",
+   "summary": "Die Bundeswehr beteiligt sich auch im kommenden Jahr an der NATO-Mission \"Sea Guardian\" zur Überwachung des Mittelmeers.",
+   "link": "https://www.deutschlandfunk.de/bundestag-verlaengert-mandate-fuer-zwei-bundeswehreinsaetze-im-mittelmeer-100.html",
+   "published": "2026-11-13T18:53:24+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Cyberattacken - BSI warnt vor anhaltenden IT-Schwachstellen in Kühlsystemen",
+   "summary": "Nach den jüngsten Hackerangriffen auf gewerbliche Kühlsysteme hat das Bundesamt für Sicherheit in der Informationstechnik - BSI - vor weiter existierenden Schwachstellen ‌gewarnt.",
+   "link": "https://www.deutschlandfunk.de/bsi-warnt-vor-anhaltenden-it-schwachstellen-in-kuehlsystemen-100.html",
+   "published": "2026-11-13T18:53:24+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Microsoft und Nvidia: US-Börsen fallen – Nvidia-Talfahrt setzt KI-Aktien unter Druck",
+   "summary": "Die Wall Street gerät zum Wochenausklang unter Druck: Kursverluste bei Nvidia nach dem Chef-Rücktritt und ein Microsoft-Ausfall belasten die US-Techaktien.",
+   "link": "https://www.wiwo.de/finanzen/boerse/us-boersen-im-minus-nvidia-und-microsoft-druecken-techwerte/100269787.html",
+   "published": "2026-11-13T18:37:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Privatanleger können sich am Mega-Börsengang von Anthropic beteiligen – sollten sie es auch?",
+   "summary": "Der erste große KI-Entwickler geht an die Börse. Privatanleger können sich bereits vor dem Börsenstart beteiligen. Vor allem der Vergleich mit anderen IPOs bietet Orientierung.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-privatanleger-koennen-die-anthropic-aktie-zeichnen-sollten-sie-es-auch/100269156.html",
+   "published": "2026-11-13T18:00:32+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Handelsblatt Live: US-Börsenexperte Koch: Ausverkauf der Chip-Aktien ausgebremst",
+   "summary": "Auch am Freitag stehen Aktien im KI-Sektor weiter unter Druck, jedoch weniger als in den vergangenen Tagen. Nvidia-Papiere verlieren rund ein Prozent und AMD mehr als fünf Prozent, berichtet Markus Koch.",
+   "link": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-ausverkauf-der-chip-aktien-ausgebremst/100269803.html",
+   "published": "2026-11-13T16:59:29+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+   "summary": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan…",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+   "published": "2026-11-13T16:02:19+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenWoche 585: Warum der Nvidia-Effekt auf KI-Aktien nur vorübergehend sein dürfte",
+   "summary": "Die Affären des Ex-Nvidia-Chefs Jensen Huang belasten die Kurse mancher Branchenaktien. Doch mittelfristig zählen Zahlen – und die sehen gut aus.",
+   "link": "https://www.wiwo.de/finanzen/boerse/jensen-huang-affaere-was-der-nvidia-schock-fuer-ki-aktien-heiss/100269313.html",
+   "published": "2026-11-13T15:52:06+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Endlich Ruhe im KI-Theater – warum die neue Nvidia-Chefin der Branche guttut",
+   "summary": "Interims-CEO Colette Kress wird als blass beschrieben, dabei kann das eine große Stärke in der aufgeheizten Stimmung sein. Kress zu unterschätzen, wäre ohnehin ein Fehler.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-mit-der-neuen-nvidia-chefin-kehrt-endlich-ruhe-im-ki-theater-ein/100269648.html",
+   "published": "2026-11-13T15:23:13+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Gehaltsreport 2026: Wer jetzt noch hohe Gehälter fordern kann",
+   "summary": "Künstliche Intelligenz verändert den Arbeitsmarkt radikal – in der IT und vielen anderen Berufsgruppen. Das zeigt auch der große WiWo-Gehaltsreport.",
+   "link": "https://www.wiwo.de/erfolg/beruf/gehaltsreport-2026-wer-jetzt-noch-hohe-gehaelter-fordern-kann/100269170.html",
+   "published": "2026-11-13T15:00:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "HackerANGRIFF: Rüstungsbranche im Visier von Cyberkriminellen",
+   "summary": "Die Bundeswehr lässt die Drohnen von Quantum Systems nach einem Hackerangriff vorübergehend am Boden. Nach F.A.Z.-Informationen häufen sich die Attacken auf die Rüstungsindustrie.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hackerangriff-auf-quantum-systems-bundeswehr-groundet-drohnen-201680381.html",
+   "published": "2026-11-13T14:30:44+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hackerangriffe: Cyberbehörde warnt vor neuen Sicherheitslücken in Kühlanlagen",
+   "summary": "Das BSI stuft die Gefahr mit der zweithöchsten von vier Warnstufen ein. In industriellen Kühlanlagen seien „massive Beeinträchtigungen des Regelbetriebs möglich“. Es laufen Ermittlungen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/hackerangriffe-cyberbehoerde-warnt-vor-neuen-sicherheitsluecken-in-kuehlanlagen/100269729.html",
+   "published": "2026-11-13T14:22:31+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Riedls Dax-Radar: Drei Dax-Favoriten gegen KI-Zweifel und den Crash um Nvidia",
+   "summary": "Turbulenzen bei Hightech-Werten lassen die US-Börsen zittern. Dagegen gibt es im Dax Top-Unternehmen, die auch in schwierigen Zeiten gute Performance versprechen.",
+   "link": "https://www.wiwo.de/finanzen/boerse/dax-kurs-trotzt-dem-nvidia-crash-drei-favoriten-nach-dem-rekord/100269335.html",
+   "published": "2026-11-13T13:41:14+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Medienstaatsvertrag: Tiktok, Youtube, Instagram: Wie Deutschland plant, in die Algorithmen von Big Tech einzugreifen",
+   "summary": "Die Bundesländer wollen den Anbietern von Digitalplattformen eine Quote für Beiträge von seriösen Medien vorschreiben. Was Experten zu den Erfolgsaussichten des Reformvorhabens sagen.",
+   "link": "https://www.handelsblatt.com/unternehmen/it-medien/medien-wie-deutschland-plant-in-die-algorithmen-von-big-tech-einzugreifen/100269044.html",
+   "published": "2026-11-13T13:27:13+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cyberattacke: Hackerangriff auf Kempinski: Gästedaten abgegriffen",
+   "summary": "Die Hotelkette Kempinski ist von einem Hackerangriff betroffen. Dabei wurden Gästedaten abgegriffen - Vorsicht daher vor Betrugsmails.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cyberattacke-hackerangriff-auf-kempinski-gaestedaten-abgegriffen/100269754.html",
+   "published": "2026-11-13T13:22:21+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Quantum Systems: Ein Cyberangriff, der viele Fragen aufwirft",
+   "summary": "Im Oktober wurde der Münchner Drohnenhersteller Quantum Systems gehackt. Betroffen von der schadhaften Software war auch die Bundeswehr, weshalb auch der Verfassungsschutz alarmiert ist.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/quantum-systems-hackerangriff-drohnen-bundeswehr-muenchen-li.3579860",
+   "published": "2026-11-13T12:48:41+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Rowohlt-Verlag zieht Konsequenzen: KI-geschriebener Roman erscheint nicht auf Deutsch",
+   "summary": "Gegen Thélyson Oréliens Roman „Es war das oder sterben“ gibt es massive KI-Vorwürfe. Rowohlt hielt lange an der Übersetzung fest. Nun aber nicht mehr. mehr...",
+   "link": "https://taz.de/Rowohlt-Verlag-zieht-Konsequenzen/!6229800/",
+   "published": "2026-11-13T12:19:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Wissenschaftsbarometer 2026: Gerne befragt, aber wenig vertraut",
+   "summary": "Immer mehr Menschen konsultieren bei medizinischen Fragen die KI, das zeigt das aktuelle Wissenschaftsbarometer. Das bringt einige Herausforderungen. mehr...",
+   "link": "https://taz.de/Wissenschaftsbarometer-2026/!6229507/",
+   "published": "2026-11-13T11:43:00+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Weltweite Störung - Microsoft sieht bislang keine Anzeichen für Cyberangriff",
@@ -738,168 +900,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-zinssorgen-belasten-maerkte-in-asien-nicht/100268928.html",
    "published": "2026-11-11T08:36:53+00:00",
    "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
-   "summary": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
-   "published": "2026-11-11T08:23:39+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
-   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-anthropic-macht-microsoft-konkurrenz-bei-buerosoftware/100268547.html",
-   "published": "2026-11-11T07:58:57+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: „800.000 Jobs werden in Deutschland aufgrund von KI wegfallen“",
-   "summary": "Andrea Nahles, Chefin der Bundesagentur für Arbeit, drängt im Interview auf die schnelle Einführung einer Work-and-Stay-Agentur für ausländische Fachkräfte. KI reduziere Arbeit nicht pauschal.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-wir-muessen-moderner-digitaler-und-schneller-werden/100264931.html",
-   "published": "2026-11-11T07:58:00+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
-   "summary": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
-   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html",
-   "published": "2026-11-11T05:28:10+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Microsoft will laut Insider Verbot chinesischer KI-Bauteile in USA verhindern",
-   "summary": "Dax-Konzern Symrise beruft neuen Finanzvorstand +++ Thyssenkrupps Betriebsratschef wechselt die Seiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-will-laut-insider-verbot-chinesischer-ki-bauteile-in-usa-verhindern-faz-200452404.html",
-   "published": "2026-11-11T03:10:00+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: US-Cloud-Anbieter CoreWeave übertrifft Erwartungen – Aktie steigt",
-   "summary": "Der Cloudanbieter hebt seine Umsatzprognose für 2026 an. Im Oktober hatte die Aktie angesichts von Sorgen über die hohe Schuldenlast und eine mögliche KI-Blase mehr als 40 Prozent verloren.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-us-cloud-anbieter-coreweave-uebertrifft-erwartungen-aktie-steigt/100268896.html",
-   "published": "2026-11-10T22:32:10+00:00",
-   "first_seen": "2026-11-11T02:23:59.457315+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
-   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-anthropic-macht-microsoft-konkurrenz-bei-buerosoftware/100268547.html",
-   "published": "2026-11-10T18:52:19+00:00",
-   "first_seen": "2026-11-10T22:03:48.643675+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "\"KI hat viele Chancen, den Energieverbrauch zu reduzieren\"",
-   "summary": "Große Rechenzentren haben einen hohen Energieverbrauch. Doch KI kann die Industrie effizienter machen und so Strom sparen. Das sagt Professor Peter Radgen bei ZDFheute live.",
-   "link": "https://www.zdfheute.de/politik/ausland/ki-boom-energieverbrauch-reduzieren-experte-100.html",
-   "published": "2026-11-10T17:34:00+00:00",
-   "first_seen": "2026-11-10T22:03:48.643675+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nvidia-Affäre: Huangs Geliebte tritt ein, dann ändert sich ein Firmensitz: So umgehen Chinas Tech-Unternehmen das US-Embargo",
-   "summary": "Mit einem Embargo auf Hightech-Chips wollen die USA den Rivalen China bei KI auf Abstand halten. Geschäftsverbindungen in Asien zeigen, wie die Chinesen längst auf die Technologie zugreifen.",
-   "link": "https://www.handelsblatt.com/technik/ki/nvidia-affaere-wie-chinas-tech-firmen-das-us-embargo-umgehen/100268658.html",
-   "published": "2026-11-10T17:26:59+00:00",
-   "first_seen": "2026-11-10T22:03:48.643675+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Digitalminister Karsten Wildberger: „Papiere zu machen allein hilft nicht“",
-   "summary": "Deutschland muss aufholen bei Digitalisierung und künstlicher Intelligenz, fordert der Digitalminister. „Wir haben nur noch zwölf bis 18 Monate Zeit.“",
-   "link": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/wildberger-digitalisierung-e274661/",
-   "published": "2026-11-10T17:18:00+00:00",
-   "first_seen": "2026-11-10T22:03:48.643675+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Aktienanalyse: Die Infineon-Aktie könnte auf 100 Euro steigen",
-   "summary": "Nach fünf Monaten Korrektur ist die Infineon-Aktie reif für ein Comeback. Dank KI-Power ist langfristig sogar eine Kursverdopplung möglich.",
-   "link": "https://www.wiwo.de/finanzen/boerse/infineon-aktie-warum-das-papier-auf-100-euro-steigen-koennte/100268701.html",
-   "published": "2026-11-10T16:23:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Cyberangriffe - Iran weist Vorwürfe Frankreichs zurück, für Hackerangriffe auf Kühlsysteme verantwortlich zu sein",
-   "summary": "Der Iran hat den Vorwurf der französischen Regierung zurückgewiesen, für die jüngsten Cyberangriffe auf Kühlsysteme von Supermarktketten verantwortlich zu sein.",
-   "link": "https://www.deutschlandfunk.de/iran-weist-vorwuerfe-frankreichs-zurueck-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-zu-sein-100.html",
-   "published": "2026-11-10T16:22:55+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Bildung: Was Deutschland von Estland und Japan lernen kann",
-   "summary": "Beide Länder nutzen KI in Schulen nur sparsam. Und beide ermöglichen über gute Bildung sozialen Aufstieg. In Deutschland ist das anders, meint Yuri Belfali, Expertin für Schulen bei der OECD.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-deutschland-kann-von-estland-und-japan-in-der-bildung-lernen/100266715.html",
-   "published": "2026-11-10T15:58:01+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Künstliche Intelligenz: Anthropic peilt Börsenbewertung von einer Billion Dollar an",
-   "summary": "Anthropic strebt mit seinem Börsengang eine Milliardenbewertung an. Doch Zweifel am KI-Boom könnten die Nachfrage bremsen.",
-   "link": "https://www.wiwo.de/unternehmen/it/anthropic-ipo-boersengang-soll-64-milliarden-us-dollar-bringen/100268790.html",
-   "published": "2026-11-10T15:55:57+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-   "summary": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
-   "published": "2026-11-10T15:37:43+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Anthropic-Aktie: Die wichtigsten Antworten zum Anthropic-Börsengang",
-   "summary": "Der Entwickler des KI-Sprachmodells Claude gibt neue Informationen zum anstehenden Börsengang bekannt. Das sollten interessierte Anleger jetzt wissen.",
-   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-ipo-die-wichtigsten-antworten-zur-aktie-des-ki-entwicklers/100268848.html",
-   "published": "2026-11-10T15:35:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Weltmarktführer: Die Fabrik lernt denken",
-   "summary": "Roboterhunde patrouillieren Chemiewerke, KI-Maschinen sortieren Kleinteile und lernen neue Bewegungen – doch der Einsatz physischer KI steht noch am Anfang.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/physische-ki-in-der-industrie-was-roboter-in-fabriken-koennen/100265493.html",
-   "published": "2026-11-10T15:23:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Anthropic: Die Antworten auf die zehn wichtigsten Fragen zum Mega-IPO",
-   "summary": "Das Start-up hinter dem KI-Modell Claude macht bei seinem geplanten Börsengang Tempo. Der aktualisierte Börsenprospekt liefert die Informationen, auf die Anleger lange gewartet haben.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anthropic-die-antworten-auf-die-zehn-wichtigsten-fragen-zum-mega-ipo/100258657.html",
-   "published": "2026-11-10T15:06:20+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": true
   }
  ]

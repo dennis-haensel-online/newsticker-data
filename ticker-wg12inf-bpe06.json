@@ -1,7 +1,88 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-13T11:43:23.944314+00:00",
+ "updated": "2026-11-13T18:56:57.080245+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
+   "summary": "Der Bundestag hat den Gesetzentwurf zur Reform der Geheimdienste gebilligt. Mit der Novelle werden die Befugnisse des Bundesnachrichtendienstes und des Bundesamts für Verfassungsschutz zur Abwehr von Sabotage, Spionage und Cyberangriffen…",
+   "link": "https://www.deutschlandfunk.de/bundestag-billigt-reform-der-geheimdienste-befugnisse-werden-deutlich-ausgeweitet-100.html",
+   "published": "2026-11-13T18:53:24+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Kampf gegen Waffenschmuggel - Bundestag verlängert Mandate für zwei Bundeswehreinsätze im Mittelmeer",
+   "summary": "Die Bundeswehr beteiligt sich auch im kommenden Jahr an der NATO-Mission \"Sea Guardian\" zur Überwachung des Mittelmeers.",
+   "link": "https://www.deutschlandfunk.de/bundestag-verlaengert-mandate-fuer-zwei-bundeswehreinsaetze-im-mittelmeer-100.html",
+   "published": "2026-11-13T18:53:24+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Cyberattacken - BSI warnt vor anhaltenden IT-Schwachstellen in Kühlsystemen",
+   "summary": "Nach den jüngsten Hackerangriffen auf gewerbliche Kühlsysteme hat das Bundesamt für Sicherheit in der Informationstechnik - BSI - vor weiter existierenden Schwachstellen ‌gewarnt.",
+   "link": "https://www.deutschlandfunk.de/bsi-warnt-vor-anhaltenden-it-schwachstellen-in-kuehlsystemen-100.html",
+   "published": "2026-11-13T18:53:24+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Cyberangriff auf Quantum Systems: Wie wurde der Drohnenhersteller zum Ziel?",
+   "summary": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan…",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html",
+   "published": "2026-11-13T16:02:19+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "HackerANGRIFF: Rüstungsbranche im Visier von Cyberkriminellen",
+   "summary": "Die Bundeswehr lässt die Drohnen von Quantum Systems nach einem Hackerangriff vorübergehend am Boden. Nach F.A.Z.-Informationen häufen sich die Attacken auf die Rüstungsindustrie.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hackerangriff-auf-quantum-systems-bundeswehr-groundet-drohnen-201680381.html",
+   "published": "2026-11-13T14:30:44+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hackerangriffe: Cyberbehörde warnt vor neuen Sicherheitslücken in Kühlanlagen",
+   "summary": "Das BSI stuft die Gefahr mit der zweithöchsten von vier Warnstufen ein. In industriellen Kühlanlagen seien „massive Beeinträchtigungen des Regelbetriebs möglich“. Es laufen Ermittlungen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/hackerangriffe-cyberbehoerde-warnt-vor-neuen-sicherheitsluecken-in-kuehlanlagen/100269729.html",
+   "published": "2026-11-13T14:22:31+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cloud-Probleme: Langer Ausfall bei Microsoft löst gravierende Störungen aus",
+   "summary": "Unternehmen und Verbraucher müssen weltweit wegen einer Großstörung bei Microsoft massive Einschränkungen hinnehmen. Nach vielen Stunden kommen die Dienste wieder ins Laufen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/cloud-probleme-langer-ausfall-bei-microsoft-loest-gravierende-stoerungen-aus/100269542.html",
+   "published": "2026-11-13T14:08:48+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cyberattacke: Hackerangriff auf Kempinski: Gästedaten abgegriffen",
+   "summary": "Die Hotelkette Kempinski ist von einem Hackerangriff betroffen. Dabei wurden Gästedaten abgegriffen - Vorsicht daher vor Betrugsmails.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cyberattacke-hackerangriff-auf-kempinski-gaestedaten-abgegriffen/100269754.html",
+   "published": "2026-11-13T13:22:21+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Quantum Systems: Ein Cyberangriff, der viele Fragen aufwirft",
+   "summary": "Im Oktober wurde der Münchner Drohnenhersteller Quantum Systems gehackt. Betroffen von der schadhaften Software war auch die Bundeswehr, weshalb auch der Verfassungsschutz alarmiert ist.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/quantum-systems-hackerangriff-drohnen-bundeswehr-muenchen-li.3579860",
+   "published": "2026-11-13T12:48:41+00:00",
+   "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Weltweite Störung - Microsoft sieht bislang keine Anzeichen für Cyberangriff",
@@ -199,24 +280,6 @@
    "published": "2026-11-10T14:50:00+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
-   "summary": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
-   "link": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
-   "published": "2026-11-10T12:00:03+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Regulierung - Nach Hackerangriff durch OpenAI-Agenten: Australien will Regeln für Tech-Konzerne verschärfen",
-   "summary": "Nach einem Sicherheitsvorfall mit Künstlicher Intelligenz des US-Konzerns OpenAI verschärft Australien ⁠die Regeln ⁠für Technologiekonzerne.",
-   "link": "https://www.deutschlandfunk.de/nach-hackerangriff-durch-openai-agenten-australien-will-regeln-fuer-tech-konzerne-verschaerfen-100.html",
-   "published": "2026-11-10T08:49:59+00:00",
-   "first_seen": "2026-11-10T08:58:02.398662+00:00",
-   "paywall": false
   }
  ]
 }
