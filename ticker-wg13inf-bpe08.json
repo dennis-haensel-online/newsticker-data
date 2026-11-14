@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-14T19:36:06.960578+00:00",
+ "updated": "2026-11-14T23:30:50.203692+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
+   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
+   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-104.html",
+   "published": "2026-11-14T23:22:58+00:00",
+   "first_seen": "2026-11-14T23:30:50.203692+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Jensen Huang: Nvidia-Skandal könnte Chinas Chipindustrie schneller unabhängig machen",
+   "summary": "Die Affäre um Jensen Huang kann laut Experten die Gespräche zwischen China und den USA zur KI beeinträchtigen. Chinas Chipindustrie könnte rascher unabhängiger werden.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-china-halbleiter-lieferkette",
+   "published": "2026-11-14T19:51:57+00:00",
+   "first_seen": "2026-11-14T23:30:50.203692+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
@@ -883,24 +901,6 @@
    "published": "2026-11-11T17:03:48+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Alternative zu Palantir?: Helsing prescht mit militärischer KI vor",
-   "summary": "Die Deutschen versprechen Durchbrüche auf dem Gefechtsfeld und Souveränität für Europa. US-Konkurrent Palantir hat darauf eine klare Antwort.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/helsing-stellt-ki-software-clarity-vor-konkurrenz-fuer-palantir-201673620.html",
-   "published": "2026-11-11T16:37:44+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Schufa passt alte Scores zur Bewertung der Kreditwürdigkeit an neue Datenschutzvorgaben an",
-   "summary": "Wessen Bonität von der Auskunftei Schufa als schlecht bewertet wird, hat meist große Schwierigkeiten, einen Handy- oder Mietvertrag abzuschließen. Nun werden bei den Scores strengere Vorgaben umgesetzt.",
-   "link": "https://www.spiegel.de/wirtschaft/schufa-passt-alte-scores-zur-bewertung-der-kreditwuerdigkeit-an-neue-datenschutzvorgaben-an-a-7613c691-0b88-45ef-8d8e-b2ee39ceae46#ref=rss",
-   "published": "2026-11-11T16:06:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
   }
  ]
 }
