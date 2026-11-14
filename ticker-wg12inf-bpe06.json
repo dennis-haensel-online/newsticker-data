@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-14T14:38:31.059508+00:00",
+ "updated": "2026-11-14T19:36:06.960578+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
+   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
+   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-102.html",
+   "published": "2026-11-14T19:29:00+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
+   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
+   "published": "2026-11-14T18:11:24+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Italien: Meta muss 805 Millionen Euro Strafe zahlen",
+   "summary": "Der Konzern habe auf Fotos und Videos von Android-Nutzern zugegriffen, ohne eine Erlaubnis dafür einzuholen, kritisiert die italienische Datenschutzbehörde.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/meta-facebook-datenschutz-italien-strafe-li.3580557",
+   "published": "2026-11-14T15:29:52+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Cloud-Dienste - Microsoft gibt Ende der weltweiten Störungen bekannt",
@@ -306,15 +333,6 @@
    "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will/100268601.html",
    "published": "2026-11-11T08:48:00+00:00",
    "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: US-Cloud-Anbieter CoreWeave übertrifft Erwartungen – Aktie steigt",
-   "summary": "Der Cloudanbieter hebt seine Umsatzprognose für 2026 an. Im Oktober hatte die Aktie angesichts von Sorgen über die hohe Schuldenlast und eine mögliche KI-Blase mehr als 40 Prozent verloren.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-us-cloud-anbieter-coreweave-uebertrifft-erwartungen-aktie-steigt/100268896.html",
-   "published": "2026-11-10T22:32:10+00:00",
-   "first_seen": "2026-11-11T02:23:59.457315+00:00",
    "paywall": true
   }
  ]

@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-14T14:38:31.059508+00:00",
+ "updated": "2026-11-14T19:36:06.960578+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -9,6 +9,15 @@
    "link": "https://www.handelsblatt.com/unternehmen/industrie/energiekonzerne-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html",
    "published": "2026-11-14T11:52:08+00:00",
    "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Bundespräsidentin in spe: Die Mutter des bayerischen Start-up-Wunders",
+   "summary": "Im Januar könnte Ilse Aigner Bundespräsidentin werden. Als Wirtschaftsministerin hat sie viel erreicht.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/ilse-aigner-die-mutter-des-bayerischen-start-up-wunders-accg-201669728.html",
+   "published": "2026-11-14T11:25:33+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
    "paywall": true
   },
   {
@@ -584,15 +593,6 @@
    "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
    "link": "https://www.handelsblatt.com/technik/it-internet/ki-anthropic-macht-microsoft-konkurrenz-bei-buerosoftware/100268547.html",
    "published": "2026-11-11T07:58:57+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Microsoft will laut Insider Verbot chinesischer KI-Bauteile in USA verhindern",
-   "summary": "Dax-Konzern Symrise beruft neuen Finanzvorstand +++ Thyssenkrupps Betriebsratschef wechselt die Seiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-will-laut-insider-verbot-chinesischer-ki-bauteile-in-usa-verhindern-faz-200452404.html",
-   "published": "2026-11-11T03:10:00+00:00",
    "first_seen": "2026-11-11T10:01:26.696511+00:00",
    "paywall": true
   }

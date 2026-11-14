@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-14T14:38:31.059508+00:00",
+ "updated": "2026-11-14T19:36:06.960578+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
+   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
+   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-102.html",
+   "published": "2026-11-14T19:29:00+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Facebook-Konzern: Italien verhängt 805 Millionen Euro Strafe gegen Meta",
+   "summary": "Eine Funktion, die Facebook-Nutzern Ideen für eigene Beiträge liefern sollte, wird für Meta zum Problem. Im Mittelpunkt steht der Zugriff auf private Fotos und Videos auf Millionen Smartphones.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/facebook-konzern-italien-verhaengt-805-millionen-euro-strafe-gegen-meta/100269912.html",
+   "published": "2026-11-14T15:38:42+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Italien: Meta muss 805 Millionen Euro Strafe zahlen",
+   "summary": "Der Konzern habe auf Fotos und Videos von Android-Nutzern zugegriffen, ohne eine Erlaubnis dafür einzuholen, kritisiert die italienische Datenschutzbehörde.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/meta-facebook-datenschutz-italien-strafe-li.3580557",
+   "published": "2026-11-14T15:29:52+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Bosch: Worauf der Bosch-Chef bei der neuen Konzernstruktur setzt",
@@ -9,6 +36,15 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/bosch-chef-worauf-er-bei-der-neuen-konzernstruktur-setzt/100269899.html",
    "published": "2026-11-14T13:38:21+00:00",
    "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Jensen Huang: Der Sturz eines Rockstars",
+   "summary": "Jensen Huang schuf aus dem Nichts den wertvollsten Konzern der Welt. Binnen weniger Tage hat er alle Macht verloren. Chronik eines Aufstiegs und Falls.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-aufstieg-und-fall-des-nvidia-gruenders-accg-201669719.html",
+   "published": "2026-11-14T12:59:17+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
    "paywall": true
   },
   {
@@ -37,6 +73,15 @@
    "published": "2026-11-14T09:56:00+00:00",
    "first_seen": "2026-11-14T14:38:31.059508+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Schlüssel für die Energiewende: Jede Woche kommt ein Riesen-Trafo aus Bad Honnef",
+   "summary": "Hitachi Energy erweitert sein Trafo-Werk am Rhein und reagiert damit auf die Knappheit großer Leistungstransformatoren auf der Welt. Die riesigen Kolosse könnten zum Flaschenhals der Energiewende werden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hitachi-energy-verdoppelt-trafo-produktion-in-bad-honnef-accg-201676762.html",
+   "published": "2026-11-14T09:25:56+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
   },
   {
    "label": "ZDF",
@@ -801,33 +846,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/auf-diese-drei-branchen-setzen-chinesische-firmen-in-deutschland-accg-201668085.html",
    "published": "2026-11-11T08:01:00+00:00",
    "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Microsoft will laut Insider Verbot chinesischer KI-Bauteile in USA verhindern",
-   "summary": "Dax-Konzern Symrise beruft neuen Finanzvorstand +++ Thyssenkrupps Betriebsratschef wechselt die Seiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-microsoft-will-laut-insider-verbot-chinesischer-ki-bauteile-in-usa-verhindern-faz-200452404.html",
-   "published": "2026-11-11T03:10:00+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Investitionen: Chinesische Firmen wollen weiter in Deutschland investieren",
-   "summary": "Deutschland bleibt als Standort für das Europageschäft chinesischer Firmen relevant. Doch hohe Kosten und die Bürokratie bereiten ihnen zunehmend Sorgen.",
-   "link": "https://www.wiwo.de/politik/ausland/investitionen-chinesische-firmen-halten-an-deutschland-fest/100268921.html",
-   "published": "2026-11-11T03:01:04+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Spionage-Affäre: Nvidia-Aktie auf tiefstem Stand seit März",
-   "summary": "Die Affäre des Nvidia-Chefs Jensen Huang mit einer möglichen Spionin belastet den Chip-Konzern. Sein Börsenwert ist deutlich gesunken – in wenigen Tagen um rund 1.000.000.000.000 Dollar.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-auf-tiefstem-stand-seit-maerz-jensen-huang-affaere-kostet-billion-dollar-accg-201671288.html",
-   "published": "2026-11-11T01:19:25+00:00",
-   "first_seen": "2026-11-11T02:23:59.457315+00:00",
    "paywall": true
   }
  ]

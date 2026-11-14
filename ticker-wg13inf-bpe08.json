@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-14T14:38:31.059508+00:00",
+ "updated": "2026-11-14T19:36:06.960578+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
+   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
+   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-102.html",
+   "published": "2026-11-14T19:29:00+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
+   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
+   "published": "2026-11-14T18:11:24+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Insight Innovation: Besser als der Mensch? So verändern KI-Influencer den Werbemarkt",
+   "summary": "Fast jeder Zweite hat schon mit virtuellen Influencern interagiert, zeigt eine exklusive Umfrage. Auch immer mehr deutsche Unternehmen setzen auf die Avatare. Doch Nutzer sind skeptisch.",
+   "link": "https://www.handelsblatt.com/unternehmen/start-ups/unternehmen-werbung-und-vertrieb-so-setzen-firmen-ki-influencer-ein/100258611.html",
+   "published": "2026-11-14T16:35:38+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Italien: Meta muss 805 Millionen Euro Strafe zahlen",
+   "summary": "Der Konzern habe auf Fotos und Videos von Android-Nutzern zugegriffen, ohne eine Erlaubnis dafür einzuholen, kritisiert die italienische Datenschutzbehörde.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/meta-facebook-datenschutz-italien-strafe-li.3580557",
+   "published": "2026-11-14T15:29:52+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Autonomes Fahren: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
@@ -27,6 +63,15 @@
    "link": "https://www.wiwo.de/politik/ausland/san-francisco-der-teuerste-immobilienmarkt-der-usa-schuld-ist-der-ki-boom/100253458.html",
    "published": "2026-11-14T13:04:55+00:00",
    "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Chip-Schmuggel: Die Drehscheibe Singapur gerät im Nvidia-Skandal unter Druck",
+   "summary": "Wurde Singapur von Spionen und Schmugglern als Umschlagsplatz genutzt, damit China das KI-Wettrennen gewinnt? Im Wirtschaftszentrum geht die Sorge um sein Geschäftsmodell um.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nvidia-skandal-wird-singapur-der-zugang-zu-ki-chips-gesperrt-accg-201680765.html",
+   "published": "2026-11-14T12:59:53+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
    "paywall": true
   },
   {
@@ -72,6 +117,24 @@
    "link": "https://www.wiwo.de/finanzen/geldanlage/agentic-investing-wie-ki-agenten-uns-zu-besseren-anlegern-machen-sollen/100269014.html",
    "published": "2026-11-14T09:46:18+00:00",
    "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Rekordausgaben für KI-Systeme",
+   "summary": "Für Künstliche Intelligenz werden 2027 mehr als 4000 Milliarden Dollar ausgegeben. Davon profitiert ein Bereich ganz besonders.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-ausgaben-erreichen-2027-rekord-von-4050-milliarden-dollar-accg-201676978.html",
+   "published": "2026-11-14T09:19:58+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
+   "summary": "Alkoholverbot an Bahnhöfen: Bahn zieht positive Bilanz +++ Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Von der Leyen: Halbe Billion Euro Investitionen für KI nötig +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen-faz-200452404.html",
+   "published": "2026-11-14T09:14:39+00:00",
+   "first_seen": "2026-11-14T19:36:06.960578+00:00",
    "paywall": true
   },
   {
@@ -838,69 +901,6 @@
    "published": "2026-11-11T16:06:00+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mittelstand: Wenn KI die Lieferantenpreise herunterhandelt",
-   "summary": "Auch Mittelständler setzen mehr und mehr KI-Agenten im Einkauf ein. Beispiele zeigen: Die Technologie führt schon selbstständig Verhandlungen – und drückt erfolgreich die Preise.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/mittelstand-wenn-ki-die-lieferantenpreise-verhandelt-01/100266920.html",
-   "published": "2026-11-11T15:58:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deloitte-Studie: „Pflegefinanzen unter Druck“: Milliardenpotenzial durch KI und Robotik in der Pflege",
-   "summary": "Die Pflegeausgaben könnten bis 2050 auf 305 Milliarden Euro im Jahr steigen. Technologien können den Anstieg im besten Fall bremsen, sagt eine neue Deloitte-Studie.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/studie-milliardenpotenzial-in-der-pflege-durch-ki-und-robotik-01/100268426.html",
-   "published": "2026-11-11T15:56:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/unternehmen-in-welchen-branchen-sie-mit-ki-kenntnissen-punkten-koennen/100251207.html",
-   "published": "2026-11-11T15:50:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Warum Australien Regeln für Tech-Konzerne verschärfen will",
-   "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will-01/100268601.html",
-   "published": "2026-11-11T15:46:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: KI-Comeback! OpenAI, Anthropic und CoreWeave liefern Rückenwind",
-   "summary": "Wall Street mit Markus Koch vom 11.11.2026",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-ki-comeback-openai-anthropic-und-coreweave-liefern-rueckenwind/100269184.html",
-   "published": "2026-11-11T15:36:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Hyperscaler-Anleihen: Hot or not? Warum KI-Bonds eine Zweiklassengesellschaft sind",
-   "summary": "Techkonzerne sammeln Milliarden am Anleihemarkt ein, aber Investoren werden skeptischer. Wie Anleger per ETF auf den Crash wetten – und wo die größten Probleme drohen.",
-   "link": "https://www.wiwo.de/finanzen/boerse/ki-anleihen-warum-hyperscalern-und-neoclouds-der-crash-droht/100268680.html",
-   "published": "2026-11-11T15:24:13+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Digitale Souveränität: Dobrindt will im Cyberraum zurückschlagen",
-   "summary": "Innenminister Dobrindt spricht von einem „neuem Schattenkrieg“ und warnt vor hybriden Bedrohungen. In den Bereichen KI und Geheimdienste soll Souveränität her.",
-   "link": "https://www.wiwo.de/politik/deutschland/digitale-souveraenitaet-alexander-dobrindt-will-im-cyberraum-zurueckschlagen/100269162.html",
-   "published": "2026-11-11T15:10:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
   }
  ]
 }
