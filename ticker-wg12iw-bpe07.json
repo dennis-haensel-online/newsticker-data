@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-13T18:56:57.080245+00:00",
+ "updated": "2026-11-14T00:07:27.093328+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Von der Leyen: Europa braucht 500 Milliarden Euro Investitionen für KI",
+   "summary": "Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Die Hälfte der Beschäftigten bekommt Weihnachtsgeld +++ Mercedes stoppt alle neuen Investitionen in deutsche Standorte +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-von-der-leyen-europa-braucht-500-milliarden-euro-investitionen-fuer-ki-faz-200452404.html",
+   "published": "2026-11-13T20:19:11+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "CEO-Wechsel: Andere Konzerne holen sich Starmanager, bei Gea machen sie ein Assessment-Center",
@@ -36,6 +45,15 @@
    "link": "https://www.wiwo.de/unternehmen/it/microsoft-365-stoerung-wie-gefaehrlich-ist-das-klumpenrisiko/100269734.html",
    "published": "2026-11-13T14:30:56+00:00",
    "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Outlook-Störung: Microsoft sieht Dienste nach Mega-Panne auf dem Weg zur Besserung",
+   "summary": "Ein weltweiter Microsoft-Ausfall trifft Wirtschaft und Börsen. Bei Diensten wie Outlook und Teams zeichnet sich laut Konzern eine erste Besserung ab.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/microsoft-ausfall-outlook-und-teams-auf-dem-weg-zur-besserung/100269543.html",
+   "published": "2026-11-13T14:00:00+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
    "paywall": true
   },
   {
@@ -800,24 +818,6 @@
    "summary": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
    "published": "2026-11-10T15:37:43+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldanlage: Nachholpotenzial? Diese fünf Dax-Werte bieten Chancen für Anleger",
-   "summary": "Nur wenige Dax-Titel überzeugen mit steigendem Konzerngewinn, einer attraktiven Bewertung und optimistischen Analystenprognosen. Welche fünf Aktien dazugehören.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-nachholpotenzial-fuenf-dax-werte-bieten-chancen-fuer-anleger/100266727.html",
-   "published": "2026-11-10T14:52:38+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Anthropic: KI-Firma peilt Billionenbewertung beim Börsengang an",
-   "summary": "Das KI-Unternehmen Anthropic steuert auf einen der größten Börsengänge der Geschichte zu. Von der einst anvisierten Bewertung von zwei Billionen Dollar ist Konzernchef Dario Amodei aber abgerückt.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-firma-peilt-billionenbewertung-beim-boersengang-an-a-01ee7304-2fb0-45da-a9c9-1afec33f201f#ref=rss",
-   "published": "2026-11-10T14:01:00+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": false
   }

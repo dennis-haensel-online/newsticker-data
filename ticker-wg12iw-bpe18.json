@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-11-13T18:56:57.080245+00:00",
+ "updated": "2026-11-14T00:07:27.093328+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Ausstellung zeigt die besten Cartoons des Jahres",
+   "summary": "Es sind vor allem aktuelle politische Themen wie Tabaksteuer und Benzinpreise, die die Cartoonisten der Caricatura aufgreifen. Im Januar werden die Sieger des Wettbewerbs gekürt.",
+   "link": "https://www.zdfheute.de/video/panorama-cartoon-caricatura-kassel-100.html",
+   "published": "2026-11-13T21:52:00+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "CEO-Wechsel: Andere Konzerne holen sich Starmanager, bei Gea machen sie ein Assessment-Center",
@@ -9,6 +18,15 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/gea-chef-klebert-geht-klaus-stojentin-wird-neuer-ceo/100269650.html",
    "published": "2026-11-13T18:50:00+00:00",
    "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Gea: Dieser Mann soll Deutschlands einzigen Maschinenbauer im DAX leiten",
+   "summary": "Gea-Chef Stefan Klebert hat seinen Rücktritt angekündigt. Sein Nachfolger schlug in einem internen Auswahlverfahren alle Wettbewerber um Längen.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/gea-dieser-mann-soll-deutschlands-einzigen-maschinenbauer-im-dax-leiten/100269650.html",
+   "published": "2026-11-13T18:50:00+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
    "paywall": true
   },
   {
@@ -341,51 +359,6 @@
    "summary": "Wall Street mit Markus Koch vom 10.11.2026",
    "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-heisse-inflation-verschaerft-das-fed-risiko-tech-unter-druck/100268864.html",
    "published": "2026-11-10T15:47:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "BörsenTag: Der Ölpreis fällt, doch die Inflation bleibt",
-   "summary": "Der US-Präsident spricht von einem Ende des Iran-Kriegs, die Preise für Rohöl sinken erneut deutlich. Von Normalität kann trotzdem noch keine Rede sein.",
-   "link": "https://www.wiwo.de/finanzen/boerse/oelpreis-aktuell-warum-die-inflation-trotz-sinkender-oelpreise-weiter-anhaelt/100268682.html",
-   "published": "2026-11-10T15:26:51+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Inflation in den USA: Verbraucherpreise in den USA steigen weiterhin",
-   "summary": "Die Inflation in den USA ist im Oktober stärker als erwartet angestiegen. Mit 0,4 Prozent schwächte sich der Anstieg zum Vormonat jedoch etwas ab.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/inflation-usa-verbraucherpreise-washington-gxe",
-   "published": "2026-11-10T15:06:59+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "5G-Auktion: Der Streit um die Frequenzen betrifft alle Handykunden",
-   "summary": "An manchen Stellen mangelt es dem deutschen Mobilfunkmarkt an Wettbewerb. Vor einer wichtigen Auktion zeigt eine Umfrage die Ansprüche der Kunden.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/5g-auktion-warum-der-frequenzstreit-alle-handykunden-betrifft/100268732.html",
-   "published": "2026-11-10T14:57:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Teures Tanken: SPD-Fraktion will Spritpreisdeckel noch vor Weihnachten",
-   "summary": "Zu Weihnachten setzen sich viele Familien ins Auto. Die SPD meint: Spätestens dann muss der Preisdeckel für Benzin und Diesel gelten.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/teures-tanken-spd-fraktion-will-spritpreisdeckel-noch-vor-weihnachten/100268844.html",
-   "published": "2026-11-10T14:32:49+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Bitcoin-Kurs aktuell: US-Inflation im Oktober stärker als erwartet – Bitcoin unter 74.000 Dollar-Marke",
-   "summary": "Die US-Inflation stieg im Oktober um 0,4 Prozent zum Vormonat. Experten hatten mit 0,3 Prozent gerechnet. Der Bitcoin-Kurs gibt nach.",
-   "link": "https://www.wiwo.de/finanzen/boerse/bitcoin-kurs-aktuell-us-inflation-im-oktober-staerker-als-erwartet-btc-gibt-nach/27382428.html",
-   "published": "2026-11-10T13:59:00+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": true
   }

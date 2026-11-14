@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-13T18:56:57.080245+00:00",
+ "updated": "2026-11-14T00:07:27.093328+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Nach Cloud-Ausfall: Microsoft: Störung ging auf Netzwerk-Upgrade zurück",
+   "summary": "Eine stundenlange Störung bei Cloud-Diensten von Microsoft traf viele Unternehmen und Verbraucher. Der Software-Riese äußert sich nun zu den Gründen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/nach-cloud-ausfall-microsoft-stoerung-ging-auf-netzwerk-upgrade-zurueck/100269813.html",
+   "published": "2026-11-13T20:01:30+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
@@ -271,15 +280,6 @@
    "published": "2026-11-10T16:22:55+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ Iran-Krieg +++: Irans Militärführung droht Israel mit Vernichtung",
-   "summary": "Israels neues Parlament tritt erstmals zusammen – Opposition will Parlamentspräsident ablösen +++ Iran weist Verantwortung für Cyberangriffe auf Kühlanlagen zurück +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/iran-krieg-irans-militaerfuehrung-droht-israel-mit-vernichtung/100136895.html",
-   "published": "2026-11-10T14:50:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
   }
  ]
 }

@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe21",
- "updated": "2026-11-13T18:56:57.080245+00:00",
+ "updated": "2026-11-14T00:07:27.093328+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Ausstellung zeigt die besten Cartoons des Jahres",
+   "summary": "Es sind vor allem aktuelle politische Themen wie Tabaksteuer und Benzinpreise, die die Cartoonisten der Caricatura aufgreifen. Im Januar werden die Sieger des Wettbewerbs gekürt.",
+   "link": "https://www.zdfheute.de/video/panorama-cartoon-caricatura-kassel-100.html",
+   "published": "2026-11-13T21:52:00+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sachverständigenrat: „In ihren Rechten verletzt“ – Grimm siegt vor Gericht im Streit der Wirtschaftsweisen",
+   "summary": "Im Zwist um das Aufsichtsratsmandat von Veronika Grimm hat ein Gericht geurteilt: Die anderen Wirtschaftsweisen dürfen sie nicht zu Transparenzregeln zwingen – und auch keine Prüfungen anordnen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/sachverstaendigenrat-grimm-siegt-vor-gericht-im-streit-der-wirtschaftsweisen/100269802.html",
+   "published": "2026-11-13T19:03:33+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "CEO-Wechsel: Andere Konzerne holen sich Starmanager, bei Gea machen sie ein Assessment-Center",
@@ -9,6 +27,15 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/gea-chef-klebert-geht-klaus-stojentin-wird-neuer-ceo/100269650.html",
    "published": "2026-11-13T18:50:00+00:00",
    "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Gea: Dieser Mann soll Deutschlands einzigen Maschinenbauer im DAX leiten",
+   "summary": "Gea-Chef Stefan Klebert hat seinen Rücktritt angekündigt. Sein Nachfolger schlug in einem internen Auswahlverfahren alle Wettbewerber um Längen.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/gea-dieser-mann-soll-deutschlands-einzigen-maschinenbauer-im-dax-leiten/100269650.html",
+   "published": "2026-11-13T18:50:00+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
    "paywall": true
   },
   {
@@ -370,24 +397,6 @@
    "published": "2026-11-10T17:27:34+00:00",
    "first_seen": "2026-11-10T22:03:48.643675+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "5G-Auktion: Der Streit um die Frequenzen betrifft alle Handykunden",
-   "summary": "An manchen Stellen mangelt es dem deutschen Mobilfunkmarkt an Wettbewerb. Vor einer wichtigen Auktion zeigt eine Umfrage die Ansprüche der Kunden.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/5g-auktion-warum-der-frequenzstreit-alle-handykunden-betrifft/100268732.html",
-   "published": "2026-11-10T14:57:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Sanierung des Schienennetzes: Deutsche Bahn wird immer langsamer beim Ausbau",
-   "summary": "Kaum neue Schienenkilometer wurden dieses Jahr in Betrieb genommen – trotz Sondervermögen. Der Verkehrsminister kündigt derweil die Trendwende an. mehr...",
-   "link": "https://taz.de/Sanierung-des-Schienennetzes/!6228863/",
-   "published": "2026-11-10T14:03:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
   }
  ]
 }

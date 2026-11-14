@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-11-13T18:56:57.080245+00:00",
+ "updated": "2026-11-14T00:07:27.093328+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Ausstellung zeigt die besten Cartoons des Jahres",
+   "summary": "Es sind vor allem aktuelle politische Themen wie Tabaksteuer und Benzinpreise, die die Cartoonisten der Caricatura aufgreifen. Im Januar werden die Sieger des Wettbewerbs gekürt.",
+   "link": "https://www.zdfheute.de/video/panorama-cartoon-caricatura-kassel-100.html",
+   "published": "2026-11-13T21:52:00+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "CEO-Wechsel: Andere Konzerne holen sich Starmanager, bei Gea machen sie ein Assessment-Center",
@@ -9,6 +18,15 @@
    "link": "https://www.wiwo.de/unternehmen/industrie/gea-chef-klebert-geht-klaus-stojentin-wird-neuer-ceo/100269650.html",
    "published": "2026-11-13T18:50:00+00:00",
    "first_seen": "2026-11-13T18:56:57.080245+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Gea: Dieser Mann soll Deutschlands einzigen Maschinenbauer im DAX leiten",
+   "summary": "Gea-Chef Stefan Klebert hat seinen Rücktritt angekündigt. Sein Nachfolger schlug in einem internen Auswahlverfahren alle Wettbewerber um Längen.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/gea-dieser-mann-soll-deutschlands-einzigen-maschinenbauer-im-dax-leiten/100269650.html",
+   "published": "2026-11-13T18:50:00+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
    "paywall": true
   },
   {
@@ -305,24 +323,6 @@
    "summary": "Anthropic strebt mit seinem Börsengang eine Milliardenbewertung an. Doch Zweifel am KI-Boom könnten die Nachfrage bremsen.",
    "link": "https://www.wiwo.de/unternehmen/it/anthropic-ipo-boersengang-soll-64-milliarden-us-dollar-bringen/100268790.html",
    "published": "2026-11-10T15:55:57+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "5G-Auktion: Der Streit um die Frequenzen betrifft alle Handykunden",
-   "summary": "An manchen Stellen mangelt es dem deutschen Mobilfunkmarkt an Wettbewerb. Vor einer wichtigen Auktion zeigt eine Umfrage die Ansprüche der Kunden.",
-   "link": "https://www.wiwo.de/unternehmen/dienstleister/5g-auktion-warum-der-frequenzstreit-alle-handykunden-betrifft/100268732.html",
-   "published": "2026-11-10T14:57:00+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Mobilfunk: Umfrage: Fast ein Drittel der Deutschen würde zu Starlink wechseln",
-   "summary": "Die SpaceX-Tochter legt die Grundlagen für Satellitenmobilfunk auch in Deutschland und wird zur harten Konkurrenz für Deutsche Telekom und Co. – trotz Imageproblemen.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/mobilfunk-fast-ein-drittel-der-deutschen-wuerde-zu-starlink-wechseln/100267344.html",
-   "published": "2026-11-10T14:20:12+00:00",
    "first_seen": "2026-11-10T16:47:16.953142+00:00",
    "paywall": true
   }

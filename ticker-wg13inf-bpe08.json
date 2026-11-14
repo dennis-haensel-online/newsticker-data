@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-13T18:56:57.080245+00:00",
+ "updated": "2026-11-14T00:07:27.093328+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Von der Leyen: Europa braucht 500 Milliarden Euro Investitionen für KI",
+   "summary": "Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Die Hälfte der Beschäftigten bekommt Weihnachtsgeld +++ Mercedes stoppt alle neuen Investitionen in deutsche Standorte +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-von-der-leyen-europa-braucht-500-milliarden-euro-investitionen-fuer-ki-faz-200452404.html",
+   "published": "2026-11-13T20:19:11+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Chips Nach China: Die Nvidia-Affäre wird zur Regierungskrise",
+   "summary": "Der vermutete Schmuggel amerikanischer KI-Chips nach China bringt Handelsminister Howard Lutnick in Bedrängnis. Finanzminister Scott Bessent erhebt schwere Vorwürfe.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bessent-gegen-lutnick-nvidia-wird-zur-us-regierungskrise-201681651.html",
+   "published": "2026-11-13T19:01:02+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Börsengang: Anthropics 64-Milliarden-Dollar-Wette: Das sagt Amodei zu Chancen, Profit und KI-Sicherheit",
+   "summary": "Kurz vor einem der größten Börsengänge der Geschichte werben Anthropic-Chef Dario Amodei und Jamie Dimon von JP Morgan gemeinsam um Anleger. Die Aktie ist bereits sechsfach überzeichnet.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/anthropic-chef-dario-amodei-spricht-ueber-chancen-profit-und-ki-sicherheit/100269790.html",
+   "published": "2026-11-13T18:57:33+00:00",
+   "first_seen": "2026-11-14T00:07:27.093328+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Abstimmung - Bundestag billigt Reform der Geheimdienste - Befugnisse werden deutlich ausgeweitet",
@@ -874,33 +901,6 @@
    "published": "2026-11-11T09:11:00+00:00",
    "first_seen": "2026-11-11T10:01:26.696511+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Warum Australien Regeln für Tech-Konzerne verschärfen will",
-   "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will/100268601.html",
-   "published": "2026-11-11T08:48:00+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Diskriminierungsverbot: Was tun mit Schein-Bewerbern, die nur Schadenersatz wollen?",
-   "summary": "Sie bewerben sich auf problematische Stellenanzeigen, nur um eine Entschädigung zu kassieren: die „AGG-Hopper“. Die Gerichte wissen mit rechtmissbräuchlichen Fällen umzugehen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/agg-hopper-was-tun-mit-schein-bewerbern-die-nur-schadenersatz-wollen-accg-201654316.html",
-   "published": "2026-11-11T08:37:08+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Yen, Hang Seng: Zinssorgen belasten Märkte in Asien nicht - Indizes in Japan legen zu",
-   "summary": "Die mäßigen Vorgaben der Wall Street bleiben weitestgehend ohne Folgen. Stattdessen fokusieren sich die Anleger auf das Thema Künstliche Intelligenz.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-zinssorgen-belasten-maerkte-in-asien-nicht/100268928.html",
-   "published": "2026-11-11T08:36:53+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
   }
  ]
 }
