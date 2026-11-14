@@ -1,7 +1,43 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-14T07:12:07.680256+00:00",
+ "updated": "2026-11-14T14:38:31.059508+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cloud-Dienste - Microsoft gibt Ende der weltweiten Störungen bekannt",
+   "summary": "Microsoft hat die weltweiten Störungen bei einigen seiner Dienste nach mehr als ⁠24 Stunden behoben.",
+   "link": "https://www.deutschlandfunk.de/microsoft-gibt-ende-der-weltweiten-stoerungen-bekannt-102.html",
+   "published": "2026-11-14T14:23:29+00:00",
+   "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Panne mit Folgen: Microsoft-Büroprogramme laufen nach Störung wieder",
+   "summary": "Besprechungen ließen sich nicht richtig planen, Kalender hingen: Die Microsoft-Störung legte zentrale Cloud-Dienste lahm. Nun gibt es die Entwarnung.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/panne-mit-folgen-microsoft-bueroprogramme-laufen-nach-stoerung-wieder/100269858.html",
+   "published": "2026-11-14T11:00:36+00:00",
+   "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+   "summary": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+   "published": "2026-11-14T10:17:44+00:00",
+   "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Großstörung: Microsoft stellt Betrieb von Outlook und Teams wieder vollständig her",
+   "summary": "Die Microsoft-Störung legte zentrale Cloud-Dienste lahm. Nun sind die Probleme überwunden – jetzt stellt sich aber die Frage, ob die Infrastruktur zu abhängig von einem einzigen Anbieter ist.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/grossstoerung-microsoft-service-komplett-wieder-hergestellt/100269854.html",
+   "published": "2026-11-14T08:42:38+00:00",
+   "first_seen": "2026-11-14T14:38:31.059508+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Sicherheitsbehörden - Krampe (Linke): AfD bekommt Überwachungsstaat \"schlüsselfertig hingehalten\"",
@@ -280,15 +316,6 @@
    "published": "2026-11-10T22:32:10+00:00",
    "first_seen": "2026-11-11T02:23:59.457315+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Cyberangriffe - Iran weist Vorwürfe Frankreichs zurück, für Hackerangriffe auf Kühlsysteme verantwortlich zu sein",
-   "summary": "Der Iran hat den Vorwurf der französischen Regierung zurückgewiesen, für die jüngsten Cyberangriffe auf Kühlsysteme von Supermarktketten verantwortlich zu sein.",
-   "link": "https://www.deutschlandfunk.de/iran-weist-vorwuerfe-frankreichs-zurueck-fuer-hackerangriffe-auf-kuehlsysteme-verantwortlich-zu-sein-100.html",
-   "published": "2026-11-10T16:22:55+00:00",
-   "first_seen": "2026-11-10T16:47:16.953142+00:00",
-   "paywall": false
   }
  ]
 }
