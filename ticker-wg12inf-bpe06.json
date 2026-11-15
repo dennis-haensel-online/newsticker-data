@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-15T18:13:33.554214+00:00",
+ "updated": "2026-11-15T23:16:06.637338+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
+   "summary": "In Frankreich sind bei einem Cyberangriff auf einen Postdienstleister Millionen Adressdaten gestohlen worden.",
+   "link": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-108.html",
+   "published": "2026-11-15T21:20:20+00:00",
+   "first_seen": "2026-11-15T23:16:06.637338+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
@@ -10,6 +19,15 @@
    "published": "2026-11-15T18:11:03+00:00",
    "first_seen": "2026-11-15T18:13:33.554214+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO",
+   "summary": "Huang-Verbündete wollen den Ex-CEO zurück an die Nvidia-Spitze holen +++ Cyberangriff auf französischen Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html",
+   "published": "2026-11-15T18:09:04+00:00",
+   "first_seen": "2026-11-15T23:16:06.637338+00:00",
+   "paywall": true
   },
   {
    "label": "FAZ",
@@ -361,15 +379,6 @@
    "published": "2026-11-12T13:40:44+00:00",
    "first_seen": "2026-11-12T17:22:50.690101+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Schufa passt alte Scores zur Bewertung der Kreditwürdigkeit an neue Datenschutzvorgaben an",
-   "summary": "Wessen Bonität von der Auskunftei Schufa als schlecht bewertet wird, hat meist große Schwierigkeiten, einen Handy- oder Mietvertrag abzuschließen. Nun werden bei den Scores strengere Vorgaben umgesetzt.",
-   "link": "https://www.spiegel.de/wirtschaft/schufa-passt-alte-scores-zur-bewertung-der-kreditwuerdigkeit-an-neue-datenschutzvorgaben-an-a-7613c691-0b88-45ef-8d8e-b2ee39ceae46#ref=rss",
-   "published": "2026-11-11T16:06:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
   }
  ]
 }

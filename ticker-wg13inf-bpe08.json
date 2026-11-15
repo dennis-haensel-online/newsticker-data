@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-15T18:13:33.554214+00:00",
+ "updated": "2026-11-15T23:16:06.637338+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Genf - 128 Länder beraten ab Montag über Beschränkungen für KI-Waffensysteme und Killerroboter",
+   "summary": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. In Genf beraten ab Montag 128 Länder über ein internationales Regelwerk.",
+   "link": "https://www.deutschlandfunk.de/128-laender-beraten-ab-montag-ueber-beschraenkungen-fuer-ki-waffensysteme-und-killerroboter-104.html",
+   "published": "2026-11-15T21:20:20+00:00",
+   "first_seen": "2026-11-15T23:16:06.637338+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
+   "summary": "In Frankreich sind bei einem Cyberangriff auf einen Postdienstleister Millionen Adressdaten gestohlen worden.",
+   "link": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-108.html",
+   "published": "2026-11-15T21:20:20+00:00",
+   "first_seen": "2026-11-15T23:16:06.637338+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
@@ -19,6 +37,15 @@
    "published": "2026-11-15T18:11:03+00:00",
    "first_seen": "2026-11-15T18:13:33.554214+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO",
+   "summary": "Huang-Verbündete wollen den Ex-CEO zurück an die Nvidia-Spitze holen +++ Cyberangriff auf französischen Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html",
+   "published": "2026-11-15T18:09:04+00:00",
+   "first_seen": "2026-11-15T23:16:06.637338+00:00",
+   "paywall": true
   },
   {
    "label": "FAZ",
@@ -872,33 +899,6 @@
    "summary": "Ulrich Prediger entwickelt mit seinem Start-up Veluto ein vollverkleidetes Roboter-Zweirad. Welches Potenzial hat seine Erfindung?",
    "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/start-up-warum-der-jobrad-gruender-ein-autonomes-roboter-e-bike-entwickelt/100266914.html",
    "published": "2026-11-12T06:52:00+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handynetz-Betreiber: Ein Ende der Talfahrt des Mobilfunkers O2 ist nicht in Sicht",
-   "summary": "Die Telekommunikationsbranche ist im Umbruch, die Firmen setzen stärker auf Künstliche Intelligenz und bauen Jobs ab. Neben Vodafone hat auch O2 den Rotstift gezückt. Aktuelle Zahlen fallen mäßig aus.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/handynetz-betreiber-ein-ende-der-talfahrt-des-mobilfunkers-o2-ist-nicht-in-sicht/100269305.html",
-   "published": "2026-11-12T06:50:04+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Jensen Huang bei Nvidia: Er war das perfekte Ziel. Kippt jetzt der Visionär – und mit ihm der KI-Boom?",
-   "summary": "Jensen Huang ist als Nvidia-Chef die zentrale Figur für die zentrale Technologie unserer Zeit. Mit dem Skandal könnte nicht nur seine Karriere enden, sondern auch der einzigartige Status des Unternehmens.",
-   "link": "https://www.spiegel.de/wirtschaft/jensen-huang-bei-nvidia-er-war-das-perfekte-ziel-kippt-jetzt-der-visionaer-und-mit-ihm-der-ki-boom-a-a60b24c9-72d6-4eab-a8ec-684a1f965c48#ref=rss",
-   "published": "2026-11-12T06:50:00+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Robotik: Humanoide Roboter aus Deutschland: Agile Robots mit 8,5 Milliarden Dollar bewertet",
-   "summary": "Das Start-up sammelt 500 Millionen Dollar ein, allen voran vom japanischen Super-Investor Softbank. Dabei geht es um eine Technologie, bei der Deutschland weltweit führend bleiben könnte.",
-   "link": "https://www.handelsblatt.com/technik/ki/robotik-agile-robots-jetzt-mit-85-milliarden-dollar-bewertet/100265688.html",
-   "published": "2026-11-12T06:10:42+00:00",
    "first_seen": "2026-11-12T08:58:13.668700+00:00",
    "paywall": true
   }
