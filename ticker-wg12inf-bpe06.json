@@ -1,7 +1,52 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-15T11:39:49.825858+00:00",
+ "updated": "2026-11-15T18:13:33.554214+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
+   "summary": "In Frankreich sind bei einem Cyberangriff auf einen Postdienstleister Millionen Adressdaten gestohlen worden.",
+   "link": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-106.html",
+   "published": "2026-11-15T18:11:03+00:00",
+   "first_seen": "2026-11-15T18:13:33.554214+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Mutmaßliche Tech-Spionin Alice Huang arbeitet nicht mehr für Megaspeed",
+   "summary": "Cyberangriff auf Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ Tochtergesellschaft der französischen Post im Visier +++ VW-Chef Blume: Wollen 2030 neun Millionen Autos verkaufen +++ alle Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-jensen-huang-und-alice-huang-begruessen-sich-im-juni-2024-bei-einer-computex-veranstaltung-faz-200452404.html",
+   "published": "2026-11-15T17:46:10+00:00",
+   "first_seen": "2026-11-15T18:13:33.554214+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cyberangriff: Hacker stehlen in Frankreich Daten von 22 Millionen Menschen",
+   "summary": "Es ist eine der größten Cyberattacken des Landes: Bereits im September wurde eine Tochterfirma der französischen Post Opfer eines Hackerangriffs.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cyberangriff-hacker-stehlen-in-frankreich-daten-von-22-millionen-menschen/100270012.html",
+   "published": "2026-11-15T14:03:20+00:00",
+   "first_seen": "2026-11-15T18:13:33.554214+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Italien bittet Meta zur Kasse: 805 Millionen Euro Strafe für Datenschutzverstoß",
+   "summary": "Die „hohe Zahl von Betroffenen“ spielte eine Rolle bei der Festsetzung der Betragshöhe, so die Datenschutzbehörde. Der Konzern will gegen die Strafzahlung vorgehen. mehr...",
+   "link": "https://taz.de/Italien-bittet-Meta-zur-Kasse/!6230189/",
+   "published": "2026-11-15T13:13:00+00:00",
+   "first_seen": "2026-11-15T18:13:33.554214+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Software: Microsoft behebt weltweite Störung – Ausfall trifft auch Hotelschwimmbad",
+   "summary": "Ursache war nach Angaben des Konzerns ein Fehler bei einem Netzwerk-Upgrade, ein Cyberangriff sei ausgeschlossen. Die Panne hatte auch Folgen für ein Schwimmbad im Phantasialand in Brühl bei Köln.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/software-microsoft-behebt-stoerung-ausfall-trifft-auch-hotelschwimmbad/100269998.html",
+   "published": "2026-11-15T11:55:33+00:00",
+   "first_seen": "2026-11-15T18:13:33.554214+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "„Grand Theft Auto VI“: Ein gewaltiges Videospiel - Der lange Weg zu GTA 6",
@@ -325,15 +370,6 @@
    "published": "2026-11-11T16:06:00+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Warum Australien Regeln für Tech-Konzerne verschärfen will",
-   "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will-01/100268601.html",
-   "published": "2026-11-11T15:46:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
   }
  ]
 }
