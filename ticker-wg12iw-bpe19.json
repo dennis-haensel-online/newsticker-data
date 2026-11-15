@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-15T03:52:05.540079+00:00",
+ "updated": "2026-11-15T11:39:49.825858+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: Die Schlussoffensive der Wirtschaft",
+   "summary": "Die deutsche Wirtschaft dürfte im vierten Quartal deutlich an Fahrt aufnehmen. Doch das Rückschlagsrisiko bleibt hoch.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-die-schlussoffensive-der-wirtschaft/100261903.html",
+   "published": "2026-11-15T10:27:15+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Argentiniens „Kettensägen“-Präsident: Javier Milei will noch einmal antreten",
+   "summary": "Milei strebt eine zweite Amtszeit an und rühmt den wirtschaftlichen Aufschwung unter seiner Ägide. Doch seine Politik bringt erhebliche soziale Härten mit sich. mehr...",
+   "link": "https://taz.de/Argentiniens-Kettensaegen-Praesident/!6230090/",
+   "published": "2026-11-15T10:10:00+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Frühindikator BA-X: Was der Stellenindex der Arbeitsagentur verrät",
+   "summary": "Der BA-X misst die Nachfrage nach Arbeitskräften in Deutschland und zeigt frühzeitig Konjunkturentwicklungen auf. Alle relevanten Informationen auf einen Blick.",
+   "link": "https://www.wiwo.de/politik/konjunktur/fruehindikator-ba-x-was-der-stellenindex-der-arbeitsagentur-verraet/100261775.html",
+   "published": "2026-11-15T08:42:28+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Arbeitslosenquote: So haben sich die Arbeitslosenzahlen auf jährlicher Basis entwickelt",
+   "summary": "Die Arbeitslosenquote gibt Aufschluss über den Zustand des Arbeitsmarktes und die Konjunkturlage. Das sind die Arbeitslosenzahlen der vergangenen Jahre.",
+   "link": "https://www.wiwo.de/politik/konjunktur/arbeitslosenquote-so-haben-sich-die-arbeitslosenzahlen-auf-jaehrlicher-basis-entwickelt/100261613.html",
+   "published": "2026-11-15T08:30:43+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Präsidentenwahl 2027: Argentiniens „Kettensägen“-Präsident will wieder kandidieren",
@@ -702,87 +738,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/haushaltsluecken-wirtschaftsweise-steuern-kommentar-2026-li.3578688",
    "published": "2026-11-11T12:31:33+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Jahresgutachten: \"Deutliche konjunkturelle Erholung\"",
-   "summary": "Statements nach Übergabe des Jahresgutachten des Sachverständigenrats von Bundeskanzler Friedrich Merz und Prof. Monika Schnitzer (Vorsitzende Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung SVR)",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247054",
-   "published": "2026-11-11T11:04:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "\"Tankrabatt\" drückt Inflation im Oktober",
-   "summary": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der \"Tankrabatt\" zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder mehr.",
-   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
-   "published": "2026-11-11T11:00:32+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Zahl der arbeitslosen Akademiker auf Höchststand",
-   "summary": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html",
-   "published": "2026-11-11T10:07:28+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Arbeitsagentur - Arbeitslosigkeit bei Akademikern auf Höchststand",
-   "summary": "Die Arbeitslosigkeit unter Akademikern in Deutschland ist auf einen Höchststand gestiegen.",
-   "link": "https://www.deutschlandfunk.de/arbeitslosigkeit-bei-akademikern-auf-hoechststand-104.html",
-   "published": "2026-11-11T09:57:12+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Konjunkturerwartung - Wirtschaftsweise legen Jahresgutachten vor",
-   "summary": "Die sogenannten Wirtschaftsweisen legen heute in Berlin ihren Jahresbericht vor.",
-   "link": "https://www.deutschlandfunk.de/wirtschaftsweise-legen-jahresgutachten-vor-132.html",
-   "published": "2026-11-11T09:57:12+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Energietechnik: 4,1 Milliarden: Extremer Gewinnsprung bei Siemens Energy",
-   "summary": "Der starke Aufschwung des Konzerns soll in den kommenden Jahren weitergehen. Das schlägt sich aktuell auch in mehr Jobs nieder und freut die Börse.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/energietechnik-41-milliarden-extremer-gewinnsprung-bei-siemens-energy/100268986.html",
-   "published": "2026-11-11T09:50:57+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Arbeitsmarkt in Deutschland: Zahl der arbeitslosen Akademiker erreicht Höchststand",
-   "summary": "Wer studiert hat, hat dennoch ein eher geringes Risiko, arbeitslos zu werden. Künstliche Intelligenz wird laut Arbeitsgagentur die Arbeitswelt umwälzen. mehr...",
-   "link": "https://taz.de/Zahl-der-arbeitslosen-Akademiker-erreicht-Hoechststand/!6229138/",
-   "published": "2026-11-11T09:11:00+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarkt: Junge Akademiker finden plötzlich schwer ins Arbeitsleben",
-   "summary": "100 Bewerbungen, keine Zusage: Die Krise trifft Akademiker unter 30 mit Wucht, zwingt zu Abstrichen und Planänderungen. So schaffen es Absolventen trotzdem in den Traumjob.",
-   "link": "https://www.wiwo.de/erfolg/beruf/junge-akademiker-am-arbeitsmarkt-warum-berufseinsteiger-schwer-an-stellen-kommen/100246965.html",
-   "published": "2026-11-11T09:05:00+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Bundesbank: Nagel fordert Reformen – trotz besserer Konjunkturaussichten",
-   "summary": "Die deutsche Wirtschaft erholt sich laut Bundesbank-Chef Joachim Nagel schneller als gedacht. Ausruhen dürfe sich Deutschland darauf aber nicht. Er fordert Strukturreformen.",
-   "link": "https://www.handelsblatt.com/politik/konjunktur/bundesbank-nagel-fordert-reformen-trotz-besserer-konjunkturaussichten/100269024.html",
-   "published": "2026-11-11T08:49:38+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
    "paywall": true
   }
  ]

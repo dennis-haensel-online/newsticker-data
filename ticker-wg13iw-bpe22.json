@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe22",
- "updated": "2026-11-15T03:52:05.540079+00:00",
+ "updated": "2026-11-15T11:39:49.825858+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Migration - 89 Migranten nach Bootsunglück im Ärmelkanal gerettet",
+   "summary": "Nach dem Untergang eines Boots im Ärmelkanal sind zahlreiche Migranten gerettet worden.",
+   "link": "https://www.deutschlandfunk.de/89-migranten-nach-bootsunglueck-im-aermelkanal-gerettet-102.html",
+   "published": "2026-11-15T11:32:47+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Exportentwicklung: Was der preisbereinigte Exportindex für Waren und Dienstleistungen zeigt",
+   "summary": "Der preisbereinigte Exportindex misst die reale Entwicklung der Ausfuhren. Er unterscheidet Waren und Dienstleistungen. Hier finden Sie alle Fakten.",
+   "link": "https://www.wiwo.de/politik/konjunktur/exportentwicklung-was-der-preisbereinigte-exportindex-zeigt/100261780.html",
+   "published": "2026-11-15T08:54:31+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Logistik: Weltweiter Umsatz steigt um 31 Prozent: 3D-Druck feiert ein ungeahntes Comeback",
@@ -199,15 +217,6 @@
    "published": "2026-11-11T15:47:24+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
    "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Vorstellung des 15. Integrationsberichts mit Natalie Pawlik und Prof. Frank Kalter",
-   "summary": "Pressekonferenz mit Staatsministerin Natalie Pawlik, Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration, und Prof. Frank Kalter, Direktor des Deutschen Zentrums für Integrations- und Migrationsforschung (DeZIM)",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247157",
-   "published": "2026-11-11T11:00:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
   }
  ]
 }

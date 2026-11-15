@@ -1,7 +1,16 @@
 {
  "id": "ik",
- "updated": "2026-11-15T03:52:05.540079+00:00",
+ "updated": "2026-11-15T11:39:49.825858+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Migration - 89 Migranten nach Bootsunglück im Ärmelkanal gerettet",
+   "summary": "Nach dem Untergang eines Boots im Ärmelkanal sind zahlreiche Migranten gerettet worden.",
+   "link": "https://www.deutschlandfunk.de/89-migranten-nach-bootsunglueck-im-aermelkanal-gerettet-102.html",
+   "published": "2026-11-15T11:32:47+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": false
+  },
   {
    "label": "taz",
    "title": "Der Hausbesuch: Das Gestrickte ist politisch",
@@ -147,6 +156,15 @@
    "paywall": true
   },
   {
+   "label": "ZDF",
+   "title": "\"Die Katze\"",
+   "summary": "Die faszinierende Vielfalt der Katzenwelt: Von Hauskatzen bis zu Wildkatzen beleuchtet die Schau in Aarau Biologie und Fähigkeiten der Tiere.",
+   "link": "https://www.3sat.de/kultur/kulturzeit/ausstellungstipp-die-katze-in-aarau-100.html",
+   "published": "2026-11-12T18:20:00+00:00",
+   "first_seen": "2026-11-15T11:39:49.825858+00:00",
+   "paywall": false
+  },
+  {
    "label": "DLF",
    "title": "Nationale Migrationsbehörde - Peru macht Einbürgerungsantrag des heutigen Papstes zum Kulturerbe",
    "summary": "Die Einbürgerungsakte des heutigen Papstes ist in Peru nun nationales Kulturerbe. Das hat das peruanische Kulturministerium auf Vorschlag der Migrationsbehörde beschlossen. Der Augustinerpater Robert Francis Prevost Martínez, der heutige…",
@@ -280,24 +298,6 @@
    "published": "2026-11-11T12:13:00+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Vorstellung des 15. Integrationsberichts mit Natalie Pawlik und Prof. Frank Kalter",
-   "summary": "Pressekonferenz mit Staatsministerin Natalie Pawlik, Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration, und Prof. Frank Kalter, Direktor des Deutschen Zentrums für Integrations- und Migrationsforschung (DeZIM)",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247157",
-   "published": "2026-11-11T11:00:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Hoher Energiebedarf: Siemens Energy strotzt vor Zuversicht",
-   "summary": "Die Krise ist abgehakt. Der Energiespezialist erlebt ein Rekordgeschäftsjahr und lässt die Aktionäre teilhaben. Der Vorstand setzt sich immer ehrgeizigere Ziele und hat einen Zeitplan für die Änderung des Unternehmensnamens.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/nach-rekordjahr-strotzt-siemens-energy-vor-zuversicht-accg-201671693.html",
-   "published": "2026-11-11T09:34:32+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
   }
  ]
 }
