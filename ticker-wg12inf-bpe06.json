@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-14T23:30:50.203692+00:00",
+ "updated": "2026-11-15T03:52:05.540079+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "„Grand Theft Auto VI“: Ein gewaltiges Videospiel - Der lange Weg zu GTA 6",
+   "summary": "Ein Hackerangriff, zwei Verschiebungen und ein Streit um Entlassungen beim Publisher: So turbulent verlief die lange Wartezeit auf das Eintauchen in den fiktiven US-Bundesstaat Leonida.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/grand-theft-auto-vi-ein-gewaltiges-videospiel-der-lange-weg-zu-gta-6/100269952.html",
+   "published": "2026-11-15T02:00:07+00:00",
+   "first_seen": "2026-11-15T03:52:05.540079+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
@@ -334,15 +343,6 @@
    "published": "2026-11-11T09:57:12+00:00",
    "first_seen": "2026-11-11T10:01:26.696511+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI: Warum Australien Regeln für Tech-Konzerne verschärfen will",
-   "summary": "Nach einem Hackerangriff durch KI auf das australische Gesundheitssystem will die Regierung die Aufsicht verschärfen. Geplant sind eine Meldepflicht für Sicherheitsverstöße und eine neue Aufsichtsbehörde.",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-warum-australien-regeln-fuer-tech-konzerne-verschaerfen-will/100268601.html",
-   "published": "2026-11-11T08:48:00+00:00",
-   "first_seen": "2026-11-11T10:01:26.696511+00:00",
-   "paywall": true
   }
  ]
 }
