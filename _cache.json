@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:16:06.637338+00:00",
+ "updated": "2026-11-16T03:52:56.417842+00:00",
  "items": [
   {
    "label": "WiWo",
@@ -8,6 +8,240 @@
    "link": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
    "published": "2026-12-12T13:29:00+00:00",
    "first_seen": "2026-10-12T16:19:19.303037+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Studie: Industrie steigert Umsatz – doch 140.000 Jobs fallen weg",
+   "summary": "Die Industrie verbucht das dritte Quartalsplus in Folge – Grund ist auch der KI-Boom. Doch gleichzeitig verschwinden immer mehr Jobs – in allen Branchen.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/studie-industrie-steigert-umsatz-doch-140.000-jobs-fallen-weg/100270074.html",
+   "published": "2026-11-16T03:49:05+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Brodeln in der Partei: Gründungsmitglieder des BSW fordern Distanz zur AfD",
+   "summary": "Nach der Landtagswahl in Sachsen-Anhalt hat das BSW mehrfach mit der AfD gestimmt. In den Reihen der Wagenknecht-Partei wächst die Sorge vor einem Ruck nach rechts.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/brodeln-in-der-partei-gruendungsmitglieder-des-bsw-fordern-distanz-zur-afd/100270072.html",
+   "published": "2026-11-16T03:30:05+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Debatte um Gegenfinanzierungen - Rechnungshof-Präsident rät zu Milliarden-Einsparungen bei Subventionen",
+   "summary": "In der Debatte um eine Gegenfinanzierung von Entlastungs-Projekten schlägt Bundesrechnungshof-Präsident Heveling einen Abbau unnötiger Subventionen vor.",
+   "link": "https://www.deutschlandfunk.de/rechnungshof-praesident-raet-zu-milliarden-einsparungen-bei-subventionen-102.html",
+   "published": "2026-11-16T03:22:43+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Bilanz - Bericht: Zahl der psychisch kranken Bundeswehr-Soldaten gestiegen",
+   "summary": "Die Zahl der Bundeswehr-Soldatinnen und -Soldaten mit einer posttraumatischen Belastungsstörung oder einer anderen durch einen Einsatz ausgelösten psychischen Erkrankung hat zugenommen.",
+   "link": "https://www.deutschlandfunk.de/bericht-zahl-der-psychisch-kranken-bundeswehr-soldaten-gestiegen-104.html",
+   "published": "2026-11-16T03:22:43+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Raumfahrt - Vulcan-Rakete versagt nach Start, Amazon verliert 40 \"Leo\"-Satelliten",
+   "summary": "Der Start einer Vulcan-Rakete des Raumfahrtunternehmens United Launch Alliance ist gescheitert.",
+   "link": "https://www.deutschlandfunk.de/vulcan-rakete-versagt-nach-start-amazon-verliert-40-leo-satelliten-102.html",
+   "published": "2026-11-16T03:22:43+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Golf-Region - Bericht: Dritter US-Flugzeugträger erreicht Nahen Osten",
+   "summary": "Der in den Nahen Osten geschickte dritte US-Flugzeugträger steht nach Presseinformationen vor seiner Ankunft in der Region.",
+   "link": "https://www.deutschlandfunk.de/bericht-dritter-us-flugzeugtraeger-erreicht-nahen-osten-104.html",
+   "published": "2026-11-16T03:22:43+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Apec-Gipfel - China bestätigt gesondertes Treffen zwischen Trump, Putin und Xi",
+   "summary": "Nach den USA und Russland hat auch China das geplante Dreier-Gipfeltreffen bestätigt.",
+   "link": "https://www.deutschlandfunk.de/china-bestaetigt-gesondertes-treffen-zwischen-trump-putin-und-xi-102.html",
+   "published": "2026-11-16T03:22:43+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Mecklenburg-Vorpommern - Ministerpräsidentin Schwesig stellt sich zur Wiederwahl",
+   "summary": "In Mecklenburg-Vorpommern stellt sich heute Ministerpräsidentin Schwesig zur Wiederwahl im Schweriner Landtag.",
+   "link": "https://www.deutschlandfunk.de/ministerpraesidentin-schwesig-stellt-sich-zur-wiederwahl-102.html",
+   "published": "2026-11-16T03:22:43+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Wetter - Verbreitete Regenfälle, 8 bis 14 Grad",
+   "summary": "Das Wetter: Überwiegend stark bewölkt mit nur kurzen Auflockerungen. Dabei von Westen wiederholt schauerartige Regenfälle, vereinzelt auch kurze Gewitter. Höchstwerte 8 bis 14 Grad. Morgen von der Südwesthälfte nordostwärts ausweitender…",
+   "link": "https://www.deutschlandfunk.de/verbreitete-regenfaelle-8-bis-14-grad-102.html",
+   "published": "2026-11-16T03:22:43+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Seefahrt: Kontroverse Debatte: Deutsche Häfen bereiten sich auf Atomantrieb vor",
+   "summary": "Bald werden nuklear angetriebene Handelsschiffe in See stechen, erwartet die Atomenergie-Organisation IAEO. Deutsche Häfen fürchten, wegen politischen Widerstands abgehängt zu werden.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/logistik-deutsche-haefen-bereiten-sich-auf-atomantrieb-vor/100269158.html",
+   "published": "2026-11-16T03:08:09+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vorsorge für Daten und Dienste: Digitaler Nachlass: Wer erbt unsere Konten?",
+   "summary": "Von der Nachlassliste bis zum Passwortmanager: Was bei allen digitalen Dingen, die vererbt werden können, zu beachten ist und warum klare, rechtzeitige Regelungen wichtig sind.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/vorsorge-fuer-daten-und-dienste-digitaler-nachlass-wer-erbt-unsere-konten/100270070.html",
+   "published": "2026-11-16T03:07:05+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kommentar: Die SPD ist ausgebrannt",
+   "summary": "Die Sozialdemokraten stecken in der Sinnkrise. Auch Hoffnungsträgerin Schwesig wäre keine Idealbesetzung. Wichtiger als neue Personen wäre ohnehin etwas anderes.",
+   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-spd-ist-ausgebrannt/100269537.html",
+   "published": "2026-11-16T03:06:01+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Fitness: „Wer regelmäßig trainiert, kündigt nicht“ – FitX geht neue Wege",
+   "summary": "Die zweitgrößte Studiokette in Deutschland will mit eigener Strategie die Marktführung erobern. Verträge mit langer Bindung passen da nicht mehr in die Zeit.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/fitness-wer-regelmaessig-trainiert-kuendigt-nicht-fitx-geht-neue-wege/100265690.html",
+   "published": "2026-11-16T03:04:41+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "HRI-Konjunkturausblick: Gekaufter Aufschwung – es mangelt am Vertrauen von Unternehmern",
+   "summary": "Obwohl die Wirtschaft wächst, ist ausgerechnet eine für Wohlstandsentwicklung entscheidende Größe schwach. Das Handelsblatt Research Institute bleibt vorsichtig.",
+   "link": "https://www.handelsblatt.com/politik/konjunktur/hri-konjunkturausblick-gekaufter-aufschwung-es-mangelt-am-vertrauen-von-unternehmern/100268399.html",
+   "published": "2026-11-16T03:03:51+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Förderbank: Bund verzichtet auf KfW-Dividende und neues KfW-Gesetz",
+   "summary": "Die staatliche Förderbank soll den Haushalt 2027 und 2028 auf andere Weise um rund eine Milliarde Euro entlasten. Ursprünglich hatte die Regierung weitreichendere Pläne.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/foerderbank-bund-verzichtet-auf-kfw-dividende-und-neues-kfw-gesetz/100270031.html",
+   "published": "2026-11-16T03:01:26+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Industrie steigert Umsatz - doch 140.000 Jobs fallen weg",
+   "summary": "Die deutsche Industrie kommt teils aus der Krise und legt beim Umsatz das dritte Quartal in Folge zu. Doch der Stellenabbau geht weiter. Vor allem eine Schlüsselbranche bleibt das Sorgenkind.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-industrie-steigert-umsatz-doch-140000-jobs-fallen-weg/100270066.html",
+   "published": "2026-11-16T03:00:39+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Equal-Pay-Klage: Darum kämpft diese Ex-Bürgermeisterin für gleiche Bezahlung",
+   "summary": "Die frühere Rathauschefin des Schwarzwaldortes Todtmoos, Janette Fuchs, wurde schlechter bezahlt als ihr Amtsvorgänger und ihr Nachfolger. Nun zieht sie vor das Bundesverwaltungsgericht.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/equal-pay-klage-darum-kaempft-diese-ex-buergermeisterin-fuer-gleiche-bezahlung/100270067.html",
+   "published": "2026-11-16T03:00:11+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Migrationspolitik: „Versuch der taktischen Mäßigung ist gescheitert“ – AfD-Abschiebestreit verschärft Verbotsdebatte",
+   "summary": "Der Streit in der AfD über die sogenannte „Remigration“ weckt Sorgen vor einer weiteren Radikalisierung der Partei. Politiker der anderen Parteien fordern Konsequenzen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/migrationspolitik-afd-abschiebestreit-verschaerft-verbotsdebatte/100270034.html",
+   "published": "2026-11-16T02:59:32+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Steuern: 13 Tipps für eine höhere Steuererstattung für 2026",
+   "summary": "In der Steuererklärung gelten Höchstbeträge und Pauschalen. Steuerpflichtige können Ausgaben bis zum Jahreswechsel so planen und tätigen, dass sie deren volle Steuersenkung ausschöpfen.",
+   "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/steuern-13-tipps-fuer-eine-hoehere-steuererstattung-fuer-2026/100268715.html",
+   "published": "2026-11-16T02:57:52+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Verteidigung: Staaten planen bei UN-Konferenz Vorstoß gegen Killerroboter",
+   "summary": "Dürfen Waffen selbstständig entscheiden, Menschen zu töten? Die Weltgemeinschaft tut sich schwer, Regeln durchzusetzen. Doch gerade die Konkurrenz der Großmächte könnte jetzt helfen.",
+   "link": "https://www.handelsblatt.com/politik/international/verteidigung-staaten-planen-bei-un-konferenz-vorstoss-gegen-killerroboter/100269219.html",
+   "published": "2026-11-16T02:55:09+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "USA: Flugverkehr wohl erst Montag wieder vollständig normal",
+   "summary": "Die Störungen im US-Flugverkehr haben am Sonntag den dritten Tag in Folge angehalten. Tausende Flüge waren betroffen. Die Lage soll sich zum Wochenstart wieder normalisieren.",
+   "link": "https://www.zdfheute.de/politik/ausland/usa-flugverkehr-flugstopp-verkehrsminister-duffy-100.html",
+   "published": "2026-11-16T01:33:00+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Iran-Konflikt: Berichte: Dritter US-Flugzeugträger erreicht Nahen Osten",
+   "summary": "Die Entsendung eines dritten US-Flugzeugträgers in den Nahen Osten war seit Wochen bekannt. Nun soll er eingetroffen sein. Die Spannungen in der Region hatten sich jüngst wieder verschärft.",
+   "link": "https://www.handelsblatt.com/politik/international/iran-konflikt-berichte-dritter-us-flugzeugtraeger-erreicht-nahen-osten/100270061.html",
+   "published": "2026-11-16T01:31:20+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Raumfahrt: Absturz von Boeing/Lockheed-Rakete – Amazon verliert 40 Satelliten",
+   "summary": "Es ist die erste missglückte Mission des Gemeinschaftsunternehmens von Boeing und Lockheed Martin. Vor allem für Amazons Internetdienst Leo könnte der Fehlschlag Konsequenzen haben.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/raumfahrt-absturz-von-boeing-lockheed-rakete-amazon-verliert-40-satelliten/100270060.html",
+   "published": "2026-11-16T01:22:40+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Wettlauf mit Starlink: 40 Amazon-Satelliten bei Absturz von Vulcan-Rakete zerstört",
+   "summary": "Zehn Minuten nach dem Abheben in Florida versagte die Vulcan-Rakete. 40 Satelliten für Amazons Internetdienst Leo wurden zerstört. Der Aufbau des Starlink-Wettbewerbers verzögert sich damit abermals.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/40-amazon-satelliten-bei-absturz-von-vulcan-rakete-zerstoert-accg-201686018.html",
+   "published": "2026-11-16T00:57:40+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Asien: Japans Wirtschaft schrumpft – hohe Lebenshaltungskosten belasten Konsum",
+   "summary": "Das Bruttoinlandsprodukt Japans ist im Sommerquartal überraschend um 0,1 Prozent geschrumpft. Haushalte verhalten sich angesichts hoher Lebenshaltungskosten zunehmend zurückhaltend.",
+   "link": "https://www.handelsblatt.com/politik/international/asien-japans-wirtschaft-schrumpft-hohe-lebenshaltungskosten-belasten-konsum/100270056.html",
+   "published": "2026-11-16T00:18:29+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Südamerika-Reise: Papst mahnt am Amazonas zu Umweltschutz",
+   "summary": "Kurz vor Schluss seiner Südamerika-Reise warnt Leo XIV. vor einer Zerstörung des weltgrößten Regenwalds. Und macht deutlich, dass aus seiner Sicht die Wirtschaft strenge Grenzen braucht.",
+   "link": "https://www.handelsblatt.com/politik/international/suedamerika-reise-papst-mahnt-am-amazonas-zu-umweltschutz/100270055.html",
+   "published": "2026-11-15T23:26:04+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
    "paywall": true
   },
   {
@@ -74,6 +308,15 @@
    "paywall": false
   },
   {
+   "label": "ZDF",
+   "title": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
+   "summary": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Westjordanland spitzt sich die Situation zu. Alle Entwicklungen im Liveblog.",
+   "link": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
+   "published": "2026-11-15T22:00:00+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
+   "paywall": false
+  },
+  {
    "label": "Handelsblatt",
    "title": "Chip-Konzern: Bericht: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
    "summary": "Jensen Huang galt bis zu seinem Abgang als nahezu unersetzlich bei Nvidia. Könnte er wieder an die Spitze des Chip-Konzerns auftauchen?",
@@ -89,6 +332,15 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-huang-spricht-offenbar-ueber-rueckkehr-an-nvidia-spitze-bessent-fordert-neuen-chef-von-ausserhalb/100270044.html",
    "published": "2026-11-15T21:32:48+00:00",
    "first_seen": "2026-11-15T23:16:06.637338+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nvidia: Huang offenbar in Gesprächen über Rückkehr an Nvidia-Spitze – Bessent fordert neuen Chef von außerhalb",
+   "summary": "Der in Ungnade gefallene Nvidia-Chef spricht mit Verbündeten offenbar über eine mögliche Rückkehr. Rückhalt aus dem Weißen Haus wird indes unwahrscheinlich.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-huang-offenbar-in-gespraechen-ueber-rueckkehr-an-nvidia-spitze/100270044.html",
+   "published": "2026-11-15T21:32:48+00:00",
+   "first_seen": "2026-11-16T03:52:56.417842+00:00",
    "paywall": true
   },
   {
@@ -13248,258 +13500,6 @@
    "published": "2026-11-11T17:58:19+00:00",
    "first_seen": "2026-11-11T18:12:54.622098+00:00",
    "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Metall- und Elektroindustrie - IG-Metall plant im Tarifkonflikt ganztägige Warnstreiks",
-   "summary": "Im Tarifkonflikt der Metall- und Elektroindustrie erhöht die IG Metall den Druck auf die Arbeitgeber.",
-   "link": "https://www.deutschlandfunk.de/ig-metall-plant-im-tarifkonflikt-ganztaegige-warnstreiks-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Freizeit - Skifahren wird in der kommenden Wintersaison noch mal teurer - vor allem in Deutschland",
-   "summary": "Skipässe werden in der kommenden Wintersaison erneut teurer.",
-   "link": "https://www.deutschlandfunk.de/skifahren-wird-in-der-kommenden-wintersaison-noch-mal-teurer-vor-allem-in-deutschland-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Nach Gesprächen in Abu Dhabi - Russland schließt Gebietstausch mit der Ukraine aus",
-   "summary": "Russland schließt einen Gebietstausch mit der Ukraine im Rahmen eines Friedensabkommens aus. Das sagte der russische Chefunterhändler Medinsky der Nachrichtenagentur Tass nach den Gesprächen in Abu Dhabi. Er betonte, ein gerechtes…",
-   "link": "https://www.deutschlandfunk.de/russland-schliesst-gebietstausch-mit-der-ukraine-aus-102.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Basilika von Luján - Mehr als zwei Millionen Menschen feiern Papst-Messe in Argentinien",
-   "summary": "Papst Leo XIV. hat zum Abschluss seines Besuchs in Argentinien eine Freiluftmesse mit mehr als zwei Millionen Menschen gefeiert.",
-   "link": "https://www.deutschlandfunk.de/mehr-als-zwei-millionen-menschen-feiern-papst-messe-in-argentinien-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Europa - Flut von Droh-Mails gegen Schulen in Italien, Nordirland und Schottland",
-   "summary": "In mehreren europäischen Ländern hat es E-Mails mit Bombendrohungen gegen Schulen gegeben.",
-   "link": "https://www.deutschlandfunk.de/flut-von-droh-mails-gegen-schulen-in-italien-nordirland-und-schottland-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Warschau - Tausende Menschen in Polen zu Unabhängigkeitsmarsch versammelt",
-   "summary": "Zum Unabhängigkeitstag am 11. November haben sich in der polnischen Hauptstadt Warschau wie jedes Jahr tausende Menschen zum sogenannten Unabhängigkeitsmarsch versammelt.",
-   "link": "https://www.deutschlandfunk.de/tausende-menschen-in-polen-zu-unabhaengigkeitsmarsch-versammelt-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Kolumbien - Mehr als 500 Ex-Guerillakämpfer der Farc seit Friedensschluss 2016 getötet",
-   "summary": "In Kolumbien sind in den zehn Jahren seit Abschluss des Friedensabkommens mit der Farc-Guerilla mehr als 500 der ehemaligen Guerillakämpfer getötet worden.",
-   "link": "https://www.deutschlandfunk.de/mehr-als-500-ex-guerillakaempfer-der-farc-seit-friedensschluss-2016-getoetet-102.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Epidemie - Letzter Ebola-Patient in Kenia als geheilt aus Krankenhaus entlassen",
-   "summary": "In Kenia ist der letzte Ebola-Patient als genesen aus dem Krankenhaus entlassen worden.",
-   "link": "https://www.deutschlandfunk.de/letzter-ebola-patient-in-kenia-als-geheilt-aus-krankenhaus-entlassen-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Natur - Brandenburg ermöglicht schnelleren Abschuss von Wölfen",
-   "summary": "In Brandenburg können Wölfe, die Weidetiere reißen oder für Menschen gefährlich sind, künftig schneller bejagt werden.",
-   "link": "https://www.deutschlandfunk.de/brandenburg-ermoeglicht-schnelleren-abschuss-von-woelfen-102.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Bob- und Rodelbahn - Eiskanal am Königssee wiedereröffnet",
-   "summary": "Fünf Jahre nach einer weitgehenden Zerstörung durch Geröll- und Wassermassen ist die Bob- und Rodelbahn am Königssee wieder offiziell in Betrieb.",
-   "link": "https://www.deutschlandfunk.de/eiskanal-am-koenigssee-wiedereroeffnet-102.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Kabinett - Bundesregierung beschließt strategische Gasreserve",
-   "summary": "Die Bundesregierung hat die Einführung einer strategischen Gasreserve auf den Weg gebracht.",
-   "link": "https://www.deutschlandfunk.de/bundesregierung-beschliesst-strategische-gasreserve-102.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Nahverkehr lahmgelegt - Laut Gewerkschaften beteiligten sich rund vier Millionen Arbeitnehmer am Generalstreik in Spanien",
-   "summary": "In Spanien ist es aufgrund eines Generalstreiks zu erheblichen Einschränkungen gekommen.",
-   "link": "https://www.deutschlandfunk.de/laut-gewerkschaften-beteiligten-sich-rund-vier-millionen-arbeitnehmer-am-generalstreik-in-spanien-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Karneval - Auftakt zur fünften Jahreszeit",
-   "summary": "Pünktlich um 11 Uhr 11 ist in den rheinischen Karnevalshochburgen die fünfte Jahreszeit eingeläutet worden.",
-   "link": "https://www.deutschlandfunk.de/auftakt-zur-fuenften-jahreszeit-128.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Unwetter - Sturmwarnung: Portugal schließt Schulen und Behörden - Unwetter fällt weniger stark aus als befürchtet",
-   "summary": "In Portugal sind wegen eines Sturmes Schulen sowie zahlreiche Behörden und Supermärkte vorsorglich geschlossen geblieben.",
-   "link": "https://www.deutschlandfunk.de/sturmwarnung-portugal-schliesst-schulen-und-behoerden-unwetter-faellt-weniger-stark-aus-als-befuerch-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Wetter - Am Donnerstag bewölkt mit Schauern",
-   "summary": "Das Wetter: In der Nacht in der Mitte und anfangs auch im Südosten noch gebietsweise Regen. Sonst meist bedeckt oder neblig trüb, lediglich im Norden teilweise klar. Im Nordseeumfeld später aufkommende Schauer. Tiefstwerte plus 9 bis minus…",
-   "link": "https://www.deutschlandfunk.de/am-donnerstag-bewoelkt-mit-schauern-154.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Verteidigung: Wie Bremen die milliardenschwere Nato-Drehscheibe blockiert",
-   "summary": "Für 1,35 Milliarden Euro werden die Häfen zum wichtigsten Logistik-Hub der Nato ausgebaut. Doch die Zugverbindung droht mit Regionalbahnen sowie Zügen mit Seecontainern und Stahl zu verstopfen.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/verteidigung-wie-bremen-die-milliardenschwere-nato-drehscheibe-blockiert/100266994.html",
-   "published": "2026-11-11T17:56:41+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien legen deutlich zu",
-   "summary": "Die hohe Inflation drückt die Stimmung nicht allzu lange: Der offenbar hohe Andrang auf den Börsengang von Anthropic sowie starke Quartalszahlen motivieren Anleger zum Kauf von Tech-Aktien.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-legen-deutlich-zu/100269138.html",
-   "published": "2026-11-11T17:56:11+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien schließen deutlich im Plus",
-   "summary": "Die hohe Inflation drückt die Stimmung nicht allzu lange: Der offenbar hohe Andrang auf den Börsengang von Anthropic sowie starke Quartalszahlen motivieren Anleger zum Kauf von Tech-Aktien.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-schliessen-deutlich-im-plus/100269138.html",
-   "published": "2026-11-11T17:56:11+00:00",
-   "first_seen": "2026-11-12T01:09:58.752940+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Lufthansa fliegt wieder nach Dubai - aber stark abgespeckt",
-   "summary": "Unterbrechung beendet +++ Fresenius baut die Beteiligung an FMC weiter ab +++ Kündigungsschutz-Lockerung soll erst 2028 greifen +++ IG Metall will eine Verschärfung nach ergebnislosen ‌Verhandlungen +++ alle Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lufthansa-fliegt-wieder-nach-dubai-faz-200452404.html",
-   "published": "2026-11-11T17:52:11+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Zukünftige Bundespräsidentin: Die problematische BFF",
-   "summary": "Ilse Aigner soll Bundespräsidentin werden. Man weiß wenig über sie, dafür aber viel über ihre Schwurbelfreundin Monika Gruber. Was sagt das über Aigner? mehr...",
-   "link": "https://taz.de/Zukuenftige-Bundespraesidentin/!6229189/",
-   "published": "2026-11-11T17:52:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Soldatin Gille: \"Ich spürte, wie er sich auf mich drückte\"",
-   "summary": "Laura Gille hat als Soldatin sexualisierte Gewalt erlebt. Im Interview mit ZDFheute spricht sie über ihre Erlebnisse als Frau in der Bundeswehr.",
-   "link": "https://www.zdfheute.de/politik/soldatin-dunkelfeldstudie-bundeswehr-interview-100.html",
-   "published": "2026-11-11T17:50:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Deep Read: Das Wunder von Polen: Hat der lange Boom seinen Höhepunkt erreicht?",
-   "summary": "Die Anzeichen mehren sich, dass das Turbowachstum in Polen an sein Ende kommt. Die nächste Regierung wird sparen – und eine Einwanderungsstrategie entwickeln müssen.",
-   "link": "https://www.handelsblatt.com/politik/international/polen-hat-polens-boom-seinen-hoehepunkt-ueberschritten/100264328.html",
-   "published": "2026-11-11T17:48:43+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "dm ruft Proteinriegel zurück – wegen möglicher Kunststoffteile",
-   "summary": "Die Drogeriemarktkette dm ruft den »Sportness 50% Proteinriegel mit Crispy-White-Chocolate-Geschmack, 45 Gramm« zurück, weil sich möglicherweise Kunststoffteile darin befinden. Betroffen sind allerdings nur bestimmte Chargen.",
-   "link": "https://www.spiegel.de/wirtschaft/service/dm-ruft-proteinriegel-zurueck-wegen-moeglicher-kunststoffteile-a-4f68ea74-d97c-4191-86f6-3d99bd373d5a#ref=rss",
-   "published": "2026-11-11T17:38:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Asia Techonomics: Entscheidet Elon Musk in Myanmar über Leben und Tod?",
-   "summary": "Nicht nur im Ukrainekrieg ist Starlink unverzichtbar: In Myanmar warnen Helfer über das Satelliteninternet vor Luftangriffen. Doch immer mehr Nutzer verlieren den Zugang. Es ist Zeit für Wettbewerb.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/asia-techonomics-entscheidet-elon-musk-in-myanmar-ueber-leben-und-tod/100268624.html",
-   "published": "2026-11-11T17:24:57+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Jensen Huang: Ein Starmanager, der sich für unersetzlich hält",
-   "summary": "Der Nvidia-Chef gerät durch die Spionageaffäre stark unter Druck. Aber ihn abzulösen, ist nicht leicht – denn er hat Nvidia mit einer ungewöhnlichen Organisationsstruktur auf sich selbst zugeschnitten.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-unter-druck-warum-nvidia-ihn-kaum-ersetzen-kann-201673077.html",
-   "published": "2026-11-11T17:24:33+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Chinas Geheimdienst: „Sex-Spionage ist eine Methode, die wir schon lange kennen“",
-   "summary": "Wie werden Honigfallen aufgestellt? China-Experte Ralph Weber sagt: Mit seiner Nähe zu Donald Trump war Nvidia-Chef Jensen Huang für den chinesischen Geheimdienst ein absolutes Topziel.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/china-und-nvidia-sex-spionage-ist-ein-uebliches-vorgehen-201672334.html",
-   "published": "2026-11-11T17:24:23+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "EU will gegen Tricks im Online-Handel vorgehen",
-   "summary": "Manipulative Onlineshops, Influencer-Marketing und süchtig machende Designs von sozialen Medien: All das soll nach einem neuen Vorschlag der EU-Kommission besser reguliert werden.",
-   "link": "https://www.zdfheute.de/politik/ausland/online-digital-fairness-act-verbraucherschutz-100.html",
-   "published": "2026-11-11T17:24:00+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte Insight: Wer hat Angst vor den Über-CEOs?",
-   "summary": "Die Affäre rund um das Liebesleben von Nvidia-Chef Jensen Huang beweist, dass übermächtige Vorstandschefs eine eigene Risikoklasse für Technologie-Aktien darstellen, meint Michael Maisch.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/nvidia-skandal-wer-hat-angst-vor-den-ueber-ceos/100268401.html",
-   "published": "2026-11-11T17:15:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": true
   }
  ]
 }
