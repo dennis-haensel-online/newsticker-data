@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-16T12:16:33.492396+00:00",
+ "updated": "2026-11-16T22:39:19.823381+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Anthropic-Aktie: Die wichtigsten Antworten zu Anthropics Börsengang",
+   "summary": "Anthropic gibt neue Informationen zum anstehenden Börsengang bekannt. Das Interesse von Investoren scheint groß zu sein. Was Sie jetzt wissen sollten.",
+   "link": "https://www.wiwo.de/finanzen/boerse/anthropic-aktie-die-wichtigsten-antworten-zum-anthropic-boersengang/100268848.html",
+   "published": "2026-11-16T17:19:00+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
+   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-mit-diesen-funktionen-baut-anthropic-claude-zum-buerowerkzeug-aus-01/100268547.html",
+   "published": "2026-11-16T15:47:00+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mobilitätswende: Der Fahrer wird zum Passagier – Jobrad-Gründer lässt das E-Bike autonom fahren",
+   "summary": "Ulrich Prediger entwickelt mit seinem Start-up Veluto ein vollverkleidetes Roboter-Zweirad. Welches Potenzial hat seine Erfindung?",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/elektromobilitaet-neues-start-up-veluto-entwickelt-autonomes-roboter-e-rad-01/100266914.html",
+   "published": "2026-11-16T15:40:00+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "EU genehmigt Unicredit Übernahme von Commerzbank",
@@ -45,6 +72,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/wirecard-anleger-ey-klagen-li.3580791",
    "published": "2026-11-16T11:30:19+00:00",
    "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Betrugsskandal: Neuer Streit um Forderungen der Wirecard-Aktionäre",
+   "summary": "Bei der Auseinandersetzung um milliardenschwere Ansprüche früherer Wirecard-Aktionäre gibt es einen neuen Konflikt. Im Zentrum steht die Frage, ob Forderungen Tausender Anleger gegen die Bilanzprüfer von EY verjährt sind.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/wirecard-skandal-anleger-ey-klagen-li.3580791",
+   "published": "2026-11-16T11:30:19+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": true
   },
   {
@@ -486,69 +522,6 @@
    "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-mercedes-stoppt-investitionen-in-deutschland-und-prueft-schliessung-von-werken/100269484.html",
    "published": "2026-11-12T16:36:14+00:00",
    "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Rücktritt von Jensen Huang kein Schock für Wall Street",
-   "summary": "Die Möglichkeit, dass der Nvidia-CEO zurücktreten könnte, war längst eingepreist. Und: Anthropic könnte bei IPO mit über 1,5 Billionen Dollar bewertet werden.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-ruecktritt-von-jensen-huang-kein-schock-fuer-wall-street/100269506.html",
-   "published": "2026-11-12T16:11:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technologie: Gea bekommt neuen Vorstandsvorsitzenden – Aktie rutscht ab",
-   "summary": "Stefan Klebert gibt nach der Hauptversammlung im April den Chefposten bei Gea ab. Sein Nachfolger kommt aus dem eigenen Haus, Anleger reagieren nervös auf den Abschied.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/technologie-gea-bekommt-neuen-vorstandsvorsitzenden-aktie-rutscht-ab/100269496.html",
-   "published": "2026-11-12T16:09:26+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Haushalt: Risiko statt Dividende – so soll die KfW zum Etat beitragen",
-   "summary": "Die Bundesregierung wollte in den Jahren 2027 und 2028 Gewinne von der Förderbank KfW abschöpfen. Dazu hätte sie aber ein Gesetz ändern müssen. Nun zeichnet sich eine Alternative ab.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/haushalt-risiko-statt-dividende-so-soll-die-kfw-zum-etat-beitragen/100269432.html",
-   "published": "2026-11-12T15:39:12+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Ventilatoren: „Was wird jetzt aus unserem Fabrikle?“",
-   "summary": "Das Übernahmeangebot eines US-Konzerns für den deutschen Ventilatorenhersteller EBM-Papst löst am Firmenstandort eine Schockwelle aus. Viele bei dem Weltmarktführer machen sich Sorgen, was nun wird.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/ebm-papst-mulfingen-baden-wuerttemberg-madison-air-larry-gies-gerhard-sturm-li.3573299",
-   "published": "2026-11-12T14:49:04+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Robotik-Start-up: Agile Robots wird mit 8,5 Milliarden Dollar bewertet",
-   "summary": "Der Münchner Roboterhersteller sammelt in einer Finanzierungsrunde 500 Millionen Dollar ein. Nun stehen zwei Milliarden Dollar für das Wachstum zur Verfügung.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/start-up-agile-robots-ist-8-5-milliarden-dollar-wert-accg-201676518.html",
-   "published": "2026-11-12T13:42:56+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Autobahn GmbH: Experten warnen vor Risiken eigener Verschuldung",
-   "summary": "Die Betreibergesellschaft der Autobahnen soll sich künftig selbst verschulden und so den Bundeshaushalt entlasten. Experten befürchten: Diese Rechnung geht nicht auf.",
-   "link": "https://www.spiegel.de/wirtschaft/autobahn-gmbh-experten-warnen-vor-risiken-eigener-verschuldung-a-615f1c60-95ee-4a6b-8efb-359ae69265a1#ref=rss",
-   "published": "2026-11-12T09:52:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Millionen eingesammelt: Münchner Start-up will Europas Verteidigung mit räumlicher KI stärken",
-   "summary": "Das Deeptech- und Verteidigungs-Start-up SE3 hat Millionen eingeworben. Der Mitgründer erklärt, was er mit dem Geld vorhat – und welche Expansionspläne dahinterstecken.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/muenchner-start-up-se3-will-mit-raeumlicher-ki-technologie-in-europa-expandieren-accg-201658039.html",
-   "published": "2026-11-12T08:12:48+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
    "paywall": true
   }
  ]

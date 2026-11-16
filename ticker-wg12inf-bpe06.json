@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-16T12:16:33.492396+00:00",
+ "updated": "2026-11-16T22:39:19.823381+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Außenministertreffen - Hackerangriffe auf Kühlsysteme: EU plant neue Sanktionen gegen den Iran",
+   "summary": "Die Europäische Union will nach den Cyberangriffen auf Kühlsysteme von Supermarktketten neue Sanktionen gegen den Iran verhängen.",
+   "link": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-100.html",
+   "published": "2026-11-16T22:02:28+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Gravierender Cloud-Ausfall: Alter Programmfehler löste Microsoft-Ausfall aus",
@@ -370,24 +379,6 @@
    "published": "2026-11-12T16:24:00+00:00",
    "first_seen": "2026-11-12T17:22:50.690101+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Mutmassliche Spionin: Die vielen Karrieren der Alice Huang",
-   "summary": "Alice Huang war Journalistin, Bankerin, Videospiel-Investorin und Cloud-Betreiberin. Auf Wechat prahlte sie mit ihrer Beziehung zu Jensen Huang. War sie auch Spionin?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/alice-huang-journalistin-bankerin-spionin-201677181.html",
-   "published": "2026-11-12T14:20:29+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cybersecurity: Experten warnen: Kühlregale sind erst der Anfang – Hacker zielen auf den Mittelstand",
-   "summary": "Die Zahl der Cyberangriffe steigt stetig, Künstliche Intelligenz verschärft das Problem. Doch nach wie vor sind viele Unternehmen nicht ausreichend geschützt. Dabei wäre das durchaus möglich.",
-   "link": "https://www.handelsblatt.com/unternehmen/mittelstand/cybersecurity-hacker-zielen-auf-den-mittelstand/100268457.html",
-   "published": "2026-11-12T13:40:44+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
   }
  ]
 }

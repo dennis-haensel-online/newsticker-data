@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-11-16T12:16:33.492396+00:00",
+ "updated": "2026-11-16T22:39:19.823381+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Betrugsverfahren: Wanja Oberhof und der Firmen-Exit ins Obdachlosenheim",
+   "summary": "Mit WAOW Entrepreneurship investierte Oberhof in zahlreiche Unternehmen. Im März bekam die Firma einen neuen Alleingesellschafter. Die Spur führt ins Obdachlosenmilieu.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/wanja-oberhof-der-fragwuerdige-verkauf-des-family-office/100270252.html",
+   "published": "2026-11-16T19:04:11+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: DAX bleibt nahe Rekordhoch",
+   "summary": "Zum Wochenauftakt fällt der DAX moderat. Er bleibt aber nah an seinem Rekordhoch. Investoren warten vor allem die Nvidia-Bilanz ab. Außerdem sorgen sie sich um eine Zinserhöhung in den USA.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+   "published": "2026-11-16T17:21:14+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": false
+  },
   {
    "label": "SZ",
    "title": "Betrugsskandal: Neuer Streit um Forderungen der Wirecard-Aktionäre",
@@ -9,6 +27,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/wirecard-anleger-ey-klagen-li.3580791",
    "published": "2026-11-16T11:30:19+00:00",
    "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Betrugsskandal: Neuer Streit um Forderungen der Wirecard-Aktionäre",
+   "summary": "Bei der Auseinandersetzung um milliardenschwere Ansprüche früherer Wirecard-Aktionäre gibt es einen neuen Konflikt. Im Zentrum steht die Frage, ob Forderungen Tausender Anleger gegen die Bilanzprüfer von EY verjährt sind.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/wirecard-skandal-anleger-ey-klagen-li.3580791",
+   "published": "2026-11-16T11:30:19+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": true
   },
   {
@@ -153,42 +180,6 @@
    "link": "https://www.handelsblatt.com/audio/today/today-was-bedeutet-der-ruecktritt-von-nvidia-ceo-huang-fuer-die-nvidia/100269508.html",
    "published": "2026-11-12T16:34:31+00:00",
    "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "ATP Finals: Zverev mit Losglück zum Saisonabschluss",
-   "summary": "Alexander Zverev hat bei den ATP Finals eine spannende Auslosung erwischt. Der Weltranglistenerste trifft zunächst auf drei Gegner, gegen die er eine positive Bilanz hat.",
-   "link": "https://www.zdfheute.de/sport/tennis-atp-finals-auslosung-zverev-100.html",
-   "published": "2026-11-12T13:07:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Autobahn GmbH: Experten warnen vor Risiken eigener Verschuldung",
-   "summary": "Die Betreibergesellschaft der Autobahnen soll sich künftig selbst verschulden und so den Bundeshaushalt entlasten. Experten befürchten: Diese Rechnung geht nicht auf.",
-   "link": "https://www.spiegel.de/wirtschaft/autobahn-gmbh-experten-warnen-vor-risiken-eigener-verschuldung-a-615f1c60-95ee-4a6b-8efb-359ae69265a1#ref=rss",
-   "published": "2026-11-12T09:52:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Börse: Dax kratzt an 27.000-Punkte-Marke",
-   "summary": "Starke Bilanzen wichtiger Dax-Werte treiben den Index zum Handelsstart auf neue Höhen. Innerhalb nur einer Woche hat der Dax mehr als 1000 Punkte gewonnen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-kratzt-an-27.000-punkte-marke/100269311.html",
-   "published": "2026-11-12T08:44:18+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitszeit: Arbeitszeitbetrug: So können sich Unternehmen wehren",
-   "summary": "Wäsche waschen, einkaufen, Netflix schauen: Immer wieder erledigen Beschäftigte Privates in ihrer Arbeitszeit. Wo der Betrug beginnt und was Unternehmen dagegen machen können.",
-   "link": "https://www.handelsblatt.com/karriere/arbeitszeitbetrug-was-unternehmen-bei-einem-betrugsverdacht-tun-duerfen/100141010.html",
-   "published": "2026-11-12T08:24:00+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
    "paywall": true
   }
  ]

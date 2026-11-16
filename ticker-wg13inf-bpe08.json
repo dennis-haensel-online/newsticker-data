@@ -1,7 +1,97 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-16T12:16:33.492396+00:00",
+ "updated": "2026-11-16T22:39:19.823381+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Außenministertreffen - Hackerangriffe auf Kühlsysteme: EU plant neue Sanktionen gegen den Iran",
+   "summary": "Die Europäische Union will nach den Cyberangriffen auf Kühlsysteme von Supermarktketten neue Sanktionen gegen den Iran verhängen.",
+   "link": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-100.html",
+   "published": "2026-11-16T22:02:28+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "ChatGPT-Entwickler: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+   "summary": "Die Hacking-Attacke von KI-Software des ChatGPT-Entwicklers OpenAI hat Sorgen um Risiken der Technologie befeuert. Jetzt gibt es auch eine Klage des Bundesstaats, in dem OpenAI zu Hause ist.",
+   "link": "https://www.handelsblatt.com/politik/international/chatgpt-entwickler-kalifornien-verklagt-openai-wegen-hacking-attacken/100270358.html",
+   "published": "2026-11-16T20:33:57+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "ChatGPT-Firma: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+   "summary": "Die Hacking-Attacke von KI-Software des ChatGPT-Entwicklers OpenAI hat Sorgen um Risiken der Technologie befeuert. Jetzt gibt es auch eine Klage des Bundesstaats, in dem OpenAI zu Hause ist.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/chatgpt-firma-kalifornien-verklagt-openai-wegen-hacking-attacken/100270354.html",
+   "published": "2026-11-16T19:44:51+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "ChatGPT-Firma: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+   "summary": "Die Hacking-Attacke von KI-Software des ChatGPT-Entwicklers OpenAI hat Sorgen um Risiken der Technologie befeuert. Jetzt gibt es auch eine Klage des Bundesstaats, in dem OpenAI zu Hause ist.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/chatgpt-firma-kalifornien-verklagt-openai-wegen-hacking-attacken/100270355.html",
+   "published": "2026-11-16T19:44:51+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "KI-Initiative auf der Weltklimakonferenz: Wenn KI vor dem Waldbrand warnt",
+   "summary": "Ist KI eine Gefahr für das Klima oder kann sie auch Mittel für die Rettung sein? In Antalya liegen Hoffnung und Sorge eng beieinander. mehr...",
+   "link": "https://taz.de/KI-Initiative-auf-der-Weltklimakonferenz/!6230327/",
+   "published": "2026-11-16T19:07:00+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Nvidia-Verwaltungsrat schließt Rückkehr von Ex-Chef Huang aus",
+   "summary": "Trotz Rufen aus der Tech-Branche und Rückendeckung von Donald Trump denkt das Gremium laut einem Medienbericht nicht über ein Comeback des Nvidia-Mitgründers nach.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/nvidia-verwaltungsrat-schliesst-rueckkehr-von-ex-chef-huang-aus/100270044.html",
+   "published": "2026-11-16T18:17:36+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Chip-Exporte: Nvidia-Affäre überschattet Trumps Asienreise – Handelskonflikt mit China könnte neu aufflammen",
+   "summary": "Eine mögliche Verschärfung der Tech-Exportkontrollen gefährdet den Handelsdeal mit Peking – und den Versuch der USA, den Einfluss chinesischer KI in Südostasien zurückzudrängen.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-und-china-die-nvidia-affaere-ueberschattet-trumps-asienreise/100269704.html",
+   "published": "2026-11-16T16:44:26+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
+   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/ki-mit-diesen-funktionen-baut-anthropic-claude-zum-buerowerkzeug-aus-01/100268547.html",
+   "published": "2026-11-16T15:47:00+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: US-Regierung will Exportregeln für Nvidia-Chips verschärfen",
+   "summary": "Chinesische Firmen dürfen bislang keine modernen KI-Chips von Herstellern wie Nvidia kaufen – fanden aber einen Umweg. Nun will die US-Regierung das Schlupfloch schließen.",
+   "link": "https://www.handelsblatt.com/politik/international/nvidia-us-regierung-will-exportregeln-fuer-chips-verschaerfen/100270289.html",
+   "published": "2026-11-16T15:46:39+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mobilitätswende: Der Fahrer wird zum Passagier – Jobrad-Gründer lässt das E-Bike autonom fahren",
+   "summary": "Ulrich Prediger entwickelt mit seinem Start-up Veluto ein vollverkleidetes Roboter-Zweirad. Welches Potenzial hat seine Erfindung?",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/elektromobilitaet-neues-start-up-veluto-entwickelt-autonomes-roboter-e-rad-01/100266914.html",
+   "published": "2026-11-16T15:40:00+00:00",
+   "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Digitalisierung - Schleswig-Holsteins Staatskanzleichef Schrödter fordert mehr digitale Resilienz",
@@ -811,96 +901,6 @@
    "published": "2026-11-12T17:31:15+00:00",
    "first_seen": "2026-11-12T22:58:32.813732+00:00",
    "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Bundestag - Sicherheitsbehörden können bei Cyberangriffen künftig zurückschlagen",
-   "summary": "Die deutschen Sicherheitsbehörden dürfen bei Cyberangriffen künftig zurückschlagen. Das beschloss der Bundestag mit den Stimmen von Union und SPD. Demnach dürfen Bundespolizei, Bundeskriminalamt oder das Bundesamt für Sicherheit in der…",
-   "link": "https://www.deutschlandfunk.de/sicherheitsbehoerden-koennen-bei-cyberangriffen-kuenftig-zurueckschlagen-102.html",
-   "published": "2026-11-12T17:06:40+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chip-Riese: Nvidia-Chef tritt nach Affären zurück",
-   "summary": "Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms. Er stürzt nun über außereheliche Affären, darunter auch eine mit politischem Zündstoff. Wie gut kann der Chip-Riese seinen Abgang verdauen?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-nvidia-chef-tritt-nach-affaeren-zurueck/100269468.html",
-   "published": "2026-11-12T16:47:09+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Musterdepot – Zukunft: Bei KI-Aktien kommt es nun auf Differenzierung an",
-   "summary": "Die Midterms haben einmal mehr die KI-Sorgen der Investoren verdeutlicht. Entscheidend ist aber, welche Konzerne ihre Marktstellung und Ertragskraft behaupten.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/musterdepots/musterdepot-bei-ki-aktien-kommt-es-nun-auf-differenzierung-an/100268766.html",
-   "published": "2026-11-12T16:40:28+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Bundeswehreinsatz zur Überwachung des Libyen-Embargos",
-   "summary": "Debatte zur Fortsetzung der Beteiligung der Bundeswehr an der durch die Europäische Union geführten Operation \"Eunavfor Med Irini\".",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247430",
-   "published": "2026-11-12T16:24:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Chipkonzern: Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-   "summary": "Der Nvidia-Verwaltungsrat reagiert auf die Krise des Konzerns und beruft die bisherige Finanzchefin zur Interims-CEO. Parallel wird extern gesucht. Die Aktie gibt nach.",
-   "link": "https://www.handelsblatt.com/technik/ki/nvidia-jensen-huang-tritt-nach-mehreren-affaeren-zurueck/100269321.html",
-   "published": "2026-11-12T16:16:12+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Analyse: 37 Dax-Konzerne fangen den Gewinneinbruch der drei Autobauer auf",
-   "summary": "Weltwirtschaft, Binnenkonjunktur und der KI-Boom treiben die Dax-Konzerne. In den ersten drei Quartalen verdienten die Unternehmen neun Prozent mehr. Was Analysten für 2027 erwarten.",
-   "link": "https://www.handelsblatt.com/unternehmen/management/dax-37-konzerne-fangen-den-einbruch-der-drei-autobauer-auf/100266156.html",
-   "published": "2026-11-12T16:15:44+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie Schulen beim Aufwachsen mit Algorithmen helfen sollen",
-   "summary": "Ein Alltag ohne digitale Medien bei Kindern und Jugendlichen? Undenkbar. Schulen sollen dazu die Chancen und Risiken vermitteln. Mit Erfolg? Ein Beispiel aus Thüringen.",
-   "link": "https://www.zdfheute.de/politik/deutschland/schule-social-media-informatik-jugendmedientag-100.html",
-   "published": "2026-11-12T15:34:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Briefing: Was unter der neuen Chefin mit Nvidia passiert",
-   "summary": "Jensen Huang prägte den Chipkonzern. Keine Einzelgespräche und 60 unterstellte Manager waren Teil des Systems Huang. Jetzt übernimmt Finanzchefin Colette Kress. Aber wie?",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-briefing/ki-briefing-was-unter-der-neuen-chefin-mit-nvidia-passiert/100268863.html",
-   "published": "2026-11-12T15:28:06+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Aktien: „Ein dunkles Kapitel für Nvidia“ – Analysten bewerten Aktie neu",
-   "summary": "Nach dem Rücktritt von Nvidia-Chef Huang bricht die Aktie ein. Analysten müssen sich nun auf eine neue Ära beim größten Chipkonzern einstellen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/geldanlage-dunkles-kapitel-fuer-nvidia-analysten-bewerten-aktie-neu/100269354.html",
-   "published": "2026-11-12T15:06:35+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Siemens: Das KI-Risiko",
-   "summary": "Der Technologiekonzern wird immer digitaler und zuversichtlicher. Vorstandschef Roland Busch sollte jedoch die Risiken ernst nehmen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-ki-risiko-von-siemens-201676275.html",
-   "published": "2026-11-12T13:43:11+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
   }
  ]
 }
