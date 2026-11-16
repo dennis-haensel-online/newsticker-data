@@ -1,7 +1,79 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-11-16T03:52:56.417842+00:00",
+ "updated": "2026-11-16T12:16:33.492396+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
+   "summary": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
+   "published": "2026-11-16T11:50:50+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Lieferkettengesetz in Serbien: Auf Verschleiß",
+   "summary": "In Serbien fertigen Arbeiterinnen Bauteile für Mercedes-Benz – mit gesundheitlichen Folgen. Das deutsche Lieferkettengesetz soll sie schützen. Wie wirksam ist es? mehr...",
+   "link": "https://taz.de/Lieferkettengesetz-in-Serbien/!6230080/",
+   "published": "2026-11-16T11:39:00+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Commerzbank: EU macht Weg frei für Commerzbank-Übernahme durch UniCredit",
+   "summary": "Die EU-Kommission hat keine Einwände gegen die geplante Übernahme der Commerzbank durch UniCredit. Es gebe keine wettbewerbsrechtlichen Bedenken dagegen.",
+   "link": "https://www.zeit.de/geld/2026-11/eu-macht-weg-frei-fuer-commerzbank-uebernahme-durch-unicredit",
+   "published": "2026-11-16T11:24:23+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Stahlgipfel: Branche dringt auf Entlastung beim Strompreis",
+   "summary": "Strom ist für die Stahlindustrie ein entscheidender Faktor. Beim Gipfel fordert die Branche Entlastung von der Regierung. 2000 Beschäftigte zeigten ihren Unmut bereits vorab.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/stahlgipfel-branche-dringt-auf-entlastung-beim-strompreis/100270214.html",
+   "published": "2026-11-16T11:14:07+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Branchentreffen in Salzgitter: Stahlgipfel: Branche dringt auf Entlastung beim Strompreis",
+   "summary": "Strom ist für die Stahlindustrie ein entscheidender Faktor. Beim Gipfel fordert die Branche Entlastung von der Regierung. Mehr als 2.000 Beschäftigte machen ihrem Unmut Luft.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/branchentreffen-in-salzgitter-stahlgipfel-branche-dringt-auf-entlastung-beim-strompreis/100270173.html",
+   "published": "2026-11-16T11:00:05+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Energieverbrauch: Die deutsche Industrie verbraucht deutlich weniger Energie",
+   "summary": "Hohe Energiepreise haben die Produktion in energieintensiven Branchen gebremst. Die Chemieindustrie bleibt weiterhin der größte Verbraucher.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/energieverbrauch-die-deutsche-industrie-verbraucht-deutlich-weniger-energie/100270144.html",
+   "published": "2026-11-16T10:01:00+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Energiepreise: So teuer wird Heizen diesen Winter",
+   "summary": "Egal ob Öl, Gas oder Fernwärme – teurer wird es überall und die Sorge vor der unbezahlbaren Heizrechnung ist zurück. Vor allem Mietern droht eine böse Überraschung.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/energiepreise-heizkosten-winter-gas-strom",
+   "published": "2026-11-16T07:01:12+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
+   "summary": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
+   "published": "2026-11-16T06:48:12+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Verteidigung: Staaten planen bei UN-Konferenz Vorstoß gegen Killerroboter",
@@ -215,33 +287,6 @@
    "summary": "Die SpaceX-Tochter legt die Grundlagen für Satellitenmobilfunk auch in Deutschland und wird zur harten Konkurrenz für Deutsche Telekom und Co. – trotz Imageproblemen.",
    "link": "https://www.handelsblatt.com/technik/it-internet/spacex-wie-starlink-telekom-und-vodafone-konkurrenz-machen-will/100267344.html",
    "published": "2026-11-12T08:35:00+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "BMW & Skoda: Nach Angriffen in der Ukraine – Autoindustrie fehlen erneut Kabelbäume",
-   "summary": "Russische Angriffe treffen Werke eines deutschen Zulieferers und unterbrechen die Lieferkette, BMW muss Schichten ausfallen lassen. Auch Ausweichstandorte scheinen nur bedingt sicher.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-angriffe-in-der-ukraine-stoeren-die-lieferketten-bei-bmw-und-skoda/100268739.html",
-   "published": "2026-11-12T07:17:00+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Anthropic macht Microsoft Konkurrenz bei Bürosoftware",
-   "summary": "Der Claude-Entwickler stellt eine eigene Tabellenkalkulation, einen Assistenten für Videokonferenzen und andere Büroanwendungen vor. Es ist der Auftakt der Werbetour für den Börsengang.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/ki-wie-anthropic-mit-claude-ins-geschaeft-von-microsoft-draengt/100268547.html",
-   "published": "2026-11-12T07:01:00+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pharmakonzern: KI und Pharma beflügeln Merck – Dax-Konzern hebt Prognose erneut an",
-   "summary": "Der Pharmakonzern profitiert von einer hohen Nachfrage nach Künstlicher Intelligenz und Medikamenten gegen seltene Erkrankungen. Im dritten Quartal schneidet Merck besser ab als erwartet.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharmakonzern-ki-und-pharma-befluegeln-merck-prognose-erneut-angehoben/100269286.html",
-   "published": "2026-11-12T06:07:54+00:00",
    "first_seen": "2026-11-12T08:58:13.668700+00:00",
    "paywall": true
   }

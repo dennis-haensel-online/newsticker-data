@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-16T03:52:56.417842+00:00",
+ "updated": "2026-11-16T12:16:33.492396+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Konjunktur: Industrie in Deutschland streicht trotz gestiegener Umsätze Stellen",
+   "summary": "Deutsche Industrieunternehmen machen wieder mehr Umsatz, bauen jedoch gleichzeitig Stellen ab. »Auf dem Arbeitsmarkt kommt von der Erholung nichts an«, konstatiert EY.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/industrie-umsatz-jobabbau-arbeitsplaetze-autoindustrie-gxe",
+   "published": "2026-11-16T09:48:59+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Die \"Action Agenda\": Das freiwillige zweite Gleis",
+   "summary": "Mit der \"Global Climate Action Agenda\" wollen Länder freiwillig Klimaziele voranbringen. Die Initiativen sollen nun enger an den UN-Prozess gebunden werden. Was bringen sie bisher?",
+   "link": "https://www.zdfheute.de/politik/ausland/klimakonferenz-antalya-action-agenda-100.html",
+   "published": "2026-11-16T04:13:00+00:00",
+   "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "HRI-Konjunkturausblick: Gekaufter Aufschwung – es mangelt am Vertrauen von Unternehmern",
@@ -496,78 +514,6 @@
    "published": "2026-11-12T08:13:55+00:00",
    "first_seen": "2026-11-12T08:58:13.668700+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Konjunktur: Chemie-Industrie profitiert von höheren Preisen – Produktion sinkt aber",
-   "summary": "Die Produktion in der Chemie leidet unter der schwachen Konjunktur in Europa. Die Unternehmen bauen auch im dritten Quartal Stellen ab.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/drittes-quartal-chemie-industrie-profitiert-von-hoeheren-preisen/100269318.html",
-   "published": "2026-11-12T07:30:04+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie: „Deutschland im roten Bereich“: Chemie hält Aufschwung-Signale für trügerisch",
-   "summary": "Die Sondereffekte durch den Irankrieg verpuffen, die Konjunkturerholung bleibt aus, warnt der Chemieverband VCI. Jetzt rollt die nächste Belastungswelle auf die Branche zu: teures Gas.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-chemie-haelt-aufschwung-signale-fuer-truegerisch/100266743.html",
-   "published": "2026-11-12T07:30:00+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Milliardenbewertung: Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
-   "summary": "Roboter mit feinfühligen Händen und menschenähnliche Maschinen: Agile Robots zählt zu den großen Namen der Branche. Nun nimmt das bayerische Unternehmen die nächste Wachstumsstufe ins Visier.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/milliardenbewertung-muenchner-start-up-agile-robots-erhaelt-500-millionen-dollar/100269294.html",
-   "published": "2026-11-12T06:00:06+00:00",
-   "first_seen": "2026-11-12T08:58:13.668700+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Sachverständigenrat - Wirtschaftsweise erwarten für 2026 und 2027 wieder deutlich höheres Wachstum",
-   "summary": "Führende Ökonomen erwarten für dieses und kommendes Jahr ein spürbar stärkeres Wirtschaftswachstum in Deutschland.",
-   "link": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-fuer-2026-und-2027-wieder-deutlich-hoeheres-wachstum-116.html",
-   "published": "2026-11-12T00:50:05+00:00",
-   "first_seen": "2026-11-12T01:09:58.752940+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pharmaindustrie: Fresenius platziert FMC-Aktien für 523 Millionen Euro",
-   "summary": "Fresenius verkauft weitere Anteile an seiner ehemaligen Dialyse-Tochter FMC. Mit dem Erlös will der Konzern Spielraum für Investitionen in Wachstumsbereiche schaffen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharmaindustrie-fresenius-platziert-fmc-aktien-fuer-523-millionen-euro/100269228.html",
-   "published": "2026-11-11T19:52:05+00:00",
-   "first_seen": "2026-11-12T01:09:58.752940+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Arbeitsmarkt: „Keine Grundlage für ernsthaften Kompromiss“: Metalltarifrunde steht vor weiterer Eskalationsstufe",
-   "summary": "Am Donnerstag will der IG-Metall-Vorstand über ganztägige Warnstreiks entscheiden. Die Arbeitgeber haben keinen Zweifel, dass es so kommt – und protestieren schon vorab lautstark.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/arbeitsmarkt-metalltarifrunde-steht-vor-weiterer-eskalationsstufe/100269129.html",
-   "published": "2026-11-11T18:25:07+00:00",
-   "first_seen": "2026-11-12T01:09:58.752940+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarktreformen: Kritik an Schweitzers Reformplänen für Arbeitsmarkt",
-   "summary": "Im Gesetzentwurf will der Bundesarbeitsminister unter anderem am Kündigungsschutz und Arbeitszeitgesetz schrauben. Erste Reaktionen fallen gemischt aus.",
-   "link": "https://www.wiwo.de/politik/deutschland/arbeitsmarktreformen-kritik-an-schweitzers-reformplaenen-fuer-arbeitsmarkt/100269213.html",
-   "published": "2026-11-11T18:18:10+00:00",
-   "first_seen": "2026-11-12T01:09:58.752940+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Konjunkturprognose - Wirtschaftsweise erwarten deutlich höheres Wachstum - weitere Reformen angemahnt",
-   "summary": "Die Wirtschaft in Deutschland wächst wieder etwas stärker. Die sogenannten Wirtschaftsweisen haben ihre Konjunkturprognose für dieses und das kommende Jahr deutlich angehoben. Sie erwarten für dieses Jahr ein Wachstum von 1,3 Prozent, für…",
-   "link": "https://www.deutschlandfunk.de/wirtschaftsweise-erwarten-deutlich-hoeheres-wachstum-weitere-reformen-angemahnt-100.html",
-   "published": "2026-11-11T17:58:19+00:00",
-   "first_seen": "2026-11-11T18:12:54.622098+00:00",
-   "paywall": false
   }
  ]
 }
