@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-16T22:39:19.823381+00:00",
+ "updated": "2026-11-17T04:52:54.486113+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Außenministertreffen - Hackerangriffe auf Kühlsysteme: EU plant neue Sanktionen gegen den Iran",
+   "summary": "Die Europäische Union will nach den Cyberangriffen auf Kühlsysteme von Supermarktketten neue Sanktionen gegen den Iran verhängen.",
+   "link": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-102.html",
+   "published": "2026-11-17T04:41:16+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
+   "summary": "Konkurrenten wie AMD oder Qualcomm reiben sich nach dem Abgang von Huang als CEO bei Nvidia schon die Hände. Was ist dran am möglichen Umbruch der Chip-Branche - und wie viel hat er tatsächlich mit dem Abtritt Huangs zu tun? Von R.…",
+   "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html",
+   "published": "2026-11-17T03:16:17+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nvidia-Affäre: Schärfere Chip-Exportkontrollen überschatten Trumps Asienreise",
+   "summary": "Die Verschärfung der Tech-Exportkontrollen gefährdet den Handelsdeal mit Peking – und den Versuch der USA, den Einfluss chinesischer KI in Südostasien zurückzudrängen.",
+   "link": "https://www.handelsblatt.com/politik/international/nvidia-affaere-schaerfere-chip-exportkontrollen-ueberschatten-trumps-asienreise/100269704.html",
+   "published": "2026-11-17T03:01:15+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Volksbank-Analyse: So viele Firmengründungen wie seit elf Jahren nicht mehr",
+   "summary": "Mehr Menschen wagen den Schritt in die Selbstständigkeit. Besonders im KI-Bereich zeigt sich eine positive Entwicklung.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/volksbank-analyse-so-viele-firmengruendungen-wie-seit-elf-jahren-nicht-mehr/100270393.html",
+   "published": "2026-11-17T03:00:05+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+   "summary": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an - ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt und getestet. Von R. Spiegelhauer.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+   "published": "2026-11-17T01:16:16+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rivalität mit China: Neue US-Einschränkungen für Export von KI-Chips",
+   "summary": "Die US-Regierung verbietet den Export moderner Chips etwa von Nvidia nach China. Und doch haben chinesische Stellen manchmal Zugriff darauf. Verschärfte Exportregeln sollen das verhindern.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/rivalitaet-mit-china-neue-us-einschraenkungen-fuer-export-von-ki-chips/100270383.html",
+   "published": "2026-11-17T01:02:28+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Außenministertreffen - Hackerangriffe auf Kühlsysteme: EU plant neue Sanktionen gegen den Iran",
@@ -10,6 +64,15 @@
    "published": "2026-11-16T22:02:28+00:00",
    "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Cyberangriffe: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+   "summary": "Die Hacking-Attacke von KI-Software des ChatGPT-Entwicklers OpenAI hat Sorgen um Risiken der Technologie befeuert. Jetzt gibt es auch eine Klage des Bundesstaats, in dem OpenAI zu Hause ist.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kalifornien-verklagt-openai-wegen-ki-hacking-attacken-201689398.html",
+   "published": "2026-11-16T21:04:11+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -46,6 +109,15 @@
    "published": "2026-11-16T19:07:00+00:00",
    "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Chip-Schmuggel: USA verschärfen Regeln für KI-Chips",
+   "summary": "Washington will mit einer neuen Regelung verhindern, dass China von Amerikas besten KI-Chips profitiert. Dazu setzt die US-Regierung fünf Länder unter härtere Kontrollen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nvidia-chips-in-china-usa-verschaerft-regeln-fuer-ki-chips-201688502.html",
+   "published": "2026-11-16T19:05:07+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -828,78 +900,6 @@
    "link": "https://www.deutschlandfunk.de/bnd-soll-kuenftig-auch-sabotage-im-ausland-betreiben-duerfen-bundestag-koennte-befugnisse-heute-deut-102.html",
    "published": "2026-11-13T02:53:24+00:00",
    "first_seen": "2026-11-13T03:10:07.178805+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Nvidia-chefposten: Trump ist für Cook, aber es gibt einen anderen Favoriten für die Nachfolge von Huang",
-   "summary": "Nvidia-Finanzchefin Colette führt vorübergehend die Geschäfte des wichtigsten KI-Konzerns der Welt. Wer dem zurückgetretenen Huang dauerhaft nachfolgt, ist aber noch völlig offen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-skandal-wird-colette-kress-dauerhafte-nachfolgerin-von-jensen-huang-accg-201678861.html",
-   "published": "2026-11-13T01:49:12+00:00",
-   "first_seen": "2026-11-13T11:43:23.944314+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rüstungs-Start-up: Drohnenhersteller Quantum Systems meldet massiven Cyberangriff",
-   "summary": "Die Rüstungsfirma aus Bayern meldet einen Angriff durch „feindliche Akteure“. Die Bundeswehr hat den Einsatz der Drohnen des Unternehmens zunächst ausgesetzt.",
-   "link": "https://www.handelsblatt.com/technik/forschung-innovation/quantum-systems-drohnenhersteller-meldet-massiven-cyberangriff/100269533.html",
-   "published": "2026-11-12T20:46:19+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Drohnenhersteller: Cyberangriff auf Quantum Systems",
-   "summary": "Der deutsche Drohnenhersteller Quantum Systems ist Opfer eines Cyberangriffs geworden. Die Bundeswehr soll umgehend reagiert haben.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantum-systems-cyberangriff-auf-deutschen-drohnenhersteller-201678896.html",
-   "published": "2026-11-12T20:38:43+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Wie es nach dem Rückzug Huangs weitergehen könnte",
-   "summary": "Eine mutmaßliche Spionage-Affäre, ein gestürzter Tech-Star und ein Konzern im Ausnahmezustand: Was der Abgang von Jensen Huang für Nvidia, die KI-Branche und Deutschland bedeutet.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-zukunft-ruecktritt-jensen-huang-100.html",
-   "published": "2026-11-12T20:26:00+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Rücktritt des Nvidia-Chefs: Huangs Sturz ist ein Triumph für China – und eine Blamage für Trump",
-   "summary": "Nach zwei Affären war Jensen Huang untragbar als Nvidia-Chef. Sein Rücktritt erschüttert die KI-Industrie – und wirft Fragen auf.",
-   "link": "https://www.wiwo.de/politik/ausland/ruecktritt-des-nvidia-chefs-huangs-sturz-ist-ein-triumph-fuer-china-und-eine-blamage-fuer-trump/100269526.html",
-   "published": "2026-11-12T20:13:34+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Nvidia-Chef: Der tiefe Fall des Jensen Huang",
-   "summary": "Mit dem Rücktritt von Jensen Huang als Nvidia-Chef beginnt für die globale KI-Branche eine extrem riskante Phase. Jetzt kommt es ausgerechnet auf seine Ehefrau an.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-chef-ruecktritt-jensen-huang-affaere-spionage-wall-street",
-   "published": "2026-11-12T19:58:56+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Experte zu Prognosemärkten: „Diese Märkte können Desinformation antreiben“",
-   "summary": "Wetten auf sogenannten Prediction Markets sorgten bei den US-Midterms ganz leicht für ein künstliches Wahlkampf-Momentum. Die Trump-Familie verdient mit. mehr...",
-   "link": "https://taz.de/Experte-zu-Prognosemaerkten/!6228549/",
-   "published": "2026-11-12T19:14:00+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-   "summary": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-   "published": "2026-11-12T17:31:15+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
    "paywall": false
   }
  ]

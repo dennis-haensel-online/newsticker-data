@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-11-16T22:39:19.823381+00:00",
+ "updated": "2026-11-17T04:52:54.486113+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Lars Felds Ordnungsruf: CDU/CSU legen im Bundeshaushalt einen Offenbarungseid ab",
+   "summary": "Kein einziger nennenswerter Schritt der Konsolidierung ist bei den Transfers des Bundes – den Subventionen und den Sozialtransfers – gelungen. Ein Gastbeitrag.",
+   "link": "https://www.handelsblatt.com/meinung/wirtschaftsforum/lars-felds-ordnungsruf-cdu-csu-legen-im-bundeshaushalt-einen-offenbarungseid-ab/100270121.html",
+   "published": "2026-11-17T03:00:00+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Beratungen in Salzgitter - Stahlbranche fordert mehr Unterstützung von der Bundesregierung",
@@ -19,6 +28,15 @@
    "published": "2026-11-16T22:02:28+00:00",
    "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Marktmacht: Stromkonzerne sollen in Energiekrise abkassiert haben",
+   "summary": "Im Sommer 2022 haben die „großen fünf“ Energieunternehmen ihre Marktmacht ausgenutzt, vermutet das Ifo-Institut. Die jüngsten Auktionsergebnisse dürften das Problem noch verschärfen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/ifo-studie-stromkonzerne-kassieren-in-energiekrise-ab-201686709.html",
+   "published": "2026-11-16T16:37:47+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
   },
   {
    "label": "ZEIT",
@@ -117,6 +135,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahmen-orcel-li.3581333",
    "published": "2026-11-16T10:53:36+00:00",
    "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: EU genehmigt Commerzbank-Übernahme durch Unicredit",
+   "summary": "Verkehrsminister Bilger will Bahn-Milliarden strenger kontrollieren +++ FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-eu-gibt-unicredit-gruenes-licht-fuer-commerzbank-uebernahme-faz-200452404.html",
+   "published": "2026-11-16T10:43:08+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
    "paywall": true
   },
   {

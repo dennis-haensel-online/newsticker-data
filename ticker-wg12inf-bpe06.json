@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-16T22:39:19.823381+00:00",
+ "updated": "2026-11-17T04:52:54.486113+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Außenministertreffen - Hackerangriffe auf Kühlsysteme: EU plant neue Sanktionen gegen den Iran",
+   "summary": "Die Europäische Union will nach den Cyberangriffen auf Kühlsysteme von Supermarktketten neue Sanktionen gegen den Iran verhängen.",
+   "link": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-102.html",
+   "published": "2026-11-17T04:41:16+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+   "summary": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an - ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt und getestet. Von R. Spiegelhauer.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+   "published": "2026-11-17T01:16:16+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Außenministertreffen - Hackerangriffe auf Kühlsysteme: EU plant neue Sanktionen gegen den Iran",
@@ -10,6 +28,15 @@
    "published": "2026-11-16T22:02:28+00:00",
    "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Cyberangriffe: Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+   "summary": "Die Hacking-Attacke von KI-Software des ChatGPT-Entwicklers OpenAI hat Sorgen um Risiken der Technologie befeuert. Jetzt gibt es auch eine Klage des Bundesstaats, in dem OpenAI zu Hause ist.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kalifornien-verklagt-openai-wegen-ki-hacking-attacken-201689398.html",
+   "published": "2026-11-16T21:04:11+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -360,24 +387,6 @@
    "link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
    "published": "2026-11-12T17:31:15+00:00",
    "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Bundestag - Sicherheitsbehörden können bei Cyberangriffen künftig zurückschlagen",
-   "summary": "Die deutschen Sicherheitsbehörden dürfen bei Cyberangriffen künftig zurückschlagen. Das beschloss der Bundestag mit den Stimmen von Union und SPD. Demnach dürfen Bundespolizei, Bundeskriminalamt oder das Bundesamt für Sicherheit in der…",
-   "link": "https://www.deutschlandfunk.de/sicherheitsbehoerden-koennen-bei-cyberangriffen-kuenftig-zurueckschlagen-102.html",
-   "published": "2026-11-12T17:06:40+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Bundeswehreinsatz zur Überwachung des Libyen-Embargos",
-   "summary": "Debatte zur Fortsetzung der Beteiligung der Bundeswehr an der durch die Europäische Union geführten Operation \"Eunavfor Med Irini\".",
-   "link": "https://www.phoenix.de/php/mediaplayer/vod_embed.php?cmsid=5247430",
-   "published": "2026-11-12T16:24:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
    "paywall": false
   }
  ]

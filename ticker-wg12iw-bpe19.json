@@ -1,6 +1,6 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-16T22:39:19.823381+00:00",
+ "updated": "2026-11-17T04:52:54.486113+00:00",
  "items": [
   {
    "label": "DLF",
@@ -27,6 +27,15 @@
    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-insider-kritisieren-personalpolitik-der-bundesregierung/100270282.html",
    "published": "2026-11-16T17:35:06+00:00",
    "first_seen": "2026-11-16T22:39:19.823381+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Marktmacht: Stromkonzerne sollen in Energiekrise abkassiert haben",
+   "summary": "Im Sommer 2022 haben die „großen fünf“ Energieunternehmen ihre Marktmacht ausgenutzt, vermutet das Ifo-Institut. Die jüngsten Auktionsergebnisse dürften das Problem noch verschärfen.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/ifo-studie-stromkonzerne-kassieren-in-energiekrise-ab-201686709.html",
+   "published": "2026-11-16T16:37:47+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
    "paywall": true
   },
   {
@@ -378,42 +387,6 @@
    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-merz-will-das-zweitwichtigste-amt-macron-koennte-mitspielen/100269428.html",
    "published": "2026-11-12T17:31:10+00:00",
    "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Rot-Rot-Grün in Mecklenburg-Vorpommern: Timmy-Flüsterer Till Backhaus verliert Wal-Kompetenz",
-   "summary": "Nach langen Verhandlungen einigt sich Rot-Rot-Grün in MV auf die künftige Verteilung der Ministerien. Ein SPD-Urgestein muss Abstriche machen. mehr...",
-   "link": "https://taz.de/Rot-Rot-Gruen-in-Mecklenburg-Vorpommern/!6229617/",
-   "published": "2026-11-12T17:20:00+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Hohe Kosten und Arbeitslosigkeit - Etwa jeder zehnte Erwachsene ist überschuldet",
-   "summary": "Rund jeder zehnte Erwachsene in Deutschland ist überschuldet.",
-   "link": "https://www.deutschlandfunk.de/etwa-jeder-zehnte-erwachsene-ist-ueberschuldet-100.html",
-   "published": "2026-11-12T17:06:40+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Schnitzer wirft Bundesregierung falsche Priorisierung vor",
-   "summary": "Monika Schnitzer kritisiert die Prioritäten im Bundeshaushalt. Die Wirtschaftsweise warnt vor steigenden Schulden und fordert, notwendige Reformen nicht länger aufzuschieben.",
-   "link": "https://www.zdfheute.de/politik/deutschland/wirtschaftweise-monika-schnitzer-zu-bundeshaushalt-reformen-100.html",
-   "published": "2026-11-12T16:43:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Fresenius Medical Care: FMC-Anleihen bieten vier Prozent Rendite",
-   "summary": "Der zunehmende Schuldenabbau und die Hoffnung auf neues Wachstum machen FMC-Bonds zu einer interessanten Anlage.",
-   "link": "https://www.wiwo.de/finanzen/boerse/fresenius-medical-care-fmc-anleihen-bieten-vier-prozent-rendite/100268452.html",
-   "published": "2026-11-12T16:30:00+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
    "paywall": true
   }
  ]

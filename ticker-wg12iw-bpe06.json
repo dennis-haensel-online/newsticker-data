@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-16T22:39:19.823381+00:00",
+ "updated": "2026-11-17T04:52:54.486113+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Schweizer Börse: „Die IPO-Schwäche ist eher ein deutsches und britisches Phänomen“",
+   "summary": "20 Börsengänge in Madrid, fünf in Zürich: Von einer Flaute bei Neuemissionen spürt Björn Sibbern, Chef der Schweizer SIX-Gruppe, wenig. Im Interview erklärt er, woran das liegen könnte.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/schweizer-boerse-die-ipo-schwaeche-ist-eher-ein-deutsches-und-britisches-phaenomen/100269043.html",
+   "published": "2026-11-17T03:00:00+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Anthropic-Aktie: Die wichtigsten Antworten zu Anthropics Börsengang",
@@ -135,6 +144,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahmen-orcel-li.3581333",
    "published": "2026-11-16T10:53:36+00:00",
    "first_seen": "2026-11-16T12:16:33.492396+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: EU genehmigt Commerzbank-Übernahme durch Unicredit",
+   "summary": "Verkehrsminister Bilger will Bahn-Milliarden strenger kontrollieren +++ FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-eu-gibt-unicredit-gruenes-licht-fuer-commerzbank-uebernahme-faz-200452404.html",
+   "published": "2026-11-16T10:43:08+00:00",
+   "first_seen": "2026-11-17T04:52:54.486113+00:00",
    "paywall": true
   },
   {
@@ -485,42 +503,6 @@
    "summary": "Als Grund nennt der Vorstand, dass bisher keine Einigung mit dem Betriebsrat über längere Arbeitszeiten und weniger Gehalt erzielt werden konnte.",
    "link": "https://www.sueddeutsche.de/wirtschaft/mercedes-investitionsstopp-werkschliessungen-ig-metall-betriebsrat-li.3579730",
    "published": "2026-11-12T18:20:47+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "DAX-Unternehmen: Gea-Chef geht im kommenden Jahr",
-   "summary": "Gea-Chef Stefan Klebert verlässt den Anlagenbauer nach der Hauptversammlung im kommenden Jahr. An der Börse kommt die Nachricht allerdings nicht gut an.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/dax-unternehmen-gea-chef-geht-im-kommenden-jahr/100269513.html",
-   "published": "2026-11-12T17:19:41+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Nvidia-Aktie bricht ein – US-Börsen erholen sich",
-   "summary": "Die neuen Enthüllungen über Nvidia-Chef Jensen Huang und sein Abgang kosten Aktionäre des Chipherstellers Milliarden. Doch die Verluste fallen geringer aus als in der Vorwoche.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-aktie-bricht-ein-us-boersen-erholen-sich/100269457.html",
-   "published": "2026-11-12T16:44:54+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Mercedes-Benz: Mercedes stoppt alle Investitionen in Deutschland und prüft Werksschließungen",
-   "summary": "Der Streit zwischen Management und Betriebsrat um zu hohe Arbeitskosten in Deutschland eskaliert: Via Mitteilung im Intranet kündigt der Vorstand von Mercedes harte Einschnitte an.",
-   "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-mercedes-stoppt-alle-investitionen-in-deutschland-und-prueft-werksschliessungen/100269484.html",
-   "published": "2026-11-12T16:36:14+00:00",
-   "first_seen": "2026-11-12T17:22:50.690101+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Mercedes-Benz: Mercedes stoppt Investitionen in Deutschland und prüft Schließung von Werken",
-   "summary": "Der Streit zwischen Management und Betriebsrat um zu hohe Arbeitskosten in Deutschland eskaliert: Via Mitteilung im Intranet kündigt der Vorstand von Mercedes harte Einschnitte an.",
-   "link": "https://www.wiwo.de/unternehmen/auto/mercedes-benz-mercedes-stoppt-investitionen-in-deutschland-und-prueft-schliessung-von-werken/100269484.html",
-   "published": "2026-11-12T16:36:14+00:00",
    "first_seen": "2026-11-12T22:58:32.813732+00:00",
    "paywall": true
   }
