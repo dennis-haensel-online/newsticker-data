@@ -1,7 +1,34 @@
 {
  "id": "wg13iw-bpe21",
- "updated": "2026-11-17T04:52:54.486113+00:00",
+ "updated": "2026-11-17T13:59:00.601002+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "EU-Kommission verdoppelt Prognose für Deutschland",
+   "summary": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland stark angehoben. Grund ist das kräftige Plus bei den Exporten. Die Inflation dürfte jedoch hartnäckig bleiben.",
+   "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html",
+   "published": "2026-11-17T12:42:17+00:00",
+   "first_seen": "2026-11-17T13:59:00.601002+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Konjunktur: EU-Kommission verdoppelt Wachstumsprognose für Deutschland",
+   "summary": "Trotz hoher Energiepreise und Handelskonflikten geht es für die deutsche Wirtschaft voran. Doch der Blick auf Preise und Staatsschulden offenbart Schattenseiten des Wachstums.",
+   "link": "https://www.wiwo.de/politik/konjunktur/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland/100270542.html",
+   "published": "2026-11-17T10:35:00+00:00",
+   "first_seen": "2026-11-17T13:59:00.601002+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Wettbewerbsfähigkeit: Osteuropa muss sich neu erfinden – kann es aber schaffen",
+   "summary": "Der von KI und dem großen Bedarf an Rüstungsgütern hervorgerufene Strukturwandel fordert die mittel- und osteuropäischen Staaten besonders heraus.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ebrd-bericht-osteuropa-ist-gut-aufgestellt-fuer-ki-und-ruestungswandel-accg-201687285.html",
+   "published": "2026-11-17T06:32:04+00:00",
+   "first_seen": "2026-11-17T13:59:00.601002+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Lars Felds Ordnungsruf: CDU/CSU legen im Bundeshaushalt einen Offenbarungseid ab",
@@ -190,24 +217,6 @@
    "published": "2026-11-13T10:35:00+00:00",
    "first_seen": "2026-11-13T11:43:23.944314+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Haushalt 2027 - CDU-Haushaltspolitiker Middelberg hält Stromsteuersenkung für wichtiger als Mütterrente",
-   "summary": "Der CDU-Haushaltspolitiker Middelberg spricht sich für eine Priorisierung der Stromsteuersenkung aus - und hält sie für wichtiger als die geplante Ausweitung der Mütterrente.",
-   "link": "https://www.deutschlandfunk.de/cdu-haushaltspolitiker-middelberg-haelt-stromsteuersenkung-fuer-wichtiger-als-muetterrente-106.html",
-   "published": "2026-11-13T02:53:24+00:00",
-   "first_seen": "2026-11-13T03:10:07.178805+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Haushalt 2027 - CDU-Haushaltspolitiker Middelberg hält Stromsteuersenkung für wichtiger als Mütterrente",
-   "summary": "Der CDU-Haushaltspolitiker Middelberg spricht sich für eine Priorisierung der Stromsteuersenkung aus - und hält sie für wichtiger als die geplante Ausweitung der Mütterrente.",
-   "link": "https://www.deutschlandfunk.de/cdu-haushaltspolitiker-middelberg-haelt-stromsteuersenkung-fuer-wichtiger-als-muetterrente-102.html",
-   "published": "2026-11-12T22:44:15+00:00",
-   "first_seen": "2026-11-12T22:58:32.813732+00:00",
-   "paywall": false
   }
  ]
 }
