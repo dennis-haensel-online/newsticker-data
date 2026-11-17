@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe10",
- "updated": "2026-11-17T13:59:00.601002+00:00",
+ "updated": "2026-11-17T22:03:34.508338+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Infrastruktur-Schutz: „Der Schutz kritischer Infrastruktur endet nicht an der Grundstücksgrenze“",
+   "summary": "Energienetze gehören zu den empfindlichsten Stellen der Infrastruktur. Wie der Chef von TransnetBW sie schützen will und warum strikte Regeln für Drohnenüberflüge das verhindern.",
+   "link": "https://www.wiwo.de/erfolg/management/kritische-infrastruktur-wie-transnetbw-das-stromnetz-schuetzt/100269740.html",
+   "published": "2026-11-17T18:50:00+00:00",
+   "first_seen": "2026-11-17T22:03:34.508338+00:00",
+   "paywall": true
+  },
   {
    "label": "ZDF",
    "title": "Krim-Brücke nach ukrainischem Angriff teilweise eingestürzt",
@@ -190,60 +199,6 @@
    "published": "2026-11-13T15:22:00+00:00",
    "first_seen": "2026-11-13T18:56:57.080245+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Drohnenhersteller: Generalstaatsanwalt ermittelt nach Cyberattacke auf Quantum",
-   "summary": "Der Drohnenhersteller Quantum Systems ist langjähriger Lieferant der ukrainischen Streitkräfte - und wurde Ziel der Cyberattacke eines „feindseligen Akteurs“. Nun ermittelt eine zivile Stelle.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/drohnenhersteller-generalstaatsanwalt-ermittelt-nach-cyberattacke-auf-quantum/100269774.html",
-   "published": "2026-11-13T14:44:44+00:00",
-   "first_seen": "2026-11-13T18:56:57.080245+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "HackerANGRIFF: Rüstungsbranche im Visier von Cyberkriminellen",
-   "summary": "Die Bundeswehr lässt die Drohnen von Quantum Systems nach einem Hackerangriff vorübergehend am Boden. Nach F.A.Z.-Informationen häufen sich die Attacken auf die Rüstungsindustrie.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hackerangriff-auf-quantum-systems-bundeswehr-groundet-drohnen-201680381.html",
-   "published": "2026-11-13T14:30:44+00:00",
-   "first_seen": "2026-11-13T18:56:57.080245+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Quantum Systems: Ein Cyberangriff, der viele Fragen aufwirft",
-   "summary": "Im Oktober wurde der Münchner Drohnenhersteller Quantum Systems gehackt. Betroffen von der schadhaften Software war auch die Bundeswehr, weshalb auch der Verfassungsschutz alarmiert ist.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/quantum-systems-hackerangriff-drohnen-bundeswehr-muenchen-li.3579860",
-   "published": "2026-11-13T12:48:41+00:00",
-   "first_seen": "2026-11-13T18:56:57.080245+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Bayerisches Unternehmen - Drohnenhersteller Quantum Systems meldet Cyberangriff",
-   "summary": "Der deutsche Drohnenhersteller Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden.",
-   "link": "https://www.deutschlandfunk.de/drohnenhersteller-quantum-systems-meldet-cyberangriff-100.html",
-   "published": "2026-11-13T11:34:19+00:00",
-   "first_seen": "2026-11-13T11:43:23.944314+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Quantum Systems: Bundeswehr-Drohnen fliegen nach Cyberangriff wieder",
-   "summary": "Quantum-Drohnen unterstützen die ukrainischen Streitkräfte, nun meldet der Hersteller einen Cyberangriff durch feindliche Akteure.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-drohnenhersteller-meldet-cyberangriff/100269620.html",
-   "published": "2026-11-13T10:32:10+00:00",
-   "first_seen": "2026-11-13T11:43:23.944314+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Quantum Systems: Cyberangriff auf deutschen Drohnenhersteller",
-   "summary": "Quantum Systems beliefert auch die Ukraine mit Drohnen. Das Start-up aus Bayern hat nach eigenen Angaben nun einen Cyberangriff feindlicher Akteure eingedämmt.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/cyberangriff-quantum-systems-ruestungs-start-up-100.html",
-   "published": "2026-11-13T10:30:00+00:00",
-   "first_seen": "2026-11-13T11:43:23.944314+00:00",
-   "paywall": false
   }
  ]
 }
