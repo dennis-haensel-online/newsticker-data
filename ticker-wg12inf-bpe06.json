@@ -1,7 +1,61 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-18T12:36:30.928951+00:00",
+ "updated": "2026-11-18T20:59:40.338183+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Deutsche Bank: Datenschutzbeauftragter leitet Untersuchung gegen Deutsche Bank ein",
+   "summary": "Nach dem Datenleck bei der Deutschen Bank prüft die hessische Datenschutzaufsicht mögliche Verstöße gegen die DSGVO. Dabei geht es auch um die Information von Kunden.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/datenleck-deutsche-bank-alexander-rossnagel-datenschutz-dsgvo",
+   "published": "2026-11-18T17:23:48+00:00",
+   "first_seen": "2026-11-18T20:59:40.338183+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Größter Banken-Leak: Datenschutzaufsicht leitet Untersuchung gegen Deutsche Bank ein",
+   "summary": "Rund 15 Millionen interne Dokumente des Geldhauses wurden bekannt. Nun untersucht der hessische Datenschutzbeauftragte, ob die Deutsche Bank gegen die DSGVO verstoßen hat.",
+   "link": "https://www.wiwo.de/unternehmen/banken/untersuchung-datenschutzaufsicht-leitet-verfahren-gegen-deutsche-bank-ein/100271033.html",
+   "published": "2026-11-18T17:15:50+00:00",
+   "first_seen": "2026-11-18T20:59:40.338183+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "IT-Systeme: Serie an Hacks, Pannen, Ausfällen: Spitzt sich die IT-Bedrohungslage tatsächlich zu?",
+   "summary": "Microsoft, Flugverkehr, NSA, Apple, BundID: Zuletzt kam es reihenweise zu IT-Ausfällen und Cyberangriffen. Zufall? Was wir wissen und was nicht.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/it-systeme-hacker-pannen-ausfaelle-was-wir-wissen-und-was-nicht/100270874.html",
+   "published": "2026-11-18T16:33:34+00:00",
+   "first_seen": "2026-11-18T20:59:40.338183+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Brandbrief gegen Berufsverbote: Sollen wir nun mehr oder weniger arbeiten?",
+   "summary": "Betroffene wehren sich gegen Überwachung und Gesinnungsprüfungen für den Job. Eine taz-Recherche zeigt, wen das alles trifft: nicht nur die Palästina-Bewegung. mehr...",
+   "link": "https://taz.de/Brandbrief-gegen-Berufsverbote/!6231151/",
+   "published": "2026-11-18T16:29:00+00:00",
+   "first_seen": "2026-11-18T20:59:40.338183+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Vorwürfe gegen Dax-Konzern: Deutsche-Bank-Chef Sewing räumt nach Datenleck Fehler ein",
+   "summary": "Nach Auffliegen von mehr als 15 Millionen internen Dokumenten räumt der Chef der Deutschen Bank Versäumnisse ein - auch bei ihm direkt. Kunden müssten sich keine Sorgen machen, betont Sewing.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/vorwuerfe-gegen-dax-konzern-deutsche-bank-chef-sewing-raeumt-nach-datenleck-fehler-ein/100270843.html",
+   "published": "2026-11-18T14:17:09+00:00",
+   "first_seen": "2026-11-18T20:59:40.338183+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Datenleck: „Betroffene Daten sind hochsensibel“: Aufsichtsbehörde leitet Untersuchung gegen Deutsche Bank ein",
+   "summary": "Der hessische Datenschutzbeauftragte prüft nach dem Abfluss von mehr als 15 Millionen internen Dokumenten mögliche Datenschutzverstöße. Ein Experte spricht von einem alarmierenden Vorgang.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/datenleck-aufsichtsbehoerde-leitet-untersuchung-gegen-deutsche-bank-ein/100270711.html",
+   "published": "2026-11-18T13:25:19+00:00",
+   "first_seen": "2026-11-18T20:59:40.338183+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Deutsche Bank: Sewings Crashtest mit der Vergangenheit",
@@ -352,69 +406,6 @@
    "published": "2026-11-15T11:55:33+00:00",
    "first_seen": "2026-11-15T18:13:33.554214+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "„Grand Theft Auto VI“: Ein gewaltiges Videospiel - Der lange Weg zu GTA 6",
-   "summary": "Ein Hackerangriff, zwei Verschiebungen und ein Streit um Entlassungen beim Publisher: So turbulent verlief die lange Wartezeit auf das Eintauchen in den fiktiven US-Bundesstaat Leonida.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/grand-theft-auto-vi-ein-gewaltiges-videospiel-der-lange-weg-zu-gta-6/100269952.html",
-   "published": "2026-11-15T02:00:07+00:00",
-   "first_seen": "2026-11-15T03:52:05.540079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
-   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
-   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-104.html",
-   "published": "2026-11-14T23:22:58+00:00",
-   "first_seen": "2026-11-14T23:30:50.203692+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
-   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
-   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-102.html",
-   "published": "2026-11-14T19:29:00+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
-   "published": "2026-11-14T18:11:24+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/home-view-von-apple-sorgt-fuer-streit-um-datenschutz-mit-der-eu-kommission-accg-201678715.html",
-   "published": "2026-11-14T18:11:24+00:00",
-   "first_seen": "2026-11-17T13:59:00.601002+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Italien: Meta muss 805 Millionen Euro Strafe zahlen",
-   "summary": "Der Konzern habe auf Fotos und Videos von Android-Nutzern zugegriffen, ohne eine Erlaubnis dafür einzuholen, kritisiert die italienische Datenschutzbehörde.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/meta-facebook-datenschutz-italien-strafe-li.3580557",
-   "published": "2026-11-14T15:29:52+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Cloud-Dienste - Microsoft gibt Ende der weltweiten Störungen bekannt",
-   "summary": "Microsoft hat die weltweiten Störungen bei einigen seiner Dienste nach mehr als ⁠24 Stunden behoben.",
-   "link": "https://www.deutschlandfunk.de/microsoft-gibt-ende-der-weltweiten-stoerungen-bekannt-102.html",
-   "published": "2026-11-14T14:23:29+00:00",
-   "first_seen": "2026-11-14T14:38:31.059508+00:00",
-   "paywall": false
   }
  ]
 }
