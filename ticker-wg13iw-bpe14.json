@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-11-18T03:57:24.524795+00:00",
+ "updated": "2026-11-18T12:36:30.928951+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Bilanzschwindel und Kundenbetrug: Die unangenehme Wahrheit hinter den Skandalen",
+   "summary": "Erschüttern Skandale, wie im Fall Enron oder Wells Fargo, die Unternehmenswelt, stellt sich die Frage nach den Gründen. Welche Werte sind entscheidend, und welches Vorbild geben Führungskräfte ab?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/bwl-masterarbeit-ueber-unternehmensskandale-deckt-risiken-auf-accg-201601848.html",
+   "published": "2026-11-18T06:23:13+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Nikkei, Kospi & Co.: Nvidias starke Bilanz kann KI-Skepsis in Asien nicht vertreiben",
@@ -135,24 +144,6 @@
    "link": "https://www.deutschlandfunk.de/deutsche-bahn-zieht-positive-bilanz-bei-alkoholverbot-an-bahnhoefen-104.html",
    "published": "2026-11-14T14:23:29+00:00",
    "first_seen": "2026-11-14T14:38:31.059508+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
-   "summary": "Alkoholverbot an Bahnhöfen: Bahn zieht positive Bilanz +++ Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Von der Leyen: Halbe Billion Euro Investitionen für KI nötig +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen-faz-200452404.html",
-   "published": "2026-11-14T09:14:39+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Bundesstatistiker - Zahl der Firmenpleiten im August angestiegen - Höchster Stand seit 13 Jahren",
-   "summary": "Die Zahl der Unternehmens-Insolvenzen in Deutschland ist im August weiter angestiegen.",
-   "link": "https://www.deutschlandfunk.de/zahl-der-firmenpleiten-im-august-angestiegen-hoechster-stand-seit-13-jahren-102.html",
-   "published": "2026-11-13T18:53:24+00:00",
-   "first_seen": "2026-11-13T18:56:57.080245+00:00",
    "paywall": false
   }
  ]

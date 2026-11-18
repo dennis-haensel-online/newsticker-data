@@ -1,7 +1,196 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-18T03:57:24.524795+00:00",
+ "updated": "2026-11-18T12:36:30.928951+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Deutsche Bank: Sewings Crashtest mit der Vergangenheit",
+   "summary": "Die Deutsche Bank wollte den Kulturwandel. Die Enthüllungen aus den Datenlecks sind ein Rückschlag. Hat Sewing die Kultur wirklich geläutert?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/deutsche-bank-hat-christian-sewing-die-kultur-wirklich-gelaeutert-201693184.html",
+   "published": "2026-11-18T12:32:24+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "Künstliche Intelligenz - KI bedroht die Mathematik und stürzt Forscher in Sinnkrisen",
+   "summary": "Die Fortschritte der Künstlichen Intelligenz sorgen auch unter Mathematikern zunehmend für Verunsicherung, Trauer und Existenzängste. Der Forscher Steven Strogatz von der Cornell University in den USA berichtete jüngst unter Tränen über…",
+   "link": "https://www.deutschlandfunk.de/ki-bedroht-die-mathematik-und-stuerzt-forscher-in-sinnkrisen-104.html",
+   "published": "2026-11-18T12:26:29+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Summit 2026: Robotik-Start-ups sehen den ChatGPT-Moment schon gekommen – doch eine Ressource fehlt",
+   "summary": "Micro-AGI will seine Roboter-KI in der KI-Fabrik der Telekom trainieren und sich als souveräner Partner der Industrie positionieren. Andere Robotik-Start-ups setzen ihre Modelle dort bereits ein.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-summit-2026-robotik-start-ups-sehen-chatgpt-moment-schon-da-nur-anders/100268696.html",
+   "published": "2026-11-18T12:26:04+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Künstliche Intelligenz: Anthropic geht an die Börse – was Anleger wissen sollten",
+   "summary": "Der Börsengang könnte der zweitgrößte der Geschichte werden. Was das für die Branche bedeutet und warum die Gründer trotz vieler neuer Investoren auch künftig über die KI-Firma bestimmen werden.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/anthropic-boersengang-ki-geldanlage-2026-li.3573534",
+   "published": "2026-11-18T12:25:54+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-warum-ki-kompetenz-fuer-topmanager-zum-muss-wird/100240522.html",
+   "published": "2026-11-18T11:59:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
+   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-soziale-kompetenz-wird-das-wettbewerbsmerkmal-der-zukunft-sein/100223312.html",
+   "published": "2026-11-18T11:58:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Nvidia – Jensen Huang: Konzern verkauft keine KI-Chips mehr nach China",
+   "summary": "Eine Seifenoper, die Milliarden kostet: Wegen seiner Affären – unter anderem mit einer mutmaßlichen chinesischen Spionin – verlor Jensen Huang den Chefposten bei Nvidia. Jetzt gibt es offenbar weitere Konsequenzen.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss",
+   "published": "2026-11-18T11:52:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Autonomes Fahren: Robotaxis: Uber und Momenta starten Testbetrieb mit Kunden",
+   "summary": "In München können ausgewählte Uber-Kunden erstmals in einem autonomen Robotaxi mitfahren – vorerst mit Sicherheitskraft an Bord. Wie der Testbetrieb abläuft und was Fahrgäste dafür machen müssen.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/autonomes-fahren-robotaxis-uber-und-momenta-starten-testbetrieb-mit-kunden/100270837.html",
+   "published": "2026-11-18T11:51:38+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "China: Abkühlung im Spielegeschäft bremst Tencent – KI schiebt Cloud-Sparte an",
+   "summary": "Chinesische Technologiekonzerne sind im Vergleich zu US-Unternehmen ins Hintertreffen geraten. Nun verfehlte der chinesische Technologieriese Analystenschätzungen zum Umsatz.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/china-abkuehlung-im-spielegeschaeft-bremst-tencent/100270914.html",
+   "published": "2026-11-18T11:15:59+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Finanzmärkte: EZB warnt vor Turbulenzen an den Börsen",
+   "summary": "Hohe Staatsschulden, mächtige Hedgefonds und milliardenschwere KI-Investitionen: Die Europäische Zentralbank sieht große Gefahren für die Finanzstabilität.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/ezb-finanzstabilitaetsbericht-2026-staatsanleihen-ki-blase-li.3582332",
+   "published": "2026-11-18T11:14:30+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Spionage-Affäre: Nvidia überrascht nach Huang-Abgang mit Wachstumsschub",
+   "summary": "Inmitten der Spionage-Affäre um Ex-CEO Jensen Huang hat der Chipkonzern am Dienstag überraschend starke Geschäftszahlen vorgelegt. Damit dämpfte Nvidia die Furcht einiger Anleger vor einem Abflauen des KI-Booms.",
+   "link": "https://www.handelsblatt.com/video/finanzen/spionage-affaere-nvidia-ueberrascht-nach-huang-abgang-mit-wachstumsschub/100270903.html",
+   "published": "2026-11-18T10:59:25+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Datenleck: „Datenabfluss ist alarmierend“ – Datenschutzexperte warnt Deutsche Bank vor Millionenrisiken",
+   "summary": "Mehr als 15 Millionen interne Dokumente der Deutschen Bank sind an Journalisten gelangt, darunter hochsensible Kundendaten. Der Vorfall wirft erhebliche datenschutzrechtliche Fragen auf.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/datenleck-datenschutzexperte-warnt-deutsche-bank-vor-millionenrisiken/100270711.html",
+   "published": "2026-11-18T10:50:43+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: So spart ein Familienunternehmen hohe Beratungskosten",
+   "summary": "Die Zeit der Pilotprojekte ist vorbei. Manager von der Otto Group und einem deutschen Mittelständler rechnen vor, wie sie KI in ihren Unternehmen zu messbarem Erfolg führen.",
+   "link": "https://www.handelsblatt.com/karriere/management-diese-unternehmen-zeigen-wie-ki-echten-mehrwert-schafft/100264889.html",
+   "published": "2026-11-18T10:43:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gesundheitsdaten: KI-Chatbots: Jeder Fünfte missachtet Arztempfehlungen",
+   "summary": "Die KI erklärt Krankheitssymptome oft verständlicher als Ärzte, sagen viele Nutzer. Doch Bitkom warnt: Chatbots können sich irren. Wie groß ist das Vertrauen trotzdem?",
+   "link": "https://www.handelsblatt.com/technik/it-internet/gesundheitsdaten-ki-chatbots-jeder-fuenfte-missachtet-arztempfehlungen/100270913.html",
+   "published": "2026-11-18T10:37:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Judith Dada: „Wir brauchen das europäische Manhattan-Projekt!“",
+   "summary": "Die Investorin erklärt im Interview ihre Vision für Europas KI-Zukunft, wo sie Lücken in den Plänen der Bundesregierung sieht und warum Europa US-Konzerne für Rechenzentren gewinnen muss.",
+   "link": "https://www.handelsblatt.com/technik/ki/judith-dada-die-usa-besitzen-etwa-75-prozent-der-globalen-ki-rechenkapazitaet/100268792.html",
+   "published": "2026-11-18T10:29:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Der steinige Weg zur Veröffentlichung von GTA 6",
+   "summary": "Datenlecks und Hacker-Angriffe sorgten für lange Verzögerungen bei GTA 6. Doch die Wartezeit ließ die Erwartungen von Fans nur wachsen. Das Spiel dürfte Milliarden einbringen.",
+   "link": "https://www.zdfheute.de/wirtschaft/gta-6-verzoegerung-urlaubsantraege-hack-leak-100.html",
+   "published": "2026-11-18T09:10:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Deutsche Bank: Chef der Deutschen Bank räumt nach Datenleck mögliche Fehler ein",
+   "summary": "Nach Enthüllungen über Defizite bei der Geldwäschekontrolle zeigt sich Christian Sewing selbstkritisch. Den grundsätzlichen Kurs der Deutschen Bank verteidigt er.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/datenleck-deutsche-bank-christian-sewing-gxe",
+   "published": "2026-11-18T09:01:04+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Roboter oder Rüstung: Europas Start-ups erhalten wieder deutlich mehr Geld",
+   "summary": "So viele Gründungen wie nie, 62 Prozent mehr Investitionen als im Vorjahr: Die europäische Tech-Branche feiert ein Rekordjahr, Deutschland punktet mit Uni-Ausgründungen. Gleichzeitig gibt es neue Engpässe.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/atomico-europas-start-ups-erhalten-wieder-deutlich-mehr-geld-accg-201690205.html",
+   "published": "2026-11-18T07:15:14+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Deutsche Unternehmen: Mit der Automatisierung steigt die Zuversicht",
+   "summary": "Der Einsatz von Robotern sorgt für einen Vorsprung im Wettbewerb. Hoch automatisierte Unternehmen sehen auch die Beschäftigungsentwicklung deutlich optimistischer.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/automatisierung-roboter-schaffen-jobs-statt-sie-zu-vernichten-accg-201690600.html",
+   "published": "2026-11-18T06:02:40+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Mit KI auf Schnäppchenjagd: Das sollten Sie wissen",
+   "summary": "Künstliche Intelligenz kann am Black Friday beim Preisvergleich helfen - Betrüger nutzen sie aber auch. Eine Expertin erklärt, worauf Käufer beim Online-Shopping achten sollten.",
+   "link": "https://www.zdfheute.de/ratgeber/black-friday-deals-ki-kuenstliche-intelligenz-preisvergleich-100.html",
+   "published": "2026-11-18T05:04:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Anthropic: Sie wollen Anthropic-Aktien kaufen? Das müssen Sie wissen",
+   "summary": "Kaum ein Unternehmen wächst schneller als das KI-Labor. Jetzt können Privatanleger teilhaben. Sollten Sie das auch?",
+   "link": "https://www.zeit.de/geld/2026-11/anthropic-boersengang-aktie-kauf-broker-risiko",
+   "published": "2026-11-18T04:34:29+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Deutsche Bank - Bundesfinanzminister Klingbeil fordert Konsquenzen aus Datenleck - Vorwürfe von US-Präsident Trump",
@@ -711,195 +900,6 @@
    "link": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-108.html",
    "published": "2026-11-15T21:20:20+00:00",
    "first_seen": "2026-11-15T23:16:06.637338+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Cyberangriff - Millionen Adressdaten bei Postdienstleister in Frankreich abgegriffen",
-   "summary": "In Frankreich sind bei einem Cyberangriff auf einen Postdienstleister Millionen Adressdaten gestohlen worden.",
-   "link": "https://www.deutschlandfunk.de/millionen-adressdaten-bei-postdienstleister-in-frankreich-abgegriffen-106.html",
-   "published": "2026-11-15T18:11:03+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Gedenkstunde im Bundestag - Österreichs Bundespräsident van der Bellen warnt vor \"Abstumpfung durch Algorithmen\" - Appell zu mehr Mitgefühl im Alltag",
-   "summary": "Der österreichische Bundespräsident van der Bellen hat in einer Gedenkstunde zum Volkstrauertag im Deutschen Bundestag zu Empathie aufgerufen - trotz \"Dauerfeuer aus Leid und Wahnsinn\", das im Internet durch Algorithmen verbreitet werde.",
-   "link": "https://www.deutschlandfunk.de/oesterreichs-bundespraesident-van-der-bellen-warnt-vor-abstumpfung-durch-algorithmen-appell-zu-mehr--100.html",
-   "published": "2026-11-15T18:11:03+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO",
-   "summary": "Huang-Verbündete wollen den Ex-CEO zurück an die Nvidia-Spitze holen +++ Cyberangriff auf französischen Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html",
-   "published": "2026-11-15T18:09:04+00:00",
-   "first_seen": "2026-11-15T23:16:06.637338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Mutmaßliche Tech-Spionin Alice Huang arbeitet nicht mehr für Megaspeed",
-   "summary": "Cyberangriff auf Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ Tochtergesellschaft der französischen Post im Visier +++ VW-Chef Blume: Wollen 2030 neun Millionen Autos verkaufen +++ alle Neuigkeiten im…",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-jensen-huang-und-alice-huang-begruessen-sich-im-juni-2024-bei-einer-computex-veranstaltung-faz-200452404.html",
-   "published": "2026-11-15T17:46:10+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyberangriff: Hacker stehlen in Frankreich Daten von 22 Millionen Menschen",
-   "summary": "Es ist eine der größten Cyberattacken des Landes: Bereits im September wurde eine Tochterfirma der französischen Post Opfer eines Hackerangriffs.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/cyberangriff-hacker-stehlen-in-frankreich-daten-von-22-millionen-menschen/100270012.html",
-   "published": "2026-11-15T14:03:20+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Italien bittet Meta zur Kasse: 805 Millionen Euro Strafe für Datenschutzverstoß",
-   "summary": "Die „hohe Zahl von Betroffenen“ spielte eine Rolle bei der Festsetzung der Betragshöhe, so die Datenschutzbehörde. Der Konzern will gegen die Strafzahlung vorgehen. mehr...",
-   "link": "https://taz.de/Italien-bittet-Meta-zur-Kasse/!6230189/",
-   "published": "2026-11-15T13:13:00+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Inside America: Trotz KI-Weltuntergang: Ein Hoch auf die Altersvorsorge",
-   "summary": "Ein KI-Sicherheitsforscher in den USA sorgt nicht mehr finanziell fürs Alter vor. Warum das trotz aller berechtigten Sorgen ein falsches Signal sendet.",
-   "link": "https://www.handelsblatt.com/meinung/kolumnen/kolumne-trotz-ki-weltuntergang-ein-hoch-auf-die-altersvorsorge/100269546.html",
-   "published": "2026-11-15T13:10:46+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Software: Microsoft behebt weltweite Störung – Ausfall trifft auch Hotelschwimmbad",
-   "summary": "Ursache war nach Angaben des Konzerns ein Fehler bei einem Netzwerk-Upgrade, ein Cyberangriff sei ausgeschlossen. Die Panne hatte auch Folgen für ein Schwimmbad im Phantasialand in Brühl bei Köln.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/software-microsoft-behebt-stoerung-ausfall-trifft-auch-hotelschwimmbad/100269998.html",
-   "published": "2026-11-15T11:55:33+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Künstliche Intelligenz in der Medizin: In die Apotheke statt zum Hausarzt",
-   "summary": "Eine KI-Avatarin fragt in der Apotheke die Beschwerden ab, bevor ein Arzt per Video berät: Entlastet das Praxen oder ist es ein überflüssiges Experiment? mehr...",
-   "link": "https://taz.de/Kuenstliche-Intelligenz-in-der-Medizin/!6223876/",
-   "published": "2026-11-15T11:26:00+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Start-up der Woche: „Wir schaffen ein KI-Frühwarnsystem für den Agrareinkauf“",
-   "summary": "Finches baut ein KI-basiertes Frühwarnsystem für den Agrareinkauf. Was hält Investor Nico Rosberg von der Idee?",
-   "link": "https://www.wiwo.de/erfolg/gruender/finches-start-up-will-ein-ki-fruehwarnsystem-fuer-den-agrareinkauf-schaffen/100264424.html",
-   "published": "2026-11-15T09:20:39+00:00",
-   "first_seen": "2026-11-15T11:39:49.825858+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Gehaltsreport 2026: So viel verdienen Personaler in den verschiedenen Branchen",
-   "summary": "Abfindungsprogramme, KI‑Schulungen, Kündigungsschutzklagen – der Job von Personalern ist gerade anspruchsvoll. Wo zeigt sich das auch im Gehalt?",
-   "link": "https://www.wiwo.de/erfolg/beruf/gehaltsreport-2026-so-viel-verdienen-personaler-in-den-verschiedenen-branchen/100268436.html",
-   "published": "2026-11-15T07:47:04+00:00",
-   "first_seen": "2026-11-15T11:39:49.825858+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "„Grand Theft Auto VI“: Ein gewaltiges Videospiel - Der lange Weg zu GTA 6",
-   "summary": "Ein Hackerangriff, zwei Verschiebungen und ein Streit um Entlassungen beim Publisher: So turbulent verlief die lange Wartezeit auf das Eintauchen in den fiktiven US-Bundesstaat Leonida.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/grand-theft-auto-vi-ein-gewaltiges-videospiel-der-lange-weg-zu-gta-6/100269952.html",
-   "published": "2026-11-15T02:00:07+00:00",
-   "first_seen": "2026-11-15T03:52:05.540079+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
-   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
-   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-104.html",
-   "published": "2026-11-14T23:22:58+00:00",
-   "first_seen": "2026-11-14T23:30:50.203692+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Jensen Huang: Nvidia-Skandal könnte Chinas Chipindustrie schneller unabhängig machen",
-   "summary": "Die Affäre um Jensen Huang kann laut Experten die Gespräche zwischen China und den USA zur KI beeinträchtigen. Chinas Chipindustrie könnte rascher unabhängiger werden.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-china-halbleiter-lieferkette",
-   "published": "2026-11-14T19:51:57+00:00",
-   "first_seen": "2026-11-14T23:30:50.203692+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Datenschutz - Strafe von 805 Millionen Euro für Meta in Italien",
-   "summary": "Die italienische Datenschutzbehörde hat gegen den Facebook-Konzern Meta eine Strafzahlung von 805 Millionen Euro verhängt.",
-   "link": "https://www.deutschlandfunk.de/strafe-von-805-millionen-euro-fuer-meta-in-italien-102.html",
-   "published": "2026-11-14T19:29:00+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
-   "published": "2026-11-14T18:11:24+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
-   "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/home-view-von-apple-sorgt-fuer-streit-um-datenschutz-mit-der-eu-kommission-accg-201678715.html",
-   "published": "2026-11-14T18:11:24+00:00",
-   "first_seen": "2026-11-17T13:59:00.601002+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Insight Innovation: Besser als der Mensch? So verändern KI-Influencer den Werbemarkt",
-   "summary": "Fast jeder Zweite hat schon mit virtuellen Influencern interagiert, zeigt eine exklusive Umfrage. Auch immer mehr deutsche Unternehmen setzen auf die Avatare. Doch Nutzer sind skeptisch.",
-   "link": "https://www.handelsblatt.com/unternehmen/start-ups/unternehmen-werbung-und-vertrieb-so-setzen-firmen-ki-influencer-ein/100258611.html",
-   "published": "2026-11-14T16:35:38+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Italien: Meta muss 805 Millionen Euro Strafe zahlen",
-   "summary": "Der Konzern habe auf Fotos und Videos von Android-Nutzern zugegriffen, ohne eine Erlaubnis dafür einzuholen, kritisiert die italienische Datenschutzbehörde.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/meta-facebook-datenschutz-italien-strafe-li.3580557",
-   "published": "2026-11-14T15:29:52+00:00",
-   "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autonomes Fahren: Tesla lässt ausgewählte Käufer Robotaxis vorbestellen",
-   "summary": "Tesla will mit seinem Cybercab die Robotaxi-Branche aufrollen. Nun sollen einige der Wagen auch in Privatbesitz gehen – noch während Tesla wegen des Fahrzeugs Ärger mit einer US-Behörde hat.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autonomes-fahren-tesla-laesst-ausgewaehlte-kaeufer-robotaxis-vorbestellen/100269900.html",
-   "published": "2026-11-14T13:45:46+00:00",
-   "first_seen": "2026-11-14T14:38:31.059508+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Die neue Gefahr durch Künstliche Intelligenz",
-   "summary": "Cyberkriminelle nutzen KI, um Angriffe zu automatisieren. Banken setzen die Technologie zur Abwehr ein. Sicherheitsexperten sprechen von einem Wettlauf zwischen den KI-Systemen der Angreifer und denen der Banken. Von Sabina Wolf.",
-   "link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
-   "published": "2026-11-14T13:31:48+00:00",
-   "first_seen": "2026-11-14T14:38:31.059508+00:00",
    "paywall": false
   }
  ]

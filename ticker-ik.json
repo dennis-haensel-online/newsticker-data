@@ -1,7 +1,34 @@
 {
  "id": "ik",
- "updated": "2026-11-18T03:57:24.524795+00:00",
+ "updated": "2026-11-18T12:36:30.928951+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Migration: Warum wandern immer mehr Deutsche nach Polen aus?",
+   "summary": "Unser osteuropäischer Nachbar zieht so viele Deutsche an wie lange nicht mehr. Woran liegt das? Und was kann Deutschland von Polen lernen?",
+   "link": "https://www.handelsblatt.com/politik/international/migration-mit-diesen-vorteilen-punktet-polen-bei-deutschen-auswanderern/100249315.html",
+   "published": "2026-11-18T11:57:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Repression gegen NGOs in Italien: Bußgeld wegen erster Hilfe",
+   "summary": "In Triest versorgen Lorena Fornasir und ihre NGO Geflüchtete auf dem Bahnhofsvorplatz. Das steht nun unter Strafe – weil es die „Erholung“ stört. mehr...",
+   "link": "https://taz.de/Repression-gegen-NGOs-in-Italien/!6230819/",
+   "published": "2026-11-18T06:08:00+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Anthropic: Sie wollen Anthropic-Aktien kaufen? Das müssen Sie wissen",
+   "summary": "Kaum ein Unternehmen wächst schneller als das KI-Labor. Jetzt können Privatanleger teilhaben. Sollten Sie das auch?",
+   "link": "https://www.zeit.de/geld/2026-11/anthropic-boersengang-aktie-kauf-broker-risiko",
+   "published": "2026-11-18T04:34:29+00:00",
+   "first_seen": "2026-11-18T12:36:30.928951+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Regierung Meloni - Neues Gesetz gegen Antisemitismus in Italien beschlossen - auch Feindseligkeiten gegen Israel betroffen",
@@ -180,51 +207,6 @@
    "link": "https://taz.de/Der-Hausbesuch/!6224387/",
    "published": "2026-11-14T18:45:00+00:00",
    "first_seen": "2026-11-14T19:36:06.960578+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Minderheitsregierung in den Niederlanden: Lieber Neustart als Neuwahlen",
-   "summary": "Ein Streit um die Steuerreform hatte die niederländische Regierung von Ministerpräsident Rob Jetten ins Wanken gebracht. Ein Bruch wurde abgewendet – vorerst. mehr...",
-   "link": "https://taz.de/Minderheitsregierung-in-den-Niederlanden/!6230043/",
-   "published": "2026-11-14T11:24:00+00:00",
-   "first_seen": "2026-11-14T14:38:31.059508+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Migration - Ruanda soll erster Standort für EU-Abschiebezentrum werden",
-   "summary": "Deutschland und vier weitere EU-Mitgliedsstaaten stehen offenbar kurz vor dem Abschluss eines Migrationsabkommens mit Ruanda.",
-   "link": "https://www.deutschlandfunk.de/ruanda-soll-erster-standort-fuer-eu-abschiebezentrum-werden-100.html",
-   "published": "2026-11-14T07:01:11+00:00",
-   "first_seen": "2026-11-14T07:12:07.680256+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Den Haag - Niederländische Minderheitsregierung hält vorerst - Ministerpräsident Jetten: Grundlegender Neustart nötig",
-   "summary": "In den Niederlanden hat Ministerpräsident Jetten einen Bruch seiner Minderheitsregierung vorerst abgewendet.",
-   "link": "https://www.deutschlandfunk.de/niederlaendische-minderheitsregierung-haelt-vorerst-ministerpraesident-jetten-grundlegender-neustart-100.html",
-   "published": "2026-11-14T07:01:11+00:00",
-   "first_seen": "2026-11-14T07:12:07.680256+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Den Haag - Niederländische Minderheitsregierung will weiter über Zusammenarbeit verhandeln",
-   "summary": "In den Niederlanden hat Ministerpräsident Jetten einen Bruch seiner Minderheitsregierung vorerst abgewendet.",
-   "link": "https://www.deutschlandfunk.de/niederlaendische-minderheitsregierung-will-weiter-ueber-zusammenarbeit-verhandeln-104.html",
-   "published": "2026-11-14T00:02:03+00:00",
-   "first_seen": "2026-11-14T00:07:27.093328+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Regierungskrise in den Niederlanden: Offener Dissens von Anfang an",
-   "summary": "Die Suche nach den Ursachen für die aktuelle Regierungskrise in den Niederlanden führt zur Entstehungsgeschichte der Minderheitsregierung von Rob Jetten. mehr...",
-   "link": "https://taz.de/Regierungskrise-in-den-Niederlanden/!6229513/",
-   "published": "2026-11-13T18:55:00+00:00",
-   "first_seen": "2026-11-13T18:56:57.080245+00:00",
    "paywall": false
   }
  ]
