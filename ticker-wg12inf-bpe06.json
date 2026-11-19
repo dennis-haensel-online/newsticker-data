@@ -1,7 +1,52 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-19T10:55:49.360629+00:00",
+ "updated": "2026-11-19T19:16:38.006845+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "BSI-Lagebericht - Nutzung von Künstlicher Intelligenz verschärft Gefahr durch Cyberangriffe",
+   "summary": "Die Gefährdung durch Cyber- und Hackerangriffe in Deutschland hat sich durch die missbräuchliche Nutzung Künstlicher Intelligenz deutlich verschärft.",
+   "link": "https://www.deutschlandfunk.de/nutzung-von-kuenstlicher-intelligenz-verschaerft-gefahr-durch-cyberangriffe-102.html",
+   "published": "2026-11-19T19:09:40+00:00",
+   "first_seen": "2026-11-19T19:16:38.006845+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Kriminalität - EU-Kommission war Ziel von Cyberangriff mit Künstlicher Intelligenz",
+   "summary": "Die Europäische Kommission hat bestätigt, dass sie Ziel eines Cyberangriffs geworden ist, bei dem Künstliche Intelligenz eingesetzt wurde..",
+   "link": "https://www.deutschlandfunk.de/eu-kommission-war-ziel-von-cyberangriff-mit-kuenstlicher-intelligenz-102.html",
+   "published": "2026-11-19T19:09:40+00:00",
+   "first_seen": "2026-11-19T19:16:38.006845+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "BSI sieht höhere Gefahr für Cyberangriffe wegen KI",
+   "summary": "Mit dem Einsatz von KI ist die Gefahr für Cyberangriffe laut Innenminister Dobrindt exponentiell gestiegen. Das zuständige Bundesamt zählte zuletzt 160 Schwachstellen pro Tag.",
+   "link": "https://www.zdfheute.de/politik/deutschland/bsi-lagebericht-warnung-cyberangriff-ki-100.html",
+   "published": "2026-11-19T17:14:00+00:00",
+   "first_seen": "2026-11-19T19:16:38.006845+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "KI-gestützter Cyberangriff gegen EU-Kommission",
+   "summary": "Die EU-Kommission ist Opfer eines Cyberangriffs geworden. Betroffen war unter anderem eine Personalplattform. Mehrere Anwendungen seien als Vorsichtsmaßnahme deaktiviert worden.",
+   "link": "https://www.zdfheute.de/politik/deutschland/eu-kommission-cyberangriff-ki-100.html",
+   "published": "2026-11-19T15:36:16+00:00",
+   "first_seen": "2026-11-19T19:16:38.006845+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "KI-gestützter Cyberangriff auf EU-Kommission",
+   "summary": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
+   "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
+   "published": "2026-11-19T13:56:39+00:00",
+   "first_seen": "2026-11-19T19:16:38.006845+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Medienbericht - Hackerangriff auf Systeme der EU-Kommission",
@@ -396,15 +441,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kalifornien-verklagt-openai-wegen-ki-hacking-attacken-201689398.html",
    "published": "2026-11-16T21:04:11+00:00",
    "first_seen": "2026-11-17T04:52:54.486113+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gravierender Cloud-Ausfall: Alter Programmfehler löste Microsoft-Ausfall aus",
-   "summary": "Ein Fehler schlummerte seit Juli in Microsofts System – bis drei Faktoren eine weltweite Kettenreaktion auslösten. Warum der Ausfall ausgerechnet zur Hauptnutzungszeit begann.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/gravierender-cloud-ausfall-alter-programmfehler-loeste-microsoft-ausfall-aus/100270220.html",
-   "published": "2026-11-16T11:19:38+00:00",
-   "first_seen": "2026-11-16T12:16:33.492396+00:00",
    "paywall": true
   }
  ]
