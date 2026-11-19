@@ -1,7 +1,61 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-11-19T02:21:49.737803+00:00",
+ "updated": "2026-11-19T10:55:49.360629+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Heizen wird wegen steigender Energiepreise immer teurer",
+   "summary": "Ein warmes Zuhause ist bei Weitem nicht für alle Menschen selbstverständlich. Nach Berechnungen des Statistischen Bundesamts konnten im vergangenen Jahr rund 4,7 Millionen Menschen ihre Wohnung nicht richtig heizen.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
+   "published": "2026-11-19T10:10:08+00:00",
+   "first_seen": "2026-11-19T10:55:49.360629+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Daimler Truck: Karin Rådström sieht EU-Politik zu stark auf Pkw fokussiert",
+   "summary": "Karin Rådström sorgt sich offenbar um die Wettbewerbsfähigkeit der europäischen Nutzfahrzeugbranche. Laut der CEO von Daimler Truck ist die EU zu stark auf Pkw fokussiert. Die größte Hürde sei die Ladeinfrastruktur.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/daimler-truck-chefin-aergert-sich-wegen-co-regulierung-ueber-eu-politik-a-52369055-824f-4d98-80b2-30c618f56309#ref=rss",
+   "published": "2026-11-19T09:59:00+00:00",
+   "first_seen": "2026-11-19T10:55:49.360629+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZEIT",
+   "title": "Heizkosten: 4,7 Millionen Menschen in Deutschland können nicht ausreichend heizen",
+   "summary": "Für Millionen Menschen ist ein warmes Zuhause eine Kostenfrage. Zwar ist der Anteil der Betroffenen seit 2024 leicht gesunken, doch die Energiepreise bleiben hoch.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/heizen-deutschland-kosten-armut-statistisches-bundesamt-gxe",
+   "published": "2026-11-19T09:49:46+00:00",
+   "first_seen": "2026-11-19T10:55:49.360629+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Hohe Energiepreise: Längst nicht jeder kann angemessen heizen",
+   "summary": "Die Preise für Haushaltsenergie gingen zuletzt zurück, seit 2020 sind sie aber stark gestiegen. Wer in dieser Heizsaison besonders unter höheren Kosten leidet.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/hohe-energiepreise-laengst-nicht-jeder-kann-angemessen-heizen/100271184.html",
+   "published": "2026-11-19T08:07:05+00:00",
+   "first_seen": "2026-11-19T10:55:49.360629+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Künstliche Intelligenz: Anthropic legt Rekord-Börsengang hin",
+   "summary": "Die Nachfrage beim Börsengang von Anthropic war so groß, dass die KI-Firma sogar mehr Aktien zum Verkauf anbot. Es ist der bisher größte Börsengang geworden.",
+   "link": "https://www.wiwo.de/finanzen/boerse/kuenstliche-intelligenz-anthropic-mit-rekord-boersengang-1073-milliarden-dollar/100271094.html",
+   "published": "2026-11-19T07:14:00+00:00",
+   "first_seen": "2026-11-19T10:55:49.360629+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Künstliche Intelligenz: Anthropic sammelt vor Rekordbörsengang 81 Milliarden Dollar ein",
+   "summary": "Dank hoher Nachfrage erhöht Anthropic den Ausgabepreis für seine Aktien und nimmt mehr Geld ein als erwartet. Der KI-Entwickler übertrifft damit den Rekord von SpaceX.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/anthropic-ipo-boersengang-aktien-kuenstliche-intelligenz-openai",
+   "published": "2026-11-19T02:28:58+00:00",
+   "first_seen": "2026-11-19T10:55:49.360629+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Künstliche Intelligenz: KI-Firma Anthropic schafft Rekord-Börsengang",
@@ -361,33 +415,6 @@
    "published": "2026-11-16T06:48:12+00:00",
    "first_seen": "2026-11-16T12:16:33.492396+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Verteidigung: Staaten planen bei UN-Konferenz Vorstoß gegen Killerroboter",
-   "summary": "Dürfen Waffen selbstständig entscheiden, Menschen zu töten? Die Weltgemeinschaft tut sich schwer, Regeln durchzusetzen. Doch gerade die Konkurrenz der Großmächte könnte jetzt helfen.",
-   "link": "https://www.handelsblatt.com/politik/international/verteidigung-staaten-planen-bei-un-konferenz-vorstoss-gegen-killerroboter/100269219.html",
-   "published": "2026-11-16T02:55:09+00:00",
-   "first_seen": "2026-11-16T03:52:56.417842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Wettlauf mit Starlink: 40 Amazon-Satelliten bei Absturz von Vulcan-Rakete zerstört",
-   "summary": "Zehn Minuten nach dem Abheben in Florida versagte die Vulcan-Rakete. 40 Satelliten für Amazons Internetdienst Leo wurden zerstört. Der Aufbau des Starlink-Wettbewerbers verzögert sich damit abermals.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/40-amazon-satelliten-bei-absturz-von-vulcan-rakete-zerstoert-accg-201686018.html",
-   "published": "2026-11-16T00:57:40+00:00",
-   "first_seen": "2026-11-16T03:52:56.417842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Renault-Chef François Provost: „Die EU hat das Glück der Bürger in Gefahr gebracht“",
-   "summary": "Renault-Chef François Provost spricht über den Wettbewerb mit China, die Fehler Europas und die Frage, wie sein Autokonzern wieder an die Weltspitze kommen soll.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/renault-e-autos-china-zoelle-francois-provost-li.3569322",
-   "published": "2026-11-15T12:39:50+00:00",
-   "first_seen": "2026-11-15T18:13:33.554214+00:00",
-   "paywall": true
   }
  ]
 }
