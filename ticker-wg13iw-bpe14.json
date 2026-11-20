@@ -1,7 +1,16 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-11-19T19:16:38.006845+00:00",
+ "updated": "2026-11-20T01:31:57.992060+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Zverev vergibt fünf Matchbälle - und siegt dennoch weiter",
+   "summary": "Alexander Zverev hat seine makellose Bilanz bei den ATP Finals bewahrt. Gegen den Franzosen Arthur Fils vergab er allerdings fünf Matchbälle. Zudem war er am Ende angeschlagen.",
+   "link": "https://www.zdfheute.de/sport/zverev-atp-finale-100.html",
+   "published": "2026-11-19T23:55:56+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Asia Techonomics: KI-Schummel stürzt Südkoreas Schicksalsprüfung in die Krise",
@@ -73,15 +82,6 @@
    "published": "2026-11-16T19:04:11+00:00",
    "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: DAX bleibt nahe Rekordhoch",
-   "summary": "Zum Wochenauftakt fällt der DAX moderat. Er bleibt aber nah an seinem Rekordhoch. Investoren warten vor allem die Nvidia-Bilanz ab. Außerdem sorgen sie sich um eine Zinserhöhung in den USA.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-   "published": "2026-11-16T17:21:14+00:00",
-   "first_seen": "2026-11-16T22:39:19.823381+00:00",
-   "paywall": false
   }
  ]
 }

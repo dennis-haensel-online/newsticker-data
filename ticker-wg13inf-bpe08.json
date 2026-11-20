@@ -1,7 +1,70 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-19T19:16:38.006845+00:00",
+ "updated": "2026-11-20T01:31:57.992060+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "KI-Firma - Anthropic startet mit kräftigem Kursplus an der Börse",
+   "summary": "Die US-amerikanische KI-Firma Anthropic ist bei ihrem Börsengang mit einem deutlichen Plus in den Handel gestartet. Der erste Kurs an der Technologiebörse Nasdaq lag bei 111,50 US-Dollar und damit gut ein Drittel über dem Ausgabepreis.…",
+   "link": "https://www.deutschlandfunk.de/anthropic-startet-mit-kraeftigem-kursplus-an-der-boerse-102.html",
+   "published": "2026-11-20T01:20:07+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "BSI-Lagebericht - Nutzung von Künstlicher Intelligenz verschärft Gefahr durch Cyberangriffe",
+   "summary": "Die Gefährdung durch Cyber- und Hackerangriffe in Deutschland hat sich durch die missbräuchliche Nutzung Künstlicher Intelligenz deutlich verschärft.",
+   "link": "https://www.deutschlandfunk.de/nutzung-von-kuenstlicher-intelligenz-verschaerft-gefahr-durch-cyberangriffe-108.html",
+   "published": "2026-11-20T01:20:07+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Künstliche Intelligenz - Deutsche Telekom beteiligt sich an französischem KI-Entwickler Mistral AI",
+   "summary": "Die Deutsche Telekom steigt beim französischen KI-Unternehmen Mistral AI ein.",
+   "link": "https://www.deutschlandfunk.de/deutsche-telekom-beteiligt-sich-an-franzoesischem-ki-entwickler-mistral-ai-104.html",
+   "published": "2026-11-20T01:20:07+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Kriminalität - EU-Kommission war Ziel von Cyberangriff mit Künstlicher Intelligenz",
+   "summary": "Die Europäische Kommission hat bestätigt, dass sie Ziel eines Cyberangriffs geworden ist, bei dem Künstliche Intelligenz eingesetzt wurde..",
+   "link": "https://www.deutschlandfunk.de/eu-kommission-war-ziel-von-cyberangriff-mit-kuenstlicher-intelligenz-104.html",
+   "published": "2026-11-20T01:20:07+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
+   "summary": "Der KI-Anbieter feiert den größten Börsengang der Welt. Doch nach anfänglichen Kursgewinnen von über 30 Prozent ebbt die frühe Euphorie merklich ab. Experten suchen nach Gründen.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html",
+   "published": "2026-11-19T21:20:13+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Anthropic-IPO: „Stoppt die Tech-Oligarchen“: Vor der Nasdaq warnen sie vor dem Terminator und Kursverlusten",
+   "summary": "Der größte Börsengang der Welt sorgt selbst in der Weltmetropole New York für Trubel. Dabei passt nicht allen, was Anthropic und die KI-Elite so veranstalten – auch mit Blick auf die Märkte.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/anthropic-ipo-vor-der-nasdaq-warnen-sie-vor-dem-terminator-und-kursverlusten/100271388.html",
+   "published": "2026-11-19T20:26:59+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Börsengang von KI-Unternehmen: Groß, größer, Anthropic",
+   "summary": "Der größte Börsengang der Geschichte: Mit dem Start von Anthropic zeigt die KI-Branche, dass sie noch nicht strauchelt. Was das für Europa heißt. mehr...",
+   "link": "https://taz.de/Der-groesste-Boersengang-der-Geschichte-Gross-groesser-Anthropic/!6231351/",
+   "published": "2026-11-19T19:21:00+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "KI-Firma - Anthropic startet mit kräftigem Kursplus an der Börse",
@@ -838,69 +901,6 @@
    "published": "2026-11-18T10:43:00+00:00",
    "first_seen": "2026-11-18T12:36:30.928951+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gesundheitsdaten: KI-Chatbots: Jeder Fünfte missachtet Arztempfehlungen",
-   "summary": "Die KI erklärt Krankheitssymptome oft verständlicher als Ärzte, sagen viele Nutzer. Doch Bitkom warnt: Chatbots können sich irren. Wie groß ist das Vertrauen trotzdem?",
-   "link": "https://www.handelsblatt.com/technik/it-internet/gesundheitsdaten-ki-chatbots-jeder-fuenfte-missachtet-arztempfehlungen/100270913.html",
-   "published": "2026-11-18T10:37:00+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Judith Dada: „Wir brauchen das europäische Manhattan-Projekt!“",
-   "summary": "Die Investorin erklärt im Interview ihre Vision für Europas KI-Zukunft, wo sie Lücken in den Plänen der Bundesregierung sieht und warum Europa US-Konzerne für Rechenzentren gewinnen muss.",
-   "link": "https://www.handelsblatt.com/technik/ki/judith-dada-die-usa-besitzen-etwa-75-prozent-der-globalen-ki-rechenkapazitaet/100268792.html",
-   "published": "2026-11-18T10:29:00+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Der steinige Weg zur Veröffentlichung von GTA 6",
-   "summary": "Datenlecks und Hacker-Angriffe sorgten für lange Verzögerungen bei GTA 6. Doch die Wartezeit ließ die Erwartungen von Fans nur wachsen. Das Spiel dürfte Milliarden einbringen.",
-   "link": "https://www.zdfheute.de/wirtschaft/gta-6-verzoegerung-urlaubsantraege-hack-leak-100.html",
-   "published": "2026-11-18T09:10:00+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Deutsche Bank: Chef der Deutschen Bank räumt nach Datenleck mögliche Fehler ein",
-   "summary": "Nach Enthüllungen über Defizite bei der Geldwäschekontrolle zeigt sich Christian Sewing selbstkritisch. Den grundsätzlichen Kurs der Deutschen Bank verteidigt er.",
-   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/datenleck-deutsche-bank-christian-sewing-gxe",
-   "published": "2026-11-18T09:01:04+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Roboter oder Rüstung: Europas Start-ups erhalten wieder deutlich mehr Geld",
-   "summary": "So viele Gründungen wie nie, 62 Prozent mehr Investitionen als im Vorjahr: Die europäische Tech-Branche feiert ein Rekordjahr, Deutschland punktet mit Uni-Ausgründungen. Gleichzeitig gibt es neue Engpässe.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/atomico-europas-start-ups-erhalten-wieder-deutlich-mehr-geld-accg-201690205.html",
-   "published": "2026-11-18T07:15:14+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Deutsche Unternehmen: Mit der Automatisierung steigt die Zuversicht",
-   "summary": "Der Einsatz von Robotern sorgt für einen Vorsprung im Wettbewerb. Hoch automatisierte Unternehmen sehen auch die Beschäftigungsentwicklung deutlich optimistischer.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/automatisierung-roboter-schaffen-jobs-statt-sie-zu-vernichten-accg-201690600.html",
-   "published": "2026-11-18T06:02:40+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Mit KI auf Schnäppchenjagd: Das sollten Sie wissen",
-   "summary": "Künstliche Intelligenz kann am Black Friday beim Preisvergleich helfen - Betrüger nutzen sie aber auch. Eine Expertin erklärt, worauf Käufer beim Online-Shopping achten sollten.",
-   "link": "https://www.zdfheute.de/ratgeber/black-friday-deals-ki-kuenstliche-intelligenz-preisvergleich-100.html",
-   "published": "2026-11-18T05:04:00+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": false
   }
  ]
 }

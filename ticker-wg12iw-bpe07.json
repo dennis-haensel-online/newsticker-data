@@ -1,7 +1,43 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-19T19:16:38.006845+00:00",
+ "updated": "2026-11-20T01:31:57.992060+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Kooperationsvereinbarungen geplant - Deutsch-ukrainisches Wirtschaftsforum in Berlin",
+   "summary": "In Berlin findet heute ein deutsch-ukrainisches Wirtschaftsforum statt.",
+   "link": "https://www.deutschlandfunk.de/deutsch-ukrainisches-wirtschaftsforum-in-berlin-100.html",
+   "published": "2026-11-20T01:20:07+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Huang-Affäre: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen",
+   "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs noch lange nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Chip-Konzern zu.",
+   "link": "https://www.handelsblatt.com/technik/ki/huang-affaere-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271418.html",
+   "published": "2026-11-20T01:18:49+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Chip-Riese: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen",
+   "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs noch lange nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Chip-Konzern zu.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271419.html",
+   "published": "2026-11-20T00:57:43+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Motorenhersteller: Nach „sorgfältiger Prüfung“: Deutz weist Leerverkäufer-Vorwürfe zu FFG-Kauf zurück",
+   "summary": "Hat das Unternehmen bei der Übernahme des Rüstungskonzerns Flensburger Fahrzeugbau Gesellschaft unvollständige Angaben gemacht? Deutz nennt die Vorwürfe unbegründet.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/leerverkaeufer-motorenbauer-deutz-weist-vorwuerfe-zu-ffg-uebernahme-zurueck/100271395.html",
+   "published": "2026-11-19T19:35:28+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Commerzbank-Übernahme: UniCredit verspricht bei der Commerzbank heiße Luft – der Vizekanzler jubelt",
@@ -135,6 +171,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/basf-evonik-uebernahme-chemiebranche-ludwigshafen-essen-li.3583220",
    "published": "2026-11-19T15:02:20+00:00",
    "first_seen": "2026-11-19T19:16:38.006845+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Lufthansa will 1000 Stellen an Drehkreuzen streichen",
+   "summary": "Brief des Bereichsvorstandes an die Beschäftigten +++ Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lufthansa-will-1000-stellen-an-drehkreuzen-streichen-faz-200452404.html",
+   "published": "2026-11-19T15:00:00+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
    "paywall": true
   },
   {
@@ -810,60 +855,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vaa-umfrage-fuehrungskraefte-in-der-chemie-bleiben-in-der-krise-gelassen-201673934.html",
    "published": "2026-11-16T18:04:59+00:00",
    "first_seen": "2026-11-17T04:52:54.486113+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Handelsblatt Live: Nvidia: US-Börsenexperte Koch erklärt, worauf Anleger nun achten sollten",
-   "summary": "Neben Berichten über eine mögliche Rückkehr von Nvidia-Gründer Jensen Huang an die Konzernspitze beschäftigen auch die anstehenden Quartalszahlen des Chipkonzerns die Märkte. Markus Koch analysiert das Börsengeschehen.",
-   "link": "https://www.handelsblatt.com/video/finanzen/nvidia-us-boersenexperte-koch-erklaert-worauf-anleger-nun-achten-sollten/100270325.html",
-   "published": "2026-11-16T16:57:30+00:00",
-   "first_seen": "2026-11-16T22:39:19.823381+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Abschiebezentrum in Ruanda: Was hinter den Plänen steckt",
-   "summary": "Abschiebezentren außerhalb der EU sind umstritten. Deutschland und vier weitere Mitgliedstaaten setzen auf Ruanda als Standort. Die wichtigsten Fragen und Antworten.",
-   "link": "https://www.zdfheute.de/politik/ausland/abschiebezentren-ruanda-kritik-eu-100.html",
-   "published": "2026-11-16T16:54:00+00:00",
-   "first_seen": "2026-11-16T22:39:19.823381+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chip-Exporte: Nvidia-Affäre überschattet Trumps Asienreise – Handelskonflikt mit China könnte neu aufflammen",
-   "summary": "Eine mögliche Verschärfung der Tech-Exportkontrollen gefährdet den Handelsdeal mit Peking – und den Versuch der USA, den Einfluss chinesischer KI in Südostasien zurückzudrängen.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-und-china-die-nvidia-affaere-ueberschattet-trumps-asienreise/100269704.html",
-   "published": "2026-11-16T16:44:26+00:00",
-   "first_seen": "2026-11-16T22:39:19.823381+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Marktmacht: Stromkonzerne sollen in Energiekrise abkassiert haben",
-   "summary": "Im Sommer 2022 haben die „großen fünf“ Energieunternehmen ihre Marktmacht ausgenutzt, vermutet das Ifo-Institut. Die jüngsten Auktionsergebnisse dürften das Problem noch verschärfen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/ifo-studie-stromkonzerne-kassieren-in-energiekrise-ab-201686709.html",
-   "published": "2026-11-16T16:37:47+00:00",
-   "first_seen": "2026-11-17T04:52:54.486113+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Tesla will drei Milliarden Euro in Grünheide-Werk stecken",
-   "summary": "Der US-Autobauer Tesla will in den Ausbau des Werks in Grünheide investieren. Brandenburgs Ministerpräsident Dietmar Woidke spricht von einem \"großen Tag\" für das Bundesland.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/tesla-gruenheide-werk-ausbau-milliarden-100.html",
-   "published": "2026-11-16T16:24:00+00:00",
-   "first_seen": "2026-11-16T22:39:19.823381+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SZ",
-   "title": "Apec-Konferenz: China lädt zum Freihandel",
-   "summary": "Streitpunkte gibt es zwischen China und den USA genug. Doch Donald Trump und Xi Jinping wollen beim Apec-Gipfel in Shenzhen vor allem eines: den mühsam ausgehandelten Waffenstillstand im Handelskrieg festigen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/usa-china-apec-gipfel-shenzhen-donald-trump-xi-jinping-handelskrieg-li.3581097",
-   "published": "2026-11-16T15:42:47+00:00",
-   "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": true
   }
  ]

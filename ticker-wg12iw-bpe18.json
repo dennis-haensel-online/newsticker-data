@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-11-19T19:16:38.006845+00:00",
+ "updated": "2026-11-20T01:31:57.992060+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Motorenhersteller: Nach „sorgfältiger Prüfung“: Deutz weist Leerverkäufer-Vorwürfe zu FFG-Kauf zurück",
+   "summary": "Hat das Unternehmen bei der Übernahme des Rüstungskonzerns Flensburger Fahrzeugbau Gesellschaft unvollständige Angaben gemacht? Deutz nennt die Vorwürfe unbegründet.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/leerverkaeufer-motorenbauer-deutz-weist-vorwuerfe-zu-ffg-uebernahme-zurueck/100271395.html",
+   "published": "2026-11-19T19:35:28+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Commerzbank-Übernahme: UniCredit verspricht bei der Commerzbank heiße Luft – der Vizekanzler jubelt",
@@ -135,6 +144,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/basf-evonik-uebernahme-chemiebranche-ludwigshafen-essen-li.3583220",
    "published": "2026-11-19T15:02:20+00:00",
    "first_seen": "2026-11-19T19:16:38.006845+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Lufthansa will 1000 Stellen an Drehkreuzen streichen",
+   "summary": "Brief des Bereichsvorstandes an die Beschäftigten +++ Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lufthansa-will-1000-stellen-an-drehkreuzen-streichen-faz-200452404.html",
+   "published": "2026-11-19T15:00:00+00:00",
+   "first_seen": "2026-11-20T01:31:57.992060+00:00",
    "paywall": true
   },
   {
@@ -640,15 +658,6 @@
    "published": "2026-11-16T22:02:28+00:00",
    "first_seen": "2026-11-16T22:39:19.823381+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Marktmacht: Stromkonzerne sollen in Energiekrise abkassiert haben",
-   "summary": "Im Sommer 2022 haben die „großen fünf“ Energieunternehmen ihre Marktmacht ausgenutzt, vermutet das Ifo-Institut. Die jüngsten Auktionsergebnisse dürften das Problem noch verschärfen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/ifo-studie-stromkonzerne-kassieren-in-energiekrise-ab-201686709.html",
-   "published": "2026-11-16T16:37:47+00:00",
-   "first_seen": "2026-11-17T04:52:54.486113+00:00",
-   "paywall": true
   }
  ]
 }
