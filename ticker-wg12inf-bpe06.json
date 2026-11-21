@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-20T18:08:57.196018+00:00",
+ "updated": "2026-11-21T00:29:59.895277+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "IT-Sicherheit: Hackerangriff auf Immobilienverwaltung der Bundesagentur",
+   "summary": "Die Bundesagentur für Arbeit ist Deutschlands größte Behörde. Ihre Immobilienverwaltung ist nun Ziel von Computerhackern geworden.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/it-sicherheit-hackerangriff-auf-immobilienverwaltung-der-bundesagentur/100271684.html",
+   "published": "2026-11-20T22:38:44+00:00",
+   "first_seen": "2026-11-21T00:29:59.895277+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Hackerangriff auf Hugendubel",
+   "summary": "Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Christine Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hackerangriff-auf-hugendubel-faz-200452404.html",
+   "published": "2026-11-20T18:00:00+00:00",
+   "first_seen": "2026-11-21T00:29:59.895277+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "USA: Weißes Haus ernennt neue Cyberbeauftragte nach IT-Störungen",
@@ -325,33 +343,6 @@
    "published": "2026-11-17T17:57:51+00:00",
    "first_seen": "2026-11-17T22:03:34.508338+00:00",
    "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Donald Trump zum Datenleak der Deutschen Bank: »Sie hätten es nicht tun sollen«",
-   "summary": "Die Deutsche Bank hat wohl versehentlich Steuerunterlagen von Donald Trump verschickt – während dieser sich vehement weigerte, sie offenzulegen. Nun hat sich der US-Präsident zu der Veröffentlichung aus dem Datenleck geäußert.",
-   "link": "https://www.spiegel.de/wirtschaft/us-praesident-donald-trump-zum-datenleak-der-deutschen-bank-sie-haetten-es-nicht-tun-sollen-a-20d45c72-7b6a-4f69-9879-ca1601f9c6f0#ref=rss",
-   "published": "2026-11-17T14:32:00+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Börse: Datenleck bei der Deutschen Bank: Aktie rutscht nach Enthüllung deutlich ab",
-   "summary": "Internationale Medien haben mehr als 15 Millionen interne Dokumente des Dax-Konzerns ausgewertet. Ihre Berichte sorgten für Kursverluste – in der Spitze gab die Deutsche-Bank-Aktie um mehr als sechs Prozent nach.",
-   "link": "https://www.handelsblatt.com/video/finanzen/boerse-datenleck-bei-der-deutschen-bank-aktie-rutscht-nach-enthuellung-deutlich-ab/100270638.html",
-   "published": "2026-11-17T13:45:54+00:00",
-   "first_seen": "2026-11-17T13:59:00.601002+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Medienberichte - Nach Datenleck bei Deutscher Bank: Klingbeil fordert Aufklärung",
-   "summary": "Nach Berichten über schwerwiegende Versäumnisse bei internen Kontrollen der Deutschen Bank hat Bundesfinanzminister Klingbeil Aufklärung verlangt.",
-   "link": "https://www.deutschlandfunk.de/nach-datenleck-bei-deutscher-bank-klingbeil-fordert-aufklaerung-100.html",
-   "published": "2026-11-17T13:38:48+00:00",
-   "first_seen": "2026-11-17T13:59:00.601002+00:00",
-   "paywall": false
   }
  ]
 }
