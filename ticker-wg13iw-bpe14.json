@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe14",
- "updated": "2026-11-21T07:52:03.640842+00:00",
+ "updated": "2026-11-21T15:47:14.409424+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Demonstrationen: Meist friedlich, aber Festnahmen: Bilanz zu Jugendprotesten",
+   "summary": "Zehntausende protestieren friedlich für die Anliegen der jungen Generation. Mancherorts nimmt die Polizei Menschen fest. Bilder wie an Halloween entstehen aber nicht.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-meist-friedlich-aber-festnahmen-bilanz-zu-jugendprotesten/100271691.html",
+   "published": "2026-11-21T15:12:55+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Bilanzierungspraktiken: US-Börsenaufsicht ermittelt gegen Nvidia – Aktie fällt um 14 Prozent",
+   "summary": "Im Fokus stehen nach einem Reuters-Bericht Bilanzierungspraktiken des Chip-Riesen. Donald Trump will derweil immer noch den zurückgetretenen CEO Jensen Huang zurück.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
+   "published": "2026-11-21T09:16:40+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
   {
    "label": "ZEIT",
    "title": "Jensen Huang: US-Börsenaufsicht ermittelt laut Berichten gegen Nvidia",
@@ -18,6 +36,15 @@
    "link": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung-aktie-faellt-weiter/100271678.html",
    "published": "2026-11-20T21:30:36+00:00",
    "first_seen": "2026-11-21T00:29:59.895277+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Chip-Konzern: Aufsicht SEC überprüft laut Bericht Nvidia-Bilanzierung – Aktie fällt weiter",
+   "summary": "Nvidia droht neues Ungemach: Aufseher untersuchen offenbar die Buchhaltung des Konzerns – und den Schmuggel von Chips nach China. Präsident Trump fordert derweil die Rückkehr von Ex-Chef Huang.",
+   "link": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html",
+   "published": "2026-11-20T21:30:36+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
    "paywall": true
   },
   {
@@ -99,33 +126,6 @@
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-co.-nvidias-starke-bilanz-kann-ki-skepsis-in-asien-nicht-vertreiben/100270767.html",
    "published": "2026-11-18T03:50:29+00:00",
    "first_seen": "2026-11-18T03:57:24.524795+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn – keine Pläne für Rückkehr Huangs",
-   "summary": "Investoren müssen sich nach dem Abgang Huangs an neue Gesichter bei den Bilanzkonferenzen gewöhnen. Im vergangenen Quartal lief das Geschäft noch auf Hochtouren.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html",
-   "published": "2026-11-17T22:57:26+00:00",
-   "first_seen": "2026-11-18T03:57:24.524795+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "DBB-Frauen feiern gelungenen Jahresabschluss",
-   "summary": "Die Auftaktniederlage ist vergessen. Nach zwei Siegen haben die deutschen Basketballerinnen die EM fest im Visier. Dort geht es dann um Olympia.",
-   "link": "https://www.zdfheute.de/sport/basketball-frauen-em-qualifikation-portugal-deutschland-fiebich-100.html",
-   "published": "2026-11-17T21:05:00+00:00",
-   "first_seen": "2026-11-18T03:57:24.524795+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Scheuer-Prozess: Noch schnell ein paar Millionen-Verträge",
-   "summary": "Der Maut-Prozess gegen Andreas Scheuer hält immer neue Überraschungen bereit. Jetzt werden alte Betrugsvorwürfe hervorgekramt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/maut-prozess-gegen-andreas-scheuer-neue-betrugsvorwuerfe-aufgewaermt-201691027.html",
-   "published": "2026-11-17T18:03:34+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
    "paywall": true
   }
  ]

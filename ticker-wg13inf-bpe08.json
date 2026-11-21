@@ -1,7 +1,106 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-21T07:52:03.640842+00:00",
+ "updated": "2026-11-21T15:47:14.409424+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein - auch Landwirtschaftsministerium betroffen",
+   "summary": "Die US-Bundespolizei FBI ist Medienberichten zufolge zum zweiten Mal innerhalb weniger Monate Ziel eines Cyberangriffs geworden.",
+   "link": "https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-auch-landwirtschaftsministerium-betroffen-100.html",
+   "published": "2026-11-21T15:27:22+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": false
+  },
+  {
+   "label": "DLF",
+   "title": "Aktien - Ausverkauf bei Technologie- und KI-Werten an US-Börsen - Dax fällt unter 25.000 Punkte",
+   "summary": "Der Dax hat den größten Wochenverlust seit März verzeichnet.",
+   "link": "https://www.deutschlandfunk.de/ausverkauf-bei-technologie-und-ki-werten-an-us-boersen-dax-faellt-unter-25-000-punkte-100.html",
+   "published": "2026-11-21T15:27:22+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI: KI soll berühmtestes Problem der Mathematik gelöst haben",
+   "summary": "Ein Anthropic-Mitarbeiter will mit Claude die Riemannsche Vermutung bewiesen haben – die Beweisführung würde mehr als 250.000 Seiten füllen. Ob sie stimmt, müssen Fachleute noch prüfen.",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben/100271770.html",
+   "published": "2026-11-21T14:22:00+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Börse: Die Woche, in der der KI-Boom endete",
+   "summary": "US-amerikanische Technologieaktien sind in einer Woche um zehn Prozent gefallen. So begannen früher Börsenkrisen. Und heute?",
+   "link": "https://www.zeit.de/geld/2026-11/ki-boom-boersencrash-technologieaktien-nasdaq",
+   "published": "2026-11-21T14:03:29+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Einen Tag nach Börsengang: KI soll berühmtestes Problem der Mathematik gelöst haben",
+   "summary": "Der „Heilige Gral“ der Mathematik könnte gefunden sein. Das Problem: Der Beweis wäre für Menschen mehr als 250.000 Seiten lang – und selbst ihr Urheber versteht ihn noch nicht ganz.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/einen-tag-nach-boersengang-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben/100271765.html",
+   "published": "2026-11-21T13:53:08+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Gehaltsreport 2026: In diesen Branchen verdienen Controller am besten",
+   "summary": "Die KI kann vieles in der Buchhaltung übernehmen. Und doch bleibt der Mensch dort wichtig. So positionieren Sie sich klug, damit sich das auszahlt.",
+   "link": "https://www.wiwo.de/erfolg/management/gehaltsreport-2026-wo-controller-heute-am-meisten-verdienen/100270541.html",
+   "published": "2026-11-21T12:31:57+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Verbot von Killerrobotern: Darum gibt's vorerst keine Zusage",
+   "summary": "Die UN-Gespräche über eine Regulierung KI-gesteuerter Waffen, die ohne menschlichen Befehl töten können, enden ohne eine verbindliche Zusage. NGOs fürchten einen Rüstungswettlauf.",
+   "link": "https://www.zdfheute.de/politik/killerroboter-regeln-keine-einigung-100.html",
+   "published": "2026-11-21T11:44:00+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer",
+   "summary": "Hackerangriff auf Hugendubel +++ Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
+   "published": "2026-11-21T10:40:00+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cyber Risk: Wie Versicherer und Analysten das Risiko durch Hackerangriffe berechnen",
+   "summary": "Viele Unternehmen wissen nicht, wie groß die Gefahr durch Cyberangriffe wirklich ist. Auch auf Druck von Versicherern berechnen immer mehr Betriebe die Risiken nun in Euro und Cent.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/cyber-risk-wie-sich-das-risiko-durch-hackerangriffe-berechnen-laesst/100271003.html",
+   "published": "2026-11-21T10:21:24+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Rüstung: UN-Gespräche über autonome Waffen enden ohne verbindliche Zusage",
+   "summary": "Vollautonome Waffen sollen im Krieg zum Einsatz kommen. Dem internationalen Aufruf nach einer Einigung auf Schranken sind viele Länder gefolgt, aber ein Ergebnis bleibt vorerst aus.",
+   "link": "https://www.handelsblatt.com/politik/international/ki-ruestung-un-gespraeche-ueber-autonome-waffen-enden-ohne-verbindliche-zusage/100271727.html",
+   "published": "2026-11-21T09:11:30+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "KI-Finanzierung: Welchen Einfluss hat Werbung auf KI-Antworten?",
+   "summary": "Viele wollen KI nutzen, wenige zahlen. Google und Open AI testen Werbeanzeigen in ihren KI-Modellen. Können Nutzer den Auskünften jetzt noch vertrauen?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chatgpt-und-gemini-welchen-einfluss-werbung-auf-ki-antworten-nimmt-accg-201629258.html",
+   "published": "2026-11-21T09:09:38+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Morning Briefing Plus: Sicherheitsrisiko Tischreservierung: Cybersicherheit wird politisch unterschätzt",
@@ -9,6 +108,15 @@
    "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-sicherheitsrisiko-tischreservierung/100271486.html",
    "published": "2026-11-21T07:49:11+00:00",
    "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Aktien: Und auf einmal herrscht ein bisschen Panik an den Börsen",
+   "summary": "Nur einen Tag nach dem Anthropic-Börsengang brechen Kurse ein und KI-Aktien stürzen ab. Anleger flüchten in vermeintlich sichere Anlagen. Das sind die Gründe.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/aktien-boerse-nasdaq-anthropic-nvidia-li.3583968",
+   "published": "2026-11-21T07:46:22+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
    "paywall": true
   },
   {
@@ -791,114 +899,6 @@
    "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
    "link": "https://www.handelsblatt.com/technik/ki/technologie-warum-immer-mehr-unternehmen-nach-ki-experten-suchen/100251207.html",
    "published": "2026-11-19T10:53:00+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-: Alibaba verdreifacht den Gewinn",
-   "summary": "Der Konzern spielt eine zentrale Rolle in der chinesischen KI-Wirtschaft und wächst überraschend stark. Doch neue US-Exportbeschränkungen setzen den Konzern unter Druck",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-alibaba-verdreifacht-den-gewinn/100271238.html",
-   "published": "2026-11-19T10:39:53+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte: EZB-Vize Vujcic warnt Anleger vor Doppelbeben an den Börsen",
-   "summary": "An den Finanzmärkten lauern nach Ansicht der EZB akute Risiken für Aktien und Anleihen. Problematisch seien längst nicht nur die hohen Bewertungen infolge des KI-Booms, sagen die Notenbanker.",
-   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/geldanlage-ezb-vize-vujcic-warnt-anleger-vor-doppelbeben-an-den-boersen/100268686.html",
-   "published": "2026-11-19T10:28:00+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "BSI-Lagebericht: „Next Level“ an Gefährdung: Behörde stuft Cyberbedrohung hoch und warnt vor KI-Angriffen",
-   "summary": "Jede unzureichend gesicherte Schnittstelle werde zum Einfallstor, warnt Innenminister Dobrindt. Wie verwundbar europäische Institutionen sind, zeigt ein neuer Cyberangriff auf die EU-Kommission.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bsi-cyberbehoerde-sieht-verschaerfte-bedrohungslage-durch-ki-angriffe/100271163.html",
-   "published": "2026-11-19T10:26:52+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Künstliche Intelligenz: Telekom steigt bei Mistral ein",
-   "summary": "Das französische KI-Scale-up gilt als Europas Antwort auf die KI-Giganten aus den USA und China. Profitieren sollen vor allem deutsche Unternehmen und regulierte Branchen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/mistral-deutsche-telekom-kuenstliche-intelligenz-ki-muenchen-li.3582969",
-   "published": "2026-11-19T10:18:49+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Start-up: „Europäisches Juwel“: Telekom steigt bei Mistral ein – und investiert 100 Millionen Euro",
-   "summary": "Das französische Start-up ist die europäische Hoffnung im Bereich Künstlicher Intelligenz. Nun wurden erste Schritte einer strategischen Partnerschaft mit der Telekom vereinbart.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/mistral-deutsche-telekom-steigt-bei-ki-start-up-ein/100271198.html",
-   "published": "2026-11-19T10:15:50+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sicherheit: Hackerangriffe werden durch KI schneller und wirkungsvoller – so schützen sich Unternehmen",
-   "summary": "Cyberkriminelle erhöhen die Wirksamkeit ihrer Angriffe mit Künstlicher Intelligenz. IT-Verantwortliche in Unternehmen müssen umdenken und neue Schutzmaßnahmen ergreifen.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/sicherheit-so-schuetzen-sich-unternehmen-gegen-ki-gestuetzte-hackerangriffe/100266917.html",
-   "published": "2026-11-19T09:40:51+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Ungleiche Partner: Telekom steigt ins KI-Startup Mistral ein",
-   "summary": "Der Konzern und das Jungunternehmen wollen passgenaue KI für Unternehmen und Behörden anbieten. Dafür wird viel Geld investiert.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/telekom-steigt-mit-100-millionen-euro-bei-ki-firma-mistral-ein-accg-201697612.html",
-   "published": "2026-11-19T09:22:26+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Autonomes Fahren: Eine Flasche aufdrehen bei 130 km/h: Mercedes kündigt neuen Autobahn-Assistenten ab Jahresende an",
-   "summary": "Mit der neuen S-Klasse hatte Mercedes autonome Fahrfunktionen eingestellt. Jetzt nennt Entwicklungschef Jörg Burzer die nächsten Schritte. Ein Autobahn-Assistent ist erst der Anfang.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-wie-mercedes-beim-autonomen-fahren-vorankommen-will/100264904.html",
-   "published": "2026-11-19T09:22:00+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: „Wir stürzen in eine Welt, in der nur die Elite arbeitet“",
-   "summary": "Allison Pugh ist eine der wichtigsten Stimmen der US‑Soziologie. Sie warnt: Menschen verlieren ihre Würde, wenn KI alle Arbeit ersetzt. Künftig könnte vor allem eine Fähigkeit zählen.",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-der-ki-tsunami-wird-kommen/100223312.html",
-   "published": "2026-11-19T08:59:00+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Europäische Union: Hackerangriff auf EU‑Kommission – möglicherweise Daten abgegriffen",
-   "summary": "Nach einem zehntägigen Cyberangriff auf die EU-Kommission bleibt das Ausmaß unklar. Betroffen waren unter anderem Personal- und Medizinsysteme.",
-   "link": "https://www.wiwo.de/politik/europa/europaeische-union-hackerangriff-auf-eukommission-ausmass-noch-unklar/100271192.html",
-   "published": "2026-11-19T08:58:05+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyberangriff: Hacker greifen EU-Kommission an und erbeuten womöglich Daten",
-   "summary": "Nach einem Cyberangriff muss die EU-Kommission mehrere Personalsysteme vom Netz nehmen. Das volle Ausmaß ist unklar – die Kommission hat eine Dringlichkeitssitzung einberufen.",
-   "link": "https://www.handelsblatt.com/politik/international/cyberangriff-hacker-greifen-eu-kommission-an-und-erbeuten-womoeglich-daten/100271187.html",
-   "published": "2026-11-19T08:36:39+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Topix, CSI 300: Asiens Börsen profitieren von Anthropic-Börsengang",
-   "summary": "Der Entwickler des KI-Assistenten Claude knackt den IPO-Rekord von SpaceX. Zu den klaren Gewinnern in Tokio zählt zum Verkaufsstart des Videospiels „GTA VI“ Sony.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-profitieren-von-anthropic-boersengang/100271133.html",
-   "published": "2026-11-19T08:35:35+00:00",
    "first_seen": "2026-11-19T10:55:49.360629+00:00",
    "paywall": true
   }

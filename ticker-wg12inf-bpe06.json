@@ -1,7 +1,34 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-21T07:52:03.640842+00:00",
+ "updated": "2026-11-21T15:47:14.409424+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein - auch Landwirtschaftsministerium betroffen",
+   "summary": "Die US-Bundespolizei FBI ist Medienberichten zufolge zum zweiten Mal innerhalb weniger Monate Ziel eines Cyberangriffs geworden.",
+   "link": "https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-auch-landwirtschaftsministerium-betroffen-100.html",
+   "published": "2026-11-21T15:27:22+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer",
+   "summary": "Hackerangriff auf Hugendubel +++ Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
+   "published": "2026-11-21T10:40:00+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Cyber Risk: Wie Versicherer und Analysten das Risiko durch Hackerangriffe berechnen",
+   "summary": "Viele Unternehmen wissen nicht, wie groß die Gefahr durch Cyberangriffe wirklich ist. Auch auf Druck von Versicherern berechnen immer mehr Betriebe die Risiken nun in Euro und Cent.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/cyber-risk-wie-sich-das-risiko-durch-hackerangriffe-berechnen-laesst/100271003.html",
+   "published": "2026-11-21T10:21:24+00:00",
+   "first_seen": "2026-11-21T15:47:14.409424+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Morning Briefing Plus: Sicherheitsrisiko Tischreservierung: Cybersicherheit wird politisch unterschätzt",
@@ -298,69 +325,6 @@
    "published": "2026-11-18T03:55:26+00:00",
    "first_seen": "2026-11-18T03:57:24.524795+00:00",
    "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Deutsche Bank - Bundesfinanzminister Klingbeil fordert Konsquenzen aus Datenleck - Vorwürfe von US-Präsident Trump",
-   "summary": "Die neuen Vorwürfe gegen die Deutsche Bank nach Medienrecherchen haben für ein gemischtes Echo gesorgt. Es geht unter anderem um mögliche Geldwäsche und Geschäfte mit Russland und dem verurteilten Sexualstraftäter Epstein.…",
-   "link": "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-fordert-konsquenzen-aus-datenleck-vorwuerfe-von-us-praesident-trump-100.html",
-   "published": "2026-11-17T21:43:21+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Medien - Fast 180 Websites von BBC bis Ikea angegriffen",
-   "summary": "Einem Medienbericht zufolge sind bei einem groß angelegten Hackerangriff fast 180 wichtige internationale Webseiten udn deren Nutzer attackiert worden.",
-   "link": "https://www.deutschlandfunk.de/fast-180-websites-von-bbc-bis-ikea-angegriffen-100.html",
-   "published": "2026-11-17T21:43:21+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Hat der Iran-Krieg den Westen erreicht?",
-   "summary": "Eine mögliche \"Dirty Bomb\" in der US-Hauptstadt, Drohungen gegen Minister und Cyberangriffe in Europa. Iran-Experte Schindler erklärt, wie sich der Krieg weiter ausweiten könnte.",
-   "link": "https://www.zdfheute.de/politik/ausland/usa-iran-bedrohung-schindler-100.html",
-   "published": "2026-11-17T20:56:00+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IT-Ausfälle: Netzwerk von US-Geheimdienst gestört – Hacker greifen weltweit Websites an",
-   "summary": "Nach mehreren Technikpannen meldet die NSA Probleme, spricht jedoch nicht von einem Cyberangriff. Den gab es aber offenbar auf fast 200 große Websites. Im Kongress wird Aufklärung gefordert.",
-   "link": "https://www.handelsblatt.com/politik/international/it-ausfaelle-netzwerk-von-us-geheimdienst-gestoert-hacker-greifen-websites-an/100270731.html",
-   "published": "2026-11-17T20:45:01+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Israels Besatzungspolitik und Big Tech: Wir sind alle Komplizen",
-   "summary": "Israel hat Millionen von Fotos auf eine Amazon-Cloud hochgeladen, um damit Palästinenser zu überwachen. Soll man den Konzern deswegen boykottieren? mehr...",
-   "link": "https://taz.de/Israel-hat-die-Amazon-Cloud-benutzt-um-Palaestinenser-zu-ueberwachen--soll-man-den-Konzern-deswegen-boykottieren/!6230790/",
-   "published": "2026-11-17T19:02:00+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Datenleck bei der Deutschen Bank: „Das sollte Kunden und Anleger ein bisschen nervös machen“",
-   "summary": "Wer trägt die Verantwortung für die Regelverstöße bei der Deutschen Bank? Für Finanzwende-Experte Kevin Kühnert ist die Antwort klar: CEO Christian Sewing. Der Fall Springer zeige das exemplarisch. mehr...",
-   "link": "https://taz.de/Datenleck-bei-der-Deutschen-Bank/!6230775/",
-   "published": "2026-11-17T19:01:00+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interview: 15 Millionen Dokumente und neun Millionen Mails abgeflossen: Wie konnte das passieren, Herr Sewing?",
-   "summary": "Der Chef der Deutschen Bank äußert sich im Interview zu dem Datenleck, das gerade weltweit Schlagzeilen macht – und reagiert auf Vorwürfe, er habe Profit über interne Kontrollen gestellt.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-wie-konnte-das-passieren-herr-sewing/100270599.html",
-   "published": "2026-11-17T17:57:51+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": true
   }
  ]
 }
