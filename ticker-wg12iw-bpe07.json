@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-21T00:29:59.895277+00:00",
+ "updated": "2026-11-21T07:52:03.640842+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Monsanto - US-Gericht billigt Milliardenvergleich von Bayern zur Beilegung von Glyphosat-Klagen",
+   "summary": "Der Bayer-Konzern hat im ‌Rechtsstreit ⁠um mutmaßliche ⁠Krebsrisiken eines glyphosat-haltigen Unkrautvernichters einen weiteren juristischen Erfolg erzielt.",
+   "link": "https://www.deutschlandfunk.de/us-gericht-billigt-milliardenvergleich-von-bayern-zur-beilegung-von-glyphosat-klagen-102.html",
+   "published": "2026-11-21T07:41:43+00:00",
+   "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
+   "summary": "Für den Chemiekonzern Bayer könnten die Klagen wegen des Unkraut-Vernichters Roundup in den USA bald der Vergangenheit angehören. Ein US-Gericht hat einen milliardenschweren Vergleich des Konzerns mit Vertretern der Kläger gebilligt.",
+   "link": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+   "published": "2026-11-21T03:50:50+00:00",
+   "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Bayer: Gericht genehmigt milliardenschweren Glyphosat-Vergleich",
@@ -883,24 +901,6 @@
    "published": "2026-11-17T21:36:22+00:00",
    "first_seen": "2026-11-17T22:03:34.508338+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Technische Probleme: Störung bei Apple-Diensten",
-   "summary": "Die Serie größerer technischer Störungen reißt nicht ab. Jetzt gibt es Probleme beim iPhone-Konzern Apple.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/technische-probleme-stoerung-bei-apple-diensten/100270728.html",
-   "published": "2026-11-17T19:54:33+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Israels Besatzungspolitik und Big Tech: Wir sind alle Komplizen",
-   "summary": "Israel hat Millionen von Fotos auf eine Amazon-Cloud hochgeladen, um damit Palästinenser zu überwachen. Soll man den Konzern deswegen boykottieren? mehr...",
-   "link": "https://taz.de/Israel-hat-die-Amazon-Cloud-benutzt-um-Palaestinenser-zu-ueberwachen--soll-man-den-Konzern-deswegen-boykottieren/!6230790/",
-   "published": "2026-11-17T19:02:00+00:00",
-   "first_seen": "2026-11-17T22:03:34.508338+00:00",
-   "paywall": false
   }
  ]
 }

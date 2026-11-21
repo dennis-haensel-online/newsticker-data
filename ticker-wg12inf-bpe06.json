@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-21T00:29:59.895277+00:00",
+ "updated": "2026-11-21T07:52:03.640842+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Plus: Sicherheitsrisiko Tischreservierung: Cybersicherheit wird politisch unterschätzt",
+   "summary": "Kühlanlagen, EU-Kommission, BundID, Restaurants: Die Liste der Cyberangriffe wird länger, die Angreifer werden schneller. Der Staat verliert das Wettrennen, wenn er nicht investiert.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-sicherheitsrisiko-tischreservierung/100271486.html",
+   "published": "2026-11-21T07:49:11+00:00",
+   "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein",
+   "summary": "Die US-Bundespolizei FBI ist Medienberichten zufolge zum zweiten Mal innerhalb weniger Monate Ziel eines Cyberangriffs geworden.",
+   "link": "https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-100.html",
+   "published": "2026-11-21T07:41:43+00:00",
+   "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "IT-Sicherheit: Hackerangriff auf Immobilienverwaltung der Bundesagentur",

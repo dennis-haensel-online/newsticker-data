@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-21T00:29:59.895277+00:00",
+ "updated": "2026-11-21T07:52:03.640842+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Morning Briefing Plus: Sicherheitsrisiko Tischreservierung: Cybersicherheit wird politisch unterschätzt",
+   "summary": "Kühlanlagen, EU-Kommission, BundID, Restaurants: Die Liste der Cyberangriffe wird länger, die Angreifer werden schneller. Der Staat verliert das Wettrennen, wenn er nicht investiert.",
+   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-sicherheitsrisiko-tischreservierung/100271486.html",
+   "published": "2026-11-21T07:49:11+00:00",
+   "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": true
+  },
+  {
+   "label": "DLF",
+   "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein",
+   "summary": "Die US-Bundespolizei FBI ist Medienberichten zufolge zum zweiten Mal innerhalb weniger Monate Ziel eines Cyberangriffs geworden.",
+   "link": "https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-100.html",
+   "published": "2026-11-21T07:41:43+00:00",
+   "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Folgenreiche KI-Entwicklung: Regeln für Killerroboter: Gespräche enden mit Minimalkonsens",
+   "summary": "Vollautonome Waffen können selbst Ziele auswählen und tödliche Angriffe auslösen. Zwar soll es nun international Schranken für die Entwicklung geben. Aber das Wann und Wie bleibt ungeklärt.",
+   "link": "https://www.handelsblatt.com/politik/international/folgenreiche-ki-entwicklung-regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens/100271710.html",
+   "published": "2026-11-21T04:48:41+00:00",
+   "first_seen": "2026-11-21T07:52:03.640842+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Mathematik - Anthropic-Forscher will Riemannsche Hypothese mit KI gelöst haben",
@@ -872,33 +899,6 @@
    "summary": "Der Entwickler des KI-Assistenten Claude knackt den IPO-Rekord von SpaceX. Zu den klaren Gewinnern in Tokio zählt zum Verkaufsstart des Videospiels „GTA VI“ Sony.",
    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-profitieren-von-anthropic-boersengang/100271133.html",
    "published": "2026-11-19T08:35:35+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Deutsche Bank: Skurriles aus dem Datenleck - Zyankali im Schließfach",
-   "summary": "Eine gefährliche Kapsel, Kommunisten beim Klassenfeind und ein Korb von Heidi Klum: Die geleakten Unterlagen der Deutschen Bank offenbaren peinliche Fehler, kuriose Personalgeschichten und abseitige Mails. Ein Streifzug.",
-   "link": "https://www.spiegel.de/wirtschaft/inside-deutsche-bank-skurriles-aus-dem-datenleck-zyankali-im-schliessfach-a-8c180b02-85a1-4942-84f0-d0d4773dbf96#ref=rss",
-   "published": "2026-11-19T08:35:00+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "11KM-Podcast: \"Superintelligenz\" - was hinter der KI-Vision steckt",
-   "summary": "Silicon Valley-Entwickler träumen von einem digitalen Überwesen - einer \"Superintelligenz\". 11KM über bedrohliche Zukunftsvisionen und was dahintersteckt.",
-   "link": "https://www.tagesschau.de/multimedia/podcast/11km/podcast-11km-ki-vision-100.html",
-   "published": "2026-11-19T07:49:57+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Anthropic: Anthropic meldet Rekordbörsengang mit 107,3 Milliarden US-Dollar",
-   "summary": "Anthropic startet mit einem Erlös an der Börse, der den bisherigen Rekord von SpaceX bei Weitem überflügelt. Experten sprechen von einem Meilenstein für die KI-Branche.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/anthropic-boersengang-ki-aktien-ipo-bewertung-gxe",
-   "published": "2026-11-19T07:18:05+00:00",
    "first_seen": "2026-11-19T10:55:49.360629+00:00",
    "paywall": true
   }
