@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-21T15:47:14.409424+00:00",
+ "updated": "2026-11-21T21:20:46.884340+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Inside Deutsche Bank: Komplexität killt Wirkung",
+   "summary": "Das Datenleck bei der Deutschen Bank konterkariert das Selbstbild des Konzerns. Auch Mathias Döpfner und Friede Springer kommen nicht gut weg. mehr...",
+   "link": "https://taz.de/Inside-Deutsche-Bank/!6223581/",
+   "published": "2026-11-21T19:11:00+00:00",
+   "first_seen": "2026-11-21T21:20:46.884340+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein - auch Landwirtschaftsministerium betroffen",
@@ -307,24 +316,6 @@
    "published": "2026-11-18T09:01:04+00:00",
    "first_seen": "2026-11-18T12:36:30.928951+00:00",
    "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Deutsche Bank - Bundesfinanzminister Klingbeil fordert Konsquenzen aus Datenleck - Vorwürfe von US-Präsident Trump",
-   "summary": "Die neuen Vorwürfe gegen die Deutsche Bank nach Medienrecherchen haben für ein gemischtes Echo gesorgt. Es geht unter anderem um mögliche Geldwäsche und Geschäfte mit Russland und dem verurteilten Sexualstraftäter Epstein.…",
-   "link": "https://www.deutschlandfunk.de/bundesfinanzminister-klingbeil-fordert-konsquenzen-aus-datenleck-vorwuerfe-von-us-praesident-trump-102.html",
-   "published": "2026-11-18T03:55:26+00:00",
-   "first_seen": "2026-11-18T03:57:24.524795+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Medien - Fast 180 Websites von BBC bis Ikea angegriffen",
-   "summary": "Einem Medienbericht zufolge sind bei einem groß angelegten Hackerangriff fast 180 wichtige internationale Webseiten attackiert worden.",
-   "link": "https://www.deutschlandfunk.de/fast-180-websites-von-bbc-bis-ikea-angegriffen-102.html",
-   "published": "2026-11-18T03:55:26+00:00",
-   "first_seen": "2026-11-18T03:57:24.524795+00:00",
-   "paywall": false
   }
  ]
 }

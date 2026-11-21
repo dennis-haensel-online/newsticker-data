@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-21T15:47:14.409424+00:00",
+ "updated": "2026-11-21T21:20:46.884340+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Jonas Grethlein im Interview: Der Preis des Feuers",
+   "summary": "Frankenstein, Faust, Musk: Prometheus gilt als Patron des technischen Fortschritts. Er bringt den Menschen das Feuer, gegen den Willen der Götter. Der Altphilologe Jonas Grethlein erklärt, was sich daraus für die KI-Gegenwart lernen lässt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-elon-musk-bis-frankenstein-jonas-grethlein-erklaert-warum-prometheus-auch-heute-fasziniert-201639053.html",
+   "published": "2026-11-21T20:31:23+00:00",
+   "first_seen": "2026-11-21T21:20:46.884340+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Inside Deutsche Bank: Komplexität killt Wirkung",
+   "summary": "Das Datenleck bei der Deutschen Bank konterkariert das Selbstbild des Konzerns. Auch Mathias Döpfner und Friede Springer kommen nicht gut weg. mehr...",
+   "link": "https://taz.de/Inside-Deutsche-Bank/!6223581/",
+   "published": "2026-11-21T19:11:00+00:00",
+   "first_seen": "2026-11-21T21:20:46.884340+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein - auch Landwirtschaftsministerium betroffen",
@@ -883,24 +901,6 @@
    "published": "2026-11-19T10:53:08+00:00",
    "first_seen": "2026-11-19T10:55:49.360629+00:00",
    "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Justizministerkonferenz - Immer mehr KI-Klagen an Sozialgerichten: Sachsen und Hessen schlagen Gebühr vor - Kritik von Sozialverband",
-   "summary": "Die Justizministerkonferenz befasst sich heute auf ihrer Herbsttagung mit der wachsenden Zahl von KI-generierten Klagen an den Sozialgerichten.",
-   "link": "https://www.deutschlandfunk.de/immer-mehr-ki-klagen-an-sozialgerichten-sachsen-und-hessen-schlagen-gebuehr-vor-kritik-von-sozialver-100.html",
-   "published": "2026-11-19T10:53:08+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/technologie-warum-immer-mehr-unternehmen-nach-ki-experten-suchen/100251207.html",
-   "published": "2026-11-19T10:53:00+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
   }
  ]
 }

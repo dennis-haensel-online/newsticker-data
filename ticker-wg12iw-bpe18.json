@@ -1,7 +1,16 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-11-21T15:47:14.409424+00:00",
+ "updated": "2026-11-21T21:20:46.884340+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+   "summary": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
+   "link": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+   "published": "2026-11-21T15:55:59+00:00",
+   "first_seen": "2026-11-21T21:20:46.884340+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Kraftstoff-Kosten - Reiche will Autobahntankstellen von Preisdeckel ausnehmen",
@@ -748,24 +757,6 @@
    "published": "2026-11-18T10:34:42+00:00",
    "first_seen": "2026-11-18T12:36:30.928951+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Deutsche Unternehmen: Mit der Automatisierung steigt die Zuversicht",
-   "summary": "Der Einsatz von Robotern sorgt für einen Vorsprung im Wettbewerb. Hoch automatisierte Unternehmen sehen auch die Beschäftigungsentwicklung deutlich optimistischer.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/automatisierung-roboter-schaffen-jobs-statt-sie-zu-vernichten-accg-201690600.html",
-   "published": "2026-11-18T06:02:40+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-   "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-   "published": "2026-11-18T04:02:36+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": false
   }
  ]
 }

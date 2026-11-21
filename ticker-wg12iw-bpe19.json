@@ -1,7 +1,25 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-21T15:47:14.409424+00:00",
+ "updated": "2026-11-21T21:20:46.884340+00:00",
  "items": [
+  {
+   "label": "tagesschau",
+   "title": "Scheitert die UN-Klimakonferenz in Antalya?",
+   "summary": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder sogar ein Scheitern?",
+   "link": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
+   "published": "2026-11-21T20:21:36+00:00",
+   "first_seen": "2026-11-21T21:20:46.884340+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Wachstum durch schulden?: Die Droge Defizit",
+   "summary": "Die Schulden von heute gefährden die Staatsfinanzen morgen. Lars Klingbeil kümmert das wenig. Der Finanzminister spielt Zukunftsminister.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lars-klingbeil-und-das-defizit-tappt-deutschland-in-die-schuldenfalle-201621537.html",
+   "published": "2026-11-21T18:30:59+00:00",
+   "first_seen": "2026-11-21T21:20:46.884340+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Arbeitsmarkt: „Die meisten Leute erhalten überschaubare Abfindungen“",
@@ -495,33 +513,6 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/stahlgipfel-stahlallianz-bayern-iaa-reiche-li.3582180",
    "published": "2026-11-18T08:50:18+00:00",
    "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Deutsche Unternehmen: Mit der Automatisierung steigt die Zuversicht",
-   "summary": "Der Einsatz von Robotern sorgt für einen Vorsprung im Wettbewerb. Hoch automatisierte Unternehmen sehen auch die Beschäftigungsentwicklung deutlich optimistischer.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/automatisierung-roboter-schaffen-jobs-statt-sie-zu-vernichten-accg-201690600.html",
-   "published": "2026-11-18T06:02:40+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-   "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-   "published": "2026-11-18T04:02:36+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aktien: Investoren hoffen auf ein Comeback deutscher Nebenwerte – drei Fonds, um darauf zu setzen",
-   "summary": "Der MDax bleibt seit Jahren hinter dem Leitindex Dax zurück. Doch die Konjunktur erholt sich wieder, viele Unternehmen sind günstig bewertet. Welche Fonds und ETFs gut abgeschnitten haben.",
-   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/aktien-stehen-deutsche-nebenwerte-vor-einem-comeback/100265317.html",
-   "published": "2026-11-18T03:16:26+00:00",
-   "first_seen": "2026-11-18T03:57:24.524795+00:00",
    "paywall": true
   }
  ]
