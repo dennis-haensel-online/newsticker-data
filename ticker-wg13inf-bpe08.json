@@ -1,7 +1,34 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-22T09:03:49.251939+00:00",
+ "updated": "2026-11-22T17:29:44.341447+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Der unglaubliche Energiehunger der KI-Industrie",
+   "summary": "Ein neuer Report legt den gigantischen Strombedarf von Rechenzentren in den kommenden zehn Jahren offen. Anleger sollten auf die Ausrüster des digitalen Goldrauschs setzen, meint Jakob Blume.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/maerkte-insight-der-unglaubliche-energiehunger-der-ki-industrie/100269633.html",
+   "published": "2026-11-22T15:19:12+00:00",
+   "first_seen": "2026-11-22T17:29:44.341447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Insight Innovation: Die KI, die intuitiv handelt: Was nach ChatGPT kommt",
+   "summary": "Ungenau, teuer, zu langsam: Große Sprachmodelle stoßen an Grenzen. Technologieanbieter arbeiten daher an spezialisierten Systemen, die schnell Entscheidungen treffen können. Vorn dabei: SAP.",
+   "link": "https://www.handelsblatt.com/technik/ki/insight-innovation-die-ki-die-intuitiv-handelt-was-nach-chatgpt-kommt/100264577.html",
+   "published": "2026-11-22T12:29:18+00:00",
+   "first_seen": "2026-11-22T17:29:44.341447+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Immobilien: So wollen digitale Hausverwalter Vermieter entlasten",
+   "summary": "Die Pflichten der Vermieter wachsen, und Hausverwalter werden immer teurer. KI kann helfen – bis zu einem gewissen Grad.",
+   "link": "https://www.wiwo.de/finanzen/immobilien/digitale-hausverwaltung-was-tools-fuer-private-vermieter-leisten/100271357.html",
+   "published": "2026-11-22T11:18:00+00:00",
+   "first_seen": "2026-11-22T17:29:44.341447+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Mathematik - Anthropic-Forscher will Riemannsche Hypothese mit KI gelöst haben - Wissenschaftler fordern Nachweis",
@@ -872,33 +899,6 @@
    "summary": "Das KI-Ressentiment in den USA wächst, weil die Bedürfnisse der Gesellschaft beim Bau von Rechenzentren übergangen werden. Kann Europa daraus lernen? mehr...",
    "link": "https://taz.de/KI-Rechenzentren/!6231042/",
    "published": "2026-11-19T15:04:00+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI-gestützter Cyberangriff auf EU-Kommission",
-   "summary": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
-   "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
-   "published": "2026-11-19T13:56:39+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
-   "summary": "Google schwor einst, nicht böse zu sein. OpenAI wollte KI fürs Gemeinwohl nutzen. Anthropic verspricht Sicherheit. Jetzt kommt der Börsengang - und mit ihm die Frage, die alle Tech-Giganten kennen: Was bleibt vom Ideal, wenn der Markt…",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-   "published": "2026-11-19T13:30:31+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
-   "summary": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden. Der Rekord-Börsengang von Anthropic stabilisiert derweil den DAX.",
-   "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
-   "published": "2026-11-19T12:57:07+00:00",
    "first_seen": "2026-11-19T19:16:38.006845+00:00",
    "paywall": false
   }
