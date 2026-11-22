@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-22T01:48:08.765641+00:00",
+ "updated": "2026-11-22T09:03:49.251939+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: IG Metall weitet 24-Stunden-Streiks im Norden aus",
+   "summary": "Tesla-Ausbau: Sorge wegen Verkehr und Wohnraum um Grünheide +++ „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer +++ Hackerangriff auf Hugendubel +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
+   "published": "2026-11-22T08:48:00+00:00",
+   "first_seen": "2026-11-22T09:03:49.251939+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Management-Moment: Alles nur Altlasten? Was ein Krisenberater zum Leak bei der Deutschen Bank sagt",
+   "summary": "Deutsche-Bank-Chef Sewing hebt nach dem Datenleck das Alter der geleakten Dokumente hervor. Eine kluge Strategie? Vor allem ein Punkt spricht dagegen.",
+   "link": "https://www.wiwo.de/erfolg/management/datenleck-bei-der-deutschen-bank-vier-lehren-fuer-manager/100271043.html",
+   "published": "2026-11-22T08:39:00+00:00",
+   "first_seen": "2026-11-22T09:03:49.251939+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Inside Deutsche Bank: Komplexität killt Wirkung",
@@ -279,24 +297,6 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/deutsche-bank-hat-christian-sewing-die-kultur-wirklich-verbessert-201693184.html",
    "published": "2026-11-18T12:32:24+00:00",
    "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "China: Abkühlung im Spielegeschäft bremst Tencent – KI schiebt Cloud-Sparte an",
-   "summary": "Chinesische Technologiekonzerne sind im Vergleich zu US-Unternehmen ins Hintertreffen geraten. Nun verfehlte der chinesische Technologieriese Analystenschätzungen zum Umsatz.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/china-abkuehlung-im-spielegeschaeft-bremst-tencent/100270914.html",
-   "published": "2026-11-18T11:15:59+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Datenleck: „Datenabfluss ist alarmierend“ – Datenschutzexperte warnt Deutsche Bank vor Millionenrisiken",
-   "summary": "Mehr als 15 Millionen interne Dokumente der Deutschen Bank sind an Journalisten gelangt, darunter hochsensible Kundendaten. Der Vorfall wirft erhebliche datenschutzrechtliche Fragen auf.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/datenleck-datenschutzexperte-warnt-deutsche-bank-vor-millionenrisiken/100270711.html",
-   "published": "2026-11-18T10:50:43+00:00",
-   "first_seen": "2026-11-18T12:36:30.928951+00:00",
    "paywall": true
   }
  ]

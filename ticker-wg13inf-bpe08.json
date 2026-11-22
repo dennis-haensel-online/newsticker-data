@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-22T01:48:08.765641+00:00",
+ "updated": "2026-11-22T09:03:49.251939+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Mathematik - Anthropic-Forscher will Riemannsche Hypothese mit KI gelöst haben - Wissenschaftler fordern Nachweis",
+   "summary": "Der türkisch-amerikanische Anthropic-Forscher Levent Alpöge behauptet, eines der weltweit wichtigsten mathematischen Probleme - die Riemannsche Hypothese – mit künstlicher Intelligenz gelöst zu haben. Für den Mathematiker Christian…",
+   "link": "https://www.deutschlandfunk.de/anthropic-forscher-will-riemannsche-hypothese-mit-ki-geloest-haben-wissenschaftler-fordern-nachweis-102.html",
+   "published": "2026-11-22T08:58:42+00:00",
+   "first_seen": "2026-11-22T09:03:49.251939+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: IG Metall weitet 24-Stunden-Streiks im Norden aus",
+   "summary": "Tesla-Ausbau: Sorge wegen Verkehr und Wohnraum um Grünheide +++ „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer +++ Hackerangriff auf Hugendubel +++ alle Neuigkeiten im Unternehmen-Liveblog",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
+   "published": "2026-11-22T08:48:00+00:00",
+   "first_seen": "2026-11-22T09:03:49.251939+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Management-Moment: Alles nur Altlasten? Was ein Krisenberater zum Leak bei der Deutschen Bank sagt",
+   "summary": "Deutsche-Bank-Chef Sewing hebt nach dem Datenleck das Alter der geleakten Dokumente hervor. Eine kluge Strategie? Vor allem ein Punkt spricht dagegen.",
+   "link": "https://www.wiwo.de/erfolg/management/datenleck-bei-der-deutschen-bank-vier-lehren-fuer-manager/100271043.html",
+   "published": "2026-11-22T08:39:00+00:00",
+   "first_seen": "2026-11-22T09:03:49.251939+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Monopole: KI-Agenten werden zu den neuen Gatekeepern des Online-Handels",
+   "summary": "Wer online einkauft, könnte bald der KI die Suche überlassen. Das schafft ungeahnte Risiken für Anbieter und Verbraucher. Ein Gastbeitrag.",
+   "link": "https://www.wiwo.de/politik/deutschland/ki-im-e-commerce-warum-agentic-commerce-neue-monopole-schafft/100270957.html",
+   "published": "2026-11-22T08:14:00+00:00",
+   "first_seen": "2026-11-22T09:03:49.251939+00:00",
+   "paywall": true
+  },
   {
    "label": "FAZ",
    "title": "Jonas Grethlein im Interview: Der Preis des Feuers",
@@ -864,42 +900,6 @@
    "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
    "published": "2026-11-19T12:57:07+00:00",
    "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Anthropic: Die riskante Wette auf die Hochleistungs-KI",
-   "summary": "Anleger sind elektrisiert: Anthropic geht an die Börse. Das amerikanische KI-Unternehmen setzt auf Kunden in der europäischen Industrie. Dumm nur, dass die zweifelt.",
-   "link": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-europaeische-industrie-zweifelt-am-nutzen-superintelligenter-ki-a-fbad94cf-be43-4ef9-99b8-1cf03479a0b1#ref=rss",
-   "published": "2026-11-19T12:50:00+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "KI-Software Claude - Anthropic erzielt bei Börsengang Rekorderlös - und überflügelt SpaceX",
-   "summary": "Der KI-Firma Anthropic ist ein Rekord-Börsengang gelungen. Der Aktienverkauf brachte laut einer Mitteilung 81,3 Milliarden Dollar ein. Das Interesse der Anleger war so groß, dass Anthropic nicht nur den Ausgabepreis erhöhte, sondern auch…",
-   "link": "https://www.deutschlandfunk.de/anthropic-erzielt-bei-boersengang-rekorderloes-und-ueberfluegelt-spacex-100.html",
-   "published": "2026-11-19T10:53:08+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Handelsministerium - Südkorea steigt durch KI-Boom zum Export-Billionär auf",
-   "summary": "Die Exporte ​Südkoreas haben erstmals die Marke von einer Billion Dollar überschritten.",
-   "link": "https://www.deutschlandfunk.de/suedkorea-steigt-durch-ki-boom-zum-export-billionaer-auf-100.html",
-   "published": "2026-11-19T10:53:08+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Medienbericht - Hackerangriff auf Systeme der EU-Kommission",
-   "summary": "Die Europäische Kommission ist einem Medienbericht zufolge Opfer eines Cyberangriffs ‌geworden.",
-   "link": "https://www.deutschlandfunk.de/hackerangriff-auf-systeme-der-eu-kommission-100.html",
-   "published": "2026-11-19T10:53:08+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
    "paywall": false
   }
  ]
