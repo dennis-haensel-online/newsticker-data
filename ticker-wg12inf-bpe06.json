@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-23T03:31:19.265919+00:00",
+ "updated": "2026-11-23T13:52:16.593537+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Großfusion: Mega-Deal: IT-Sicherheitsfirma Crowdstrike übernimmt Zscaler",
+   "summary": "Cyberangriffe durch KI und neue Sicherheitsbedenken beschleunigen die Konsolidierung in der IT-Branche. Jetzt gibt eine große Fusion.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/grossfusion-mega-deal-it-sicherheitsfirma-crowdstrike-uebernimmt-zscaler/100272095.html",
+   "published": "2026-11-23T13:34:35+00:00",
+   "first_seen": "2026-11-23T13:52:16.593537+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Messenger-Datenschutz: Keine Screenshots: Signal erteilt KI-Agenten Hausverbot",
+   "summary": "Signal will verhindern, dass Smartphone-KI private Chats über den Bildschirm erfasst. Dazu wird standardmäßig eine Sperre für Screenshots aktiviert. Was man dazu wissen muss.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/messenger-datenschutz-keine-screenshots-signal-erteilt-ki-agenten-hausverbot/100272071.html",
+   "published": "2026-11-23T12:50:21+00:00",
+   "first_seen": "2026-11-23T13:52:16.593537+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "+++ USA unter Trump +++: Größte Mehrheit für US-Demokraten seit Wahl 1992",
@@ -226,33 +244,6 @@
    "published": "2026-11-19T09:40:51+00:00",
    "first_seen": "2026-11-19T10:55:49.360629+00:00",
    "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Europäische Union: Hackerangriff auf EU‑Kommission – möglicherweise Daten abgegriffen",
-   "summary": "Nach einem zehntägigen Cyberangriff auf die EU-Kommission bleibt das Ausmaß unklar. Betroffen waren unter anderem Personal- und Medizinsysteme.",
-   "link": "https://www.wiwo.de/politik/europa/europaeische-union-hackerangriff-auf-eukommission-ausmass-noch-unklar/100271192.html",
-   "published": "2026-11-19T08:58:05+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyberangriff: Hacker greifen EU-Kommission an und erbeuten womöglich Daten",
-   "summary": "Nach einem Cyberangriff muss die EU-Kommission mehrere Personalsysteme vom Netz nehmen. Das volle Ausmaß ist unklar – die Kommission hat eine Dringlichkeitssitzung einberufen.",
-   "link": "https://www.handelsblatt.com/politik/international/cyberangriff-hacker-greifen-eu-kommission-an-und-erbeuten-womoeglich-daten/100271187.html",
-   "published": "2026-11-19T08:36:39+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Deutsche Bank: Skurriles aus dem Datenleck - Zyankali im Schließfach",
-   "summary": "Eine gefährliche Kapsel, Kommunisten beim Klassenfeind und ein Korb von Heidi Klum: Die geleakten Unterlagen der Deutschen Bank offenbaren peinliche Fehler, kuriose Personalgeschichten und abseitige Mails. Ein Streifzug.",
-   "link": "https://www.spiegel.de/wirtschaft/inside-deutsche-bank-skurriles-aus-dem-datenleck-zyankali-im-schliessfach-a-8c180b02-85a1-4942-84f0-d0d4773dbf96#ref=rss",
-   "published": "2026-11-19T08:35:00+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": false
   }
  ]
 }
