@@ -1,6 +1,6 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-22T22:58:26.432128+00:00",
+ "updated": "2026-11-23T03:31:19.265919+00:00",
  "items": [
   {
    "label": "Handelsblatt",
@@ -253,24 +253,6 @@
    "published": "2026-11-19T08:35:00+00:00",
    "first_seen": "2026-11-19T10:55:49.360629+00:00",
    "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Deutsche Bank: Datenschutzbeauftragter leitet Untersuchung gegen Deutsche Bank ein",
-   "summary": "Nach dem Datenleck bei der Deutschen Bank prüft die hessische Datenschutzaufsicht mögliche Verstöße gegen die DSGVO. Dabei geht es auch um die Information von Kunden.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/datenleck-deutsche-bank-alexander-rossnagel-datenschutz-dsgvo",
-   "published": "2026-11-18T17:23:48+00:00",
-   "first_seen": "2026-11-18T20:59:40.338183+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Größter Banken-Leak: Datenschutzaufsicht leitet Untersuchung gegen Deutsche Bank ein",
-   "summary": "Rund 15 Millionen interne Dokumente des Geldhauses wurden bekannt. Nun untersucht der hessische Datenschutzbeauftragte, ob die Deutsche Bank gegen die DSGVO verstoßen hat.",
-   "link": "https://www.wiwo.de/unternehmen/banken/untersuchung-datenschutzaufsicht-leitet-verfahren-gegen-deutsche-bank-ein/100271033.html",
-   "published": "2026-11-18T17:15:50+00:00",
-   "first_seen": "2026-11-18T20:59:40.338183+00:00",
-   "paywall": true
   }
  ]
 }
