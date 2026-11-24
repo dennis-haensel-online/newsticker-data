@@ -1,7 +1,133 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-24T11:49:35.703028+00:00",
+ "updated": "2026-11-24T21:43:57.986932+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Deep Read: „KI hackt besser als ich“: Was eine Cyberattacke aufs Handelsblatt über IT-Sicherheit lehrt",
+   "summary": "Der Angriff auf die Redaktion läuft über Nacht ohne menschliche Hilfe: Eine Plattform sucht mit KI nach Sicherheitslücken und wird fündig. Ein Szenario, das jedes Unternehmen treffen kann.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/cyberattacken-was-ein-hackerangriff-aufs-handelsblatt-ueber-it-sicherheit-lehrt/100269783.html",
+   "published": "2026-11-24T19:51:30+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Nasdaq: Nvidia- und Anthropic-Aktien verlieren deutlich",
+   "summary": "Die Techbörsen haben den Handel mit herben Verlusten begonnen. Die Nvidia-Aktie fällt um rund acht Prozent. Als Hauptgrund gilt die Angst vor einer KI-Blase.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/nvidia-aktie-jensen-huang-nasdaq-ki-blase",
+   "published": "2026-11-24T19:44:53+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Aktien: Huang-Effekt verpufft – wovon der KI-Trade nun abhängt",
+   "summary": "Mit dem Comeback von Jensen Huang an der Spitze von Nvidia setzte eine neue Phase der KI-Rally ein. Doch alte Risiken bleiben. Wie nachhaltig ist die Rückkehr des KI-Trades?",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-huang-effekt-verpufft-wovon-der-ki-trade-nun-abhaengt/100272271.html",
+   "published": "2026-11-24T17:38:18+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "KI-Unternehmen: Das Anthropic-Playbook deutscher Anleger",
+   "summary": "Anthropic rutscht unter den Ausgabepreis. Das dürfte viele Privatanleger ärgern. Exklusive Daten zeigen, bei welchem Broker sie die meisten Aktien bekamen – und was sie damit gemacht haben.",
+   "link": "https://www.wiwo.de/finanzen/geldanlage/anthropic-aktie-halten-kaufen-oder-verkaufen-das-playbook-deutscher-anleger/100270687.html",
+   "published": "2026-11-24T17:25:36+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte Insight: Warum der Dollar nicht mehr als sicherer Hafen taugt",
+   "summary": "Der KI-Boom lässt den Dollar aufwerten. Das ist ungewöhnlich für die Devise, die oft in Krisenzeiten gefragt ist – und sollte Investoren zu denken geben, meint Jakob Blume.",
+   "link": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-warum-der-dollar-nicht-mehr-als-sicherer-hafen-taugt/100271551.html",
+   "published": "2026-11-24T17:22:37+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Mentale Gesundheit und KI: Was tun, damit die Depression wegbleibt?",
+   "summary": "Viele Menschen erkranken mehr als ein Mal an einer Depression. Was hilft, um wiederkehrende Episoden zu verhindern? Und welche Rolle spielt KI dabei? mehr...",
+   "link": "https://taz.de/Was-kann-man-tun-damit-die-Depression-wegbleibt-Und-kann-KI-dabei-behilflich-sein/!6232783/",
+   "published": "2026-11-24T17:05:00+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Anthropic-Aktie fällt unter Ausgabepreis – auch Nvidia im Minus",
+   "summary": "Die Aktienkurse zweier großer KI-Unternehmen sinken. Manche Marktbeobachter sehen darin Gewinnmitnahmen nach dem Hoch zum Wochenstart. Nvidia hatte zwischenzeitlich von der überraschenden Rückkehr Jensen Huangs profitiert.",
+   "link": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss",
+   "published": "2026-11-24T16:45:00+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Insurance Summit 2026: Wie Versicherer mit der KI-Transformation umgehen",
+   "summary": "Die Versicherungsindustrie steht in den nächsten zehn Jahren vor großen und teuren Veränderungen. Experten sind sich einig: Um wettbewerbsfähig zu bleiben, sind vier Bereiche entscheidend.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/insurance-summit-2026-wie-versicherer-mit-der-ki-transformation-umgehen/100268674.html",
+   "published": "2026-11-24T15:51:59+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Kolumne „Out of the box“: Die jungen High Potentials sehen alt aus",
+   "summary": "Noch nie war der Nachwuchs so gut ausgebildet, noch nie fand er so schwer einen Job. Unternehmen sparen mit KI-Agenten kurzfristig, doch verlieren langfristig etwas Wichtiges.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/kolumne-out-of-the-box-die-jungen-high-potentials-sehen-alt-aus/100272375.html",
+   "published": "2026-11-24T15:36:14+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: Anthropic-Aktie fällt unter Ausgabepreis",
+   "summary": "Die KI-Firma Anthropic startete an der Börse mit einem Kurssprung von 34 Prozent und einer Bewertung von zwei Billionen Dollar. Doch die Euphorie währte nur kurz.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-anthropic-aktie-faellt-unter-ausgabepreis/100272459.html",
+   "published": "2026-11-24T14:48:25+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Black Friday: So kann man wirklich günstig shoppen",
+   "summary": "Der Black Friday lockt mit Aktionspreisen. Vieles davon sind Scheinrabatte. Wann sich der Kauf lohnt und wie KI beim Sparen helfen kann.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/deutschland-black-friday-preisvergleich-angebote-pruefen-tipps-li.3343628",
+   "published": "2026-11-24T14:44:01+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Pornografische KI-Bilder: US-Bundesstaaten verklagen Firmen Elon Musks",
+   "summary": "Unternehmen Elon Musks werden wegen Verstoßes gegen den Verbraucherschutz verklagt. Der Grund: pornografische Bilder, die mithilfe seiner KI erstellt wurden. mehr...",
+   "link": "https://taz.de/Pornografische-KI-Bilder/!6232834/",
+   "published": "2026-11-24T14:13:00+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Schädlingsbekämpfung mithilfe von KI: Die Rattenfängerin von Hannover",
+   "summary": "Sina Schaper führt in dritter Generation ein Unternehmen für Schädlingsbekämpfung. Eine KI half, das Wissen ihres Vaters zu sichern, bevor er starb.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/schaedlingsbekaempfung-mithilfe-von-ki-die-rattenfaengerin-von-hannover-a-c6f0bbb9-a507-4b55-983e-093b2ede6b66#ref=rss",
+   "published": "2026-11-24T13:06:00+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "KI-Studie vom TÜV: Unsere tägliche KI gib uns heute",
+   "summary": "Vier Jahre nach der Einführung von ChatGPT: Wie viele Menschen nutzen mittlerweile KI? Und wofür? Eine Studie liefert Antworten. mehr...",
+   "link": "https://taz.de/Unser-neuer-Alltag-mit-KI-Studie-zeigt-wofuer-Deutsche-ChatGPT--Co-nutzen/!6232766/",
+   "published": "2026-11-24T12:30:00+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Statistik - Jedes dritte Unternehmen nutzt Künstliche Intelligenz",
@@ -81,6 +207,15 @@
    "link": "https://www.sueddeutsche.de/wirtschaft/computer-preise-konsolen-kosten-inflation-li.3585173",
    "published": "2026-11-24T08:25:37+00:00",
    "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Elektronik: Preise für Computer und Konsolen steigen deutlich",
+   "summary": "Laptops, Desktop-PCs und Spielekonsolen kosten Verbraucher spürbar mehr als vor einem Jahr. Das Statistische Bundesamt sieht einen Zusammenhang mit dem KI-Boom.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/computer-laptops-konsolen-preise-kosten-inflation-li.3585173",
+   "published": "2026-11-24T08:25:37+00:00",
+   "first_seen": "2026-11-24T21:43:57.986932+00:00",
    "paywall": true
   },
   {
@@ -765,141 +900,6 @@
    "link": "https://www.handelsblatt.com/audio/today/today-anthropic-kursabsturz-nach-rekord-ipo-markus-koch-ordnet-ein/100271650.html",
    "published": "2026-11-20T16:14:11+00:00",
    "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Jobsuche: Würden Sie ein Bewerbungsgespräch mit einem Roboter führen?",
-   "summary": "Aus dem Handelsblatt-Archiv: Interviews mit KI-Recruitern sollen Bewerbungsprozesse schneller und fairer machen. Für Unternehmer erweist sich das als hilfreich. Aber wie ist es für die Bewerber am Bildschirm?",
-   "link": "https://www.handelsblatt.com/karriere/karriere-was-bewerber-an-gespraechen-mit-ki-recruitern-stoert/100248546.html",
-   "published": "2026-11-20T15:33:00+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Anthropic-Aktie fällt am zweiten Handelstag deutlich",
-   "summary": "Die KI-Firma Anthropic startete an der Börse mit einem Kurssprung von 34 Prozent und einer Bewertung von zwei Billionen Dollar. Doch die Euphorie währte nur kurz.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-anthropic-aktie-faellt-am-zweiten-handelstag-deutlich/100271642.html",
-   "published": "2026-11-20T15:32:47+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Zukunftsgestalter: Trumpf auf dem Weg zum Maschinen-Menschen",
-   "summary": "Für Trumpf reicht es nicht mehr, nur die besten Laser zu bauen. Was im Kampf gegen chinesische Konkurrenten zählt, sind Gesamtsysteme mit Robotik. Trumpf erobert das neue Feld mit KI.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/ki-wie-bei-trumpf-die-revolution-der-robotik-beginnt/100248242.html",
-   "published": "2026-11-20T15:30:00+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "US-Börsen: Anthropic-Euphorie währt nur kurz: Tech-Index Nasdaq notiert deutlich im Minus",
-   "summary": "Nur einen Tag nach dem Rekordbörsengang gewinnen KI-Zweifel wieder die Oberhand. Am zweiten Handelstag droht die Aktie unter eine wichtige Marke zu fallen – mit Folgen für den gesamten Markt.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-nasdaq-startet-deutlich-im-minus-anthropic-verliert-zweistellig/100271593.html",
-   "published": "2026-11-20T15:28:47+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Börse: Kaum jemand wird reich werden, weil er sein ganzes Geld in eine einzelne KI-Aktie steckt",
-   "summary": "Nach Space-X und Anthropic gilt 2026 als „Jahr der Mega-Börsengänge“. Ein Blick zurück zeigt: So viel Euphorie kann auch Verluste bringen.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/boerse-ki-aktie-space-x-anthropic-kommentar-li.3583728",
-   "published": "2026-11-20T15:09:33+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Wall Street: Verkaufswelle im KI-Sektor setzt sich fort, Anthropic verliert deutlich",
-   "summary": "Die Euphorie um Anthropic ist am zweiten Handelstag verflogen. Zudem geht die Angst vor Zinserhöhungen der Fed um.",
-   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-verkaufswelle-im-ki-sektor-setzt-sich-fort-anthropic-verliert-deutlich/100271636.html",
-   "published": "2026-11-20T15:09:00+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Digitalisierung: Perso auf dem Smartphone - was die „d-you“-App bringen soll",
-   "summary": "Ab Januar können Personalausweis und andere Identitätsnachweise auch auf dem Smartphone hinterlegt werden. Die Nutzungsmöglichkeiten sind zunächst begrenzt, sollen aber Schritt für Schritt wachsen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/digitalisierung-perso-auf-dem-smartphone-was-die-d-you-app-bringen-soll/100271632.html",
-   "published": "2026-11-20T15:03:48+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Start-ups und Krieg: „Wir müssen schnell Neues erfinden, oder wir sterben“",
-   "summary": "Bei der Start-up-Messe „Slush“ in Helsinki suchen ukrainische Gründer nach Lösungen für Minenschäden und die Raketenerkennung – und setzen dabei auf KI und Vogelstimmen. Ein Rundgang.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/slush-helsinki-ukraine-start-ups-kuenstliche-intelligenz-li.3582308",
-   "published": "2026-11-20T14:05:59+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Start-up der Woche: Dieses Start-up entwickelt Roboter für die Unkrautbekämpfung",
-   "summary": "Die Systeme von Dynamobot sollen gleichzeitig Pflanzen düngen und Unkraut vernichten können. Was hält Investor Fabian Heilemann von der Idee?",
-   "link": "https://www.wiwo.de/erfolg/gruender/start-up-dynamobot-wie-roboter-und-ki-unkraut-bekaempfen-sollen/100270889.html",
-   "published": "2026-11-20T13:21:09+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "Tech-Konzerne: Anleger sind skeptisch bei KI",
-   "summary": "Erst startete die Anthropic-Aktie stark, dann gab sie nach. An den Börsen machen sich die Investoren Sorgen wegen der Profitabilität der Branche.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/anthropic-boerse-ki-li.3583700",
-   "published": "2026-11-20T13:12:57+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Anthropic kann den Negativtrend an den Börsen nicht aufhalten",
-   "summary": "Seit dem Rekordbörsengang des KI-Spezialisten Anthropic ist noch kein Tag vergangen – schon entwickelt sich die Aktie zur Belastung für den gesamten Technologiebereich. Jetzt ist Leidensfähigkeit gefragt.",
-   "link": "https://www.spiegel.de/wirtschaft/anthropic-kann-den-negativtrend-an-den-boersen-nicht-aufhalten-a-2ebc6562-4f98-4fe9-9efe-f4a8a0b805fe#ref=rss",
-   "published": "2026-11-20T11:02:00+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Justizministerkonferenz in Hamburg: Sozialgerichte sollen vor KI geschützt werden",
-   "summary": "Die Jus­tiz­mi­nis­te­r:in­nen der Länder fordern Maßnahmen gegen KI-generierte Eilanträge, die die Sozialgerichte blockieren. Möglich ist eine „Schutzgebühr“. mehr...",
-   "link": "https://taz.de/Justizministerkonferenz-in-Hamburg/!6231497/",
-   "published": "2026-11-20T10:40:00+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "KI-Euphorie ungebrochen: Anthropic mit starkem Börsendebüt",
-   "summary": "Das Unternehmen hat den bisher größten Börsengang der Geschichte hingelegt. Es wurden Aktien im Wert von 81,3 Milliarden US-Dollar verkauft. mehr...",
-   "link": "https://taz.de/KI-Euphorie-ungebrochen/!6231737/",
-   "published": "2026-11-20T09:49:00+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Nikkei, Kospi & Co.: Ostasiens Börsen trotz Anthropics Börsengang im Minus – Nikkei sackt um 4,5 Prozent ab",
-   "summary": "Der Verkauf von Chipaktien in Japan, Südkorea und Taiwan geht weiter. Sorgen um neue Exportkontrollen der USA für KI-Chips belasten die Märkte zusätzlich, auch in China.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/ostasiens-boersen-brechen-nach-anthropics-boersengang-ein/100271416.html",
-   "published": "2026-11-20T08:57:39+00:00",
-   "first_seen": "2026-11-20T09:26:24.340260+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
-   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
-   "link": "https://www.handelsblatt.com/technik/ki/ki-wo-neue-jobchancen-trotz-schwachem-arbeitsmarkt-entstehen/100251207.html",
-   "published": "2026-11-20T08:37:00+00:00",
-   "first_seen": "2026-11-20T09:26:24.340260+00:00",
    "paywall": true
   }
  ]
