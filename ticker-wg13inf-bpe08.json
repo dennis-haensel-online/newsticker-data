@@ -1,7 +1,151 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-23T13:52:16.593537+00:00",
+ "updated": "2026-11-24T01:23:22.377001+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Luftüberwachung - NATO verlegt AWACS-Flugzeug nach Polen",
+   "summary": "Als Reaktion auf den Absturz von drei russischen Marschflugkörpern in Polen verlegt die NATO ein Awacs-Überwachungsflugzeug in das Mitgliedsland des Verteidigungsbündnisses.",
+   "link": "https://www.deutschlandfunk.de/nato-verlegt-awacs-flugzeug-nach-polen-110.html",
+   "published": "2026-11-24T01:16:02+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftraumverletzungen: Polen wendet sich nach Raketenvorfällen an Visegrad-Gruppe",
+   "summary": "Drei russische Marschflugkörper dringen in den polnischen Luftraum ein und stürzen ab. Die Nato reagiert mit zusätzlicher Überwachung. Am Abend gibt es erneut Alarm.",
+   "link": "https://www.handelsblatt.com/politik/international/luftraumverletzungen-polen-wendet-sich-nach-raketenvorfaellen-an-visegrad-gruppe/100272209.html",
+   "published": "2026-11-23T23:34:10+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Deep Read: 1,2 Milliarden Nutzer, doch die meisten zahlen nichts: Der ChatGPT-Macher will sich neu erfinden",
+   "summary": "Der Rivale Anthropic ist an der Börse, OpenAI verschiebt den Gang aufs Parkett. Mit Firmenkunden und Agenten will Sam Altman verlorenen Boden gutmachen. Hat er noch ein Ass im Ärmel?",
+   "link": "https://www.handelsblatt.com/technik/ki/openai-der-chatgpt-entwickler-muss-sich-neu-erfinden/100268812.html",
+   "published": "2026-11-23T19:32:32+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Riskante Wette auf KI: Platzt die Blase?",
+   "summary": "Der Ausverkauf der KI-Werte trifft Südkorea besonders heftig. Die Abhängigkeit von der Chipindustrie wird zum Problem für die Regierung. mehr...",
+   "link": "https://taz.de/Riskante-Situation-in-Suedkorea-Beginnt-die-KI-Blase-hier-zu-platzen/!6232434/",
+   "published": "2026-11-23T18:41:00+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "KI löst berühmtes Mathe-Rätsel: Was nützt ein Beweis, den niemand versteht?",
+   "summary": "KI soll die Riemannsche Vermutung, den „heiligen Gral“ der Mathematik, gelöst haben. Doch der Wettlauf zwischen KI und menschlichem Denken ist ein Irrweg. mehr...",
+   "link": "https://taz.de/KI-loest-heiligen-Gral-der-Mathematik-Was-nuetzt-ein-Beweis-den-niemand-versteht/!6232445/",
+   "published": "2026-11-23T18:39:00+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Arken Labs: Seriengründer Pausder will mit KI-Start-up den Brückenbau beschleunigen",
+   "summary": "Langsame Genehmigungsverfahren gelten als größtes Hemmnis für Investitionen in Infrastruktur. Das soll das neue Start-up des Thermono-Gründers ändern – mit prominenter Unterstützung.",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/arken-labs-seriengruender-pausder-will-brueckenbau-per-ki-beschleunigen/100272121.html",
+   "published": "2026-11-23T18:00:00+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nvidia: Huang-Comeback löst Erleichterungs-Rally aus: So schätzen Experten jetzt die Lage an den Märkten ein",
+   "summary": "Der Manager kehrt an die Spitze von Nvidia zurück. Ob dadurch die KI‑Zweifel nachhaltig verschwinden, ist unklar. Ein Blick auf die einzelnen Anlageklassen und deren Aussichten.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nvidia-so-schaetzen-experten-nach-huangs-comeback-die-lage-an-den-boersen-ein/100271952.html",
+   "published": "2026-11-23T17:57:18+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Jensen Huang: Es geht um weit mehr als eine Männerfreundschaft",
+   "summary": "Jensen Huang ist zurück an der Spitze von Nvidia. Trump soll sich persönlich dafür eingesetzt haben. Es ist der verzweifelte Versuch, das KI-Wachstum noch zu retten.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-rueckkehr-ceo",
+   "published": "2026-11-23T17:20:45+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Marktbericht: Huang-Rückkehr lässt Aktienkurse steigen",
+   "summary": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit.",
+   "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+   "published": "2026-11-23T17:07:35+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Commerzbank: „Das Umfeld hat sich krass verändert“ – Commerz Ventures investiert mit neuem Fonds in KI-Fintechs",
+   "summary": "Der Wagniskapitalgeber erhält von der Commerzbank frisches Geld. Das Führungsduo spricht im Handelsblatt über den Wandel in der Start-up-Branche durch KI und die neuesten Fintech-Trends.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/commerzbank-commerz-ventures-investiert-mit-neuem-fonds-in-ki-fintechs/100270365.html",
+   "published": "2026-11-23T17:00:00+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Geldanlage: Industriekameras boomen – diese drei Aktien sollten Anleger kennen",
+   "summary": "Kameras und Software entdecken Fehler in Fabriken und helfen Robotern beim Greifen. KI erleichtert ihren Einsatz. Experten erklären Chancen und Risiken für Anleger.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/geldanlage-industriekameras-boomen-diese-aktien-sollten-anleger-kennen/100268982.html",
+   "published": "2026-11-23T16:41:52+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gehaltsreport 2026: Wer jetzt noch hohe Gehälter fordern kann",
+   "summary": "Künstliche Intelligenz verändert den Arbeitsmarkt radikal – in der IT und vielen anderen Berufsgruppen. Das zeigt auch der große Gehaltsreport.",
+   "link": "https://www.handelsblatt.com/karriere/gehaltsreport-2026-wer-jetzt-noch-hohe-gehaelter-fordern-kann/100271599.html",
+   "published": "2026-11-23T16:31:17+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Verkauf von Ziehl-Abegg an ABB: Dem nächsten Weltmarktführer geht die Puste aus",
+   "summary": "Nach EBM-Papst wird auch der zweite große Ventilatorenhersteller Ziehl-Abegg ins Ausland verkauft. Der Fall zeigt, warum vom KI-Boom erfasste Mittelständler immer öfter die Segel streichen müssen.",
+   "link": "https://www.wiwo.de/unternehmen/mittelstand/ziehl-abegg-an-abb-verkauft-warum-der-ki-boom-zum-exit-zwingt/100271991.html",
+   "published": "2026-11-23T16:28:37+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI-Jobmarkt: Forscher, Entwickler und geschulte Anwender – in diesen Branchen können Sie mit KI-Kenntnissen punkten",
+   "summary": "Unternehmen schreiben immer weniger Stellen aus. Der Bedarf an KI-Experten aber wächst – es fehlen Fachkräfte zur Umsetzung der deutschen KI‑Strategie. Wo eröffnen sich Chancen für Bewerber?",
+   "link": "https://www.handelsblatt.com/technik/ki/ki-wo-entstehen-trotz-schwachem-arbeitsmarkt-aktuell-neue-jobchancen-01/100251207.html",
+   "published": "2026-11-23T15:49:00+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Aixtron: Der positive Trend hängt an einem einzigen Markt",
+   "summary": "Der Anlagenbauer Aixtron soll vom KI-Boom profitieren. Die Zahlen überzeugen jedoch (noch) nicht – urteilt mit Warren Wise ausgerechnet ein KI-Agent.",
+   "link": "https://www.wiwo.de/finanzen/boerse/deutschlands-zweite-boersenreihe-lohnt-sich-die-aixtron-aktie/100271778.html",
+   "published": "2026-11-23T15:00:00+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "KI-Pioniere streiten über die Risiken",
+   "summary": "Wie groß sind die Gefahren Künstlicher Intelligenz? Eine neue ARD-Dokumentation zeigt, wie gegensätzlich die Positionen von KI-Experten sind - auch bei Wissenschaftlern, die der Technologie den Weg bereitet haben. Von Philipp Grüll.",
+   "link": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html",
+   "published": "2026-11-23T14:42:41+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Einsatz von KI - Taiwan warnt vor Einflussnahme Chinas auf Regionalwahlen",
@@ -756,150 +900,6 @@
    "link": "https://www.wiwo.de/finanzen/boerse/anthropic-aktie-so-lief-der-erste-handelstag-nach-dem-ipo/100271407.html",
    "published": "2026-11-20T07:05:22+00:00",
    "first_seen": "2026-11-20T09:26:24.340260+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "USA: Weißes Haus ernennt neue Cyberbeauftragte nach IT-Störungen",
-   "summary": "Ausfälle bei Outlook, der Flugaufsicht oder Banken lassen in den USA Sorgen vor Cyberangriffen wachsen. Inmitten dieser Gemengelage tauscht Trump einen Mitarbeiter aus.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-weisses-haus-ernennt-neue-cyberbeauftragte-nach-it-stoerungen/100271422.html",
-   "published": "2026-11-20T06:17:34+00:00",
-   "first_seen": "2026-11-20T09:26:24.340260+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Künstliche Intelligenz: Apple entwickelt eigenen KI-Agenten",
-   "summary": "Stellenausschreibungen zeigen, dass der iPhone-Konzern einen eigenen KI-Assistenten entwickeln will, der auch Code schreiben kann. Das Angebot wäre ein direkter Konkurrent für Anthropic.",
-   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-apple-entwickelt-eigenen-ki-agenten/100271467.html",
-   "published": "2026-11-20T06:15:02+00:00",
-   "first_seen": "2026-11-20T09:26:24.340260+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Jugendproteste: „Jugendlichen ist klar, dass es viele Jobs für sie nicht mehr geben wird“",
-   "summary": "Nimmt KI jungen Menschen die Arbeit weg? So einfach ist es nicht, sagt der Ökonom Bernd Fitzenberger. Sich für eine Ausbildung zu entscheiden, fällt ihnen schwerer.",
-   "link": "https://www.wiwo.de/politik/deutschland/jugendproteste-nimmt-ki-jungen-menschen-die-arbeit-weg/100270253.html",
-   "published": "2026-11-20T04:30:00+00:00",
-   "first_seen": "2026-11-20T09:26:24.340260+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Darum werden vor allem kleine Firmen von Hackern attackiert",
-   "summary": "Vor allem kleinere Unternehmen in Deutschland werden Opfer von Cyberangriffen. Experten erklären, warum das so ist - und wie sich Firmen schützen können.",
-   "link": "https://www.zdfheute.de/panorama/kriminalitaet/unternehmen-cyberangriffe-schutz-100.html",
-   "published": "2026-11-20T04:07:00+00:00",
-   "first_seen": "2026-11-20T09:26:24.340260+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "KI-Firma - Anthropic startet mit kräftigem Kursplus an der Börse",
-   "summary": "Die US-amerikanische KI-Firma Anthropic ist bei ihrem Börsengang mit einem deutlichen Plus in den Handel gestartet. Der erste Kurs an der Technologiebörse Nasdaq lag bei 111,50 US-Dollar und damit gut ein Drittel über dem Ausgabepreis.…",
-   "link": "https://www.deutschlandfunk.de/anthropic-startet-mit-kraeftigem-kursplus-an-der-boerse-102.html",
-   "published": "2026-11-20T01:20:07+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "BSI-Lagebericht - Nutzung von Künstlicher Intelligenz verschärft Gefahr durch Cyberangriffe",
-   "summary": "Die Gefährdung durch Cyber- und Hackerangriffe in Deutschland hat sich durch die missbräuchliche Nutzung Künstlicher Intelligenz deutlich verschärft.",
-   "link": "https://www.deutschlandfunk.de/nutzung-von-kuenstlicher-intelligenz-verschaerft-gefahr-durch-cyberangriffe-108.html",
-   "published": "2026-11-20T01:20:07+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Künstliche Intelligenz - Deutsche Telekom beteiligt sich an französischem KI-Entwickler Mistral AI",
-   "summary": "Die Deutsche Telekom steigt beim französischen KI-Unternehmen Mistral AI ein.",
-   "link": "https://www.deutschlandfunk.de/deutsche-telekom-beteiligt-sich-an-franzoesischem-ki-entwickler-mistral-ai-104.html",
-   "published": "2026-11-20T01:20:07+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Kriminalität - EU-Kommission war Ziel von Cyberangriff mit Künstlicher Intelligenz",
-   "summary": "Die Europäische Kommission hat bestätigt, dass sie Ziel eines Cyberangriffs geworden ist, bei dem Künstliche Intelligenz eingesetzt wurde..",
-   "link": "https://www.deutschlandfunk.de/eu-kommission-war-ziel-von-cyberangriff-mit-kuenstlicher-intelligenz-104.html",
-   "published": "2026-11-20T01:20:07+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Rekord-Börsengang: Anthropic-Aktie schließt 17 Prozent im Plus – Deutlicher Kursrückgang im Handelsverlauf",
-   "summary": "Der KI-Anbieter feiert den größten Börsengang der Welt. Doch nach anfänglichen Kursgewinnen von über 30 Prozent ebbt die frühe Euphorie merklich ab. Experten suchen nach Gründen.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html",
-   "published": "2026-11-19T21:20:13+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Anthropic-IPO: „Stoppt die Tech-Oligarchen“: Vor der Nasdaq warnen sie vor dem Terminator und Kursverlusten",
-   "summary": "Der größte Börsengang der Welt sorgt selbst in der Weltmetropole New York für Trubel. Dabei passt nicht allen, was Anthropic und die KI-Elite so veranstalten – auch mit Blick auf die Märkte.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/anthropic-ipo-vor-der-nasdaq-warnen-sie-vor-dem-terminator-und-kursverlusten/100271388.html",
-   "published": "2026-11-19T20:26:59+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Börsengang von KI-Unternehmen: Groß, größer, Anthropic",
-   "summary": "Der größte Börsengang der Geschichte: Mit dem Start von Anthropic zeigt die KI-Branche, dass sie noch nicht strauchelt. Was das für Europa heißt. mehr...",
-   "link": "https://taz.de/Der-groesste-Boersengang-der-Geschichte-Gross-groesser-Anthropic/!6231351/",
-   "published": "2026-11-19T19:21:00+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "KI-Firma - Anthropic startet mit kräftigem Kursplus an der Börse",
-   "summary": "Die US-amerikanische KI-Firma Anthropic ist bei ihrem Börsengang mit einem deutlichen Plus in den Handel gestartet. Der erste Kurs an der Technologiebörse Nasdaq lag bei 111,50 US-Dollar und damit gut ein Drittel über dem Ausgabepreis.…",
-   "link": "https://www.deutschlandfunk.de/anthropic-startet-mit-kraeftigem-kursplus-an-der-boerse-100.html",
-   "published": "2026-11-19T19:09:40+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "BSI-Lagebericht - Nutzung von Künstlicher Intelligenz verschärft Gefahr durch Cyberangriffe",
-   "summary": "Die Gefährdung durch Cyber- und Hackerangriffe in Deutschland hat sich durch die missbräuchliche Nutzung Künstlicher Intelligenz deutlich verschärft.",
-   "link": "https://www.deutschlandfunk.de/nutzung-von-kuenstlicher-intelligenz-verschaerft-gefahr-durch-cyberangriffe-102.html",
-   "published": "2026-11-19T19:09:40+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Künstliche Intelligenz - Deutsche Telekom beteiligt sich an französischem KI-Entwickler Mistral AI",
-   "summary": "Die Deutsche Telekom steigt beim französischen KI-Unternehmen Mistral AI ein.",
-   "link": "https://www.deutschlandfunk.de/deutsche-telekom-beteiligt-sich-an-franzoesischem-ki-entwickler-mistral-ai-100.html",
-   "published": "2026-11-19T19:09:40+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Kriminalität - EU-Kommission war Ziel von Cyberangriff mit Künstlicher Intelligenz",
-   "summary": "Die Europäische Kommission hat bestätigt, dass sie Ziel eines Cyberangriffs geworden ist, bei dem Künstliche Intelligenz eingesetzt wurde..",
-   "link": "https://www.deutschlandfunk.de/eu-kommission-war-ziel-von-cyberangriff-mit-kuenstlicher-intelligenz-102.html",
-   "published": "2026-11-19T19:09:40+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Anthropic-Aktie: Aktien von Anthropic starten mit deutlichem Kursplus an der Börse",
-   "summary": "Beim Handelsdebüt von Anthropic ist der Aktienkurs des KI-Unternehmens um mehr als 34 Prozent gestiegen. Damit überholt Anthropic den bisherigen Rekordhalter SpaceX.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/anthropic-aktie-boersengang-wall-street-ki-claude",
-   "published": "2026-11-19T18:57:37+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
    "paywall": true
   }
  ]

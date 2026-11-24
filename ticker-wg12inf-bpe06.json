@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-23T13:52:16.593537+00:00",
+ "updated": "2026-11-24T01:23:22.377001+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Luftüberwachung - NATO verlegt AWACS-Flugzeug nach Polen",
+   "summary": "Als Reaktion auf den Absturz von drei russischen Marschflugkörpern in Polen verlegt die NATO ein Awacs-Überwachungsflugzeug in das Mitgliedsland des Verteidigungsbündnisses.",
+   "link": "https://www.deutschlandfunk.de/nato-verlegt-awacs-flugzeug-nach-polen-110.html",
+   "published": "2026-11-24T01:16:02+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftraumverletzungen: Polen wendet sich nach Raketenvorfällen an Visegrad-Gruppe",
+   "summary": "Drei russische Marschflugkörper dringen in den polnischen Luftraum ein und stürzen ab. Die Nato reagiert mit zusätzlicher Überwachung. Am Abend gibt es erneut Alarm.",
+   "link": "https://www.handelsblatt.com/politik/international/luftraumverletzungen-polen-wendet-sich-nach-raketenvorfaellen-an-visegrad-gruppe/100272209.html",
+   "published": "2026-11-23T23:34:10+00:00",
+   "first_seen": "2026-11-24T01:23:22.377001+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Großfusion: Mega-Deal: IT-Sicherheitsfirma Crowdstrike übernimmt Zscaler",
@@ -208,42 +226,6 @@
    "published": "2026-11-19T15:36:16+00:00",
    "first_seen": "2026-11-19T19:16:38.006845+00:00",
    "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "KI-gestützter Cyberangriff auf EU-Kommission",
-   "summary": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
-   "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
-   "published": "2026-11-19T13:56:39+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Medienbericht - Hackerangriff auf Systeme der EU-Kommission",
-   "summary": "Die Europäische Kommission ist einem Medienbericht zufolge Opfer eines Cyberangriffs ‌geworden.",
-   "link": "https://www.deutschlandfunk.de/hackerangriff-auf-systeme-der-eu-kommission-100.html",
-   "published": "2026-11-19T10:53:08+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "BSI-Lagebericht: „Next Level“ an Gefährdung: Behörde stuft Cyberbedrohung hoch und warnt vor KI-Angriffen",
-   "summary": "Jede unzureichend gesicherte Schnittstelle werde zum Einfallstor, warnt Innenminister Dobrindt. Wie verwundbar europäische Institutionen sind, zeigt ein neuer Cyberangriff auf die EU-Kommission.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/bsi-cyberbehoerde-sieht-verschaerfte-bedrohungslage-durch-ki-angriffe/100271163.html",
-   "published": "2026-11-19T10:26:52+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Sicherheit: Hackerangriffe werden durch KI schneller und wirkungsvoller – so schützen sich Unternehmen",
-   "summary": "Cyberkriminelle erhöhen die Wirksamkeit ihrer Angriffe mit Künstlicher Intelligenz. IT-Verantwortliche in Unternehmen müssen umdenken und neue Schutzmaßnahmen ergreifen.",
-   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/sicherheit-so-schuetzen-sich-unternehmen-gegen-ki-gestuetzte-hackerangriffe/100266917.html",
-   "published": "2026-11-19T09:40:51+00:00",
-   "first_seen": "2026-11-19T10:55:49.360629+00:00",
-   "paywall": true
   }
  ]
 }
