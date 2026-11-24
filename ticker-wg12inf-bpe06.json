@@ -1,7 +1,43 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-24T01:23:22.377001+00:00",
+ "updated": "2026-11-24T11:49:35.703028+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Rechenzentren, Cloud, KI: Kann die deutsche Rechenzentrums-Branche mit den US-Konzernen mithalten?",
+   "summary": "Die US-Korrektur bei KI-Aktien trifft deutsche Rechenzentren bislang kaum. Warum Cloud-Anbieter und Mittelständler andere Chancen haben.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/rechenzentren-cloud-ki-kann-deutschland-mit-den-us-konzernen-mithalten/100270916.html",
+   "published": "2026-11-24T11:21:00+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Marktmacht: Google Cloud droht die EU-Regulierung, später als Amazon und Microsoft",
+   "summary": "Die US-Riesen Microsoft und Amazon sollen bereits in diesem Jahr stärker reguliert werden. Später soll auch Google folgen. Kritiker sprechen von einer Wettbewerbsverzerrung.",
+   "link": "https://www.handelsblatt.com/politik/international/cloud-eu-will-cloud-geschaeft-von-google-kuenftig-strenger-regulieren/100270673.html",
+   "published": "2026-11-24T10:36:53+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Azure: Microsofts Cloud-Chef warnt: „Die IT-Ausfälle dürften in den nächsten Monaten deutlich zunehmen“",
+   "summary": "Im Interview erklärt Scott Guthrie, warum die KI-Welle zu Computerproblemen führt, Microsoft eigene Chips entwickelt – und wie sich EU-Kunden gegen einen „Kill-Switch“ aus Washington wehren können.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/azure-microsofts-cloud-chef-erwartet-mehr-it-ausfaelle-durch-ki/100270347.html",
+   "published": "2026-11-24T08:46:37+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Chipexporte nach China: USA setzen Nvidia-Kunden Megaspeed auf schwarze Liste",
+   "summary": "Die US-Regierung versucht nach Rückkehr des Nvidia-Chefs Jensen Huang, weiteren Schaden abzuwehren. Sie sperrt die verdächtige Cloud-Firma Megaspeed für den Chiphandel.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/usa-handelssperre-schwarze-liste-megaspeed-nvidia-skandal-alice-huang-china-exportverbot",
+   "published": "2026-11-24T06:13:45+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Luftüberwachung - NATO verlegt AWACS-Flugzeug nach Polen",
@@ -180,51 +216,6 @@
    "link": "https://www.deutschlandfunk.de/nutzung-von-kuenstlicher-intelligenz-verschaerft-gefahr-durch-cyberangriffe-108.html",
    "published": "2026-11-20T01:20:07+00:00",
    "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Kriminalität - EU-Kommission war Ziel von Cyberangriff mit Künstlicher Intelligenz",
-   "summary": "Die Europäische Kommission hat bestätigt, dass sie Ziel eines Cyberangriffs geworden ist, bei dem Künstliche Intelligenz eingesetzt wurde..",
-   "link": "https://www.deutschlandfunk.de/eu-kommission-war-ziel-von-cyberangriff-mit-kuenstlicher-intelligenz-104.html",
-   "published": "2026-11-20T01:20:07+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "BSI-Lagebericht - Nutzung von Künstlicher Intelligenz verschärft Gefahr durch Cyberangriffe",
-   "summary": "Die Gefährdung durch Cyber- und Hackerangriffe in Deutschland hat sich durch die missbräuchliche Nutzung Künstlicher Intelligenz deutlich verschärft.",
-   "link": "https://www.deutschlandfunk.de/nutzung-von-kuenstlicher-intelligenz-verschaerft-gefahr-durch-cyberangriffe-102.html",
-   "published": "2026-11-19T19:09:40+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Kriminalität - EU-Kommission war Ziel von Cyberangriff mit Künstlicher Intelligenz",
-   "summary": "Die Europäische Kommission hat bestätigt, dass sie Ziel eines Cyberangriffs geworden ist, bei dem Künstliche Intelligenz eingesetzt wurde..",
-   "link": "https://www.deutschlandfunk.de/eu-kommission-war-ziel-von-cyberangriff-mit-kuenstlicher-intelligenz-102.html",
-   "published": "2026-11-19T19:09:40+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "BSI sieht höhere Gefahr für Cyberangriffe wegen KI",
-   "summary": "Mit dem Einsatz von KI ist die Gefahr für Cyberangriffe laut Innenminister Dobrindt exponentiell gestiegen. Das zuständige Bundesamt zählte zuletzt 160 Schwachstellen pro Tag.",
-   "link": "https://www.zdfheute.de/politik/deutschland/bsi-lagebericht-warnung-cyberangriff-ki-100.html",
-   "published": "2026-11-19T17:14:00+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "KI-gestützter Cyberangriff gegen EU-Kommission",
-   "summary": "Die EU-Kommission ist Opfer eines Cyberangriffs geworden. Betroffen war unter anderem eine Personalplattform. Mehrere Anwendungen seien als Vorsichtsmaßnahme deaktiviert worden.",
-   "link": "https://www.zdfheute.de/politik/deutschland/eu-kommission-cyberangriff-ki-100.html",
-   "published": "2026-11-19T15:36:16+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
    "paywall": false
   }
  ]

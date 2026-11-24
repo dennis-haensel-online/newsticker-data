@@ -1,7 +1,133 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-24T01:23:22.377001+00:00",
+ "updated": "2026-11-24T11:49:35.703028+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Industriekonferenz - IG Metall betont Chancen durch Künstliche Intelligenz für deutsche Industrie",
+   "summary": "Die IG Metall hat die Deutsche Industrie aufgerufen, Künstliche Intelligenz als eine Zukunftschance für den hiesigen Standort zu begreifen. Bei KI-Sprachmodellen seien zwar die Amerikaner stärker, sagte der zweite Vorsitzende der IG…",
+   "link": "https://www.deutschlandfunk.de/ig-metall-betont-chancen-durch-kuenstliche-intelligenz-fuer-deutsche-industrie-102.html",
+   "published": "2026-11-24T11:43:01+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": false
+  },
+  {
+   "label": "WiWo",
+   "title": "Rechenzentren, Cloud, KI: Kann die deutsche Rechenzentrums-Branche mit den US-Konzernen mithalten?",
+   "summary": "Die US-Korrektur bei KI-Aktien trifft deutsche Rechenzentren bislang kaum. Warum Cloud-Anbieter und Mittelständler andere Chancen haben.",
+   "link": "https://www.wiwo.de/technologie/digitale-welt/rechenzentren-cloud-ki-kann-deutschland-mit-den-us-konzernen-mithalten/100270916.html",
+   "published": "2026-11-24T11:21:00+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gastronomie: Catering-Riese Compass will an die Wall Street",
+   "summary": "Noch ein Abgang in London: Das weltweit größte Catering-Unternehmen, Compass, plant, den britischen Aktienmarkt zu verlassen. Der Konzern kündigt außerdem Aktienrückkäufe an.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/gastronomie-catering-riese-compass-will-an-die-wall-street/100272365.html",
+   "published": "2026-11-24T10:46:10+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftverkehr: Ryanair knüpft großen Wachstumsplan an Steuersenkung",
+   "summary": "Ryanair beschwert sich immer wieder lautstark über hohe Steuern und Gebühren in Deutschland. Nun stellt der Billigflieger großes Wachstum für den Standort in Aussicht - jedoch unter Bedingungen.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/luftverkehr-ryanair-knuepft-grossen-wachstumsplan-an-steuersenkung/100272294.html",
+   "published": "2026-11-24T10:39:20+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Marktmacht: Google Cloud droht die EU-Regulierung, später als Amazon und Microsoft",
+   "summary": "Die US-Riesen Microsoft und Amazon sollen bereits in diesem Jahr stärker reguliert werden. Später soll auch Google folgen. Kritiker sprechen von einer Wettbewerbsverzerrung.",
+   "link": "https://www.handelsblatt.com/politik/international/cloud-eu-will-cloud-geschaeft-von-google-kuenftig-strenger-regulieren/100270673.html",
+   "published": "2026-11-24T10:36:53+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Pharma: Größter Biopharma-Deal seit Jahren: Sanofi kauft Insmed für 41 Milliarden Dollar",
+   "summary": "Kurz nach dem Wechsel von Merck zu Sanofi startet die neue Chefin Belén Garijo eine Mega-Übernahme. Sie will damit ein großes Problem für den französischen Pharmakonzern lösen.",
+   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-sanofi-kauft-biotech-firma-insmed-fuer-41-milliarden-dollar/100272269.html",
+   "published": "2026-11-24T10:19:19+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Pharmakonzern: Sanofi bietet Milliarden-Deal für Insmed Übernahme",
+   "summary": "Das Angebot von Sanofi bewertet Insmed mit 41 Milliarden Dollar. Konzernchefin Belén Garijo spricht von einem wichtigen strategischen Schritt.",
+   "link": "https://www.wiwo.de/unternehmen/dienstleister/sanofi-pharmakonzern-bietet-41-milliarden-us-dollar-fuer-insmed-uebernahme/100272288.html",
+   "published": "2026-11-24T10:16:00+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nvidia-CEO: Rückkehr von Jensen Huang treibt Börsen in Südkorea und Japan",
+   "summary": "Der südkoreanische Index Kospi hat im frühen Handel mehr als sieben Prozent zugelegt, der japanische Nikkei gewann nach einer Feiertagspause vier Prozent. Am Montag hatte der US-Konzern Nvidia entschieden, Jensen Huang wieder als CEO…",
+   "link": "https://www.handelsblatt.com/video/unternehmen/nvidia-ceo-rueckkehr-von-jensen-huang-treibt-boersen-in-suedkorea-und-japan/100272341.html",
+   "published": "2026-11-24T09:52:13+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Nvidia-Chef Huang: \"Ich werde ein besserer CEO beim zweiten Mal\"",
+   "summary": "Rolle rückwärts bei Chiphersteller Nvidia: Elf Tage nach seinem Rücktritt hat der Verwaltungsrat des US-Chipherstellers Nvidia Jensen Huang wieder an die Konzernspitze geholt.",
+   "link": "https://www.zdfheute.de/video/panorama-nvidia-jensen-huang-rueckkehr-video-100.html",
+   "published": "2026-11-24T09:51:35+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Start-up-Finanzierung: Der Investor und die Spione",
+   "summary": "Der Kapitalgeber hinter Helsing und Proxima Fusion warnt: Deutsche Start-ups sind nicht gut genug auf Geheimdienstangriffe vorbereitet.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/khaled-helioui-warnt-deutsche-start-ups-unterschaetzen-spionagegefahr-accg-201700128.html",
+   "published": "2026-11-24T09:27:13+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Luftverkehr: 36 neue Flugzeuge gegen Steuersenkungen: Ryanair verspricht Milliarden bei niedrigerer Flugsteuer",
+   "summary": "Ryanair beschwert sich immer wieder lautstark über hohe Steuern und Gebühren in Deutschland. Nun stellt der Billigflieger großes Wachstum für den Standort in Aussicht – unter Bedingungen.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/luftverkehr-ryanair-verspricht-milliarden-bei-senkung-der-flugsteuer/100272301.html",
+   "published": "2026-11-24T09:09:52+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Verkauf von Ziehl-Abegg: Gefährliche Entwicklung",
+   "summary": "Die Eigentümerfamilien zweier Unternehmen mit Produkten von Weltruf verkaufen ihr Geschäft ins Ausland. Für den Standort Deutschland sind solche Transaktionen keine gute Nachricht.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ebm-papst-und-ziehl-abegg-verkauf-gefaehrdet-deutschen-technologiestandort-201709745.html",
+   "published": "2026-11-24T08:56:00+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "ABB übernimmt Ziehl-Abegg: Ausverkauf im Ventilatoren-Valley",
+   "summary": "Nach EBM-Papst verkaufen die Nachfahren der Unternehmensgründer auch den zweiten global bedeutenden Ventilatorenhersteller ins Ausland. Der Schweizer Konzern ABB übernimmt Ziehl-Abegg aus Baden-Württemberg.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/abb-uebernimmt-ziehl-abegg-ausverkauf-im-ventilatoren-valley-accg-201708899.html",
+   "published": "2026-11-24T06:54:07+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "VW-Tarifrunde beginnt in Emden - wo die Streitpunkte liegen",
+   "summary": "Mitten in der tiefsten Krise der Konzerngeschichte startet heute die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einbußen. Von T. Hildebrandt.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
+   "published": "2026-11-24T05:04:12+00:00",
+   "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Business-Ticker: Trump postet bizarre Fotomontage zu Huang-Rückkehr",
@@ -676,150 +802,6 @@
    "published": "2026-11-20T01:20:07+00:00",
    "first_seen": "2026-11-20T01:31:57.992060+00:00",
    "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Huang-Affäre: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen",
-   "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs noch lange nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Chip-Konzern zu.",
-   "link": "https://www.handelsblatt.com/technik/ki/huang-affaere-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271418.html",
-   "published": "2026-11-20T01:18:49+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chip-Riese: Kalifornien will von Nvidia Aufklärung zu China-Lieferungen",
-   "summary": "Die Kontroverse um Jensen Huang ist für Nvidia mit dem Rücktritt des langjährigen Chefs noch lange nicht vorbei. Jetzt rollt die nächste Untersuchung auf den Chip-Konzern zu.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/chip-riese-kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen/100271419.html",
-   "published": "2026-11-20T00:57:43+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Motorenhersteller: Nach „sorgfältiger Prüfung“: Deutz weist Leerverkäufer-Vorwürfe zu FFG-Kauf zurück",
-   "summary": "Hat das Unternehmen bei der Übernahme des Rüstungskonzerns Flensburger Fahrzeugbau Gesellschaft unvollständige Angaben gemacht? Deutz nennt die Vorwürfe unbegründet.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/leerverkaeufer-motorenbauer-deutz-weist-vorwuerfe-zu-ffg-uebernahme-zurueck/100271395.html",
-   "published": "2026-11-19T19:35:28+00:00",
-   "first_seen": "2026-11-20T01:31:57.992060+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Commerzbank-Übernahme: UniCredit verspricht bei der Commerzbank heiße Luft – der Vizekanzler jubelt",
-   "summary": "Die Bundesregierung verkündet eine Einigung mit UniCredit über die Commerzbank. Damit gesteht sie ihr Scheitern ein – und schadet womöglich Steuerzahlern. Ein Kommentar.",
-   "link": "https://www.wiwo.de/unternehmen/banken/unicredit-verspricht-bei-der-commerzbank-heisse-luft-der-vizekanzler-jubelt/100271294.html",
-   "published": "2026-11-19T17:59:00+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "BASF und Evonik: Leg dich nicht mit dem Ruhrpott an!",
-   "summary": "Der Chemiekonzern BASF gibt die geplante Übernahme des Konkurrenten Evonik aus Essen überraschend auf. Er hat den Widerstand unterschätzt – vor allem den aus der Politik.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/basf-evonik-uebernahmeversuch-chemiebranche-nrw-hendrik-wuest",
-   "published": "2026-11-19T17:46:58+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Pharma: Sanofi erwägt Übernahme des US-Pharmakonzerns Insmed",
-   "summary": "Der Pharmakonzern Sanofi prüft, einem Bloomberg-Bericht zufolge, eine Übernahme des US-Arzneimittelherstellers Insmed. Es wäre der größte Deal der Biopharma-Branche seit Jahren.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/pharma-sanofi-erwaegt-uebernahme-des-us-pharmakonzerns-insmed/100271371.html",
-   "published": "2026-11-19T17:38:13+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Tesla gegen IG Metall: Fortsetzung folgt",
-   "summary": "Tesla-Werkleiter André Thierig muss sich im Clinch mit der IG Metall vor Gericht verteidigen. Konzernchef Elon Musk dürfte das kaum stören.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/strafbefehl-gegen-tesla-werkleiter-elon-musk-duerfte-das-nicht-stoeren-201698697.html",
-   "published": "2026-11-19T17:37:45+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Tesla gegen IG Metall: Fortsetzung folgt",
-   "summary": "Tesla-Werkleiter André Thierig muss sich im Clinch mit der IG Metall vor Gericht verteidigen. Konzernchef Elon Musk dürfte das kaum stören.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-gegen-ig-metall-warum-werkleiter-thierig-vor-gericht-muss-201698697.html",
-   "published": "2026-11-19T17:37:45+00:00",
-   "first_seen": "2026-11-20T09:26:24.340260+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kommentar: Blaues Auge für BASF und eine schwere Bürde für Evonik",
-   "summary": "Die Absage der Fusion der zwei größten deutschen Chemiekonzerne ist folgerichtig, aber eine schlechte Nachricht für die Zukunft der deutschen und europäischen Chemie.",
-   "link": "https://www.handelsblatt.com/meinung/kommentare/kommentar-blaues-auge-fuer-basf-und-eine-schwere-buerde-fuer-evonik/100271350.html",
-   "published": "2026-11-19T16:51:55+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SZ",
-   "title": "BASF und Evonik: Deutschland hätte einen größeren Champion gebraucht",
-   "summary": "BASF will Evonik nicht mehr. Die Übernahme nicht um jeden Preis zu forcieren, ist konsequent. Aber die Manager von Evonik und die Politiker in NRW ignorieren die Zeichen der Zeit.",
-   "link": "https://www.sueddeutsche.de/wirtschaft/markus-kamieth-rag-stiftung-politik-nationale-champions-li.3583216",
-   "published": "2026-11-19T16:49:48+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Chemiebranche: BASF beendet Bemühungen um Übernahme von Evonik",
-   "summary": "Der Ludwigshafener Chemieriese warb lange um den Essener Spezialchemiekonzern. Nun hat der Übernahmepoker offiziell ein Ende.",
-   "link": "https://www.wiwo.de/unternehmen/industrie/chemiebranche-basf-beenden-bemuehungen-um-uebernahme-von-evonik/100271328.html",
-   "published": "2026-11-19T16:15:00+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Volkswagen will Nullrunden für zwei Jahre",
-   "summary": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der Arbeitnehmer zu fallen.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-   "published": "2026-11-19T16:11:57+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Freihandel: Großbritanniens Rückkehr nach Europa ist ein Hindernislauf",
-   "summary": "Der britische Premier Andy Burnham will sein Land zurück in die EU führen. Er muss sich auf harte Widerstände gefasst machen – denn der Brexit-Schock sitzt bei den Europäern noch immer tief.",
-   "link": "https://www.handelsblatt.com/politik/international/freihandel-grossbritanniens-rueckkehr-nach-europa-ist-ein-hindernislauf/100266612.html",
-   "published": "2026-11-19T15:59:20+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "BASF bläst Evonik-Übernahme ab",
-   "summary": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-   "published": "2026-11-19T15:55:43+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chemiebranche: BASF beendet Übernahmepoker um Evonik - Zuvor zwei Angebote",
-   "summary": "Der Ludwigshafener Chemieriese warb lange um den Essener Spezialchemiekonzern. Warum das Bemühen nun offiziell ein Ende hat.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/chemiebranche-basf-beendet-uebernahmepoker-um-evonik-zuvor-zwei-angebote/100271327.html",
-   "published": "2026-11-19T15:46:38+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Spirituosen: Alkohol-Hersteller Sazerac sichert sich 44 Prozent an Berentzen",
-   "summary": "Der US-Konzern stockt sein Übernahmeangebot für den Apfelkorn-Hersteller aus Niedersachsen um gut zehn Millionen Euro auf. Der Berentzen-Vorstand hat sich bereits hinter die Pläne gestellt.",
-   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/spirituosen-alkohol-hersteller-sazerac-sichert-sich-44-prozent-an-berentzen/100271354.html",
-   "published": "2026-11-19T15:37:06+00:00",
-   "first_seen": "2026-11-19T19:16:38.006845+00:00",
-   "paywall": true
   }
  ]
 }
