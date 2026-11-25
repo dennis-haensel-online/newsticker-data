@@ -1,7 +1,79 @@
 {
  "id": "wg12iw-bpe18",
- "updated": "2026-11-25T04:41:39.467896+00:00",
+ "updated": "2026-11-25T15:10:23.079274+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Illegale Preisabsprachen: EU verhängt Millionenstrafen gegen Duftstoff-Kartell",
+   "summary": "Drei Duftstoff-Hersteller haben ihr Geschäft miteinander abgestimmt. Das Kartell flog auf, nachdem im März 2023 Büros der Firmen durchsucht wurden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eu-verhaengt-millionenstrafen-gegen-duftstoff-kartell-201717161.html",
+   "published": "2026-11-25T14:54:37+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Energiekrise: EU verlängert Lockerung bei Staatshilfen",
+   "summary": "Mitgliedstaaten können damit den Strompreis für energieintensive Firmen stärker subventionieren und Landwirte bei Dünger- und Kraftstoffkosten entlasten.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/eu-kommission-staatshilfen-energiekrise-deutschland-2027-li.3586172",
+   "published": "2026-11-25T14:42:11+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "BörsenTag: Kommt jetzt der nächste Schlag für KI-Aktien?",
+   "summary": "Neue US-Inflationsdaten erhöhen die Wahrscheinlichkeit eines eher großen Zinsschritts. Für Techaktien wäre das eine weitere Hiobsbotschaft. Auch Trumps neue Zölle helfen da nicht.",
+   "link": "https://www.wiwo.de/finanzen/boerse/us-inflation-kommt-jetzt-der-naechste-schlag-fuer-ki-aktien/100272709.html",
+   "published": "2026-11-25T14:26:46+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Handelskonflikt: USA planen neue Zölle gegen EU und 13 weitere Handelspartner",
+   "summary": "Die US-Regierung fühlt sich durch Subventionen ungleich behandelt. Die Zollobergrenze mit der EU wollen die USA allerdings einhalten.",
+   "link": "https://www.wiwo.de/politik/ausland/us-zoelle-usa-planen-neue-zoelle-gegen-eu-und-13-weitere-handelspartner/100272733.html",
+   "published": "2026-11-25T13:51:00+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "US-Konjunktur: 3,8 Prozent: Inflationsmaß der Fed legt im Oktober weiter zu",
+   "summary": "Der PCE-Index dient der Fed als wichtiger Indikator. Die neue Entwicklung erhöht den Handlungsdruck auf die US‑Notenbank. Investoren rechnen fest mit einer baldigen Zinserhöhung.",
+   "link": "https://www.handelsblatt.com/finanzen/geldpolitik/us-konjunktur-inflationsmass-in-den-usa-steigt-weiter/100272700.html",
+   "published": "2026-11-25T13:41:32+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: So verschaffen sich Führungskräfte im mittleren Management einen Wettbewerbsvorteil",
+   "summary": "Je höher der Posten, desto größer die Erwartung an KI-Kompetenz. Ein Top-Headhunter verrät exklusiv, mit welchen Fragen er sie prüft – und wann er Bewerber sofort aussortiert.",
+   "link": "https://www.handelsblatt.com/unternehmen/management/fuehrungskraefte-diese-ki-kompetenzen-werden-von-bewerbern-erwartet/100240522.html",
+   "published": "2026-11-25T13:36:00+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "Flixtrain-Tickets bald auch bei Deutscher Bahn buchbar",
+   "summary": "Zugreisende können demnächst auch Tickets für den Wettbewerber Flixtrain auf der Buchungsplattform der Deutschen Bahn buchen. Das vereinfacht den Ticketkauf erheblich - einige Hürden bleiben aber bestehen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flixtrain-deutsche-bahn-ticketverkauf-100.html",
+   "published": "2026-11-25T11:01:33+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": false
+  },
+  {
+   "label": "tagesschau",
+   "title": "Kerzen dürften deutlich teurer werden",
+   "summary": "Der Adventskranz gehört für viele zur Vorweihnachtszeit, doch die Kerzen dafür könnten in diesem Jahr ziemlich teuer werden. Hersteller rechnen mit Preissteigerungen von 30 bis 50 Prozent.",
+   "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
+   "published": "2026-11-25T09:40:38+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": false
+  },
   {
    "label": "Handelsblatt",
    "title": "Rüstung: Insider: Helsing prüft offenbar Übernahme von Marschflugkörperhersteller Destinus",
@@ -522,96 +594,6 @@
    "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-ohne-risiko-gibt-es-sicheren-inflationsschutz/100270504.html",
    "published": "2026-11-21T10:05:00+00:00",
    "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Stromsteuersenkung: Stromausgaben steigen laut Verivox trotz Stromsteuersenkung",
-   "summary": "Wegen der Preiserhöhungen der Versorger müssen Verbraucher laut einer Studie 2027 mit höheren Stromkosten rechnen. Die Stromsteuersenkung hält das demnach nicht auf.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/strompreise-stromkosten-stromsteuer-netzentgelte-verivox-gxe",
-   "published": "2026-11-21T09:28:30+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Regierung: „Der Begriff Faschismus findet zu inflationäre Verwendung“",
-   "summary": "In den USA, Ungarn und Polen verlieren Populisten Wahlen. Der Wiener Sprachphilosoph Paul Sailer-Wlasits warnt dennoch vor Entwarnung: Die Demagogie habe einen strukturellen Vorteil.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/deutschland-verschleiss-von-populisten-beginnt-ab-tag-eins-der-regierung/100270126.html",
-   "published": "2026-11-21T06:39:00+00:00",
-   "first_seen": "2026-11-21T07:52:03.640842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Interaktiver Rechner: 333 Gasanbieter erhöhen zum 1. Januar ihr Tarife – so viel teurer kann es für Sie werden",
-   "summary": "Hunderte Grundversorger bekommen die hohen Gaspreise durch den Irankrieg jetzt zu spüren – und kündigen Preiserhöhungen an. Für Familien können die Mehrkosten einige Hundert Euro betragen.",
-   "link": "https://www.handelsblatt.com/unternehmen/energie/heizen-333-gasanbieter-erhoehen-zum-1.-januar-tarife-wie-teuer-es-wird/100270528.html",
-   "published": "2026-11-21T05:00:00+00:00",
-   "first_seen": "2026-11-21T07:52:03.640842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Energie: Neues Gesetz: Spritpreisdeckel soll doch am 1. Januar starten – aber Reiche plant andere Einschränkungen",
-   "summary": "Die Wirtschaftsministerin hat nach Handelsblatt-Informationen ein neues Gesetz für Benzin- und Diesel-Höchstpreise erarbeitet. Sie fürchtet aber weiter um die Versorgung – und plant drei Auflagen.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/energie-spritpreisdeckel-startet-doch-am-1.januar-aber-auflagen-geplant/100271661.html",
-   "published": "2026-11-20T20:11:02+00:00",
-   "first_seen": "2026-11-21T00:29:59.895277+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Geldpolitik: Fed-Gouverneurin Cook dringt auf weitere Zinserhöhungen",
-   "summary": "Das Zinsniveau reicht laut Cook nicht aus, um die Inflation einzudämmen. Sie fordert weitere Erhöhungen und warnt vor zusätzlichen Belastungen für US-Haushalte bei zu spätem Handeln.",
-   "link": "https://www.handelsblatt.com/politik/international/geldpolitik-fed-gouverneurin-cook-dringt-auf-weitere-zinserhoehungen/100271670.html",
-   "published": "2026-11-20T19:54:32+00:00",
-   "first_seen": "2026-11-21T00:29:59.895277+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Regierung: „Der Begriff Faschismus findet zu inflationäre Verwendung“",
-   "summary": "In den USA, Ungarn und Polen verlieren Populisten Wahlen. Der Wiener Sprachphilosoph Paul Sailer-Wlasits warnt dennoch vor Entwarnung: Die Demagogie habe einen strukturellen Vorteil.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/deutschland-der-begriff-faschismus-findet-zu-inflationaere-verwendung/100270126.html",
-   "published": "2026-11-20T19:39:00+00:00",
-   "first_seen": "2026-11-21T00:29:59.895277+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Evonik-Übernahme Gescheitert: Verrannt im Ruhrgebiet",
-   "summary": "Der Chemiekonzern BASF gibt seine Übernahmepläne für Evonik auf. Der Dax-Konzern hatte den politischen Gegenwind unterschätzt. Jetzt stellen sich neue Fragen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/basf-gibt-uebernahme-von-evonik-auf-kamieth-scheitert-an-wuest-201701320.html",
-   "published": "2026-11-20T19:23:44+00:00",
-   "first_seen": "2026-11-21T00:29:59.895277+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Film von Florentina Holzinger im Kino: Nackt auf dem Eis",
-   "summary": "Florentina Holzinger erobert mit „Eternity“ das Kino. Sie steht an der Spitze der Top 100 des Kunstmagazins Monopol. Wird sie auch neues Bond-Girl? mehr...",
-   "link": "https://taz.de/Film-von-Florentina-Holzinger-im-Kino/!6223590/",
-   "published": "2026-11-20T18:54:00+00:00",
-   "first_seen": "2026-11-21T00:29:59.895277+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Kraftwerke: Marktmacht von RWE ist ungebrochen",
-   "summary": "Die Macht des Energiekonzerns RWE deutet laut aktuellem Monitoringbericht von Bundesnetzagentur und Bundeskartellamt auf eine marktbeherrschende Stellung hin.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/strom-marktmacht-von-rwe-ist-ungebrochen/100271608.html",
-   "published": "2026-11-20T16:47:04+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Chemie: Nach dem BASF-Rückzug bei Evonik: IG BCE nimmt die RAG-Stiftung in die Pflicht",
-   "summary": "Nach dem gescheiterten Übernahmeversuch nimmt die Chemiegewerkschaft den Evonik-Großaktionär ins Visier, die RAG-Stiftung. Sie kritisiert in einem internen Schreiben deren Dividendenpolitik.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/evonik-ig-bce-fordert-nach-basf-rueckzug-kurswechsel-bei-rag-stiftung/100271617.html",
-   "published": "2026-11-20T16:12:07+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
    "paywall": true
   }
  ]

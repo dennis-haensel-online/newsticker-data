@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-25T04:41:39.467896+00:00",
+ "updated": "2026-11-25T15:10:23.079274+00:00",
  "items": [
+  {
+   "label": "SZ",
+   "title": "Nach Cloud-Problemen: Höchste Alarmstufe bei Microsoft",
+   "summary": "Eine gehörige Blamage war das für den größten Softwarehersteller der Welt, als kürzlich eine Reihe von Cloud-Diensten gestört waren. Das hat nun interne Konsequenzen.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/microsoft-cloud-ausfall-outlook-teams-code-red-li.3585999",
+   "published": "2026-11-25T14:34:43+00:00",
+   "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Megaspeed: US-Handelsministerium setzt Nvidia-Partner auf Sperrliste",
@@ -162,42 +171,6 @@
    "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/cyber-risk-wie-sich-das-risiko-durch-hackerangriffe-berechnen-laesst/100271003.html",
    "published": "2026-11-21T10:21:24+00:00",
    "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Morning Briefing Plus: Sicherheitsrisiko Tischreservierung: Cybersicherheit wird politisch unterschätzt",
-   "summary": "Kühlanlagen, EU-Kommission, BundID, Restaurants: Die Liste der Cyberangriffe wird länger, die Angreifer werden schneller. Der Staat verliert das Wettrennen, wenn er nicht investiert.",
-   "link": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-sicherheitsrisiko-tischreservierung/100271486.html",
-   "published": "2026-11-21T07:49:11+00:00",
-   "first_seen": "2026-11-21T07:52:03.640842+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein",
-   "summary": "Die US-Bundespolizei FBI ist Medienberichten zufolge zum zweiten Mal innerhalb weniger Monate Ziel eines Cyberangriffs geworden.",
-   "link": "https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-100.html",
-   "published": "2026-11-21T07:41:43+00:00",
-   "first_seen": "2026-11-21T07:52:03.640842+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "IT-Sicherheit: Hackerangriff auf Immobilienverwaltung der Bundesagentur",
-   "summary": "Die Bundesagentur für Arbeit ist Deutschlands größte Behörde. Ihre Immobilienverwaltung ist nun Ziel von Computerhackern geworden.",
-   "link": "https://www.handelsblatt.com/politik/deutschland/it-sicherheit-hackerangriff-auf-immobilienverwaltung-der-bundesagentur/100271684.html",
-   "published": "2026-11-20T22:38:44+00:00",
-   "first_seen": "2026-11-21T00:29:59.895277+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Hackerangriff auf Hugendubel",
-   "summary": "Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Christine Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hackerangriff-auf-hugendubel-faz-200452404.html",
-   "published": "2026-11-20T18:00:00+00:00",
-   "first_seen": "2026-11-21T00:29:59.895277+00:00",
    "paywall": true
   }
  ]
