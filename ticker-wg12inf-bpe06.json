@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-25T15:10:23.079274+00:00",
+ "updated": "2026-11-25T23:53:52.874212+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Nutzung von Smart Glasses: Klagen gegen Überwachungsbrillen",
+   "summary": "Ver­brau­cher­schüt­ze­r:in­nen ziehen wegen Metas Smart Glasses vor Gericht. Risiken gebe es nicht nur für Menschen, die ungewollt gefilmt werden. mehr...",
+   "link": "https://taz.de/Smart-Glasses-Verbraucherzentrale-verklagt-Ray-Ban-wegen-Datenschutz-Verstoss/!6233015/",
+   "published": "2026-11-25T18:50:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": false
+  },
   {
    "label": "SZ",
    "title": "Nach Cloud-Problemen: Höchste Alarmstufe bei Microsoft",
@@ -135,42 +144,6 @@
    "link": "https://www.wiwo.de/erfolg/management/datenleck-bei-der-deutschen-bank-vier-lehren-fuer-manager/100271043.html",
    "published": "2026-11-22T08:39:00+00:00",
    "first_seen": "2026-11-22T09:03:49.251939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Inside Deutsche Bank: Komplexität killt Wirkung",
-   "summary": "Das Datenleck bei der Deutschen Bank konterkariert das Selbstbild des Konzerns. Auch Mathias Döpfner und Friede Springer kommen nicht gut weg. mehr...",
-   "link": "https://taz.de/Inside-Deutsche-Bank/!6223581/",
-   "published": "2026-11-21T19:11:00+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "USA - Medienberichte: Hacker dringen erneut in FBI-Datenbank ein - auch Landwirtschaftsministerium betroffen",
-   "summary": "Die US-Bundespolizei FBI ist Medienberichten zufolge zum zweiten Mal innerhalb weniger Monate Ziel eines Cyberangriffs geworden.",
-   "link": "https://www.deutschlandfunk.de/medienberichte-hacker-dringen-erneut-in-fbi-datenbank-ein-auch-landwirtschaftsministerium-betroffen-100.html",
-   "published": "2026-11-21T15:27:22+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer",
-   "summary": "Hackerangriff auf Hugendubel +++ Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
-   "published": "2026-11-21T10:40:00+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Cyber Risk: Wie Versicherer und Analysten das Risiko durch Hackerangriffe berechnen",
-   "summary": "Viele Unternehmen wissen nicht, wie groß die Gefahr durch Cyberangriffe wirklich ist. Auch auf Druck von Versicherern berechnen immer mehr Betriebe die Risiken nun in Euro und Cent.",
-   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/cyber-risk-wie-sich-das-risiko-durch-hackerangriffe-berechnen-laesst/100271003.html",
-   "published": "2026-11-21T10:21:24+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
    "paywall": true
   }
  ]

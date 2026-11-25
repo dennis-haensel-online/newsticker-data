@@ -1,7 +1,52 @@
 {
  "id": "wg12iw-bpe19",
- "updated": "2026-11-25T15:10:23.079274+00:00",
+ "updated": "2026-11-25T23:53:52.874212+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Schwaches Wirtschaftswachstum: Die privaten Investitionen kommen einfach nicht in Gang",
+   "summary": "Wieso wächst die deutsche Wirtschaft so langsam? Die Schwäche der privaten Investitionen ist der wichtigste Grund. Sie hat Deutschland seit 2022 mehr als 125 Milliarden Euro an Wirtschaftsleistung gekostet.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
+   "published": "2026-11-25T20:59:50+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Wirtschaftsweise: \"Die Zinsbelastungen werden immer höher\"",
+   "summary": "Monika Schnitzer berät als Chefin der Wirtschaftsweisen die Bundesregierung. Ihre Kritik: Schulden für Konsum statt Investitionen, keine echten Einsparungen, steigende Zinslasten.",
+   "link": "https://www.zdfheute.de/video/heute-journal/schnitzer-sgs-sievers-100.html",
+   "published": "2026-11-25T20:45:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Beige Book: US-Wirtschaft wächst laut Notenbank-Bericht leicht bis moderat",
+   "summary": "Im Konjunkturbericht Beige Book der Fed heißt es, zugleich bleibe die Inflation hartnäckig. Die Notenbanker zeigen sich zunehmend besorgt über die Teuerung.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html",
+   "published": "2026-11-25T20:24:20+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Bundeshaushalt 2027: Wirtschaftsweise warnt vor Schuldenquote von fast 100 Prozent bis 2040",
+   "summary": "Monika Schnitzer, die Vorsitzende der Wirtschaftsweisen, warnt vor einem kräftigen Anstieg der Staatsverschuldung. Den neuen Bundeshaushalt kritisierte sie deutlich.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/monika-schnitzer-staatsverschuldung-bundeshaushalt-2027",
+   "published": "2026-11-25T17:10:43+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Wall Street: Thanksgiving-Schock – Hält die Wall Street stand?",
+   "summary": "Der Wall Street droht ein historisch schwacher Handelsauftakt vor Thanksgiving. Zinssorgen und neue Wachstumsrisiken belasten die Stimmung – trotz der Rückkehr von Nvidia-Chef Jensen Huang.",
+   "link": "https://www.handelsblatt.com/audio/wall-street/wall-street-thanksgiving-schock-haelt-die-wall-street-stand/100272773.html",
+   "published": "2026-11-25T15:23:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "EZB-Daten - Kartenzahlung überholt erstmals Bargeld in Geschäften",
@@ -10,6 +55,15 @@
    "published": "2026-11-25T15:05:23+00:00",
    "first_seen": "2026-11-25T15:10:23.079274+00:00",
    "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Konjunktur: Flaute bei Konsum und Export: Wirtschaft wächst nur minimal",
+   "summary": "Rekordspritpreise, schlechtere Geschäfte im Ausland, weniger Investitionen: Im dritten Quartal halten sich Verbraucher und Firmen zurück. Dennoch dürfte die Konjunkturflaute in Deutschland bald enden.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/konjunktur-flaute-bei-konsum-und-export-wirtschaft-waechst-nur-minimal/100272605.html",
+   "published": "2026-11-25T14:56:29+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
   },
   {
    "label": "ZEIT",
@@ -550,51 +604,6 @@
    "published": "2026-11-21T20:21:36+00:00",
    "first_seen": "2026-11-21T21:20:46.884340+00:00",
    "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Wachstum durch schulden?: Die Droge Defizit",
-   "summary": "Die Schulden von heute gefährden die Staatsfinanzen morgen. Lars Klingbeil kümmert das wenig. Der Finanzminister spielt Zukunftsminister.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lars-klingbeil-und-das-defizit-tappt-deutschland-in-die-schuldenfalle-201621537.html",
-   "published": "2026-11-21T18:30:59+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Arbeitsmarkt: „Die meisten Leute erhalten überschaubare Abfindungen“",
-   "summary": "Die geplante Arbeitsmarktreform dürfte nur wenig wirken, erwartet der Ökonom Holger Schäfer. Denn die Leerstellen bleiben: Wochenarbeitszeit und Arbeitsanreize.",
-   "link": "https://www.wiwo.de/politik/deutschland/arbeitsmarkt-die-meisten-leute-erhalten-ueberschaubare-abfindungen/100270474.html",
-   "published": "2026-11-21T15:05:00+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Strom und Gas: Verivox rechnet mit steigenden Kosten",
-   "summary": "Gerade hat die Koalition die Senkung der Stromsteuer beschlossen – doch einer Auswertung zufolge dürfte das nicht ausreichen, um den Kostenanstieg zu stoppen. Noch drastischer dürfte die Teuerung beim Gas sein.",
-   "link": "https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss",
-   "published": "2026-11-21T10:50:00+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer",
-   "summary": "Hackerangriff auf Hugendubel +++ Pharmakonzern CSL Behring baut Produktion in Marburg aus +++ Lagarde will EZB-Schutzschirm gegen Finanzstress von außerhalb der Eurozone ausweiten +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
-   "published": "2026-11-21T10:40:00+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Geldanlage: Gibt es eine Geldanlage ohne Verlustrisiko?",
-   "summary": "Rendite und Risiko gehen meist Hand in Hand. Trotzdem sucht ein Leser nach einer Geldanlage, die ohne Verlustrisiken zumindest die Inflation ausgleicht. Wo findet er die?",
-   "link": "https://www.wiwo.de/finanzen/geldanlage/geldanlage-ohne-risiko-gibt-es-sicheren-inflationsschutz/100270504.html",
-   "published": "2026-11-21T10:05:00+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
   }
  ]
 }

@@ -1,7 +1,61 @@
 {
  "id": "wg12iw-bpe07",
- "updated": "2026-11-25T15:10:23.079274+00:00",
+ "updated": "2026-11-25T23:53:52.874212+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Medien - Kontroverse Debatte um VRM-Verlagsgruppe wegen Druckauftrag für \"Nius\"-Wochenzeitung",
+   "summary": "Die Übernahme des Druckauftrags für die neue Wochenzeitung des Online-Portals \"Nius\" durch das Medienunternehmen VRM hat eine kontroverse Debatte ausgelöst.",
+   "link": "https://www.deutschlandfunk.de/kontroverse-debatte-um-vrm-verlagsgruppe-wegen-druckauftrag-fuer-nius-wochenzeitung-102.html",
+   "published": "2026-11-25T22:34:19+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Bonität: Ratingagentur S&P droht Nvidia nach Führungswirren mit Herabstufung",
+   "summary": "Die US-Ratingagentur sieht nach den jüngsten Turbulenzen an der Konzernspitze Schwächen in der Unternehmensführung des Chipkonzerns offengelegt. Darin liegt nach S P-Ansicht Risikopotenzial.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/aktien/ratingagentur-sp-droht-nvidia-nach-fuehrungswirren-mit-herabstufung/100272817.html",
+   "published": "2026-11-25T19:51:26+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Aktien: US-Börsen erholen sich nach großen KI-Verlusten teils",
+   "summary": "Die wichtigsten US-Indizes können den Schock vom Handelsbeginn abschütteln. Die Chip-Konzerne müssen dennoch Verluste hinnehmen.",
+   "link": "https://www.wiwo.de/finanzen/boerse/aktien-us-boersen-erholen-sich-nach-grossen-ki-verlusten-teils/100272785.html",
+   "published": "2026-11-25T19:50:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Rechenzentren in Südostasien: Wie Malaysia zum Schlupfloch für Chips wurde",
+   "summary": "Chinas KI-Konzerne haben Nvidia-Chips nicht nur durch Schmuggel genutzt, sondern durch Rechenzentren in Ländern wie Malaysia. Dort kehrt mit Jensen Huang auch die Hoffnung aufs Geschäft zurück.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chips-fuer-china-wie-malaysia-zum-schlupfloch-wurde-201712558.html",
+   "published": "2026-11-25T17:46:17+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Gehaltsrechner: Wie viel verdienen Sie im Vergleich zu anderen Führungskräften?",
+   "summary": "Branche, Unternehmensgröße und Standort beeinflussen maßgeblich die Gehälter – das gilt auch für Chefs. Mit unserem interaktiven Rechner sehen Sie, wo Sie im Verhältnis zu anderen stehen.",
+   "link": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wo-in-deutschland-die-hoechsten-gehaelter-gezahlt-werden/100248227.html",
+   "published": "2026-11-25T15:54:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Top-Headhunter Heiner Thorborg: „80 Prozent der oberen Etagen bestehen aus Narzissten“",
+   "summary": "Er ist einer der bekanntesten deutschen Personalberater, besetzt Spitzenposten in Dax-Konzernen. Jetzt spricht er darüber, wie falsche Chefs Unternehmen gefährden – und welche Machtregeln zählen.",
+   "link": "https://www.handelsblatt.com/unternehmen/dienstleister/fuehrungskraefte-gemischte-teams-sind-einfach-erfolgreicher/100235531.html",
+   "published": "2026-11-25T15:14:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Kooperation - Flixtrain-Tickets bald bei der Deutschen Bahn buchbar",
@@ -99,6 +153,15 @@
    "link": "https://www.spiegel.de/wirtschaft/bmw-gesamtbetriebsratschef-martin-kimmich-attackiert-konzernchefs-in-tarifkonflikt-a-2241c461-f01e-4162-b33c-1dd68cb2544f#ref=rss",
    "published": "2026-11-25T12:29:00+00:00",
    "first_seen": "2026-11-25T15:10:23.079274+00:00",
+   "paywall": false
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "BMW: Gesamtbetriebsratschef Martin Kimmich attackiert Konzernchefs in Tarifkonflikt",
+   "summary": "Arbeitgeber und IG Metall ringen um Jobs, Gehälter und Arbeitszeiten. BMW-Gesamtbetriebsratschef Martin Kimmich greift die Autokonzernchefs hart an.",
+   "link": "https://www.spiegel.de/wirtschaft/unternehmen/bmw-gesamtbetriebsratschef-martin-kimmich-attackiert-konzernchefs-in-tarifkonflikt-a-2241c461-f01e-4162-b33c-1dd68cb2544f#ref=rss",
+   "published": "2026-11-25T12:29:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
    "paywall": false
   },
   {
@@ -378,6 +441,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ebm-papst-und-ziehl-abegg-verkauf-gefaehrdet-deutschen-technologiestandort-201709745.html",
    "published": "2026-11-24T08:56:00+00:00",
    "first_seen": "2026-11-24T11:49:35.703028+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Verkauf von Ziehl-Abegg: Gefährliche Entwicklung",
+   "summary": "Die Eigentümerfamilien zweier Unternehmen mit Produkten von Weltruf verkaufen ihr Geschäft ins Ausland. Für den Standort Deutschland sind solche Transaktionen keine gute Nachricht.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ebm-papst-und-ziehl-abegg-wieso-der-verkauf-den-deutschen-technologiestandort-gefaehrdet-201709745.html",
+   "published": "2026-11-24T08:56:00+00:00",
+   "first_seen": "2026-11-25T23:53:52.874212+00:00",
    "paywall": true
   },
   {
@@ -738,96 +810,6 @@
    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
    "published": "2026-11-21T20:17:57+00:00",
    "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "Inside Deutsche Bank: Komplexität killt Wirkung",
-   "summary": "Das Datenleck bei der Deutschen Bank konterkariert das Selbstbild des Konzerns. Auch Mathias Döpfner und Friede Springer kommen nicht gut weg. mehr...",
-   "link": "https://taz.de/Inside-Deutsche-Bank/!6223581/",
-   "published": "2026-11-21T19:11:00+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Thore Schölermann über den Wechsel vom Moderator zum McDonald's-Unternehmer",
-   "summary": "Tausche Millionenpublikum gegen Fast-Food-Franchise: Moderator Thore Schölermann betreibt nun drei McDonald’s-Filialen. Im Interview erklärt er den ungewöhnlichen Wechsel – und sagt, was die Jobs gemein haben.",
-   "link": "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
-   "published": "2026-11-21T18:29:00+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": false
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "VW, Mercedes, BMW: Wie Chinas E-Autos von der Absatzkrise in Deutschland profitieren – SPIEGEL TV",
-   "summary": "Zu hohe Arbeitskosten, Werkschließungen, Absatzkrise: Konzerne wie Volkswagen und Mercedes schwächeln, Fahrzeuge aus Chinas mischen den deutschen Automarkt auf. Unterwegs mit Gewinnern und Verlierern des Umbruchs.",
-   "link": "https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss",
-   "published": "2026-11-21T17:46:00+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Streit um EU-Haushalt: Warum Merz Costas Vorschlag ablehnt",
-   "summary": "Mit Kürzungen und einer Digitalsteuer für Tech-Konzerne will EU-Ratspräsident Costa den Haushaltsstreit ab 2028 entschärfen. Doch Merz, Paris und das EU-Parlament lehnen ab.",
-   "link": "https://www.zdfheute.de/politik/ausland/streit-eu-haushalt-costa-merz-digitalsteuer-100.html",
-   "published": "2026-11-21T16:50:00+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": false
-  },
-  {
-   "label": "taz",
-   "title": "BSW-Abgeordnete in Sachsen-Anhalt: Das freundliche Gesicht des Magdeburger Wegs",
-   "summary": "Claudia Wittig ist die prominenteste BSW-Politikerin in Sachsen-Anhalt. Ihre Irgendwie-Kooperation mit der AfD macht sie für viele zum Feindbild. mehr...",
-   "link": "https://taz.de/BSW-Abgeordnete-in-Sachsen-Anhalt/!6231081/",
-   "published": "2026-11-21T15:56:00+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
-   "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Monsanto - US-Gericht billigt Milliardenvergleich von Bayer zur Beilegung von Glyphosat-Klagen",
-   "summary": "Der Bayer-Konzern hat im ‌Rechtsstreit ⁠um mutmaßliche ⁠Krebsrisiken eines glyphosat-haltigen Unkrautvernichters einen weiteren juristischen Erfolg erzielt.",
-   "link": "https://www.deutschlandfunk.de/us-gericht-billigt-milliardenvergleich-von-bayer-zur-beilegung-von-glyphosat-klagen-100.html",
-   "published": "2026-11-21T15:27:22+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Freihandelsabkommen: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-   "summary": "Weniger Zölle auf Autos, besserer Zugang zu wichtigen Rohstoffen: Neue Abkommen mit dem weltgrößten Inselstaat sollen europäischen Unternehmen neue Chancen eröffnen. Vielleicht sogar schon 2027?",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
-   "published": "2026-11-21T14:53:11+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Indonesien: EU besiegelt Freihandelsabkommen mit Indonesien – doch Präsident Prabowo verunsichert Investoren",
-   "summary": "Der Pakt soll das schwache Geschäft mit Südostasiens größter Volkswirtschaft beleben. Doch Rohstoffnationalismus, eine politische Krise und die rekordschwache Rupiah belasten das Land.",
-   "link": "https://www.handelsblatt.com/politik/international/indonesien-eu-besiegelt-freihandelsabkommen-mit-indonesien/100271180.html",
-   "published": "2026-11-21T14:39:40+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
-   "summary": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.",
-   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
-   "published": "2026-11-21T09:39:17+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZDF",
-   "title": "Glyphosat-Klagen: US-Richter billigt Bayer-Sammelvergleich",
-   "summary": "Ein US-Gericht hat den Sammelvergleich des Bayer-Konzerns im Streit um mögliche Krebsrisiken des Unkrautvernichters Roundup mit dem Wirkstoff Glyphosat endgültig gebilligt.",
-   "link": "https://www.zdfheute.de/wirtschaft/unternehmen/bayer-glyphosat-sammelvergleich-usa-richter-100.html",
-   "published": "2026-11-21T09:30:00+00:00",
-   "first_seen": "2026-11-21T15:47:14.409424+00:00",
    "paywall": false
   }
  ]
