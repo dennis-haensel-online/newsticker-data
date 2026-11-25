@@ -1,7 +1,25 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-24T21:43:57.986932+00:00",
+ "updated": "2026-11-25T04:41:39.467896+00:00",
  "items": [
+  {
+   "label": "FAZ",
+   "title": "Künstliche Intelligenz: Deutschland hinkt beim Einkaufen mit KI hinterher",
+   "summary": "Das Einkaufen verändert sich. Künstliche Intelligenz wird für viele zum festen Berater. Allerdings werden die Tools hierzulande noch vergleichsweise wenig genutzt. Warum eigentlich?",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-beim-einkaufen-warum-deutschland-so-weit-hinterherhinkt-accg-201714762.html",
+   "published": "2026-11-25T03:25:08+00:00",
+   "first_seen": "2026-11-25T04:41:39.467896+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Digitale Einkaufshelfer: Deutschland hinkt beim Einkaufen mit KI deutlich hinterher",
+   "summary": "Das Einkaufen verändert sich. Künstliche Intelligenz wird für viele zum festen Berater. Allerdings werden die Tools hierzulande noch vergleichsweise wenig genutzt. Warum eigentlich?",
+   "link": "https://www.handelsblatt.com/politik/deutschland/digitale-einkaufshelfer-deutschland-hinkt-beim-einkaufen-mit-ki-deutlich-hinterher/100272554.html",
+   "published": "2026-11-25T03:01:05+00:00",
+   "first_seen": "2026-11-25T04:41:39.467896+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Deep Read: „KI hackt besser als ich“: Was eine Cyberattacke aufs Handelsblatt über IT-Sicherheit lehrt",
@@ -307,6 +325,15 @@
    "published": "2026-11-23T17:07:35+00:00",
    "first_seen": "2026-11-24T01:23:22.377001+00:00",
    "paywall": false
+  },
+  {
+   "label": "SZ",
+   "title": "KI-Konzerne: Was der Personenkult um den Nvidia-Chef über uns aussagt",
+   "summary": "Der Absturz und Wiederaufstieg des Jensen Huang erzählt nicht nur von Hybris. Er taugt auch als Spiegel dafür, wie bereitwillig Mitarbeiter, Investoren und Journalisten Machtmenschen überhöhen und dabei ihr Urteilsvermögen verlieren.",
+   "link": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-kuenstliche-intelligenz-macht-essay-kommentar-li.3581957",
+   "published": "2026-11-23T17:03:00+00:00",
+   "first_seen": "2026-11-25T04:41:39.467896+00:00",
+   "paywall": true
   },
   {
    "label": "Handelsblatt",
@@ -872,33 +899,6 @@
    "summary": "Die KI-Firma Anthropic startete mit einem Plus von 34 Prozent und einer Bewertung von zwei Billionen US-Dollar an die Börse. Doch schon am zweiten Tag geht es abwärts.",
    "link": "https://www.zeit.de/wirtschaft/2026-11/anthropic-boersengang-ki-unternehmen-aktie-nasdaq",
    "published": "2026-11-20T16:35:37+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "tagesschau",
-   "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-   "summary": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier.",
-   "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-   "published": "2026-11-20T16:20:16+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
-   "summary": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
-   "published": "2026-11-20T16:19:29+00:00",
-   "first_seen": "2026-11-20T18:08:57.196018+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Today: Anthropic: Kursabsturz nach Rekord-IPO, Markus Koch ordnet ein",
-   "summary": "Die KI-Aktie sackt an ihrem zweiten Handelstag deutlich ab. Wie schlagen sich die globalen Finanzmärkte? Darüber spricht Wall-Street-Reporter Markus Koch im Podcast.",
-   "link": "https://www.handelsblatt.com/audio/today/today-anthropic-kursabsturz-nach-rekord-ipo-markus-koch-ordnet-ein/100271650.html",
-   "published": "2026-11-20T16:14:11+00:00",
    "first_seen": "2026-11-20T18:08:57.196018+00:00",
    "paywall": true
   }
