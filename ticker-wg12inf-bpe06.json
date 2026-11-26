@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-26T05:59:10.698885+00:00",
+ "updated": "2026-11-26T16:32:38.018239+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Heimische Lagebild-Software: Rheinmetall und Telekom wollen US-Anbieter Palantir Konkurrenz machen",
+   "summary": "Satellitenbilder, Mobilfunk- und Radardaten in einer deutschen Cloud: Rheinmetall und die Deutsche Telekom arbeiten an einer gemeinsamen Überwachungsplattform.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/rheinmetall-und-telekom-planen-deutsche-palantir-alternative/100272988.html",
+   "published": "2026-11-26T16:12:13+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Cyberangriff: Hackerangriff – Seite von NRW.Bank vorsorglich abgeschaltet",
+   "summary": "Nach einem Hackerangriff auf den IT-Dienstleister Planet IC ist die Website der NRW.Bank sicherheitshalber offline. Kundenportale bleiben erreichbar.",
+   "link": "https://www.wiwo.de/unternehmen/banken/nrw.bank-seite-nach-hackerangriffvorsorglich-abgeschaltet/100273023.html",
+   "published": "2026-11-26T13:24:30+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
   {
    "label": "taz",
    "title": "Nutzung von Smart Glasses: Klagen gegen Überwachungsbrillen",
@@ -99,51 +117,6 @@
    "link": "https://www.handelsblatt.com/technik/it-internet/messenger-datenschutz-keine-screenshots-signal-erteilt-ki-agenten-hausverbot/100272071.html",
    "published": "2026-11-23T12:50:21+00:00",
    "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "+++ USA unter Trump +++: Größte Mehrheit für US-Demokraten seit Wahl 1992",
-   "summary": "Trump erhofft sich Gutes von Hackerangriff auf das FBI +++ Bericht: FBI untersucht mutmaßliches Eindringen in Kriminaldatenbank +++ Der Newsblog.",
-   "link": "https://www.handelsblatt.com/politik/international/usa-groesste-mehrheit-fuer-us-demokraten-seit-wahl-1992/29669594.html",
-   "published": "2026-11-22T20:01:52+00:00",
-   "first_seen": "2026-11-22T22:58:26.432128+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: Hugendubel-Onlineshop nach Hackerangriff weiter nicht erreichbar",
-   "summary": "FT-Bericht: Alice Huang hat Kontakte zu Chipschmugglern +++ IT-Panne sorgt für Verspätungen bei US-Airline Delta +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hugendubel-onlineshop-nach-hackerangriff-weiter-nicht-erreichbar-faz-200452404.html",
-   "published": "2026-11-22T19:49:37+00:00",
-   "first_seen": "2026-11-22T22:58:26.432128+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Geheimdienste und linke Szene: „Das erste Ziel von Überwachung ist Einschüchterung“",
-   "summary": "Der Verfassungsschutz hat neue Möglichkeiten Ak­ti­vis­t:in­nen auszuspähen. Was diese jetzt tun sollten, erklärt die Digitale Gesellschaft. mehr...",
-   "link": "https://taz.de/Geheimdienste-und-linke-Szene/!6230809/",
-   "published": "2026-11-22T19:31:00+00:00",
-   "first_seen": "2026-11-22T22:58:26.432128+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Business-Ticker: IG Metall weitet 24-Stunden-Streiks im Norden aus",
-   "summary": "Tesla-Ausbau: Sorge wegen Verkehr und Wohnraum um Grünheide +++ „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer +++ Hackerangriff auf Hugendubel +++ alle Neuigkeiten im Unternehmen-Liveblog",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
-   "published": "2026-11-22T08:48:00+00:00",
-   "first_seen": "2026-11-22T09:03:49.251939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Management-Moment: Alles nur Altlasten? Was ein Krisenberater zum Leak bei der Deutschen Bank sagt",
-   "summary": "Deutsche-Bank-Chef Sewing hebt nach dem Datenleck das Alter der geleakten Dokumente hervor. Eine kluge Strategie? Vor allem ein Punkt spricht dagegen.",
-   "link": "https://www.wiwo.de/erfolg/management/datenleck-bei-der-deutschen-bank-vier-lehren-fuer-manager/100271043.html",
-   "published": "2026-11-22T08:39:00+00:00",
-   "first_seen": "2026-11-22T09:03:49.251939+00:00",
    "paywall": true
   }
  ]

@@ -1,7 +1,70 @@
 {
  "id": "wg12iw-bpe17",
- "updated": "2026-11-26T05:59:10.698885+00:00",
+ "updated": "2026-11-26T16:32:38.018239+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Heimische Lagebild-Software: Rheinmetall und Telekom wollen US-Anbieter Palantir Konkurrenz machen",
+   "summary": "Satellitenbilder, Mobilfunk- und Radardaten in einer deutschen Cloud: Rheinmetall und die Deutsche Telekom arbeiten an einer gemeinsamen Überwachungsplattform.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/rheinmetall-und-telekom-planen-deutsche-palantir-alternative/100272988.html",
+   "published": "2026-11-26T16:12:13+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Drogeriemarkt: Gericht erlaubt Augenchecks bei dm – aber Kritik an Werbung",
+   "summary": "Für 14,95 Euro können dm-Kundinnen und -Kunden in manchen Filialen Augen auf Erkrankungen überprüfen lassen. Die Wettbewerbszentrale ist dagegen vor Gericht gezogen. Jetzt gibt es ein Urteil.",
+   "link": "https://www.wiwo.de/unternehmen/handel/justiz-erstes-urteil-zu-augenscreening-bei-dm-erwartet/100272844.html",
+   "published": "2026-11-26T15:00:00+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Justiz: Gericht erlaubt Augenchecks bei dm - aber Kritik an Werbung",
+   "summary": "Für 14,95 Euro können dm-Kundinnen und -Kunden in manchen Filialen Augen auf Erkrankungen überprüfen lassen. Die Wettbewerbszentrale ist dagegen vor Gericht gezogen. So lautet die Entscheidung.",
+   "link": "https://www.handelsblatt.com/politik/deutschland/justiz-gericht-erlaubt-augenchecks-bei-dm-aber-kritik-an-werbung/100272841.html",
+   "published": "2026-11-26T14:54:58+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "EU-Gipfel: Verhandlungen über EU-Haushalt: Zwei politisch heikle Vorschläge könnten einen Ausweg bieten",
+   "summary": "Die Regierungschefs wollen in Europas Sicherheit und Wettbewerbsfähigkeit investieren, ohne die nationalen Haushalte zu belasten. Wer zahlt für die Unabhängigkeit des Kontinents?",
+   "link": "https://www.handelsblatt.com/politik/international/eu-haushalt-zwei-politisch-heikle-vorschlaege-koennten-einen-ausweg-bieten/100271886.html",
+   "published": "2026-11-26T14:27:00+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SZ",
+   "title": "Autoindustrie: Warum muss man ein Jahr auf sein Elektroauto warten?",
+   "summary": "Die Nachfrage nach E-Autos ist so groß wie nie. Doch immer öfter heißt es, der Wagen sei frühestens in zwölf Monaten lieferbar. Was läuft da schief?",
+   "link": "https://www.sueddeutsche.de/wirtschaft/elektroautos-lieferzeiten-volkswagen-id-polo-e-mobilitaet-li.3581346",
+   "published": "2026-11-26T12:53:25+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Ticketverkauf: Gericht kippt Provisionsauflagen des Kartellamts für die Bahn",
+   "summary": "Die Bahn hat sich im Streit über Provisionsvorgaben beim Ticketverkauf durch alternative Plattformen vor Gericht gegen das Bundeskartellamt durchgesetzt. Was das für den Wettbewerb auf der Schiene heißt.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gericht-kippt-provisionsauflagen-deutsche-bahn-siegt-gegen-bundeskartellamt-accg-201529000.html",
+   "published": "2026-11-26T09:27:39+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZEIT",
+   "title": "Konsumklima in Deutschland: Trotz Weihnachtszeit kaufen die Deutschen kaum mehr ein",
+   "summary": "Der Konsumklima-Index liegt im aktuellen Weihnachtsgeschäft niedriger als im Vorjahr. In Deutschland wird kaum mehr eingekauft als in den vergangenen Wochen.",
+   "link": "https://www.zeit.de/wirtschaft/2026-11/konsumklima-deutschland-institut-fuer-marktentscheidungen-adventszeit-gxe",
+   "published": "2026-11-26T07:56:54+00:00",
+   "first_seen": "2026-11-26T16:32:38.018239+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Alternative zu Palantir: Berliner Firma A11 startet KI-Software gegen US-Konkurrenz",
@@ -271,24 +334,6 @@
    "published": "2026-11-23T03:05:09+00:00",
    "first_seen": "2026-11-23T03:31:19.265919+00:00",
    "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Gastkommentar: Europa muss bei der Diversifizierung Druck machen",
-   "summary": "Die EU muss ihre Marktmacht bündeln, um Abhängigkeiten zu bekämpfen. Firmen fürchten Kosten und Bürokratie, doch es geht auch anders, argumentiert Geoökonomie-Experte Tobias Gehrke.",
-   "link": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-europa-muss-bei-der-diversifizierung-druck-machen/100270690.html",
-   "published": "2026-11-22T16:32:53+00:00",
-   "first_seen": "2026-11-22T17:29:44.341447+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Slalom: Haugan siegt, Straßer abgeschlagen",
-   "summary": "Beim Alpinen Ski-Weltcup im österreichischen Gurgl besiegt der Norweger Timon Haugan die Konkurrenz. Simon Straßer belegt im Slalom den 18. Platz.",
-   "link": "https://www.zdf.de/video/kurzfassungen/wintersport-biathlon-ski-alpin-skispringen-liveticker-ergebnisse-zeitplan-livestream-100/ski-alpin-slalom-m-highlights-xxx-100",
-   "published": "2026-11-22T16:31:00+00:00",
-   "first_seen": "2026-11-22T22:58:26.432128+00:00",
-   "paywall": false
   }
  ]
 }
