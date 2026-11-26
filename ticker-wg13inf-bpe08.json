@@ -1,7 +1,52 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-25T23:53:52.874212+00:00",
+ "updated": "2026-11-26T05:59:10.698885+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Alternative zu Palantir: Berliner Firma A11 startet KI-Software gegen US-Konkurrenz",
+   "summary": "Palantir steht wegen seiner Arbeit für US-Sicherheitsbehörden und das Militär in Deutschland teils in der Kritik. Nun startet A11 eine europäische Alternative. Was sie für Unternehmen leisten soll.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/alternative-zu-palantir-berliner-firma-a11-startet-ki-software-gegen-us-konkurrenz/100272865.html",
+   "published": "2026-11-26T05:00:11+00:00",
+   "first_seen": "2026-11-26T05:59:10.698885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Nikkei, Kospi, Topix: Asiens Börsen stabilisieren sich – KI- und Chipaktien steigen teilweise stark",
+   "summary": "Nach dem Ausverkauf vom Mittwoch erholen sich Asiens Chipwerte teilweise kräftig. Es gibt erste Hoffnung auf eine Bodenbildung, doch die Unsicherheit bleibt groß.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/asiens-boersen-ki-und-chipaktien-steigen-teilweise-stark/100272835.html",
+   "published": "2026-11-26T04:02:05+00:00",
+   "first_seen": "2026-11-26T05:59:10.698885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "KI fürs Kinderzimmer: Mein Freund, der Chatbot: Experten warnen vor Kumpel-KIs",
+   "summary": "Noch ist nicht ausdiskutiert, wie man bei Kindern die Social-Media-Nutzung beschränken sollte, da flutet die nächste Welle die Kinderzimmer: Sprachmodelle. Wie werden Chatbots die Kindheit verändern?",
+   "link": "https://www.handelsblatt.com/technik/forschung-innovation/ki-fuers-kinderzimmer-mein-freund-der-chatbot-experten-warnen-vor-kumpel-kis/100272839.html",
+   "published": "2026-11-26T03:00:10+00:00",
+   "first_seen": "2026-11-26T05:59:10.698885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Asia Techonomics: Wer, zum Teufel, ist Alice?",
+   "summary": "Bei der Aufklärung der Nvidia-Affäre steht die Rolle von Alice Huang im Zentrum. Doch unabhängig vom Ergebnis: Die Spielregeln der KI-Branche haben sich geändert.",
+   "link": "https://www.handelsblatt.com/meinung/kolumnen/asia-techonomics-wer-zum-teufel-ist-alice/100272630.html",
+   "published": "2026-11-26T03:00:00+00:00",
+   "first_seen": "2026-11-26T05:59:10.698885+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+   "summary": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche Intelligenz zu befriedigen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+   "published": "2026-11-26T01:58:55+00:00",
+   "first_seen": "2026-11-26T05:59:10.698885+00:00",
+   "paywall": false
+  },
   {
    "label": "DLF",
    "title": "Raumfahrt - SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All bringen",
@@ -846,15 +891,6 @@
    "link": "https://www.wiwo.de/politik/deutschland/ki-im-e-commerce-warum-agentic-commerce-neue-monopole-schafft/100270957.html",
    "published": "2026-11-22T08:14:00+00:00",
    "first_seen": "2026-11-22T09:03:49.251939+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Jonas Grethlein im Interview: Der Preis des Feuers",
-   "summary": "Frankenstein, Faust, Musk: Prometheus gilt als Patron des technischen Fortschritts. Er bringt den Menschen das Feuer, gegen den Willen der Götter. Der Altphilologe Jonas Grethlein erklärt, was sich daraus für die KI-Gegenwart lernen lässt.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-elon-musk-bis-frankenstein-jonas-grethlein-erklaert-warum-prometheus-auch-heute-fasziniert-201639053.html",
-   "published": "2026-11-21T20:31:23+00:00",
-   "first_seen": "2026-11-21T21:20:46.884340+00:00",
    "paywall": true
   }
  ]
