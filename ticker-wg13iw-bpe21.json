@@ -1,7 +1,52 @@
 {
  "id": "wg13iw-bpe21",
- "updated": "2026-11-27T09:17:29.023451+00:00",
+ "updated": "2026-11-27T19:15:42.906415+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Quaggamuschel im Bundestag? Darum fiel das seltsame Wort",
+   "summary": "Ein seltsames Wort sorgt im Bundestag für Aufmerksamkeit: Quaggamuschel. Dahinter steckt ein jährliches Spiel, an dem sich Haushaltspolitiker beteiligen.",
+   "link": "https://www.zdfheute.de/video/panorama-bundestag-haushalt-codewort-100.html",
+   "published": "2026-11-27T17:31:00+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Modeindustrie: Wegen 138 Dollar Mindestlohn im Monat – Moderiesen verlassen Bangladesch",
+   "summary": "Wegen Streiks und steigender Kosten ziehen Modekonzerne Aufträge aus Bangladesch ab. Indien und andere asiatische Länder profitieren davon.",
+   "link": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/modeindustrie-wegen-138-dollar-mindestlohn-im-monat-moderiesen-verlassen-bangladesch/100273356.html",
+   "published": "2026-11-27T15:49:53+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "Delivery Hero: Uber sichert sich fast 90 Prozent der Anteile",
+   "summary": "Das US-Start-up Uber setzt seine aggressive Wachstumspolitik fort. Die milliardenschwere Übernahme des Berliner Essenskuriers Delivery Hero ist fast abgeschlossen.",
+   "link": "https://www.spiegel.de/wirtschaft/uber-sichert-sich-fast-90-prozent-der-anteile-von-delivery-hero-a-e3ce4aeb-2c38-4e99-9069-dc1159a62ca3#ref=rss",
+   "published": "2026-11-27T13:08:00+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": false
+  },
+  {
+   "label": "ZDF",
+   "title": "Politiker streuen Codewort in Bundestags-Debatte ein",
+   "summary": "Es ist eine Tradition im Bundestag: Haushaltspolitiker streuen in ihren Reden ein Codewort ein. In diesem Jahr ist es offenbar ein Weichtier.",
+   "link": "https://www.zdfheute.de/politik/haushalt-codewort-muschel-quaggamuschel-100.html",
+   "published": "2026-11-27T12:50:00+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Märkte: EU erlaubt Deutscher Börse Milliarden-Übernahme von Allfunds",
+   "summary": "Mit der größten Übernahme der Firmengeschichte baut die Deutsche Börse ihre Fondsgeschäfte deutlich aus. Die EU-Kommission hat keine Bedenken für den Wettbewerb.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-eu-erlaubt-deutscher-boerse-milliarden-uebernahme-von-allfunds/100273297.html",
+   "published": "2026-11-27T12:16:25+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Konjunktur: Frankreichs Wirtschaft schrumpft – Angst vor Rezession wächst",
@@ -289,33 +334,6 @@
    "published": "2026-11-24T09:09:52+00:00",
    "first_seen": "2026-11-24T11:49:35.703028+00:00",
    "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Brasiliens Wirtschaft: Lula lässt die Märkte zappeln",
-   "summary": "Ein Sparpaket sollte die Finanzmärkte beruhigen. Doch die Zweifel an Brasiliens Haushaltspolitik wachsen, während Präsident Lula die Besetzung der Schlüsselposten in der neuen Regierung hinauszögert.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lula-zoegert-brasiliens-maerkte-warten-auf-den-neuen-finanzminister-und-klare-zeichen-accg-201703313.html",
-   "published": "2026-11-24T06:15:29+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Schuldenkrise: Kann eine Schuldenbremse Frankreich retten?",
-   "summary": "2011 beschloss das Parlament in Paris eine Schuldenbremse, aber es kam nie zur Verfassungsänderung. Jetzt will Macron das Projekt zu Ende führen.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/macron-plant-schuldenbremse-fuer-frankreich-nach-deutschem-vorbild-201708541.html",
-   "published": "2026-11-23T18:13:41+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Wirtschaftskrise: Politischer Streit bremst Polen aus",
-   "summary": "Staatsschulden und Inflation steigen, der Złoty fällt auf ein Dreijahrestief. Der Grund ist der Streit von Polens Präsident mit der liberalen Regierung. mehr...",
-   "link": "https://taz.de/Wirtschaftskrise-in-Polen/!6232411/",
-   "published": "2026-11-23T13:53:00+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": false
   }
  ]
 }

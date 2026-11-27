@@ -1,7 +1,52 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-27T09:17:29.023451+00:00",
+ "updated": "2026-11-27T19:15:42.906415+00:00",
  "items": [
+  {
+   "label": "Handelsblatt",
+   "title": "Kritische Infrastruktur: Telekom und Rheinmetall planen Schutzplattform",
+   "summary": "Schutz vor Sabotage, Cyberangriffen und Drohnen: Telekom und Rheinmetall wollen Betreibern kritischer Infrastruktur eine neue Aufklärungsplattform verkaufen. Der Vertrieb soll bald starten.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/kritische-infrastruktur-telekom-und-rheinmetall-planen-schutzplattform/100273336.html",
+   "published": "2026-11-27T15:16:00+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": true
+  },
+  {
+   "label": "ZDF",
+   "title": "Lkw bleibt nach Schleudern über Autobahn-Abgrund hängen",
+   "summary": "Ein Truck gerät auf einer Autobahn in Ohio außer Kontrolle und kommt in luftiger Höhe zum Stehen. Überwachungskameras zeichnen den Unfall auf.",
+   "link": "https://www.zdfheute.de/video/panorama-ohio-truck-autobahn-unfall-100.html",
+   "published": "2026-11-27T14:50:00+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Sicherheit: Bafin-Chef warnt Finanzbranche vor Cyberangriffen",
+   "summary": "Die Gefahr wächst laut Bafin-Chef Branson besonders durch staatlich finanzierte Akteure. Ein großer Cyberangriff sei nur „eine Frage der Zeit“. Branson fordert entsprechende Vorsorge.",
+   "link": "https://www.handelsblatt.com/technik/it-internet/sicherheit-bafin-chef-warnt-finanzbranche-vor-cyberangriffen/100273317.html",
+   "published": "2026-11-27T13:28:22+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Interview: Herr Joseph, wie kamen Sie an das Datenleck der Deutschen Bank?",
+   "summary": "Der indische Investigativjournalist Josy Joseph gewann das Vertrauen eines Anwalts und brachte so die internationalen Recherchen zur Deutschen Bank ins Rollen. Ein Blick hinter die Kulissen.",
+   "link": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/inside-deutsche-bank-herr-joseph-wie-kamen-sie-an-das-datenleck-der-deutschen-bank/100272415.html",
+   "published": "2026-11-27T12:26:55+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "USA: Hacker dringen offenbar in zentrale Cloud-Plattform der US-Luftwaffe ein",
+   "summary": "Ein Angriff auf das System „Cloud One“ könnte sensible Militärdaten gefährden. Die Ermittler ziehen das Cyber Command hinzu. Das Ausmaß des möglichen Datenabflusses ist unklar.",
+   "link": "https://www.handelsblatt.com/politik/international/usa-hacker-dringen-offenbar-in-cloud-plattform-der-us-luftwaffe-ein/100273299.html",
+   "published": "2026-11-27T12:10:43+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Mutmaßlicher Hackerangriff: SAP meldet verdächtige Aktivitäten",
@@ -81,42 +126,6 @@
    "link": "https://www.handelsblatt.com/politik/international/cloud-eu-will-cloud-geschaeft-von-google-kuenftig-strenger-regulieren/100270673.html",
    "published": "2026-11-24T10:36:53+00:00",
    "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Azure: Microsofts Cloud-Chef warnt: „Die IT-Ausfälle dürften in den nächsten Monaten deutlich zunehmen“",
-   "summary": "Im Interview erklärt Scott Guthrie, warum die KI-Welle zu Computerproblemen führt, Microsoft eigene Chips entwickelt – und wie sich EU-Kunden gegen einen „Kill-Switch“ aus Washington wehren können.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/azure-microsofts-cloud-chef-erwartet-mehr-it-ausfaelle-durch-ki/100270347.html",
-   "published": "2026-11-24T08:46:37+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Chipexporte nach China: USA setzen Nvidia-Kunden Megaspeed auf schwarze Liste",
-   "summary": "Die US-Regierung versucht nach Rückkehr des Nvidia-Chefs Jensen Huang, weiteren Schaden abzuwehren. Sie sperrt die verdächtige Cloud-Firma Megaspeed für den Chiphandel.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/usa-handelssperre-schwarze-liste-megaspeed-nvidia-skandal-alice-huang-china-exportverbot",
-   "published": "2026-11-24T06:13:45+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "DLF",
-   "title": "Luftüberwachung - NATO verlegt AWACS-Flugzeug nach Polen",
-   "summary": "Als Reaktion auf den Absturz von drei russischen Marschflugkörpern in Polen verlegt die NATO ein Awacs-Überwachungsflugzeug in das Mitgliedsland des Verteidigungsbündnisses.",
-   "link": "https://www.deutschlandfunk.de/nato-verlegt-awacs-flugzeug-nach-polen-110.html",
-   "published": "2026-11-24T01:16:02+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Luftraumverletzungen: Polen wendet sich nach Raketenvorfällen an Visegrad-Gruppe",
-   "summary": "Drei russische Marschflugkörper dringen in den polnischen Luftraum ein und stürzen ab. Die Nato reagiert mit zusätzlicher Überwachung. Am Abend gibt es erneut Alarm.",
-   "link": "https://www.handelsblatt.com/politik/international/luftraumverletzungen-polen-wendet-sich-nach-raketenvorfaellen-an-visegrad-gruppe/100272209.html",
-   "published": "2026-11-23T23:34:10+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
    "paywall": true
   }
  ]

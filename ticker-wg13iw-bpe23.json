@@ -1,7 +1,25 @@
 {
  "id": "wg13iw-bpe23",
- "updated": "2026-11-27T09:17:29.023451+00:00",
+ "updated": "2026-11-27T19:15:42.906415+00:00",
  "items": [
+  {
+   "label": "ZDF",
+   "title": "Brosius-Gersdorf: Staat vernachlässigt Generationengerechtigkeit",
+   "summary": "Frauke Brosius-Gersdorf prangert bei \"Lanz\" die Ungerechtigkeit zwischen Generationen an. Der Staat fördere sie noch, etwa bei Rente und Schulden.",
+   "link": "https://www.zdfheute.de/video/politik-lanz-brosius-gersdorf-chancenungleichheit-100.html",
+   "published": "2026-11-27T12:22:00+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": false
+  },
+  {
+   "label": "taz",
+   "title": "Versorgungssicherheit und Nachhaltigkeit: Wirtschaftliche Resilienzen",
+   "summary": "Billiger Strom für die Industrie stärkt Deutschlands Abwehrkräfte gegen Krisen keineswegs. Was es braucht, ist sorgsamer Umgang mit Ressourcen. mehr...",
+   "link": "https://taz.de/Versorgungssicherheit-und-Nachhaltigkeit/!6231795/",
+   "published": "2026-11-27T10:40:00+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
+   "paywall": false
+  },
   {
    "label": "FAZ",
    "title": "Photovoltaik und Biogas: Die Energiewende ist mehr als eine Kostenrechnung",
@@ -9,6 +27,15 @@
    "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-energiewende-ist-mehr-als-eine-kostenrechnung-accg-201715367.html",
    "published": "2026-11-27T07:10:20+00:00",
    "first_seen": "2026-11-27T09:17:29.023451+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Photovoltaik und Biogas: Die Energiewende ist mehr als eine Kostenrechnung",
+   "summary": "Warum die Forderung von 26 Ökonominnen und Ökonomen nach einer möglichst kostengünstigen Stromversorgung zu kurz greift. Eine Erwiderung.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/warum-die-energiewende-mehr-als-zu-kurz-greift-accg-201715367.html",
+   "published": "2026-11-27T07:10:20+00:00",
+   "first_seen": "2026-11-27T19:15:42.906415+00:00",
    "paywall": true
   },
   {
@@ -99,60 +126,6 @@
    "link": "https://www.handelsblatt.com/politik/international/rohstoffe-frankreich-plant-strategische-reserven-fuer-seltene-erden/100272384.html",
    "published": "2026-11-24T11:09:20+00:00",
    "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZDF",
-   "title": "Deutsche Bank: Grüne Deals oder schmutzige Geschäfte?",
-   "summary": "Deutsche-Bank-Chef Sewing verspricht mehr Klimaschutz. Doch das Banken-Leak zeigt: Trotz interner Warnungen hielt die Bank an umstrittenen Geschäften mit Kohle, Gas und Öl fest.",
-   "link": "https://www.zdfheute.de/wirtschaft/deutsche-bank-klima-fossile-100.html",
-   "published": "2026-11-23T20:47:00+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Gescheiterte Klimakonferenz: Die Fossilen sind nicht der Feind",
-   "summary": "Das Klima rettet man nicht, indem man einzelne Energieträger verteufelt. Die Emissionen müssen runter, auch mit CCS und Kernkraft.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/weltklimakonferenz-in-antalya-was-aus-dem-scheitern-folgen-muss-201709336.html",
-   "published": "2026-11-23T19:54:45+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Industrie: „Müssen Abhängigkeit schnell reduzieren“: BMW und Rheinmetall planen Handelshaus für Rohstoffe",
-   "summary": "Um sich unabhängiger von China zu machen, schließen sich mehrere Unternehmen zusammen, um gemeinsam Rohstoffe zu kaufen. Auch die Bundesregierung soll eine Rolle spielen.",
-   "link": "https://www.handelsblatt.com/unternehmen/industrie/industrie-bmw-und-rheinmetall-planen-handelshaus-fuer-rohstoffe/100271875.html",
-   "published": "2026-11-23T19:33:06+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "Alternativen zur COP: Nicht der einzige Ort für Klimaschutz",
-   "summary": "Die Verhandlungen auf der Weltklimakonferenz sind in diesem Jahr gescheitert. Drei Wege, wie es mit dem Kampf gegen Erderwärmung weitergehen könnte. mehr...",
-   "link": "https://taz.de/Alternativen-zur-COP/!6232460/",
-   "published": "2026-11-23T18:45:00+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Nach dem Scheitern in Antalya: Der Klimaschutz hängt nicht an einem Abschlusspapier",
-   "summary": "Die Verpflichtungen des Pariser Abkommens zum Kampf gegen die Erderwärmungen gelten weiter. Was jetzt von den größten Emittenten zu erwarten ist.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/klimaschutz-nach-antalya-was-das-pariser-abkommen-noch-bewirkt-201708169.html",
-   "published": "2026-11-23T17:02:45+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "ZEIT",
-   "title": "Klimaschutz und globale Wirtschaft: Die COP ist gescheitert? Für die Wirtschaft genau das richtige Signal",
-   "summary": "Für Unternehmen ist dieser Klimagipfel ein Erfolg: Sie können sicher sein, dass die Staaten den Ausstieg aus den Fossilen vorantreiben – gegen Russland und Saudi-Arabien.",
-   "link": "https://www.zeit.de/wirtschaft/2026-11/klimaschutz-globale-wirtschaft-weltklimakonferenz-cop31",
-   "published": "2026-11-23T15:31:48+00:00",
-   "first_seen": "2026-11-24T01:23:22.377001+00:00",
    "paywall": true
   }
  ]
