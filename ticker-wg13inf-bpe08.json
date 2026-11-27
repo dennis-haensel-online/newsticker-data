@@ -1,7 +1,61 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-26T16:32:38.018239+00:00",
+ "updated": "2026-11-27T00:53:10.510738+00:00",
  "items": [
+  {
+   "label": "DLF",
+   "title": "Drogerie - Landgericht erlaubt Augenscreening in \"dm\"-Filialen – \"ersetzt aber nicht den Arztbesuch\"",
+   "summary": "Die Drogeriemarktkette \"dm\" darf laut einem Urteil des Landgerichts Karlsruhe KI-unterstützte Augenuntersuchungen in ihren Filialen anbieten.",
+   "link": "https://www.deutschlandfunk.de/landgericht-erlaubt-augenscreening-in-dm-filialen-ersetzt-aber-nicht-den-arztbesuch-114.html",
+   "published": "2026-11-27T00:42:14+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Stellenabbau: SAP plant einen massiven Stellenabbau",
+   "summary": "SAP erwägt den Abbau von mehr als 10.000 Stellen. Das hat auch mit der Ausrichtung auf KI zu tun. Offen ist, ob die Zahl der Mitarbeiter nach dem Abbau wirklich kleiner sein wird.",
+   "link": "https://www.handelsblatt.com/technik/ki/sap-dax-konzern-plant-massiven-stellenabbau/100273115.html",
+   "published": "2026-11-26T19:43:51+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": true
+  },
+  {
+   "label": "taz",
+   "title": "Rüstungs-Start-up Helsing im Clubkontext: Ein martialisches Spektakel",
+   "summary": "Eine Rüstungsfirma hat im Kraftwerk Berlin ein neues KI-System für das Militär vorgestellt. Dieser Clubauftritt sorgt in der Stadt für Aufregung. mehr...",
+   "link": "https://taz.de/Ruestungs-Start-up-hat-im-Kraftwerk-Berlin-ein-Militaer-KI-System-vorgestellt-Was-sollte-das/!6227819/",
+   "published": "2026-11-26T18:40:00+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": false
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Mohamed El-Erian: „Im schlimmsten Fall könnte eine Vertrauenskrise drohen, ähnlich wie damals bei Lehman Brothers“",
+   "summary": "Der US-Ökonom warnt vor den Folgen des zunehmenden Dirigismus – auch mit Blick auf Nvidia. Zugleich will er lieber Teil der chaotischen KI-Revolution sein, als abgehängt zu werden.",
+   "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/mohamed-el-erian-im-interview-das-ist-kein-kapitalismus-mehr-wie-wir-ihn-kannten/100272622.html",
+   "published": "2026-11-26T17:32:37+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Bloomberg: SAP erwägt wegen KI Abbau von 10.000 Stellen",
+   "summary": "Gericht stoppt Übernahme der irischen Bank PTSB durch Bawag +++ Chinesischer Online-Händler Temu sagt EU mehr Verbraucherschutz zu +++ Nvidia stoppt offenbar Export in vier südostasiatische Länder +++ alle Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bloomberg-sap-erwaegt-wegen-ki-abbau-von-10-000-stellen-faz-200452404.html",
+   "published": "2026-11-26T17:13:00+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": true
+  },
+  {
+   "label": "WiWo",
+   "title": "Softwarehersteller: SAP erwägt offenbar einen Abbau von rund 10 Prozent aller Stellen",
+   "summary": "Der Softwarekonzern SAP plant laut Insidern wohl den Abbau von mindestens 10.000 Stellen. Der Grund: die stärkere Ausrichtung auf KI.",
+   "link": "https://www.wiwo.de/unternehmen/dienstleister/softwarehersteller-sap-erwaegt-offenbar-einen-abbau-von-rund-10-prozent-aller-stellen/100273107.html",
+   "published": "2026-11-26T17:01:44+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Drogerie - Landgericht erlaubt Augenscreening in \"dm\"-Filialen – \"ersetzt aber nicht den Arztbesuch\"",
@@ -845,60 +899,6 @@
    "summary": "An den europäischen Börsen setzt ein vorsichtiger Erholungskurs ein. Anleger griffen bei den zuletzt angeschlagenen Tech-Aktien zu. Doch Experten bleiben skeptisch.",
    "link": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ki-sorgen-setzen-asiens-boersen-weiter-unter-druck/100271925.html",
    "published": "2026-11-23T12:08:00+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": true
-  },
-  {
-   "label": "taz",
-   "title": "OpenAI: Chefwissenschaftler schlägt gemeinsame Grenzen für KI vor",
-   "summary": "OpenAI’s Chefwissenschaftler Pachocki hat gemeinsame ‌Grenzen für KI-Modelle vorgeschlagen. Er fordert einheitliche Messgrößen für die gesamte Branche. mehr...",
-   "link": "https://taz.de/Chefwissenschaftler-von-OpenAI-schlaegt-Grenzen-und-eine-einheitliche-Messgroesse-fuer-KI-vor/!6232422/",
-   "published": "2026-11-23T10:47:00+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Bücher des Jahres: In Feindschaft vereint",
-   "summary": "Neue Publikationen sezieren das Verhältnis der KI-Chefs Sam Altman, Dario Amodei, Elon Musk und Demis Hassabis. Freunde werden die vier wohl nicht mehr.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/altman-musk-amodei-und-hassabis-in-feindschaft-vereint-buecher-des-jahres-accg-201298756.html",
-   "published": "2026-11-23T09:39:54+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": true
-  },
-  {
-   "label": "FAZ",
-   "title": "Französisches Start-up: Ist Mistral eine echte KI-Alternative für Europa?",
-   "summary": "Der französische KI-Anbieter will den Durchbruch schaffen – mit neuem Modell und großer Kampagne. Wie Erfolg versprechend ist das? Die wichtigsten Fragen und Antworten zu Europas KI-Hoffnung.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mistral-ist-dieses-unternehmen-eine-echte-ki-alternative-fuer-europa-accg-201700028.html",
-   "published": "2026-11-23T07:29:42+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Siemens-Chef Busch bescheinigt deutscher Industrie großes KI-Talent",
-   "summary": "Siemens-Chef Roland Busch sieht die deutsche Industrie im Rennen um die besten KI-Modelle gut gerüstet. Der Konkurrenzkampf mit China könnte speziell die US-Konzerne aber noch eine Menge Geld kosten.",
-   "link": "https://www.spiegel.de/wirtschaft/siemens-chef-busch-bescheinigt-deutscher-industrie-grosses-ki-talent-a-44d2b992-08e0-4848-a205-3f4743eb0244#ref=rss",
-   "published": "2026-11-23T06:43:00+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": false
-  },
-  {
-   "label": "tagesschau",
-   "title": "Welche Chancen und Risiken KI bei Bewerbungen bietet",
-   "summary": "Sowohl Bewerber als auch Unternehmen nutzen KI im Bewerbungsverfahren. So könnten sich in Zukunft Bewerbungsverfahren stark verändern. Doch besonders für die Firmen gelten dabei strenge Vorschriften. Von Max Ortmann.",
-   "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bewerbung-mit-ki-chancen-risiken-100.html",
-   "published": "2026-11-23T05:31:19+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": false
-  },
-  {
-   "label": "ZEIT",
-   "title": "Geld sparen: Wie die KI den besten Preis findet – oder ein größeres Glück",
-   "summary": "Wir haben Forscher nach Tipps gefragt, wie man Claude oder ChatGPT gewinnbringend beim Shoppen einsetzt, nicht nur in der Black Week. Auch auf ungewöhnliche Arten.",
-   "link": "https://www.zeit.de/geld/2026-11/geld-sparen-ki-shopping-chatgpt-black-week",
-   "published": "2026-11-23T04:21:23+00:00",
    "first_seen": "2026-11-23T13:52:16.593537+00:00",
    "paywall": true
   }

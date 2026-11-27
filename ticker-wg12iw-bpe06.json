@@ -1,7 +1,34 @@
 {
  "id": "wg12iw-bpe06",
- "updated": "2026-11-26T16:32:38.018239+00:00",
+ "updated": "2026-11-27T00:53:10.510738+00:00",
  "items": [
+  {
+   "label": "taz",
+   "title": "Rüstungs-Start-up Helsing im Clubkontext: Ein martialisches Spektakel",
+   "summary": "Eine Rüstungsfirma hat im Kraftwerk Berlin ein neues KI-System für das Militär vorgestellt. Dieser Clubauftritt sorgt in der Stadt für Aufregung. mehr...",
+   "link": "https://taz.de/Ruestungs-Start-up-hat-im-Kraftwerk-Berlin-ein-Militaer-KI-System-vorgestellt-Was-sollte-das/!6227819/",
+   "published": "2026-11-26T18:40:00+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "Bosch-Siemens-Hausgeräte: Streit um Sozialplan erschwert Verkauf von Brettener BSH-Werk",
+   "summary": "BSH will die Fertigung von Dunstabzugshauben in Bretten verkaufen und das Backofenwerk schließen. Über die Absicherung der Mitarbeiter gibt es bislang keine Einigung zwischen Hausgerätehersteller und Betriebsrat.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bsh-in-bretten-streit-um-sozialplan-gefaehrdet-werkverkauf-201719092.html",
+   "published": "2026-11-26T17:44:08+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": true
+  },
+  {
+   "label": "FAZ",
+   "title": "Business-Ticker: Bloomberg: SAP erwägt wegen KI Abbau von 10.000 Stellen",
+   "summary": "Gericht stoppt Übernahme der irischen Bank PTSB durch Bawag +++ Chinesischer Online-Händler Temu sagt EU mehr Verbraucherschutz zu +++ Nvidia stoppt offenbar Export in vier südostasiatische Länder +++ alle Neuigkeiten im…",
+   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bloomberg-sap-erwaegt-wegen-ki-abbau-von-10-000-stellen-faz-200452404.html",
+   "published": "2026-11-26T17:13:00+00:00",
+   "first_seen": "2026-11-27T00:53:10.510738+00:00",
+   "paywall": true
+  },
   {
    "label": "WiWo",
    "title": "Rendite: Dividenden oder Anleihen? Welche ETFs sich für regelmäßige Auszahlungen eignen",
@@ -486,42 +513,6 @@
    "link": "https://www.wiwo.de/politik/deutschland/krise-der-autoindustrie-ein-bosch-betriebsrat-ueber-masslosigkeit/100271300.html",
    "published": "2026-11-23T11:48:21+00:00",
    "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Russland: Wie ein Satellit des Start-ups Iceye aus Finnland bedrängt wurde",
-   "summary": "Ein Satellit des finnischen Raumfahrtunternehmens Iceye ist von einem russischen Satelliten bedrängt worden. Co-Gründer Rafal Modrzewski erklärt, wie seine Firma damit umgeht. Und welche Pläne er in Deutschland hat.",
-   "link": "https://www.spiegel.de/wirtschaft/russland-wie-ein-satellit-des-start-ups-iceye-aus-finnland-bedraengt-wurde-a-ff5b0831-a793-4834-b0b9-a24f353a2060#ref=rss",
-   "published": "2026-11-23T09:48:00+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": false
-  },
-  {
-   "label": "FAZ",
-   "title": "Französisches Start-up: Ist Mistral eine echte KI-Alternative für Europa?",
-   "summary": "Der französische KI-Anbieter will den Durchbruch schaffen – mit neuem Modell und großer Kampagne. Wie Erfolg versprechend ist das? Die wichtigsten Fragen und Antworten zu Europas KI-Hoffnung.",
-   "link": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mistral-ist-dieses-unternehmen-eine-echte-ki-alternative-fuer-europa-accg-201700028.html",
-   "published": "2026-11-23T07:29:42+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": true
-  },
-  {
-   "label": "SPIEGEL",
-   "title": "Autobahn GmbH: Gutachter sieht Schulden als Umgehung der Schuldenbremse",
-   "summary": "Darf die Autobahn GmbH bald eigene Schulden machen? Daran zweifelt nach SPIEGEL-Informationen erneut ein Experte. Die Reformpläne von Verkehrsminister Bilger könnten laut Opposition eine »umfassende Überarbeitung« vertragen.",
-   "link": "https://www.spiegel.de/wirtschaft/gutachter-sieht-autobahn-schulden-als-umgehung-der-schuldenbremse-a-d03e377a-694b-4f1e-8737-5f93bd1bf7b3#ref=rss",
-   "published": "2026-11-23T07:17:00+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": false
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Märkte: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
-   "summary": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu.",
-   "link": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-euphorie-weicht-furcht-sorge-vor-einem-ende-des-ki-booms-waechst/100271863.html",
-   "published": "2026-11-23T03:02:13+00:00",
-   "first_seen": "2026-11-23T03:31:19.265919+00:00",
    "paywall": true
   }
  ]
