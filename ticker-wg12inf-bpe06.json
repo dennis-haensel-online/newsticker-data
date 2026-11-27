@@ -1,7 +1,25 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-27T00:53:10.510738+00:00",
+ "updated": "2026-11-27T09:17:29.023451+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Mutmaßlicher Hackerangriff: SAP meldet verdächtige Aktivitäten",
+   "summary": "SAP meldet verdächtige Aktivitäten auf der Plattform GitHub. Berichte über einen Cyberangriff bestätigt der Dax-Konzern nicht. Was zum Vorfall bekannt ist.",
+   "link": "https://www.wiwo.de/unternehmen/it/cyberangriff-auf-sap-was-zum-vorfall-bei-github-bekannt-ist/100273210.html",
+   "published": "2026-11-27T08:53:41+00:00",
+   "first_seen": "2026-11-27T09:17:29.023451+00:00",
+   "paywall": true
+  },
+  {
+   "label": "tagesschau",
+   "title": "SAP meldet verdächtige Aktivitäten",
+   "summary": "Mitarbeiter des Softwareriesen sollen prüfen, ob sie Zugangsdaten ändern müssen: Laut einem Medienbericht gab es einen Hackerangriff auf SAP. Das aber will der DAX-Konzern nicht bestätigen.",
+   "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html",
+   "published": "2026-11-27T06:48:30+00:00",
+   "first_seen": "2026-11-27T09:17:29.023451+00:00",
+   "paywall": false
+  },
   {
    "label": "WiWo",
    "title": "Heimische Lagebild-Software: Rheinmetall und Telekom wollen US-Anbieter Palantir Konkurrenz machen",
@@ -99,24 +117,6 @@
    "link": "https://www.handelsblatt.com/politik/international/luftraumverletzungen-polen-wendet-sich-nach-raketenvorfaellen-an-visegrad-gruppe/100272209.html",
    "published": "2026-11-23T23:34:10+00:00",
    "first_seen": "2026-11-24T01:23:22.377001+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Großfusion: Mega-Deal: IT-Sicherheitsfirma Crowdstrike übernimmt Zscaler",
-   "summary": "Cyberangriffe durch KI und neue Sicherheitsbedenken beschleunigen die Konsolidierung in der IT-Branche. Jetzt gibt eine große Fusion.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/grossfusion-mega-deal-it-sicherheitsfirma-crowdstrike-uebernimmt-zscaler/100272095.html",
-   "published": "2026-11-23T13:34:35+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Messenger-Datenschutz: Keine Screenshots: Signal erteilt KI-Agenten Hausverbot",
-   "summary": "Signal will verhindern, dass Smartphone-KI private Chats über den Bildschirm erfasst. Dazu wird standardmäßig eine Sperre für Screenshots aktiviert. Was man dazu wissen muss.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/messenger-datenschutz-keine-screenshots-signal-erteilt-ki-agenten-hausverbot/100272071.html",
-   "published": "2026-11-23T12:50:21+00:00",
-   "first_seen": "2026-11-23T13:52:16.593537+00:00",
    "paywall": true
   }
  ]
