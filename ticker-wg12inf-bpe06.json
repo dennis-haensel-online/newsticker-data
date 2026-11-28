@@ -1,7 +1,16 @@
 {
  "id": "wg12inf-bpe06",
- "updated": "2026-11-28T02:22:55.117971+00:00",
+ "updated": "2026-11-28T11:08:07.204837+00:00",
  "items": [
+  {
+   "label": "WiWo",
+   "title": "Überwachungs-Software: Rheinmetalls Angriff auf Palantirs Revier",
+   "summary": "Rheinmetall und die Deutsche Telekom bündeln Satelliten-, Radar- und Mobilfunkdaten in einer deutschen Cloud. Daraus soll ein neues Sicherheitsökosystem entstehen.",
+   "link": "https://www.wiwo.de/unternehmen/industrie/palantir-rheinmetall-und-telekom-planen-deutsche-alternative/100272988.html",
+   "published": "2026-11-28T09:10:00+00:00",
+   "first_seen": "2026-11-28T11:08:07.204837+00:00",
+   "paywall": true
+  },
   {
    "label": "Handelsblatt",
    "title": "Kritische Infrastruktur: Telekom und Rheinmetall planen Schutzplattform",
@@ -108,24 +117,6 @@
    "link": "https://www.handelsblatt.com/video/politik/megaspeed-us-handelsministerium-setzt-nvidia-partner-auf-sperrliste/100272416.html",
    "published": "2026-11-24T15:38:06+00:00",
    "first_seen": "2026-11-24T21:43:57.986932+00:00",
-   "paywall": true
-  },
-  {
-   "label": "WiWo",
-   "title": "Rechenzentren, Cloud, KI: Kann die deutsche Rechenzentrums-Branche mit den US-Konzernen mithalten?",
-   "summary": "Die US-Korrektur bei KI-Aktien trifft deutsche Rechenzentren bislang kaum. Warum Cloud-Anbieter und Mittelständler andere Chancen haben.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/rechenzentren-cloud-ki-kann-deutschland-mit-den-us-konzernen-mithalten/100270916.html",
-   "published": "2026-11-24T11:21:00+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Marktmacht: Google Cloud droht die EU-Regulierung, später als Amazon und Microsoft",
-   "summary": "Die US-Riesen Microsoft und Amazon sollen bereits in diesem Jahr stärker reguliert werden. Später soll auch Google folgen. Kritiker sprechen von einer Wettbewerbsverzerrung.",
-   "link": "https://www.handelsblatt.com/politik/international/cloud-eu-will-cloud-geschaeft-von-google-kuenftig-strenger-regulieren/100270673.html",
-   "published": "2026-11-24T10:36:53+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
    "paywall": true
   }
  ]
