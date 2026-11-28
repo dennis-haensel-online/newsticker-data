@@ -1,7 +1,43 @@
 {
  "id": "wg13inf-bpe08",
- "updated": "2026-11-27T19:15:42.906415+00:00",
+ "updated": "2026-11-28T02:22:55.117971+00:00",
  "items": [
+  {
+   "label": "ZEIT",
+   "title": "Künstliche Intelligenz: OpenAI reicht im KI-Wettkampf Gegenklage gegen Apple ein",
+   "summary": "Arbeitet OpenAI an Geräten, die dem iPhone Konkurrenz machen könnten? Apple vermutet das und hat das Unternehmen verklagt. Jetzt reagiert OpenAI mit Gegenvorwürfen.",
+   "link": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/openai-apple-klage-geschaeftsgeheimnisse-mitarbeiter-abwerbung",
+   "published": "2026-11-27T23:48:52+00:00",
+   "first_seen": "2026-11-28T02:22:55.117971+00:00",
+   "paywall": true
+  },
+  {
+   "label": "Handelsblatt",
+   "title": "Künstliche Intelligenz: OpenAI reicht im Streit um KI-Technologie Gegenklage gegen Apple ein",
+   "summary": "OpenAI wirft Apple den Diebstahl von Geschäftsgeheimnissen vor. Apple hatte zuvor ähnliche Vorwürfe gegen den ChatGPT-Entwickler erhoben.",
+   "link": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-reicht-im-streit-um-ki-technologie-gegenklage-gegen-apple-ein/100273392.html",
+   "published": "2026-11-27T22:13:23+00:00",
+   "first_seen": "2026-11-28T02:22:55.117971+00:00",
+   "paywall": true
+  },
+  {
+   "label": "SPIEGEL",
+   "title": "KI: Ex-US-Arbeitsminister Robert Reich will die Macht der Techmilliardäre brechen",
+   "summary": "Robert Reich gilt als Vordenker der Demokratischen Partei und war Arbeitsminister unter Bill Clinton. Er hat einen Vorschlag, wie die Macht der KI-Milliardäre zu brechen wäre.",
+   "link": "https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss",
+   "published": "2026-11-27T19:28:00+00:00",
+   "first_seen": "2026-11-28T02:22:55.117971+00:00",
+   "paywall": false
+  },
+  {
+   "label": "FAZ",
+   "title": "KI-Flut bei Gerichten: Was ist dran am „Agentic Flooding“?",
+   "summary": "Die KI sorgt für Unmut bei Gerichte, der Ruf nach Gebühren oder Beschränkungen wird lauter. Doch Kritiker warnen vor neuen Hürden.",
+   "link": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/agentic-flooding-wie-ki-die-sozialgerichte-ueberlastet-und-welche-loesungsansaetze-es-gibt-201697218.html",
+   "published": "2026-11-27T19:26:37+00:00",
+   "first_seen": "2026-11-28T02:22:55.117971+00:00",
+   "paywall": true
+  },
   {
    "label": "DLF",
    "title": "Medien - KI-Anbieter sollen für Inhalte zahlen - Bundesregierung drängt auf neue EU-Vergütung",
@@ -865,42 +901,6 @@
    "published": "2026-11-24T11:43:01+00:00",
    "first_seen": "2026-11-24T11:49:35.703028+00:00",
    "paywall": false
-  },
-  {
-   "label": "DLF",
-   "title": "Industriekonferenz - IG Metall betont Chancen durch Künstliche Intelligenz für deutsche Industrie",
-   "summary": "Die IG Metall hat die Deutsche Industrie aufgerufen, Künstliche Intelligenz als eine Zukunftschance für den hiesigen Standort zu begreifen. Bei KI-Sprachmodellen seien zwar die Amerikaner stärker, sagte der zweite Vorsitzende der IG…",
-   "link": "https://www.deutschlandfunk.de/ig-metall-betont-chancen-durch-kuenstliche-intelligenz-fuer-deutsche-industrie-102.html",
-   "published": "2026-11-24T11:43:01+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": false
-  },
-  {
-   "label": "WiWo",
-   "title": "Rechenzentren, Cloud, KI: Kann die deutsche Rechenzentrums-Branche mit den US-Konzernen mithalten?",
-   "summary": "Die US-Korrektur bei KI-Aktien trifft deutsche Rechenzentren bislang kaum. Warum Cloud-Anbieter und Mittelständler andere Chancen haben.",
-   "link": "https://www.wiwo.de/technologie/digitale-welt/rechenzentren-cloud-ki-kann-deutschland-mit-den-us-konzernen-mithalten/100270916.html",
-   "published": "2026-11-24T11:21:00+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Studien zur KI-Nutzung: Vier von fünf nutzen KI - auch Firmen ziehen nach",
-   "summary": "Vier Jahre nach dem Start von ChatGPT nutzen bereits vier von fünf Menschen hierzulande generative KI - und auch in deutschen Unternehmen zieht die Technik verstärkt ein.",
-   "link": "https://www.handelsblatt.com/technik/it-internet/studien-zur-ki-nutzung-vier-von-fuenf-nutzen-ki-auch-firmen-ziehen-nach/100272374.html",
-   "published": "2026-11-24T11:05:49+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
-  },
-  {
-   "label": "Handelsblatt",
-   "title": "Psychische Erkrankungen: Depression: Was kann Selbsthilfe leisten?",
-   "summary": "Die meisten Menschen mit Depression versuchen, sich selbst zu helfen, zeigt eine Umfrage. Wie weit Sport, Entspannung oder KI helfen können – und wo die Grenzen liegen, erklärt ein Experte.",
-   "link": "https://www.handelsblatt.com/technik/medizin/psychische-erkrankungen-depression-was-kann-selbsthilfe-leisten/100272373.html",
-   "published": "2026-11-24T10:30:05+00:00",
-   "first_seen": "2026-11-24T11:49:35.703028+00:00",
-   "paywall": true
   }
  ]
 }
